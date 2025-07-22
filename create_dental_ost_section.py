@@ -145,10 +145,10 @@ def create_dental_ost_section():
     dental_papers_enhanced["assessment_tool"] = "rtransparent"
     dental_papers_enhanced["ost_version"] = "1.0"
 
-    # Save the enhanced dental database
+    # Save the enhanced dental database with UTF-8 encoding
     output_file = "dental_ost_database.csv"
-    dental_papers_enhanced.to_csv(output_file, index=False)
-    print(f"Dental OST database saved to: {output_file}")
+    dental_papers_enhanced.to_csv(output_file, index=False, encoding='utf-8')
+    print(f"Dental OST database saved to: {output_file} (UTF-8 encoding)")
 
     # Create a summary statistics report
     print("\n=== DENTAL OST STATISTICS ===")
@@ -201,10 +201,10 @@ def create_dental_ost_section():
     year_counts = dental_papers_enhanced["pubYear_modified"].value_counts().sort_index()
     print(year_counts)
 
-    # Save dental journals list for future use
+    # Save dental journals list for future use with UTF-8 encoding
     dental_journals_ost = dental_journals.copy()
-    dental_journals_ost.to_csv("dental_journals_ost.csv", index=False)
-    print(f"\nDental journals database saved to: dental_journals_ost.csv")
+    dental_journals_ost.to_csv("dental_journals_ost.csv", index=False, encoding='utf-8')
+    print(f"\nDental journals database saved to: dental_journals_ost.csv (UTF-8 encoding)")
 
     return dental_papers_enhanced, dental_journals_ost
 

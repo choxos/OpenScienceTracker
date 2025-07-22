@@ -222,10 +222,10 @@ def create_comprehensive_journal_database():
 
     print(f"After deduplication: {len(df_grouped)} unique journals")
 
-    # Save to CSV
+    # Save to CSV with UTF-8 encoding
     output_file = "comprehensive_journal_database.csv"
-    df_grouped.to_csv(output_file, index=False)
-    print(f"Comprehensive journal database saved to: {output_file}")
+    df_grouped.to_csv(output_file, index=False, encoding='utf-8')
+    print(f"Comprehensive journal database saved to: {output_file} (UTF-8 encoding)")
 
     # Print some statistics
     print("\n=== DATABASE STATISTICS ===")
