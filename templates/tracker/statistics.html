@@ -1,0 +1,451 @@
+{% extends 'tracker/base.html' %}
+{% load static %}
+
+{% block title %}Statistics - Open Science Tracker{% endblock %}
+
+{% block extra_head %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+    .stat-card {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 15px;
+        padding: 2rem;
+        text-align: center;
+        transition: transform 0.2s;
+        border: none;
+    }
+    .stat-card:hover {
+        transform: translateY(-5px);
+    }
+    .stat-number {
+        font-size: 3rem;
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+    }
+    .stat-label {
+        font-size: 1.1rem;
+        opacity: 0.9;
+    }
+    .indicator-card {
+        border: 1px solid #e3e6f0;
+        border-radius: 10px;
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+        transition: box-shadow 0.2s;
+    }
+    .indicator-card:hover {
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    }
+    .progress-lg {
+        height: 20px;
+        border-radius: 10px;
+    }
+    .chart-container {
+        position: relative;
+        height: 400px;
+        margin-bottom: 2rem;
+    }
+    .insight-box {
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        color: white;
+        border-radius: 15px;
+        padding: 2rem;
+        margin-bottom: 2rem;
+    }
+    .metric-highlight {
+        background: #f8f9fa;
+        border-left: 4px solid #007bff;
+        padding: 1rem;
+        margin: 1rem 0;
+        border-radius: 0 5px 5px 0;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <!-- Header -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="h2 mb-3">
+                <i class="fas fa-chart-bar me-2"></i>
+                Open Science Statistics
+            </h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Statistics</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Overall Statistics Cards -->
+    <div class="row mb-5">
+        <div class="col-lg-3 col-md-6 mb-4">
+            <div class="stat-card">
+                <div class="stat-number">{{ total_papers|floatformat:0 }}</div>
+                <div class="stat-label">Research Papers</div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 mb-4">
+            <div class="stat-card">
+                <div class="stat-number">{{ total_journals|floatformat:0 }}</div>
+                <div class="stat-label">Scientific Journals</div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 mb-4">
+            <div class="stat-card">
+                <div class="stat-number">7</div>
+                <div class="stat-label">Transparency Indicators</div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-6 mb-4">
+            <div class="stat-card">
+                <div class="stat-number">{{ country_distribution|length }}</div>
+                <div class="stat-label">Countries Represented</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Key Insights -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <div class="insight-box">
+                <h3 class="mb-3">
+                    <i class="fas fa-lightbulb me-2"></i>
+                    Key Insights from Open Science Analysis
+                </h3>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="metric-highlight bg-white text-dark">
+                            <h5 class="text-primary">Data Sharing Gap</h5>
+                            <p class="mb-0">Only {{ indicators_stats.data_sharing.percentage|floatformat:1 }}% of papers share research data, indicating significant room for improvement in open data practices.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="metric-highlight bg-white text-dark">
+                            <h5 class="text-success">Strong COI Disclosure</h5>
+                            <p class="mb-0">{{ indicators_stats.coi_disclosure.percentage|floatformat:1 }}% of papers include conflict of interest disclosures, showing good adherence to ethical guidelines.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="metric-highlight bg-white text-dark">
+                            <h5 class="text-warning">Code Sharing Critical</h5>
+                            <p class="mb-0">{{ indicators_stats.code_sharing.percentage|floatformat:1 }}% code sharing rate represents the most urgent area for transparency improvement.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Transparency Indicators -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <h2 class="mb-4">
+                <i class="fas fa-eye me-2"></i>
+                Transparency Indicators Analysis
+            </h2>
+        </div>
+        
+        {% for key, stats in indicators_stats.items %}
+        <div class="col-lg-6 mb-4">
+            <div class="indicator-card">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h5 class="mb-0">
+                        {% if key == 'data_sharing' %}<i class="fas fa-database text-info me-2"></i>
+                        {% elif key == 'code_sharing' %}<i class="fas fa-code text-warning me-2"></i>
+                        {% elif key == 'coi_disclosure' %}<i class="fas fa-balance-scale text-success me-2"></i>
+                        {% elif key == 'funding_disclosure' %}<i class="fas fa-money-bill-wave text-primary me-2"></i>
+                        {% else %}<i class="fas fa-clipboard-list text-secondary me-2"></i>
+                        {% endif %}
+                        {{ stats.label }}
+                    </h5>
+                    <span class="badge bg-primary fs-6">{{ stats.count }} papers</span>
+                </div>
+                
+                <div class="progress progress-lg mb-2">
+                    <div class="progress-bar 
+                        {% if stats.percentage >= 70 %}bg-success
+                        {% elif stats.percentage >= 40 %}bg-warning
+                        {% else %}bg-danger{% endif %}" 
+                        role="progressbar" 
+                        style="width: {{ stats.percentage }}%"
+                        aria-valuenow="{{ stats.percentage }}" 
+                        aria-valuemin="0" 
+                        aria-valuemax="100">
+                    </div>
+                </div>
+                
+                <div class="d-flex justify-content-between">
+                    <span class="text-muted">{{ stats.percentage|floatformat:1 }}% of papers</span>
+                    <span class="fw-bold">
+                        {% if stats.percentage >= 70 %}Excellent
+                        {% elif stats.percentage >= 40 %}Good
+                        {% elif stats.percentage >= 10 %}Poor
+                        {% else %}Critical
+                        {% endif %}
+                    </span>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Charts Section -->
+    <div class="row mb-5">
+        <!-- Journal Distribution by Country -->
+        <div class="col-lg-6 mb-4">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-globe me-2"></i>
+                        Journal Distribution by Country
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="chart-container">
+                        <canvas id="countryChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Papers by Year -->
+        <div class="col-lg-6 mb-4">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-calendar me-2"></i>
+                        Papers Published by Year
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="chart-container">
+                        <canvas id="yearlyChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Transparency Trends Chart -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-chart-line me-2"></i>
+                        Transparency Score Trends Over Time
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="chart-container">
+                        <canvas id="transparencyTrendChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Summary Statistics Table -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-table me-2"></i>
+                        Detailed Statistics Summary
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Transparency Indicator</th>
+                                    <th>Papers with Indicator</th>
+                                    <th>Percentage</th>
+                                    <th>Assessment</th>
+                                    <th>Recommendation</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for key, stats in indicators_stats.items %}
+                                <tr>
+                                    <td>
+                                        <strong>{{ stats.label }}</strong>
+                                    </td>
+                                    <td>{{ stats.count|floatformat:0 }}</td>
+                                    <td>
+                                        <span class="badge 
+                                            {% if stats.percentage >= 70 %}bg-success
+                                            {% elif stats.percentage >= 40 %}bg-warning
+                                            {% else %}bg-danger{% endif %}">
+                                            {{ stats.percentage|floatformat:1 }}%
+                                        </span>
+                                    </td>
+                                    <td>
+                                        {% if stats.percentage >= 70 %}
+                                            <i class="fas fa-check-circle text-success"></i> Excellent
+                                        {% elif stats.percentage >= 40 %}
+                                            <i class="fas fa-exclamation-triangle text-warning"></i> Good
+                                        {% elif stats.percentage >= 10 %}
+                                            <i class="fas fa-times-circle text-danger"></i> Poor
+                                        {% else %}
+                                            <i class="fas fa-exclamation-circle text-danger"></i> Critical
+                                        {% endif %}
+                                    </td>
+                                    <td class="small text-muted">
+                                        {% if stats.percentage < 10 %}
+                                            Urgent action needed - implement policies and training
+                                        {% elif stats.percentage < 40 %}
+                                            Improvement required - provide better guidelines
+                                        {% elif stats.percentage < 70 %}
+                                            Good progress - continue current efforts
+                                        {% else %}
+                                            Maintain current standards and practices
+                                        {% endif %}
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Call to Action -->
+    <div class="row">
+        <div class="col-12">
+            <div class="card bg-light">
+                <div class="card-body text-center">
+                    <h4 class="card-title">Take Action for Open Science</h4>
+                    <p class="card-text">
+                        Help improve transparency in scientific research by encouraging data sharing, 
+                        code availability, and proper disclosure practices.
+                    </p>
+                    <div class="d-flex justify-content-center gap-3">
+                        <a href="{% url 'tracker:paper_list' %}" class="btn btn-primary">
+                            <i class="fas fa-file-alt me-1"></i> Browse Papers
+                        </a>
+                        <a href="{% url 'tracker:journal_list' %}" class="btn btn-outline-primary">
+                            <i class="fas fa-book me-1"></i> View Journals
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Chart Scripts -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Country Distribution Chart
+    const countryCtx = document.getElementById('countryChart').getContext('2d');
+    new Chart(countryCtx, {
+        type: 'doughnut',
+        data: {
+            labels: [
+                {% for country in country_distribution %}
+                '{{ country.country|default:"Unknown" }}'{% if not forloop.last %},{% endif %}
+                {% endfor %}
+            ],
+            datasets: [{
+                data: [
+                    {% for country in country_distribution %}
+                    {{ country.count }}{% if not forloop.last %},{% endif %}
+                    {% endfor %}
+                ],
+                backgroundColor: [
+                    '#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF',
+                    '#FF9F40', '#FF6384', '#C9CBCF', '#4BC0C0', '#FF6384'
+                ]
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'bottom'
+                }
+            }
+        }
+    });
+
+    // Yearly Distribution Chart
+    const yearlyCtx = document.getElementById('yearlyChart').getContext('2d');
+    new Chart(yearlyCtx, {
+        type: 'bar',
+        data: {
+            labels: [
+                {% for year_data in yearly_distribution %}
+                '{{ year_data.pub_year }}'{% if not forloop.last %},{% endif %}
+                {% endfor %}
+            ],
+            datasets: [{
+                label: 'Papers Published',
+                data: [
+                    {% for year_data in yearly_distribution %}
+                    {{ year_data.count }}{% if not forloop.last %},{% endif %}
+                    {% endfor %}
+                ],
+                backgroundColor: '#36A2EB',
+                borderColor: '#36A2EB',
+                borderWidth: 1
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+
+    // Transparency Trend Chart
+    const trendCtx = document.getElementById('transparencyTrendChart').getContext('2d');
+    new Chart(trendCtx, {
+        type: 'line',
+        data: {
+            labels: [
+                {% for year_data in yearly_distribution %}
+                '{{ year_data.pub_year }}'{% if not forloop.last %},{% endif %}
+                {% endfor %}
+            ],
+            datasets: [{
+                label: 'Average Transparency Score',
+                data: [
+                    {% for year_data in yearly_distribution %}
+                    {{ year_data.avg_transparency|default:0|floatformat:2 }}{% if not forloop.last %},{% endif %}
+                    {% endfor %}
+                ],
+                borderColor: '#4BC0C0',
+                backgroundColor: 'rgba(75, 192, 192, 0.1)',
+                fill: true,
+                tension: 0.4
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    max: 7
+                }
+            }
+        }
+    });
+});
+</script>
+{% endblock %} 
