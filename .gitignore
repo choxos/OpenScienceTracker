@@ -38,6 +38,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Virtual environment for OST
+ost_env/
+
 # IDE files
 .vscode/
 .idea/

@@ -51,10 +51,12 @@ OST tracks the following evidence-based transparency indicators:
 
 ### Prerequisites
 - Python 3.8+
-- Django 5.1+
-- pandas, numpy for data processing
+- pip (Python package manager)
+- Git
 
 ### Installation
+
+#### Option 1: Automated Setup (Recommended)
 
 1. **Clone the repository**
    ```bash
@@ -62,19 +64,19 @@ OST tracks the following evidence-based transparency indicators:
    cd OpenScienceTracker
    ```
 
-2. **Install dependencies**
+2. **Run the setup script**
    ```bash
-   pip install django pandas numpy scipy matplotlib seaborn plotly
+   ./setup.sh
    ```
 
-3. **Setup database**
+3. **Activate the virtual environment**
+   ```bash
+   ./activate.sh
+   ```
+
+4. **Setup database**
    ```bash
    python manage.py migrate
-   ```
-
-4. **Import data** (if you have the dental transparency dataset)
-   ```bash
-   python import_dental_data_fixed.py
    ```
 
 5. **Create admin user**
@@ -87,7 +89,34 @@ OST tracks the following evidence-based transparency indicators:
    python manage.py runserver
    ```
 
-7. **Access the application**
+#### Option 2: Manual Setup
+
+1. **Clone and setup virtual environment**
+   ```bash
+   git clone https://github.com/your-username/OpenScienceTracker.git
+   cd OpenScienceTracker
+   python3 -m venv ost_env
+   source ost_env/bin/activate  # On Windows: ost_env\Scripts\activate
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install --upgrade pip
+   pip install -r requirements.txt
+   ```
+
+3. **Setup database and create admin user**
+   ```bash
+   python manage.py migrate
+   python manage.py createsuperuser
+   ```
+
+4. **Run the development server**
+   ```bash
+   python manage.py runserver
+   ```
+
+### Access the Application
    - Web interface: http://localhost:8000
    - Admin interface: http://localhost:8000/admin
 
