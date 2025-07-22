@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-ost-dev-key-change-in
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get('DEBUG', 'True').lower() in ['true', '1', 'yes']
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '*.railway.app', '.railway.app', 'opensciencetracker.up.railway.app']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '*.railway.app', '.railway.app', 'opensciencetracker.up.railway.app', 'ost.xeradb.com']
 
 
 # Application definition
