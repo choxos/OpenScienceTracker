@@ -1,0 +1,336 @@
+{% extends 'tracker/base.html' %}
+{% load static %}
+
+{% block title %}Journals - Open Science Tracker{% endblock %}
+
+{% block extra_head %}
+<style>
+    .journal-card {
+        transition: transform 0.2s, box-shadow 0.2s;
+        border: 1px solid #dee2e6;
+    }
+    .journal-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .subject-badge {
+        font-size: 0.75rem;
+        margin: 0.125rem;
+    }
+    .transparency-meter {
+        height: 8px;
+        border-radius: 4px;
+        overflow: hidden;
+        background-color: #e9ecef;
+    }
+    .transparency-bar {
+        height: 100%;
+        transition: width 0.3s ease;
+    }
+    .filter-section {
+        background-color: #f8f9fa;
+        border-radius: 0.375rem;
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+    }
+    .stat-item {
+        background: white;
+        border-radius: 0.25rem;
+        padding: 0.5rem;
+        text-align: center;
+        border: 1px solid #e9ecef;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <!-- Header -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="h2 mb-3">
+                <i class="fas fa-book-open me-2"></i>
+                Scientific Journals
+            </h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Journals</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Search and Filters -->
+    <div class="filter-section">
+        <form method="get" class="row g-3">
+            <!-- Search -->
+            <div class="col-md-6">
+                <label for="search" class="form-label">Search Journals</label>
+                <div class="input-group">
+                    <input type="text" class="form-control" id="search" name="search" 
+                           placeholder="Journal name, abbreviation, or publisher..." 
+                           value="{{ request.GET.search }}">
+                    <button class="btn btn-outline-secondary" type="submit">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Country Filter -->
+            <div class="col-md-3">
+                <label for="country" class="form-label">Country</label>
+                <select class="form-select" id="country" name="country">
+                    <option value="">All Countries</option>
+                    <option value="United States" {% if request.GET.country == "United States" %}selected{% endif %}>United States</option>
+                    <option value="England" {% if request.GET.country == "England" %}selected{% endif %}>England</option>
+                    <option value="Germany" {% if request.GET.country == "Germany" %}selected{% endif %}>Germany</option>
+                    <option value="Netherlands" {% if request.GET.country == "Netherlands" %}selected{% endif %}>Netherlands</option>
+                    <option value="Switzerland" {% if request.GET.country == "Switzerland" %}selected{% endif %}>Switzerland</option>
+                    <option value="France" {% if request.GET.country == "France" %}selected{% endif %}>France</option>
+                    <option value="Spain" {% if request.GET.country == "Spain" %}selected{% endif %}>Spain</option>
+                    <option value="Brazil" {% if request.GET.country == "Brazil" %}selected{% endif %}>Brazil</option>
+                </select>
+            </div>
+
+            <!-- Subject Filter -->
+            <div class="col-md-3">
+                <label for="subject" class="form-label">Subject</label>
+                <select class="form-select" id="subject" name="subject">
+                    <option value="">All Subjects</option>
+                    <option value="Dentistry" {% if request.GET.subject == "Dentistry" %}selected{% endif %}>Dentistry</option>
+                    <option value="Orthodontics" {% if request.GET.subject == "Orthodontics" %}selected{% endif %}>Orthodontics</option>
+                    <option value="Medicine" {% if request.GET.subject == "Medicine" %}selected{% endif %}>Medicine</option>
+                    <option value="Surgery" {% if request.GET.subject == "Surgery" %}selected{% endif %}>Surgery</option>
+                    <option value="Pediatrics" {% if request.GET.subject == "Pediatrics" %}selected{% endif %}>Pediatrics</option>
+                    <option value="Cardiology" {% if request.GET.subject == "Cardiology" %}selected{% endif %}>Cardiology</option>
+                    <option value="Neurology" {% if request.GET.subject == "Neurology" %}selected{% endif %}>Neurology</option>
+                </select>
+            </div>
+
+            <!-- Sort Options -->
+            <div class="col-md-6">
+                <label for="order_by" class="form-label">Sort By</label>
+                <select class="form-select" id="order_by" name="order_by" onchange="this.form.submit()">
+                    <option value="title_abbreviation" {% if request.GET.order_by == "title_abbreviation" or not request.GET.order_by %}selected{% endif %}>
+                        Journal Name (A-Z)
+                    </option>
+                    <option value="-paper_count" {% if request.GET.order_by == "-paper_count" %}selected{% endif %}>
+                        Paper Count (High to Low)
+                    </option>
+                    <option value="-avg_transparency" {% if request.GET.order_by == "-avg_transparency" %}selected{% endif %}>
+                        Transparency Score (High to Low)
+                    </option>
+                    <option value="country" {% if request.GET.order_by == "country" %}selected{% endif %}>
+                        Country (A-Z)
+                    </option>
+                    <option value="publisher" {% if request.GET.order_by == "publisher" %}selected{% endif %}>
+                        Publisher (A-Z)
+                    </option>
+                </select>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="col-md-6">
+                <label class="form-label">&nbsp;</label>
+                <div class="d-flex gap-2">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-filter me-1"></i> Filter
+                    </button>
+                    <a href="{% url 'tracker:journal_list' %}" class="btn btn-outline-secondary">
+                        <i class="fas fa-times me-1"></i> Clear
+                    </a>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <!-- Results Summary -->
+    <div class="row mb-3">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center">
+                <p class="text-muted mb-0">
+                    {% if page_obj %}
+                        Showing {{ page_obj.start_index }}-{{ page_obj.end_index }} of {{ page_obj.paginator.count }} journals
+                    {% else %}
+                        Showing {{ journals.count }} journals
+                    {% endif %}
+                </p>
+                <div class="d-flex gap-2">
+                    <a href="{% url 'tracker:statistics' %}" class="btn btn-outline-info btn-sm">
+                        <i class="fas fa-chart-bar me-1"></i> View Statistics
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Journal Cards -->
+    <div class="row">
+        {% for journal in journals %}
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card journal-card h-100">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <h5 class="card-title mb-1">
+                            <a href="{% url 'tracker:journal_detail' journal.pk %}" class="text-decoration-none">
+                                {{ journal.title_abbreviation|default:"Unknown" }}
+                            </a>
+                        </h5>
+                        <small class="text-muted">{{ journal.country|default:"Unknown" }}</small>
+                    </div>
+                    
+                    <h6 class="card-subtitle mb-3 text-muted small">
+                        {{ journal.title_full|truncatechars:60 }}
+                    </h6>
+
+                    <!-- Key Statistics -->
+                    <div class="row mb-3">
+                        <div class="col-6">
+                            <div class="stat-item">
+                                <div class="fw-bold text-primary">{{ journal.paper_count|default:0 }}</div>
+                                <small class="text-muted">Papers</small>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="stat-item">
+                                <div class="fw-bold text-success">
+                                    {% if journal.avg_transparency %}
+                                        {{ journal.avg_transparency|floatformat:1 }}/7
+                                    {% else %}
+                                        N/A
+                                    {% endif %}
+                                </div>
+                                <small class="text-muted">Transparency</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Transparency Meter -->
+                    {% if journal.avg_transparency %}
+                    <div class="mb-3">
+                        <div class="d-flex justify-content-between align-items-center mb-1">
+                            <small class="text-muted">Transparency Score</small>
+                            <small class="text-muted">{{ journal.avg_transparency|floatformat:1 }}/7</small>
+                        </div>
+                        <div class="transparency-meter">
+                            <div class="transparency-bar 
+                                {% if journal.avg_transparency >= 5 %}bg-success
+                                {% elif journal.avg_transparency >= 3 %}bg-warning
+                                {% else %}bg-danger{% endif %}"
+                                style="width: {% widthratio journal.avg_transparency 7 100 %}%">
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+
+                    <!-- Journal Details -->
+                    <div class="small text-muted mb-3">
+                        {% if journal.publisher %}
+                        <p class="mb-1">
+                            <i class="fas fa-building me-1"></i>
+                            {{ journal.publisher|truncatechars:40 }}
+                        </p>
+                        {% endif %}
+                        
+                        {% if journal.language %}
+                        <p class="mb-1">
+                            <i class="fas fa-language me-1"></i>
+                            {{ journal.language }}
+                        </p>
+                        {% endif %}
+
+                        {% if journal.issn_print or journal.issn_electronic %}
+                        <p class="mb-1">
+                            <i class="fas fa-barcode me-1"></i>
+                            {% if journal.issn_print %}Print: {{ journal.issn_print }}{% endif %}
+                            {% if journal.issn_electronic %}Electronic: {{ journal.issn_electronic }}{% endif %}
+                        </p>
+                        {% endif %}
+                    </div>
+
+                    <!-- Subject Terms -->
+                    {% if journal.broad_subject_terms %}
+                    <div class="mb-3">
+                        <span class="badge bg-secondary subject-badge">{{ journal.broad_subject_terms|truncatechars:60 }}</span>
+                    </div>
+                    {% endif %}
+                </div>
+
+                <!-- Card Footer -->
+                <div class="card-footer bg-transparent">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <a href="{% url 'tracker:journal_detail' journal.pk %}" class="btn btn-sm btn-outline-primary">
+                            <i class="fas fa-eye me-1"></i> View Details
+                        </a>
+                        <a href="{% url 'tracker:paper_list' %}?journal={{ journal.pk }}" class="btn btn-sm btn-outline-success">
+                            <i class="fas fa-file-alt me-1"></i> View Papers
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% empty %}
+        <div class="col-12">
+            <div class="text-center py-5">
+                <i class="fas fa-search fa-3x text-muted mb-3"></i>
+                <h4 class="text-muted">No journals found</h4>
+                <p class="text-muted">Try adjusting your search criteria or filters.</p>
+                <a href="{% url 'tracker:journal_list' %}" class="btn btn-primary">
+                    <i class="fas fa-refresh me-1"></i> View All Journals
+                </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Pagination -->
+    {% if page_obj %}
+    <div class="row mt-4">
+        <div class="col-12">
+            <nav aria-label="Journal pagination">
+                <ul class="pagination justify-content-center">
+                    {% if page_obj.has_previous %}
+                    <li class="page-item">
+                        <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page=1">
+                            <i class="fas fa-angle-double-left"></i>
+                        </a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page={{ page_obj.previous_page_number }}">
+                            <i class="fas fa-angle-left"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+
+                    {% for page_num in page_obj.paginator.page_range %}
+                        {% if page_num == page_obj.number %}
+                        <li class="page-item active">
+                            <span class="page-link">{{ page_num }}</span>
+                        </li>
+                        {% elif page_num > page_obj.number|add:'-3' and page_num < page_obj.number|add:'3' %}
+                        <li class="page-item">
+                            <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page={{ page_num }}">{{ page_num }}</a>
+                        </li>
+                        {% endif %}
+                    {% endfor %}
+
+                    {% if page_obj.has_next %}
+                    <li class="page-item">
+                        <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page={{ page_obj.next_page_number }}">
+                            <i class="fas fa-angle-right"></i>
+                        </a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page={{ page_obj.paginator.num_pages }}">
+                            <i class="fas fa-angle-double-right"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+                </ul>
+            </nav>
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %} 
