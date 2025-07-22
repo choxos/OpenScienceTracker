@@ -75,12 +75,26 @@ class Paper(models.Model):
     year_first_pub = models.IntegerField(null=True, blank=True)
     month_first_pub = models.IntegerField(null=True, blank=True)
     
-    # Journal metrics (from original data)
+    # Europe PMC publication details
+    issue = models.CharField(max_length=20, null=True, blank=True, help_text="Journal issue number")
+    page_info = models.CharField(max_length=50, null=True, blank=True, help_text="Page information")
+    journal_volume = models.CharField(max_length=20, null=True, blank=True, help_text="Journal volume")
+    pub_type = models.CharField(max_length=200, null=True, blank=True, help_text="Publication type from Europe PMC")
+    
+    # Europe PMC availability flags
+    is_open_access = models.BooleanField(default=False, help_text="Open access availability")
+    in_epmc = models.BooleanField(default=False, help_text="Available in Europe PMC")
+    in_pmc = models.BooleanField(default=False, help_text="Available in PMC")
+    has_pdf = models.BooleanField(default=False, help_text="PDF available")
+    
+    # Journal metrics and categorization
     journal_issn = models.CharField(max_length=9, null=True, blank=True)
     jif2020 = models.FloatField(null=True, blank=True, help_text="Journal Impact Factor 2020")
     scimago_publisher = models.CharField(max_length=500, null=True, blank=True)
+    broad_subject_category = models.CharField(max_length=200, null=True, blank=True, db_index=True, 
+                                            help_text="Primary broad subject category from NLM")
     
-    # Transparency indicators (5 core + 2 additional)
+    # Transparency indicators (5 core + 3 additional)
     is_open_data = models.BooleanField(default=False, help_text="Data sharing available")
     is_open_code = models.BooleanField(default=False, help_text="Code sharing available")
     is_coi_pred = models.BooleanField(default=False, help_text="Conflict of interest disclosure")
@@ -101,8 +115,8 @@ class Paper(models.Model):
     # Calculated transparency metrics
     transparency_score = models.IntegerField(
         default=0,
-        validators=[MinValueValidator(0), MaxValueValidator(7)],
-        help_text="Total transparency score (0-7)"
+        validators=[MinValueValidator(0), MaxValueValidator(8)],
+        help_text="Total transparency score (0-8)"
     )
     transparency_score_pct = models.FloatField(
         default=0.0,
@@ -133,7 +147,7 @@ class Paper(models.Model):
         return f"{self.title[:50]} ({self.pub_year})"
     
     def calculate_transparency_score(self):
-        """Calculate transparency score based on 7 indicators"""
+        """Calculate transparency score based on 8 indicators"""
         score = 0
         indicators = [
             self.is_open_data,
@@ -141,9 +155,10 @@ class Paper(models.Model):
             self.is_coi_pred,
             self.is_fund_pred,
             self.is_register_pred,
+            self.is_open_access,  # New Open Access indicator
         ]
         
-        # Count basic 5 indicators
+        # Count core 6 indicators (5 original + Open Access)
         score += sum(1 for indicator in indicators if indicator)
         
         # Add additional indicators if available

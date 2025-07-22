@@ -48,6 +48,8 @@ class HomeView(TemplateView):
                                            max(papers.count(), 1)) * 100
         context['protocol_registration_pct'] = (papers.filter(is_register_pred=True).count() / 
                                                max(papers.count(), 1)) * 100
+        context['open_access_pct'] = (papers.filter(is_open_access=True).count() / 
+                                     max(papers.count(), 1)) * 100
         
         # Recent papers
         context['recent_papers'] = papers.order_by('-created_at')[:5]
@@ -292,6 +294,7 @@ class StatisticsView(TemplateView):
             ('coi_disclosure', 'is_coi_pred', 'COI Disclosure'),
             ('funding_disclosure', 'is_fund_pred', 'Funding Disclosure'),
             ('protocol_registration', 'is_register_pred', 'Protocol Registration'),
+            ('open_access', 'is_open_access', 'Open Access'),
         ]
         
         for key, field, label in indicators:
@@ -315,6 +318,20 @@ class StatisticsView(TemplateView):
             count=Count('id'),
             avg_transparency=Avg('transparency_score')
         ).order_by('pub_year')
+        
+        # Category-based statistics
+        context['category_distribution'] = papers.exclude(
+            broad_subject_category__isnull=True
+        ).values('broad_subject_category').annotate(
+            count=Count('id'),
+            avg_transparency=Avg('transparency_score'),
+            data_sharing_pct=Count('id', filter=Q(is_open_data=True)) * 100.0 / Count('id'),
+            code_sharing_pct=Count('id', filter=Q(is_open_code=True)) * 100.0 / Count('id'),
+            coi_disclosure_pct=Count('id', filter=Q(is_coi_pred=True)) * 100.0 / Count('id'),
+            funding_disclosure_pct=Count('id', filter=Q(is_fund_pred=True)) * 100.0 / Count('id'),
+            protocol_registration_pct=Count('id', filter=Q(is_register_pred=True)) * 100.0 / Count('id'),
+            open_access_pct=Count('id', filter=Q(is_open_access=True)) * 100.0 / Count('id'),
+        ).order_by('-count')[:10]  # Top 10 categories
         
         return context
 

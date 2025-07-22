@@ -75,6 +75,9 @@ coverage.xml
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Large data files (too big for GitHub)
+papers/medicaltransparency_opendata.csv
+
 # pyenv
 .python-version
 

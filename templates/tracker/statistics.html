@@ -319,6 +319,91 @@
         </div>
     </div>
 
+    <!-- Category-Based Statistics -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-tags me-2"></i>
+                        Transparency by Subject Category
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead class="table-dark">
+                                <tr>
+                                    <th>Subject Category</th>
+                                    <th>Papers</th>
+                                    <th>Avg Score</th>
+                                    <th>Data Sharing</th>
+                                    <th>Code Sharing</th>
+                                    <th>COI Disclosure</th>
+                                    <th>Funding</th>
+                                    <th>Registration</th>
+                                    <th>Open Access</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for category in category_distribution %}
+                                <tr>
+                                    <td>
+                                        <span class="badge bg-primary">{{ category.broad_subject_category }}</span>
+                                    </td>
+                                    <td>{{ category.count|floatformat:0 }}</td>
+                                    <td>
+                                        <div class="d-flex align-items-center">
+                                            <span class="me-2">{{ category.avg_transparency|floatformat:1 }}/8</span>
+                                            <div class="progress flex-grow-1" style="height: 8px;">
+                                                <div class="progress-bar" style="width: {% widthratio category.avg_transparency 8 100 %}%"></div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <span class="badge bg-{% if category.data_sharing_pct > 5 %}success{% elif category.data_sharing_pct > 1 %}warning{% else %}danger{% endif %}">
+                                            {{ category.data_sharing_pct|floatformat:1 }}%
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="badge bg-{% if category.code_sharing_pct > 5 %}success{% elif category.code_sharing_pct > 1 %}warning{% else %}danger{% endif %}">
+                                            {{ category.code_sharing_pct|floatformat:1 }}%
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="badge bg-{% if category.coi_disclosure_pct > 70 %}success{% elif category.coi_disclosure_pct > 50 %}warning{% else %}danger{% endif %}">
+                                            {{ category.coi_disclosure_pct|floatformat:1 }}%
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="badge bg-{% if category.funding_disclosure_pct > 70 %}success{% elif category.funding_disclosure_pct > 50 %}warning{% else %}danger{% endif %}">
+                                            {{ category.funding_disclosure_pct|floatformat:1 }}%
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="badge bg-{% if category.protocol_registration_pct > 20 %}success{% elif category.protocol_registration_pct > 10 %}warning{% else %}danger{% endif %}">
+                                            {{ category.protocol_registration_pct|floatformat:1 }}%
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="badge bg-{% if category.open_access_pct > 80 %}success{% elif category.open_access_pct > 60 %}warning{% else %}danger{% endif %}">
+                                            {{ category.open_access_pct|floatformat:1 }}%
+                                        </span>
+                                    </td>
+                                </tr>
+                                {% empty %}
+                                <tr>
+                                    <td colspan="9" class="text-center text-muted">No categorized data available</td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Call to Action -->
     <div class="row">
         <div class="col-12">

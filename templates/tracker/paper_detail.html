@@ -154,6 +154,59 @@
                 </div>
             </div>
 
+            <!-- Publication Details -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="fas fa-file-alt me-2"></i> Publication Details</h5>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            {% if paper.journal_volume %}
+                            <p class="mb-2"><strong>Volume:</strong> {{ paper.journal_volume }}</p>
+                            {% endif %}
+                            {% if paper.issue %}
+                            <p class="mb-2"><strong>Issue:</strong> {{ paper.issue }}</p>
+                            {% endif %}
+                            {% if paper.page_info %}
+                            <p class="mb-2"><strong>Pages:</strong> {{ paper.page_info }}</p>
+                            {% endif %}
+                            {% if paper.pub_type %}
+                            <p class="mb-2"><strong>Publication Type:</strong> {{ paper.pub_type }}</p>
+                            {% endif %}
+                        </div>
+                        <div class="col-md-6">
+                            {% if paper.broad_subject_category %}
+                            <p class="mb-2"><strong>Subject Category:</strong> 
+                                <span class="badge bg-primary">{{ paper.broad_subject_category }}</span>
+                            </p>
+                            {% endif %}
+                            <p class="mb-2"><strong>Available in Europe PMC:</strong> 
+                                {% if paper.in_epmc %}
+                                    <span class="badge bg-success">Yes</span>
+                                {% else %}
+                                    <span class="badge bg-secondary">No</span>
+                                {% endif %}
+                            </p>
+                            <p class="mb-2"><strong>Available in PMC:</strong> 
+                                {% if paper.in_pmc %}
+                                    <span class="badge bg-success">Yes</span>
+                                {% else %}
+                                    <span class="badge bg-secondary">No</span>
+                                {% endif %}
+                            </p>
+                            <p class="mb-2"><strong>PDF Available:</strong> 
+                                {% if paper.has_pdf %}
+                                    <span class="badge bg-success">Yes</span>
+                                {% else %}
+                                    <span class="badge bg-secondary">No</span>
+                                {% endif %}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <!-- Related Papers -->
             {% if related_papers %}
             <div class="card">
@@ -193,10 +246,10 @@
                 </div>
                 <div class="card-body text-center">
                     <div class="transparency-score 
-                        {% if paper.transparency_score >= 5 %}score-excellent
-                        {% elif paper.transparency_score >= 3 %}score-good
+                        {% if paper.transparency_score >= 6 %}score-excellent
+                        {% elif paper.transparency_score >= 4 %}score-good
                         {% else %}score-poor{% endif %}">
-                        {{ paper.transparency_score }}/7
+                        {{ paper.transparency_score }}/8
                     </div>
                     <div class="text-muted">
                         {{ paper.transparency_score_pct|floatformat:1 }}% Transparent
@@ -251,9 +304,15 @@
                         </span>
                     </div>
                     
-                    <div class="mb-3">
+                    <div class="mb-2">
                         <span class="transparency-badge {% if paper.is_register_pred %}transparency-yes{% else %}transparency-no{% endif %}">
                             <i class="fas fa-{% if paper.is_register_pred %}check{% else %}times{% endif %}"></i> Protocol Registration
+                        </span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <span class="transparency-badge {% if paper.is_open_access %}transparency-yes{% else %}transparency-no{% endif %}">
+                            <i class="fas fa-{% if paper.is_open_access %}unlock-alt{% else %}lock{% endif %}"></i> Open Access
                         </span>
                     </div>
 

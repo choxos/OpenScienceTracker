@@ -23,9 +23,9 @@ class JournalAdmin(admin.ModelAdmin):
 @admin.register(Paper)
 class PaperAdmin(admin.ModelAdmin):
     list_display = ['pmid', 'title_short', 'journal', 'pub_year', 'transparency_score',
-                   'transparency_indicators', 'created_at']
-    list_filter = ['pub_year', 'is_open_data', 'is_open_code', 'is_coi_pred', 
-                  'is_fund_pred', 'is_register_pred', 'journal__country']
+                   'transparency_indicators', 'broad_subject_category', 'created_at']
+    list_filter = ['pub_year', 'broad_subject_category', 'pub_type', 'is_open_data', 'is_open_code', 'is_coi_pred', 
+                  'is_fund_pred', 'is_register_pred', 'is_open_access', 'in_epmc', 'in_pmc', 'has_pdf', 'journal__country']
     search_fields = ['pmid', 'title', 'author_string', 'journal__title_abbreviation']
     readonly_fields = ['transparency_score', 'transparency_score_pct', 'created_at', 'updated_at']
     date_hierarchy = 'created_at'
@@ -46,6 +46,8 @@ class PaperAdmin(admin.ModelAdmin):
             indicators.append('💰 Fund')
         if obj.is_register_pred:
             indicators.append('📝 Reg')
+        if obj.is_open_access:
+            indicators.append('🔓 OA')
         
         return ' '.join(indicators) if indicators else '❌ None'
     transparency_indicators.short_description = 'Indicators'
@@ -58,6 +60,15 @@ class PaperAdmin(admin.ModelAdmin):
             'fields': ('pub_year', 'pub_year_modified', 'first_publication_date', 
                       'year_first_pub', 'month_first_pub')
         }),
+        ('Europe PMC Details', {
+            'fields': (
+                ('issue', 'journal_volume', 'page_info'),
+                'pub_type',
+                ('in_epmc', 'in_pmc', 'has_pdf'),
+                'broad_subject_category'
+            ),
+            'classes': ('collapse',)
+        }),
         ('Transparency Indicators', {
             'fields': (
                 ('is_open_data', 'disc_data'),
@@ -65,6 +76,7 @@ class PaperAdmin(admin.ModelAdmin):
                 ('is_coi_pred', 'disc_coi'),
                 ('is_fund_pred', 'disc_fund'),
                 ('is_register_pred', 'disc_register'),
+                ('is_open_access',),
                 ('is_replication', 'disc_replication'),
                 ('is_novelty', 'disc_novelty'),
             )
