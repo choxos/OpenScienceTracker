@@ -1,0 +1,735 @@
+1. Author(s): Swansea University,
+Title Abbreviation: Int J Popul Data Sci
+Title(s): International journal of population data science.
+Publication Start Year: 2017
+Publication End Year: 
+Country of Publication: Wales
+Publisher: [Swansea, Wales, United Kingdom] : Swansea University, [2017]-
+Description: 1 online resource
+Language: English
+ISSN: 2399-4908(Electronic); 2399-4908(Linking)
+LCCN: 2019243015
+Electronic Links: https://ijpds.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101737740
+Fully Indexed In: MEDLINE: v6n1, 2021-
+In: PubMed: v1n1, 2017-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Data Science; Population Characteristics*
+Publication Type(s): Periodical
+Notes: Some volumes contain special issues.
+Other ID: (OCoLC)1048193321
+NLM ID: 101737740[Serial]
+
+2. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Natl Health Stat Report
+Title(s): National health statistics reports.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Centers for Disease
+Control and Prevention, National Center for Health Statistics, 2008-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 2164-8344(Print); 2332-8363(Electronic); 2164-8344(Linking)
+LCCN: 2008243825
+Electronic Links: http://www.cdc.gov/nchs/products/nhsr.htm
+Fully Indexed In: MEDLINE: n1, June 19, 2008-
+In: PubMed: n1, June 19, 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Health Administration (non-Index Medicus); Index Medicus
+MeSH: Health Surveys; United States; Vital Statistics*
+Publication Type(s): Statistics
+Notes: Each issue also has a distinctive title. Description based on first issue; title 
+from caption. Latest issue consulted: No. 6 (July 24, 2008). Also issued online.
+Other ID: (OCoLC)232995379
+NLM ID: 101479519[Serial]
+
+3. Title Abbreviation: Popul Health Metr
+Title(s): Population health metrics.
+Publication Start Year: 2003
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2003]-
+Language: English
+ISSN: 1478-7954(Electronic); 1478-7954(Linking)
+LCCN: 2003243272
+Electronic Links: https://pophealthmetrics.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101178411
+Fully Indexed In: MEDLINE: is v14, 2016-
+In: PubMed: v1n1, 2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry; Health Status Indicators*; Health Status
+Publication Type(s): Periodical
+Notes: Title from home page (viewed May 21, 2003). Latest issue consulted: Vol. 1, issue
+6 (2003) (viewed May 21, 2003). Articles added on a continuous basis. Each
+article constitutes a new issue. Mode of access: Internet.
+Other ID: (OCoLC)52384322
+NLM ID: 101178411[Serial]
+
+4. Author(s): Centers for Disease Control and Prevention (U.S.); Centers for Disease Control
+and Prevention (U.S.). Epidemiology Program Office.
+Title Abbreviation: MMWR Surveill Summ
+Title(s): MMWR. Surveillance summaries : Morbidity and mortality weekly report.
+Surveillance summaries/ CDC.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Atlanta, GA : Epidemiology Program Office, Centers for Disease Control and
+Prevention, U.S. Dept. of Health and Human Services, 2002-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.7009/2:
+ISSN: 1546-0738(Print); 1545-8636(Electronic); 1545-8636(Linking)
+LCCN: 2002243338
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101142015, https://www.cdc.gov/mmwr/
+Fully Indexed In: MEDLINE: v51nSS-1, Mar. 19, 2002-; Index medicus
+In: PubMed: v51nSS01, Mar. 19, 2002-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Disease Outbreaks; Morbidity*; Mortality*; United States
+Publication Type(s): PeriodicalStatistics
+Notes: Issues have also distinctive titles. Description based on: Vol. 51, no. SS-2
+(Apr. 26, 2002); title from cover. Also issued online.
+Other ID: (OCoLC)50198212
+NLM ID: 101142015[Serial]
+
+5. Author(s): Great Britain. Office for National Statistics.; Great Britain. Government
+Statistical Service.
+Title Abbreviation: Health Stat Q
+Title(s): Health statistics quarterly/ Office for National Statistics.
+Publication Start Year: 1999
+Publication End Year: 2012
+Frequency: Four times a year
+Country of Publication: England
+Publisher: London : The Stationery Office, c1999-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1465-1645(Print); 2040-1574(Electronic); 1465-1645(Linking)
+LCCN: sn 99033106
+Electronic Links: http://www.ons.gov.uk/ons/publications/all-releases.html?definition=tcm%3A77-21560
+Fully Indexed In: MEDLINE: n21, spring 2004-n53, spring 2012; Index medicus
+In: PubMed: n21, spring 2004-n53, spring 2012; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Public Health/statistics & numerical data*; United Kingdom
+Publication Type(s): Statistics
+Notes: Title from cover. Also issued online. Issued also by the Government Statistical
+Service, <winter 1999->
+Other ID: (OCoLC)40921360
+NLM ID: 100886205[Serial]
+
+6. Author(s): National Vital Statistics System (U.S.)
+Title Abbreviation: Natl Vital Stat Rep
+Title(s): National vital statistics reports : from the Centers for Disease Control and
+Prevention, National Center for Health Statistics, National Vital Statistics
+System.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Centers for Disease
+Control and Prevention, National Center for Health Statistics, [1998-
+Description: v.
+Language: English
+SuDocs Number: HE 20.6217:
+ISSN: 1551-8922(Print); 1551-8930(Electronic); 1551-8922(Linking)
+Electronic Links: https://www.cdc.gov/nchs/products/nvsr.htm
+Fully Indexed In: MEDLINE: v47n1, Aug. 19, 1998-; Index medicus
+In: PubMed: v47n1, Aug. 19, 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Birth Rate; Divorce; Marriage; Mortality; United States
+Publication Type(s): StatisticsTables
+Notes: Title from caption. Also issued online.
+Other ID: (DNLM)SR0093774(s)(OCoLC)39762868
+NLM ID: 9814753[Serial]
+
+7. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 20 Data Mortal
+Title(s): Vital and health statistics. Series 20, Data on mortality.
+Publication Start Year: 1996
+Publication End Year: 2007
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : National Center for Health Statistics, 1996-
+Description: volumes : illustrations ; 25 cm.
+Language: English
+ISSN: 2333-2352(Print); 2333-2344(Electronic); 2333-2352(Linking)
+LCCN: 2013274263
+Electronic Links: http://www.cdc.gov/nchs/products/pubs/pubd/series/ser.htm#sr20
+Fully Indexed In: MEDLINE: n29, June 1996-n32, March 2007; Index medicus
+In: PubMed: n29, June 1996-n32, March 2007; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Mortality*; Public Health; United States
+Publication Type(s): Statistics
+Notes: Also issued onine.
+Other ID: (OCoLC)30372220
+NLM ID: 101689180[Serial]
+
+8. Author(s): Centers for Disease Control (U.S.); Centers for Disease Control (U.S.).
+Epidemiology Program Office.; Centers for Disease Control and Prevention (U.S.)
+Title Abbreviation: MMWR Recomm Rep
+Title(s): MMWR. Recommendations and reports : Morbidity and mortality weekly report.
+Recommendations and reports/ Centers for Disease Control.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Atlanta, Ga. : U.S. Dept. of Health and Human Services, Public Health Service,
+Centers for Disease Control, Epidemiology Program Office, 1989-
+Description: v. ; 22 cm.
+Language: English
+SuDocs Number: HE 20.7009/2-2:, HE 20.7009/2-2:49/RR-6, HE 20.7009/2-2:49/RR-7
+ISSN: 1057-5987(Print); 1545-8601(Electronic); 1057-5987(Linking)
+LCCN: sn 90020512, sn 91037073
+Electronic Links: http://www.cdc.gov/mmwr/indrr_2016.html, https://pmc.ncbi.nlm.nih.gov/journals/?term=101124922
+Fully Indexed In: MEDLINE: v39nRR1, Jan. 26, 1989-; Index medicus
+In: PubMed: v39nRR1, Jan. 26, 1989-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Policy*; Preventive Health Services; Public Health; United States
+Publication Type(s): Periodical
+Notes: Title from cover. Each issue has also a distinctive title. Issues for 1993- also 
+contained in the CD-ROM: Morbidity and mortality weekly report (CD-ROM) Also
+issued online. Each no. issued by the Centers for Disease Control (later Centers 
+for Disease Control and Prevention) or one of its centers, divisions, or
+programs.
+Other ID: (OCoLC)22712135
+NLM ID: 101124922[Serial]
+
+9. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 21 Data Natal Marriage Divorce
+Title(s): Vital and health statistics. Series 21, Data on natality, marriage, and divorce.
+Publication Start Year: 1989
+Publication End Year: 2006
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public Health
+Service, Centers for Disease Control, National Center for Health Statistics,
+[1989]-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.6209:21
+ISSN: 1057-7629(Print); 2333-2379(Electronic); 1057-7629(Linking)
+LCCN: sn 91019081, 2003243330
+Electronic Links: http://www.cdc.gov/nchs/products/series/series21.htm
+Fully Indexed In: MEDLINE: n48, Oct. 1989- n57, May 2006; Index medicus
+In: PubMed: n48, Oct. 1989-n57, May 2006; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Birth Rate*; Divorce*; Marriage*; United States; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Issues no. 55-56 have Section title: Data from the National Vital Statistics
+System. Also issued online Produced by the National Center for Health Statistics.
+Other ID: (DNLM)SR0070681(s)(OCoLC)23266043
+NLM ID: 9105104[Serial]
+
+10. Author(s): Metropolitan Life Insurance Company.
+Title Abbreviation: Stat Bull Metrop Insur Co
+Title(s): Statistical bulletin : SB.
+Publication Start Year: 1984
+Publication End Year: 2000
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, N.Y. : Metropolitan Life Insurance Co., c1984-
+Description: v. : ill.
+Language: English
+ISSN: 0741-9767(Print); 0741-9767(Linking)
+Fully Indexed In: MEDLINE: v65n1,Jan.-Mar. 1984-v81n2, Apr.-June 2000; PubMed: v65n1,Jan.-Mar. 1984-v81n2, Apr.-June 2000; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Insurance, Life*; Life Expectancy*; Public Health*; United States; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0051250(s)(OCoLC)10269119
+NLM ID: 8410965[Serial]
+
+11. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 5
+Title(s): Vital & health statistics. Series 5, Comparative international vital and health
+statistics reports.
+Publication Start Year: 1984
+Publication End Year: 2003
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public Health
+Service, National Center for Health Statistics, 1984-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.6209:5/
+ISSN: 0892-8959(Print); 2333-2530(Electronic); 0892-8959(Linking)
+Electronic Links: http://www.cdc.gov/nchs/products/series/series05.htm
+Fully Indexed In: MEDLINE: n1, 1984-n11, June 2003; Index medicus
+In: PubMed: n1, 1984-n11, June 2003; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Public Health*; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Section title varies: International vital and health statistics reports no. 9-.
+Also issued online.
+Other ID: (DNLM)V08785000(s)(OCoLC)11120379
+NLM ID: 8406579[Serial]
+
+12. Author(s): Centers for Disease Control (U.S.); Centers for Disease Control (U.S.).
+Epidemiology Program Office.
+Title Abbreviation: MMWR CDC Surveill Summ
+Title(s): MMWR. CDC surveillance summaries : Morbidity and mortality weekly report. CDC
+surveillance summaries/ Centers for Disease Control.
+Publication Start Year: 1983
+Publication End Year: 2001
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Atlanta, Ga. : U.S. Dept. of Health and Human Services, Public Health Service,
+Centers for Disease Control, 1983-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.7009/2:
+ISSN: 1545-8636(Electronic)
+LCCN: 87-642207
+Electronic Links: http://www.cdc.gov/mmwr/mmwr_ss/ss_pvol.html
+Fully Indexed In: MEDLINE: v32n1SS,Feb. 1983-v50nSS-5, Dec. 7, 2001; Index medicus
+In: PubMed: v32n1SS,Feb. 1983-v50nSS-5, Dec. 7, 2001; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Disease Outbreaks*; Morbidity*; Mortality*; United States
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online Vols. for Aug. 1983- issued by the
+Epidemiology Program Office.
+Other ID: (DNLM)SR0050062(s)
+NLM ID: 8407977[Serial]
+
+13. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 3
+Title(s): Vital & health statistics. Series 3, Analytical and epidemiological studies/
+[U.S. Dept. of Health and Human Services, Public Health Service, National Center 
+for Health Statistics].
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public Health
+Service, National Center for Health Statistics
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.6209:3/
+ISSN: 0886-4691(Print); 2333-2433(Electronic); 0886-4691(Linking)
+Coden: VHSCA4
+LCCN: sf 88010013, sn 86000466
+Electronic Links: http://www.cdc.gov/nchs/products/series/series03.htm
+Fully Indexed In: MEDLINE: n26, Jan. 1989-; Index medicus
+In: PubMed: n26, Jan. 1989-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Surveys*; Public Health*; United States; Vital Statistics*
+Publication Type(s): Statistics
+Notes: No. 23- has section title: Analytic and epidemiological studies. No. 22,
+published out of chronological order in Mar. 1982, has section title: Analytical 
+studies. For no. 32, published Oct. 2001, section title appears only on p. [3] of
+cover. Also issued online.
+Other ID: (DNLM)V08765000(s)(OCoLC)10816303
+NLM ID: 8405154[Serial]
+
+14. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 14 Data Natl Health Surv
+Title(s): Vital & health statistics. Series 14, Data from the national health survey.
+Publication Start Year: 1982
+Publication End Year: 1989
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : Washington, D.C. : U.S. Dept. of Health and Human Services,
+Public Health Service, National Center for Health Statistics ; For sale bythe
+Supt. of Docs., U.S. G.P.O., 1982-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.6209:14/
+ISSN: 
+Electronic Links: https://www.cdc.gov/nchs/products/series/series14.htm
+Fully Indexed In: MEDLINE: n27, 1982-n34, 1989; Index medicus
+In: PubMed: n27, 1982-n34, 1989; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Facilities*; Health Workforce*; United States
+Publication Type(s): Statistics
+Notes: Also issued online.
+Other ID: (DNLM)SR0064553(s)(OCoLC)09771052
+NLM ID: 8900574[Serial]
+
+15. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 14
+Title(s): Vital & health statistics. Series 14, Data from the national inventory of family 
+planning services.
+Publication Start Year: 1982
+Publication End Year: 1982
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Hyattsville, Md. : Washington, D.C. : U.S. Dept. of Health and Human Services,
+Public Health Service, Office of Health Research, Statistics, and Technology,
+National Center for Health Statistics ; For sale by the Supt. of Docs., U.S.
+G.P.O., 1982.
+Description: 1 v.
+Language: English
+Electronic Links: http://www.cdc.gov/nchs/products/series/series14.htm
+Fully Indexed In: MEDLINE: n26, 1982; Index medicus
+In: PubMed: n26, 1982; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Family Planning Services*; Health Services*; United States
+Publication Type(s): Statistics
+Notes: Also issued online.
+Other ID: (DNLM)SR0064600(s)(OCoLC)09770788
+NLM ID: 8900451[Serial]
+
+16. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 23
+Title(s): Vital and health statistics. Series 23, Data from the National Survey of Family
+Growth.
+Publication Start Year: 1977
+Publication End Year: 2011
+Frequency: Irregular
+Country of Publication: United States
+Publisher: [Hyattsville, Md.] : U.S. Dept. of Health, Education, and Welfare, Public Health 
+Service, Office of Health Research, Statistics, and Technology, National Center
+for Health Statistics ; Washington, D.C. : For sale by the Supt. of Docs., U.S.
+G.P.O.
+Description: v.
+Language: English
+ISSN: 0278-5234(Print); 2333-2417(Electronic); 0278-5234(Linking)
+Electronic Links: http://www.cdc.gov/nchs/products/series/series23.htm
+Fully Indexed In: MEDLINE: n2, Sept. 1979-n31, Oct. 2011; Index medicus
+In: PubMed: n2, Sept. 1979-n31, Oct. 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Family Characteristics*; Family Planning Services*; Population Growth*; United States
+Publication Type(s): Statistics
+Notes: Description based on: no. 6 (Feb. 1981); title from cover. Also issued online.
+Other ID: (OCoLC)03582966(DNLM)V08950000(s)
+NLM ID: 7901947[Serial]
+
+17. Author(s): United States. Health Resources Administration.; National Center for Health
+Statistics (U.S.)
+Title Abbreviation: Adv Data
+Title(s): Advance data.
+Publication Start Year: 1976
+Publication End Year: 2008
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Rockville, Md. : U.S. National Center for Health Statistics
+Description: v. ill.
+Language: English
+SuDocs Number: HE 20.6209/3:
+ISSN: 0147-3956(Print); 1933-3889(Electronic); 0147-3956(Linking)
+Coden: NADADR
+LCCN: 79643688
+Electronic Links: http://www.cdc.gov/nchs/products/pubs/pubd/ad/ad.htm
+Fully Indexed In: MEDLINE: n66, Mar. 2, 1981-n395 ,May 20,2008
+In: PubMed: n66, Mar. 2, 1981-n395, May 20,2008; 
+Selectively Indexed in: Hospital literature indexn66, Mar. 2, 1981-1994Hospital and health administration index1995-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Surveys; Vital Statistics*
+Publication Type(s): Statistics
+Notes: Vols. for -Aug. 18, 1992 have title: Advance data from the Centers for Disease
+Control/National Center for Health Statistics. Vols. for Sept. 8, 1992-Nov. 12,
+1992 have title: Advance data from vital and health statistics of the Centers for
+Disease Control and Prevention/National Center for Health Statistics. Vols. for
+Dec. 1992 have title: Advance data from vital and health statistics of the
+Centers for Disease Control/National Center for Health Statistics. Vols. for
+<June 25, 2001-> have title: Advance data from vital and health statistics.
+Issues have also distinctive titles. Also issued online. Issued by the National
+Center for Health Statistics.
+Other ID: (OCoLC)02778178(DNLM)A12840000(s)
+NLM ID: 7703830[Serial]
+
+18. Author(s): Centers for Disease Control and Prevention (U.S.)
+Title Abbreviation: MMWR Morb Mortal Wkly Rep
+Title(s): MMWR. Morbidity and mortality weekly report.
+Publication Start Year: 1976
+Publication End Year: 
+Frequency: Weekly
+Country of Publication: United States
+Publisher: [Atlanta] U. S. Dept. of Health, Education, and Welfare, Public Health Service,
+Center for Disease Control.
+Latest Publisher: Atlanta, GA : U.S. Centers for Disease Control
+Description: v. ill.
+Language: English
+SuDocs Number: HE 20.7009:
+ISSN: 0149-2195(Print); 1545-861X(Electronic); 0149-2195(Linking)
+LCCN: 83644022, sc 78001766
+Electronic Links: http://www.cdc.gov/mmwr/index2016.html, https://pmc.ncbi.nlm.nih.gov/journals/?term=7802429
+Fully Indexed In: MEDLINE: v29n51, Jan. 2, 1981-; Index medicus
+In: PubMed: v29n51, Jan. 2, 1981-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Morbidity*; Mortality*; United States
+Publication Type(s): Periodical
+Notes: Last issue of each vol. is the annual summary of statistics for the proceding
+calendar year. Ceased in print with Vol. 63, no. 29 (Jul. 2014). Also issued
+online.
+Other ID: (OCoLC)03454113(DNLM)M41060000(s)
+NLM ID: 7802429[Serial]
+
+19. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 14 Data Natl Health Resour
+Title(s): Vital and health statistics. Series 14, Data on national health resources.
+Publication Start Year: 1968
+Publication End Year: 1981
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, D.C. : U.S. Dept. of Health, Education, and Welfare, Public Health
+Service, Health Services and Mental Health Administration ; Washington, D.C. :
+For sale by the Supt. of Docs., U.S. G.P.O., 1968-
+Description: 25 v.
+Language: English
+ISSN: 0083-1999(Print); 0083-1999(Linking)
+Coden: VHSNA3
+Electronic Links: http://www.cdc.gov/nchs/products/series/series14.htm
+Fully Indexed In: MEDLINE: n17, Oct. 1977-n25, 1981; Index medicus
+In: PubMed: n17, Oct. 1977-n25, 1981; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Facilities*; Health Workforce*; United States
+Publication Type(s): Statistics
+Notes: Issued 1968-1969 as Public Health Service publication, no. 1000-Ser. 14, no. 1,
+etc.; 1972-May 1973 as DHEW publication, no. (HSM) 72-1052, etc.; Aug. 1973- as
+DHEW publication, no. (HRA) 74-1805, etc.; 1978?-1980 as DHEW publication ; no.
+(PHS) 79-1813 etc.; 1981- as DHHS publication ; no. (PHS) 81-1819, etc. Section
+title varies frequently: Data from the national health survey. Also issued
+online. Vols. for 1972-1981 issued by the National Center for Health Statistics
+Other ID: (OCoLC)05114334(DNLM)V08880000(s)
+NLM ID: 0165703[Serial]
+
+20. Author(s): National Hospital Discharge Survey (U.S.); National Center for Health Statistics 
+(U.S.); National Health Survey (U.S.)
+Title Abbreviation: Vital Health Stat 13
+Title(s): Vital and health statistics. Series 13, Data from the National Health Survey.
+Publication Start Year: 1966
+Publication End Year: 2011
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, D.C. : U.S. Dept. of Health, Education, and Welfare, Public Health
+Service : For sale by the Supt. of Docs., U.S. G.P.O.
+Latest Publisher: <1985- > : Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public
+Health Service, National Center for Health Statistics
+Description: no. ill.
+Language: English
+SuDocs Number: HE 20.6209:
+ISSN: 0083-2006(Print); 2333-0856(Electronic); 0083-2006(Linking)
+Coden: VHSMAY
+Electronic Links: http://www.cdc.gov/nchs/products/series/series13.htm
+Fully Indexed In: MEDLINE: n28, Jul. 1977-n169, April 2011; Index medicus
+In: PubMed: n28, Jul. 1977-n169, April 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Surveys*; Hospitalization*; United States
+Publication Type(s): Statistics
+Notes: Issue no. 1 (1966) has Section title: Data from the Hospital Discharge Survey.
+Issues no. 57-58 (Aug. 1981) have Section title: Data on health resources
+utilization. Issued 1966-Apr. 1971 as Public Health Service publication no.
+1000-Ser. 13-no. 1-7; Sept. 1971-May 1972 as DHEW publication no. (HSM) 72-1006, 
+etc.; Aug. 1973- as DHEW publication no. (HRA) 74-1765, etc. Also issued online.
+Other ID: (OCoLC)03976654(DNLM)V08860000(s)
+NLM ID: 0403032[Serial]
+
+21. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 4
+Title(s): Vital and health statistics. Ser. 4, Documents and committee reports.
+Publication Start Year: 1965
+Publication End Year: 2002
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : Washington, DC : U.S. Dept. of Health and Human Services,
+Centers for Disease Control and Prevention, National Center for Health Statistics
+; For sale by U.S.G.P.O., Supt. of Docs.
+Description: v. illus.
+Language: English
+SuDocs Number: HE 20.6209:4/
+ISSN: 0083-2073(Print); 0083-2073(Linking)
+Coden: VHSDA7
+Electronic Links: http://www.cdc.gov/nchs/products/series.htm#sr4
+Fully Indexed In: MEDLINE: n18, Jan. 1978-n32, July 2002; PubMed: n18, Jan. 1978-n32, July 2002; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: United States; Vital Statistics*
+Notes: Also issued online.
+Other ID: (DNLM)V08780000(s)(OCoLC)01471658
+NLM ID: 0036665[Serial]
+
+22. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 20
+Title(s): Vital and health statistics. Series 20, Data from the National Vital Statistics
+System.
+Publication Start Year: 1965
+Publication End Year: 1996
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, D.C. : U.S. Dept. of Health, Education, and Welfare, Public Health
+Service : For sale by the Supt. of Docs., U.S. G.P.O., 1965-
+Latest Publisher: <1994- > : Hyattsville, MD : U.S. Department of Health and Human Services, Public
+Health Service, Centers for Disease Control and Prevention, National Center for
+Health Statistics
+Description: v. ill.
+Language: English
+SuDocs Number: HE 20.6209:
+ISSN: 0083-2022(Print); 2333-2298(Electronic); 0083-2022(Linking)
+Coden: VHSTAL
+Electronic Links: http://www.cdc.gov/nchs/products/series/series20.htm
+Fully Indexed In: MEDLINE: n28, Jan. 1996; PubMed: n28, Jan. 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: United States; Vital Statistics*
+Notes: Also issued online.
+Other ID: (DNLM)V08900000(s)(OCoLC)1768532
+NLM ID: 0044071[Serial]
+
+23. Author(s): National Center for Health Statistics (U.S.); National Health Survey (U.S.)
+Title Abbreviation: Vital Health Stat 11
+Title(s): Vital and health statistics. Series 11, Data from the National Health Survey.
+Publication Start Year: 1964
+Publication End Year: 2013
+Frequency: Irregular
+Country of Publication: United States
+Publisher: 1964-May 1970 : Washington, U.S. Dept. of Health, Education, and Welfare, Public 
+Health Service : For sale by the Supt. of Docs., U.S. G.P.O.
+Latest Publisher: Dec. 1988- : Hyattsville, Md. : U.S. Dept. of Health and Human Services, Centers 
+for Disease Control and Prevention, National Center for Health Statistics
+Description: v. ill.
+Language: English
+SuDocs Number: HE 20.6209:11/
+ISSN: 0083-1980(Print); 2333-0805(Electronic); 0083-1980(Linking)
+Coden: VHSKAS
+Electronic Links: http://www.cdc.gov/nchs/products/pubs/pubd/series/sr11/ser11.htm
+Fully Indexed In: MEDLINE: v11n158, Dec. 1976-n253, Aug. 2013; Index medicus
+In: PubMed: v11n158, Dec. 1976-n253, Aug. 2013; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Surveys*; United States; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Issues for <1982- > : have Section title: Data from the national health
+examination survey and the national health and nutrition examination survey. Also
+issued online.
+Other ID: (DNLM)V08820000(s)(OCoLC)01773549
+NLM ID: 0414007[Serial]
+
+24. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 21
+Title(s): Vital and health statistics. Series 21, Data from the National Vital Statistics
+System.
+Publication Start Year: 1964
+Publication End Year: 1989
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, D.C.: National Center for Health Statistics, 1964-1989.
+Latest Publisher: Rockville, Md. : U.S. National Center for Health Statistics
+Description: 47 v. ill.
+Language: English
+ISSN: 0083-2030(Print); 2333-2409(Electronic); 0083-2030(Linking)
+Coden: VHSUAO
+Electronic Links: http://www.cdc.gov/nchs/products/series.htm#sr21
+Fully Indexed In: MEDLINE: n3, July 1965-n47, June 1989; Index medicus
+In: PubMed: n3, July 1965-n47, June 1989; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: United States; Vital Statistics*
+Notes: Issued 1964- as Public Health Service publication, no. 1000, Ser. 21, no. 1- ;
+Aug. 1973?- as DHEW publication, no. (HRA); -1979 as DHHS publication, no. (PHS) 
+-89-1925. Also issued online.
+Other ID: (DNLM)V08920000(s)(OCoLC)01681291
+NLM ID: 0032510[Serial]
+
+25. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 1
+Title(s): Vital and health statistics. Ser. 1, Programs and collection procedures.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, National Center for Health Statistics.
+Latest Publisher: Hyattsville, Md. : U.S. National Center for Health Statistics
+Description: v.
+Language: English
+SuDocs Number: HE 20.6209:1/
+ISSN: 0083-2014(Print); 2332-8401(Electronic); 0083-2014(Linking)
+Coden: VHSAAW
+Electronic Links: http://www.cdc.gov/nchs/products/pubs/pubd/series/sr01/ser1.htm
+Fully Indexed In: MEDLINE: v2, 1965-; PubMed: v2, 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Surveys*; United States; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)V08720000(s)(OCoLC)01590095
+NLM ID: 0414006[Serial]
+
+26. Author(s): National Center for Health Statistics (U.S.); National Health Survey (U.S.)
+Title Abbreviation: Vital Health Stat 10
+Title(s): Vital and health statistics. Series 10, Data from the National Health Survey.
+Publication Start Year: 1963
+Publication End Year: 2014
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Rockville, Md., U. S. Dept. of Health, Education and Welfare, Public Health
+Service, Health Resources Administration, National Center for Health Statistics; 
+Washington, for sale by the Supt. of Docs., U. S. Govt. Print. Off.
+Description: v. ill.
+Language: English
+SuDocs Number: HE 20.6209/4:
+ISSN: 0083-1972(Print); 2332-8428(Electronic); 0083-1972(Linking)
+Coden: VHSJAP
+Electronic Links: http://www.cdc.gov/nchs/products/series/series10.htm
+Fully Indexed In: MEDLINE: n113, Nov. 1977--n260, Feb. 2014; Index medicus
+In: PubMed: n113, Nov. 1977--n260, Feb. 2014, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Surveys*; Public Health*; United States; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Issued May 1963-June 1971 as Public Health Service publication, no. 1000, Ser.
+10, no. 1-63; Dec. 1971-Apr. 1973 as DHEW publication no. (HSM) 72-1029, etc.;
+Sept. 1973- as DHEW publication no. (HRA) 74-1510, etc. Also issued online.
+Other ID: (OCoLC)01967685(DNLM)V08800000(s)
+NLM ID: 7604043[Serial]
+
+27. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 2
+Title(s): Vital and health statistics. Series 2, Data evaluation and methods research.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Rockville, Md., National Center for Health Statistics; for sale by the Supt. of
+Docs., U. S. Govt. Print. Off., Washington.
+Latest Publisher: Hyattsville, Md. : U.S. National Center for Health Statistics
+Description: no. illus.
+Language: English
+SuDocs Number: HE 20.6209:2/
+ISSN: 0083-2057(Print); 2333-0872(Electronic); 0083-2057(Linking)
+Electronic Links: http://www.cdc.gov/nchs/products/series/series02.htm
+Fully Indexed In: MEDLINE: n72,Nov. 1977-; PubMed: n72,Nov. 1977-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Surveys*; Public Health*; United States; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Issued June 1963-July 1971 as Public Health Service publication, no. 1000 Ser. 2,
+no. 1-42; Aug, 1971- as DHEW publication no. (HSM) 72-1005, etc. Also available
+online.
+Other ID: (DNLM)V08740000(s)(OCoLC)01471638
+NLM ID: 0330122[Serial]
+
+28. Author(s): National Center for Health Statistics (U.S.); United States. National Office of
+Vital Statistics.; United States. National Vital Statistics Division.
+Title Abbreviation: Mon Vital Stat Rep
+Title(s): Monthly vital statistics report.
+Publication Start Year: 1952
+Publication End Year: 1998
+Frequency: Thirteen no. a year
+Country of Publication: United States
+Publisher: Washington.
+Latest Publisher: Rockville Md : U.S. National Center For Health Statistics
+Description: v. illus.
+Language: English
+SuDocs Number: HE 20.6217:
+ISSN: 0364-0396(Print); 0364-0396(Linking)
+Electronic Links: https://www.cdc.gov/nchs/products/mvsr.htm
+Fully Indexed In: MEDLINE: v46n1,Aug. 14, 1997-v46n12,Jul. 28, 1998; Index medicus
+In: PubMed: v46n1,Aug. 14, 1997-v46n12,Jul. 28, 1998
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Divorce*; Marriage*; United States; Vital Statistics*
+Publication Type(s): Statistics
+Notes: Annual issue has also distinctive title : Annual summary of births, marriages,
+divorces and deaths. Place of publication varies. Vol. 41, no. 5 (Sept. 30, 1992)
+misnumbered as v. 40, no. 13. Supplements accompany some numbers, 1962-76; later 
+supplements issued with title: Advance data. Vol. 46, no. 12 Supplement, which
+was the last supplement published under this title, was dated Aug. 27, 1998. Some
+issues distributed to depository libraries in microfiche. Also issued online.
+Reports for 1952-Aug? 1961 issued by the National Office of Vital Statistics;
+Sept. 1961-Feb. 1964 by National Vital Statistics Division; Mar. 1964- by
+National Center for Health Statistics.
+Other ID: (DNLM)M48660000(s)(OCoLC)01685363
+NLM ID: 0043110[Serial]
+

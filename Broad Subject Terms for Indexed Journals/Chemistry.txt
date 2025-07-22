@@ -1,0 +1,3735 @@
+1. Author(s): Nature Publishing Group,
+Title Abbreviation: Nat Rev Chem
+Title(s): Nature reviews. Chemistry.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [London] : Springer Nature, [2017]-
+Description: 1 online resource
+Language: English
+ISSN: 2397-3358(Electronic); 2397-3358(Linking)
+LCCN: 2020204269
+Electronic Links: https://www.nature.com/natrevchem/
+Fully Indexed In: MEDLINE: v7n1, Jan. 2023-
+In: PubMed: v7n1, Jan. 2023- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemical Phenomena*; Chemistry
+Publication Type(s): Periodical
+Other ID: (OCoLC)969358088
+NLM ID: 101703631[Serial]
+
+2. Title Abbreviation: Cell Chem Biol
+Title(s): Cell chemical biology.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Cambridge, MA : Cell Press, 2016-
+Language: English
+ISSN: 2451-9456(Print); 2451-9448(Electronic); 2451-9448(Linking)
+LCCN: 2016207557
+Electronic Links: http://www.sciencedirect.com/science/journal/24519456
+Fully Indexed In: MEDLINE: v23n1, Jan. 2016-
+In: PubMed: v23n1, Jan. 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biology; Chemistry
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)962181379
+NLM ID: 101676030[Serial]
+
+3. Title Abbreviation: Top Curr Chem (Cham)
+Title(s): Topics in current chemistry.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Switzerland
+Publisher: Cham : Springer, [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2364-8961(Electronic); 2365-0869(Print); 2364-8961(Linking)
+LCCN: 2016243350
+Electronic Links: https://link.springer.com/journal/41061
+Fully Indexed In: MEDLINE: v374n1, Feb. 2016-
+In: PubMed: v374n1, Feb. 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemical Phenomena*
+Publication Type(s): Periodical
+Notes: Also issued in print.
+Other ID: (OCoLC)950568083
+NLM ID: 101691301[Serial]
+
+4. Author(s): International Union of Crystallography,
+Title Abbreviation: IUCrJ
+Title(s): IUCrJ.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Chester : International Union of Crystallography, [2014]-
+Description: 1 online resource
+Language: English
+ISSN: 2052-2525(Electronic); 2052-2525(Linking)
+LCCN: 2014243198
+Electronic Links: http://journals.iucr.org/m/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101623101
+Fully Indexed In: MEDLINE: v9n1, Jan. 2022-
+In: PubMed: v1n1, 2014-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Crystallography*
+Publication Type(s): Periodical
+Notes: Some articles in v. 1 published electronically in 2013.
+Other ID: (OCoLC)868677794
+NLM ID: 101623101[Serial]
+
+5. Author(s): American Chemical Society.
+Title Abbreviation: ACS Macro Lett
+Title(s): ACS macro letters.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, D.C. : American Chemical Society, [2012]-
+Description: 1 online resource
+Language: English
+ISSN: 2161-1653(Electronic); 2161-1653(Linking)
+LCCN: 2011201299
+Electronic Links: http://pubs.acs.org/journal/amlccd
+Selectively Indexed in: MEDLINEv10n1, Jan. 2021-PubMedv10n1, Jan. 2021- ; selected citations only before this date
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Macromolecular Substances*; Polymerization
+Publication Type(s): Periodical
+Notes: Beginning in 2012, Macromolecules will reorganize with the introduction of ACS
+Macro Letters. ACS Macro Letters will be an all-Letters-format journal, covering 
+all areas included in Macromolecules, and will replace the current Communications
+to the Editor that appear in Macromolecules.
+Other ID: (OCoLC)715352056
+NLM ID: 101574672[Serial]
+
+6. Author(s): ChemPubSoc Europe.
+Title Abbreviation: ChemistryOpen
+Title(s): ChemistryOpen.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: Weinheim : Wiley-VCH Verlag
+Language: English
+ISSN: 2191-1363(Electronic); 2191-1363(Linking)
+LCCN: 2012243760
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101594811, http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2191-1363
+Fully Indexed In: MEDLINE: v9n1, Jan. 2020-
+In: PubMed: v1, 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemical Phenomena*; Chemistry
+Publication Type(s): Periodical
+Other ID: (OCoLC)780445472
+NLM ID: 101594811[Serial]
+
+7. Author(s): American Chemical Society.
+Title Abbreviation: ACS Comb Sci
+Title(s): ACS combinatorial science.
+Publication Start Year: 2011
+Publication End Year: 2020
+Frequency: Monthly, 2012-2020
+Country of Publication: United States
+Publisher: Washington, DC : American Chemical Society
+Language: English
+ISSN: 2156-8952(Print); 2156-8944(Electronic); 2156-8944(Linking)
+LCCN: 2010200851
+Electronic Links: http://pubs.acs.org/loi/jcchff
+Fully Indexed In: MEDLINE: v13n1, Jan.-Feb. 2011-v22n12, Dec. 2020
+In: PubMed: v13n1, Jan.-Feb. 2011-v22n12, Dec. 2020; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Pharmaceutical*; Combinatorial Chemistry Techniques; Drug Discovery; Pharmaceutical Preparations/chemical synthesis
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)655848106
+NLM ID: 101540531[Serial]
+
+8. Title Abbreviation: Prog Chem Org Nat Prod
+Title(s): Progress in the chemistry of organic natural products.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Austria
+Publisher: Wien : Springer, [2011]-
+Language: English
+ISSN: 2191-7043(Print); 0071-7886(Linking)
+LCCN: 2013243169
+Electronic Links: https://www.springer.com/series/10169
+Fully Indexed In: MEDLINE: v94, 2011-
+In: PubMed: v94, 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Organic*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)835932201
+NLM ID: 101605200[Serial]
+
+9. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Food Funct
+Title(s): Food & function.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Cambridge : Royal Society of Chemistry
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 2042-6496(Print); 2042-650X(Electronic); 2042-6496(Linking)
+LCCN: 2011210841
+Electronic Links: http://pubs.rsc.org/en/Journals/JournalIssues/FO#/issueID=FO001003&Type=Current&issnprint=2042-6496
+Fully Indexed In: MEDLINE: v1n1, Oct. 2010-
+In: PubMed: v1n1, Oct. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemical Phenomena; Food*; Physical Phenomena
+Publication Type(s): Periodical
+Notes: Print issues ceased with v.7, no. 12 (2016). Also issued online.
+Other ID: (OCoLC)681484044
+NLM ID: 101549033[Serial]
+
+10. Author(s): American Chemical Society.
+Title Abbreviation: J Phys Chem Lett
+Title(s): The journal of physical chemistry letters.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Semimonthly
+Country of Publication: United States
+Publisher: Washington, D.C. : American Chemical Society
+Language: English
+ISSN: 1948-7185(Electronic); 1948-7185(Linking)
+LCCN: 2009203105
+Electronic Links: http://pubs.acs.org/journal/jpclcd
+Fully Indexed In: MEDLINE: v6n1, Jan. 2015-
+In: PubMed: v6n1, Jan. 2015- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemical Phenomena*
+Publication Type(s): Periodical
+Other ID: (OCoLC)369172846
+NLM ID: 101526034[Serial]
+
+11. Title Abbreviation: Mol Inform
+Title(s): Molecular informatics.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH Verlag
+Language: English
+ISSN: 1868-1743(Print); 1868-1751(Electronic); 1868-1743(Linking)
+LCCN: 2010200090
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1868-1751
+Fully Indexed In: MEDLINE: v35n1, Jan. 2016-
+In: PubMed: v35n1, Jan. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemical Phenomena; Computational Biology*; Computer-Aided Design
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 29, no. 1/2 (Jan. 2010); title from cover. Print
+issues ceased with 2013. Latest issue consulted: Vol. 29, no. 1/2 (Jan. 2010).
+Also issued online.
+Other ID: (OCoLC)605923838
+NLM ID: 101529315[Serial]
+
+12. Author(s): American Society for Neurochemistry.
+Title Abbreviation: ASN Neuro
+Title(s): ASN neuro.
+Publication Start Year: 2009
+Publication End Year: 
+Country of Publication: United States
+Publisher: [London] : Portland Press, 2009-
+Latest Publisher: 2024- : Philadelphia, PA : Taylor & Francis
+Language: English
+ISSN: 1759-0914(Electronic); 1759-0914(Linking)
+LCCN: 2009247673
+Electronic Links: https://www.tandfonline.com/journals/tasn20, https://journals.sagepub.com/home/asn, https://pmc.ncbi.nlm.nih.gov/journals/?term=101507115
+Fully Indexed In: MEDLINE: v1n1, 2009-
+In: PubMed: v1n1, 2009-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System/cytology; Neurobiology; Neurosciences*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, issue 1 (2009); title from PDF article running
+title (ASN website, viewed Apr. 9, 2010).
+Other ID: (OCoLC)318973217
+NLM ID: 101507115[Serial]
+
+13. Title Abbreviation: Future Med Chem
+Title(s): Future medicinal chemistry.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Twenty-four issues a year, 2018-
+Country of Publication: England
+Publisher: London : Future Science, 2009-
+Latest Publisher: 2024- : [Milton Park, Oxfordshire] : Taylor & Francis
+Description: v. : ill. (some col.) ; 28 cm.
+Language: English
+ISSN: 1756-8919(Print); 1756-8927(Electronic); 1756-8919(Linking)
+LCCN: 2010243075
+Electronic Links: https://www.tandfonline.com/journals/ifmc20, https://pmc.ncbi.nlm.nih.gov/journals/?term=101511162
+Fully Indexed In: MEDLINE: v1n1, Apr. 2009-; PubMed: v1n1, Apr. 2009-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 1 no. 8 (Nov. 2009). Also issued online.
+Other ID: (OCoLC)500747317
+NLM ID: 101511162[Serial]
+
+14. Title Abbreviation: Nat Chem
+Title(s): Nature chemistry.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London : Nature Pub. Group
+Language: English
+ISSN: 1755-4330(Print); 1755-4349(Electronic); 1755-4330(Linking)
+LCCN: 2009204055
+Electronic Links: http://www.nature.com/nchem/index.html
+In: PubMed: v1n1, Apr. 2009-; 
+Selectively Indexed in: MEDLINEv1n1, Apr. 2009-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemical Phenomena*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 (Apr. 2009); title from cover. Latest issue
+consulted: Vol. 1, no. 7 (Oct. 2009). Also issued online.
+Other ID: (OCoLC)416596670
+NLM ID: 101499734[Serial]
+
+15. Author(s): Asian Chemical Editorial Society.; EU ChemSoc.; Società chimica italiana.
+Title Abbreviation: ChemSusChem
+Title(s): ChemSusChem.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim : Wiley-VCH
+Language: English
+ISSN: 1864-5631(Print); 1864-564X(Electronic); 1864-5631(Linking)
+LCCN: 2008254268
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1864-564X
+Fully Indexed In: MEDLINE: v1n1/2, 2008-; PubMed: v1n1/2, 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*; Environment
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. "Chemistry & sustainability, 
+energy & materials". Print issues ceased with v. 1 (2008). Also issued online.
+Other ID: (OCoLC)212912783
+NLM ID: 101319536[Serial]
+
+16. Title Abbreviation: Anticancer Agents Med Chem
+Title(s): Anti-cancer agents in medicinal chemistry.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Eighteen issues a year, 2019-
+Country of Publication: Netherlands
+Publisher: Sharjah, U.A.E. ; San Francisco, CA : Bentham Science Publishers, [2006]-
+Latest Publisher: Amsterdam : Bentham Science Publishers
+Description: v.
+Language: English
+ISSN: 1871-5206(Print); 1875-5992(Electronic); 1871-5206(Linking)
+LCCN: 2006243023
+Electronic Links: http://www.eurekaselect.com/578/journal/anti-cancer-agents-medicinal-chemistry
+Fully Indexed In: MEDLINE: v6n1, Jan. 2006-
+In: PubMed: v6n1, Jan. 2006-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Antineoplastic Agents/therapeutic use*; Neoplasms/drug therapy
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (OCoLC)63110311
+NLM ID: 101265649[Serial]
+
+17. Title Abbreviation: Cardiovasc Hematol Agents Med Chem
+Title(s): Cardiovascular & hematological agents in medicinal chemistry.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Sharjah, U.A.E. ; San Francisco, CA : Bentham Science Publishers, c2006-
+Latest Publisher: Amsterdam : Bentham Science Publishers
+Description: v. : ill.
+Language: English
+ISSN: 1871-5257(Print); 1875-6182(Electronic); 1871-5257(Linking)
+LCCN: 2006243124
+Electronic Links: http://www.eurekaselect.com/597/journal/cardiovascular-amp-hematological-agents-medicinal-chemistry
+Fully Indexed In: MEDLINE: v4n1, Jan. 2006-
+In: PubMed: v4n1, Jan. 2006-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cardiovascular Agents/therapeutic use*; Hematologic Agents/therapeutic use*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)64768954
+NLM ID: 101266881[Serial]
+
+18. Title Abbreviation: Cent Nerv Syst Agents Med Chem
+Title(s): Central nervous system agents in medicinal chemistry.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Three no. a year, 2016-
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U.A.E. ; San Francisco, CA : Bentham Science Publishers,
+c2006-
+Description: v. : ill.
+Language: English
+ISSN: 1871-5249(Print); 1875-6166(Electronic); 1871-5249(Linking)
+LCCN: 2006243261
+Electronic Links: http://www.eurekaselect.com/613/journal/central-nervous-system-agents-medicinal-chemistry
+Fully Indexed In: MEDLINE: v9n1, Mar. 2009-
+In: PubMed: v9n1, Mar. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Central Nervous System Agents/pharmacology; Central Nervous System/drug effects; Chemistry, Pharmaceutical*; Drug Design
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)67830564
+NLM ID: 101269163[Serial]
+
+19. Title Abbreviation: Chem Asian J
+Title(s): Chemistry, an Asian journal.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH, c2006-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1861-4728(Print); 1861-471X(Electronic); 1861-471X(Linking)
+Coden: CAAJBI
+LCCN: 2007243072
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1861-471X
+Selectively Indexed in: MEDLINEv1n1/2, July 2006-PubMedv1n1/2, July 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: 1/02 (2007). Print issues ceased with
+v.10, no. 12 (Dec. 2015). Issues for <6/01-> also called <Vol. 1, no. 6-> Also
+issued online.
+Other ID: (OCoLC)70873400
+NLM ID: 101294643[Serial]
+
+20. Title Abbreviation: ChemMedChem
+Title(s): ChemMedChem.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH, c2006-
+Description: v : ill. ; 26 cm.
+Language: English
+ISSN: 1860-7179(Print); 1860-7187(Electronic); 1860-7179(Linking)
+LCCN: 2006243117
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-7187
+Fully Indexed In: MEDLINE: v1n1, Jan. 2006-
+In: PubMed: v1n1, Jan. 2006-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 1, no. 2 (Feb. 2006). Print issues
+ceased with v. 10, no. 12 (Dec. 2015). Also issued online. Co-owned by a group of
+European chemical societies.
+Other ID: (OCoLC)62883316
+NLM ID: 101259013[Serial]
+
+21. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Met Ions Life Sci
+Title(s): Metal ions in life sciences.
+Publication Start Year: 2006
+Publication End Year: 
+Country of Publication: Germany
+Publisher: Chichester, UK : John Wiley & Sons. Ltd., c2006-
+Latest Publisher: 2017- : Berlin, Germany : De Gruyter
+Description: v. : ill. ; 24 cm.
+Language: English
+ISSN: 1559-0836(Print); 2041-9821(Electronic); 1559-0836(Linking)
+LCCN: 2005216293
+Electronic Links: https://www.degruyter.com/view/serial/MILS-B
+Fully Indexed In: MEDLINE: v7, 2010-
+In: PubMed: v7, 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Ions; Metals
+Publication Type(s): Periodical
+Notes: Each issue has also distinctive title. Also issued online.
+Other ID: (OCoLC)62368001
+NLM ID: 101513478[Serial]
+
+22. Title Abbreviation: Nat Prod Commun
+Title(s): Natural product communications.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Westerville, OH : Natural Product Communications, [2006]-[2018]
+Latest Publisher: 2019- : [Thousand Oaks, CA] : SAGE Publications
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1934-578X(Print); 1555-9475(Electronic); 1555-9475(Linking)
+LCCN: 2006216052
+Electronic Links: http://www.naturalproduct.us/JournalArchive.asp, https://journals.sagepub.com/home/npxa
+Fully Indexed In: MEDLINE: v4n1, 2009-v12n5, May 2017
+In: PubMed: v4n1, 2009-v12n5, May 2017; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biological Products*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 3, issue 2 (2008). Also issued
+online.
+Other ID: (OCoLC)75208743
+NLM ID: 101477873[Serial]
+
+23. Author(s): American Chemical Society.
+Title Abbreviation: J Chem Inf Model
+Title(s): Journal of chemical information and modeling.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Monthly, 2009-
+Country of Publication: United States
+Publisher: Washington, D.C. : American Chemical Society, c2005-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1549-9596(Print); 1549-960X(Electronic); 1549-9596(Linking)
+LCCN: 2004212268
+Electronic Links: http://pubs.acs.org/jcim
+Fully Indexed In: MEDLINE: v45n1, Jan./Feb. 2005-
+In: PubMed: v45n1, Jan./Feb. 2005-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*; Informatics; Models, Molecular
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)54952514
+NLM ID: 101230060[Serial]
+
+24. Author(s): American Chemical Society.
+Title Abbreviation: J Chem Theory Comput
+Title(s): Journal of chemical theory and computation.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Monthly, 2009-
+Country of Publication: United States
+Publisher: Washington, D.C. : American Chemical Society, c2005-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1549-9618(Print); 1549-9626(Electronic); 1549-9618(Linking)
+LCCN: 2004212270
+Electronic Links: http://pubs.acs.org/jctc
+Fully Indexed In: MEDLINE: v11n1, Jan. 2015-
+In: PubMed: v11n1, Jan. 2015- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry; Biomechanical Phenomena; Chemistry*; Molecular Biology
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)54952674
+NLM ID: 101232704[Serial]
+
+25. Title Abbreviation: Med Chem
+Title(s): Medicinal chemistry.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Netherlands
+Publisher: Sharjah, U.A.E.; San Francisco, CA : Bentham Science Publishers
+Latest Publisher: Amsterdam : Bentham Science Publishers
+Description: v. : ill.
+Language: English
+ISSN: 1573-4064(Print); 1875-6638(Electronic); 1573-4064(Linking)
+LCCN: 2005243759
+Electronic Links: http://www.eurekaselect.com/627/journal/medicinal-chemistry
+Fully Indexed In: MEDLINE: v1n1, Jan. 2005-
+In: PubMed: v1n1, Jan. 2005-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Description based on: Vol. 1, no. 3 (May 2005);
+title from cover. Also issued online.
+Other ID: (OCoLC)61168698
+NLM ID: 101240303[Serial]
+
+26. Title Abbreviation: Nat Chem Biol
+Title(s): Nature chemical biology.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, NY : Nature Pub. Group, [2005]-
+Description: v. : ill.
+Language: English
+ISSN: 1552-4450(Print); 1552-4469(Electronic); 1552-4450(Linking)
+LCCN: 2004215507
+Electronic Links: http://www.nature.com/nchembio/index.html
+Fully Indexed In: MEDLINE: v1n1, June 2005-; PubMed: v1n1, June 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 1, no. 3 (Aug. 2005). Also
+available online.
+Other ID: (OCoLC)56478549
+NLM ID: 101231976[Serial]
+
+27. Author(s): Council of Europe.; European Directorate for the Quality of Medicines.
+Title Abbreviation: Pharmeur Sci Notes
+Title(s): Pharmeuropa scientific notes.
+Publication Start Year: 2005
+Publication End Year: 2009
+Country of Publication: France
+Publisher: Strasbourg : Council of Europe
+Language: English
+ISSN: 1814-2435(Print); 1814-2443(Electronic); 1814-2435(Linking)
+LCCN: 2007243170
+Fully Indexed In: MEDLINE: v2005n1, 2005-v2009n1, 2009
+In: PubMed: v2005n1, 2005-v2009n1, 2009; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Europe; Pharmaceutical Preparations*; Pharmacopoeias as Topic
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Latest issue consulted:
+2006-2 (Dec. 2006).
+Other ID: (OCoLC)426140329
+NLM ID: 101262672[Serial]
+
+28. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Soft Matter
+Title(s): Soft matter.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Semimonthly, 2009-
+Country of Publication: England
+Publisher: Cambridge, England : Royal Society of Chemistry, 2005-
+Language: English
+ISSN: 1744-683X(Print); 1744-6848(Electronic); 1744-683X(Linking)
+LCCN: 2005252381
+Electronic Links: http://www.rsc.org/Publishing/Journals/SM/article.asp?type=CurrentIssue
+In: PubMed: v10n1, Jan. 7 2014- ; selected citations only before this date; 
+Selectively Indexed in: MEDLINEv10n1, Jan. 7 2014-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*; Physics*
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 2, no. 12 (12 Dec. 2006). Print issues ceased with
+v. 12, no. 48 (2016). Also issued online.
+Other ID: (OCoLC)60788497
+NLM ID: 101295070[Serial]
+
+29. Author(s): Virginia Commonwealth University. Center for the Study of Biological Complexity.
+Title Abbreviation: Chem Biodivers
+Title(s): Chemistry & biodiversity.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Switzerland
+Publisher: Zürich, Switzerland : Hoboken, NJ : Verlag Helvetica Chimica Acta ; Distributed
+in the USA by Wiley, c2004-
+Description: v. : ill.
+Language: English
+ISSN: 1612-1872(Print); 1612-1880(Electronic); 1612-1872(Linking)
+LCCN: 2004242066
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1612-1880
+Fully Indexed In: MEDLINE: v1n1, 2004-; PubMed: v1n1, 2004-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biodiversity; Molecular Biology; Molecular Structure
+Publication Type(s): Periodical
+Notes: Also issued online. Official journal of the Center for the Study of Biological
+Complexity (CSBC), Virginia Commonwealth University.
+Other ID: (OCoLC)54497573
+NLM ID: 101197449[Serial]
+
+30. Title Abbreviation: Comput Biol Chem
+Title(s): Computational biology and chemistry.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford : Pergamon, c2003-
+Latest Publisher: Oxford : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 1476-9271(Print); 1476-928X(Electronic); 1476-9271(Linking)
+LCCN: 2003252370
+Electronic Links: http://www.sciencedirect.com/science/journal/14769271
+Selectively Indexed in: MEDLINEv27n1, Feb. 2003-PubMedv27n1, Feb. 2003-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+Notes: Also known as: CBAC. Also issued online.
+Other ID: (OCoLC)51986992
+NLM ID: 101157394[Serial]
+
+31. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Dalton Trans
+Title(s): Dalton transactions : an international journal of inorganic chemistry/ RSoC.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Forty eight no. a year, 2006-
+Country of Publication: England
+Publisher: Cambridge, UK : Royal Society of Chemistry, c2003-
+Description: v. : ill. (some col.) ; 28 cm.
+Language: English
+ISSN: 1477-9226(Print); 1477-9234(Electronic); 1477-9226(Linking)
+Coden: DTARAF, DTARAF
+LCCN: 2003242012
+Electronic Links: http://www.rsc.org/is/journals/current/dalton/dappub.htm
+In: PubMed: n1, 7 Jan. 2004-; 
+Selectively Indexed in: MEDLINEn1, 7 Jan. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Inorganic*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: 2004, no. 9 (7 May 2004). Print issues 
+ceased with v. 48 (2019). Issue numbers begin each year with 1. Has supplement:
+Chemical science, 2004- , which is also published separately. Also issued online.
+Other ID: (OCoLC)51500500
+NLM ID: 101176026[Serial]
+
+32. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Org Biomol Chem
+Title(s): Organic & biomolecular chemistry.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Forty-eight no. a year, 2012-
+Country of Publication: England
+Publisher: Cambridge, UK : Royal Society of Chemistry, c2003-
+Description: v. : ill.
+Language: English
+ISSN: 1477-0520(Print); 1477-0539(Electronic); 1477-0520(Linking)
+LCCN: 2003261024
+Electronic Links: http://www.rsc.org/is/journals/current/obc/obcpub.htm
+In: PubMed: v1n1,7 Jan. 2003-; 
+Selectively Indexed in: MEDLINEv1n1,7 Jan. 2003-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Chemistry, Organic*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 17 (2019). Also issued online.
+Other ID: (OCoLC)51634537
+NLM ID: 101154995[Serial]
+
+33. Title Abbreviation: J Enzyme Inhib Med Chem
+Title(s): Journal of enzyme inhibition and medicinal chemistry.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Basingstoke, UK : Taylor & Francis, c2002-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1475-6366(Print); 1475-6374(Electronic); 1475-6366(Linking)
+LCCN: 2002243339
+Electronic Links: http://www.tandfonline.com/loi/ienz20, https://pmc.ncbi.nlm.nih.gov/journals/?term=101150203
+Fully Indexed In: MEDLINE: v17n1, Feb. 2002-; PubMed: v17n1, Feb. 2002-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry; Enzyme Inhibitors*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Print issues ceased with v. 27, no. 6 (2012). Also
+issued online.
+Other ID: (OCoLC)50012503
+NLM ID: 101150203[Serial]
+
+34. Title Abbreviation: Nat Mater
+Title(s): Nature materials.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, UK : Nature Pub. Group, [2002]-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1476-1122(Print); 1476-4660(Electronic); 1476-1122(Linking)
+LCCN: 2003260101
+Electronic Links: http://www.nature.com/nmat/
+Selectively Indexed in: MEDLINEv1n1, Sept. 2002-PubMedv1n1, Sept. 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical and Dental Materials*; Manufactured Materials
+Notes: Title from cover. Latest issue consulted: Vol. 2, no. 1 (Jan. 2003). Also
+available to subscribers online via the World Wide Web.
+Other ID: (OCoLC)51211555
+NLM ID: 101155473[Serial]
+
+35. Author(s): Royal Society of Chemistry (Great Britain); European Photochemistry Association.;
+European Society for Photobiology.
+Title Abbreviation: Photochem Photobiol Sci
+Title(s): Photochemical & photobiological sciences : Official journal of the European
+Photochemistry Association and the European Society for Photobiology.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Cambridge, UK : Royal Society of Chemistry, c2002-
+Latest Publisher: 2021- : [London] : Springer
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1474-905X(Print); 1474-9092(Electronic); 1474-905X(Linking)
+Coden: PPSHCB
+LCCN: 2002257028
+Electronic Links: http://www.rsc.org/is/journals/current/pps/ppscoverage.htm, https://www.springer.com/journal/43630
+Selectively Indexed in: MEDLINEv1n1, Jan. 2002-PubMedv1n1, Jan. 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Photobiology; Photochemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)49233320
+NLM ID: 101124451[Serial]
+
+36. Author(s): Nihon Kagakkai.
+Title Abbreviation: Chem Rec
+Title(s): Chemical record : an official publication of the Chemical Society of Japan ...
+[et al.].
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Six times per year
+Country of Publication: United States
+Publisher: New York : Wiley, c2000-
+Description: v. : ill.
+Language: English
+ISSN: 1527-8999(Print); 1528-0691(Electronic); 1528-0691(Linking)
+Coden: CRHEAK
+LCCN: sn 99009652
+Electronic Links: https://onlinelibrary.wiley.com/journal/15280691
+Selectively Indexed in: MEDLINEv1n1, 2001-PubMedv1n1, 2001-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)43108459
+NLM ID: 101085550[Serial]
+
+37. Title Abbreviation: Curr Med Chem Anticancer Agents
+Title(s): Current medicinal chemistry. Anti-cancer agents.
+Publication Start Year: 2001
+Publication End Year: 2005
+Frequency: Six no. a year
+Country of Publication: Netherlands
+Publisher: Hilversum, The Netherlands ; Boca Raton, FL : Bentham Science Publishers,
+c2001-[2005].
+Latest Publisher: Sharjah, U.A.E. ; San Francisco, CA : Bentham Science Publishers
+Description: 5 v. : ill.
+Language: English
+ISSN: 1568-0118(Print); 1568-0118(Linking)
+LCCN: 2002243318
+Fully Indexed In: MEDLINE: v1n1, May 2001-v5n6, Nov. 2005; PubMed: v1n1, May 2001-v5n6, Nov. 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Antineoplastic Agents/therapeutic use*; Neoplasms/drug therapy
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (OCoLC)47967417
+NLM ID: 101123597[Serial]
+
+38. Title Abbreviation: Curr Top Med Chem
+Title(s): Current topics in medicinal chemistry.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: 32 no. a year, 2017-
+Country of Publication: United Arab Emirates
+Publisher: Hilversum, The Netherlands : Bentham Science Publishers, c2001-
+Latest Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science Publishers
+Description: v.
+Language: English
+ISSN: 1568-0266(Print); 1873-4294(Electronic); 1568-0266(Linking)
+LCCN: 2001243166
+Electronic Links: http://www.eurekaselect.com/615/journal/current-topics-medicinal-chemistry
+Fully Indexed In: MEDLINE: v1n1, May 2001-; PubMed: v1n1, May 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*; Drug Design
+Publication Type(s): PeriodicalReview
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)47218405
+NLM ID: 101119673[Serial]
+
+39. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Lab Chip
+Title(s): Lab on a chip.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Twenty-four no. a year, 2009-
+Country of Publication: England
+Publisher: Cambridge, UK : Royal Society of Chemistry, c2001-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1473-0197(Print); 1473-0189(Electronic); 1473-0189(Linking)
+Coden: LCAHAM
+LCCN: 2001257026
+Electronic Links: http://www.rsc.org/is/journals/current/loc/locpub.htm
+Selectively Indexed in: MEDLINEv1n1,Sept. 2001-PubMedv1n1,Sept. 2001-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Microchemistry; Miniaturization; Nanotechnology*
+Publication Type(s): Periodical
+Notes: "Miniaturisation for chemistry and biology." Print issues ceased with v. 19
+(2019). Also issued online.
+Other ID: (OCoLC)48200889
+NLM ID: 101128948[Serial]
+
+40. Title Abbreviation: Mini Rev Med Chem
+Title(s): Mini reviews in medicinal chemistry.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Twenty issues a year, 2018-
+Country of Publication: Netherlands
+Publisher: Hilversum, The Netherlands; Boca Raton, FL : Bentham Science Publishers, c2001-
+Description: v.
+Language: English
+ISSN: 1389-5575(Print); 1875-5607(Electronic); 1389-5575(Linking)
+Coden: MMCIAE
+LCCN: 2001243144
+Electronic Links: http://www.eurekaselect.com/633/journal/mini-reviews-medicinal-chemistry
+Fully Indexed In: MEDLINE: v1n1, May 2001-; Index medicus
+In: PubMed: v1n1, May 2001-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*
+Publication Type(s): PeriodicalReview
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)47091631
+NLM ID: 101094212[Serial]
+
+41. Author(s): Société française de chimie.; Gesellschaft Deutscher Chemiker.
+Title Abbreviation: Chemphyschem
+Title(s): Chemphyschem : a European journal of chemical physics and physical chemistry.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: 18 no. a year, 2007-
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH Verlag, c2000-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1439-4235(Print); 1439-7641(Electronic); 1439-4235(Linking)
+LCCN: 00256045
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1439-7641
+In: PubMed: v1n1, Aug. 2000-; 
+Selectively Indexed in: MEDLINEv1n1, Aug. 2000-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Physical*; Physics
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 16, no. 18 (2015). Also issued
+online. Issued by: Société française de chimie; and: Gesellschaft Deutscher
+Chemiker.
+Other ID: (OCoLC)44873380
+NLM ID: 100954211[Serial]
+
+42. Title Abbreviation: Curr Drug Metab
+Title(s): Current drug metabolism.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Fourteen issues per year, 2018-
+Country of Publication: Netherlands
+Publisher: Hilversum, Netherlands ; Boca Raton, FL : Bentham Science Publishers, c2000-
+Description: v.
+Language: English
+ISSN: 1389-2002(Print); 1875-5453(Electronic); 1389-2002(Linking)
+LCCN: 00-243489
+Electronic Links: http://www.eurekaselect.com/592/journal/current-drug-metabolism
+Fully Indexed In: MEDLINE: v1n1, July 2000-; Index medicus
+In: PubMed: v1n1, July 2000-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical; Drug Administration Routes; Pharmaceutical Preparations/metabolism*
+Publication Type(s): PeriodicalReview
+Notes: Title from cover. Only four issues published in 2000. Also issued online.
+Other ID: (OCoLC)45201711
+NLM ID: 100960533[Serial]
+
+43. Author(s): Molecular Diversity Preservation International.; Multidisciplinary Digital
+Publishing Institute.
+Title Abbreviation: Int J Mol Sci
+Title(s): International journal of molecular sciences.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: 24 issues per year, 2019-
+Country of Publication: Switzerland
+Publisher: Basel, Switzerland : MDPI, [2000-
+Language: English
+ISSN: 1422-0067(Electronic); 1422-0067(Linking)
+Coden: IJMCFK
+Electronic Links: http://www.mdpi.com/journal/ijms, https://pmc.ncbi.nlm.nih.gov/journals/?term=101092791
+Fully Indexed In: MEDLINE: v10n1, Jan. 2009-
+In: PubMed: v9, 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*; Chemistry, Physical; Molecular Biology
+Publication Type(s): Periodical
+Notes: Title from volume table of contents screen (viewed Apr. 6, 2001). Also issued on 
+CD-ROM yearly. Mode of access: World Wide Web.
+Other ID: (OCoLC)46479933
+NLM ID: 101092791[Serial]
+
+44. Author(s): American Chemical Society.
+Title Abbreviation: J Comb Chem
+Title(s): Journal of combinatorial chemistry.
+Publication Start Year: 1999
+Publication End Year: 2010
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Washington, DC : American Chemical Society, c1999-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1520-4766(Print); 1520-4774(Electronic); 1520-4766(Linking)
+Coden: JCCHFF
+LCCN: 99113429, sn 98004580
+Electronic Links: http://pubs.acs.org/journals/jcchff/index.html
+Fully Indexed In: MEDLINE: v1n1, Jan. 1999-v12n6, Nov.-Dec. 2010; Index medicus
+In: PubMed: v1n1, Jan. 1999-v12n6, Nov.-Dec. 2010; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Pharmaceutical*; Drug Design; Gene Library; Pharmaceutical Preparations/chemical synthesis
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)39479475
+NLM ID: 100886263[Serial]
+
+45. Author(s): Royal Society of Chemistry (Great Britain); Deutsche Bunsen-Gesellschaft für
+Physikalische Chemie.; Koninklijke Nederlandse Chemische Vereniging.; Società
+chimica italiana.
+Title Abbreviation: Phys Chem Chem Phys
+Title(s): Physical chemistry chemical physics : PCCP.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Weekly (48 issues), 2006-
+Country of Publication: England
+Publisher: Cambridge [England] : Royal Society of Chemistry, c1999-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1463-9076(Print); 1463-9084(Electronic); 1463-9076(Linking)
+Coden: PPCPFQ
+LCCN: sn 99047155
+Electronic Links: http://www.rsc.org/Publishing/Journals/CP/article.asp?type=CurrentIssue
+In: PubMed: v7n1, Jan. 7, 2005-; 
+Selectively Indexed in: MEDLINEv7n1, Jan. 7, 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Physical*; Physics
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 6, no. 20 (21 Oct. 2004). Also
+issued online. A journal of the Royal Society of Chemistry, Deutsche
+Bunsen-Gesellschaft für Physikalische Chemie, Koninklijke Nederlandse Chemische
+Vereniging, and Società chimica italiana.
+Other ID: (OCoLC)40650881
+NLM ID: 100888160[Serial]
+
+46. Title Abbreviation: Alkaloids Chem Biol
+Title(s): The Alkaloids. Chemistry and biology.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: San Diego : Academic Press, c1998-
+Description: v. : ill.
+Language: English
+ISSN: 1099-4831(Print); 1099-4831(Linking)
+LCCN: 98-640122, sn98-38096
+Electronic Links: https://www.sciencedirect.com/bookseries/the-alkaloids-chemistry-and-biology
+Fully Indexed In: MEDLINE: v55, 2001-; PubMed: v55, 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Alkaloids
+Publication Type(s): Periodical
+Notes: Vol. 56, c2001, lacks section title. Also issued online.
+Other ID: (DNLM)SR0093701(s)(OCoLC)38868130
+NLM ID: 9812842[Serial]
+
+47. Title Abbreviation: Comb Chem High Throughput Screen
+Title(s): Combinatorial chemistry & high throughput screening.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Ten no. a year, 2006-
+Country of Publication: United Arab Emirates
+Publisher: Hilversum, Netherlands ; Miami, FL : Bentham Science Publishers, c1998-
+Latest Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science Publishers
+Description: v. : ill., ports.
+Language: English
+ISSN: 1386-2073(Print); 1875-5402(Electronic); 1386-2073(Linking)
+LCCN: sn98-39363
+Electronic Links: http://www.eurekaselect.com/585/journal/combinatorial-chemistry
+Fully Indexed In: MEDLINE: v1n1, Apr. 1998-; Index medicus
+In: PubMed: v1n1, Apr. 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical/methods; Drug Design; Molecular Sequence Data; Structure-Activity Relationship
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0093087(s)(OCoLC)39728399
+NLM ID: 9810948[Serial]
+
+48. Title Abbreviation: J Asian Nat Prod Res
+Title(s): Journal of Asian natural products research.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: [Newark, N.J.?] : Harwood Academic Publishers,
+Latest Publisher: London : Informa Healthcare
+Description: v. : ill.
+Language: English
+ISSN: 1028-6020(Print); 1477-2213(Electronic); 1028-6020(Linking)
+Coden: JANRFI
+LCCN: 00-243467
+Electronic Links: http://www.tandfonline.com/loi/ganp20
+Fully Indexed In: MEDLINE: v1n2, 1998-; PubMed: v1n2, 1998-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Asia; Biological Factors*; Medicine, East Asian Traditional
+Publication Type(s): Periodical
+Notes: Imprint varies. Description based on: Vol. 1, no. 2 (Sept. 1998); title from
+cover. Also issued online.
+Other ID: (OCoLC)45166399
+NLM ID: 100888334[Serial]
+
+49. Author(s): Society of Cosmetic Chemists (U.S.)
+Title Abbreviation: J Cosmet Sci
+Title(s): Journal of cosmetic science.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: New York, NY : Society of Cosmetic Chemists, 1998-
+Description: v. : ill.
+Language: English
+ISSN: 1525-7886(Print); 2689-5153(Electronic); 1525-7886(Linking)
+Coden: JCSCFC
+Electronic Links: http://journal.scconline.org/index.html
+Fully Indexed In: MEDLINE: v52n1, Jan.-Feb. 2001-v72n4, Jul.-Aug. 2021; PubMed: v52n1, Jan.-Feb. 2001-v72n4, Jul.-Aug. 2021; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cosmetics
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2019 Also issued online. Official journal of the Society
+of Cosmetic Chemists.
+Other ID: (DNLM)SR0093509(s)(OCoLC)39348374
+NLM ID: 9814276[Serial]
+
+50. Author(s): American Chemical Society.
+Title Abbreviation: J Phys Chem A
+Title(s): The journal of physical chemistry. A
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Weekly, except the last week in Dec.
+Country of Publication: United States
+Publisher: Washington, D.C. : American Chemical Society, c1997-
+Description: 10 v. : ill. ; 29 cm.
+Language: English
+ISSN: 1089-5639(Print); 1520-5215(Electronic); 1089-5639(Linking)
+Coden: JPCAFH
+LCCN: 98660823, sn 96000594
+Electronic Links: http://pubs.acs.org/journals/jpcafh/index.html
+Selectively Indexed in: MEDLINEv101n18, May 1, 1997-PubMedv101n18, May 1, 1997-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Physical*
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 107, no. 2 (Jan. 16, 2003); title from cover.
+Section title missing on vol. 101, no. 4, no. 10, and no. 36. Section title
+varies on other issues. Also available via the World Wide Web; online version
+available to subscribers with a site license; files in HTML and PDF format.
+Other ID: (DNLM)SR0089276(s)(OCoLC)35040194
+NLM ID: 9890903[Serial]
+
+51. Author(s): American Chemical Society.
+Title Abbreviation: J Phys Chem B
+Title(s): The journal of physical chemistry. B
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Weekly, except the first week in Jan., <Feb. 17, 2000->
+Country of Publication: United States
+Publisher: Washington, D.C. : American Chemical Society, c1997-
+Description: v. : ill. ; 29 cm.
+Language: English
+ISSN: 1520-6106(Print); 1520-5207(Electronic); 1520-5207(Linking)
+LCCN: 98660822, sn 97034879
+Electronic Links: http://pubs.acs.org/journals/jpcbfk/index.html
+Selectively Indexed in: MEDLINEv101n5, Jan. 30, 1997-PubMedv101n5, Jan. 30, 1997-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Physical*
+Publication Type(s): Periodical
+Notes: Title from cover. Section title varies. Latest issue consulted: Vol. 107, no. 2
+(Jan. 16, 2003). Also issued online.
+Other ID: (OCoLC)37604309
+NLM ID: 101157530[Serial]
+
+52. Author(s): Nitric Oxide Society.
+Title Abbreviation: Nitric Oxide
+Title(s): Nitric oxide : biology and chemistry/ official journal of the Nitric Oxide
+Society.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Monthly, 2019-
+Country of Publication: United States
+Publisher: Orlando, FL : Academic Press, c1997-
+Latest Publisher: <2000- > : San Diego, CA : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 1089-8603(Print); 1089-8611(Electronic); 1089-8603(Linking)
+LCCN: sn96-4289
+Electronic Links: http://www.sciencedirect.com/science/journal/10898603
+Fully Indexed In: MEDLINE: v1n1, Feb. 1997-; Index medicus
+In: PubMed: v1n1, Feb. 1997-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nitric Oxide
+Publication Type(s): Periodical
+Notes: Also called: Archives of biochemistry and biophysics. Part B. Title from cover.
+Also issued online.
+Other ID: (DNLM)SR0091098(s)(OCoLC)35147437
+NLM ID: 9709307[Serial]
+
+53. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Chem Commun (Camb)
+Title(s): Chemical communications : Chem comm/ the Royal Society of Chemistry.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Semimonthly
+Country of Publication: England
+Publisher: Cambridge : Royal Society of Chemistry
+Description: v. : ill.
+Language: English
+ISSN: 1359-7345(Print); 1364-548X(Electronic); 1359-7345(Linking)
+Coden: CHCOFS
+LCCN: 96660034
+Electronic Links: http://www.rsc.org/chemcomm
+In: PubMed: n1, Jan. 7 2002-; 
+Selectively Indexed in: MEDLINEn1, Jan. 7 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 55 (2019). Numbering begins each
+year with no. 1. Also issued online.
+Other ID: (DNLM)SR0088264(s)(OCoLC)34106548
+NLM ID: 9610838[Serial]
+
+54. Author(s): Gesellschaft Deutscher Chemiker.; EU ChemSoc.; ChemPubSoc Europe.; Asian Chemical
+Editorial Society.
+Title Abbreviation: Chemistry
+Title(s): Chemistry : a European journal.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: 48 times a year, <2010->
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH
+Description: v. : ill.
+Language: English
+ISSN: 0947-6539(Print); 1521-3765(Electronic); 0947-6539(Linking)
+Coden: CEUJED
+LCCN: sn 95026440
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765
+In: PubMed: v6n1, Jan. 2000-; 
+Selectively Indexed in: MEDLINEv6n1, Jan. 2000-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 1 complete in 9 issues. Issues for Apr. 1995-<Oct. 7,
+2005> also called 1/1-<11/20> Also issued online. In English; abstracts in
+English and various other languages. Issued by: German Chemical Society, 1995- ; 
+jointly owned by: GDCh, KNCV, SRC, KVCV, SCI, SFC, Real Sociedad Española de
+Química, Socideade Portuguesa de Química, Association of Greek Chemists, CSCh,
+PTCh, Svenska Kemistsamfundet, MKE, GÖCH, which have banded together as the: EU
+ChemSoc, <2005->; and also ChemPubSoc Europe and Asian Chemical Editorial
+Society, <2010->
+Other ID: (DNLM)SR0085220(s)(OCoLC)32677914
+NLM ID: 9513783[Serial]
+
+55. Title Abbreviation: Carbohydr Lett
+Title(s): Carbohydrate letters.
+Publication Start Year: 1994
+Publication End Year: 2001
+Frequency: Six no. a year
+Country of Publication: Switzerland
+Publisher: [Chur, Switzerland?] : Basel, Switzerland ; Langhorne, PA : Harwood Academic
+Publishers ; International Publishers Distributor,
+Description: v. : ill.
+Language: English
+ISSN: 1073-5070(Print); 1029-2438(Linking)
+Coden: CLETEC
+LCCN: sn 93007046
+Selectively Indexed in: MEDLINEv4n1, 2000-v4n2, 2001PubMedv4n1, 2000-v4n2, 2001Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Carbohydrates/chemistry*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 2 (Nov. 1994); title from cover.
+Other ID: (DNLM)SR0080241(s)(OCoLC)29423231
+NLM ID: 9607448[Serial]
+
+56. Author(s): American Chemical Society.; American Chemical Society. Division of Chemical
+Health and Safety.
+Title Abbreviation: Chem Health Saf
+Title(s): Chemical health & safety.
+Publication Start Year: 1994
+Publication End Year: 2005
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Washington, DC : American Chemical Society, c1994-
+Latest Publisher: Orlando, FL : Published by Elsevier Inc. for the ACS Division of Chemical Health 
+and Safety
+Description: v. : ill., ports.
+Language: English
+ISSN: 1074-9098(Print); 1879-131X(Electronic); 1074-9098(Linking)
+Coden: CHLSEG
+LCCN: sn 94002491
+Electronic Links: http://www.sciencedirect.com/science/journal/10749098
+In: PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Citations are for articles where the manuscript was deposited in PubMed Central (PMC) in compliance with public access policies. For further information, see <a href="/pmc/about/authorms/" target="new">Author Manuscripts in PMC.</a>
+MeSH: Environmental Exposure/prevention & control*; Hazardous Substances/adverse effects*; Occupational Exposure/prevention & control*; Occupational Health*
+Publication Type(s): Periodical
+Notes: Issue for Sept./Oct. 2004 has title: Journal of chemical health & safety. Title
+from cover. Vol. 1 complete in four issues. Also issued online. A joint
+publication of the American Chemical Society and the ACS Division of Chemical
+Health and Safety.
+Other ID: (DNLM)SR0080868(s)(OCoLC)29881662
+NLM ID: 9435668[Serial]
+
+57. Title Abbreviation: Chem Biol
+Title(s): Chemistry & biology.
+Publication Start Year: 1994
+Publication End Year: 2015
+Frequency: Monthly
+Country of Publication: United States
+Publisher: London ; Philadelphia, PA : Current Biology Ltd., c1994-
+Latest Publisher: 2001- : Maryland Heights, MO : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 1074-5521(Print); 1879-1301(Electronic); 1074-5521(Linking)
+Coden: CBOLE2
+LCCN: sn 94002344
+Electronic Links: https://www.sciencedirect.com/journal/chemistry-and-biology
+Fully Indexed In: MEDLINE: v1n1,Sept. 1994-v22n12, Dec. 2015; Index medicus
+In: PubMed: v1n1,Sept. 1994-v22n12, Dec. 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biology*; Chemistry*
+Publication Type(s): Periodical
+Notes: Vol. 1 completed in 4 issues. Also issued online.
+Other ID: (DNLM)SR0081584(s)(OCoLC)29743387
+NLM ID: 9500160[Serial]
+
+58. Title Abbreviation: Curr Med Chem
+Title(s): Current medicinal chemistry.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: 42 no. a year, 2016-
+Country of Publication: United Arab Emirates
+Publisher: Schiphol, The Netherlands : Bentham Science Publishers,
+Latest Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science Publishers
+Description: v. : ill., ports.
+Language: English
+ISSN: 0929-8673(Print); 1875-533X(Electronic); 0929-8673(Linking)
+Coden: CMCHE7
+LCCN: sn 95038126
+Electronic Links: http://www.eurekaselect.com/602/journal/current-medicinal-chemistry
+Fully Indexed In: MEDLINE: v5n1, Feb. 1998-; Index medicus
+In: PubMed: v5n1, Feb. 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*; Drug Design*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 2 (Aug. 1994); title from cover. Also issued
+online.
+Other ID: (DNLM)SR0081485(s)(OCoLC)31723164
+NLM ID: 9440157[Serial]
+
+59. Author(s): Slovensko kemijsko društvo.
+Title Abbreviation: Acta Chim Slov
+Title(s): Acta chimica Slovenica.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Slovenia
+Publisher: Ljubljana : Slovenian Chemical Society,
+Description: v. : ill. ; 24 cm.
+Language: English
+ISSN: 1318-0207(Print); 1580-3155(Electronic); 1318-0207(Linking)
+Coden: ACSLE7
+LCCN: 94646636
+Electronic Links: https://journals.matheo.si/index.php/ACSi
+In: PubMed: v60n1, 2013- ; selected citations only before this date; 
+Selectively Indexed in: MEDLINEv60n1, 2013-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemical Phenomena*
+Publication Type(s): Periodical
+Notes: Issues for 1993- also called: Vol. 40- Issues carry also monthly designation.
+Also issued online. Chiefly in English, some text in Slovenian; summaries and
+table of contents also in Slovenian and English.
+Other ID: (OCoLC)29881395
+NLM ID: 101247110[Serial]
+
+60. Title Abbreviation: Bioorg Med Chem
+Title(s): Bioorganic & medicinal chemistry.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: England
+Publisher: Oxford : New York : Pergamon Press, c1993-
+Latest Publisher: Oxford : Elsevier Science
+Description: v. : ill., ports.
+Language: English
+ISSN: 0968-0896(Print); 1464-3391(Electronic); 0968-0896(Linking)
+Coden: BMECEP
+Electronic Links: https://www.sciencedirect.com/journal/bioorganic-and-medicinal-chemistry
+Fully Indexed In: MEDLINE: v1n1,July 1993-; PubMed: v1n1,July 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Chemistry, Clinical*; Chemistry, Organic*; Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Also available online.
+Other ID: (DNLM)SR0075939(s)(OCoLC)28698705
+NLM ID: 9413298[Serial]
+
+61. Title Abbreviation: Colloids Surf B Biointerfaces
+Title(s): Colloids and surfaces. B, Biointerfaces.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Sixteen no. a year, 2002-
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, c1993-
+Description: v. : ill.
+Language: English
+ISSN: 0927-7765(Print); 1873-4367(Electronic); 0927-7765(Linking)
+Coden: CSBBEQ
+LCCN: 94640197, sn 93043240
+Electronic Links: https://www.sciencedirect.com/journal/colloids-and-surfaces-b-biointerfaces
+Fully Indexed In: MEDLINE: v34n1, Mar. 1 2004-; Index medicus
+In: PubMed: v34n1, Mar. 1 2004-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Colloids*; Surface Properties*; Surface-Active Agents*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0077077(s)(OCoLC)28276639
+NLM ID: 9315133[Serial]
+
+62. Author(s): European Federation for Pharmaceutical Sciences.
+Title Abbreviation: Eur J Pharm Sci
+Title(s): European journal of pharmaceutical sciences : official journal of the European
+Federation for Pharmaceutical Sciences.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Fifteen no. a year, 2001-
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, c1993-
+Latest Publisher: Amsterdam : Elsevier Science B.V
+Description: v. : ill.
+Language: English
+ISSN: 0928-0987(Print); 1879-0720(Electronic); 0928-0987(Linking)
+LCCN: 94648379, sn 93043412
+Electronic Links: https://www.sciencedirect.com/journal/european-journal-of-pharmaceutical-sciences
+Fully Indexed In: MEDLINE: v6n1,Jan. 1998-; PubMed: v6n1,Jan. 1998-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*; Pharmaceutical Preparations*; Pharmacokinetics*; Technology, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0075711(s)(OCoLC)28704641
+NLM ID: 9317982[Serial]
+
+63. Title Abbreviation: Bioorg Med Chem Lett
+Title(s): Bioorganic & medicinal chemistry letters.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Semimonthly, 1994-
+Country of Publication: England
+Publisher: Oxford ; New York : Pergamon Press, c1991-
+Latest Publisher: Oxford : Elsevier Science Ltd
+Description: v. : ill.
+Language: English
+ISSN: 0960-894X(Print); 1464-3405(Electronic); 0960-894X(Linking)
+Coden: BMCLE8
+Electronic Links: https://www.sciencedirect.com/journal/bioorganic-and-medicinal-chemistry-letters
+Fully Indexed In: MEDLINE: v8n1,Jan. 1998-; PubMed: v8n1,Jan. 1998-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Chemistry, Organic*; Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also available online.
+Other ID: (DNLM)SR0069668(s)(OCoLC)23245011
+NLM ID: 9107377[Serial]
+
+64. Author(s): Royal Society of Chemistry (Great Britain). Faraday Division.
+Title Abbreviation: Faraday Discuss
+Title(s): Faraday discussions.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Eight issues a year, 2019-
+Country of Publication: England
+Publisher: London : Faraday Division, Royal Society of Chemistry, c1992-
+Description: v. : ill.
+Language: English
+ISSN: 1359-6640(Print); 1364-5498(Electronic); 1359-6640(Linking)
+Electronic Links: https://pubs.rsc.org/en/journals/journalissues/fd#!recentarticles&adv
+In: PubMed: n92, 1991-; 
+Selectively Indexed in: MEDLINEn92, 1991-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Biannually. Title from analytical t.p. Issued 1991- . Also issued online.
+Other ID: (DNLM)SR0074884(s)(OCoLC)51394326
+NLM ID: 9212301[Serial]
+
+65. Title Abbreviation: Antivir Chem Chemother
+Title(s): Antiviral chemistry & chemotherapy.
+Publication Start Year: 1990
+Publication End Year: 2023
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, UK ; Boston : Blackwell Scientific Publications, c1990-2023.
+Latest Publisher: 2015-2023 : London : Sage Publications
+Description: v. : ill.
+Language: English
+ISSN: 0956-3202(Print); 2040-2066(Electronic); 0956-3202(Linking)
+Coden: ACCHEH
+Electronic Links: https://journals.sagepub.com/home/avc, https://pmc.ncbi.nlm.nih.gov/journals/?term=9009212
+Fully Indexed In: MEDLINE: v9n1,Jan. 1998-v31, Jan.-Dec. 2023; PubMed: v9n1,Jan. 1998-v31, Jan.-Dec. 2023; Index medicus
+In: PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Antiviral Agents*; Virus Diseases/drug therapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.19, no. 6 (2009). Vol. 19, no. 4
+include ISAR News, Vol. 18, no. 2. Also issued online.
+Other ID: (DNLM)SR0065847(s)(OCoLC)20073994
+NLM ID: 9009212[Serial]
+
+66. Author(s): Gesellschaft Deutscher Chemiker. Fachgruppe Analytische Chemie.
+Title Abbreviation: Fresenius J Anal Chem
+Title(s): Fresenius' journal of analytical chemistry.
+Publication Start Year: 1990
+Publication End Year: 2001
+Frequency: Twenty four no. a year
+Country of Publication: Germany
+Publisher: Berlin : Springer International, 1990-2001.
+Description: v. : ill.
+Language: English
+ISSN: 0937-0633(Print); 1432-1130(Electronic); 0937-0633(Linking)
+Coden: FJACES
+Electronic Links: http://link.springer-ny.com/link/service/journals/00216/index_fresenius.htm
+Selectively Indexed in: MEDLINEv366n1, Jan. 1, 2000-v371n8, Dec. 2001PubMedv366n1, Jan. 1, 2000-v371n8, Dec. 2001Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry Techniques, Analytical*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online. Text in English or German, with
+summaries in English. Supported by: Fachgruppe Analytische Chemie, Gesellschaft
+Deutscher Chemiker.
+Other ID: (DNLM)SR0067853(s)(OCoLC)21067721
+NLM ID: 9114077[Serial]
+
+67. Title Abbreviation: Phytochem Anal
+Title(s): Phytochemical analysis : PCA.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Chichester, Sussex, UK : Wiley, c1990-
+Description: v. : ill.
+Language: English
+ISSN: 0958-0344(Print); 1099-1565(Electronic); 0958-0344(Linking)
+Coden: PHANEL
+LCCN: 91-660141
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1565
+Fully Indexed In: MEDLINE: v12n1, Jan.-Feb. 2001-; PubMed: v12n1, Jan.-Feb. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Plants/chemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 1 complete in 2 issues. Also issued online.
+Other ID: (DNLM)SR0071466(s)(OCoLC)23673004
+NLM ID: 9200492[Serial]
+
+68. Author(s): Kemisk forening (Denmark); Suomen Kemian Seura.; Norsk kjemisk selskap.; Svenska 
+kemistsamfundet.
+Title Abbreviation: Acta Chem Scand (Cph)
+Title(s): Acta chemica Scandinavica.
+Publication Start Year: 1989
+Publication End Year: 1999
+Frequency: Twelve no. a year
+Country of Publication: Denmark
+Publisher: Copenhagen : Munksgaard, c1989-c1999.
+Description: 11 v. : ill.
+Language: English
+ISSN: 0904-213X(Print); 1902-3103(Electronic); 0904-213X(Linking)
+Coden: ACHSE7
+LCCN: sn 89038323
+Electronic Links: http://actachemscand.dk/
+In: PubMed: v43n1, Jan. 1989-v53n12, Dec. 1999; 
+Selectively Indexed in: MEDLINEv43n1, Jan. 1989-v53n12, Dec. 1999Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Chemistry*; Chemistry, Inorganic*; Chemistry, Organic*; Chemistry, Physical*
+Publication Type(s): Periodical
+Notes: Title from cover. Supplements accompany some issues. Also issued online. Articles
+in English, French, and German. Published for the following chemical societies:
+Kemisk forening (Denmark), Suomen Kemian Seura-Kemiska Sällskapet i Finland
+(Finland), Norsk kjemisk selskap (Norway), and Svenska kemistsamfundet (Sweden).
+Other ID: (DNLM)SR0065293(s)(OCoLC)19257462
+NLM ID: 9012772[Serial]
+
+69. Title Abbreviation: Adv Mater
+Title(s): Advanced materials.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Semimonthly, 2000-
+Country of Publication: Germany
+Publisher: Deerfield Beach, FL : VCH Publishers, 1989-
+Latest Publisher: Sept. 3, 1997- : Weinheim : Wiley-VCH
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 0935-9648(Print); 1521-4095(Electronic); 0935-9648(Linking)
+Coden: ADVMEW
+LCCN: 90656517
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4095
+In: PubMed: v22n1, Jan. 5 2010-; 
+Selectively Indexed in: MEDLINEv22n1, Jan. 5 2010-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical and Dental Materials*; Manufactured Materials
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 22, no. 8 (Feb. 23, 2010). Volume 
+numbering begins with v. 2, no. 1 (Jan. 1990). Also issued online.
+Other ID: (OCoLC)21104347(DNLM)SR0070881(s)
+NLM ID: 9885358[Serial]
+
+70. Title Abbreviation: Chirality
+Title(s): Chirality.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: 10 no. a year, 1998-
+Country of Publication: United States
+Publisher: New York, NY : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 0899-0042(Print); 1520-636X(Electronic); 0899-0042(Linking)
+Coden: CHRLEP
+LCCN: 89646700, sn 88001528
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-636X
+Selectively Indexed in: MEDLINEv1n1, 1989-PubMedv1n1, 1989-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Isomerism*; Molecular Conformation*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2013. Also issued online.
+Other ID: (DNLM)SR0065568(s)(OCoLC)18115575
+NLM ID: 8914261[Serial]
+
+71. Author(s): Società chimica italiana.
+Title Abbreviation: Farmaco
+Title(s): Il Farmaco.
+Publication Start Year: 1989
+Publication End Year: 2005
+Frequency: Monthly
+Country of Publication: France
+Publisher: Pavia : Società chimica italiana, [1989?]-
+Latest Publisher: 2001- : Paris : Elsevier
+Description: 17 v.
+Language: English, French, Italian
+ISSN: 0014-827X(Print); 1879-0569(Electronic); 0014-827X(Linking)
+Coden: FRMCE8
+LCCN: sn 89036439
+Electronic Links: https://www.sciencedirect.com/journal/il-farmaco
+Fully Indexed In: MEDLINE: v44n1, Jan. 1989-v60n12, Dec. 2005; Index medicus
+In: PubMed: v44n1, Jan. 1989-v60n12, Dec. 2005; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Pharmaceutical*; Drug Therapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Articles in English, French, and Italian;
+summaries in English and French or Italian.
+Other ID: (DNLM)SR0065843(s)(OCoLC)19853803
+NLM ID: 8912641[Serial]
+
+72. Author(s): International Society for Neurochemistry.; World Federation of Neurology.
+Title Abbreviation: Mol Chem Neuropathol
+Title(s): Molecular and chemical neuropathology/ sponsored by the International Society for
+Neurochemistry and the World Federation of Neurology and research groups on
+neurochemistry and cerebrospinal fluid.
+Publication Start Year: 1989
+Publication End Year: 1998
+Frequency: Nine no. a year
+Country of Publication: United States
+Publisher: Clifton, NJ : Humana Press, c1989-
+Description: v. : ill.
+Language: English
+ISSN: 1044-7393(Print); 1044-7393(Linking)
+Coden: MCHNEM
+Fully Indexed In: MEDLINE: v10n1, Feb. 1989-v35n1-3, Aug.-Dec. 1998; Index medicus
+In: PubMed: v10n1, Feb. 1989-v35n1-3, Aug.-Dec. 1998; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Nervous System Diseases/pathology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0064824(s)(OCoLC)19855597
+NLM ID: 8910358[Serial]
+
+73. Author(s): Zhongguo ke xue yuan.
+Title Abbreviation: Sci China B
+Title(s): Science in China. Series B, Chemistry, life sciences & earth sciences.
+Publication Start Year: 1989
+Publication End Year: 1995
+Frequency: Monthly
+Country of Publication: China
+Publisher: Beijing, China : Chinese Academy of Sciences : Science Press ; Oxford, UK ;
+Elmsford, NY : Distributed by Pergamon Press, c1989-
+Description: 7 v. : ill.
+Language: English
+ISSN: 1001-652X(Print); 1001-652X(Linking)
+Coden: SCBSE5
+Selectively Indexed in: MEDLINEv32n1,Jan. 1989-v38n12,Dec. 1995PubMedv32n1,Jan. 1989-v38n12,Dec. 1995Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Chemistry*; Science*
+Publication Type(s): Periodical
+Notes: Title from cover. At head of title: Scientia sinica.
+Other ID: (OCoLC)19908874(DNLM)SR0065958(s)
+NLM ID: 8913082[Serial]
+
+74. Title Abbreviation: J Chem Neuroanat
+Title(s): Journal of chemical neuroanatomy.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Eight no. a year
+Country of Publication: Netherlands
+Publisher: Chichester, Sussex, England : Wiley & Sons, c1988-
+Latest Publisher: Amsterdam : Elsevier Science Publisher
+Description: v. : ill.
+Language: English
+ISSN: 0891-0618(Print); 1873-6300(Electronic); 0891-0618(Linking)
+LCCN: sn 86002773
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-chemical-neuroanatomy
+Fully Indexed In: MEDLINE: v1n1,Jan./Feb. 1988-; PubMed: v1n1,Jan./Feb. 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System/anatomy & histology*; Neurochemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also available online.
+Other ID: (DNLM)SR0062143(s)(OCoLC)14558761
+NLM ID: 8902615[Serial]
+
+75. Author(s): University of Karachi. Faculty of Pharmacy.
+Title Abbreviation: Pak J Pharm Sci
+Title(s): Pakistan journal of pharmaceutical sciences.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Bimonthly, Jan. 2013-
+Country of Publication: Pakistan
+Publisher: Karachi : Faculty of Pharmacy, University of Karachi, [1988-
+Description: v.
+Language: English
+ISSN: 1011-601X(Print); 1011-601X(Linking)
+Coden: PJPSEN
+LCCN: sn 90001947
+Electronic Links: http://www.pjps.pk/
+Fully Indexed In: MEDLINE: v18n1, Jan. 2005-; PubMed: v18n1, Jan. 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Description based on surrogate. Latest issue consulted: Vol. 18, no. 1 (Jan.
+2005). Also issued online.
+Other ID: (DNLM)SR0063752(s)(OCoLC)22473014
+NLM ID: 9426356[Serial]
+
+76. Title Abbreviation: J Contam Hydrol
+Title(s): Journal of contaminant hydrology.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Twenty eight no. a year, <2001->
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, [c1986-
+Description: v. : ill.
+Language: English
+ISSN: 0169-7722(Print); 1873-6009(Electronic); 0169-7722(Linking)
+Coden: JCOHE6
+LCCN: 94660974, sn 86043143
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-contaminant-hydrology
+Fully Indexed In: MEDLINE: v47n1, Jan. 2001-; Index medicus
+In: PubMed: v47n1, Jan. 2001-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Water Pollution*
+Publication Type(s): Periodical
+Notes: Some issues also have distinctive titles. Also issued online.
+Other ID: (DNLM)SR0057801(s)(OCoLC)13775695
+NLM ID: 8805644[Serial]
+
+77. Title Abbreviation: Annu Rev Biophys Biophys Chem
+Title(s): Annual review of biophysics and biophysical chemistry.
+Publication Start Year: 1985
+Publication End Year: 1991
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, Calif. : Annual Reviews, c1985-c1991.
+Latest Publisher: Palo Alto Ca : Annual Reviews
+Description: 7 v. : ill., ports.
+Language: English
+ISSN: 0883-9182(Print); 0883-9182(Linking)
+Coden: ABPBBK
+Fully Indexed In: MEDLINE: v14, 1985-v20, 1991; PubMed: v14, 1985-v20, 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biophysics*; Chemistry, Physical*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0054225(s)(OCoLC)12140595
+NLM ID: 8505748[Serial]
+
+78. Title Abbreviation: Environ Geochem Health
+Title(s): Environmental geochemistry and health.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Kew, Surrey : Science and Technology Letters, 1985-
+Latest Publisher: 1999- : Dordrecht : Kluwer Academic Publishers
+Description: v.
+Language: English
+ISSN: 0269-4042(Print); 1573-2983(Electronic); 0269-4042(Linking)
+Coden: EGHEE3
+LCCN: 85645658
+Electronic Links: https://link.springer.com/journal/10653
+Fully Indexed In: MEDLINE: v25n1,Mar. 2003-; PubMed: v25n1,Mar. 2003-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Health*; Environmental Monitoring*; Minerals*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0063160(s)(OCoLC)12269097
+NLM ID: 8903118[Serial]
+
+79. Title Abbreviation: Free Radic Res Commun
+Title(s): Free radical research communications.
+Publication Start Year: 1985
+Publication End Year: 1993
+Frequency: Twelve no. a year
+Country of Publication: Switzerland
+Publisher: Chur ; New York : G+B/Harwood, c1985-
+Latest Publisher: Yverdon-Les-Bains : Harwood Academic Publishers
+Description: 19 v. : ill.
+Language: English
+ISSN: 8755-0199(Print); 8755-0199(Linking)
+Coden: FRRCEX
+Electronic Links: https://www.tandfonline.com/loi/ifra20
+Fully Indexed In: MEDLINE: v1n1,Sept. 1985-v19, 1993; PubMed: v1n1,Sept. 1985-v19, 1993; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Free Radicals*
+Publication Type(s): Periodical
+Notes: Title from cover. Six issues per vol. Also issued online.
+Other ID: (DNLM)SR0057659(s)(OCoLC)11241977
+NLM ID: 8709453[Serial]
+
+80. Author(s): American Chemical Society.
+Title Abbreviation: Langmuir
+Title(s): Langmuir : the ACS journal of surfaces and colloids.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Biweekly, <Apr. 3, 1996->
+Country of Publication: United States
+Publisher: Washington, DC : American Chemical Society, c1985-
+Description: v. ; 28 cm. + suppl. material (microfiche : negative)
+Language: English
+ISSN: 0743-7463(Print); 1520-5827(Electronic); 0743-7463(Linking)
+Coden: LANGD5
+LCCN: 86649842, sn 84005258
+Electronic Links: http://pubs.acs.org/journals/langd5/index.html
+Selectively Indexed in: MEDLINEv20n1, Jan. 6 2004-PubMedv20n1, Jan. 6 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Colloids*; Surface Properties
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 18, no. 13 (June 25, 2002). Issued
+also in microfiche. Also issued online.
+Other ID: (OCoLC)10666233(DNLM)SR0059584(s)
+NLM ID: 9882736[Serial]
+
+81. Title Abbreviation: Magn Reson Chem
+Title(s): Magnetic resonance in chemistry : MRC.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Chichester, Sussex, England : Wiley Heyden, c1985-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 0749-1581(Print); 1097-458X(Electronic); 0749-1581(Linking)
+Coden: MRCHEG
+LCCN: 85647586, sn 84006957
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-458X
+Selectively Indexed in: MEDLINEv42n1, Jan. 2004-PubMedv42n1, Jan. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Organic; Magnetic Resonance Spectroscopy*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 42, no. 2 (Feb. 2004). Vols. for
+<38-> also have an additional special issue. Also issued online.
+Other ID: (OCoLC)11079428(DNLM)SR0059155(s)
+NLM ID: 9882600[Serial]
+
+82. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Nat Prod Rep
+Title(s): Natural product reports.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Twelve issues a year
+Country of Publication: England
+Publisher: [London, England] : Royal Society of Chemistry, c1984-
+Description: v. : ill.
+Language: English
+ISSN: 0265-0568(Print); 1460-4752(Electronic); 0265-0568(Linking)
+Coden: NPRRDF
+LCCN: 93646083, sc 84003005
+Electronic Links: http://www.rsc.org/Publishing/Journals/NP/
+Fully Indexed In: MEDLINE: v1n1, 1984-; PubMed: v1n1, 1984-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Products*; Chemistry, Organic*
+Publication Type(s): Periodical
+Notes: Issues for <Feb. 1999-> also called: NPR. Title from cover. Print issues ceased
+with v. 36 (2019). Also issued online.
+Other ID: (OCoLC)10601505(DNLM)N07510000(s)
+NLM ID: 8502408[Serial]
+
+83. Author(s): International Society for Neurochemistry.; World Federation of Neurology.
+Title Abbreviation: Neurochem Pathol
+Title(s): Neurochemical pathology.
+Publication Start Year: 1983
+Publication End Year: 1988
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Clifton, NJ : Humana Press, c1983-c1988.
+Description: 9 v. : ill.
+Language: English, English
+ISSN: 0734-600X(Print); 0734-600X(Linking)
+Coden: NEPADD
+Fully Indexed In: MEDLINE: v2n1, 1984-v9, Jul.-Dec. 1988; Index medicus
+In: PubMed: v2n1, 1984-v9, Jul.-Dec. 1988; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neurochemistry*
+Publication Type(s): Periodical
+Notes: Title form cover. Sponsored by the International Society for Neurochemistry and
+the World Federation of Neurology research groups on neurochemistry
+andcerebrospinal fluid.
+Other ID: (DNLM)N12495000(s)(OCoLC)08774304
+NLM ID: 8310818[Serial]
+
+84. Author(s): SETAC (Society)
+Title Abbreviation: Environ Toxicol Chem
+Title(s): Environmental toxicology and chemistry/ SETAC.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: New York : Pergamon Press, c1982-
+Latest Publisher: 2025- : [Oxford] : Oxford University Press
+Description: v. : ill.
+Language: English, English
+ISSN: 0730-7268(Print); 1552-8618(Electronic); 0730-7268(Linking)
+Coden: ETOCDK
+Electronic Links: https://setac.onlinelibrary.wiley.com/loi/15528618, https://academic.oup.com/etc
+Fully Indexed In: MEDLINE: v20n1, 2001-; PubMed: v20n1, 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Pollutants*; Environmental Pollution*; Toxicology*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Print issues ceased with v. 33
+(2014). Also issued online.
+Other ID: (DNLM)E10730000(s)(OCoLC)08047857
+NLM ID: 8308958[Serial]
+
+85. Author(s): Zhongguo ke xue yuan.
+Title Abbreviation: Sci Sin B
+Title(s): Scientia Sinica. Series B, Chemical, biological, agricultural, medical & earth
+sciences/ Chung-kuo k'o hsüeh yüan, chu pan.
+Publication Start Year: 1982
+Publication End Year: 1988
+Frequency: Monthly
+Country of Publication: China
+Publisher: Beijing, China : Science Press, 1982-1988.
+Latest Publisher: Beijing : Academia Sinica
+Description: v. : ll.
+Language: English
+ISSN: 0253-5823(Print); 0253-5823(Linking)
+Coden: SSBSEF
+In: PubMed: v25n1, Jan. 1982-v31n12, Dec. 1988; 
+Selectively Indexed in: MEDLINEv25n1, Jan. 1982-v31n12, Dec. 1988Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Chemistry*; Science*
+Publication Type(s): Periodical
+Notes: Title from cover. At head of title: Chung-kuo k'o hsüeh. Vols. for Apr.
+1985-Dec. 1988, called also: Science in China. Articles in English.
+Other ID: (OCoLC)08269390(DNLM)S12891000(s)
+NLM ID: 8209875[Serial]
+
+86. Title Abbreviation: J Comput Chem
+Title(s): Journal of computational chemistry.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: 16 no. a year, <2002->
+Country of Publication: United States
+Publisher: New York : Wiley,
+Description: v. : ill.,
+Language: English
+ISSN: 0192-8651(Print); 1096-987X(Electronic); 0192-8651(Linking)
+Coden: JCCHDD
+LCCN: 80643914, sn 79006892
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-987X
+In: PubMed: v23n1, Jan. 15, 2002-; 
+Selectively Indexed in: MEDLINEv23n1, Jan. 15, 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry/methods*; Computer Simulation; Models, Chemical
+Publication Type(s): Periodical
+Notes: "A Wiley-Interscience publication." Description based on: Vol. 23, no. 1 (Jan.
+15, 2002); title from cover. Print issues ceased with v. 41 (2020). Also issued
+online.
+Other ID: (DNLM)J17615000(s)(OCoLC)05081734
+NLM ID: 9878362[Serial]
+
+87. Title Abbreviation: Neurochem Int
+Title(s): Neurochemistry international.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Thirteen no. a year, 2000-
+Country of Publication: England
+Publisher: Oxford [Elmsford, N. Y.] Pergamon Press.
+Description: v. ill.
+Language: English
+ISSN: 0197-0186(Print); 1872-9754(Electronic); 0197-0186(Linking)
+Coden: NEUIDS
+Electronic Links: http://www.sciencedirect.com/science/journal/01970186
+Fully Indexed In: MEDLINE: v20n1,Jan. 1992-; PubMed: v20n1,Jan. 1992-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neurochemistry*
+Publication Type(s): Periodical
+Notes: Some numbers called "special issue." Also available online.
+Other ID: (DNLM)N12530000(s)(OCoLC)05937082
+NLM ID: 8006959[Serial]
+
+88. Title Abbreviation: Cryo Letters
+Title(s): Cryo letters.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: [London : Royal Veterinary College,
+Latest Publisher: London, Eng. : CryoLetters
+Description: v. : ill.
+Language: English
+ISSN: 0143-2044(Print); 0143-2044(Linking)
+Coden: CRLED9
+LCCN: sc 82001467, sn 80003362
+Electronic Links: http://www.cryoletters.org, https://www.ingentaconnect.com/content/cryo/cryo
+Fully Indexed In: MEDLINE: v22n1, Jan.-Feb. 2001-; PubMed: v22n1, Jan.-Feb. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology; Chemistry; Cold Temperature; Cryopreservation; Ecology; Freezing*; Physics
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 22, no. 2 (Mar./Apr. 2001); title from cover. Print
+issues ceased with 2022. Also issued online.
+Other ID: (OCoLC)06888267(DNLM)SR0092119(s)
+NLM ID: 9891832[Serial]
+
+89. Title Abbreviation: Int J Pharm
+Title(s): International journal of pharmaceutics.
+Publication Start Year: 1978
+Publication End Year: 
+Frequency: 38 no. a year, 2000-
+Country of Publication: Netherlands
+Publisher: Amsterdam, Elsevier/North-Holland Biomedical Press.
+Description: v. ill.
+Language: English
+ISSN: 0378-5173(Print); 1873-3476(Electronic); 0378-5173(Linking)
+Coden: IJPHDE
+LCCN: sc 80000643, sn 79004876
+Electronic Links: https://www.sciencedirect.com/journal/international-journal-of-pharmaceutics
+Fully Indexed In: MEDLINE: v177n1, 1999-; PubMed: v177n1, 1999-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Technology, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)I27700000(s)(OCoLC)03687036
+NLM ID: 7804127[Serial]
+
+90. Title Abbreviation: Comput Chem
+Title(s): Computers & chemistry.
+Publication Start Year: 1976
+Publication End Year: 2002
+Frequency: Bimonthly, <20 Nov. 1997>-2002
+Country of Publication: England
+Publisher: Oxford ; New York : Pergamon, c1976-c2002.
+Description: 26 v. : ill.
+Language: English, English
+ISSN: 0097-8485(Print); 0097-8485(Linking)
+Coden: COCHDK
+Electronic Links: https://www.sciencedirect.com/journal/computers-and-chemistry
+Selectively Indexed in: MEDLINEv18n1, 1994-v26n6, 2002PubMedv18n1, 1994-v26n6, 2002Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*; Computers*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online.
+Other ID: (DNLM)C36220000(s)(OCoLC)01351124
+NLM ID: 7607706[Serial]
+
+91. Title Abbreviation: Food Chem
+Title(s): Food chemistry.
+Publication Start Year: 1976
+Publication End Year: 
+Frequency: Thirty-two no. a year, 2018-
+Country of Publication: England
+Publisher: Barking, Eng., Applied Science Publishers.
+Latest Publisher: Barking : Elsevier Applied Science Publishers
+Description: v. ill.
+Language: English, English
+ISSN: 0308-8146(Print); 1873-7072(Electronic); 0308-8146(Linking)
+Electronic Links: https://www.sciencedirect.com/journal/food-chemistry
+Fully Indexed In: MEDLINE: v132n1, May 1 2012-
+In: PubMed: v132n1, May 1 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*; Food Analysis*; Food*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)F09620000(s)(OCoLC)02728297
+NLM ID: 7702639[Serial]
+
+92. Title Abbreviation: Neurochem Res
+Title(s): Neurochemical research.
+Publication Start Year: 1976
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, Plenum Press
+Latest Publisher: 1999- : New York, NY : Kluwer Academic/Plenum Publishers
+Description: v. ill.
+Language: English, English
+ISSN: 0364-3190(Print); 1573-6903(Electronic); 0364-3190(Linking)
+Coden: NEREDZ
+Electronic Links: https://link.springer.com/journal/11064
+Fully Indexed In: MEDLINE: v3n1,Feb. 1978-; PubMed: v3n1,Feb. 1978-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neurochemistry*; Research*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)N12500000(s)(OCoLC)02628725
+NLM ID: 7613461[Serial]
+
+93. Title Abbreviation: J Chem Ecol
+Title(s): Journal of chemical ecology.
+Publication Start Year: 1975
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, Plenum Press.
+Latest Publisher: New York, NY : Springer
+Description: v. illus.,ports.
+Language: English, English
+ISSN: 0098-0331(Print); 1573-1561(Electronic); 0098-0331(Linking)
+Coden: JCECD8
+LCCN: 75644091
+Electronic Links: https://link.springer.com/journal/10886
+Fully Indexed In: MEDLINE: v27n1, 2001-; PubMed: v27n1, 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*; Ecology*; Pheromones*
+Publication Type(s): Periodical
+Notes: Imprint varies. Also issued online.
+Other ID: (DNLM)J15640000(s)(OCoLC)02245984
+NLM ID: 7505563[Serial]
+
+94. Author(s): American Chemical Society.
+Title Abbreviation: J Chem Inf Comput Sci
+Title(s): Journal of chemical information and computer sciences.
+Publication Start Year: 1975
+Publication End Year: 2004
+Frequency: Bimonthly, 1992-
+Country of Publication: United States
+Publisher: Easton, Pa., American Chemical Society.
+Latest Publisher: Washington, DC : American Chemical Society
+Description: v. illus.
+Language: English
+ISSN: 0095-2338(Print); 0095-2338(Linking)
+Coden: JCISD8
+LCCN: 75643870
+In: PubMed: v15n1,Feb. 1975-v44n6, Nov./Dec. 2004; 
+Selectively Indexed in: MEDLINEv15n1,Feb. 1975-v44n6, Nov./Dec. 2004Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*; Computers*; Documentation*; Information Systems*
+Publication Type(s): Periodical
+Notes: Place of publication varies.
+Other ID: (DNLM)J15700000(s)(OCoLC)02241471
+NLM ID: 7505012[Serial]
+
+95. Title Abbreviation: Acta Chem Scand A
+Title(s): Acta chemica Scandinavica. Series A: Physical and inorganic chemistry.
+Publication Start Year: 1974
+Publication End Year: 1988
+Frequency: Ten no. a year
+Country of Publication: Denmark
+Publisher: Copenhagen, Munksgaard.
+Latest Publisher: Copenhagen : Munksgaard International Publishers
+Description: 15 v. ill.
+Language: English
+ISSN: 0302-4377(Print); 0302-4377(Linking)
+Coden: ACAPCT
+Selectively Indexed in: MEDLINEv28n5, 1974-v38n5, 1979PubMedv28n5, 1974-v38n5, 1979Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*; Chemistry, Physical*
+Publication Type(s): Periodical
+Notes: Articles in English, French, or German. Published by the chemical societies in
+Denmark, Finland, Norway and Sweden. Key title: Acta chemica Scandinavica. Series
+A. Physical and inorganic chemistry, ISSN 0302-4377.
+Other ID: (OCoLC)00981847(DNLM)A04665000(s)
+NLM ID: 0421761[Serial]
+
+96. Title Abbreviation: Acta Chem Scand B
+Title(s): Acta chemica Scandinavica. Series B: Organic chemistry and biochemistry.
+Publication Start Year: 1974
+Publication End Year: 1988
+Frequency: Ten no. a year
+Country of Publication: Denmark
+Publisher: Copenhagen, Munksgaard.
+Latest Publisher: Copenhagen : Munksgaard International Publishers
+Description: 15 v. ill.
+Language: English
+ISSN: 0302-4369(Print); 0302-4369(Linking)
+Coden: ACBOCV
+Selectively Indexed in: MEDLINEv28n1, 1974-v42n10,Nov. 1988PubMedv28n1, 1974-v42n10,Nov. 1988Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Chemistry, Organic*
+Publication Type(s): Periodical
+Notes: Articles in English, French, or German. Published by the chemical societies in
+Denmark, Finland, Norway and Sweden. Key title: Acta chemica Scandinavica. Series
+B. Organic chemistry and biochemistry, ISSN 0302-4369.
+Other ID: (OCoLC)00981837(DNLM)A04680000(s)
+NLM ID: 0421265[Serial]
+
+97. Title Abbreviation: Eur J Med Chem
+Title(s): European journal of medicinal chemistry.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: France
+Publisher: Paris, S.E.C.T. [etc.]
+Latest Publisher: Paris : Editions Scientifiques Elsevier
+Description: v. ill.
+Language: English
+ISSN: 0223-5234(Print); 1768-3254(Electronic); 0223-5234(Linking)
+Coden: EJMCA5
+LCCN: sn 84009509
+Electronic Links: https://www.sciencedirect.com/journal/european-journal-of-medicinal-chemistry
+Fully Indexed In: MEDLINE: v35n1, Jan. 2000-; PubMed: v35n1, Jan. 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*; Pharmacology*
+Publication Type(s): Periodical
+Notes: Added title: Chimica therapeutica, 1974-1981; Chimie thérapeutique, 1982- . Also 
+issued online. Text in English, French, or German, with some summaries in English
+and German.
+Other ID: (OCoLC)02255316(DNLM)E16140000(s)
+NLM ID: 0420510[Serial]
+
+98. Title Abbreviation: Top Curr Chem
+Title(s): Topics in current chemistry.
+Publication Start Year: 1973
+Publication End Year: 2016
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: v. ill.
+Language: English, German
+ISSN: 0340-1022(Print); 1436-5049(Electronic); 0340-1022(Linking)
+Coden: TPCCAQ
+LCCN: 74644622
+Electronic Links: https://link.springer.com/bookseries/128
+In: PubMed: 44, 1974-108,1983; 289, 2010-373, 2016; 
+Selectively Indexed in: MEDLINE44, 1974-108,1983; 289, 2010-373, 2016Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Each volume also has a distinctive title. Also issued online. Papers in English
+or German; English only, <2016- >. Indexes: Author and Subject Index; --Vols.
+26-50, in v. 50; Author Index; Vols. 101-114, in v. 114.
+Other ID: (OCoLC)01793926(DNLM)T13060000(s)
+NLM ID: 0432204[Serial]
+
+99. Author(s): Chemical Society (Great Britain)
+Title Abbreviation: Chem Soc Rev
+Title(s): Chemical Society reviews.
+Publication Start Year: 1972
+Publication End Year: 
+Frequency: Nine no. a year, 2004-
+Country of Publication: England
+Publisher: London, Chemical Society.
+Latest Publisher: Letchworth : Chemical Society
+Description: v.
+Language: English
+ISSN: 0306-0012(Print); 1460-4744(Electronic); 0306-0012(Linking)
+Coden: CSRVBR
+Electronic Links: http://www.rsc.org/Publishing/Journals/cs/index.asp
+Selectively Indexed in: MEDLINEv31n1, Jan. 2002-PubMedv31n1, Jan. 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Vols. for <Jan. 1999-> called also: CSR. Place of publication varies. Print
+issues ceased with v. 48 (2019). Also issued online; subscription required for
+full-text online access.
+Other ID: (DNLM)C15620000(s)(OCoLC)01784930
+NLM ID: 0335405[Serial]
+
+100. Title Abbreviation: Chemosphere
+Title(s): Chemosphere.
+Publication Start Year: 1972
+Publication End Year: 
+Frequency: Thirty no. a year
+Country of Publication: England
+Publisher: Oxford, New York, : Pergamon Press.
+Latest Publisher: Oxford : Elsevier Science Ltd
+Description: v. illus.
+Language: English
+ISSN: 0045-6535(Print); 1879-1298(Electronic); 0045-6535(Linking)
+Coden: CMSHAF
+LCCN: 72622992
+Electronic Links: https://www.sciencedirect.com/journal/chemosphere
+Fully Indexed In: MEDLINE: v29n1,Jul. 1994-; PubMed: v29n1,Jul. 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Chemistry*; Environmental Health*; Physics*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online. Articles in English, French, or 
+German.
+Other ID: (DNLM)C16780000(s)(OCoLC)02845873
+NLM ID: 0320657[Serial]
+
+101. Author(s): Chemical Society (Great Britain). Faraday Division.
+Title Abbreviation: Faraday Discuss Chem Soc
+Title(s): Faraday discussions of the Chemical Society.
+Publication Start Year: 1972
+Publication End Year: 1991
+Frequency: Semiannual
+Country of Publication: England
+Publisher: London, Faraday Div. of the Chemical Society.
+Description: v. ill.
+Language: English
+ISSN: 0301-7249(Print); 0301-7249(Linking)
+Coden: FSYCA3
+Electronic Links: http://www.rsc.org/Publishing/Journals/dc/Article.asp?Type=CurrentIssue
+In: PubMed: n57, 1974-n91, 1991; 
+Selectively Indexed in: MEDLINEn57, 1974-n91, 1991Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)F01480000(s)(OCoLC)01792616
+NLM ID: 7507112[Serial]
+
+102. Author(s): Chemical Society (Great Britain); Royal Society of Chemistry (Great Britain)
+Title Abbreviation: J Chem Soc Perkin 1
+Title(s): Journal of the Chemical Society. Perkin transactions 1.
+Publication Start Year: 1972
+Publication End Year: 1999
+Frequency: Semimonthly, <Dec. 1995>-Dec. 1999
+Country of Publication: England
+Publisher: London : Chemical Society
+Latest Publisher: <Dec. 1995>-Dec. 1999 : Cambridge, UK : Royal Society of Chemistry
+Description: 28 v. illus.
+Language: English
+ISSN: 0300-922X(Print); 2050-8255(Electronic); 0300-922X(Linking)
+Coden: JCPRB4
+LCCN: 72623336, sn  79004289
+Electronic Links: http://pubs.rsc.org/en/journals/journalissues/p1#!issueid=p1999024&type=archive&issnprint=0300-922x
+In: PubMed: Aug. 1965-n12, 1980; 
+Selectively Indexed in: MEDLINEAug. 1965-n12, 1980Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Organic*
+Publication Type(s): Periodical
+Notes: Issues for 1996-1999 have title: Journal of the Chemical Society. Perkin
+transactions. 1, Organic and bio-organic chemistry. Also issued online.
+Other ID: (OCoLC)01033975(DNLM)J15880000(s)
+NLM ID: 7505598[Serial]
+
+103. Title Abbreviation: Bioinorg Chem
+Title(s): Bioinorganic chemistry.
+Publication Start Year: 1971
+Publication End Year: 1978
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, American Elsevier Pub. Co.
+Latest Publisher: New York Ny : American Elsevier Pub. Co
+Description: 9 v. ill.
+Language: English
+ISSN: 0006-3061(Print); 0006-3061(Linking)
+Coden: BICHBX
+Selectively Indexed in: MEDLINEv3n2,Jan. 1974-v9, 1978PubMedv3n2,Jan. 1974-v9, 1978Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Chemistry*
+Publication Type(s): Periodical
+Other ID: (DNLM)B16000000(s)(OCoLC)01140541
+NLM ID: 1305411[Serial]
+
+104. Title Abbreviation: Bioorg Chem
+Title(s): Bioorganic chemistry.
+Publication Start Year: 1971
+Publication End Year: 
+Frequency: Bimonthly, <1997->
+Country of Publication: United States
+Publisher: New York, London, Academic Press.
+Latest Publisher: Amsterdam : Elsevier
+Description: v. illus., ports.
+Language: English
+ISSN: 0045-2068(Print); 1090-2120(Electronic); 0045-2068(Linking)
+Coden: BOCMBM
+Electronic Links: http://www.sciencedirect.com/science/journal/00452068
+Fully Indexed In: MEDLINE: v29n1, Feb. 2001-; Index medicus
+In: PubMed: v29n1, Feb. 2001-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Chemistry*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 38, no. 6 (Dec. 2010). Also issued online.
+Other ID: (OCoLC)01713886(DNLM)B19040000(s)
+NLM ID: 1303703[Serial]
+
+105. Title Abbreviation: Adv Carbohydr Chem Biochem
+Title(s): Advances in carbohydrate chemistry and biochemistry.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Netherlands
+Publisher: New York, Academic Press
+Latest Publisher: <2000- > : Amsterdam : Elsevier
+Description: v. illus., ports.
+Language: English
+ISSN: 0065-2318(Print); 2162-5530(Electronic); 0065-2318(Linking)
+Coden: ACBYAP
+Electronic Links: https://www.sciencedirect.com/bookseries/advances-in-carbohydrate-chemistry-and-biochemistry
+Fully Indexed In: MEDLINE: v24, 1969-; Index medicus
+In: PubMed: v24, 1969-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Carbohydrates*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)A13410000(s)(OCoLC)01793761
+NLM ID: 0240537[Serial]
+
+106. Author(s): American Chemical Society.
+Title Abbreviation: Acc Chem Res
+Title(s): Accounts of chemical research.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, American Chemical Society.
+Description: v. illus.
+Language: English
+ISSN: 0001-4842(Print); 1520-4898(Electronic); 0001-4842(Linking)
+Coden: ACHRE4
+LCCN: 70008300
+Electronic Links: http://pubs.acs.org/journals/achre4/index.html
+Selectively Indexed in: MEDLINEv33n1, Jan. 2000-PubMedv33n1, Jan. 2000-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*; Research*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)A03270000(s)(OCoLC)01460793
+NLM ID: 0157313[Serial]
+
+107. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr A Cryst Phys Diffr Theor Gen Crystallogr
+Title(s): Acta crystallographica. Section A, Crystal physics, diffraction, theoretical and 
+general crystallography.
+Publication Start Year: 1968
+Publication End Year: 1982
+Frequency: Bimonthly
+Country of Publication: Denmark
+Publisher: Copenhagen, Published for the International Union of Crystallography by
+Munksgaard.
+Description: 15 v. ill.
+Language: English
+ISSN: 0567-7394(Print); 0567-7394(Linking)
+Coden: ACACBN
+Fully Indexed In: MEDLINE: v25n1,Jan. 1,  1969 ; v26n6, Nov. 1, 1970; Index medicus
+In: PubMed: v25n1,Jan. 1, 1969 ; v26n6, Nov. 1, 1970; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallization*; Crystallography*
+Publication Type(s): Periodical
+Notes: Some vols. accompanied by supplements for the collected abstracts of the
+International Union of Crystallography congresses. Articles in English, French,
+or German.
+Other ID: (OCoLC)01460869(DNLM)A05100000(s)
+NLM ID: 0211627[Serial]
+
+108. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr B Struct Crystallogr Cryst Chem
+Title(s): Acta crystallographica. Section B: Structural crystallography and crystal
+chemistry.
+Publication Start Year: 1968
+Publication End Year: 1982
+Frequency: Monthly
+Country of Publication: Denmark
+Publisher: Copenhagen, Published for the International Union of Crystallography by
+Munksgaard.
+Description: 15 v. ill., ports.
+Language: English, French, German
+ISSN: 0567-7408(Print); 0567-7408(Linking)
+Coden: ACBCAR
+LCCN: 86643048, sn 80012040
+Fully Indexed In: MEDLINE: v24n1,Jan. 23, 1968- v26n10,Oct. 15, 1970; Index medicus
+In: PubMed: v24n1,Jan. 23, 1968- v26n10,Oct. 15, 1970; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallization*; Crystallography*
+Publication Type(s): Periodical
+Notes: Articles in English, French, or German.
+Other ID: (DNLM)A05115000(s)(OCoLC)01460868
+NLM ID: 0211630[Serial]
+
+109. Author(s): American Chemical Society.
+Title Abbreviation: Macromolecules
+Title(s): Macromolecules.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Twenty six no. a year
+Country of Publication: United States
+Publisher: Washington, American Chemical Society.
+Description: v. illus.
+Language: English
+ISSN: 0024-9297(Print); 1520-5835(Electronic); 0024-9297(Linking)
+Coden: MAMOBX
+Electronic Links: http://pubs.acs.org/journals/mamobx/index.html
+Selectively Indexed in: MEDLINEv6n1, Jan./Feb. 1973-v11n1, Jan./Feb. 1978PubMedv6n1, Jan./Feb. 1973-v11n1, Jan./Feb. 1978Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Macromolecular Substances*; Polymers*
+Notes: Also issued online.
+Other ID: (DNLM)M00380000(s)(OCoLC)01268535
+NLM ID: 0365316[Serial]
+
+110. Title Abbreviation: Adv Colloid Interface Sci
+Title(s): Advances in colloid and interface science.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Sixteen no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam, The Netherlands : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0001-8686(Print); 1873-3727(Electronic); 0001-8686(Linking)
+Coden: ACISB9
+LCCN: 75009703
+Electronic Links: https://www.sciencedirect.com/journal/advances-in-colloid-and-interface-science
+Selectively Indexed in: MEDLINEv24n2-3,Feb. 1986-PubMedv24n2-3,Feb. 1986-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Physical*; Colloids*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 25, no. 4 (Sept. 1986); title from cover. Also issued 
+online.
+Other ID: (DNLM)SR0058866(s)(OCoLC)01164308
+NLM ID: 8706645[Serial]
+
+111. Title Abbreviation: J Colloid Interface Sci
+Title(s): Journal of colloid and interface science.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Semimonthly, 1999-
+Country of Publication: United States
+Publisher: New York.
+Latest Publisher: Orlando, FL : Academic Press
+Description: v. illus.
+Language: English
+ISSN: 0021-9797(Print); 1095-7103(Electronic); 0021-9797(Linking)
+Coden: JCISA5
+Electronic Links: http://www.sciencedirect.com/science/journal/00219797
+In: PubMed: v21n1, Jan. 1966-v35n2, Feb. 1971, v245n1, Jan. 1, 2002-; 
+Selectively Indexed in: MEDLINEv21n1, Jan. 1966-v35n2, Feb. 1971, v245n1, Jan. 1, 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Colloids*; Surface Tension*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J17300000(s)(OCoLC)01793620
+NLM ID: 0043125[Serial]
+
+112. Title Abbreviation: J Polym Sci A1
+Title(s): Journal of polymer science. Part A-1, Polymer chemistry.
+Publication Start Year: 1966
+Publication End Year: 1972
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, Interscience Publishers.
+Latest Publisher: New York Ny : Wiley Interscience
+Description: 7 v. ill.
+Language: English
+ISSN: 0449-296X(Print); 0449-296X(Linking)
+Coden: JPLCAT
+Fully Indexed In: MEDLINE: v3n9,Sept. 1965-v9n11,Nov. 1971; PubMed: v3n9,Sept. 1965-v9n11,Nov. 1971; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*; Polymers*
+Publication Type(s): Periodical
+Other ID: (OCoLC)02448031(DNLM)J35380000(s)
+NLM ID: 0050636[Serial]
+
+113. Title Abbreviation: Mikrochim Acta
+Title(s): Mikrochimica acta.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Austria
+Publisher: Wien ; New York : Springer-Verlag.
+Description: v. ill., ports.
+Language: English, French, German, English, French, German
+ISSN: 0026-3672(Print); 1436-5073(Electronic); 0026-3672(Linking)
+Coden: MIACAQ
+Electronic Links: https://link.springer.com/journal/604
+In: PubMed: n1-2, 1966-n5-6, July 1977; v185n1, Jan. 2018-; 
+Selectively Indexed in: MEDLINEn1-2, 1966-n5-6, July 1977; v185n1, Jan. 2018-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Chemistry Techniques, Analytical*; Microchemistry*
+Publication Type(s): Periodical
+Notes: Issues for Aug. 2000- have title: Microchimica acta. Also issued online. Articles
+mainly in English with some in French or German; summaries in English and German 
+and some in French.
+Other ID: (DNLM)M35680000(s)(OCoLC)01778788
+NLM ID: 7808782[Serial]
+
+114. Author(s): Chemical Society (Great Britain); Royal Institute of Chemistry.
+Title Abbreviation: Chem Br
+Title(s): Chemistry in Britain.
+Publication Start Year: 1965
+Publication End Year: 2003
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, Chemical Education Trust Fund for the Chemical Society and the Royal
+Institute of Chemistry Royal Society of Chemistry, -2003.
+Description: v. illus., ports.
+Language: English
+ISSN: 0009-3106(Print); 0009-3106(Linking)
+Coden: CHMBAY
+Fully Indexed In: MEDLINE: v3n11,Nov. 1967-v8n11,Nov. 1972; PubMed: v3n11,Nov. 1967-v8n11,Nov. 1972; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Issued jointly by the Chemical Society and the Royal Institute of Chemistry.
+Other ID: (DNLM)C16420000(s)(OCoLC)01554042
+NLM ID: 0005130[Serial]
+
+115. Author(s): Gallo,Ulisse; Santamaria,Leonida
+Title Abbreviation: Res Prog Org Biol Med Chem
+Title(s): Research progress in organic, biological and medicinal chemistry.
+Publication Start Year: 1964
+Publication End Year: 1972
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: Amsterdam [etc.] North-Holland Pub. Co.; New York, distributed by American
+Elsevier Pub. Co. [etc.]
+Latest Publisher: Amsterdam : North Holland Publishing
+Description: 3 v. ill.
+Language: English
+ISSN: 0486-5111(Print); 0486-5111(Linking)
+Coden: RPOBAR
+Fully Indexed In: MEDLINE: v3, 1972; PubMed: v3, 1972; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Chemistry, Organic*; Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Edited by U. Gallo and L. Santamaria. Title varies slightly.
+Other ID: (DNLM)R24540000(s)(OCoLC)39944018
+NLM ID: 0043605[Serial]
+
+116. Title Abbreviation: Adv Heterocycl Chem
+Title(s): Advances in heterocyclic chemistry.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York Ny : Academic Press
+Description: v. illus.
+Language: English
+ISSN: 0065-2725(Print); 1557-8429(Electronic); 0065-2725(Linking)
+Coden: AHTCAG
+Electronic Links: https://www.sciencedirect.com/bookseries/advances-in-heterocyclic-chemistry
+In: PubMed: v3, 1964-v11, 1970, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv3, 1964-v11, 1970Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Heterocyclic Compounds*
+Notes: Also issued online.
+Other ID: (DNLM)A14160000(s)(OCoLC)01461198
+NLM ID: 0370424[Serial]
+
+117. Author(s): Indian National Science Academy.; Council of Scientific & Industrial Research
+(India)
+Title Abbreviation: Indian J Chem
+Title(s): Indian journal of chemistry.
+Publication Start Year: 1963
+Publication End Year: 1975
+Frequency: Monthly
+Country of Publication: India
+Publisher: New Delhi, Council of Scientific & Industrial Research.
+Description: 13 v. ill.
+Language: English, English
+ISSN: 0019-5103(Print); 0019-5103(Linking)
+Coden: IJOCAP
+Selectively Indexed in: MEDLINEv11n3, Mar. 1973-v13n12, Dec. 1975PubMedv11n3, Mar. 1973-v13n12, Dec. 1975
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to population demographics/reproductive health were indexed.
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Published in association with the Indian National Science Academy.
+Other ID: (DNLM)I09160000(s)(OCoLC)01752896
+NLM ID: 7613423[Serial]
+
+118. Author(s): American Chemical Society.
+Title Abbreviation: J Med Chem
+Title(s): Journal of medicinal chemistry.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Biweekly
+Country of Publication: United States
+Publisher: [Easton, Pa.] : American Chemical Society, [c1963-
+Latest Publisher: Washington Dc : American Chemical Society
+Description: v. : ill., diagrs.
+Language: English
+ISSN: 0022-2623(Print); 1520-4804(Electronic); 0022-2623(Linking)
+Coden: JMCMA
+LCCN: a63-643, sn 78005124
+Electronic Links: http://pubs.acs.org/journals/jmcmar/index.html
+Fully Indexed In: MEDLINE: v8n4,Jul. 1965-; PubMed: v8n4,Jul. 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical
+Publication Type(s): Periodical
+Notes: Title from cover. Some issues for 1978?- accompanied by supplementary material on
+microfiche; Mar. 17 1995?- by supporting information on microfiche. Also issued
+online.
+Other ID: (DNLM)J29480000(s)(OCoLC)01754668
+NLM ID: 9716531[Serial]
+
+119. Title Abbreviation: J Polym Sci A
+Title(s): Journal of polymer science: Part A, General papers.
+Publication Start Year: 1963
+Publication End Year: 1965
+Country of Publication: United States
+Publisher: New York, Interscience Publishers.
+Latest Publisher: New York Ny : Interscience Publishers
+Description: 3 v. in 16. illus.
+Language: English
+ISSN: 0449-2951(Print); 0449-2951(Linking)
+Coden: JPYAAK
+Selectively Indexed in: MEDLINEv3n9, Sept. 1965PubMedv3n9, Sept. 1965
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Polymers*
+Publication Type(s): Periodical
+Notes: Vol. 3, no. 12, pt. 2 is an index to the Journal of polymer science, v. 1-62,
+1946-62.
+Other ID: (DNLM)J35360000(s)(OCoLC)01754748
+NLM ID: 0165253[Serial]
+
+120. Title Abbreviation: J Polym Sci B
+Title(s): Journal of polymer science. Part B: Polymer letters.
+Publication Start Year: 1963
+Publication End Year: 1972
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, Interscience Publishers.
+Latest Publisher: New York Ny : Wiley Interscience
+Description: 10 v. ill.
+Language: English
+ISSN: 0449-2986(Print); 0449-2986(Linking)
+Coden: JPYBAN
+Fully Indexed In: MEDLINE: v4n10,Oct. 1966-v9n1,Jan. 1971; PubMed: v4n10,Oct. 1966-v9n1,Jan. 1971; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Polymers*
+Publication Type(s): Periodical
+Other ID: (OCoLC)01754749(DNLM)J35440000(s)
+NLM ID: 7610515[Serial]
+
+121. Title Abbreviation: Mikrochim Ichnoanal Acta
+Title(s): Mikrochimica et ichnoanalytica acta.
+Publication Start Year: 1963
+Publication End Year: 1965
+Country of Publication: Austria
+Publisher: Wien, New York, Springer-Verlag.
+Latest Publisher: Wien : Springer Verlag
+Description: 3 v. ill., ports.
+Language: English, French, German, English, French, German
+ISSN: 0369-0504(Print); 0369-0504(Linking)
+Coden: MKIAA6
+Fully Indexed In: MEDLINE: v3, 1995; Index medicus
+In: PubMed: v3, 1995; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry Techniques, Analytical*; Microchemistry*
+Publication Type(s): Periodical
+Notes: Articles in English, French, or German; summaries in the other languages.
+Other ID: (DNLM)M35720000(s)(OCoLC)01778789
+NLM ID: 0145623[Serial]
+
+122. Author(s): Gesellschaft Deutscher Chemiker.
+Title Abbreviation: Angew Chem Int Ed Engl
+Title(s): Angewandte Chemie.
+Edition: International ed. in English.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: Weekly, Jan. 2003-
+Country of Publication: Germany
+Publisher: Weinheim/Bergstr. : New York, : Verlag Chemie ; Academic Press, c1962-
+Latest Publisher: <2004-> : Weinheim : Wiley-VCH
+Description: v. : ill.
+Language: English
+ISSN: 1433-7851(Print); 1521-3773(Electronic); 1433-7851(Linking)
+Coden: ACIEAY
+LCCN: 64001757
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773
+In: PubMed: v4n8, Aug. 1965-v19n12, 1980, v41n1, Jan. 4, 2002-, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv4n8, Aug. 1965-v19n12, 1980, v41n1, Jan. 4, 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. Ed. statement varies: International ed., 1998- Sample issue
+called no. 0 issued May 1961. Also issued online. Published under the auspices of
+the Gesellschaft Deutscher Chemiker.
+Other ID: (DNLM)A30510000(s)(OCoLC)01481137
+NLM ID: 0370543[Serial]
+
+123. Author(s): American Chemical Society.
+Title Abbreviation: Inorg Chem
+Title(s): Inorganic chemistry.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: Biweekly
+Country of Publication: United States
+Publisher: [Easton, Pa.] American Chemical Society.
+Description: v.
+Language: English
+ISSN: 0020-1669(Print); 1520-510X(Electronic); 0020-1669(Linking)
+Coden: INOCAJ
+Electronic Links: http://pubs.acs.org/journals/inocaj/index.html
+Selectively Indexed in: MEDLINEv39n1, 2000-PubMedv39n1, 2000-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)I17140000(s)(OCoLC)01753164
+NLM ID: 0366543[Serial]
+
+124. Author(s): American Society for Photobiology.
+Title Abbreviation: Photochem Photobiol
+Title(s): Photochemistry and photobiology.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: Six no. a year, July/Aug. 2004-
+Country of Publication: United States
+Publisher: Augusta, GA: American Society for Photobiology, <1996->
+Latest Publisher: <2004->: Lawrence KS : American Society for Photobiology
+Description: v. illus.
+Language: English
+ISSN: 0031-8655(Print); 1751-1097(Electronic); 0031-8655(Linking)
+Coden: PHCBAP
+LCCN: 64009186
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-1097
+Selectively Indexed in: MEDLINEv4n1,Jan. 1965-PubMedv4n1,Jan. 1965-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Light*; Photochemistry*
+Publication Type(s): Periodical
+Notes: Supplements accompany some vols. Also issued online. Articles in English, French,
+or German.
+Other ID: (DNLM)P13320000(s)(OCoLC)01762302
+NLM ID: 0376425[Serial]
+
+125. Author(s): American Chemical Society.
+Title Abbreviation: J Chem Doc
+Title(s): Journal of chemical documentation.
+Publication Start Year: 1961
+Publication End Year: 1974
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Easton, Pa. [etc.] American Chemical Society.
+Latest Publisher: Washington Dc : American Chemical Society
+Description: 14 v. illus.
+Language: English
+ISSN: 0021-9576(Print); 0021-9576(Linking)
+Coden: JCHDAN
+LCCN: 64002629
+Selectively Indexed in: MEDLINEv12n2,May 1972-v14,Nov. 1974PubMedv12n2,May 1972-v14,Nov. 1974Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*; Documentation*
+Publication Type(s): Periodical
+Other ID: (DNLM)J15620000(s)(OCoLC)01783059
+NLM ID: 7505011[Serial]
+
+126. Title Abbreviation: Phytochemistry
+Title(s): Phytochemistry.
+Publication Start Year: 1961
+Publication End Year: 
+Frequency: Twelve no. a year, Feb. 2012-
+Country of Publication: England
+Publisher: 1961-2003: Oxford : Pergamon Press.
+Latest Publisher: 2003- : London : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0031-9422(Print); 1873-3700(Electronic); 0031-9422(Linking)
+Coden: PYTCAS
+Electronic Links: https://www.sciencedirect.com/journal/phytochemistry
+Fully Indexed In: MEDLINE: v29n4, 1990-; PubMed: v29n4, 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Botany*
+Publication Type(s): Periodical
+Notes: Also available online. Articles in English, French, or German.
+Other ID: (DNLM)P15560000(s)(OCoLC)01762365
+NLM ID: 0151434[Serial]
+
+127. Title Abbreviation: Prog Med Chem
+Title(s): Progress in medicinal chemistry.
+Publication Start Year: 1961
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Netherlands
+Publisher: London.
+Latest Publisher: Amsterdam : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0079-6468(Print); 0079-6468(Linking)
+Coden: PMDCAY
+Electronic Links: https://www.sciencedirect.com/science/bookseries/00796468
+Fully Indexed In: MEDLINE: v4,Feb. 1965-; PubMed: v4,Feb. 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)P48140000(s)(OCoLC)01762958
+NLM ID: 0376452[Serial]
+
+128. Author(s): International Union of Pure and Applied Chemistry.
+Title Abbreviation: Pure Appl Chem
+Title(s): Pure and applied chemistry. Chimie pure et appliquée.
+Publication Start Year: 1960
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London.
+Latest Publisher: Oxford : Blackwell Scientific Publications
+Description: v.
+Language: English
+ISSN: 0033-4545(Print); 1365-3075(Electronic); 0033-4545(Linking)
+Coden: PACHAS
+Fully Indexed In: MEDLINE: v10n2, 1965-v35n1, 1973; PubMed: v10n2, 1965-v35n1, 1973 ; Selected citations only after this date; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Vol. 1, no. 1 lacks French title. Also issued online. Text in English, French, or
+German. Official journal of the International Union of Pure and Applied
+Chemistry.
+Other ID: (DNLM)P60900000(s)(OCoLC)01763191
+Collection Status: Not in the NLM Collection
+NLM ID: 0376514[Serial]
+
+129. Author(s): Lederer,Michael,1924-
+Title Abbreviation: Chromatogr Rev
+Title(s): Chromatographic reviews.
+Publication Start Year: 1959
+Publication End Year: 1971
+Frequency: Bimonthly
+Country of Publication: Netherlands
+Publisher: Amsterdam, Elsevier.
+Description: 15 v. illus.
+Language: English
+ISSN: 0009-5907(Print); 1878-1438(Electronic); 0009-5907(Linking)
+Coden: CRRVAJ
+LCCN: 2007222700
+Fully Indexed In: MEDLINE: v6, 1964-v15, 1971; PubMed: v6, 1964-v15, 1971; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chromatography*; Electrophoresis*
+Publication Type(s): Periodical
+Notes: Later vols. included in Journal of chromatography. Editor: M. Lederer. Reviews
+appeared originally (some in French or German) in the Journal of chromatography. 
+French and German articles have been translated into English.
+Other ID: (DNLM)C20180000(s)(OCoLC)31351424
+NLM ID: 0427031[Serial]
+
+130. Title Abbreviation: Tetrahedron Lett
+Title(s): Tetrahedron letters.
+Publication Start Year: 1959
+Publication End Year: 
+Frequency: Fifty two no. a year
+Country of Publication: England
+Publisher: Oxford, New York, Pergamon Press.
+Latest Publisher: Oxford : Elsevier
+Description: v. ill.
+Language: English, French, German
+ISSN: 0040-4039(Print); 0040-4039(Linking)
+Coden: TELEAY
+LCCN: 60001500
+Electronic Links: http://www.sciencedirect.com/science/journal/00404039
+Fully Indexed In: MEDLINE: Apr. 1965-Jan. 1971; PubMed: Apr. 1965-Jan. 1971; selected citations only after this date; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Organic*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English, French, or German.
+Other ID: (DNLM)T06460000(s)(OCoLC)01714161
+NLM ID: 2984819R[Serial]
+
+131. Author(s): Nihon Yakugakkai.
+Title Abbreviation: Chem Pharm Bull (Tokyo)
+Title(s): Chemical & pharmaceutical bulletin.
+Publication Start Year: 1958
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Japan
+Publisher: Tokyo, Pharmaceutical Society of Japan.
+Description: v. illus.
+Language: English
+ISSN: 0009-2363(Print); 1347-5223(Electronic); 0009-2363(Linking)
+Coden: CPBTAL
+LCCN: 62051273, sn 83005609
+Electronic Links: http://cpb.pharm.or.jp/, https://www.jstage.jst.go.jp/browse/cpb/
+Fully Indexed In: MEDLINE: v11n8,Aug. 1963-; PubMed: v11n8,Aug. 1963-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pharmacology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2022. Also issued online. Articles in English, French,
+or German. Companion publication to Biological & pharmaceutical bulletin 1993-
+0918-6158 (DLC) 93642605 (OCoLC)27784830.
+Other ID: (DNLM)C15520000(s)(OCoLC)06067231
+NLM ID: 0377775[Serial]
+
+132. Title Abbreviation: Tetrahedron
+Title(s): Tetrahedron.
+Publication Start Year: 1957
+Publication End Year: 
+Frequency: Forty eight no. a year
+Country of Publication: England
+Publisher: Oxford [etc.]
+Latest Publisher: Oxford : Pergamon Press
+Description: v. ill.
+Language: Multiple languages, English
+ISSN: 0040-4020(Print); 0040-4020(Linking)
+Coden: TETRAB
+Electronic Links: http://www.sciencedirect.com/science/journal/00404020
+Fully Indexed In: MEDLINE: v20n5,May 1964-v26n23,Dec. 1970; PubMed: v20n5,May 1964-v26n23,Dec. 1970; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Also issued online. Text in English, French, or German, with summaries in
+English.
+Other ID: (DNLM)T06420000(s)(OCoLC)01606999
+NLM ID: 2984170R[Serial]
+
+133. Author(s): Universidad de Chile. Facultad de Ciencias Químicas.; Universidad de Chile.
+Facultad de Química y Farmacia.
+Title Abbreviation: An Fac Quim Farm (Santiago)
+Title(s): Anales de la Facultad de Química y Farmacia.
+Publication Start Year: 1956
+Publication End Year: 1973
+Frequency: Annual
+Country of Publication: Chile
+Publisher: Santiago de Chile, Universidad de Chile, Facultad de Ciencias Quimicas [etc.]
+Latest Publisher: Santiago De Chile : Universidad De Chile, Facultad De Ciencias Quimicas Etc
+Description: 18 v. ill.
+Language: Spanish, English
+ISSN: 0300-9912(Print); 0300-9912(Linking)
+Coden: AFQFAU
+In: PubMed, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. Includes citations from print indexes prior to 1966.
+MeSH: Academic Dissertations as Topic*; Biochemistry*; Chemistry*; Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Vol. for 1970/73 includes theses from the Facultad de Ciencias Químicas
+(abstracts only). Articles in Spanish; summaries in English.
+Other ID: (OCoLC)10488354(DNLM)A28380000(s)
+NLM ID: 7506833[Serial]
+
+134. Author(s): International Society for Neurochemistry.
+Title Abbreviation: J Neurochem
+Title(s): Journal of neurochemistry.
+Publication Start Year: 1956
+Publication End Year: 
+Frequency: Semimonthly, <2001->
+Country of Publication: England
+Publisher: New York : Raven Press
+Latest Publisher: 2001- : Oxford, UK : Wiley on behalf of the International Society for
+Neurochemistry
+Description: v. ill.
+Language: English
+ISSN: 0022-3042(Print); 1471-4159(Electronic); 0022-3042(Linking)
+Coden: JONRA9
+LCCN: 57003775
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-4159
+Fully Indexed In: MEDLINE: v12n6,June 1965-; Index medicus
+In: PubMed: v12n6,June 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neurochemistry*; Neurology
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2013. Supplements accompany some vols. Also issued
+online. Vols. for <, Dec. 1975-> published for the International Society for
+Neurochemistry.
+Other ID: (DNLM)J31000000(s)(OCoLC)01782775
+NLM ID: 2985190R[Serial]
+
+135. Author(s): American Chemical Society.
+Title Abbreviation: J Agric Food Chem
+Title(s): Journal of agricultural and food chemistry.
+Publication Start Year: 1953
+Publication End Year: 
+Frequency: Twenty-six no. a year 2002-
+Country of Publication: United States
+Publisher: Washington, American Chemical Society.
+Description: v. illus., ports.
+Language: English
+ISSN: 0021-8561(Print); 1520-5118(Electronic); 0021-8561(Linking)
+Coden: JAFCAU
+Electronic Links: https://pubs.acs.org/journal/jafcau
+Fully Indexed In: MEDLINE: v18n1,Jan.-Feb. 1970-v32n1, 1984, v47n1, Jan. 1999-; PubMed: v18n1,Jan.-Feb. 1970-v32n1, 1984, v47n1, Jan. 1999-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Agricultural*; Food-Processing Industry*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J10820000(s)(OCoLC)01800249
+NLM ID: 0374755[Serial]
+
+136. Author(s): American Chemical Society.; Chemical Society (Great Britain); Faraday Society.
+Title Abbreviation: J Phys Chem
+Title(s): The Journal of physical chemistry.
+Publication Start Year: 1952
+Publication End Year: 1996
+Frequency: Weekly (except for last week of Dec.), 1993-1996
+Country of Publication: United States
+Publisher: Easton, Pa. : American Chemical Society, c1952-1996.
+Latest Publisher: -1996: Washington, D.C. : American Chemical Society
+Description: 45 v. illus., ports.
+Language: English
+ISSN: 0022-3654(Print); 0022-3654(Linking)
+Coden: JPCHAX
+LCCN: 34023847
+Electronic Links: http://pubs.acs.org/loi/jpchax
+Fully Indexed In: MEDLINE: v69n12,Dec. 1965-v78n17,Aug. 15, 1974; PubMed: v69n12,Dec. 1965-v78n17,Aug. 15, 1974; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Physical*
+Publication Type(s): Periodical
+Notes: Title from cover. Has also supplementary material issued on negative microfiche. 
+Also available to subscribers in PDF via the World Wide Web. Issued by the
+American Chemical Society (with the Chemical Society, 1924-34, and the Faraday
+Society, 1924-46).
+Other ID: (DNLM)J34840000(s)(OCoLC)01681052
+NLM ID: 0406042[Serial]
+
+137. Title Abbreviation: Lab Pract
+Title(s): Laboratory practice.
+Publication Start Year: 1952
+Publication End Year: 1992
+Frequency: Monthly
+Country of Publication: England
+Publisher: London.
+Latest Publisher: London : United Trade Press
+Description: v. illus., ports.
+Language: English
+ISSN: 0023-6853(Print); 0023-6853(Linking)
+Coden: LABPA3
+Selectively Indexed in: MEDLINEv14n9,Sept. 1965-v27, 1978PubMedv14n9,Sept. 1965-v27, 1978Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Laboratories*
+Publication Type(s): Periodical
+Other ID: (DNLM)L01140000(s)(OCoLC)01643316
+NLM ID: 0376620[Serial]
+
+138. Author(s): Società chimica italiana.
+Title Abbreviation: Ann Chim
+Title(s): Annali di chimica.
+Publication Start Year: 1950
+Publication End Year: 2007
+Frequency: Monthly
+Country of Publication: Italy
+Publisher: Roma, Società chimica italiana.
+Description: v. ill.
+Language: English, Italian, English, Italian
+ISSN: 0003-4592(Print); 1612-8877(Electronic); 0003-4592(Linking)
+Coden: ANCRAI
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1612-8877
+Fully Indexed In: MEDLINE: v91n1, 2001-v97n11/12, 2007; Index medicus
+In: PubMed: v91n1, 2001-v97n11/12, 2007; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English or Italian; summaries in both languages.
+Other ID: (DNLM)A33990000(s)(OCoLC)02207353
+NLM ID: 7610375[Serial]
+
+139. Title Abbreviation: Annu Rev Phys Chem
+Title(s): Annual review of physical chemistry.
+Publication Start Year: 1950
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto Ca : Annual Reviews
+Description: v. ill., ports.
+Language: English
+ISSN: 0066-426X(Print); 1545-1593(Electronic); 0066-426X(Linking)
+Coden: ARPLAP
+LCCN: a 51001658
+Electronic Links: http://www.annualreviews.org/loi/physchem
+In: PubMed: v39, 1988-; 
+Selectively Indexed in: MEDLINEv39, 1988-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*
+Notes: Also issued online.
+Other ID: (DNLM)A54225000(s)(OCoLC)01373069
+NLM ID: 15040080R[Serial]
+
+140. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr
+Title(s): Acta crystallographica.
+Publication Start Year: 1948
+Publication End Year: 1967
+Frequency: 12 no. a year, 1953-67
+Country of Publication: Denmark
+Publisher: 1948-1951 : Cambridge, Eng. : University Press
+Latest Publisher: 1952- : Copenhagen : Munksgaard International Publishers
+Description: 23 v. in illus.
+Language: English
+ISSN: 0365-110X(Print); 0365-110X(Linking)
+Coden: ACCRA9
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1107/S0365110X/issues
+Fully Indexed In: MEDLINE: v19n1,Jul. 10, 1965-v23,Dec. 1967; Index medicus
+In: PubMed: v19n1,Jul. 10, 1965-v23,Dec. 1967, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallography*
+Publication Type(s): Periodical
+Notes: Also issued online. Microfilm. v. 14 (1961). 1 microfilm reel : negative ; 35 mm.
+Articles in English, French, German, or Russian. Issued by the International
+Union of Crystallography.
+Other ID: (DNLM)A05085000(s)(OCoLC)01460867
+NLM ID: 0211526[Serial]
+
+141. Title Abbreviation: Acta Chem Scand
+Title(s): Acta chemica Scandinavica.
+Publication Start Year: 1947
+Publication End Year: 1973
+Frequency: Ten no. a year
+Country of Publication: Denmark
+Publisher: Copenhagen, Munksgaard.
+Latest Publisher: Copenhagen : Munksgaard International Publishers
+Description: 27 v. illus.
+Language: English
+ISSN: 0001-5393(Print); 0001-5393(Linking)
+Coden: ACSAA4
+LCCN: 49028499, sn 80001784
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv19n5, 1965-v27, 1973PubMedv19n5, 1965-v27, 1973Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Chemistry*
+Publication Type(s): Periodical
+Notes: Supplements accompany some volumes. Microfilm. v. 1 (1947)-5 (1951). 5 microfilm 
+reels : negative ; 35 mm. Articles in English, French, or German. Published by
+the chemical societies in Denmark, Finland, Norway and Sweeden. Continued by same
+title issued in two parts: A. Physical and inorganic chemistry; B. Organic
+chemistry and biochemistry.
+Other ID: (DNLM)A04650000(s)(OCoLC)00981859
+NLM ID: 0421263[Serial]
+
+142. Author(s): Gesellschaft Deutscher Chemiker.
+Title Abbreviation: Chem Ber
+Title(s): Chemische Berichte.
+Publication Start Year: 1947
+Publication End Year: 1996
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim/Bergsr. [etc.] VCH Verlagsgesellschaft mbH. [etc.]
+Latest Publisher: Weinheim : Verlag Chemie
+Description: 50 v. illus., ports.
+Language: English, German
+ISSN: 0009-2940(Print); 0009-2940(Linking)
+Coden: CHBEAM
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0682c
+Fully Indexed In: MEDLINE: v98n6,Jun. 1965-v106n5, 1973; PubMed: v98n6,Jun. 1965-v106n5, 1973; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Issues for Okt. 1988-Dec. 1994 each include: Part A, Inorganic and organometallic
+chemistry, and: Part B, Organic chemistry; with continuous pagination. Also
+issued online. English and German. Sponsored by the Gesellschaft Deutscher
+Chemiker, 1953- . Indexes: Vol. 80-89, 1947-1956. 1v.
+Other ID: (DNLM)C16020000(s)(OCoLC)01554024
+NLM ID: 0372723[Serial]
+
+143. Author(s): Schweizerischer Chemiker-Verband.
+Title Abbreviation: Chimia (Aarau)
+Title(s): Chimia.
+Publication Start Year: 1947
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Switzerland
+Publisher: Zürich, Schweizerischer Chemiker-Verband.
+Latest Publisher: Bern : Swiss Chemical Society
+Description: v. illus., ports.
+Language: German
+ISSN: 0009-4293(Print); 0009-4293(Linking)
+Coden: CHIMAD
+LCCN: 49017954
+Electronic Links: https://www.chimia.ch/all-issues-menu/all-issues
+In: PubMed: v64n1-2, 2010-, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv64n1-2, 2010-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in German, French, Italian, or English.
+Other ID: (DNLM)C18600000(s)(OCoLC)02059073
+NLM ID: 0373152[Serial]
+
+144. Author(s): American Oil Chemists' Society.
+Title Abbreviation: J Am Oil Chem Soc
+Title(s): Journal of the American Oil Chemists' Society.
+Publication Start Year: 1947
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Champaign, Ill. [etc.] The Society.
+Latest Publisher: Champaign, Il : American Oil Chemists Society
+Description: v. ill., ports.
+Language: English
+ISSN: 0003-021X(Print); 1558-9331(Electronic); 0003-021X(Linking)
+Coden: JAOCA7
+Electronic Links: https://link.springer.com/journal/11746, https://aocs.onlinelibrary.wiley.com/loi/15589331
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv40n4,Apr. 1963-v56n10,Oct. 1979PubMedv40n4,Apr. 1963-v56n10,Oct. 1979Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Fats*; Fatty Acids*; Food-Processing Industry*; Soaps*; Surface-Active Agents*
+Publication Type(s): Periodical
+Notes: Beginning in 1990, the news section of the Journal is published separately with
+title: International news on fats, oils and related materials. Also issued
+online.
+Other ID: (DNLM)J11940000(s)(OCoLC)01033870
+NLM ID: 7505574[Serial]
+
+145. Author(s): Baĭchikov,A G(Alekseĭ Gavrilovich); Soviet Union. Ministerstvo
+zdravookhranenii︠a︡.
+Title Abbreviation: Med Prom SSSR
+Title(s): Meditsinskaia promyshlennost' SSSR.
+Publication Start Year: 1947
+Publication End Year: 1966
+Country of Publication: Russia (Federation)
+Publisher: Moskva.
+Description: 20 v. illus., ports.
+Language: Russian
+Coden: MPSSA9
+Fully Indexed In: MEDLINE: v6,Jun. 1965-v20,Dec. 1966; PubMed: v6,Jun. 1965-v20,Dec. 1966; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Drug Industry*; Equipment and Supplies*; Pharmaceutical Preparations*; USSR
+Publication Type(s): Periodical
+Notes: Edited 1948-66 by A. G. Baĭchikov. Issues for 1947-55 lack vol. numbering but
+constitute g. 1-9. Issues for 1957-66 have tables of contents in English. Organ
+of the Ministerstvo zdravookhraneniia SSSR.
+Other ID: (DNLM)M24400000(s)(OCoLC)32565826
+NLM ID: 1305622[Serial]
+
+146. Author(s): Society of Rheology (U.S.)
+Title Abbreviation: J Colloid Sci
+Title(s): Journal of colloid science.
+Publication Start Year: 1946
+Publication End Year: 1965
+Country of Publication: United States
+Publisher: New York
+Latest Publisher: New York : Academic Press
+Description: 20 v. ill., ports.
+Language: English
+ISSN: 0095-8522(Print); 0095-8522(Linking)
+Coden: JCSCA7
+Fully Indexed In: MEDLINE: v20n6, Aug. 1965-v20, Dec. 1965; PubMed: v20n6 ,Aug. 1965-v20, Dec. 1965; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Colloids*
+Publication Type(s): Periodical
+Other ID: (DNLM)J17310000(s)(OCoLC)01778710
+NLM ID: 17840210R[Serial]
+
+147. Author(s): American Association for the Advancement of Science. Section on Chemistry.;
+Hooker Scientific Library. Friends.; Kresge-Hooker Science Library Associates.;
+Kresge-Hooker Scientific Library. Friends.
+Title Abbreviation: Rec Chem Prog
+Title(s): Record of chemical progress.
+Publication Start Year: 1939
+Publication End Year: 1971
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, Plenum [etc.]
+Latest Publisher: New York Ny : Plenum
+Description: 32 v. illus.,ports.
+Language: English, English
+ISSN: 0034-1584(Print); 0034-1584(Linking)
+Coden: RCPRAN
+Fully Indexed In: MEDLINE: v28n2,Jun. 1967-v30n4,Dec. 1969; PubMed: v28n2,Jun. 1967-v30n4,Dec. 1969; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Suspended Apr. 1939-Jan. 1940. Official organ of Section C of the American
+Association for the Advancement of Science, Apr. 1942-Jan./Apr. 1946. Issued
+successively by the Friends of the Hooker Scientific Library, the Friends of the 
+Kresge-Hooker Scientific Library, and the Kresge-Hooker Science Library
+Associates. Indexes: Vols. 9-15, 1948-54, in v. 15; Vols. 16-17, 1955-56, in v.
+17.
+Other ID: (DNLM)R07240000(s)(OCoLC)01683776
+NLM ID: 7514094[Serial]
+
+148. Title Abbreviation: Fortschr Chem Org Naturst
+Title(s): Fortschritte der Chemie organischer Naturstoffe = Progress in the chemistry of
+organic natural products. Progrès dans la chimie des substances organiques
+naturelles.
+Publication Start Year: 1938
+Publication End Year: 2010
+Frequency: Annual
+Country of Publication: Austria
+Publisher: Wien, Springer.
+Description: v. illus.
+Language: German
+ISSN: 0071-7886(Print); 0071-7886(Linking)
+Coden: FCONAA
+LCCN: ac 39001015, sn 79001156
+Fully Indexed In: MEDLINE: v23, 1965-v93, 2010; Index medicus
+In: PubMed: v23, 1965-v93, 2010, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Organic*
+Notes: Vols 1-3? issued with German title only. Publication suspended 1940-1944.
+Indexes: Vols. 1-20, 1938-62. 1 v.
+Other ID: (OCoLC)01278222(DNLM)F11840000(s)
+NLM ID: 0370724[Serial]
+
+149. Author(s): Society for the Study of Alchemy and Early Chemistry.
+Title Abbreviation: Ambix
+Title(s): Ambix.
+Publication Start Year: 1937
+Publication End Year: 
+Frequency: Four no. a year, 2013-
+Country of Publication: England
+Publisher: [London : Taylor and Francis, 1937]-
+Latest Publisher: 2016- : Abingdon : Taylor & Francis
+Description: v. ill., ports.
+Language: English
+ISSN: 0002-6980(Print); 1745-8234(Electronic); 0002-6980(Linking)
+Coden: AMBXAO
+Electronic Links: http://www.tandfonline.com/loi/yamb20
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv14n1, Feb. 1967-PubMedv14n1, Feb. 1967-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: Alchemy*; Chemistry/history*
+Publication Type(s): Periodical
+Notes: The journal of the Society for the Study of Alchemy and Early Chemistry. Also
+issued online.
+Other ID: (DNLM)A22875000(s)(OCoLC)01479234
+NLM ID: 14730560R[Serial]
+
+150. Author(s): American Chemical Society.
+Title Abbreviation: J Org Chem
+Title(s): The Journal of organic chemistry.
+Publication Start Year: 1936
+Publication End Year: 
+Frequency: Biweekly
+Country of Publication: United States
+Publisher: Easton, Pa. [etc.]
+Latest Publisher: Columbus Oh : American Chemical Society
+Description: v. ill., ports.
+Language: English
+ISSN: 0022-3263(Print); 1520-6904(Electronic); 0022-3263(Linking)
+Coden: JOCEAH
+LCCN: 38-5884
+Electronic Links: http://pubs.acs.org/journals/joceah/index.html
+In: OLDMEDLINE
+Selectively Indexed in: MEDLINEv30n1,Jan. 1965-v43n4,Feb. 17, 1978; v65n1,Jan. 14   2000-PubMedv30n1,Jan. 1965-v43n4,Feb. 17, 1978; v65n1,Jan. 14   2000-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Organic*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Issues for Jan. 12, 1973- accompanied by: Journal of
+organic chemistry. Supplementary material, on microfiche; <Mar. 24, 1995-> by
+supporting information on microfiche. Available on microfilm from ACS Microfiche 
+Service; also issued online. Issued by the American Chemical Society, 1955-
+Other ID: (DNLM)J33180000(s)(OCoLC)01782318
+NLM ID: 2985193R[Serial]
+
+151. Author(s): American Institute of Physics.
+Title Abbreviation: J Chem Phys
+Title(s): The Journal of chemical physics.
+Publication Start Year: 1933
+Publication End Year: 
+Frequency: Semimonthly
+Country of Publication: United States
+Publisher: Lancaster, Pa., American Institute of Physics.
+Latest Publisher: New York, NY : American Institute of Physics
+Description: v. illus.
+Language: English
+ISSN: 0021-9606(Print); 1089-7690(Electronic); 0021-9606(Linking)
+Coden: JCPSA6
+Electronic Links: https://pubs.aip.org/aip/jcp
+In: PubMed: v38n1,Jan. 1, 1963-v54n5,Mar. 1, 1971; v120, Jan. 2004-, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv38n1,Jan. 1, 1963-v54n5,Mar. 1, 1971; v120, Jan. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Chemistry*; Physics*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online.
+Other ID: (DNLM)J15720000(s)(OCoLC)01782311
+NLM ID: 0375360[Serial]
+
+152. Author(s): Society of Chemical Industry (Great Britain)
+Title Abbreviation: Chem Ind
+Title(s): Chemistry & industry.
+Publication Start Year: 1932
+Publication End Year: 
+Frequency: Monthly, 2012-
+Country of Publication: England
+Publisher: 1932- : London : Society of Chemical Industry.
+Latest Publisher: Jan. 2012- : Chichester, West Sussex : John Wiley & Sons Ltd.
+Description: v. illus., ports.
+Language: English
+ISSN: 0009-3068(Print); 2047-6329(Electronic); 0009-3068(Linking)
+Coden: CHINAG
+Fully Indexed In: MEDLINE: n1, Jan. 2, 1965-n12, Mar. 20, 1971; Index medicus
+In: PubMed: n1, Jan. 2, 1965-n12, Mar. 20, 1971; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemical Industry*
+Publication Type(s): Periodical
+Notes: Vol. 10-20, 1932-42, published as a section of: Journal of the Society of
+Chemical Industry. Vol.62, 1943, adopts volume numbering of parent journal ;
+thereafter volume numbering ceases until 2012 when issues carry volume and issue 
+numbering again.
+Other ID: (DNLM)C16560000(s)(OCoLC)06183681
+NLM ID: 0373151[Serial]
+
+153. Author(s): Nihon Kagakkai.
+Title Abbreviation: Bull Chem Soc Jpn
+Title(s): Bulletin of the Chemical Society of Japan.
+Publication Start Year: 1926
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Tokyo.
+Latest Publisher: 2024- : [Oxford] : Oxford University Press on behalf of Chemical Society of Japan
+Description: v. illus.
+Language: English
+ISSN: 0009-2673(Print); 1348-0634(Electronic); 0009-2673(Linking)
+Coden: BCSJA8
+Electronic Links: http://www.journal.csj.jp/journal/bcsj, https://academic.oup.com/bcsj
+Fully Indexed In: MEDLINE: v38n8,Aug. 1965-v44n1,Jan. 1971; PubMed: v38n8,Aug. 1965-v44n1,Jan. 1971; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 91 (2018). Publication suspended Jan. 1945-Dec. 1946.
+Also issued online.
+Other ID: (DNLM)B41000000(s)(OCoLC)01760395
+NLM ID: 7505371[Serial]
+
+154. Author(s): American Chemical Society.
+Title Abbreviation: Chem Rev
+Title(s): Chemical reviews.
+Publication Start Year: 1924
+Publication End Year: 
+Frequency: 12 no. a year, 1999-
+Country of Publication: United States
+Publisher: Easton, Pa. [etc.] American Chemical Society.
+Latest Publisher: Washington, DC : American Chemical Society
+Description: v. ill.
+Language: English
+ISSN: 0009-2665(Print); 1520-6890(Electronic); 0009-2665(Linking)
+Coden: CHREAY
+Electronic Links: http://pubs.acs.org/journals/chreay/index.html
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv65n5,Oct. 1965-v73n4,Aug. 1973; v101n1, Jan. 2001-PubMedv65n5,Oct. 1965-v73n4,Aug. 1973; v101n1, Jan. 2001-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online. Indexes: Vols. 1-10,
+1924/25-1932, in v. 10; Vols. 11-20, 1932-37, in v. 20; Vols. 21-30, 1937-42, in 
+v. 30; Vols. 31-40, 1942-47, in v. 40.
+Other ID: (DNLM)C15600000(s)(OCoLC)01553987
+NLM ID: 2985134R[Serial]
+
+155. Author(s): American Chemical Society. Division of Chemical Education.
+Title Abbreviation: J Chem Educ
+Title(s): Journal of chemical education.
+Publication Start Year: 1924
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Easton, Pa., Division of Chemical Education, American Chemical Society.
+Latest Publisher: Tucson Az : American Chemical Society. Division Of Chemical Education
+Description: v. ill., ports.
+Language: English
+ISSN: 0021-9584(Print); 0021-9584(Linking)
+Coden: JCEDA8
+Electronic Links: https://pubs.acs.org/loi/jceda8
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv42n9,Sept. 1965-v55n1,Jan. 1978PubMedv42n9,Sept. 1965-v55n1,Jan. 1978Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry/education*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online. Indexes: Vol. 1-25, 1924-49; v. 
+26-35, 1929-58. 2 v. in 1.
+Other ID: (DNLM)J15660000(s)(OCoLC)01754494
+NLM ID: 2985122R[Serial]
+
+156. Author(s): Schweizerische Chemische Gesellschaft.
+Title Abbreviation: Helv Chim Acta
+Title(s): Helvetica chimica acta.
+Publication Start Year: 1918
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Switzerland
+Publisher: Basel [etc.] Schweizerische Chemische Gesellschaft.
+Latest Publisher: Basel : Verlag Helvetica Chimica Acta
+Description: v. ill.
+Language: English, French, German
+ISSN: 0018-019X(Print); 0018-019X(Linking)
+Coden: HCACAV
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2675
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv48n3,Apr. 20, 1965-v59n8,Dec. 15, 1976PubMedv48n3,Apr. 20, 1965-v59n8,Dec. 15, 1976Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry Techniques, Analytical*
+Publication Type(s): Periodical
+Notes: Also available online. Text in German, French, or Italian; some summaries in
+English.
+Other ID: (DNLM)H10840000(s)(OCoLC)01751975
+NLM ID: 2985094R[Serial]
+
+157. Author(s): Société chimique de France.
+Title Abbreviation: Bull Soc Chim Fr
+Title(s): Bulletin de la Société chimique de France.
+Publication Start Year: 1907
+Publication End Year: 1997
+Frequency: Eleven no. a year
+Country of Publication: France
+Publisher: Paris.
+Latest Publisher: Bayeaux : Societe Francaise De Chimie
+Description: v. illus.,ports.
+Language: French, English
+ISSN: 0037-8968(Print); 0037-8968(Linking)
+Coden: BSCFAS
+LCCN: sn86-15884
+Fully Indexed In: MEDLINE: Sept. 9, 1965-Dec. 12, 1972; PubMed: Sept. 9, 1965-Dec. 12, 1972; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): AbstractsPeriodical
+Notes: Issues for 1907-33 called 4. sér., t. 1-53/54. Issued 1934-45 as Bulletin de la 
+Société chimique de France. Mémoires. Issues for 1946-1954 called 5. s'er., t.
+13-21. Issues for 1992-1997 called v. 129-v. 137 in continuation of: Bulletin de 
+la Soci'et'e chimique de Paris, which began in 1863. Microfilm. ser. 4: v. 1
+(1907)-v. 28 (1920), v. 31 (1922)-v. 51 (1932), v. 52, pt. 2 (1932), v. 53-54
+(1933), suppl., no. 15,23 (1911), index (1911,1923-1927), ser. 5: v. 13 (1946)-21
+(1954). 73 microfilm reels : negative ; 35 mm. Summaries in English, 1967- Issued
+in two parts, 1907-33: Mémoires and Analyse des travaux français et
+étrangers(varies); and 1973- :Chimie analytique, chimie minérale, chimie
+physique and Chimie organique-Biochime. Indexes: 4. ser;, t. 27-28, 1920. 1 v; 4.
+sér., t. 31/33-41/42, 1922-27. 6 v.
+Other ID: (DNLM)B54420000(s)(OCoLC)05657103
+NLM ID: 7505355[Serial]
+
+158. Title Abbreviation: Boll Chim Farm
+Title(s): Bollettino chimico farmaceutico.
+Publication Start Year: 1892
+Publication End Year: 2005
+Frequency: Six no. a year 2001-
+Country of Publication: Italy
+Publisher: Milano : Societa Editoriale Farmaceutica
+Description: v. illus.
+Language: Italian, English
+ISSN: 0006-6648(Print); 0006-6648(Linking)
+Coden: BCFAAI
+Fully Indexed In: MEDLINE: v104n5, May 1965-v144n5, 2005; Index medicus
+In: PubMed: v104n5, May 1965-v144n5, 2005, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Part of title on microfilm. Has supplement: Clinica e terapia. Microfilm. v. 32
+(1893)-v.43 (1904), v.45 (1906)-v.47 (1907), v.51 (1912)-v.77 (1938),
+v.79(1940)-v.80 (1941) 27 microfilm reels : negative ; 35 mm. Some summaries in
+English.
+Other ID: (DNLM)B30140000(s)(OCoLC)04055131
+NLM ID: 0372534[Serial]
+
+159. Author(s): American Chemical Society.; American Chemical Society., Proceedings of the
+American Chemical Society.
+Title Abbreviation: J Am Chem Soc
+Title(s): Journal of the American Chemical Society.
+Publication Start Year: 1879
+Publication End Year: 
+Frequency: Fifty one no. a year, 1993-
+Country of Publication: United States
+Publisher: Easton, Pa. [etc.]
+Latest Publisher: Washington, DC : American Chemical Society
+Description: v. illus.,ports.
+Language: English
+ISSN: 0002-7863(Print); 1520-5126(Electronic); 0002-7863(Linking)
+Coden: JACSAT
+LCCN: 16003159, sn 78000660
+Electronic Links: http://pubs.acs.org/journals/jacsat/index.html
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv87n1,Jan. 5, 1965-v100n5, Mar. 1, 1978;v123n1, Jan. 10, 2001-PubMedv87n1,Jan. 5, 1965-v100n5, Mar. 1, 1978;v123n1, Jan. 10, 2001-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online. Indexes: Vols. 1-20, 1879-98. 1 
+v.
+Other ID: (DNLM)J11460000(s)(OCoLC)01226990
+NLM ID: 7503056[Serial]
+
+160. Author(s): Liebig,Justus,Freiherr von,1803-1873.
+Title Abbreviation: Justus Liebigs Ann Chem
+Title(s): Justus Liebigs Annalen der Chemie.
+Publication Start Year: 1874
+Publication End Year: 1978
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Weinheim [etc.] Verlag Chemie [etc.]
+Latest Publisher: Weinheim : Verlag Chemie
+Description: v. ill.
+Language: German
+ISSN: 0075-4617(Print); 0075-4617(Linking)
+Coden: JLACBF
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0690/issues
+Fully Indexed In: MEDLINE: n684,Apr. 1965-v4, 1973; PubMed: n684,Apr. 1965-v4, 1973; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Part of title on microfilm. Issues for 1874-1972 called Bd. 173-766. Publication 
+suspended Mar. 1945-Apr. 1947. Also issued online. Microfilm. v. 173-314 (1901) +
+General Register v. 165 (1873)-220 (1883). 64 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)J43100000(s)(OCoLC)01754927
+NLM ID: 0400657[Serial]
+

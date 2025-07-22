@@ -1,0 +1,1803 @@
+1. Title Abbreviation: Biomater Adv
+Title(s): Biomaterials advances.
+Publication Start Year: 2022
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: [Amsterdam] : Elsevier B.V., [2022]-
+Description: 1 online resource
+Language: English
+ISSN: 2772-9508(Electronic); 2772-9516(Print); 2772-9508(Linking)
+LCCN: 2023228221
+Electronic Links: https://www.sciencedirect.com/journal/biomaterials-advances
+Fully Indexed In: MEDLINE: v133, Feb. 2022-
+In: PubMed: v133, Feb. 2022-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*; Biomimetic Materials; Nanotechnology
+Publication Type(s): Periodical
+Notes: Also issued in print.
+Other ID: (OCoLC)1316519306
+NLM ID: 9918383886206676[Serial]
+
+2. Title Abbreviation: Comput Assist Surg (Abingdon)
+Title(s): Computer assisted surgery.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Annual
+Country of Publication: England
+Publisher: Abingdon, Oxon, UK : Taylor & Francis, [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2469-9322(Electronic); 2469-9322(Linking)
+LCCN: 2015203960
+Electronic Links: http://www.tandfonline.com/icsu
+Fully Indexed In: MEDLINE: v21n1, 2016-
+In: PubMed: v21n1, 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Image Processing, Computer-Assisted*; Surgery, Computer-Assisted*; Surgical Procedures, Operative*; Therapy, Computer-Assisted*
+Notes: Numbering from PDF caption. Volume 21 (2016) includes supplement.
+Other ID: (OCoLC)931997316
+NLM ID: 101681550[Serial]
+
+3. Author(s): American Association for the Advancement of Science,
+Title Abbreviation: Sci Robot
+Title(s): Science robotics.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, DC : American Association for the Advancement of Science, [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2470-9476(Electronic); 2470-9476(Linking)
+LCCN: 2016201475
+Electronic Links: https://www.science.org/journal/scirobotics
+Fully Indexed In: MEDLINE: v5n38, Jan. 2020-
+In: PubMed: v5n38, Jan. 2020- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Robotics.*
+Publication Type(s): Periodical
+Notes: Volume 1 complete with one issue.
+Other ID: (OCoLC)939922598
+NLM ID: 101733136[Serial]
+
+4. Title Abbreviation: JMIR Med Educ
+Title(s): JMIR medical education.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: Canada
+Publisher: Toronto, ON : JMIR Publications, [2015]-
+Description: 1 online resource
+Language: English
+ISSN: 2369-3762(Electronic); 2369-3762(Linking)
+LCCN: 2016243419
+Electronic Links: http://mededu.jmir.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101684518
+Fully Indexed In: MEDLINE: v9n1, Jan.-Dec. 2023-
+In: PubMed: v1n1, 2015-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Education, Medical*; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Complemented by (work): Journal of medical internet research 1438-8871 (DLC)
+00252482 (OCoLC)42705591 (DNLM)100959882.
+Other ID: (OCoLC)960505083
+NLM ID: 101684518[Serial]
+
+5. Title Abbreviation: Soft Robot
+Title(s): Soft robotics.
+Publication Start Year: 2014
+Publication End Year: 
+Frequency: Bimonthly, 2018-
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc., [2014]-
+Language: English
+ISSN: 2169-5172(Print); 2169-5180(Electronic); 2169-5172(Linking)
+LCCN: 2012203450
+Electronic Links: http://online.liebertpub.com/loi/soro
+In: PubMed: v4n1, Mar. 2017- ; Selected citations only before this date; 
+Selectively Indexed in: MEDLINEv4n1, Mar. 2017-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials; Robotics.*; Technology
+Publication Type(s): Periodical
+Other ID: (OCoLC)808807925
+NLM ID: 101623819[Serial]
+
+6. Title Abbreviation: Adv Healthc Mater
+Title(s): Advanced healthcare materials.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: Weinheim : Wiley-VCH, 2012-
+Description: v. : ill. (some col.) ; 28 cm.
+Language: English
+ISSN: 2192-2640(Print); 2192-2659(Electronic); 2192-2640(Linking)
+LCCN: 2012207528
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2192-2659
+Fully Indexed In: MEDLINE: 1n1, Jan 11 2012-
+In: PubMed: 1n1, Jan 11 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials/therapeutic use*; Nanotechnology
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 3 (2014). Also issued online.
+Other ID: (OCoLC)781493502
+NLM ID: 101581613[Serial]
+
+7. Title Abbreviation: Annu Rev Food Sci Technol
+Title(s): Annual review of food science and technology.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, CA : Annual Reviews
+Description: v.
+Language: English
+ISSN: 1941-1413(Print); 1941-1421(Electronic); 1941-1421(Linking)
+LCCN: 2008214319
+Electronic Links: http://www.annualreviews.org/journal/food
+Fully Indexed In: MEDLINE: v1, 2010-
+In: PubMed: v1, 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Food Technology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)190848563
+NLM ID: 101561951[Serial]
+
+8. Title Abbreviation: Mater Sci Eng C Mater Biol Appl
+Title(s): Materials science & engineering. C, Materials for biological applications.
+Publication Start Year: 2008
+Publication End Year: 2022
+Frequency: Eight times a year (monthly except Feb., June, Sept., and Nov.)
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 0928-4931(Print); 1873-0191(Electronic); 0928-4931(Linking)
+LCCN: 2009223901
+Electronic Links: http://www.sciencedirect.com/science/journal/09284931
+Fully Indexed In: MEDLINE: v32n1, Jan 1 2012-v132, Jan. 2022
+In: PubMed: v32n1, Jan 1 2012-v132, Jan. 2022; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biocompatible Materials; Biomimetics*; Nanotechnology
+Publication Type(s): Periodical
+Notes: Issues for v. 28, no. 1 (2008)-v. 28, no. 5/6 (2008) also have cover title:
+Biomimetric and supramolecular systems. Description based on first issue; title
+from title page. Latest issue consulted: Vol. 28, no. 7 (Aug. 2008). Also issued 
+online.
+Other ID: (OCoLC)301001599
+NLM ID: 101484109[Serial]
+
+9. Author(s): Nihon Hōshasen Gijutsu Gakkai.; Nihon Igaku Butsuri Gakkai.
+Title Abbreviation: Radiol Phys Technol
+Title(s): Radiological physics and technology.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Japan
+Publisher: Tokyo : Springer Japan
+Language: English
+ISSN: 1865-0333(Print); 1865-0341(Electronic); 1865-0333(Linking)
+LCCN: 2012243353
+Electronic Links: https://link.springer.com/journal/12194
+Fully Indexed In: MEDLINE: v1n1, Jan. 2008-
+In: PubMed: v1n1, Jan. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Physics*; Technology, Radiologic
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)464515244
+NLM ID: 101467995[Serial]
+
+10. Title Abbreviation: J Robot Surg
+Title(s): Journal of robotic surgery.
+Publication Start Year: 2007
+Publication End Year: 
+Country of Publication: England
+Publisher: London : Springer
+Language: English
+ISSN: 1863-2483(Print); 1863-2491(Electronic); 1863-2483(Linking)
+LCCN: 2007243629
+Electronic Links: https://link.springer.com/journal/11701
+Fully Indexed In: MEDLINE: v9n1, Mar. 2015-
+In: PubMed: v9n1, Mar. 2015- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Minimally Invasive Surgical Procedures*; Robotics.*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 2 (July 2007); title from cover. Print issues
+ceased with v. 8 (2014). Also issued online.
+Other ID: (OCoLC)181367926
+NLM ID: 101300401[Serial]
+
+11. Title Abbreviation: Int J Med Robot
+Title(s): The international journal of medical robotics + computer assisted surgery :
+MRCAS.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Quarterly, 2006-
+Country of Publication: England
+Publisher: Ilkley, UK : Robotic Publications, c2004-
+Latest Publisher: 2006- : West Sussex, England : Wiley
+Description: v. : ill. (some col.) ; 28 cm.
+Language: English
+ISSN: 1478-5951(Print); 1478-596X(Electronic); 1478-5951(Linking)
+LCCN: 2006243060
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1478-596X
+Fully Indexed In: MEDLINE: v1n1, June 2004-; Index medicus
+In: PubMed: v1n1, June 2004-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Robotics.*; Surgery, Computer-Assisted*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2013. Also issued online.
+Other ID: (OCoLC)62283807
+NLM ID: 101250764[Serial]
+
+12. Author(s): National Institutes of Health (U.S.). Office of Medical Applications of
+Research.; National Institutes of Health Consensus Development Conference.
+Title Abbreviation: NIH Consens State Sci Statements
+Title(s): NIH consensus and state-of-the-science statements.
+Publication Start Year: 2002
+Publication End Year: 2013
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Bethesda, MD : U.S. Dept. of Health and Human Services, Public Health Service,
+National Institutes of Health, Office of Medical Applications Research
+Description: v.
+Language: English
+SuDocs Number: HE 20.3046:
+ISSN: 1553-0957(Print); 1553-0779(Electronic); 1553-0779(Linking)
+LCCN: 2004243127
+Fully Indexed In: MEDLINE: v19n1, Jan. 14-16  2002-v29n1, 2013; PubMed: v19n1, Jan. 14-16  2002-v29n1, 2013; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology; Medicine*; Technology Assessment, Biomedical
+Publication Type(s): CongressConsensus Development Conference, NIH
+Notes: Title on online table of contents p.: Consensus statements. Title on online table
+of contents p.: State-of-the-science statements. Each issue also has a
+distinctive title. Latest issue consulted: Vol. 19, no. 3 (June 10-12, 2002).
+Some online issues do not carry volume numbering. Issued as the report of the NIH
+Consensus Development Conference. Issued by NIH Office of Medical Applications
+and Research.
+Other ID: (OCoLC)54453222
+NLM ID: 101160100[Serial]
+
+13. Author(s): Ontario. Ministry of Health and Long-Term Care.; Ontario. Ministry of Health and 
+Long-Term Care. Medical Advisory Secretariat
+Title Abbreviation: Ont Health Technol Assess Ser
+Title(s): Ontario health technology assessment series.
+Publication Start Year: 2001
+Publication End Year: 
+Country of Publication: Canada
+Publisher: Toronto : Medical Advisory Secretariat
+Latest Publisher: Toronto, Ontario : Ontario Health
+Language: English
+ISSN: 1915-7398(Electronic); 1915-7398(Linking)
+LCCN: 2010243011
+Electronic Links: http://www.hqontario.ca/Evidence-to-Improve-Care/Journal-Ontario-Health-Technology-Assessment-Series, https://pmc.ncbi.nlm.nih.gov/journals/?term=101521610
+Fully Indexed In: MEDLINE: v12n1, 2012
+In: PubMed: v1, 2001-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 (2001); title from HTML header (publisher's
+Web site, viewed Dec. 30, 2009). Latest issue consulted: Vol. 9, no. 2 (2009)
+(viewed Dec. 30, 2009). Each volume also has a distinctive title. Mode of access:
+World Wide Web.
+Other ID: (OCoLC)496259888
+NLM ID: 101521610[Serial]
+
+14. Author(s): Molecular Diversity Preservation International.
+Title Abbreviation: Sensors (Basel)
+Title(s): Sensors.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Switzerland
+Publisher: Basel, Switzerland : MDPI, c2000-
+Language: English
+ISSN: 1424-8220(Electronic); 1424-8220(Linking)
+Coden: SENSC9
+LCCN: 2002242115
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101204366, http://www.mdpi.com/journal/sensors
+In: PubMed: v10n1, June 2010-, PMC; 
+Selectively Indexed in: MEDLINEv10n1, June 2010-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biosensing Techniques*
+Publication Type(s): Periodical
+Notes: HTML title bar title: Sensor. Title from tables of contents page (viewed Aug. 14,
+2002). Mode of access: World Wide Web.
+Other ID: (OCoLC)47250782
+NLM ID: 101204366[Serial]
+
+15. Author(s): International Association for Biologicals.
+Title Abbreviation: Dev Biol (Basel)
+Title(s): Developments in biologicals.
+Publication Start Year: 2000
+Publication End Year: 2013
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Basel ; New York : Karger, c2000-
+Description: v. : ill. ; 24 cm.
+Language: English
+ISSN: 1424-6074(Print); 1662-2960(Electronic); 1424-6074(Linking)
+LCCN: 00252064
+Electronic Links: http://www.karger.com/debis
+Fully Indexed In: MEDLINE: v102, 2000-v135, 2013; PubMed: v102, 2000-v135, 2013; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biological Products/standards*
+Publication Type(s): Congress
+Notes: Also issued online. Issued by: International Association for Biologicals.
+Other ID: (OCoLC)43626012
+NLM ID: 100940058[Serial]
+
+16. Title Abbreviation: ScientificWorldJournal
+Title(s): TheScientificWorldJournal.
+Publication Start Year: 2000
+Publication End Year: 
+Country of Publication: United States
+Publisher: Boynton Beach, FL : Scientific World, Inc., c2001-
+Latest Publisher: 2024- : [Hoboken, NJ] : Wiley
+Language: English
+ISSN: 1537-744X(Electronic); 2356-6140(Print); 1537-744X(Linking)
+Coden: THESAS
+LCCN: 2001215320
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101131163, https://onlinelibrary.wiley.com/journal/8086
+Fully Indexed In: MEDLINE: v1n1-2, 2000-; Index medicus
+In: PubMed: v1n1-2, 2000-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*; Environmental Medicine; Medicine
+Publication Type(s): Periodical
+Notes: Vols. for 2002- called: ScientificWorldJournal. Title from journal home page
+(viewed Dec. 5, 2001). Articles are added continuously and their pages in the
+volume are used as the issue numbers. Vol. 1 used as numbering for both 2000 and 
+2001. Text (electronic journal) Also issued in print. Mode of access: World Wide 
+Web.
+Other ID: (OCoLC)48386834
+NLM ID: 101131163[Serial]
+
+17. Author(s): United States. Agency for Health Care Policy and Research.; United States. Agency
+for Healthcare Research and Quality.
+Title Abbreviation: Evid Rep Technol Assess (Full Rep)
+Title(s): Evidence report/technology assessment.
+Publication Start Year: 1999
+Publication End Year: 2016
+Country of Publication: United States
+Publisher: Rockville, MD : Agency for Health Care Policy and Research, 1999-2016.
+Latest Publisher: 1999- : Rockville, MD : United States. Agency for Healthcare Research and Quality
+Description: v.
+Language: English
+ISSN: 1530-4396(Print); 1530-4396(Linking)
+LCCN: 00215296
+Electronic Links: https://www.ncbi.nlm.nih.gov/books/NBK33514/
+Fully Indexed In: MEDLINE: n130, Feb. 2006-n224, Oct. 2016
+In: PubMed: n130, Feb. 2006-n224, Oct. 2016; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnostic Techniques and Procedures; Evaluation Studies as Topic; Evidence-Based Medicine/methods; Outcome and Process Assessment, Health Care; Technology Assessment, Biomedical; Therapeutics/methods*
+Publication Type(s): PeriodicalReview
+Notes: Title from analytical t.p. Also issued online.
+Other ID: (OCoLC)44161091
+NLM ID: 101082681[Serial]
+
+18. Title Abbreviation: J Capill Electrophor Microchip Technol
+Title(s): Journal of capillary electrophoresis and microchip technology.
+Publication Start Year: 1999
+Publication End Year: 2008
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Shelton, CT : ISC Technical Publications, c1999-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1946-4940(Print); 1946-4940(Linking)
+Coden: JCEMF6
+LCCN: 2006265553
+Fully Indexed In: MEDLINE: v6n1/2, Jan./Apr. 1999-v10n5/6, 2008; Index medicus
+In: PubMed: v6n1/2, Jan./Apr. 1999-v10n5/6, 2008, Chemical abstracts; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electrophoresis, Capillary*; Electrophoresis, Microchip
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (OCoLC)44114813
+NLM ID: 101294946[Serial]
+
+19. Author(s): Blue Cross and Blue Shield Association. Medical Advisory Panel.
+Title Abbreviation: Tecnologica MAP Suppl
+Title(s): Tecnologica. MAP supplement.
+Publication Start Year: 1998
+Publication End Year: 2001
+Country of Publication: United States
+Publisher: Chicago, Ill. : Technology Evaluation Center of Blue Cross and Blue Shield
+Association,
+Description: v.
+Language: English
+LCCN: sn 99039219
+Selectively Indexed in: MEDLINEFeb. 1998-May 2001PubMedFeb. 1998-May 2001
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health services research are indexed.
+MeSH: Technology Assessment, Biomedical*
+Publication Type(s): Periodical
+Notes: At head of title: Clearinghouse update. Description based on: Aug. 1998; title
+from caption. Issued by the Blue Cross and Blue Shield Medical Advisory Panel.
+Terms of Use: Contains proprietary information that is intended solely for Blue Cross and Blue Shield plans and other subscribers to the TEC program.
+Other ID: (OCoLC)41288024
+NLM ID: 100883490[Serial]
+
+20. Author(s): NHS R & D HTA Programme (Great Britain); National Co-ordinating Centre for HTA
+(Great Britain); NIHR Coordinating Centre for Health Technology Assessment (Great
+Britain); NIHR Health Technology Assessment Programme (Great Britain); NIHR
+Evaluation, Trials and Studies Coordinating Centre (Great Britain)
+Title Abbreviation: Health Technol Assess
+Title(s): Health technology assessment : HTA/ NHS R&D HTA Programme.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: England
+Publisher: Winchester, UK : National Co-Ordinating Centre for HTA, c1997-
+Latest Publisher: <2013-> : Southampton, UK : NIHR Journals Library
+Description: v. : ill.
+Language: English
+ISSN: 1366-5278(Print); 2046-4924(Electronic); 1366-5278(Linking)
+LCCN: sn 97039184
+Electronic Links: http://www.journalslibrary.nihr.ac.uk/hta, https://www.ncbi.nlm.nih.gov/books/NBK97531/
+Fully Indexed In: MEDLINE: v1n1, 1997-; Index medicus
+In: PubMed: v1n1, 1997-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Technology Assessment, Biomedical
+Publication Type(s): PeriodicalReview
+Notes: Title on Bookshelf site: NIHR health technology assessment programme monographs. 
+Title from cover. Each issue has a distinctive title. Print issues ceased with
+vol. 16 (2012). Also issued online. Issued by: National Co-Ordinating Centre for 
+HTA, 1997-<2006>; NIHR Coordinating Centre for Health Technology Assessment,
+<2007>-Mar. 2009; NETSCC (NIHR Evaluation, Trials and Studies Coordinating Centre
+(Great Britain), Apr. 2009-
+Other ID: (DNLM)SR0090948(s)(OCoLC)36731562
+NLM ID: 9706284[Serial]
+
+21. Author(s): United States. Agency for Health Care Policy and Research. Office of Health
+Technology Assessment.
+Title Abbreviation: Health Technol Assess (Rockv)
+Title(s): Health technology assessment.
+Publication Start Year: 1994
+Publication End Year: 1999
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Rockville, Md. : U.S. Dept. of Health and Human Services, Public Health Service, 
+Agency for Health Care Policy and Research, 1994-
+Description: v.
+Language: English
+SuDocs Number: HE 20.6512/7:
+Electronic Links: https://www.ncbi.nlm.nih.gov/books/NBK63997/
+Fully Indexed In: MEDLINE: n1, 1994--n13, 1999; Hospital and health administration index: 1994-1999; Index medicus
+In: PubMed: n1, 1994--n13, 1999; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Technology Assessment, Biomedical*
+Publication Type(s): Periodical
+Notes: Title from analytical t.p. Also issued online. Issued by: Office of Health
+Technology Assessment.
+Other ID: (DNLM)SR0083110(s)(OCoLC)31751697
+NLM ID: 9501929[Serial]
+
+22. Title Abbreviation: J Chromatogr B Biomed Appl
+Title(s): Journal of chromatography. B, Biomedical applications.
+Publication Start Year: 1994
+Publication End Year: 1996
+Frequency: Twenty eight no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam, Netherlands : Elsevier, c1994-c1996.
+Description: 36 v. : ill.
+Language: English
+ISSN: 1572-6495(Print); 1879-1794(Electronic); 1572-6495(Linking)
+Coden: JCBBEP
+LCCN: 94659072, sn 94026962
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-chromatography-b-biomedical-sciences-and-applications
+Fully Indexed In: MEDLINE: v652n1,Jan. 14, 1994-v687n2,Dec. 13, 1996; PubMed: v652n1,Jan. 14, 1994-v687n2,Dec. 13, 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology; Chemistry, Clinical; Chromatography/methods; Electrophoresis/methods
+Publication Type(s): Periodical
+Notes: Title from cover. Assumed the numbering of: Journal of chromatography. Also
+issued online.
+Other ID: (DNLM)SR0079069(s)(OCoLC)29859296
+NLM ID: 9421796[Serial]
+
+23. Author(s): Institute of Medical Laboratory Sciences (Great Britain); Royal Society of
+Medicine Services (Great Britain)
+Title Abbreviation: Br J Biomed Sci
+Title(s): British journal of biomedical science.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: [London] : Published for the Institute of Medical Laboratory Sciences by Royal
+Society of Medicine Services, c1993-
+Latest Publisher: 2022- : Lausanne, Switzerland : Frontiers Media SA
+Description: v. : ill.
+Language: English
+ISSN: 0967-4845(Print); 2474-0896(Electronic); 0967-4845(Linking)
+Coden: BJMSEO
+Electronic Links: http://www.tandfonline.com/toc/tbbs20/current, https://www.frontierspartnerships.org/journals/british-journal-of-biomedical-science, https://pmc.ncbi.nlm.nih.gov/journals/?term=9309208
+Fully Indexed In: MEDLINE: v50n1, 1993-; PubMed: v50n1, 1993-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*; Biomedical Technology*; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0075465(s)(OCoLC)27845663
+NLM ID: 9309208[Serial]
+
+24. Title Abbreviation: Endosc Surg Allied Technol
+Title(s): Endoscopic surgery and allied technologies.
+Publication Start Year: 1993
+Publication End Year: 1995
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : Thieme, c1993-
+Latest Publisher: Stuttgart : Georg Thieme Verlag
+Description: 3 v. : ill.
+Language: English
+ISSN: 0942-6027(Print); 0942-6027(Linking)
+Fully Indexed In: MEDLINE: v1n1,Feb. 1993-v3n4,Aug. 1995; PubMed: v1n1,Feb. 1993-v3n4,Aug. 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Endoscopes*; Endoscopy*; Surgical Equipment*; Surgical Instruments*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0074870(s)(OCoLC)30504025
+NLM ID: 9412631[Serial]
+
+25. Author(s): Health Care Technology Institute.
+Title Abbreviation: Policy Brief Health Care Technol Inst
+Title(s): Policy brief.
+Publication Start Year: 1993
+Publication End Year: 1995
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Alexandria, VA : Health Care Technology Institute, [1993-1995]
+Description: v. : ill.
+Language: English
+Fully Indexed In: MEDLINE: ????; PubMed: ????
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Biomedical Technology*; Delivery of Health Care/economics*; Technology Assessment, Biomedical*
+Publication Type(s): Periodical
+Notes: Title from cover. First two vols. issued Mar. 1993 were unnumbered, but
+constitute PB93-01 and PB93-02.
+Other ID: (DNLM)SR0078274(s)(OCoLC)29639282
+NLM ID: 9412760[Serial]
+
+26. Author(s): Health Care Technology Institute.
+Title Abbreviation: Ref Guide Health Care Technol Ind
+Title(s): Reference guide for the health care technology industry.
+Publication Start Year: 1993
+Publication End Year: 1995
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Alexandria, VA : Health Care Technology Institute, c1993-[1995]
+Description: v. : ill.
+Language: English
+ISSN: 1082-6858(Print); 1082-6858(Linking)
+Fully Indexed In: MEDLINE: ????; PubMed: ????
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Biomedical Technology*; Delivery of Health Care/economics*; Equipment and Supplies*; Technology Assessment, Biomedical*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0078273(s)(OCoLC)28039445
+NLM ID: 9413191[Serial]
+
+27. Author(s): European Society for Engineering and Medicine.
+Title Abbreviation: Technol Health Care
+Title(s): Technology and health care : official journal of the European Society for
+Engineering and Medicine.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Six no. a year, 1997-
+Country of Publication: United States
+Publisher: Amsterdam ; New York : Elsevier, c1993-
+Latest Publisher: 2025- : [Thousand Oaks, CA] : SAGE Publications
+Description: v. : ill., ports.
+Language: English
+ISSN: 0928-7329(Print); 1878-7401(Electronic); 0928-7329(Linking)
+Coden: THCAE2
+Electronic Links: https://journals.sagepub.com/home/THC, http://content.iospress.com/journals/technology-and-health-care
+Fully Indexed In: MEDLINE: v3n1, Mar. 1995-; PubMed: v3n1, Mar. 1995-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0076871(s)(OCoLC)29259415
+NLM ID: 9314590[Serial]
+
+28. Author(s): Genootschap voor Geschiedenis der Geneeskunde, Wiskunde, Natuurwetenschappen en
+Techniek.
+Title Abbreviation: Gewina
+Title(s): Gewina.
+Publication Start Year: 1992
+Publication End Year: 2007
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Rotterdam : Erasmus Pub., 1992-[2007]
+Description: v. : ill. ; 24 cm.
+Language: Dutch, English
+ISSN: 0928-303X(Print); 0928-303X(Linking)
+LCCN: sn 93030895
+In: PubMed: v15n2, 1992-v30n4, 2007; 
+Selectively Indexed in: MEDLINEv15n2, 1992-v30n4, 2007
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History of Medicine*; Mathematics/history; Netherlands; Science/history; Technology/history
+Publication Type(s): Periodical
+Notes: Title from cover. Issued by the Genootschap voor Geschiedenis der Geneeskunde,
+Wiskunde, Natuurwetenschappen en Techniek (GeWiNa).
+Other ID: (OCoLC)26111629(DNLM)SR0073684(s)
+NLM ID: 9425368[Serial]
+
+29. Author(s): National Institutes of Health (U.S.). Office of Medical Applications of
+Research.; National Institutes of Health Consensus Development Conference.
+Title Abbreviation: NIH Consens Statement
+Title(s): NIH consensus statement.
+Publication Start Year: 1992
+Publication End Year: 2001
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Bethesda, MD : National Institutes of Health, Office of Medical Applications of
+Research, [1992-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.3046:
+ISSN: 1080-1707(Print); 1080-1707(Linking)
+LCCN: sn 93038282
+Electronic Links: https://consensus.nih.gov/historical.htm, https://www.ncbi.nlm.nih.gov/books/NBK15127/
+Fully Indexed In: MEDLINE: v10n3, Sept. 14-16, 1992-v18n1, Mar. 26-28 2001; Index medicus
+In: PubMed: v10n3, Sept. 14-16, 1992-v18n1, Mar. 26-28 2001; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*; Medicine*; Technology Assessment, Biomedical*
+Publication Type(s): Congress
+Notes: Irregular. Each issue has also a distinctive title. Latest issue consulted: Vol. 
+18, no. 1 (Mar. 26-28, 2001). Also available online. Issued as the report of the 
+NIH Consensus Development Conference.
+Other ID: (DNLM)SR0077202(s)(OCoLC)28301630
+NLM ID: 9308532[Serial]
+
+30. Title Abbreviation: Biomed Sci Technol
+Title(s): Biomedical science and technology.
+Publication Start Year: 1991
+Publication End Year: 1992
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: San Diego : Academic Press, c1991-[1992]
+Description: v. : ill.
+Language: English
+ISSN: 1051-2020(Print); 1051-2020(Linking)
+Coden: BSCTE6
+Selectively Indexed in: MEDLINEv1n1,Jan. 1991-v1n3,Jul. 1992PubMedv1n1,Jan. 1991-v1n3,Jul. 1992
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Biomedical Engineering*; Electronics, Medical*; Equipment and Supplies*; Technology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0069750(s)(OCoLC)21889711
+NLM ID: 9104836[Serial]
+
+31. Author(s): Biomass Energy Research Association.; Biomass and Biofuels Association (Great
+Britain)
+Title Abbreviation: Bioresour Technol
+Title(s): Bioresource technology.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Twenty four issues a year, 2009-
+Country of Publication: England
+Publisher: Barking, Essex, England : New York, N.Y. : Elsevier Applied Science ; Elsevier
+Science Pub. Co., 1991-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 0960-8524(Print); 1873-2976(Electronic); 0960-8524(Linking)
+Coden: BIRTEB
+LCCN: 91649789, sn 91034748
+Electronic Links: http://www.sciencedirect.com/science/journal/09608524
+Fully Indexed In: MEDLINE: v76n1, Jan. 2001-; PubMed: v76n1, Jan. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics; Ecology; Environment*; Technology; Waste Management
+Publication Type(s): Periodical
+Notes: Title from cover. "Biomass, bioenergy, biowastes, conversion technologies,
+biotransformations, production technologies." Three issues per v., 4 v. per year,
+1991- ; 5 v. per year, <2001>- Also issued online. Bioresources technology is
+affiliated with: Biomass Energy Research Association, USA and Biomass and
+Biofuels Association, UK.
+Other ID: (OCoLC)23349147(DNLM)SR0084180(s)
+NLM ID: 9889523[Serial]
+
+32. Author(s): Biological Stain Commission.
+Title Abbreviation: Biotech Histochem
+Title(s): Biotechnic & histochemistry : official publication of the Biological Stain
+Commission.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Baltimore; MD : Williams & Wilkins, c1991-
+Latest Publisher: 2015- : Abingdon, Oxford : Taylor & Francis
+Description: v : ill.
+Language: English
+ISSN: 1052-0295(Print); 1473-7760(Electronic); 1052-0295(Linking)
+Coden: BIHIEU
+LCCN: 91641272, sn 90005695
+Electronic Links: http://www.tandfonline.com/loi/ibih20
+Fully Indexed In: MEDLINE: v66n1, 1991-; Index medicus
+In: PubMed: v66n1, 1991-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Histocytochemistry*; Histological Techniques*; Staining and Labeling*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Print issues ceased with v. 87 (2012)? First 2 
+no. incorrectly numbered as v. 1, no. 1-2 but constitute v. 66, no. 1-2. Also
+issued online.
+Other ID: (DNLM)SR0070801(s)(OCoLC)22173428
+NLM ID: 9107378[Serial]
+
+33. Title Abbreviation: J Long Term Eff Med Implants
+Title(s): Journal of long-term effects of medical implants.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Six no. a year, 2003-
+Country of Publication: United States
+Publisher: Boca Raton : CRC Press, c1991-
+Latest Publisher: <2003-> : New York, NY : Begell House
+Description: v. : ill.
+Language: English
+ISSN: 1050-6934(Print); 1940-4379(Electronic); 1050-6934(Linking)
+Coden: JLEIEM
+LCCN: sn 90003619
+Electronic Links: http://www.begellhouse.com/journals/long-term-effects-of-medical-implants.html
+Fully Indexed In: MEDLINE: v1n1, 1991-
+In: PubMed: v1n1, 1991-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Health Technology Assessment (non-Index Medicus)
+MeSH: Prostheses and Implants*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0069348(s)(OCoLC)21574387
+NLM ID: 9110830[Serial]
+
+34. Title Abbreviation: Qual Assur
+Title(s): Quality assurance : QA.
+Publication Start Year: 1991
+Publication End Year: 2005
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: San Diego : Academic Press, c1991-
+Latest Publisher: Washington, DC : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1052-9411(Print); 1521-0677(Electronic); 1052-9411(Linking)
+Coden: QUASE2
+LCCN: 92660020, sn 90000454
+Electronic Links: http://www.tandfonline.com/openurl?genre=journal&eissn=1521-0677
+Fully Indexed In: MEDLINE: v1n1,Oct. 1991-v11n2/4, Apr./June 2005; PubMed: v1n1,Oct. 1991-v11n2/4, Apr./June 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biological Science Disciplines/standards*; Engineering/standards*; Quality Control*; Science/standards*; Technology/standards*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online.
+Other ID: (DNLM)SR0074193(s)(OCoLC)22415381
+NLM ID: 9214530[Serial]
+
+35. Title Abbreviation: Stud Health Technol Inform
+Title(s): Studies in health technology and informatics.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: Amsterdam ; Washington, DC : IOS Press, 1991-
+Description: v. : ill.
+Language: English
+ISSN: 0926-9630(Print); 1879-8365(Electronic); 0926-9630(Linking)
+Electronic Links: http://www.ebooks.iospress.nl/bookseries/studies-in-health-technology-and-informatics
+Fully Indexed In: MEDLINE: v1, 1991-; PubMed: v1, 1991-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Health Technology Assessment (non-Index Medicus)
+MeSH: Biomedical Technology*; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Each volume also has a distinctive title. Also issued online.
+Other ID: (DNLM)SR0074791(s)(OCoLC)26850734
+NLM ID: 9214582[Serial]
+
+36. Title Abbreviation: Surg Technol Int
+Title(s): Surgical technology international.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Two no. a year, 2000-
+Country of Publication: United States
+Publisher: [London] : Century Press, c1991-
+Latest Publisher: San Francisco, CA : Universal Medical Press
+Description: v. : col. ill.
+Language: English
+ISSN: 1090-3941(Print); 1090-3941(Linking)
+LCCN: sn 94023183
+Electronic Links: http://www.ump.com/
+Fully Indexed In: MEDLINE: v10, 2002-; PubMed: v10, 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: General Surgery/trends*; Surgical Equipment*; Surgical Instruments*; Surgical Procedures, Operative/methods*
+Publication Type(s): Periodical
+Notes: "International developments in surgery and surgical research." Published: San
+Francisco, Calif. : Universal Medical Press, 1994?- Some articles issued online.
+Other ID: (DNLM)SR0080759(s)(OCoLC)29761128
+NLM ID: 9604509[Serial]
+
+37. Author(s): International Association of Biological Standardization.
+Title Abbreviation: Biologicals
+Title(s): Biologicals : journal of the International Association of Biological
+Standardization.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Six no. a year, 2009-
+Country of Publication: England
+Publisher: London ; San Diego : Academic Press, c1990-
+Description: v. : ill.
+Language: English
+ISSN: 1045-1056(Print); 1095-8320(Electronic); 1045-1056(Linking)
+Coden: BILSEC
+LCCN: 90641870, sn 89006818
+Electronic Links: http://www.sciencedirect.com/science/journal/10451056
+Fully Indexed In: MEDLINE: v18n1, Jan. 1990-; PubMed: v18n1, Jan. 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Products*; Biological Products/standards*
+Publication Type(s): Periodical
+Notes: Title from cover. Also i ssued online. Articles chiefly in English with some in
+French; French articles have summaries in both languages.
+Other ID: (DNLM)SR0066855(s)(OCoLC)20001827
+NLM ID: 9004494[Serial]
+
+38. Title Abbreviation: Environ Technol
+Title(s): Environmental technology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Twenty-eight issues a year, 2019-
+Country of Publication: England
+Publisher: London : Publications Division, Selper Ltd., 1990-
+Latest Publisher: 2008- : Oxford : Taylor & Francis
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 0959-3330(Print); 1479-487X(Electronic); 0959-3330(Linking)
+Coden: ENVTEV
+LCCN: 92640602, sn 90037273
+Electronic Links: http://www.tandfonline.com/loi/tent
+Fully Indexed In: MEDLINE: v22n1, Jan. 2001-; Index medicus
+In: PubMed: v22n1, Jan. 2001-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Health*; Environmental Pollution; Technology
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. English or French.
+Other ID: (OCoLC)21455443(DNLM)SR0068894(s)
+NLM ID: 9884939[Serial]
+
+39. Author(s): Institute of Electrical and Electronics Engineers.
+Title Abbreviation: IEEE Int Conf Rehabil Robot
+Title(s): IEEE ... International Conference on Rehabilitation Robotics : [proceedings].
+Publication Start Year: 199u
+Publication End Year: 
+Frequency: Biennial
+Country of Publication: United States
+Publisher: Piscataway, NJ : Institute of Electrical and Electronics Engineers
+Language: English
+ISSN: 1945-7898(Print); 1945-7901(Electronic); 1945-791X(Undetermined); 1945-7898(Linking)
+LCCN: 2008202488, 2005922334, 2007927065
+Electronic Links: https://ieeexplore.ieee.org/xpl/conhome/1001500/all-proceedings
+Fully Indexed In: MEDLINE: 2011-
+In: PubMed: 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Movement Disorders/rehabilitation*; Prostheses and Implants; Rehabilitation/methods*; Robotics.; Self-Help Devices
+Publication Type(s): Congress
+Notes: Description based on: 9th (2005); title from title page. Latest issue consulted: 
+9th (2005). Also issued online.
+Other ID: (OCoLC)259328874
+NLM ID: 101260913[Serial]
+
+40. Title Abbreviation: Med Device Technol
+Title(s): Medical device technology.
+Publication Start Year: 1990
+Publication End Year: 2009
+Frequency: Seven no. a year, 2007-
+Country of Publication: United States
+Publisher: [Eugene, OR? : Aster Pub., c1990-
+Latest Publisher: Los Angeles : Canon Communications
+Description: v. : ill.
+Language: English
+ISSN: 1048-6690(Print); 1048-6690(Linking)
+LCCN: sn 90002862
+Fully Indexed In: MEDLINE: v1n1, 1990-v20n7, Nov./Dec. 2009
+In: PubMed: v1n1, 1990-v20n7, Nov./Dec. 2009; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Equipment and Supplies*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 20, no. 7 (Nov./Dec. 2009).
+Other ID: (DNLM)SR0073149(s)(OCoLC)21016049
+NLM ID: 9215490[Serial]
+
+41. Author(s): RESNA (Association)
+Title Abbreviation: Assist Technol
+Title(s): Assistive technology : the official journal of RESNA.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Bimonthly, 2020-
+Country of Publication: United States
+Publisher: [New York, NY] : Demos, [1989-
+Latest Publisher: Philadelphia, PA : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1040-0435(Print); 1949-3614(Electronic); 1040-0435(Linking)
+Coden: ASTEF2
+LCCN: 90660089, sn 88002291
+Electronic Links: http://www.tandfonline.com/loi/uaty20
+Fully Indexed In: MEDLINE: v2n1, 1990-
+In: PubMed: v2n1, 1990-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Health Technology Assessment (non-Index Medicus)
+MeSH: Biomedical Engineering/instrumentation*; Rehabilitation*; Self-Help Devices*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0065573(s)(OCoLC)18299357
+NLM ID: 8917250[Serial]
+
+42. Author(s): American Society for Medical Technology.; American Society for Clinical
+Laboratory Science.
+Title Abbreviation: Clin Lab Sci
+Title(s): Clinical laboratory science : journal of the American Society for Medical
+Technology.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [Washington, DC] : American Society for Medical Technology, [1988-
+Latest Publisher: <2000->: Bethesda, MD : American Society for Clinical Laboratory Science
+Description: v. : ill.
+Language: English
+ISSN: 0894-959X(Print); 1945-3574(Electronic); 0894-959X(Linking)
+Electronic Links: http://clsjournal.ascls.org/
+Fully Indexed In: MEDLINE: v3n1, 1990-v27n4, Fall 2014
+In: PubMed: v3n1, 1990-v27n4, Fall 2014; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Biomedical Technology*; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Issues for <2000-> have subtitle: Journal of the American Society for Clinical
+Laboratory Science. Title from cover. Print issues ceased with v. 27 (2014).
+Other ID: (DNLM)SR0061870(s)(OCoLC)16360620
+NLM ID: 8806547[Serial]
+
+43. Author(s): China. Guo jia yi yao guan li ju. Yi liao qi xie qing bao zhong xin.; Shanghai yi
+liao qi xie yan jiu suo.
+Title Abbreviation: Zhongguo Yi Liao Qi Xie Za Zhi
+Title(s): Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: China
+Publisher: Shanghai Shi : Guo jia yi yao guan li ju Yi liao qi xie qing bao zhong xin zhan :
+Shanghai yi liao qi xie yan jiu suo,
+Description: v. : ill.
+Language: Chinese, English
+ISSN: 1671-7104(Print); 1671-7104(Linking)
+Electronic Links: http://www.zgylqxzz.cn/
+Fully Indexed In: MEDLINE: v21n1, 1997-; PubMed: v21n1, 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering/instrumentation*; Biomedical Technology*; Equipment and Supplies, Hospital*
+Publication Type(s): Periodical
+Notes: Description based on: Di 14 juan, di 1 qi, published in 1990; title from cover.
+Di 14 juan, di 1 qi?- called also 1990, 1?- . Also issued online. In Chinese;
+table of contents and summaries also in English.
+Other ID: (DNLM)SR0068080(s)(OCoLC)33829617
+NLM ID: 9426153[Serial]
+
+44. Title Abbreviation: J Clin Lab Anal
+Title(s): Journal of clinical laboratory analysis.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Bimonthly, 1989-
+Country of Publication: United States
+Publisher: New York : Alan R. Liss, Inc., c1987-
+Latest Publisher: Hoboken, N.J. : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 0887-8013(Print); 1098-2825(Electronic); 0887-8013(Linking)
+Coden: JCANEM
+LCCN: sn 86013839
+Electronic Links: https://onlinelibrary.wiley.com/journal/10982825, https://pmc.ncbi.nlm.nih.gov/journals/?term=8801384
+Fully Indexed In: MEDLINE: v3n1, 1989-; PubMed: v3n1, 1989-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology*; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 28, no. 6 (2014). Also issued
+online.
+Other ID: (DNLM)SR0056303(s)(OCoLC)13352973
+NLM ID: 8801384[Serial]
+
+45. Title Abbreviation: Am Herit Invent Technol
+Title(s): American heritage of invention & technology.
+Publication Start Year: 1985
+Publication End Year: 2011
+Frequency: Quarterly, 1992-
+Country of Publication: United States
+Publisher: [New York, NY : American Heritage, c1985-
+Description: v. : ill., ports.
+Language: English
+ISSN: 8756-7296(Print); 8756-7296(Linking)
+LCCN: 87654321, sn 85000414
+Selectively Indexed in: MEDLINEv1n2, Fall 1985-v23n1, Summer 2007PubMedv1n2, Fall 1985-v23n1, Summer 2007
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Technology/history*
+Publication Type(s): Periodical
+Notes: issues for summer 2008- called: American Heritage's invention & technology. Title
+from cover. Latest issue consulted: Vol. 23, no. 2 (summer 2008).
+Other ID: (DNLM)SR0057288(s)(OCoLC)11638224
+NLM ID: 8801250[Serial]
+
+46. Title Abbreviation: Int J Technol Assess Health Care
+Title(s): International journal of technology assessment in health care.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Cambridge, England ; New York, NY : Cambridge University Press, c1985-
+Description: v. : ill.
+Language: English
+ISSN: 0266-4623(Print); 1471-6348(Electronic); 0266-4623(Linking)
+LCCN: 85643057
+Electronic Links: https://www.cambridge.org/core/journals/international-journal-of-technology-assessment-in-health-care, https://pmc.ncbi.nlm.nih.gov/journals/?term=8508113
+Fully Indexed In: MEDLINE: v1n1, Jan. 1985-; PubMed: v1n1, Jan. 1985-; Hospital literature index: v1n1,Jan. 1985-1994; Hospital and health administration index: 1995-1999; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Health Administration (non-Index Medicus); Index Medicus
+MeSH: Delivery of Health Care*; Technology Assessment, Biomedical*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 28, no. 4 (2012). Also issued
+online.
+Other ID: (DNLM)I28243000(s)(OCoLC)12209782
+NLM ID: 8508113[Serial]
+
+47. Title Abbreviation: J Clin Monit
+Title(s): Journal of clinical monitoring.
+Publication Start Year: 1985
+Publication End Year: 1997
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [Boston, MA : Little, Brown and Co.], c1985-c1997.
+Latest Publisher: Norwell Ma : Kluwer Academic Publishers
+Description: 13 v. : ill., ports.
+Language: English
+ISSN: 0748-1977(Print); 0748-1977(Linking)
+Coden: JCMOE
+LCCN: sn84-6424
+Fully Indexed In: MEDLINE: v1n1,Jan. 1985-v13n6,Nov. 1997; PubMed: v1n1,Jan. 1985-v13n6,Nov. 1997; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Monitoring, Physiologic
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0050246(s)(OCoLC)10897663
+NLM ID: 8506707[Serial]
+
+48. Author(s): American Society for Testing and Materials.; ASTM International.
+Title Abbreviation: Stand News
+Title(s): Standardization news : SN.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Philadelphia, PA : American Society for Testing and Materials, 1985-
+Latest Publisher: <2004->: W. Conshohocken, PA : ASTM International
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1094-4656(Print); 1094-4656(Linking)
+LCCN: 99103133, sn 86015857
+Electronic Links: http://www.astm.org/SNEWS/archive.html
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health services research are indexed.
+MeSH: Research*; Science; Technology
+Publication Type(s): Periodical
+Notes: Title from cover. Seal at head of title: ASTM; ASTM International, <Jan. 2004->
+Vols. for <Jan. 2004-> published: W. Conshohocken, PA : ASTM International.
+Latest issue consulted: Vol. 32, no. 1 (Jan. 2004). Also issued online.
+Other ID: (OCoLC)11951092
+NLM ID: 101221787[Serial]
+
+49. Title Abbreviation: Int J Clin Monit Comput
+Title(s): International journal of clinical monitoring and computing.
+Publication Start Year: 1984
+Publication End Year: 1997
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: The Hague : Martinus Nijhoff, c1984-c1997.
+Latest Publisher: Dordrecht : Kluwer Academic
+Description: 14 v. : ill.
+Language: English
+ISSN: 0167-9945(Print); 0167-9945(Linking)
+Coden: IJMCE
+Fully Indexed In: MEDLINE: v1n1, 1984-v14n4,Nov. 1997; PubMed: v1n1, 1984-v14n4,Nov. 1997; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computers; Monitoring, Physiologic
+Publication Type(s): Periodical
+Notes: Imprint varies.
+Other ID: (DNLM)SR0051008(s)(OCoLC)12855001
+NLM ID: 8601284[Serial]
+
+50. Author(s): National Center for Health Services Research and Health Care Technology
+Assessment (U.S.). Office of Health Technology Assessment.; National Center for
+Health Services Research. Office of Health Technology Assessment.; United States.
+Agency for Health Care Policy and Research. Office of Health Technology
+Assessment.
+Title Abbreviation: Health Technol Assess Rep
+Title(s): Health technology assessment reports/ NCHSR&HCTA, National Center for Health
+Services Research and Health Care Technology Assessment.
+Publication Start Year: 1981
+Publication End Year: 1991
+Frequency: Irregular
+Country of Publication: United States
+Publisher: [Rockville, MD] : U.S. Dept. of Health and Human Services, Public Health Service,
+Office of the Assistant Secretary for Health ; Springfield, VA : Available from
+National Technical Information Service,
+Description: 11 v.
+Language: English
+SuDocs Number: HE 20.6512/7:
+ISSN: 8755-9765(Print); 8755-9765(Linking)
+LCCN: sn 88026379
+Fully Indexed In: MEDLINE: n1, 1988-n5, 1991; PubMed: n1, 1988-n5, 1991; Hospital literature index: n1, 1988-n5, 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Technology Assessment, Biomedical*
+Publication Type(s): Periodical
+Notes: At head of title: AHCPR, 1990-1991. Description based on: 1985, no. 1; title from
+cover. Issued by the Office of Health Technology Assessment (within the National 
+Center for Health Services Research, <1981->; the National Center for Health
+Services Research and Health Care Technology Assessment, <1985>-1989; Agency for 
+Health Care Policy and Research, 1990-1991).
+Other ID: (OCoLC)13865053
+NLM ID: 8607675[Serial]
+
+51. Author(s): Association of Surgical Technologists.
+Title Abbreviation: Surg Technol
+Title(s): The Surgical technologist.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Littleton, Colo., Published by Coyle Publications [etc.] for the Assn. of
+Surgical Technologists.
+Description: v. ill., ports.
+Language: English
+ISSN: 0164-4238(Print); 0164-4238(Linking)
+Selectively Indexed in: MEDLINEv11n1,Jan./Feb. 1979-v27n12,Dec. 1995PubMedv11n1,Jan./Feb. 1979-v27n12,Dec. 1995Hospital and health administration index1995Hospital literature indexv11n1,Jan./Feb. 1979-1994
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: General Surgery*; Operating Room Technicians*
+Publication Type(s): Periodical
+Notes: Official publication of the Association of Surgical Technologists.
+Other ID: (DNLM)S48770000(s)(OCoLC)04699434
+NLM ID: 7907517[Serial]
+
+52. Author(s): International Society on Biotelemetry.
+Title Abbreviation: Biotelem Patient Monit
+Title(s): Biotelemetry and patient monitoring.
+Publication Start Year: 1978
+Publication End Year: 1982
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Latest Publisher: Basel : Karger
+Description: 5 v. : ill.
+Language: English
+ISSN: 0378-309X(Print); 0378-309X(Linking)
+Coden: BPMODJ
+Fully Indexed In: MEDLINE: v5n2, 1978-v9, 1982; PubMed: v5n2, 1978-v9, 1982; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Monitoring, Physiologic*; Telemetry*
+Publication Type(s): Periodical
+Notes: Official organ of the International Society on Biotelemetry.
+Other ID: (DNLM)B19900000(s)(OCoLC)04123202
+NLM ID: 7805924[Serial]
+
+53. Title Abbreviation: J Med Eng Technol
+Title(s): Journal of medical engineering & technology.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Eight no. a year
+Country of Publication: England
+Publisher: London, United Trade Press.
+Latest Publisher: London : Informa Healthcare
+Description: v. ill.
+Language: English
+ISSN: 0309-1902(Print); 1464-522X(Electronic); 0309-1902(Linking)
+Coden: JMTEDN
+LCCN: 77646778, sc 78002070
+Electronic Links: http://www.tandfonline.com/loi/ijmt20
+Fully Indexed In: MEDLINE: v1n1,Jan. 1974-; PubMed: v1n1,Jan. 1974-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Biomedical Technology*; Equipment and Supplies*
+Publication Type(s): Periodical
+Notes: Imprint varies. Print issues ceased with v. 37 (2013). Also issued online.
+Other ID: (DNLM)J28880000(s)(OCoLC)02778165
+NLM ID: 7702125[Serial]
+
+54. Title Abbreviation: Quintessence Dent Technol
+Title(s): Quintessence of dental technology.
+Publication Start Year: 1976
+Publication End Year: 1987
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Chicago, Il : Quintessence Pub. Co.
+Description: 11 v. ill.
+Language: English
+ISSN: 0362-0913(Print); 0362-0913(Linking)
+Fully Indexed In: MEDLINE: v1n1,Jan. 1976-v11, 1987; PubMed: v1n1,Jan. 1976-v11, 1987; Index to dental literature: v1n1,Jan. 1976-v11, 1987
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Technology, Dental*
+Publication Type(s): Periodical
+Other ID: (DNLM)Q03200000(s)(OCoLC)02190882
+NLM ID: 7706832[Serial]
+
+55. Author(s): International Association of Biological Standardization.; International
+Association for Biologicals.
+Title Abbreviation: Dev Biol Stand
+Title(s): Developments in biological standardization.
+Publication Start Year: 1974
+Publication End Year: 1999
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger, 1974-1999.
+Latest Publisher: Basel : Karger
+Description: v. illus.
+Language: English, French
+ISSN: 0301-5149(Print); 0301-5149(Linking)
+Coden: DVBSA3
+LCCN: 93644425
+Fully Indexed In: MEDLINE: v23, 1974-v101, 1999; PubMed: v23, 1974-v101, 1999; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Biological Products*; Microbiology*; Vaccines*
+Publication Type(s): Congress
+Notes: At head of title: International Union of Microbiological Societies. Text in
+English or French. Issued by the International Association of Biological
+Standardization, <1992-> ; by the International Association for Biologicals,
+1999.
+Other ID: (DNLM)D08240000(s)(OCoLC)00983297
+NLM ID: 0427140[Serial]
+
+56. Author(s): Vsesoiuznyĭ nauchno-issledovatel'skiĭ institut meditsinskogo priborostroeniia
+(Soviet Union)
+Title Abbreviation: Nov Med Tekh
+Title(s): Novosti meditsinskoĭ tekhniki.
+Publication Start Year: 1974
+Publication End Year: 1984
+Frequency: Quarterly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Ministerstvo meditsinskoĭ promyshlennosti, Vsesoiuznyí
+nauchno-issledovatel'skií institut meditsinskogo priborostroeniia.
+Latest Publisher: Moskva : Meditsina
+Description: v. ill.
+Language: Russian, English, Russian
+ISSN: 0321-2165(Print); 0321-2165(Linking)
+Coden: NMDTAT
+Fully Indexed In: MEDLINE: 1, 1974-29n3,May-J un. 1973; Index medicus
+In: PubMed: 1, 1974-29n3, May-Jun. 1973; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*; Equipment and Supplies*
+Publication Type(s): Periodical
+Notes: Reports after 1984 are cataloged separately at NLM. Reports for 1985- carry ISSN 
+but no series title or numbering. Articles in Russian; summaries in English and
+Russian.
+Other ID: (DNLM)N32640000(s)(OCoLC)03419021
+NLM ID: 7706624[Serial]
+
+57. Title Abbreviation: Med Prog Technol
+Title(s): Medical progress through technology.
+Publication Start Year: 1972
+Publication End Year: 1997
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Berlin, New York, Springer-Verlag.
+Latest Publisher: Boston Ma : Kluwer Academic
+Description: v. illus.
+Language: English
+ISSN: 0047-6552(Print); 0047-6552(Linking)
+Coden: MDPTBG
+Fully Indexed In: MEDLINE: v1n2,Aug. 1972-1997; PubMed: v1n2,Aug. 1972-1997; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Engineering*; Medicine*; Technology*
+Publication Type(s): Periodical
+Notes: Imprint varies. Vol. 21 accompanied by supplement.
+Other ID: (DNLM)M16740000(s)(OCoLC)02263977
+NLM ID: 0331260[Serial]
+
+58. Author(s): Emergency Care Research Institute.
+Title Abbreviation: Health Devices
+Title(s): Health devices.
+Publication Start Year: 1971
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: United States
+Publisher: [Philadelphia] Emergency Care Research Institute.
+Latest Publisher: <2003->: Plymouth Meeting, PA : ECRI
+Description: v. illus.
+Language: English
+ISSN: 0046-7022(Print); 0046-7022(Linking)
+Coden: HDVCA7
+Electronic Links: https://www.ecri.org/components/HDS/Pages/default.aspx
+Fully Indexed In: MEDLINE: v1n1,Apr. 1971-v3n2,Jan. 1974; v17n1,Jan. 1988-v42n12, 2013; Hospital literature index: 1988-1994; Hospital and health administration index: 1995-1999; Index medicus
+In: PubMed: v1n1,Apr. 1971-v3n2,Jan. 1974; v17n1,Jan. 1988-v42n12, 2013; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Equipment and Supplies*
+Publication Type(s): Periodical
+Notes: Binder for <2003-> has title: Health devices system. Print issues ceased with
+vol. 42, no. 12 (Dec. 2013). Also issued online.
+Other ID: (DNLM)H04620000(s)(OCoLC)02242189
+NLM ID: 1262063[Serial]
+
+59. Author(s): Institute of Medical Laboratory Sciences.; Institute of Medical Laboratory
+Technology (Great Britain)
+Title Abbreviation: Med Lab Technol
+Title(s): Medical laboratory technology.
+Publication Start Year: 1971
+Publication End Year: 1975
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, New York, Academic Press.
+Latest Publisher: London : Academic Press
+Description: 5 v. ill.
+Language: English, English
+ISSN: 0022-2607(Print); 0022-2607(Linking)
+Coden: MLBTB2
+Fully Indexed In: MEDLINE: v28n1,Jan. 1971-v32,Oct. 1975; PubMed: v28n1,Jan. 1971-v32,Oct. 1975; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Published Jan. 1971-July 1975 for the Institute of Medical Laboratory Technology;
+Oct. 1975 for the Institute of Medical Laboratory Sciences.
+Other ID: (DNLM)M15380000(s)(OCoLC)01756994
+NLM ID: 7609162[Serial]
+
+60. Title Abbreviation: Comput Programs Biomed
+Title(s): Computer programs in biomedicine.
+Publication Start Year: 1970
+Publication End Year: 1985
+Frequency: Bimonthly, 1982-1985
+Country of Publication: Netherlands
+Publisher: Amsterdam, Elsevier Science Publishers [etc.]
+Description: 19 v. ill.
+Language: English
+ISSN: 0010-468X(Print); 0010-468X(Linking)
+Coden: COPMBU
+Electronic Links: http://www.sciencedirect.com/science/journal/0010468X
+Fully Indexed In: MEDLINE: v2n1,Dec. 1971-v19, 1985; Index medicus
+In: PubMed: v2n1,Dec. 1971-v19, 1985; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computers*; Medicine*; Software*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)C35940000(s)(OCoLC)01564606
+NLM ID: 0237013[Serial]
+
+61. Author(s): American Society of Extra-Corporeal Technology.
+Title Abbreviation: J Extra Corpor Technol
+Title(s): The journal of extra-corporeal technology.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: France
+Publisher: St. Paul, Minn., American Society of Extra-Corporeal Technology.
+Latest Publisher: 2023- : [Les Ulis Cedex, France] : EDP Sciences
+Description: v. illus., ports.
+Language: English
+ISSN: 0022-1058(Print); 2969-8960(Electronic); 0022-1058(Linking)
+Coden: JEXCBD
+Electronic Links: https://www.amsect.org/Publications/Journal-of-ExtraCorporeal-Technology, https://ject.edpsciences.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=0267637
+Fully Indexed In: MEDLINE: v22n1, 1990-
+In: PubMed: v22n1, 1990-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Health Technology Assessment (non-Index Medicus)
+MeSH: Dialysis*; Extracorporeal Circulation*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2022. Also issued online.
+Other ID: (DNLM)J20840000(s)(OCoLC)03497615
+NLM ID: 0267637[Serial]
+
+62. Author(s): Soviet Union. Ministerstvo zdravookhranenii︠a︡.
+Title Abbreviation: Med Tekh
+Title(s): Meditsinskaia tekhnika.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva.
+Latest Publisher: Moskva : Izdatelstvo Meditsina
+Description: v. illus.
+Language: Russian, English
+ISSN: 0025-8075(Print); 0025-8075(Linking)
+Coden: MEDTBV
+Fully Indexed In: MEDLINE: 1972-n4, July-Aug. 2015; PubMed: 1972-n4, July-Aug. 2015; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Equipment and Supplies*
+Publication Type(s): Periodical
+Notes: Added table of contents in English. Organ of the Ministerstvo zdravookhraneniia
+SSSR.
+Other ID: (DNLM)M24460000(s)(OCoLC)07600175
+NLM ID: 1305457[Serial]
+
+63. Author(s): Vsesoiuznyĭ nauchno-issledovatel'skiĭ institut meditsinskogo priborostroeniia
+(Soviet Union)
+Title Abbreviation: Nov Med Priborostr
+Title(s): Novosti meditsinskogo priborostroeniia.
+Publication Start Year: 1967
+Publication End Year: 1973
+Frequency: Three no. a year
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Vsesoiuznyi Nauchno-Issledovatelskii Institut Meditsinskogo
+Preborostroeniia
+Description: 7 v. ill.
+Language: Russian
+ISSN: 0300-9106(Print); 0300-9106(Linking)
+Coden: NMDPAH
+Fully Indexed In: MEDLINE: v1, 1967-1973; Index medicus
+In: PubMed: v1, 1967-1973; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*; Equipment and Supplies*
+Publication Type(s): Periodical
+Other ID: (DNLM)N32600000(s)(OCoLC)01425604
+NLM ID: 0170720[Serial]
+
+64. Author(s): American Public Health Association. Laboratory Section.
+Title Abbreviation: Health Lab Sci
+Title(s): Health laboratory science.
+Publication Start Year: 1964
+Publication End Year: 1978
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Washington, etc.] American Public Health Assn.
+Latest Publisher: Washington Dc : American Public Health Association
+Description: 15 v. ill.
+Language: English
+ISSN: 0017-9035(Print); 0017-9035(Linking)
+Coden: HLSCAE
+Fully Indexed In: MEDLINE: v1n4,Oct. 1964-v15,Oct. 1978; PubMed: v1n4,Oct. 1964-v15,Oct. 1978; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*; Microbiology*; Public Health*
+Publication Type(s): Periodical
+Notes: Official publication of the Laboratory Section, American Public Health
+Association.
+Other ID: (DNLM)H06160000(s)(OCoLC)01751917
+NLM ID: 0374650[Serial]
+
+65. Title Abbreviation: Med Lab (Stuttg)
+Title(s): Das Medizinische Laboratorium.
+Publication Start Year: 1963
+Publication End Year: 1982
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Stuttgart : S Hirzel
+Description: v. ill.
+Language: German
+ISSN: 0025-8466(Print); 0025-8466(Linking)
+Coden: MDLBA9
+Fully Indexed In: MEDLINE: v18n7,Jul. 1965-v35, 1982; PubMed: v18n7,Jul. 1965-v35, 1982; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Added title: Le Laboratoire médical, 1963-75.
+Other ID: (OCoLC)05782961(DNLM)M25540000(s)
+NLM ID: 0375264[Serial]
+
+66. Title Abbreviation: NTM
+Title(s): NTM.
+Publication Start Year: 1960
+Publication End Year: 
+Frequency: Quarterly, 1993-
+Country of Publication: Switzerland
+Publisher: Leipzig : Akademische Verlagsgesellschaft Geest & Portig
+Latest Publisher: 1993- : Cham, Switzerland : Springer International Publishing
+Description: v. illus., ports.
+Language: German, English, French
+ISSN: 0036-6978(Print); 1420-9144(Electronic); 0036-6978(Linking)
+Electronic Links: https://link.springer.com/journal/48
+In: PubMed: v6n1, 1969-; 
+Selectively Indexed in: MEDLINEv6n1, 1969-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: History of Medicine*; Science/history*; Technology/history*
+Publication Type(s): Periodical
+Notes: Subtitle varies: Zeitschrift für Geschichte der Naturwissenschaften, Technik und
+Medizin, 1960- ; Schriftenreihe für Geschichte der Naturwissenschaften, Technik 
+und Medizin, 1964- ; Internationale Zeitschrift für Geschichte und Ethik der
+Naturwissenschaften, Technik und Medizin [and] International journal of history
+and ethics of natural sciences, technology and medicine, 1993- . Issues numbered 
+consecutively as Heft 1-12 for 1.-5. Jahrg., 1960-1968. First. v. called 1.
+Jahrg., published 1960-1962?; 2. Jahrg. published 1965. Also issued online. In
+German, 1964- ; chiefly in German, with some English and French and English
+summaries, 1992?- .
+Other ID: (OCoLC)01758962(DNLM)N33160000(s)
+NLM ID: 0347631[Serial]
+
+67. Title Abbreviation: Z Med Labortech
+Title(s): Zeitschrift für medizinische Labortechnik.
+Publication Start Year: 1960
+Publication End Year: 1976
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Berlin : Verlag Volk Und Gesundheit
+Description: 17 v. ill.
+Language: German, Multiple languages, English
+ISSN: 0044-3069(Print); 0044-3069(Linking)
+Coden: ZMDLAZ
+Fully Indexed In: MEDLINE: v6n4, 1965-v17, 1976; PubMed: v6n4, 1965-v17, 1976; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*; Research*
+Publication Type(s): Periodical
+Notes: Articles in German; summaries in English, French, German, and Russian.
+Other ID: (DNLM)Z04380000(s)(OCoLC)03441607
+NLM ID: 0413636[Serial]
+
+68. Author(s): Society for the History of Technology.
+Title Abbreviation: Technol Cult
+Title(s): Technology and culture.
+Publication Start Year: 1959
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Chicago : University of Chicago Press
+Latest Publisher: <2001->: Baltimore, MD : Johns Hopkins University Press
+Description: v. ill.
+Language: English
+ISSN: 0040-165X(Print); 1097-3729(Electronic); 0040-165X(Linking)
+Coden: TECUA3
+Electronic Links: http://muse.jhu.edu/journals/technology_and_culture/
+In: PubMed: v11, July 1970-; 
+Selectively Indexed in: MEDLINEv11, July 1970-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: Technology*
+Publication Type(s): Periodical
+Notes: International quarterly of the Society for the History of Technology. Also issued
+online.
+Other ID: (DNLM)T04500000(s)(OCoLC)01640126
+NLM ID: 21120500R[Serial]
+
+69. Author(s): Instytut Historii Nauki, Oświaty i Techniki (Polska Akademia Nauk); Polska
+Akademia Nauk. Komitet Historii Nauki.; Polska Akademia Nauk. Zakład Historii
+Nauki i Techniki.
+Title Abbreviation: Kwart Hist Nauki Tech
+Title(s): Kwartalnik historii nauki i techniki : Kwartal'nyĭ zhurnal istorii nauki i
+tekhniki -.
+Publication Start Year: 1956
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Poland
+Publisher: Warszawa Państwowe Wydawn. Naukowe.
+Description: v. : ill., ports.
+Language: Polish, English, Russian
+ISSN: 0023-589X(Print); 0023-589X(Linking)
+Coden: KHNTAB
+Electronic Links: https://ejournals.eu/czasopismo/kwartalnik-historii-nauki-i-techniki
+Selectively Indexed in: MEDLINEv77, 1970-v61n2, 2016PubMedv77, 1970-Jv61n2, 2016
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science/history*; Technology/history*
+Publication Type(s): Periodical
+Notes: Description based on: r. 11, nr. 1-2, 1966. Some numbers issued only in English
+with English title. Table of contents and some summaries in English and Russian. 
+Issued 1956-64? by the Komitet Historii Nauki of the Polska Akademia Nauk; 1964?-
+by the academy's Zakład Historii Nauki i Techniki; 197-?- by the academy's
+Instytut Historii Nauki, Oświaty i Techniki. Indexes: Rok 1 (1956)-r. 10 (1965),
+with r. 11.
+Other ID: (OCoLC)02263350(DNLM)K13760000(s)
+NLM ID: 0065346[Serial]
+
+70. Author(s): Institute of Medical Laboratory Technology (Great Britain)
+Title Abbreviation: J Med Lab Technol
+Title(s): The Journal of medical laboratory technology.
+Publication Start Year: 1951
+Publication End Year: 1970
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, Academic Press.
+Latest Publisher: London : Academic Press
+Description: 19 v. illus., ports.
+Language: English
+ISSN: 0368-3109(Print); 0368-3109(Linking)
+Coden: JMLTAP
+Fully Indexed In: MEDLINE: v22n4,Oct. 1965-v27,Oct. 1970; PubMed: v22n4,Oct. 1965-v27,Oct. 1970; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Official publication of the Institute of Medical Laboratory Technology.
+Other ID: (DNLM)J29080000(s)(OCoLC)01754667
+NLM ID: 1263574[Serial]
+
+71. Title Abbreviation: Methods Med Res
+Title(s): Methods in medical research.
+Publication Start Year: 1948
+Publication End Year: 1970
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Chicago, Year Book Medical Publishers.
+Latest Publisher: Chicago Il : Year Book Medical Publishers
+Description: 12 v. illus.
+Language: English
+ISSN: 0094-9590(Print); 0094-9590(Linking)
+Coden: MMRSAH
+Fully Indexed In: MEDLINE: v11, 1966-v12, 1970; PubMed: v11, 1966-v12, 1970; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Research*
+Publication Type(s): Periodical
+Other ID: (DNLM)M32720000(s)(OCoLC)01044276
+NLM ID: 0436274[Serial]
+
+72. Author(s): Baĭchikov,A G(Alekseĭ Gavrilovich); Soviet Union. Ministerstvo
+zdravookhranenii︠a︡.
+Title Abbreviation: Med Prom SSSR
+Title(s): Meditsinskaia promyshlennost' SSSR.
+Publication Start Year: 1947
+Publication End Year: 1966
+Country of Publication: Russia (Federation)
+Publisher: Moskva.
+Description: 20 v. illus., ports.
+Language: Russian
+Coden: MPSSA9
+Fully Indexed In: MEDLINE: v6,Jun. 1965-v20,Dec. 1966; PubMed: v6,Jun. 1965-v20,Dec. 1966; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Drug Industry*; Equipment and Supplies*; Pharmaceutical Preparations*; USSR
+Publication Type(s): Periodical
+Notes: Edited 1948-66 by A. G. Baĭchikov. Issues for 1947-55 lack vol. numbering but
+constitute g. 1-9. Issues for 1957-66 have tables of contents in English. Organ
+of the Ministerstvo zdravookhraneniia SSSR.
+Other ID: (DNLM)M24400000(s)(OCoLC)32565826
+NLM ID: 1305622[Serial]
+
+73. Author(s): American Society of Clinical Pathologists. Registry of Medical Technologists.;
+American Society of Clinical Pathologists.
+Title Abbreviation: Tech Bull Regist Med Technol
+Title(s): Technical bulletin of the Registry of Medical Technologists.
+Publication Start Year: 1940
+Publication End Year: 1969
+Country of Publication: United States
+Publisher: Denver, Colorado : Registry of Medical Technolgists,
+Latest Publisher: Baltimore : Williams & Wilkins,
+Description: volumes : illustrations
+Language: English
+ISSN: 0097-0654(Print)
+Coden: TBRMAX
+Fully Indexed In: MEDLINE: v35n9,Sept. 1965-v39n12,Dec. 1969; PubMed: v35n9,Sept. 1965-v39n12,Dec. 1969; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Adopted the vol. numbering of the American journal of clinical pathology.
+Official publication of: American Society of Clinical Pathologists.
+Other ID: (OCoLC)927699337(DNLM)T03040000(s)
+NLM ID: 7501250[Serial]
+
+74. Author(s): Canadian Society of Laboratory Technologists.
+Title Abbreviation: Can J Med Technol
+Title(s): Canadian journal of medical technology.
+Publication Start Year: 1938
+Publication End Year: 1995
+Frequency: Quarterly
+Country of Publication: Canada
+Publisher: Hamilton.
+Description: 57 v. illus., ports.
+Language: English
+ISSN: 0008-4158(Print); 0008-4158(Linking)
+Coden: CJMTAY
+LCCN: cn 76300364
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv42n1,Feb. 1980-v57n4, Nov. 1995.PubMedv42n1,Feb. 1980-v57n4, Nov. 1995.Hospital literature indexv42n1,Feb. 1980-1994Hospital and health administration index1995
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Vol. 44 (1982) complete in 3 issues. Vol. 45 (1983) complete in 5 issues.
+Includes some text in French. Official publication of the Canadian Society of
+Laboratory Technologists.
+Other ID: (DNLM)C04160000(s)(OCoLC)01779391
+NLM ID: 0373141[Serial]
+
+75. Author(s): American Society of Medical Technologists.; American Society for Medical
+Technology
+Title Abbreviation: Am J Med Technol
+Title(s): The American journal of medical technology.
+Publication Start Year: 1936
+Publication End Year: 1976
+Frequency: Monthly, 1968-76
+Country of Publication: United States
+Publisher: [Bellaire, Tex., etc.] : American Society Of Medical Technologists
+Latest Publisher: 1972- : [Houston, Texas] : American Society of Medical Technology
+Description: 41 v. illus., ports.
+Language: English
+ISSN: 0002-9335(Print); 0002-9335(Linking)
+Coden: AJMTAC
+LCCN: sc 77001166
+Fully Indexed In: MEDLINE: v31n5, Sept.-Oct. 1965-v49, 1983; Index medicus
+In: PubMed: v31n5, Sept.-Oct. 1965-v49, 1983, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Vols. for 1936-June 1972 published by American Society of Medical Technologists; 
+July 1972-1976 by American Society for Medical Technology.
+Other ID: (DNLM)A24420000(s)(OCoLC)1480155
+NLM ID: 0370505[Serial]
+
+76. Title Abbreviation: Entechnology
+Title(s): ENTechnology.
+Publication Start Year: 19uu
+Publication End Year: 1989
+Frequency: Irregular
+Country of Publication: United States
+Publisher: [Secaucus, N.J. : Hospital Publications,
+Latest Publisher: Secaucus Nj : Hospital Publications
+Description: v. : ill.
+Language: English
+ISSN: 
+Fully Indexed In: MEDLINE: Sept. 1988-1989; PubMed: Sept. 1988-1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Otolaryngology/instrumentation*
+Publication Type(s): Periodical
+Notes: Description based on: Sept. 1984; title from cover. "Current technology in head
+and neck medicine and surgery." Issued as a special issue of Ear, nose & throat
+journal.
+Other ID: (DNLM)SR0054868(s)(OCoLC)12258083
+NLM ID: 8605425[Serial]
+
+77. Author(s): Blue Cross and Blue Shield Association. Technology Evaluation Center.
+Title Abbreviation: Tecnologica
+Title(s): Tecnologica.
+Publication Start Year: 19uu
+Publication End Year: 2001
+Frequency: Monthly, 1998-
+Country of Publication: United States
+Publisher: Chicago, Ill. : Technology Evaluation Center of Blue Cross and Blue Shield
+Association
+Description: v.
+Language: English
+LCCN: sn 97040188
+Selectively Indexed in: MEDLINEMay 1995-Dec. 2001PubMedMay 1995-Dec. 2001
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health services research are indexed.
+MeSH: Biomedical Technology; Technology Assessment, Biomedical
+Publication Type(s): Periodical
+Notes: Alternate issues called: Tecnologica. Clearinghouse update 1998-. Description
+based on: June 1997; title from caption. "A newsletter of emerging health
+technology information."
+Other ID: (DNLM)SR0091231(s)(OCoLC)41323010
+NLM ID: 9712382[Serial]
+
+78. Title Abbreviation: Gesund Ing
+Title(s): Gesundheits-Ingenieur.
+Publication Start Year: 1880
+Publication End Year: 1978
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Munchen Etc : R Oldenbourg
+Description: v. ill., ports.
+Language: German
+ISSN: 0016-9277(Print); 0016-9277(Linking)
+Coden: GEINA5
+Fully Indexed In: MEDLINE: v92n1,Jan. 1972-v99,Dec. 1978; PubMed: v92n1,Jan. 1972-v99,Dec. 1978; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Sanitary Engineering*
+Publication Type(s): Periodical
+Notes: Publication suspended Aug. 1944-46. Vol. numbers irregular: Jahrg. 41 omitted.
+Supplements accompany some numbers. Microfilm. v. 49 (1926)-81 (1960). 17
+microfilm reels : negative ; 35 mm. Organ of various organizations specializing
+in sanitary engineering.
+Other ID: (DNLM)G06960000(s)(OCoLC)05207490
+NLM ID: 0370743[Serial]
+

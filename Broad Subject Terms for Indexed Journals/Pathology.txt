@@ -1,0 +1,4550 @@
+1. Title Abbreviation: Pathologie (Heidelb)
+Title(s): Die Pathologie.
+Publication Start Year: 2022
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: [Heidelberg, Germany] : Springer Medizin, [2022]-
+Description: 1 online resource
+Language: German
+ISSN: 2731-7196(Electronic); 2731-7188(Print); 2731-7188(Linking)
+LCCN: 2022220960
+Electronic Links: https://www.springer.com/journal/292
+Fully Indexed In: MEDLINE: v43n4, July 2022-
+In: PubMed: v43n4, July 2022-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathologic Processes*; Pathology*
+Publication Type(s): Periodical
+Notes: Issues also have distinctive titles. Also issued in print. Articles in German;
+abstracts in German and English.
+Other ID: (OCoLC)1334309801
+NLM ID: 9918384887506676[Serial]
+
+2. Title Abbreviation: Mol Biomed
+Title(s): Molecular biomedicine.
+Publication Start Year: 2020
+Publication End Year: 
+Country of Publication: Singapore
+Publisher: Singapore : Springer Singapore, [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2662-8651(Electronic); 2662-8651(Linking)
+LCCN: 2022229010
+Electronic Links: https://www.springer.com/journal/43556, https://pmc.ncbi.nlm.nih.gov/journals/?term=9918283581406676
+Fully Indexed In: MEDLINE: v5, 2024-
+In: PubMed: v1, Dec. 2020-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering; Biotechnology; Molecular Medicine*
+Publication Type(s): Periodical
+Notes: Articles added online as accepted throughout the year.
+Other ID: (OCoLC)1202555435
+NLM ID: 9918283581406676[Serial]
+
+3. Author(s): Pathological Society of Great Britain and Ireland,
+Title Abbreviation: J Pathol Clin Res
+Title(s): The journal of pathology. Clinical research.
+Publication Start Year: 2014
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford : Wiley Blackwell, [2015]-
+Language: English
+ISSN: 2056-4538(Electronic); 2056-4538(Linking)
+LCCN: 2015243310
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101658534, http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2056-4538
+Fully Indexed In: MEDLINE: v4n1, Jan. 2018-
+In: PubMed: v1n1, 2015-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Clinical Laboratory Techniques; Clinical Trials as Topic*; Pathology
+Publication Type(s): Periodical
+Notes: Month and year taken from contents page. Some articles in Volume 1 published
+electronically in 2014.
+Other ID: (OCoLC)907249626
+NLM ID: 101658534[Serial]
+
+4. Author(s): American Society of Cytopathology,
+Title Abbreviation: J Am Soc Cytopathol
+Title(s): Journal of the American Society of Cytopathology.
+Publication Start Year: 2014
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, NY : Elsevier
+Language: English
+ISSN: 2213-2945(Print); 2213-2953(Linking)
+LCCN: 2015205454
+Electronic Links: http://www.sciencedirect.com/science/journal/22132945
+Fully Indexed In: MEDLINE: v8n1, Jan.-Feb. 2019-
+In: PubMed: v8n1, Jan.-Feb. 2019- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cellular Structures/pathology*; Cytodiagnosis; Tissues/pathology
+Publication Type(s): Periodical
+Notes: Volume 1, issue 1 Suppplement (November 2012) and Volume 2, issue 1 Supplement
+(October 2013) issued as supplemental or "pre-issues" to the journal. They
+contain abstracts of the 60th and 61st annual meetings of the American Society of
+Cytopathology. Also issued online.
+Other ID: (OCoLC)924431046
+NLM ID: 101613234[Serial]
+
+5. Author(s): International Society for Cellular Oncology.
+Title Abbreviation: Cell Oncol (Dordr)
+Title(s): Cellular oncology.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Netherlands
+Publisher: Dordrecht : Springer
+Language: English
+ISSN: 2211-3428(Print); 2211-3436(Electronic); 2211-3428(Linking)
+LCCN: 2011243718
+Electronic Links: https://link.springer.com/journal/13402
+Fully Indexed In: MEDLINE: v34, 2011-
+In: PubMed: v34, 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Transformation, Neoplastic; Cells/pathology*; Neoplasms/pathology
+Publication Type(s): Periodical
+Notes: Adopts its vol. numbering from Analytical cellular pathology (Amsterdam). Also
+issued online.
+Other ID: (OCoLC)756191013
+NLM ID: 101552938[Serial]
+
+6. Author(s): Paleopathology Association,
+Title Abbreviation: Int J Paleopathol
+Title(s): International journal of paleopathology.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Four issues a year
+Country of Publication: Netherlands
+Publisher: [New York, NY] : Elsevier
+Latest Publisher: <Mar. 2013-> : Amsterdam : Elsevier
+Language: English
+ISSN: 1879-9817(Print); 1879-9825(Electronic); 1879-9817(Linking)
+LCCN: 2013207087
+Electronic Links: http://www.sciencedirect.com/science/journal/18799817
+Fully Indexed In: MEDLINE: v16, Mar. 2017-
+In: PubMed: v16, Mar. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mummies/pathology; Paleopathology*
+Publication Type(s): Periodical
+Notes: Official journal of the Paleopathology Association. Also issued online.
+Other ID: (OCoLC)853508384
+NLM ID: 101562474[Serial]
+
+7. Author(s): International Society for Cellular Oncology.
+Title Abbreviation: Anal Cell Pathol (Amst)
+Title(s): Analytical cellular pathology (Amsterdam).
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Amsterdam : IOS Press
+Latest Publisher: 2024- : [Hoboken, NJ] : John Wiley and Sons
+Language: English
+ISSN: 2210-7177(Print); 2210-7185(Electronic); 2210-7177(Linking)
+LCCN: 2010243783
+Electronic Links: https://onlinelibrary.wiley.com/journal/2641, https://pmc.ncbi.nlm.nih.gov/journals/?term=101541993
+Fully Indexed In: MEDLINE: v33n1, 2010-
+In: PubMed: v33n1, 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Transformation, Neoplastic*; Cells/pathology*; Cytological Techniques; Genetic Techniques
+Publication Type(s): Periodical
+Notes: Beginning with vol. 34, no. 1/2 (2011) Cellular oncology removed from title. Also
+issued online. Official journal of International Society for Cellular Oncology,
+2010.
+Other ID: (OCoLC)673263416
+NLM ID: 101541993[Serial]
+
+8. Title Abbreviation: J Cachexia Sarcopenia Muscle
+Title(s): Journal of cachexia, sarcopenia and muscle.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Heidelburg : Springer-Verlag
+Latest Publisher: 2015- : Berlin : John Wiley & Sons Ltd on behalf of Society on Sarcopenia,
+Cachexia and Wasting Disorders
+Language: English
+ISSN: 2190-6009(Electronic); 2190-5991(Print); 2190-5991(Linking)
+LCCN: 2011243798
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101552883, http://onlinelibrary.wiley.com/journal/10.1007/13539.2190-6009
+Fully Indexed In: MEDLINE: v7n1, Mar. 2016-
+In: PubMed: v1, 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cachexia*; Muscles; Sarcopenia*
+Publication Type(s): Periodical
+Notes: Also issued in print.
+Other ID: (OCoLC)759576030
+NLM ID: 101552883[Serial]
+
+9. Author(s): Nihon Hainyō Kinō Gakkai.; Taehan Paenyo Chang'ae Yosilgŭm Hakhoe.; Taiwan
+niao shi jin fang zhi xie hui.
+Title Abbreviation: Low Urin Tract Symptoms
+Title(s): Lower urinary tract symptoms.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Two issues per year
+Country of Publication: Australia
+Publisher: Richmond, Vic. : Blackwell Publishing Asia, 2009-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1757-5664(Print); 1757-5672(Electronic); 1757-5664(Linking)
+LCCN: 2009243788
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1757-5672
+Fully Indexed In: MEDLINE: v7n1, Jan. 2015-
+In: PubMed: v7n1, Jan. 2015- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Urinary Tract Physiological Phenomena; Urologic Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 1, issue 1 (June 2009). Print
+issues ceased with v. 12 (2020). Also issued online. Access to this journal is
+available free online within institutions in the developing world through the
+HINARI initiative with the WHO. An official journal of the Japanese Neurogenic
+Bladder Society, the Korean Continence Society, and the Taiwanese Continence
+Society.
+Other ID: (OCoLC)457194048
+NLM ID: 101506777[Serial]
+
+10. Title Abbreviation: Int J Clin Exp Pathol
+Title(s): International journal of clinical and experimental pathology.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Madison, WI : e-Century Pub. Corp., [2008]-
+Language: English
+ISSN: 1936-2625(Electronic); 1936-2625(Linking)
+LCCN: 2007215987
+Electronic Links: https://e-century.us/web/journal.php?journal=ijcep, https://pmc.ncbi.nlm.nih.gov/journals/?term=101480565
+Fully Indexed In: MEDLINE: v1n1, 2008-v8n12, 2015
+In: PubMed: v1n1, 2008-v8n12, 2015; v10n7, 2017-, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*; Pathology, Clinical
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from journal home page (IJCEP site,
+viewed May 16, 2008). Latest issue consulted: Vol. 2, no. 1 (2009) (viewed Aug.
+8, 2008). Mode of access: World Wide Web.
+Other ID: (OCoLC)85839245
+NLM ID: 101480565[Serial]
+
+11. Author(s): American Academy of Oral and Maxillofacial Pathology.; North American Society of 
+Head and Neck Pathology.; International Academy of Oral Pathology.
+Title Abbreviation: Head Neck Pathol
+Title(s): Head and neck pathology.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Secaucus, NJ : Humana Press
+Latest Publisher: June 2011- : New York : Springer Science+ Business Media
+Description: v.
+Language: English
+ISSN: 1936-055X(Print); 1936-0568(Electronic); 1936-055X(Linking)
+LCCN: 2007214233
+Electronic Links: https://link.springer.com/journal/12105, https://pmc.ncbi.nlm.nih.gov/journals/?term=101304010
+Fully Indexed In: MEDLINE: v1n1, 2007-
+In: PubMed: v1n1, 2007-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Head/pathology*; Neck/pathology
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 2, no. 1 (spring 2008); title from cover. Latest issue
+consulted: Vol. 2, no. 1 (spring 2008). Print issues ceased with v. 2, no. 1
+(2008). Also issued online.
+Other ID: (OCoLC)85246995
+NLM ID: 101304010[Serial]
+
+12. Title Abbreviation: Semin Immunopathol
+Title(s): Seminars in immunopathology.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Bimonthly, 2011-
+Country of Publication: Germany
+Publisher: Berlin : Springer
+Language: English
+ISSN: 1863-2297(Print); 1863-2300(Electronic); 1863-2297(Linking)
+LCCN: 2009236353
+Electronic Links: https://link.springer.com/journal/281
+Fully Indexed In: MEDLINE: v29n1, Apr. 2007-
+In: PubMed: v29n1, Apr. 2007-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Allergy and Immunology*; Immune System Diseases
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)141200933
+NLM ID: 101308769[Serial]
+
+13. Title Abbreviation: Annu Rev Pathol
+Title(s): Annual review of pathology.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, Calif. : Annual Reviews, c2006-
+Description: v. : col. ill. ; 24 cm.
+Language: English
+ISSN: 1553-4006(Print); 1553-4014(Electronic); 1553-4006(Linking)
+LCCN: 2004213416
+Electronic Links: http://www.annualreviews.org/loi/pathmechdis
+Fully Indexed In: MEDLINE: v1, 2006-; PubMed: v1, 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Notes: "Mechanisms of disease." Also issued online.
+Other ID: (OCoLC)56883820
+NLM ID: 101275111[Serial]
+
+14. Title Abbreviation: Diagn Pathol
+Title(s): Diagnostic pathology.
+Publication Start Year: 2006
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central, 2006-
+Language: English
+ISSN: 1746-1596(Electronic); 1746-1596(Linking)
+LCCN: 2006243249
+Electronic Links: https://diagnosticpathology.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101251558
+Fully Indexed In: MEDLINE: v5, 2010-
+In: PubMed: v1n1, Mar. 31, 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology, Clinical; Pathology, Surgical*
+Publication Type(s): Periodical
+Notes: Title from PDF caption (publisher's Web site, viewed Apr. 11, 2006). Latest issue
+consulted: 1:4 (3 Apr. 2006) (viewed Apr. 11, 2006). Articles added consecutively
+to current annual v. Mode of access: World Wide Web.
+Other ID: (OCoLC)67290512
+NLM ID: 101251558[Serial]
+
+15. Title Abbreviation: Forensic Sci Med Pathol
+Title(s): Forensic science, medicine, and pathology.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Totowa, N.J. : Humana Press, c2005-
+Description: v. : ill.
+Language: English
+ISSN: 1547-769X(Print); 1556-2891(Electronic); 1547-769X(Linking)
+LCCN: 2003202585
+Electronic Links: https://link.springer.com/journal/12024
+Fully Indexed In: MEDLINE: v4n1, 2008-; PubMed: v4n1, 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Forensic Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)53836498
+NLM ID: 101236111[Serial]
+
+16. Author(s): Japanese Society for Clinical Molecular Morphology.
+Title Abbreviation: Med Mol Morphol
+Title(s): Medical molecular morphology.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Japan
+Publisher: Tokyo, Japan : Springer, [2005]-
+Description: v. : ill.
+Language: English
+ISSN: 1860-1480(Print); 1860-1499(Electronic); 1860-1499(Linking)
+LCCN: 2005243494
+Electronic Links: https://link.springer.com/journal/795
+Fully Indexed In: MEDLINE: v38n1, Mar. 2005-
+In: PubMed: v38n1, Mar. 2005-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Physiological Phenomena; Microscopy, Electron; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the Japanese Society
+for Clinical Molecular Morphology.
+Other ID: (OCoLC)60364461
+NLM ID: 101239023[Serial]
+
+17. Author(s): International Society for Cellular Oncology.
+Title Abbreviation: Cell Oncol
+Title(s): Cellular oncology : the official journal of the International Society for
+Cellular Oncology.
+Publication Start Year: 2004
+Publication End Year: 2010
+Frequency: Six no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam ; Washington, DC : IOS Press, c2004-2010.
+Description: v. : ill.
+Language: English
+ISSN: 1570-5870(Print); 1875-8606(Electronic); 1570-5870(Linking)
+LCCN: 2004243665
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101219418
+Fully Indexed In: MEDLINE: v26n1/2, 2004-v32n5/6, 2010; Index medicus
+In: PubMed: v26n1/2, 2004-v32n5/6, 2010, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Transformation, Neoplastic; Cells/pathology*; Cytological Techniques; Genetic Techniques
+Publication Type(s): Periodical
+Notes: Issues for 2010 also called: Cellular oncology including analytical cellular
+pathology. Also issued online.
+Other ID: (OCoLC)56530395
+NLM ID: 101219418[Serial]
+
+18. Title Abbreviation: Fetal Pediatr Pathol
+Title(s): Fetal and pediatric pathology.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Philadelphia, PA : Taylor & Francis, c2004-
+Latest Publisher: London : Informa Healthcare
+Description: v. : ill.
+Language: English
+ISSN: 1551-3815(Print); 1551-3823(Electronic); 1551-3815(Linking)
+LCCN: 2004215128
+Electronic Links: http://www.tandfonline.com/loi/ipdp20
+Fully Indexed In: MEDLINE: v23n1, Jan. 2004-; PubMed: v23n1, Jan. 2004-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Fetal Diseases/pathology*; Infant, Newborn, Diseases/pathology*; Pediatrics
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)55959666
+NLM ID: 101230972[Serial]
+
+19. Author(s): Scandinavian Society of Clinical Physiology and Nuclear Medicine.
+Title Abbreviation: Clin Physiol Funct Imaging
+Title(s): Clinical physiology and functional imaging.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford : Blackwell, c2002-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1475-0961(Print); 1475-097X(Electronic); 1475-0961(Linking)
+LCCN: 2002243054
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-097X
+Fully Indexed In: MEDLINE: v22n1, Jan. 2002-; PubMed: v22n1, Jan. 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Physiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Published for the Scandinavian Society of
+Clinical Physiology and Nuclear Medicine.
+Other ID: (OCoLC)48933893
+NLM ID: 101137604[Serial]
+
+20. Author(s): Nihon Rinpa Mōnaikei Gakkai.
+Title Abbreviation: J Clin Exp Hematop
+Title(s): Journal of clinical and experimental hematopathology : JCEH.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: Japan
+Publisher: Nagoya-shi : Nihon Rinpa Mōnaikei Gakkai, 2001-
+Description: v.
+Language: English
+ISSN: 1346-4280(Print); 1880-9952(Electronic); 1346-4280(Linking)
+LCCN: 2002243198
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101141257, https://www.jstage.jst.go.jp/browse/jslrt/55/0/_contents/-char/en
+Fully Indexed In: MEDLINE: v46n1, Mar. 2006-
+In: PubMed: v46n1, Mar. 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Hematologic Diseases/pathology*; Lymphoma
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 55, no. 3 (2015). Also issued
+online. Journal of the Japanese Society for Lymphoreticular Tissue Research, Oct.
+2001- .
+Other ID: (OCoLC)49620132
+NLM ID: 101141257[Serial]
+
+21. Title Abbreviation: J Vet Med A Physiol Pathol Clin Med
+Title(s): Journal of veterinary medicine. A, Physiology, pathology, clinical medicine.
+Publication Start Year: 2000
+Publication End Year: 2007
+Frequency: Ten no. a year
+Country of Publication: Germany
+Publisher: Berlin, Germany : Blackwell Wissenschafts-Verlag, c2000-
+Description: v.
+Language: English
+ISSN: 0931-184X(Print); 1439-0442(Electronic); 0931-184X(Linking)
+LCCN: sn 99015474
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0442
+Fully Indexed In: MEDLINE: v47n1,Feb. 2000-v54n10,Dec 2007; PubMed: v47n1,Feb. 2000-v54n10,Dec 2007; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animal Diseases/pathology; Animal Population Groups/physiology; Animals; Veterinary Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)42293031
+NLM ID: 100955112[Serial]
+
+22. Author(s): Association d'enseignement médical des hôpitaux de Paris. Société d'édition.
+Title Abbreviation: Clin Exp Pathol
+Title(s): Clinical and experimental pathology.
+Publication Start Year: 1999
+Publication End Year: 1999
+Frequency: Bimonthly
+Country of Publication: France
+Publisher: Paris : Expansion scientifique publications, c1999-
+Description: v. : ill.
+Language: French, English
+ISSN: 1292-7953(Print); 1292-7953(Linking)
+LCCN: sn 99039783
+Fully Indexed In: MEDLINE: v47n1, 1999-v47n6, 1999; PubMed: v47n1, 1999-v47n6, 1999; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology; Pathology, Clinical*
+Publication Type(s): Periodical
+Notes: Title from cover. In French and English. Issued by the Société d'édition de
+l'Association d'enseignement médical des hôpitaux de Paris.
+Other ID: (OCoLC)41984898
+NLM ID: 100889732[Serial]
+
+23. Title Abbreviation: Pediatr Pathol Mol Med
+Title(s): Pediatric pathology & molecular medicine.
+Publication Start Year: 1999
+Publication End Year: 2003
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia, PA : Taylor & Francis, c1999-c2003.
+Description: 5 v. : ill.
+Language: English
+ISSN: 1522-7952(Print); 1522-7952(Linking)
+Coden: PPMMFX
+LCCN: sn 98005006
+Electronic Links: http://www.tandfonline.com/loi/ipdp19
+Fully Indexed In: MEDLINE: v20n1, Jan./Feb. 2001-v20n6, Nov./Dec. 2003; PubMed: v20n1, Jan./Feb. 2001-v20n6, Nov./Dec. 2003; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Child; Infant; Molecular Biology; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available via World Wide Web; subscription required for
+access to abstracts and full text.
+Other ID: (OCoLC)40441624
+NLM ID: 100885435[Serial]
+
+24. Author(s): Society for Pediatric Pathology (U.S.); Paediatric Pathology Society.;
+International Paediatric Pathology Association.; International Association for
+Pediatric Laboratory Medicine.
+Title Abbreviation: Pediatr Dev Pathol
+Title(s): Pediatric and developmental pathology : the official journal of the Society for
+Pediatric Pathology and the Paediatric Pathology Society.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, NY : Springer, c1998-
+Latest Publisher: 2017-: Thousand Oaks, CA : SAGE Publishing
+Language: English
+ISSN: 1093-5266(Print); 1615-5742(Electronic); 1093-5266(Linking)
+Coden: PDPAFU
+LCCN: sn 97000421
+Electronic Links: https://journals.sagepub.com/home/pdpa
+Fully Indexed In: MEDLINE: v1n1, Jan.-Feb. 1998-; Index medicus
+In: PubMed: v1n1, Jan.-Feb. 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Congenital Abnormalities/pathology; Pathology, Clinical; Pediatrics
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Affiliated with the International
+Paediatric Pathology Association and the International Association for Pediatric 
+Laboratory Medicine.
+Other ID: (DNLM)SR0092437(s)(OCoLC)36718129
+NLM ID: 9809673[Serial]
+
+25. Author(s): Adriatic Society of Pathology.
+Title Abbreviation: Adv Clin Path
+Title(s): Advances in clinical pathology : the official journal of Adriatic Society of
+Pathology.
+Publication Start Year: 1997
+Publication End Year: 2003
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Udine, Italy : Forum, [1997-
+Latest Publisher: Udine : Forum Societa Editrice Universitaria Udinese
+Description: v. : ill.
+Language: English
+ISSN: 1125-5552(Print); 1125-5552(Linking)
+LCCN: sn97-40185
+Fully Indexed In: MEDLINE: v3n1, Jan. 1999-v7n2, 2003; PubMed: v3n1, Jan. 1999-v7n2, 2003; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology, Clinical
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0091274(s)(OCoLC)37442056
+NLM ID: 9709997[Serial]
+
+26. Author(s): American Registry of Pathology.
+Title Abbreviation: Ann Diagn Pathol
+Title(s): Annals of diagnostic pathology.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Philadelphia, PA : W.B. Saunders Co., c1997-
+Description: v. : ill., ports.
+Language: English
+ISSN: 1092-9134(Print); 1532-8198(Electronic); 1092-9134(Linking)
+LCCN: sn97-247
+Electronic Links: http://www.sciencedirect.com/science/journal/10929134
+Fully Indexed In: MEDLINE: v1n1,Oct. 1997-; PubMed: v1n1,Oct. 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Techniques and Procedures; Pathology/methods
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. With the scientific collaboration of the
+American Registry of Pathology.
+Other ID: (DNLM)SR0091293(s)(OCoLC)36455245
+NLM ID: 9800503[Serial]
+
+27. Author(s): Nihon Nōshuyō Byōri Kenkyūkai.
+Title Abbreviation: Brain Tumor Pathol
+Title(s): Brain tumor pathology.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Four no. a year, 2011-
+Country of Publication: Japan
+Publisher: Tokyo : Springer-Verlag Tokyo, [1997-
+Description: v. : ill.
+Language: English
+ISSN: 1433-7398(Print); 1861-387X(Electronic); 1433-7398(Linking)
+Coden: BTPAFM
+LCCN: sn97-40240
+Electronic Links: https://link.springer.com/journal/10014
+Fully Indexed In: MEDLINE: v14n1, 1997-; PubMed: v14n1, 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain Neoplasms/pathology
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the Japan Society of
+Brain Tumor Pathology.
+Other ID: (DNLM)SR0092153(s)(OCoLC)37992618
+NLM ID: 9716507[Serial]
+
+28. Title Abbreviation: Mol Pathol
+Title(s): Molecular pathology : MP.
+Publication Start Year: 1997
+Publication End Year: 2003
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: London : BMJ Pub. Group, c1997-
+Description: v. : ill.
+Language: English
+ISSN: 1366-8714(Print); 1472-4154(Electronic); 1366-8714(Linking)
+Coden: MOPAF
+Electronic Links: https://jcp.bmj.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=9706282
+Fully Indexed In: MEDLINE: v50n1,Feb. 1997-v56n6, Dec. 2003; PubMed: v50n1,Feb. 1997-v56n6, Dec. 2003; Index medicus
+In: PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Molecular Biology; Pathology
+Publication Type(s): Periodical
+Notes: Issued as a sister publication to, and using the volume numbering of: Journal of 
+clinical pathology. Title from cover. Also issued online.
+Other ID: (DNLM)SR0090489(s)(OCoLC)36564535
+NLM ID: 9706282[Serial]
+
+29. Author(s): American Society of Clinical Pathologists.
+Title Abbreviation: Anat Pathol
+Title(s): Anatomic pathology.
+Publication Start Year: 1996
+Publication End Year: 1998
+Frequency: Annual
+Country of Publication: United States
+Publisher: Chicago, Ill. : AASCP Press, c1996-
+Description: v. : ill.
+Language: English
+ISSN: 1056-5884(Print); 1056-5884(Linking)
+LCCN: sn97-40237
+Fully Indexed In: MEDLINE: v1, 1996-v3, 1998; Index medicus
+In: PubMed: v1, 1996-v3, 1998; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cytodiagnosis; Pathology
+Publication Type(s): Review
+Other ID: (DNLM)SR0089110(s)(OCoLC)37992616
+NLM ID: 9703615[Serial]
+
+30. Title Abbreviation: Hematopathol Mol Hematol
+Title(s): Hematopathology and molecular hematology.
+Publication Start Year: 1996
+Publication End Year: 1998
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Monticello, NY : Marcel Dekker, c1996-
+Description: v. : ill.
+Language: English
+ISSN: 1082-8893(Print); 1082-8893(Linking)
+Coden: HMHEFB
+Fully Indexed In: MEDLINE: v10n1, 1996-v11n4, 1998; PubMed: v10n1, 1996-v11n4, 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hematologic Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0085984(s)(OCoLC)32609269
+NLM ID: 9608785[Serial]
+
+31. Title Abbreviation: Gen Diagn Pathol
+Title(s): General & diagnostic pathology.
+Publication Start Year: 1995
+Publication End Year: 1998
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Jena : Deerfield Beach, Fla. : Gustav Fischer ; VCH Publishers, Distribution
+Center, c1995-[1997]
+Description: v. : ill.
+Language: English
+ISSN: 0947-823X(Print); 0947-823X(Linking)
+Coden: GDPAFX
+LCCN: sn95-23260
+Fully Indexed In: MEDLINE: v141n1, May 1995-v143n5-6, Apr. 1998; Index medicus
+In: PubMed: v141n1, May 1995-v143n5-6, Apr. 1998; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Six issues per vol.
+Other ID: (DNLM)SR0084824(s)(OCoLC)32727349
+NLM ID: 9511700[Serial]
+
+32. Author(s): European Histamine Research Society.
+Title Abbreviation: Inflamm Res
+Title(s): Inflammation research : official journal of the European Histamine Research
+Society ... [et al.].
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Switzerland
+Publisher: Basel, Switzerland : Birkhäuser, c1995-
+Description: v. : ill.
+Language: English
+ISSN: 1023-3830(Print); 1420-908X(Electronic); 1023-3830(Linking)
+Coden: INREFB
+LCCN: sn 95039816
+Electronic Links: https://link.springer.com/journal/11
+Fully Indexed In: MEDLINE: v44n1,Jan. 1995-; PubMed: v44n1,Jan. 1995-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Inflammation*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0082594(s)(OCoLC)32011438
+NLM ID: 9508160[Serial]
+
+33. Title Abbreviation: Pathol Oncol Res
+Title(s): Pathology oncology research : POR.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Budapest, Hungary : Science Press, c1995-
+Latest Publisher: 2021- : Lausanne, Switzerland : Frontiers Media S. A.
+Description: v. : ill.
+Language: English
+ISSN: 1219-4956(Print); 1532-2807(Electronic); 1219-4956(Linking)
+Electronic Links: https://link.springer.com/journal/12253, https://www.por-journal.com/journals/pathology-and-oncology-research, https://pmc.ncbi.nlm.nih.gov/journals/?term=9706087
+Fully Indexed In: MEDLINE: v4n1, 1998-; PubMed: v4n1, 1998-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neoplasms/pathology
+Publication Type(s): Periodical
+Notes: Vols. for 1998- have title: Pathology & oncology research. Title from cover.
+Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0089476(s)(OCoLC)36885374
+NLM ID: 9706087[Serial]
+
+34. Author(s): Society for Pediatric Pathology (U.S.); International Paediatric Pathology
+Association.
+Title Abbreviation: Pediatr Pathol Lab Med
+Title(s): Pediatric pathology & laboratory medicine : journal of the Society for Pediatric 
+Pathology, affiliated with the International Paediatric Pathology Association.
+Publication Start Year: 1995
+Publication End Year: 1998
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Washington, DC : Taylor & Francis, c1995-c1998.
+Latest Publisher: Washington, DC : Taylor And Francis
+Description: 4 v. : ill.
+Language: English
+ISSN: 1077-1042(Print); 1077-1042(Linking)
+Coden: PPLMER
+LCCN: sn 94003728
+Electronic Links: https://www.tandfonline.com/toc/ipdp18/current
+Fully Indexed In: MEDLINE: v15n1,Jan.-Feb. 1995-v18n1, Jan.-Feb. 1998; PubMed: v15n1,Jan.-Feb. 1995-v18n1, Jan.-Feb. 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*; Pathology*; Pathology, Clinical*; Pediatrics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online, 1996-1998.
+Other ID: (DNLM)SR0081876(s)(OCoLC)30697806
+NLM ID: 9518033[Serial]
+
+35. Title Abbreviation: Adv Anat Pathol
+Title(s): Advances in anatomic pathology.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, NY : Raven Press, c1994-
+Latest Publisher: 1998- : Hagerstown, MD : Lippincott Williams & Wilkins
+Description: v. ill.
+Language: English
+ISSN: 1072-4109(Print); 1533-4031(Electronic); 1072-4109(Linking)
+LCCN: sn 93006449
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00125480-000000000-00000
+Fully Indexed In: MEDLINE: v5n1,Jan. 1998-; PubMed: v5n1,Jan. 1998-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0078901(s)(OCoLC)28941339
+NLM ID: 9435676[Serial]
+
+36. Author(s): Stowarzyszenie Neuropatologóe Polskich.; Instytut Centrum Medycyny
+Doświadczalnej i Klinicznej (Polska Akademia Nauk)
+Title Abbreviation: Folia Neuropathol
+Title(s): Folia neuropathologica/ Association of Polish Neuropathologists and Medical
+Research Centre, Polish Academy of Sciences.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Poland
+Publisher: Warsaw, Poland : Medical Pub. House, 1994-
+Latest Publisher: Poznań : Termedica
+Description: v. : ill.
+Language: English, Polish
+ISSN: 1641-4640(Print); 1509-572X(Electronic); 1509-572X(Linking)
+Coden: FONEEW
+LCCN: sn 94038759
+Electronic Links: http://www.termedia.pl/magazine.php?magazine_id=20&magazine_subpage=CURRENT
+Fully Indexed In: MEDLINE: v32n1, 1994-; PubMed: v32n1, 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online. In English; summaries also 
+in Polish.
+Other ID: (DNLM)SR0081930(s)(OCoLC)31021491
+NLM ID: 9437431[Serial]
+
+37. Author(s): Nihon Byōri Gakkai.
+Title Abbreviation: Pathol Int
+Title(s): Pathology international.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Australia
+Publisher: Carlton South, Vic., Australia : Published by Blackwell Scientific Publications
+for the Japanese Society of Pathology, c1994-
+Description: v. : ill. (some col.)
+Language: English
+ISSN: 1320-5463(Print); 1440-1827(Electronic); 1320-5463(Linking)
+Coden: PITEES
+LCCN: sn 94030915
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1827
+Fully Indexed In: MEDLINE: v44n1, 1994-; Index medicus
+In: PubMed: v44n1, 1994-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official English journal of the Japanese
+Society of Pathology.
+Other ID: (DNLM)SR0079096(s)(OCoLC)29788956
+NLM ID: 9431380[Serial]
+
+38. Author(s): Polskie Towarzystwo Patologów.
+Title Abbreviation: Pol J Pathol
+Title(s): Polish journal of pathology : official journal of the Polish Society of
+Pathologists.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Poland
+Publisher: Kraków : Polish Society Of Pathologists, 1994-
+Description: v. : ill.
+Language: English, Polish, English
+ISSN: 1233-9687(Print); 1233-9687(Linking)
+Coden: PJUPE5
+Electronic Links: https://www.termedia.pl/Journal/Polish_Journal_of_Pathology-55/Info
+Fully Indexed In: MEDLINE: v45n1, 1994-; PubMed: v45n1, 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online Articles chiefly in English with some
+Polish; summaries in English.
+Other ID: (DNLM)SR0081929(s)(OCoLC)31021470
+NLM ID: 9437432[Serial]
+
+39. Title Abbreviation: Res Commun Mol Pathol Pharmacol
+Title(s): Research communications in molecular pathology and pharmacology.
+Publication Start Year: 1994
+Publication End Year: 2010
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Westbury, NY : PJD Publications, c1994-
+Description: v. ill.
+Language: English
+ISSN: 1078-0297(Print); 1078-0297(Linking)
+Coden: RCMPE6
+Fully Indexed In: MEDLINE: v85n1, July 1994-v123, 2010; Index medicus
+In: PubMed: v85n1, July 1994-v123, 2010; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Molecular Biology*; Pathology*; Pharmacology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0081508(s)(OCoLC)30890166
+NLM ID: 9437512[Serial]
+
+40. Title Abbreviation: Virchows Arch
+Title(s): Virchows Archiv : an international journal of pathology.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Germany
+Publisher: Berlin ; New York : Springer International, c1994-
+Description: v. ill.
+Language: English
+ISSN: 0945-6317(Print); 1432-2307(Electronic); 0945-6317(Linking)
+Coden: VARCEM
+LCCN: sn 94038299
+Electronic Links: https://link.springer.com/journal/428
+Fully Indexed In: MEDLINE: v424n1, 1994-; Index medicus
+In: PubMed: v424n1, 1994-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. In English.
+Other ID: (DNLM)SR0079652(s)(OCoLC)30055135
+NLM ID: 9423843[Serial]
+
+41. Author(s): International Academy of Pathology. Australasian Division.; International Academy
+of Pathology. Hong Kong Division.; International Academy of Pathology. Spanish
+Division.
+Title Abbreviation: Int J Surg Pathol
+Title(s): International journal of surgical pathology.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Naperville, IL : Churchill Livingstone, c1993-
+Latest Publisher: Thousand Oaks, CA : Sage Publications
+Description: v. : ill.
+Language: English
+ISSN: 1066-8969(Print); 1940-2465(Electronic); 1066-8969(Linking)
+Coden: IJSPFL
+Electronic Links: https://journals.sagepub.com/home/ijs
+Fully Indexed In: MEDLINE: v9n1, Jan. 2001-; PubMed: v9n1, Jan. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology, Surgical*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online. Sponsored by the International
+Academy of Pathology, Australasian Division, Hong Kong Division; by the Spanish
+Division and Hong Kong Division, <Jan. 2002->
+Other ID: (DNLM)SR0076446(s)(OCoLC)27088858
+NLM ID: 9314927[Serial]
+
+42. Author(s): Nihon Shinkei Byōri Gakkai.
+Title Abbreviation: Neuropathology
+Title(s): Neuropathology : official journal of the Japanese Society of Neuropathology.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Australia
+Publisher: Sendai, Japan : The Society, [1993-
+Latest Publisher: <2000-> : Melbourne, Australia : Blackwell Science Asia
+Description: v. : ill.
+Language: English
+ISSN: 0919-6544(Print); 1440-1789(Electronic); 0919-6544(Linking)
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1789
+Fully Indexed In: MEDLINE: v20n1, Mar. 2000-; Index medicus
+In: PubMed: v20n1, Mar. 2000-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System Diseases/pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 34, suppl. (June 2014). Supplements
+accompany some vols. Also issued online.
+Other ID: (DNLM)SR0088276(s)(OCoLC)42852835
+NLM ID: 9606526[Serial]
+
+43. Author(s): Society for Cardiovascular Pathology.
+Title Abbreviation: Cardiovasc Pathol
+Title(s): Cardiovascular pathology : the official journal of the Society for Cardiovascular
+Pathology.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Six no. a year, 1996-
+Country of Publication: United States
+Publisher: New York, NY : Elsevier Science Pub. Co., c1992-
+Description: v. : ill.
+Language: English
+ISSN: 1054-8807(Print); 1879-1336(Electronic); 1054-8807(Linking)
+Coden: CATHE8
+LCCN: sn 91000084
+Electronic Links: https://www.sciencedirect.com/journal/cardiovascular-pathology
+Fully Indexed In: MEDLINE: v8n1, Jan.-Feb. 1999-; PubMed: v8n1, Jan.-Feb. 1999-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cardiovascular Diseases/pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0071119(s)(OCoLC)23004510
+NLM ID: 9212060[Serial]
+
+44. Title Abbreviation: Diagn Mol Pathol
+Title(s): Diagnostic molecular pathology : the American journal of surgical pathology, part
+B.
+Publication Start Year: 1992
+Publication End Year: 2013
+Frequency: Bimonthly, 1997-
+Country of Publication: United States
+Publisher: New York, N.Y. : Raven Press, c1992-
+Description: v. : ill.
+Language: English
+ISSN: 1052-9551(Print); 1533-4066(Electronic); 1052-9551(Linking)
+Coden: DMPAES
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00019606-000000000-00000
+Fully Indexed In: MEDLINE: v1n1, Mar. 1992-v22n 4, Dec. 2013; Index medicus
+In: PubMed: v1n1, Mar. 1992-v22n 4, Dec. 2013; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*; Molecular Probe Techniques*; Pathology/methods*; Pathology, Surgical*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Constitutes part B of the American journal of
+surgical pathology only in the supplementary sense. Also issued online.
+Other ID: (DNLM)SR0069708(s)(OCoLC)22418103
+NLM ID: 9204924[Serial]
+
+45. Author(s): Gesellschaft für Toxikologische Pathologie.
+Title Abbreviation: Exp Toxicol Pathol
+Title(s): Experimental and toxicologic pathology : official journal of the Gesellschaft
+für Toxikologische Pathologie.
+Publication Start Year: 1992
+Publication End Year: 2017
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Jena ; New York : G. Fischer, c1992-
+Latest Publisher: [Munich] : Elsevier GmbH
+Description: v. : ill.
+Language: English
+ISSN: 0940-2993(Print); 1618-1433(Electronic); 0940-2993(Linking)
+Coden: ETPAE
+LCCN: sn 92033298
+Electronic Links: http://www.sciencedirect.com/science/journal/09402993
+Fully Indexed In: MEDLINE: v44n1, 1992-v69n8, Oct. 2017; Index medicus
+In: PubMed: v44n1, 1992-v69n8, Oct. 2017; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*; Toxicology*
+Publication Type(s): Periodical
+Notes: Eight no. a year. Title from cover. Also issued online.
+Other ID: (DNLM)SR0074209(s)(OCoLC)25828770
+NLM ID: 9208920[Serial]
+
+46. Title Abbreviation: Mediators Inflamm
+Title(s): Mediators of inflammation.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Oxford, UK : Rapid Communications of Oxford Ltd., c1992-
+Latest Publisher: 2023- : Hoboken, NJ : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 0962-9351(Print); 1466-1861(Electronic); 0962-9351(Linking)
+Electronic Links: https://onlinelibrary.wiley.com/journal/4792, https://pmc.ncbi.nlm.nih.gov/journals/?term=9209001
+Fully Indexed In: MEDLINE: v7n1,Feb. 1998-; Index medicus
+In: PubMed: v1n1, 1992-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Autacoids*; Cell Adhesion Molecules*; Cell Communication*; Cytokines*; Immunologic Factors*; Inflammation*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0072364(s)(OCoLC)26501563
+NLM ID: 9209001[Serial]
+
+47. Author(s): California Society of Pathologists.
+Title Abbreviation: Pathology (Phila)
+Title(s): Pathology : official publication of the California Society of Pathologists.
+Publication Start Year: 1992
+Publication End Year: 1996
+Frequency: Two no. a year
+Country of Publication: United States
+Publisher: Philadelphia : Hanley & Belfus, 1992-
+Description: v. : ill.
+Language: English
+ISSN: 1041-3480(Print); 1041-3480(Linking)
+Fully Indexed In: MEDLINE: v1n1, 1992-v4n2, 1996; PubMed: v1n1, 1992-v4n2, 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): PeriodicalReview
+Notes: Each issue has also a distinct title.
+Other ID: (DNLM)SR0066394(s)(OCoLC)18729559
+NLM ID: 9208681[Serial]
+
+48. Title Abbreviation: Zentralbl Pathol
+Title(s): Zentralblatt für Pathologie.
+Publication Start Year: 1991
+Publication End Year: 1995
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Jena : Fischer, [1991-1995]
+Latest Publisher: Jena : Gustav Fischer Verlag
+Description: 4 v. : ill.
+Language: German, English
+ISSN: 0863-4106(Print); 0863-4106(Linking)
+Coden: ZEPAEA
+Fully Indexed In: MEDLINE: v137n1, 1991-v140n6,Apr. 1995; PubMed: v137n1, 1991-v140n6,Apr. 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Six no. a year. Title from cover. Also numbered as: 1991, 1-1994/95, 6. Chiefly
+in German with some English.
+Other ID: (DNLM)SR0070134(s)(OCoLC)23587004
+NLM ID: 9105594[Serial]
+
+49. Author(s): International Society of Neuropathology.
+Title Abbreviation: Brain Pathol
+Title(s): Brain pathology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Zürich, Switzerland : International Society of Neuropathology, [1990-
+Description: v. : ill.
+Language: English
+ISSN: 1015-6305(Print); 1750-3639(Electronic); 1015-6305(Linking)
+Coden: BRPAE7
+LCCN: sn 93038293
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1750-3639, https://pmc.ncbi.nlm.nih.gov/journals/?term=9216781
+Fully Indexed In: MEDLINE: v1n1, Sept. 1990-; PubMed: v1n1, Sept. 1990-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0071360(s)(OCoLC)24603872
+NLM ID: 9216781[Serial]
+
+50. Author(s): British Society for Clinical Cytology.
+Title Abbreviation: Cytopathology
+Title(s): Cytopathology : official journal of the British Society for Clinical Cytology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford : Blackwell Scientific Publications, c1990-
+Description: v. : ill.
+Language: English
+ISSN: 0956-5507(Print); 1365-2303(Electronic); 0956-5507(Linking)
+Coden: CYTPEU
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2303
+Fully Indexed In: MEDLINE: v1n1, 1990-; PubMed: v1n1, 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cytodiagnosis*; Cytological Techniques*
+Publication Type(s): Periodical
+Notes: Bimonthly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0066688(s)(OCoLC)22155184
+NLM ID: 9010345[Serial]
+
+51. Title Abbreviation: Endocr Pathol
+Title(s): Endocrine pathology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Cambridge, MA : Blackwell Scientific Publications, [1990-
+Latest Publisher: Totowa, NJ : Humana Press
+Description: v. : ill.
+Language: English
+ISSN: 1046-3976(Print); 1559-0097(Electronic); 1046-3976(Linking)
+Coden: ENPAFD
+Electronic Links: https://link.springer.com/journal/12022
+Fully Indexed In: MEDLINE: v12n1, Spring 2001-; PubMed: v12n1, Spring 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Endocrine System Diseases/pathology*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0068428(s)(OCoLC)20400707
+NLM ID: 9009288[Serial]
+
+52. Title Abbreviation: Int J Exp Pathol
+Title(s): International journal of experimental pathology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, OX : Wiley, c1990-
+Description: v. : ill.
+Language: English
+ISSN: 0959-9673(Print); 1365-2613(Electronic); 0959-9673(Linking)
+Coden: IJEPEI
+LCCN: sn 90033577
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9014042, http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2613
+Fully Indexed In: MEDLINE: v71n4,Aug. 1990-; PubMed: v71n4,Aug. 1990-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Issue for June 1991 has title: Journal of experimental pathology. Title from
+cover. Print issues ceased with 2013. Also issued online.
+Other ID: (OCoLC)22299064(DNLM)SR0069255(s)
+NLM ID: 9014042[Serial]
+
+53. Title Abbreviation: J Exp Pathol (Oxford)
+Title(s): Journal of experimental pathology.
+Publication Start Year: 1990
+Publication End Year: 1990
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: [Oxford, OX ; Cambridge, MA, USA] : Blackwell Scientific Publications, c1990.
+Latest Publisher: Oxford : Blackwell
+Description: 1 v. : ill.
+Language: English
+ISSN: 0958-4625(Print); 0958-4625(Linking)
+Coden: JEXPEL
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9004579
+Fully Indexed In: MEDLINE: v71n1,Feb. 1990-v71n3,June 1990; PubMed: v71n1,Feb. 1990-v71n3,June 1990; Index medicus
+In: PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0067804(s)(OCoLC)21101767
+NLM ID: 9004579[Serial]
+
+54. Title Abbreviation: Pathobiology
+Title(s): Pathobiology : journal of immunopathology, molecular and cellular biology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Switzerland
+Publisher: Basel ; New York : S. Karger, c1990-
+Description: v. : ill.
+Language: English
+ISSN: 1015-2008(Print); 1423-0291(Electronic); 1015-2008(Linking)
+Coden: PATHEF
+Electronic Links: http://www.karger.com/Journal/Home/224272
+Fully Indexed In: MEDLINE: v58n1, 1990-; PubMed: v58n1, 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cells*; Immunity*; Molecular Biology*; Pathology*
+Publication Type(s): Periodical
+Notes: Bimonthly. Called also v. 58, no. 1- . Also available online.
+Other ID: (DNLM)SR0066201(s)(OCoLC)21357241
+NLM ID: 9007504[Serial]
+
+55. Author(s): Sociedad Española de Anatomía Patológica.; Sociedad Española de Citología.
+Title Abbreviation: Rev Esp Patol
+Title(s): Revista española de patología : publicación oficial de la Sociedad Española de
+Anatomía Patológica y de la Sociedad Española de Citología.
+Publication Start Year: 199u
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Spain
+Publisher: Barcelona ; Philadelphia : Prous Science,
+Latest Publisher: <2006->: Barcelona : Elsevier España
+Description: v.
+Language: Spanish, English, English
+ISSN: 1699-8855(Print); 1988-561X(Electronic); 1699-8855(Linking)
+LCCN: 00-243336
+Electronic Links: https://www.sciencedirect.com/journal/revista-espanola-de-patologia
+Fully Indexed In: MEDLINE: v50n1, Jan-Mar 2017-
+In: PubMed: v50n1, Jan-Mar 2017- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Issues for <2002-> have also English title on English table of contents page:
+Spanish journal of pathology. Description based on: Vol. 30, no. 1 (enero-marzo
+1997). Also issued online. Summaries and table of contents also in English.
+Other ID: (OCoLC)44600999
+NLM ID: 100885154[Serial]
+
+56. Author(s): European Society for Analytical Cellular Pathology.
+Title Abbreviation: Anal Cell Pathol
+Title(s): Analytical cellular pathology : the journal of the European Society for
+Analytical Cellular Pathology.
+Publication Start Year: 1989
+Publication End Year: 2003
+Frequency: Six no. a year, 2003-
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science Publishers, c1989-c2003.
+Latest Publisher: Amsterdam : IOS Press
+Description: 25 v. : ill.
+Language: English
+ISSN: 0921-8912(Print); 1878-3651(Electronic); 0921-8912(Linking)
+Coden: ACPAER
+LCCN: sn 89036422
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=8911016
+Fully Indexed In: MEDLINE: v1n1, Feb. 1989-v25n5/6, 2003; Index medicus
+In: PubMed: v1n1, Feb. 1989-v25n5/6, 2003, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cells/pathology*; Cytological Techniques*; Image Processing, Computer-Assisted*
+Publication Type(s): Periodical
+Notes: Also issued online. Official publication of the European Society for Analytical
+Cellular Pathology.
+Other ID: (DNLM)SR0063347(s)(OCoLC)20103459
+NLM ID: 8911016[Serial]
+
+57. Title Abbreviation: Forensic Sci Rev
+Title(s): Forensic science review.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: China (Republic : 1949- )
+Publisher: Taipei : Central Police University Press
+Description: v. : ill.
+Language: English
+ISSN: 1042-7201(Print); 1042-7201(Linking)
+Electronic Links: http://forensicsciencereview.com/forthcoming.htm
+Fully Indexed In: MEDLINE: v27n1, Jan. 2015-
+In: PubMed: v27n1, Jan. 2015-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Forensic Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0070754(s)(OCoLC)19114973
+NLM ID: 9113730[Serial]
+
+58. Author(s): International Association of Oral Pathologists.; American Academy of Oral
+Pathology.
+Title Abbreviation: J Oral Pathol Med
+Title(s): Journal of oral pathology & medicine : official publication of the International 
+Association of Oral Pathologists and the American Academy of Oral Pathology.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Ten no. a year
+Country of Publication: Denmark
+Publisher: Copenhagen : Munksgaard, c1989-
+Latest Publisher: Oxford, UK : Wiley-Blackwell
+Description: v. : ill.
+Language: English
+ISSN: 0904-2512(Print); 1600-0714(Electronic); 0904-2512(Linking)
+Coden: JPMEEA
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0714
+Fully Indexed In: MEDLINE: v18n1,Jan. 1989-; Index to dental literature: v18n1,Jan. 1989-v29n5,May 2000; Index medicus
+In: PubMed: v18n1,Jan. 1989-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Dentistry; Index Medicus
+MeSH: Dentistry*; Pathology, Oral*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0063610(s)(OCoLC)19787126
+NLM ID: 8911934[Serial]
+
+59. Author(s): International Society for Neurochemistry.; World Federation of Neurology.
+Title Abbreviation: Mol Chem Neuropathol
+Title(s): Molecular and chemical neuropathology/ sponsored by the International Society for
+Neurochemistry and the World Federation of Neurology and research groups on
+neurochemistry and cerebrospinal fluid.
+Publication Start Year: 1989
+Publication End Year: 1998
+Frequency: Nine no. a year
+Country of Publication: United States
+Publisher: Clifton, NJ : Humana Press, c1989-
+Description: v. : ill.
+Language: English
+ISSN: 1044-7393(Print); 1044-7393(Linking)
+Coden: MCHNEM
+Fully Indexed In: MEDLINE: v10n1, Feb. 1989-v35n1-3, Aug.-Dec. 1998; Index medicus
+In: PubMed: v10n1, Feb. 1989-v35n1-3, Aug.-Dec. 1998; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Nervous System Diseases/pathology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0064824(s)(OCoLC)19855597
+NLM ID: 8910358[Serial]
+
+60. Title Abbreviation: Prog AIDS Pathol
+Title(s): Progress in AIDS pathology.
+Publication Start Year: 1989
+Publication End Year: 1992
+Frequency: Quarterly, 1992
+Country of Publication: United States
+Publisher: [Philadelphia, PA?] : Field & Wood ; New York, NY : Distributed by W.W. Norton & 
+Co., c1989-
+Description: v. : ill.
+Language: English
+ISSN: 1042-363X(Print); 1042-363X(Linking)
+Fully Indexed In: MEDLINE: v1, 1989-v3n1, 1992; PubMed: v1, 1989-v3n1, 1992; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Acquired Immunodeficiency Syndrome/pathology*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0065624(s)(OCoLC)19028281
+NLM ID: 8916539[Serial]
+
+61. Title Abbreviation: APMIS
+Title(s): APMIS : acta pathologica, microbiologica, et immunologica Scandinavica.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Denmark
+Publisher: Copenhagen : Munksgaard, c1988-
+Latest Publisher: Copenhagen : Munksgaard
+Description: v. : ill.
+Language: English
+ISSN: 0903-4641(Print); 1600-0463(Electronic); 0903-4641(Linking)
+Coden: APMSEL
+LCCN: sn 88026537
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0463
+Fully Indexed In: MEDLINE: v96n1,Jan. 1988-; PubMed: v96n1,Jan. 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Allergy and Immunology*; Microbiology*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Has supplement: APMIS. Supplementum. Also issued online.
+Other ID: (DNLM)SR0061498(s)(OCoLC)17476618
+NLM ID: 8803400[Serial]
+
+62. Title Abbreviation: APMIS Suppl
+Title(s): APMIS. Supplementum.
+Publication Start Year: 1988
+Publication End Year: 2012
+Frequency: Ten no. a year
+Country of Publication: Denmark
+Publisher: Copenhagen : Munksgaard, 1988-
+Latest Publisher: Copenhagen : Munksgaard
+Description: v. : ill.
+Language: English
+ISSN: 0903-465X(Print); 1600-5503(Electronic); 0903-465X(Linking)
+Coden: APSUE2
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0463
+Fully Indexed In: MEDLINE: n1, 1988-n134, 2012; Index medicus
+In: PubMed: n1, 1988-n134, 2012; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Microbiology*; Pathology*
+Publication Type(s): Periodical
+Notes: Includes volume numbering of: APMIS, v. 96- . Also issued online.
+Other ID: (DNLM)SR0063649(s)(OCoLC)18181317
+NLM ID: 8812090[Serial]
+
+63. Title Abbreviation: Int J Immunopathol Pharmacol
+Title(s): International journal of immunopathology and pharmacology.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Three no. a year
+Country of Publication: England
+Publisher: [Chieti, Italy?] : Biomedical Research Press
+Latest Publisher: 2015- : London : Sage Publications
+Description: v. : ill.
+Language: English
+ISSN: 0394-6320(Print); 2058-7384(Electronic); 0394-6320(Linking)
+Coden: IJIPE4
+LCCN: sn 89036417
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=8911335, https://journals.sagepub.com/home/iji
+Fully Indexed In: MEDLINE: v16n1, Jan./Apr. 2003-; Index medicus
+In: PubMed: v16n1, Jan./Apr. 2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Immune System Diseases*; Immune System*; Immunity*; Pharmacology*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 3 (Sept.-Dec. 1988); title from cover. Place of
+publication varies. Latest issue consulted: Vol. 15, no. 3 (Sept./Dec. 2002).
+Also issued online.
+Other ID: (DNLM)SR0065385(s)(OCoLC)20102895
+NLM ID: 8911335[Serial]
+
+64. Author(s): Università di Bologna.; Consiglio nazionale delle ricerche (Italy)
+Title Abbreviation: J Submicrosc Cytol Pathol
+Title(s): Journal of submicroscopic cytology and pathology.
+Publication Start Year: 1988
+Publication End Year: 2006
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Bologna : Editrice Compositori, c1988-
+Latest Publisher: 1999- : Siena, Italy : Nuova Immagine Editrice
+Description: v. : ill.
+Language: English
+ISSN: 1122-9497(Print); 1122-9497(Linking)
+Coden: JSCPEE
+Fully Indexed In: MEDLINE: v20, 1988-v38n2-3, June-Sept. 2006; Index medicus
+In: PubMed: v20, 1988v38n2-3, June-Sept. 2006; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Microscopy, Electron*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Some volumes have distinctive titles. Published under the
+patronage and financial support of CNR and the University of Bologna.
+Other ID: (DNLM)SR0061863(s)(OCoLC)17540157
+NLM ID: 8804312[Serial]
+
+65. Author(s): United States and Canadian Academy of Pathology.; United States and Canadian
+Academy of Pathology. Meeting.
+Title Abbreviation: Mod Pathol
+Title(s): Modern pathology : an official journal of the United States and Canadian Academy 
+of Pathology, Inc.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Baltimore, MD : Williams & Wilkins, c1988-
+Latest Publisher: 2023- : [New York] : Elsevier Inc.
+Description: v. : ill.
+Language: English
+ISSN: 0893-3952(Print); 1530-0285(Electronic); 0893-3952(Linking)
+Coden: MODPEO
+LCCN: 88640877, sn 87000452
+Electronic Links: http://www.nature.com/modpathol/index.html, https://www.sciencedirect.com/journal/modern-pathology
+Fully Indexed In: MEDLINE: v1n1,Jan. 1988-; Index medicus
+In: PubMed: v1n1,Jan. 1988-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Other Subject(s): United States and Canadian Academy of Pathology.
+Publication Type(s): Periodical
+Notes: Title from cover. Supplements accompany some issues. Also issued online. Vols.
+for Jan. 1988- include abstracts of papers of the Annual Meeting, United States
+and Canadian Academy of Pathology, and of the Annual Meeting, Society for
+Pediatric Pathology, Feb. 28-Mar. 4, 1988- .
+Other ID: (DNLM)SR0060834(s)(OCoLC)15506806
+NLM ID: 8806605[Serial]
+
+66. Author(s): Nihon Nōshuyō Byōri Kenkyūkai.
+Title Abbreviation: Noshuyo Byori
+Title(s): Nōshuyō byōri = Brain tumor pathology.
+Publication Start Year: 1988
+Publication End Year: 1996
+Frequency: Two no. a year
+Country of Publication: Japan
+Publisher: Nagoya-shi : Nihon Nōshuyō Byōri Kenkyūkai, 1988-c1996.
+Latest Publisher: Nagoya-Shi : Nihon Noshuyo Byori Kenkyukai
+Description: 9 v. : ill. (some col.)
+Language: Japanese, English, English
+ISSN: 0914-8108(Print); 0914-8108(Linking)
+Coden: BTPAFM
+LCCN: sn93-38489
+Fully Indexed In: MEDLINE: v10n1, 1993-v13n2, Nov. 1996; PubMed: v10n1, 1993-v13n2, Nov. 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain Neoplasms/pathology*
+Publication Type(s): CongressPeriodical
+Notes: Title from cover. Official organ of Nihon Nōshuyō Byōri Kenkyūkai. No. 2 of
+each vol. includes proceedings of the annual meeting of the Japan Society of
+Brain Tumor Pathology. Some issues combined. Articles in Japanese with some in
+English; summaries in English, 1988-1990; articles in English, 1991-1996.
+Other ID: (DNLM)SR0064883(s)(OCoLC)29182476
+NLM ID: 9315330[Serial]
+
+67. Title Abbreviation: Am J Cardiovasc Pathol
+Title(s): The American journal of cardiovascular pathology.
+Publication Start Year: 1987
+Publication End Year: 1995
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Philadelphia, Pa.] : Field & Wood, [c1986]-
+Description: v. : ill., ports.
+Language: English
+ISSN: 0887-8005(Print); 0887-8005(Linking)
+Coden: AJCPEM
+Fully Indexed In: MEDLINE: v1n1, 1987-v5n1, 1995; PubMed: v1n1, 1987-v5n1, 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cardiovascular Diseases/diagnosis*Cardiovascular Diseases/pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 1 complete in 3 issues. Vol. 1, no. 1 misdated as 1986 on 
+some p.
+Other ID: (DNLM)SR0056310(s)(OCoLC)13352913
+NLM ID: 8702438[Serial]
+
+68. Author(s): College of American Pathologists.
+Title Abbreviation: CAP Today
+Title(s): CAP today/ College of American Pathologists.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [Skokie, IL] : The College, [c1986-
+Description: v. : ill., ports.
+Language: English
+ISSN: 0891-1525(Print); 0891-1525(Linking)
+LCCN: sn 86002829
+Selectively Indexed in: MEDLINEv1n1,Jan. 1987-v19n9, Sept. 2005PubMedv1n1,Jan. 1987-v19n9, Sept. 2005Hospital literature indexv1n1,Jan. 1987-v1n12,Dec. 1987
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from caption. Preceded by an introductory issue dated Nov. 1986.
+Other ID: (DNLM)SR0058949(s)(OCoLC)14641603
+NLM ID: 8704824[Serial]
+
+69. Title Abbreviation: Hematol Pathol
+Title(s): Hematologic pathology.
+Publication Start Year: 1987
+Publication End Year: 1995
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: [New York, N.Y. : Dekker, c1987-
+Latest Publisher: New York Ny : Marcel Dekker
+Description: 9 v. : ill.
+Language: English
+ISSN: 0886-0238(Print); 0886-0238(Linking)
+Coden: HEPAEG
+Fully Indexed In: MEDLINE: v1n1, 1987-v9, 1995; PubMed: v1n1, 1987-v9, 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hematologic Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0056587(s)(OCoLC)12788658
+NLM ID: 8707764[Serial]
+
+70. Author(s): Consejería de Sanidad de la Comunidad Autónoma de Murcia (Spain); Sociedad
+Española de Histología e Ingeniería Tisular.
+Title Abbreviation: Histol Histopathol
+Title(s): Histology and histopathology.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Spain
+Publisher: Murcia, Spain : Gutenberg, 1986-
+Latest Publisher: Murcia : Histology and Histopathology
+Description: v. : ill.
+Language: English
+ISSN: 0213-3911(Print); 1699-5848(Electronic); 0213-3911(Linking)
+Coden: HIHIES
+LCCN: sn 86003213
+Electronic Links: http://www.hh.um.es/index.html
+Fully Indexed In: MEDLINE: v1n1,Jan. 1986-; PubMed: v1n1,Jan. 1986-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Histology*; Pathology*
+Publication Type(s): Periodical
+Notes: Issues for <July 2005-> have subtitle: Cellular and molecular biology. Imprint
+varies. Title from cover. Print issues ceased with 2020. Also issued online.
+Vols. for 2006- are issued monthly online and cumulated quarterly in print.
+Supported by: Consejería de Sanidad de la Comunidad Autónoma de Murcia, Spain; 
+supported by Consejería de Sanidad de la Comunidad Autónoma de Murcia and
+Sociedad Española de Histología e Ingeniería Tisular, <2005->
+Other ID: (DNLM)SR0054104(s)(OCoLC)13918649
+NLM ID: 8609357[Serial]
+
+71. Title Abbreviation: Pathol Immunopathol Res
+Title(s): Pathology and immunopathology research.
+Publication Start Year: 1986
+Publication End Year: 1989
+Frequency: Six no. a year
+Country of Publication: Switzerland
+Publisher: Basel ; New York : S. Karger, [1986-1989]
+Latest Publisher: Basel : Karger
+Description: 4 v. : ill.
+Language: English
+ISSN: 0257-2761(Print); 0257-2761(Linking)
+Coden: PIREEI
+Fully Indexed In: MEDLINE: 5/1/86,Jan.-Feb. 1986-8/5-6/89,Sept.-Dec. 1989; PubMed: 5/1/86,Jan.-Feb. 1986-8/5-6/89,Sept.-Dec. 1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Immune System Diseases/pathology*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Jan.-Feb. 1986 released August 1986. Issues for -Sept.-Dec.
+1989 called also -v. 8, no. 5-6.
+Other ID: (DNLM)SR0055273(s)(OCoLC)14472030
+NLM ID: 8708069[Serial]
+
+72. Author(s): Cruse,Julius M,1937-; Lewis,R E(Robert Edwin),1947-
+Title Abbreviation: Concepts Immunopathol
+Title(s): Concepts in immunopathology.
+Publication Start Year: 1985
+Publication End Year: 199u
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Basel ; New York : Karger, [1985-
+Latest Publisher: Basel : Karger
+Description: v. : ill.
+Language: English
+ISSN: 0255-7983(Print); 0255-7983(Linking)
+Coden: COIMEW
+LCCN: sn85-23808
+Fully Indexed In: MEDLINE: v1, 1985-v8, 1992; PubMed: v1, 1985-v8, 1992; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Pathology*
+Publication Type(s): Periodical
+Notes: Editors: J.M. Cruse, R.E. Lewis, Jr.
+Other ID: (DNLM)SR0051450(s)(OCoLC)11603088
+NLM ID: 8412469[Serial]
+
+73. Title Abbreviation: Diagn Cytopathol
+Title(s): Diagnostic cytopathology.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [New York, NY : Igaku-Shoin Medical Publishers, c1985-
+Latest Publisher: New York Ny : Wiley-Liss
+Description: v. : ill., ports.
+Language: English
+ISSN: 8755-1039(Print); 1097-0339(Electronic); 1097-0339(Linking)
+Coden: DICYE7
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0339
+Fully Indexed In: MEDLINE: v1n1, 1985-; PubMed: v1n1, 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Biology*; Cells/pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online.
+Other ID: (DNLM)SR0053953(s)(OCoLC)11276508
+NLM ID: 8506895[Serial]
+
+74. Author(s): Türk Patoloji Derneği.
+Title Abbreviation: Turk Patoloji Derg
+Title(s): Türk patoloji dergisi.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Three no. a year
+Country of Publication: Turkey
+Publisher: İstanbul : Türk Patoloji Derneği
+Language: Turkish, English
+ISSN: 1018-5615(Print); 1309-5730(Electronic); 1018-5615(Linking)
+Electronic Links: http://www.turkjpath.org, https://pmc.ncbi.nlm.nih.gov/journals/?term=9440471
+Fully Indexed In: MEDLINE: v27n1, Jan. 2011-
+In: PubMed: v27n1, Jan. 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Vols. for <Sept. 2008-> have English parallel title: Turkish journal of
+pathology. Description based on: Cilt 1, sayı 1 (Nisan 1985); title from title
+page. Latest issue consulted: Cilt 24, sayı 3 (Eylül 2008). Print issues ceased 
+with v. 32 (2016). Also issued online. Turkish and English. Vols. for <Sept.
+2008-> issued also by: Patoloji Dernekleri Federasyonu.
+Other ID: (DNLM)SR0076173(s)(OCoLC)439665376
+NLM ID: 9440471[Serial]
+
+75. Author(s): International Society for Environmental Toxicology and Cancer.
+Title Abbreviation: J Environ Pathol Toxicol Oncol
+Title(s): Journal of environmental pathology, toxicology and oncology : official organ of
+the International Society for Environmental Toxicology and Cancer.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Park Forest, Ill. : Chem-Orbital, c1984-
+Latest Publisher: New York, Ny : Begell House
+Description: v. : ill.
+Language: English
+ISSN: 0731-8898(Print); 2162-6537(Electronic); 0731-8898(Linking)
+Coden: JEPOEC
+LCCN: 86641251, sc 85002319, sn 82002222
+Electronic Links: http://www.begellhouse.com/journals/environmental-pathology-toxicology-and-oncology.html
+Fully Indexed In: MEDLINE: v5n4/5,Jul. 1984-; Index medicus
+In: PubMed: v5n4/5,Jul. 1984-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Pollutants*; Medical Oncology*; Pathology*; Toxicology*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0052441(s)(OCoLC)08266212
+NLM ID: 8501420[Serial]
+
+76. Title Abbreviation: Semin Diagn Pathol
+Title(s): Seminars in diagnostic pathology.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Orlando, FL : Grune & Stratton, c1984-
+Latest Publisher: Philadelphia Pa : W.B. Saunders
+Description: v. : ill.
+Language: English
+ISSN: 0740-2570(Print); 0740-2570(Linking)
+Electronic Links: http://www.sciencedirect.com/science/journal/07402570
+Fully Indexed In: MEDLINE: v1n1, 1984-; PubMed: v1n1, 1984-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnosis*; Pathology*; Pathology, Surgical*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)S19215000(s)(OCoLC)09903028
+NLM ID: 8502262[Serial]
+
+77. Author(s): International Academy of Pathology. Italian Division.
+Title Abbreviation: Appl Pathol
+Title(s): Applied pathology.
+Publication Start Year: 1983
+Publication End Year: 1989
+Frequency: Six no. a year
+Country of Publication: Switzerland
+Publisher: Basel : Karger, 1983-[1989]
+Latest Publisher: Basel : Karger
+Description: v. : ill.
+Language: English, English
+ISSN: 0252-1172(Print); 0252-1172(Linking)
+Coden: APTHDM
+Fully Indexed In: MEDLINE: 1/1/83,Jan.-Feb. 1983-7/6/89,Nov.-Dec. 1989; PubMed: 1/1/83,Jan.-Feb. 1983-7/6/89,Nov.-Dec. 1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Released May 1983- . Official organ of the Italian Division of 
+the International Academy of Pathology.
+Other ID: (DNLM)A57736000(s)(OCoLC)09858111
+NLM ID: 8308921[Serial]
+
+78. Title Abbreviation: J Exp Pathol
+Title(s): Journal of experimental pathology.
+Publication Start Year: 1983
+Publication End Year: 1992
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York : M.A. Liebert, [c1983-1992]
+Latest Publisher: New York Ny : Mary Ann Liebert
+Description: v. : ill.
+Language: English, English
+ISSN: 0730-8485(Print); 0730-8485(Linking)
+Coden: JEPAD3
+Fully Indexed In: MEDLINE: v1n1, 1983-v6n1/2, 1992; PubMed: v1n1, 1983-v6n1/2, 1992; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)J20615000(s)(OCoLC)08071430
+NLM ID: 8400623[Serial]
+
+79. Author(s): International Society for Neurochemistry.; World Federation of Neurology.
+Title Abbreviation: Neurochem Pathol
+Title(s): Neurochemical pathology.
+Publication Start Year: 1983
+Publication End Year: 1988
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Clifton, NJ : Humana Press, c1983-c1988.
+Description: 9 v. : ill.
+Language: English, English
+ISSN: 0734-600X(Print); 0734-600X(Linking)
+Coden: NEPADD
+Fully Indexed In: MEDLINE: v2n1, 1984-v9, Jul.-Dec. 1988; Index medicus
+In: PubMed: v2n1, 1984-v9, Jul.-Dec. 1988; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neurochemistry*
+Publication Type(s): Periodical
+Notes: Title form cover. Sponsored by the International Society for Neurochemistry and
+the World Federation of Neurology research groups on neurochemistry
+andcerebrospinal fluid.
+Other ID: (DNLM)N12495000(s)(OCoLC)08774304
+NLM ID: 8310818[Serial]
+
+80. Author(s): International Paediatric Pathology Association.; Society for Pediatric Pathology 
+(U.S.)
+Title Abbreviation: Pediatr Pathol
+Title(s): Pediatric pathology/ affiliated with the International Paediatric Pathology
+Association.
+Publication Start Year: 1983
+Publication End Year: 1994
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Washington, D.C. : Hemisphere Pub. Corp., c1983-
+Latest Publisher: Bristol Pa : Taylor And Francis
+Description: 14 v. : ill., ports.
+Language: English, English
+ISSN: 0277-0938(Print); 0277-0938(Linking)
+Coden: PPATDQ
+Electronic Links: http://www.tandfonline.com/loi/ipdp19
+Fully Indexed In: MEDLINE: v1n1,Jan.-Mar. 1983-v14n6,Nov.-Dec. 1994; PubMed: v1n1,Jan.-Mar. 1983-v14n6,Nov.-Dec. 1994; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*; Pediatrics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online Journal of the: Society for Pediatric
+Pathology, 1989?-1994.
+Other ID: (DNLM)P06423000(s)(OCoLC)07496568
+NLM ID: 8303527[Serial]
+
+81. Title Abbreviation: Surv Synth Pathol Res
+Title(s): Survey and synthesis of pathology research.
+Publication Start Year: 1983
+Publication End Year: 1985
+Frequency: Bimonthly
+Country of Publication: Switzerland
+Publisher: Basel ; New York : S. Karger, [c1983-1986]
+Latest Publisher: Basel : Karger
+Description: 4 v. : ill.
+Language: English
+ISSN: 0253-438X(Print); 0253-438X(Linking)
+Coden: SSPREE
+Fully Indexed In: MEDLINE: 3/1/84, 1984-4/5-6/85,Sept.-Dec. 1985; PubMed: 3/1/84, 1984-4/5-6/85,Sept.-Dec. 1985; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*; Research*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. for Sept.-Dec. 1985 released in July 1986.
+Other ID: (DNLM)S49257000(s)(OCoLC)09707987
+NLM ID: 8303576[Serial]
+
+82. Title Abbreviation: Acta Pathol Microbiol Immunol Scand A
+Title(s): Acta pathologica, microbiologica, et immunologica Scandinavica. Section A,
+Pathology.
+Publication Start Year: 1982
+Publication End Year: 1987
+Frequency: Six no. a year
+Country of Publication: Denmark
+Publisher: Copenhagen : Munksgaard, c1982-
+Description: 6 v. : ill.
+Language: English, English
+ISSN: 0108-0164(Print); 0108-0164(Linking)
+Coden: ACPADQ
+Fully Indexed In: MEDLINE: v90An1,Jan. 1982-v95An6,Nov. 1987; Index medicus
+In: PubMed: v90An1,Jan. 1982-v95An6,Nov. 1987; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (OCoLC)08246349(DNLM)A08026000(s)
+NLM ID: 8206622[Serial]
+
+83. Title Abbreviation: Acta Pathol Microbiol Immunol Scand Suppl
+Title(s): Acta pathologica, microbiologica, et immunologica Scandinavica. Supplement.
+Publication Start Year: 1982
+Publication End Year: 1987
+Frequency: Irregular
+Country of Publication: Denmark
+Publisher: Copenhagen : Munksgaard, [1982-
+Description: v.
+Language: English
+ISSN: 0108-0172(Print); 0108-0172(Linking)
+Coden: AMASE8
+LCCN: sc 83003061
+Fully Indexed In: MEDLINE: v274, 1981-v289,1987; Index medicus
+In: PubMed: v274, 1981-v289,1987; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Microbiology*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues are alternately called "Section A," "Section B," or
+"Section C."
+Other ID: (DNLM)A08028500(s)(OCoLC)08661455
+NLM ID: 8211441[Serial]
+
+84. Title Abbreviation: Clin Neuropathol
+Title(s): Clinical neuropathology.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: München-Deisenhofen : Dustri-Verlag, [c1982-
+Latest Publisher: Munich : Dustri-Verlag
+Description: v. : ill.
+Language: English, English
+ISSN: 0722-5091(Print); 0722-5091(Linking)
+Coden: CLNPDA
+Electronic Links: http://www.dustri.com/nc/journals-in-english/mag/clinical-neuropathology.html
+Fully Indexed In: MEDLINE: v1n1, 1982-; PubMed: v1n1, 1982-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neurology*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)C26075000(s)(OCoLC)08528798
+NLM ID: 8214420[Serial]
+
+85. Author(s): International Society of Gynecological Pathologists.
+Title Abbreviation: Int J Gynecol Pathol
+Title(s): International journal of gynecological pathology : official journal of the
+International Society of Gynecological Pathologists.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: New York : Raven Press, c1982-
+Latest Publisher: Hagerstown, MD : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English, English
+ISSN: 0277-1691(Print); 1538-7151(Electronic); 0277-1691(Linking)
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00004347-000000000-00000
+Fully Indexed In: MEDLINE: v1n1, 1982-; PubMed: v1n1, 1982-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Gynecology*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)I27010000(s)(OCoLC)07520439
+NLM ID: 8214845[Serial]
+
+86. Title Abbreviation: Virchows Arch A Pathol Anat Histopathol
+Title(s): Virchows Archiv. A, Pathological anatomy and histopathology.
+Publication Start Year: 1982
+Publication End Year: 1993
+Frequency: Twelve no. a year
+Country of Publication: Germany
+Publisher: Berlin ; New York : Springer International, c1982-1993.
+Description: 26 v. : ill.
+Language: English, English
+ISSN: 0174-7398(Print); 0174-7398(Linking)
+Coden: VAAHDJ
+LCCN: 84643780, sc 83001785
+Fully Indexed In: MEDLINE: v398n1, 1982-v423n6, 1993; Index medicus
+In: PubMed: v398n1, 1982-v423n6, 1993; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Histology*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (OCoLC)09418260(DNLM)V07530000(s)
+NLM ID: 8302198[Serial]
+
+87. Title Abbreviation: Ann Pathol
+Title(s): Annales de pathologie.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Six no. a year, 1991-
+Country of Publication: France
+Publisher: Paris ; New York : Masson, c1981-
+Description: v. : ill.
+Language: French, English
+ISSN: 0242-6498(Print); 0242-6498(Linking)
+Coden: ANPAD2
+LCCN: sc 82006115, sn 82002927
+Electronic Links: http://www.sciencedirect.com/science/journal/02426498
+Fully Indexed In: MEDLINE: v1n1, 1981-; PubMed: v1n1, 1981-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in French; summaries in English and French.
+Other ID: (DNLM)A33110000(s)(OCoLC)07632951
+NLM ID: 8106337[Serial]
+
+88. Author(s): Pathological Society of Great Britain and Ireland.
+Title Abbreviation: Diagn Histopathol
+Title(s): Diagnostic histopathology/ published in association with the Pathological Society
+of Great Britain and Ireland.
+Publication Start Year: 1981
+Publication End Year: 1983
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Chichester, Sussex ; New York : Wiley, c1981-[1983]
+Description: v. : ill.
+Language: English, English
+ISSN: 0272-7749(Print); 0272-7749(Linking)
+Coden: DIHIDH
+LCCN: sc 81005051, sn 80013785
+Fully Indexed In: MEDLINE: v4n1,Jan.-Mar. 1981-v6n4,Dec. 1983; PubMed: v4n1,Jan.-Mar. 1981-v6n4,Dec. 1983; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Histological Techniques*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Published in association with the Pathological Society of Great
+Britain and Ireland.
+Other ID: (DNLM)D09568000(s)(OCoLC)6922413
+NLM ID: 8103005[Serial]
+
+89. Title Abbreviation: Exp Pathol
+Title(s): Experimental pathology.
+Publication Start Year: 1981
+Publication End Year: 1991
+Frequency: Eight no. a year
+Country of Publication: Germany
+Publisher: Jena, [Germany] : Fischer ; [Shannon] Limerick : Elsevier/North-Holland
+Scientific Publishers, [c1981-
+Latest Publisher: Jena : Gustav Fischer Verlag
+Description: 25 v. : ill.
+Language: English, English
+ISSN: 0232-1513(Print); 0232-1513(Linking)
+Coden: EXPADD
+Fully Indexed In: MEDLINE: v19, 1981-v43, 1991; PubMed: v19, 1981-v43, 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)E19610000(s)(OCoLC)07485985
+NLM ID: 8108218[Serial]
+
+90. Author(s): Taehan Imsang Pyŏngni Hakhoe.; Taehan Chindan Kŏmsa Ŭihakhoe
+Title Abbreviation: Korean J Clin Pathol
+Title(s): Taehan Imsang Pyŏngni Hakhoe chi = Korean journal of clinical pathology.
+Publication Start Year: 1981
+Publication End Year: 2002
+Frequency: Bimonthly, 1996-2002
+Country of Publication: Korea (South)
+Publisher: Sŏul T'ŭkpyŏlsi : Tong Hakhoe,
+Description: v. : ill.
+Language: Korean, English
+ISSN: 1015-6445(Print); 1015-6445(Linking)
+LCCN: sn 96039124
+Electronic Links: http://www.annlabmed.org/journal/archives.html
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology, Clinical*
+Publication Type(s): Periodical
+Notes: Description based on: 12-kwŏn 3-ho (9-wŏl '92) = T'ongkwŏn 23-ho; title from
+cover. Also issued online. Articles in Korean; summaries in English. Official
+publication of the Korean Society of Clinical Pathologists.
+Other ID: (DNLM)SR0069490(s)(OCoLC)34335263
+NLM ID: 9424420[Serial]
+
+91. Author(s): National Association of Medical Examiners (U.S.)
+Title Abbreviation: Am J Forensic Med Pathol
+Title(s): The American journal of forensic medicine and pathology.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York : Masson Publishing USA.
+Latest Publisher: <2002- > : Hagerstown, MD : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English, English
+ISSN: 0195-7910(Print); 1533-404X(Electronic); 0195-7910(Linking)
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00000433-000000000-00000
+Fully Indexed In: MEDLINE: v1n1,Mar. 1980-; PubMed: v1n1,Mar. 1980-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Forensic Medicine*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Description based on: v. 1, no. 2 (June 1980). Also issued
+online. Official publication of the National Association of Medical
+Examiners,1980-2010.
+Other ID: (DNLM)A24188500(s)(OCoLC)05664235
+NLM ID: 8108948[Serial]
+
+92. Title Abbreviation: Int J Tissue React
+Title(s): International journal of tissue reactions.
+Publication Start Year: 1980
+Publication End Year: 2005
+Frequency: Bimonthly
+Country of Publication: Switzerland
+Publisher: Geneva, Switzerland : Bioscience Ediprint Inc., c1980-
+Description: v. : ill.
+Language: English, English
+ISSN: 0250-0868(Print); 0250-0868(Linking)
+LCCN: sc 84008549
+Fully Indexed In: MEDLINE: v3n1,Mar. 1981-v27n4, 2005; PubMed: v3n1,Mar. 1981-v27n4, 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Histology*
+Publication Type(s): Periodical
+Other ID: (OCoLC)08994929(DNLM)I28245500(s)
+NLM ID: 8302116[Serial]
+
+93. Title Abbreviation: Ultrastruct Pathol
+Title(s): Ultrastructural pathology.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Two no. a year, 2006-
+Country of Publication: England
+Publisher: [New York] McGraw-Hill.
+Latest Publisher: London : Informa Healthcare
+Description: v. ill.
+Language: English
+ISSN: 0191-3123(Print); 1521-0758(Electronic); 0191-3123(Linking)
+Coden: ULPAD3
+LCCN: 80644918, sn 79002440
+Electronic Links: http://www.tandfonline.com/loi/iusp20
+Fully Indexed In: MEDLINE: v1n1,Jan./Mar. 1980-; PubMed: v1n1,Jan./Mar. 1980-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microscopy, Electron*; Pathology*
+Publication Type(s): Periodical
+Notes: Imprint varies. Print issues ceased with v. 37 (2013). Frequency of the online
+version varies from the print version. Also issued online.
+Other ID: (DNLM)U01565000(s)(OCoLC)04848588
+NLM ID: 8002867[Serial]
+
+94. Title Abbreviation: Am J Dermatopathol
+Title(s): The American Journal of dermatopathology.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Eight no. a year, 2009-
+Country of Publication: United States
+Publisher: New York, Masson Publishing USA.
+Latest Publisher: Hagerstown, MD : Lippincott Williams & Wilkins
+Description: v. ill., ports.
+Language: English
+ISSN: 0193-1091(Print); 1533-0311(Electronic); 0193-1091(Linking)
+Coden: AJDODB
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00000372-000000000-00000
+Fully Indexed In: MEDLINE: v1n1,spring 1979-; PubMed: v1n1,spring 1979-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Skin Diseases/pathology*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online.
+Other ID: (DNLM)A24095000(s)(OCoLC)05058734
+NLM ID: 7911005[Serial]
+
+95. Title Abbreviation: Calcif Tissue Int
+Title(s): Calcified tissue international.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: United States
+Publisher: Berlin, New York, Springer International.
+Latest Publisher: New York Ny : Springer Verlag
+Description: v. ill.
+Language: English, English
+ISSN: 0171-967X(Print); 1432-0827(Electronic); 0171-967X(Linking)
+Coden: CTINDZ
+LCCN: 79649796
+Electronic Links: https://link.springer.com/journal/223
+Fully Indexed In: MEDLINE: v27n1, 1979-; PubMed: v27n1, 1979-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Calcification, Physiologic*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 95 (2014) Supplements accompany some vols. Also
+issued online.
+Other ID: (DNLM)C01910000(s)(OCoLC)04923138
+NLM ID: 7905481[Serial]
+
+96. Title Abbreviation: Pathologe
+Title(s): Der Pathologe.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: v. ill.
+Language: German, German
+ISSN: 0172-8113(Print); 1432-1963(Electronic); 0172-8113(Linking)
+Coden: PATHDE
+LCCN: sn 81004375
+Electronic Links: https://link.springer.com/journal/292
+Fully Indexed In: MEDLINE: v1n1,Nov. 1979-v43n3, May 2022; PubMed: v1n1,Nov. 1979-v43n3, May 2022; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)P04875000(s)(OCoLC)06596853
+NLM ID: 8006541[Serial]
+
+97. Title Abbreviation: Virchows Arch B Cell Pathol Incl Mol Pathol
+Title(s): Virchows Archiv. B, Cell pathology including molecular pathology.
+Publication Start Year: 1979
+Publication End Year: 1993
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Berlin ; New York : Springer, 1979-1993.
+Latest Publisher: Berlin : Springer-Verlag
+Description: 35 v. : ill.
+Language: English
+ISSN: 0340-6075(Print); 0340-6075(Linking)
+Coden: VAAZA2
+LCCN: sc 82004184
+Fully Indexed In: MEDLINE: v30, 1979-v64n6, 1993; Index medicus
+In: PubMed: v30, 1979-v64n6, 1993; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0078770(s)(OCoLC)07806507
+NLM ID: 9316922[Serial]
+
+98. Title Abbreviation: Invest Cell Pathol
+Title(s): Investigative & cell pathology.
+Publication Start Year: 1978
+Publication End Year: 1980
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Chichester Sussex : Wiley
+Description: 3 v. ill.
+Language: English, English
+ISSN: 0146-7611(Print); 0146-7611(Linking)
+Coden: ICPADC
+Fully Indexed In: MEDLINE: v1n1,Jan./Mar. 1978-v3,Oct./Dec. 1980; PubMed: v1n1,Jan./Mar. 1978-v3,Oct./Dec. 1980; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Disease Models, Animal*; Pathology*
+Publication Type(s): Periodical
+Other ID: (DNLM)I37940000(s)(OCoLC)03979486
+NLM ID: 7805425[Serial]
+
+99. Author(s): Malaysian Society of Pathologists.; Academy of Medicine of Malaysia. College of
+Pathologists.
+Title Abbreviation: Malays J Pathol
+Title(s): The Malaysian journal of pathology.
+Publication Start Year: 1978
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: Malaysia
+Publisher: Kuala Lumpur : Malaysian Society of Pathologists.
+Latest Publisher: June 2000- : Kuala Lumpur : Academy of Medicine of Malyasia, College of
+Pathologists
+Description: v. : ill.
+Language: English, English
+ISSN: 0126-8635(Print); 0126-8635(Linking)
+Electronic Links: http://www.mjpath.org.my
+Fully Indexed In: MEDLINE: v5, 1982-; PubMed: v5, 1982-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the Malaysian Society
+of Pathologists.
+Other ID: (DNLM)M03010000(s)(OCoLC)07349079
+NLM ID: 8101177[Serial]
+
+100. Author(s): European Society of Pathology.
+Title Abbreviation: Pathol Res Pract
+Title(s): Pathology, research and practice.
+Publication Start Year: 1978
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Germany
+Publisher: Stuttgart, New York, Fischer.
+Latest Publisher: Stuttgart : Gustav Fischer Verlag
+Description: v. ill.
+Language: English, German, French, English, German
+ISSN: 0344-0338(Print); 1618-0631(Electronic); 0344-0338(Linking)
+Coden: PARPDS
+Electronic Links: http://www.sciencedirect.com/science/journal/03440338
+Fully Indexed In: MEDLINE: v162n1,May 1978-; PubMed: v162n1,May 1978-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English, French or German; most summaries in
+English and German. Official journal of the European Society of Pathology.
+Other ID: (DNLM)P05120000(s)(OCoLC)04124817
+NLM ID: 7806109[Serial]
+
+101. Title Abbreviation: Springer Semin Immunopathol
+Title(s): Springer seminars in immunopathology.
+Publication Start Year: 1978
+Publication End Year: 2006
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer International.
+Description: v. ill.
+Language: English
+ISSN: 0344-4325(Print); 1432-2196(Electronic); 0344-4325(Linking)
+Coden: SSIMDV
+LCCN: sn 79001364
+Electronic Links: https://link.springer.com/journal/281
+Fully Indexed In: MEDLINE: v3n1, 1981-v28n4, Dec. 2006; Index medicus
+In: PubMed: v3n1, 1981-v28n4, Dec. 2006; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Immune System Diseases*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)4212631(DNLM)S36700000(s)
+NLM ID: 7910384[Serial]
+
+102. Author(s): Society of Pharmacological and Environmental Pathologists (U.S.); Society of
+Toxicologic Pathologists (U.S.); Society of Toxicologic Pathology.
+Title Abbreviation: Toxicol Pathol
+Title(s): Toxicologic pathology.
+Publication Start Year: 1978
+Publication End Year: 
+Frequency: Seven no. a year, 2005-
+Country of Publication: United States
+Publisher: [Newark, Del,] Society of Pharmacological and Environmental Pathologists.
+Latest Publisher: Thousand Oaks, Calif. : Sage Publications
+Description: v. ill.
+Language: English
+ISSN: 0192-6233(Print); 1533-1601(Electronic); 0192-6233(Linking)
+Coden: TOPADD
+LCCN: 79643079
+Electronic Links: https://journals.sagepub.com/home/tpx
+Fully Indexed In: MEDLINE: v12n1, 1984-; PubMed: v12n1, 1984-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Pollutants/toxicity*; Pathology*; Pharmacology*
+Publication Type(s): Periodical
+Notes: Imprint varies. Also issued online. Official publication of the Society of
+Pharmacological and Environmental Pathologists; for <1982-> by Society of
+Toxicologic Pathologists (U.S.); <2005-> by the Society of Toxicologic Pathology.
+Other ID: (DNLM)T13790000(s)(OCoLC)05035503
+NLM ID: 7905907[Serial]
+
+103. Title Abbreviation: Am J Surg Pathol
+Title(s): The American journal of surgical pathology.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Monthly (with special supplement in Mar.), <1985->
+Country of Publication: United States
+Publisher: New York, Masson.
+Latest Publisher: <2015- > : Philadelphia, PA : Wolters Kluwer Health, Inc.
+Description: v. ill.
+Language: English, English
+ISSN: 0147-5185(Print); 1532-0979(Electronic); 0147-5185(Linking)
+Coden: AJSPDX
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00000478-000000000-00000
+Fully Indexed In: MEDLINE: v1n1, Mar. 1977-; Index medicus
+In: PubMed: v1n1, Mar. 1977-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology, Surgical*
+Publication Type(s): Periodical
+Notes: Has supplement, 1992- : Diagnostic molecular pathology. Also issued online.
+Other ID: (DNLM)A25005000(s)(OCoLC)03181447
+NLM ID: 7707904[Serial]
+
+104. Author(s): International Academy of Pathology. British Division.
+Title Abbreviation: Histopathology
+Title(s): Histopathology.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Oxford, Blackwell Scientific Publications.
+Description: v. ill.
+Language: English, English
+ISSN: 0309-0167(Print); 1365-2559(Electronic); 0309-0167(Linking)
+Coden: HISTDD
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2559
+Fully Indexed In: MEDLINE: v1,Jan. 1977-; PubMed: v1,Jan. 1977-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Histology*; Pathology*
+Publication Type(s): Periodical
+Notes: Also issued online. Official journal of the British Division of the International
+Academy of Pathology.
+Other ID: (DNLM)H14020000(s)(OCoLC)03146859
+NLM ID: 7704136[Serial]
+
+105. Author(s): American College of Toxicology.
+Title Abbreviation: J Environ Pathol Toxicol
+Title(s): Journal of environmental pathology and toxicology.
+Publication Start Year: 1977
+Publication End Year: 1981
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: [Park Forest South, Ill., Pathotox]
+Latest Publisher: Park Forest South Il : Pathotox Publishers
+Description: 5 v. ill.
+Language: English, English
+ISSN: 0146-4779(Print); 0146-4779(Linking)
+Coden: JEPTDQ
+Fully Indexed In: MEDLINE: v1n1,Sept./Oct. 1977-v5n1,Sept. 1981; PubMed: v1n1,Sept./Oct. 1977-v5n1,Sept. 1981; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Environmental Pollutants*; Pathology*; Toxicology*
+Publication Type(s): Periodical
+Notes: Vols. 5, no. 2-3 not published?. Official organ of the American College of
+Toxicology.
+Other ID: (DNLM)J20120000(s)(OCoLC)03601035
+NLM ID: 7801245[Serial]
+
+106. Author(s): National Society for Histotechnology.
+Title Abbreviation: J Histotechnol
+Title(s): Journal of histotechnology.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: [Downers Grove, IL : Mayo Publications]
+Latest Publisher: 2020- : Bedfordshire : Historical Metallurgy Society
+Description: v. ill., ports.
+Language: English
+ISSN: 0147-8885(Print); 2046-0236(Electronic); 0147-8885(Linking)
+Coden: JOHID
+LCCN: 78640984
+Electronic Links: http://www.tandfonline.com/loi/yhis20
+Fully Indexed In: MEDLINE: v42n1, 2019- ; Selected citations only before this date
+In: PubMed: v42n1, 2019- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Histological Techniques*
+Publication Type(s): Periodical
+Notes: Also issued online. Official publication of the National Society for
+Histotechnology.
+Other ID: (DNLM)J23050000(s)(OCoLC)03456694
+NLM ID: 8003807[Serial]
+
+107. Author(s): American Society for Veterinary Clinical Pathology.
+Title Abbreviation: Vet Clin Pathol
+Title(s): Veterinary clinical pathology/ American Society for Veterinary Clinical
+Pathology.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Quarterly, <Sept. 15, 1989->
+Country of Publication: United States
+Publisher: 1977-<1989> : Columbia, MO : Veterinary Practice Pub. Co.
+Latest Publisher: 1998- : Baton Rouge, LA : American Society for Veterinary Clinical Pathology
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 0275-6382(Print); 1939-165X(Electronic); 0275-6382(Linking)
+Coden: VCPADJ
+LCCN: sn 81000582
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1939-165X
+Fully Indexed In: MEDLINE: v31n1, 2002-; Index medicus
+In: PubMed: v31n1, 2002-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animal Diseases; Clinical Laboratory Techniques/veterinary; Pathology, Veterinary*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 12, no. 1, published in 1983; title from cover. Print 
+issues ceased with v. 44, no. 4 (Dec. 2015). Also issued online.
+Other ID: (OCoLC)05118950(DNLM)V05677000(s)
+NLM ID: 9880575[Serial]
+
+108. Author(s): Semaine des hôpitaux.; Association d'enseignement médical des hôpitaux de
+Paris.
+Title Abbreviation: Arch Anat Cytol Pathol
+Title(s): Archives d'anatomie et de cytologie pathologiques.
+Publication Start Year: 1976
+Publication End Year: 1998
+Frequency: Bimonthly
+Country of Publication: France
+Publisher: Paris, Expansion scientifique française.
+Description: v. ill.
+Language: French, English, French
+ISSN: 0395-501X(Print); 0395-501X(Linking)
+Coden: AACRDQ
+LCCN: sn80-13332
+Fully Indexed In: MEDLINE: v24n1, 1976-v46n5-6, 1998; PubMed: v24n1, 1976-v46n5-6, 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Cell Biology*; Pathology*
+Publication Type(s): Periodical
+Notes: Vol. 46, no. 4 and no. 5-6 have also English title: Clinical and experimental
+pathology. Articles in French; summaries in English and French. Vols. for -1998
+issued by Semaine des hôpitaux and Association d'enseignement médical des
+hôpitaux de Paris.
+Other ID: (DNLM)A60495000(s)(OCoLC)02433324
+NLM ID: 7609770[Serial]
+
+109. Author(s): American Medical Association.; College of American Pathologists.
+Title Abbreviation: Arch Pathol Lab Med
+Title(s): Archives of pathology & laboratory medicine.
+Publication Start Year: 1976
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Chicago, American Medical Assn.
+Latest Publisher: Northfield, Ill. : College of American Pathologists
+Description: v. ill., ports.
+Language: English, English
+ISSN: 0003-9985(Print); 1543-2165(Electronic); 0003-9985(Linking)
+Coden: APLMAS
+Electronic Links: https://meridian.allenpress.com/aplm
+Fully Indexed In: MEDLINE: v103n1,Jan. 1979-; PubMed: v103n1,Jan. 1979-; Abridged index medicus; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Clinical Laboratory Techniques*; Pathology*
+Publication Type(s): Periodical
+Notes: Imprint varies. Also available online. As of Jan. 2003, some content is only
+available online. Official publication of the American Medical Association, 1976-
+, and the College of American Pathologist, <Sept. 1985->
+Other ID: (DNLM)A61860000(s)(OCoLC)02300010
+NLM ID: 7607091[Serial]
+
+110. Author(s): King,Donald West,1927-; Given Institute of Pathobiology.
+Title Abbreviation: Adv Pathobiol
+Title(s): Advances in pathobiology.
+Publication Start Year: 1975
+Publication End Year: 1980
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York, Stratton Intercontinental Medical Book Corp.
+Latest Publisher: New York Ny : Stratton Intercontinental Medical Book Corporation
+Description: v. illus.
+Language: English
+ISSN: 0099-1147(Print); 0099-1147(Linking)
+Coden: ADPADX
+Fully Indexed In: MEDLINE: 1, 1975-7, 1980; PubMed: 1, 1975-7, 1980; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Pathology*
+Publication Type(s): Periodical
+Notes: Editor: 1975- D. W. King Issued by the Given Institute of Pathobiology.
+Other ID: (DNLM)A14895000(s)(OCoLC)01163598
+NLM ID: 7511090[Serial]
+
+111. Title Abbreviation: Exp Pathol Suppl
+Title(s): Experimentelle Pathologie. Supplement = Experimental pathology. Supplement.
+Publication Start Year: 1975
+Publication End Year: 1979
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Jena [Germany] : Gustav Fischer Verlag, 1975-1979.
+Description: v. : ill.
+Language: English, English
+ISSN: 0323-6102(Print); 0323-6102(Linking)
+Fully Indexed In: MEDLINE: 1, 1975-5, 1979; Index medicus
+In: PubMed: 1, 1975-5, 1979; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Each issue has also a distinctive title.
+Other ID: (OCoLC)03404160(DNLM)E19610020(s)
+NLM ID: 8300901[Serial]
+
+112. Author(s): Indian Association of Pathologists & Microbiologists.
+Title Abbreviation: Indian J Pathol Microbiol
+Title(s): Indian journal of pathology & microbiology.
+Publication Start Year: 1975
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: India
+Publisher: Chandigarh : Indian Association of Pathologists & Microbiologists.
+Latest Publisher: Mumbai : Medknow
+Description: v. ill.
+Language: English, English
+ISSN: 0377-4929(Print); 0974-5130(Electronic); 0377-4929(Linking)
+Coden: IJPMDT
+LCCN: sc 86001047, sn 82004513
+Electronic Links: https://journals.lww.com/ijpm/pages/default.aspx
+Fully Indexed In: MEDLINE: v18n2, 1975-; Index medicus
+In: PubMed: v18n2, 1975-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2015. Also issued online. Official publication of the
+Indian Association of Pathologists & Microbiologists.
+Other ID: (DNLM)I10020000(s)(OCoLC)02134140
+NLM ID: 7605904[Serial]
+
+113. Author(s): International Inflammation Research Society.
+Title Abbreviation: Inflammation
+Title(s): Inflammation.
+Publication Start Year: 1975
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, Plenum Press.
+Latest Publisher: 1999- : New York, NY : Kluwer Academic/Plenum Publishers
+Description: v. illus.
+Language: English, English
+ISSN: 0360-3997(Print); 1573-2576(Electronic); 0360-3997(Linking)
+Coden: INFLD4
+LCCN: 75650047
+Electronic Links: https://link.springer.com/journal/10753
+Fully Indexed In: MEDLINE: v3n1,Mar. 1978-; PubMed: v3n1,Mar. 1978-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Inflammation*
+Publication Type(s): Periodical
+Notes: Published in association with the International Inflammation Research Society.
+Also issued online.
+Other ID: (DNLM)I13200000(s)(OCoLC)02245180
+NLM ID: 7600105[Serial]
+
+114. Author(s): British Neuropathological Society.
+Title Abbreviation: Neuropathol Appl Neurobiol
+Title(s): Neuropathology and applied neurobiology.
+Publication Start Year: 1975
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, Blackwell Scientific Publications.
+Description: v. ill.
+Language: English, English
+ISSN: 0305-1846(Print); 1365-2990(Electronic); 0305-1846(Linking)
+Coden: NANEDL
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2990
+Fully Indexed In: MEDLINE: v4n1,Jan.-Feb. 1978-; PubMed: v4n1,Jan.-Feb. 1978-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System/pathology*; Neurology*
+Publication Type(s): Periodical
+Notes: Journal of the British Neuropathological Society. Print issues ceased with v. 46 
+(2020). Also issued online.
+Other ID: (DNLM)N13220000(s)(OCoLC)02437846
+NLM ID: 7609829[Serial]
+
+115. Author(s): American Society of Dermatopathology.
+Title Abbreviation: J Cutan Pathol
+Title(s): Journal of cutaneous pathology.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Monthly, 2006-
+Country of Publication: United States
+Publisher: Copenhagen, Blackwell Munksgaard.
+Latest Publisher: Malden, MA : Wiley
+Description: v. illus.
+Language: English
+ISSN: 0303-6987(Print); 1600-0560(Electronic); 0303-6987(Linking)
+Coden: JCUPBN
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0560
+Fully Indexed In: MEDLINE: v1n1, 1974-; Index medicus
+In: PubMed: v1n1, 1974-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Dermatology*
+Publication Type(s): Periodical
+Notes: Supplements accompany some issues. Also issued online. Official journal of the
+American Society of Dermatopathology, <2010->
+Other ID: (OCoLC)00972411(DNLM)J18220000(s)
+NLM ID: 0425124[Serial]
+
+116. Author(s): Academia Republicii Socialiste România.
+Title Abbreviation: Rev Roum Morphol Embryol
+Title(s): Revue roumaine de morphologie et d'embryologie.
+Publication Start Year: 1974
+Publication End Year: 1974
+Frequency: Four no. a year
+Country of Publication: Romania
+Publisher: Bucuresti : Academiei Republicii Socialiste Romania
+Description: 1 v. ill.
+Language: English, French, German, English, French, German
+ISSN: 0377-4945(Print); 0377-4945(Linking)
+Coden: RRMEA6
+LCCN: 75643441
+Fully Indexed In: MEDLINE: v19n1, 1974-v19n2, 1974; Index medicus
+In: PubMed: v19n1, 1974-v19n2, 1974; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Embryology*; Pathology*
+Publication Type(s): Periodical
+Notes: Articles and summaries in English, French, or German.
+Other ID: (OCoLC)02241194(DNLM)R46650000(s)
+Collection Status: Not in the NLM Collection
+NLM ID: 7511328[Serial]
+
+117. Title Abbreviation: Veroff Pathol
+Title(s): Veröffentlichungen aus der Pathologie.
+Publication Start Year: 1974
+Publication End Year: 1997
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Stuttgart, Fischer.
+Description: no. illus.
+Language: German, English, German
+ISSN: 0340-241X(Print); 0340-241X(Linking)
+Coden: VEPADX
+Fully Indexed In: MEDLINE: n96, 1975-n146, 1997; PubMed: n96, 1975-n146, 1997; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Issues for 1974- also have English title: Progress in pathology. Summaries in
+English.
+Other ID: (DNLM)V03240000(s)(OCoLC)01297285
+NLM ID: 7504167[Serial]
+
+118. Title Abbreviation: Virchows Arch A Pathol Anat Histol
+Title(s): Virchows Archiv. A, Pathological anatomy and histology.
+Publication Start Year: 1974
+Publication End Year: 1982
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin ; New York : Springer-Verlag, [1974-1982]
+Description: 36 v. : ill.
+Language: English, German, French, English
+ISSN: 0340-1227(Print); 0340-1227(Linking)
+Coden: VAPHDQ
+LCCN: 78648691
+Fully Indexed In: MEDLINE: v362n1, 1974-v397n3, 1982; Index medicus
+In: PubMed: v362n1, 1974-v397n3, 1982; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Articles in English, German, or French with summaries in
+English.
+Other ID: (OCoLC)01777889(DNLM)V07520000(s)
+NLM ID: 7505137[Serial]
+
+119. Author(s): Bolande,Robert P; Rosenberg,Harvey S,1924-; Pediatric Pathology Club (U.S.)
+Title Abbreviation: Perspect Pediatr Pathol
+Title(s): Perspectives in pediatric pathology.
+Publication Start Year: 1973
+Publication End Year: 1997
+Frequency: Annual, 1987-1997
+Country of Publication: Switzerland
+Publisher: Chicago, Year Book Medical Publishers.
+Latest Publisher: Basel : Karger
+Description: v. illus.
+Language: English
+ISSN: 0091-2921(Print); 0091-2921(Linking)
+Coden: PPEPDY
+LCCN: 72-88828
+Fully Indexed In: MEDLINE: v1, 1973-v17, 1993; Index medicus
+In: PubMed: v1, 1973-v17, 1993; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*; Pediatrics*
+Publication Type(s): Periodical
+Notes: Editors: 1973- H. S. Rosenberg and R. P. Bolande. Published: Masson, 197?- ;
+Basel : Karger, -1997. Changed to periodical format with spring 1984. Vol.
+numbering irregular: issue for spring 1984 called v. 1, no. 1 but constitutes v. 
+8, no. 1. Not published 1982-83. Sponsored by the Pediatric Pathology Club.
+Other ID: (DNLM)P09200000(s)(OCoLC)01783669
+NLM ID: 0366560[Serial]
+
+120. Author(s): Cheng,Thomas C(Thomas Clement)
+Title Abbreviation: Curr Top Comp Pathobiol
+Title(s): Current topics in comparative pathobiology.
+Publication Start Year: 1971
+Publication End Year: 1973
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York, Academic Press.
+Latest Publisher: New York Ny : Academic Press
+Description: 2 v. illus.
+Language: English
+ISSN: 0090-8584(Print); 0090-8584(Linking)
+Coden: CCPBBF
+Selectively Indexed in: MEDLINEv1, 1971-v2, 1973PubMedv1, 1971-v2, 1973Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Pathology*
+Publication Type(s): Periodical
+Notes: Edited by T. C. Cheng.
+Other ID: (DNLM)C57720000(s)(OCoLC)01078520
+NLM ID: 0435531[Serial]
+
+121. Author(s): Ioachim,Harry L,1924-
+Title Abbreviation: Pathobiol Annu
+Title(s): Pathobiology annual.
+Publication Start Year: 1971
+Publication End Year: 1982
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York, Appleton-Century-Crofts.
+Latest Publisher: New York Ny : Appleton Century Crofts
+Description: v. illus.
+Language: English
+ISSN: 0362-3025(Print); 0362-3025(Linking)
+Coden: PATABP
+LCCN: 78-151816
+Fully Indexed In: MEDLINE: 1971-1982; PubMed: 1971-1982; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Pathology*
+Publication Type(s): Periodical
+Notes: Editor: 1971- H. L. Ioachim.
+Other ID: (DNLM)P04840000(s)(OCoLC)01761955
+NLM ID: 1305471[Serial]
+
+122. Author(s): American College of Veterinary Pathologists.; Arbeitsgemeinschaft der
+Veterinärpathologen.; European College of Veterinary Pathologists.; Nihon Jūi
+Byōrigaku Senmonka Kyōkai.
+Title Abbreviation: Vet Pathol
+Title(s): Veterinary pathology.
+Publication Start Year: 1971
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: 1971- : Basel : New York : Karger.
+Latest Publisher: Jan. 2010- : Thousand Oaks, CA : Sage
+Description: v. illus.
+Language: English
+ISSN: 0300-9858(Print); 1544-2217(Electronic); 0300-9858(Linking)
+Coden: VTPHAK
+LCCN: 77646648
+Electronic Links: https://journals.sagepub.com/home/vet
+Fully Indexed In: MEDLINE: v8n1, 1971-; Index medicus
+In: PubMed: v8n1, 1971-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology, Veterinary*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online. Official organ of the American
+College of Veterinary Pathologists and Arbeitsgemeinschaft der
+Veterinärpathologen, 1971-1976 ; American College of Veterinary Pathologists,
+European College of Veterinary Pathologists, and the Japanese College of
+Veterinary Pathologists, <Sept. 2010-> .
+Other ID: (DNLM)V05980000(s)(OCoLC)00932839
+NLM ID: 0312020[Serial]
+
+123. Title Abbreviation: Acta Pathol Microbiol Scand A
+Title(s): Acta pathologica et microbiologica Scandinavica. Section A, Pathology.
+Publication Start Year: 1970
+Publication End Year: 1981
+Frequency: Six no. a year
+Country of Publication: Denmark
+Publisher: Copenhagen, Munksgaard.
+Description: 12 v. ill.
+Language: English, English
+ISSN: 0365-4184(Print); 0365-4184(Linking)
+Coden: APMSBI
+LCCN: sn 82004896
+Fully Indexed In: MEDLINE: v78An1, 1970-v89An6, 1970; Index medicus
+In: PubMed: v78An1, 1970-v89An6, 1970; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Other ID: (OCoLC)01460962(DNLM)A08055000(s)
+NLM ID: 7508468[Serial]
+
+124. Title Abbreviation: Acta Pathol Microbiol Scand Suppl
+Title(s): Acta pathologica et microbiologica Scandinavica. Supplement.
+Publication Start Year: 1970
+Publication End Year: 1981
+Frequency: Irregular
+Country of Publication: Denmark
+Publisher: Copenhagen : Munksgaard, 1970-
+Description: v. : ill.
+Language: English
+ISSN: 
+Coden: APMUAN
+LCCN: sc 83003060
+Fully Indexed In: MEDLINE: n210, 1970-n277, 1981; Index medicus
+In: PubMed: n210, 1970-n277, 1981; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microbiology*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues for 1970-74 are alternately called "Section A" or
+"Section B"; for 1975-81, "Section A," "Section B," or "Section C." No. 212
+incorrectly called "no. 112."
+Other ID: (DNLM)A08115000(s)(OCoLC)50363671
+NLM ID: 8211440[Serial]
+
+125. Title Abbreviation: Beitr Pathol
+Title(s): Beiträge zur Pathologie.
+Publication Start Year: 1970
+Publication End Year: 1977
+Frequency: Twelve no. a year
+Country of Publication: Germany
+Publisher: Stuttgart, New York [etc.] Fischer.
+Latest Publisher: Stuttgart : Fischer
+Description: 21 v. ill., ports.
+Language: English, German, English
+ISSN: 0005-8165(Print); 0005-8165(Linking)
+Coden: BTPGAZ
+Fully Indexed In: MEDLINE: v141n1, 1970-v161, 1977; PubMed: v141n1, 1970-v161, 1977; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Articles in English or German; summaries in English.
+Other ID: (DNLM)B03580000(s)(OCoLC)01519414
+NLM ID: 0264676[Serial]
+
+126. Title Abbreviation: Curr Top Pathol
+Title(s): Current topics in pathology. Ergebnisse der Pathologie.
+Publication Start Year: 1970
+Publication End Year: 2001
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: v. illus.
+Language: English
+ISSN: 0070-2188(Print); 0070-2188(Linking)
+Coden: CTPHBG
+LCCN: sc 78002123
+Fully Indexed In: MEDLINE: v52, 1970-v95, 2001; PubMed: v52, 1970-v95, 2001; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Other ID: (DNLM)C58020000(s)(OCoLC)01565695
+NLM ID: 0244762[Serial]
+
+127. Title Abbreviation: Hum Pathol
+Title(s): Human pathology.
+Publication Start Year: 1970
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Philadelphia, W B. Saunders Co.
+Latest Publisher: Philadelphia, PA : W B Saunders
+Description: v. ill.
+Language: English
+ISSN: 0046-8177(Print); 1532-8392(Electronic); 0046-8177(Linking)
+Coden: HPCQA4
+LCCN: sn 78001257
+Electronic Links: http://www.sciencedirect.com/science/journal/00468177
+Fully Indexed In: MEDLINE: v2n1,Mar. 1971-; PubMed: v2n1,Mar. 1971-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)H22360000(s)(OCoLC)01752392
+NLM ID: 9421547[Serial]
+
+128. Title Abbreviation: Int Arch Arbeitsmed
+Title(s): Internationales Archiv für Arbeitsmedizin.
+Publication Start Year: 1970
+Publication End Year: 1975
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Latest Publisher: Berlin : Springer Verlag
+Description: 9 v. illus.
+Language: English, German, French, English, German, French
+ISSN: 0020-5923(Print); 0020-5923(Linking)
+Coden: IAANBS
+LCCN: 76642761
+Electronic Links: https://link.springer.com/journal/420
+Fully Indexed In: MEDLINE: v21n3,Jun. 21, 1965-v34, 1975; PubMed: v21n3,Jun. 21, 1965-v34, 1975; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Occupational Medicine*
+Publication Type(s): Periodical
+Notes: Title also in English: International archives of occupational health. Also issued
+online. Articles in German, English, or French; summaries in English with some
+also in German or French.
+Other ID: (OCoLC)01749260(DNLM)I36300000(s)
+NLM ID: 7512135[Serial]
+
+129. Author(s): Royal College of Pathologists.
+Title Abbreviation: J Clin Pathol Suppl (R Coll Pathol)
+Title(s): Journal of clinical pathology. Supplement (Royal College of Pathologists).
+Publication Start Year: 1970
+Publication End Year: 1980
+Frequency: Annual
+Country of Publication: England
+Publisher: [London : Published for the Royal College of Pathologists by the Journal of
+Clinical Pathology]
+Description: v. : ill.
+Language: English
+ISSN: 0144-0330(Print); 0144-0330(Linking)
+Coden: JPHSBO
+LCCN: sc 88010307, sf 88019937, sn 86009969, 80002311
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=8300543
+Fully Indexed In: MEDLINE: n4, 1970-n14, 1980; MEDLINE: n4, 1970-n14, 1980; Index medicus
+In: PubMed: n4, 1970-n14, 1980, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Congress
+Notes: Description based on: 6, published 1972; title from spine. Also issued online.
+Consists of proceedings of symposia organized by the Royal College of
+Pathologists.
+Other ID: (OCoLC)10455380(DNLM)J16900500(s)
+NLM ID: 8300543[Serial]
+
+130. Author(s): Bennington,James L(James Lynne),1935-
+Title Abbreviation: Major Probl Pathol
+Title(s): Major problems in pathology.
+Publication Start Year: 1970
+Publication End Year: 2007
+Frequency: Annual
+Country of Publication: United States
+Publisher: Philadelphia : W.B. Saunders Co., 1970-
+Description: v. illus.
+Language: English
+ISSN: 0076-2881(Print); 0076-2881(Linking)
+Coden: MPPTBW
+LCCN: sn 82000264
+Fully Indexed In: MEDLINE: v1, 1970-v13, 1982; PubMed: v1, 1970-v13, 1982; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Editor: 1970- J. L. Bennington.
+Other ID: (DNLM)M02540000(s)(OCoLC)01770834
+NLM ID: 0261661[Serial]
+
+131. Title Abbreviation: Norm Pathol Anat (Stuttg)
+Title(s): Normale und pathologische Anatomie.
+Publication Start Year: 1970
+Publication End Year: 1994
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Stuttgart, Thieme.
+Description: v. illus.
+Language: German
+ISSN: 0303-2418(Print); 0303-2418(Linking)
+Coden: NPHABE
+LCCN: sn 86010389
+Fully Indexed In: MEDLINE: v24, 1972-v52, 1990; PubMed: v24, 1972-v52, 1990; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Pathology*
+Publication Type(s): Periodical
+Notes: Added title: Normal and pathological anatomy, 1976- .
+Other ID: (DNLM)N29500000(s)(OCoLC)01777581
+NLM ID: 0246434[Serial]
+
+132. Title Abbreviation: Res Commun Chem Pathol Pharmacol
+Title(s): Research communications in chemical pathology and pharmacology.
+Publication Start Year: 1970
+Publication End Year: 1994
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Westbury, N.Y., P. J. D. Publications.
+Description: 84 v. ill.
+Language: English
+ISSN: 0034-5164(Print); 0034-5164(Linking)
+Coden: RCOCB8
+Fully Indexed In: MEDLINE: v1n1, Jan. 1970-v84n3, Jun. 1994; Index medicus
+In: PubMed: v1n1, Jan. 1970-v84n3, Jun. 1994; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Pathology*; Pharmacology*
+Publication Type(s): Periodical
+Other ID: (DNLM)R23340000(s)(OCoLC)01763760
+NLM ID: 0244734[Serial]
+
+133. Author(s): Sociedad Latinoamericana de Patología.
+Title Abbreviation: Rev Latinoam Patol
+Title(s): Revista latinoamericana de patología.
+Publication Start Year: 1970
+Publication End Year: 1973
+Frequency: Four no. a year
+Country of Publication: Colombia
+Publisher: Caracas.
+Latest Publisher: Caracas : Universidad De Antioquia. Facultad De Medicina
+Description: v. illus., ports.
+Language: English, English
+ISSN: 0300-9068(Print); 0300-9068(Linking)
+Coden: RLAPB6
+Fully Indexed In: MEDLINE: v9n1,Mar. 1970-v12n2, 1973; PubMed: v9n1,Mar. 1970-v12n2, 1973; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Text in Spanish and English; some summaries in the two languages. Organ of the
+Sociedad Latinoamericana de Patología.
+Other ID: (DNLM)R36060000(s)(OCoLC)10214689
+NLM ID: 1265421[Serial]
+
+134. Author(s): Pathological Society of Great Britain and Ireland.
+Title Abbreviation: J Pathol
+Title(s): The Journal of pathology.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, Oliver & Boyd.
+Latest Publisher: Chichester : John Wiley And Sons
+Description: v. illus., ports.
+Language: English
+ISSN: 0022-3417(Print); 1096-9896(Electronic); 0022-3417(Linking)
+Coden: JPTLAS
+LCCN: sn 80001300
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9896
+Fully Indexed In: MEDLINE: v97n1, Jan. 1969-; Index medicus
+In: PubMed: v97n1, Jan. 1969-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Assumes vol. numbering of the earlier title. Also issued online. Official journal
+of the Pathological Society of Great Britain and Ireland.
+Other ID: (DNLM)J33880000(s)(OCoLC)01754718
+NLM ID: 0204634[Serial]
+
+135. Title Abbreviation: Monogr Clin Cytol
+Title(s): Monographs in clinical cytology.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Baltimore, Williams & Wilkins.
+Latest Publisher: Basel : Karger
+Description: v. illus.
+Language: English
+ISSN: 0077-0809(Print); 1662-3827(Electronic); 0077-0809(Linking)
+Coden: MCCYAQ
+LCCN: sf 88030000, sn 86013117
+Electronic Links: http://www.karger.com/BookSeries/Home/223932
+Fully Indexed In: MEDLINE: v2, 1969-; Index medicus
+In: PubMed: v2, 1969-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Biology*
+Publication Type(s): Periodical
+Notes: Revised edition of v. 1, which was first issued in Clinical cytology series, is
+included with this set. Also issued online.
+Other ID: (OCoLC)01758565(DNLM)M46580000(s)
+NLM ID: 0370161[Serial]
+
+136. Title Abbreviation: Pathol Biol (Paris)
+Title(s): Pathologie-biologie.
+Publication Start Year: 1969
+Publication End Year: 2015
+Frequency: Ten no. a year
+Country of Publication: France
+Publisher: Paris, Expansion scientifique française.
+Latest Publisher: 2000- : Paris : Elsevier
+Description: v. illus.
+Language: French, English
+ISSN: 0369-8114(Print); 1768-3114(Electronic); 0369-8114(Linking)
+Coden: PTBIAN
+LCCN: sn 86008735
+Electronic Links: http://www.sciencedirect.com/science/journal/03698114
+Fully Indexed In: MEDLINE: v17, 1969-v63n6, Dec. 2015; Index medicus
+In: PubMed: v17, 1969-v63n6, Dec. 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Medicine*; Pathology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)01334632(DNLM)P04980000(s)
+NLM ID: 0265365[Serial]
+
+137. Author(s): College of Pathologists of Australia.; Royal College of Pathologists of
+Australia.; Royal College of Pathologists of Australasia.
+Title Abbreviation: Pathology
+Title(s): Pathology.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Bimonthly, 2002-
+Country of Publication: England
+Publisher: [Surry Hills, NSW, etc., Modern Medicine, etc.]
+Latest Publisher: Jan. 2011- : London : Lippincott Williams & Wilkins
+Description: v. illus.
+Language: English
+ISSN: 0031-3025(Print); 1465-3931(Electronic); 0031-3025(Linking)
+Coden: PTLGAX
+LCCN: sc 78002122
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=01268031-000000000-00000, https://www.sciencedirect.com/journal/pathology, https://www.tandfonline.com/loi/ipat20
+Fully Indexed In: MEDLINE: v1n1,Jan. 1969-; Index medicus
+In: PubMed: v1n1,Jan. 1969-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Journal of the College of Pathologists of Australia, 1969-71; of the Royal
+College of Pathologists of Australia, 1972-Apr. 1980; of the Royal College of
+Pathologists of Australasia, July 1980- . Also issued online.
+Other ID: (DNLM)P05060000(s)(OCoLC)01761961
+NLM ID: 0175411[Serial]
+
+138. Title Abbreviation: Virchows Arch A Pathol Pathol Anat
+Title(s): Virchows Archiv. A, Pathology. Pathologische Anatomie.
+Publication Start Year: 1968
+Publication End Year: 1973
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: Berlin, New York; Springer-Verlag.
+Description: 18 v.
+Language: English, German
+ISSN: 0042-6423(Print); 0042-6423(Linking)
+Coden: VAAPB7
+Fully Indexed In: MEDLINE: v344, 1968-v361, 1974; Index medicus
+In: PubMed: v344, 1968-v361, 1974; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+Notes: Articles in English or German.
+Other ID: (OCoLC)1769150(DNLM)V07535000(s)
+NLM ID: 0141343[Serial]
+
+139. Title Abbreviation: Virchows Arch B Cell Pathol
+Title(s): Virchows Archiv. B, Cell pathology.
+Publication Start Year: 1968
+Publication End Year: 1979
+Frequency: Twelve no. a year
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: 29 v. : ill.
+Language: English, French, German, English
+ISSN: 
+Coden: VAAZA2
+LCCN: sf 82004038, sn 80000580
+Fully Indexed In: MEDLINE: v1n3, 1968-v29m, 1979; Index medicus
+In: PubMed: v1n3, 1968-v29m, 1979; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Issues for 1968-1974 have title: Zellpathologie. Text in English, French, or
+German with summaries in English.
+Other ID: (OCoLC)01109023(DNLM)V07560000(s)
+NLM ID: 0437105[Serial]
+
+140. Author(s): Fundación Roux-Ocefa.
+Title Abbreviation: Arch Fund Roux Ocefa
+Title(s): Archivos de la Fundación Roux-Ocefa.
+Publication Start Year: 1967
+Publication End Year: 1977
+Frequency: Four no. a year
+Country of Publication: Argentina
+Publisher: Buenos Aires.
+Latest Publisher: Buenos Aires : Fundacion Roux Ocefa
+Description: v. illus.
+Language: Spanish
+ISSN: 0016-271X(Print); 0016-271X(Linking)
+Coden: FRXAAJ
+Fully Indexed In: MEDLINE: v1n1,Jan./Mar. 1967-v10n1-2, 1977; PubMed: v1n1,Jan./Mar. 1967-v10n1-2, 1977; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Histology*; Pathology*
+Publication Type(s): Periodical
+Other ID: (DNLM)A63915000(s)(OCoLC)01394579
+NLM ID: 7502529[Serial]
+
+141. Title Abbreviation: Exp Pathol (Jena)
+Title(s): Experimentelle Pathologie.
+Publication Start Year: 1967
+Publication End Year: 1980
+Frequency: Nine no. a year
+Country of Publication: Germany
+Publisher: Jena, Germany : Fisher, 1967-
+Latest Publisher: Jena : Gustav Fischer Verlag
+Description: 18 v. ill.
+Language: English, German, English, German
+ISSN: 0014-4908(Print); 0014-4908(Linking)
+Coden: EXPTAX
+Fully Indexed In: MEDLINE: v4n1, 1970-v18n9, 1980; PubMed: v4n1, 1970-v18n9, 1980; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Added title: Experimental pathology, 1969-1980. Title from cover. Articles in
+English or German; summaries in English or German.
+Other ID: (DNLM)E19760000(s)(OCoLC)01568650
+NLM ID: 0113124[Serial]
+
+142. Author(s): Association of Clinical Pathologists (Great Britain); British Medical
+Association.
+Title Abbreviation: J Clin Pathol Suppl (Assoc Clin Pathol)
+Title(s): Journal of clinical pathology. Supplement (Association of Clinical Pathologists).
+Publication Start Year: 1967
+Publication End Year: 1980
+Frequency: Irregular
+Country of Publication: England
+Publisher: [London : British Medical Association]
+Description: v. : ill.
+Language: English
+ISSN: 0144-0349(Print); 0144-0349(Linking)
+Coden: JPHSBO
+LCCN: sn 80002319
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0217241
+Fully Indexed In: MEDLINE: n4, 1970-n14, 1980; PubMed: n2, 1969-n14, 1980; Index medicus
+In: PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Description based on: 4, published 1971?; title from spine. Also issued online.
+Consists of proceedings of symposia organized by the Association of Clinical
+Pathologists.
+Other ID: (OCoLC)06545602(DNLM)J16900000(s)
+NLM ID: 0217241[Serial]
+
+143. Author(s): College of Pathologists.
+Title Abbreviation: J Clin Pathol Suppl Coll Pathol
+Title(s): Journal of clinical pathology. Supplement (College of Pathologists).
+Publication Start Year: 1967
+Publication End Year: 1969
+Frequency: Irregular
+Country of Publication: England
+Publisher: London, England : Published for the College of Pathologists by the British
+Medical Association, 1967-1969.
+Description: 3 v. : ill. ; 25 cm.
+Language: English
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101273195
+Fully Indexed In: MEDLINE: n2, 1967-n3, 1969; Index medicus
+In: PubMed: n2, 1967-n3, 1969, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Congress
+Notes: Consists of symposia organized by the College of Pathologists. Also issued
+online.
+Other ID: (OCoLC)22203502
+NLM ID: 101273195[Serial]
+
+144. Author(s): Société royale de zoologie d'Anvers.
+Title Abbreviation: Acta Zool Pathol Antverp
+Title(s): Acta zoologica et pathologica Antverpiensia.
+Publication Start Year: 1966
+Publication End Year: 1992
+Frequency: Biennial
+Country of Publication: Belgium
+Publisher: Antwerpen.
+Latest Publisher: Antwerp : Koninklijke Maatschappij Voor Dierkunde Van Antwerpen
+Description: no. illus.
+Language: English
+ISSN: 0001-7280(Print); 0001-7280(Linking)
+Coden: AZPAAE
+Selectively Indexed in: MEDLINEn48,May 1969-n75, 1980PubMedn48,May 1969-n75, 1980Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animal Diseases*; Pathology*; Zoology*
+Publication Type(s): Periodical
+Notes: Text in English. Issued by the Koninklijke Maatschappij voor Dierkunde van
+Antwerpen.
+Other ID: (DNLM)A09945000(s)(OCoLC)01461035
+NLM ID: 0100314[Serial]
+
+145. Author(s): Bajusz,E(Eörs); Jasmin,G(Gaëtan)
+Title Abbreviation: Methods Achiev Exp Pathol
+Title(s): Methods and achievements in experimental pathology.
+Publication Start Year: 1966
+Publication End Year: 1991
+Frequency: Annual
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger [etc.]
+Latest Publisher: Basel : Karger
+Description: v. illus.
+Language: English
+ISSN: 0076-681X(Print); 0076-681X(Linking)
+Coden: MAEPBU
+Fully Indexed In: MEDLINE: v5, 1971-v15, 1991; PubMed: v5, 1971-v15, 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Editors: 1966- E. Bajusz and G. Jasmin. Each vol. has also a distinctive title:
+v. 1, An introduction to experimental pathology. - v. 2, Investigative
+techniques. - v. 3, Ultrastructural, histopathologic, and chemical approaches. - 
+v. 4, Examples of descriptive and functional morphology.
+Other ID: (DNLM)M32400000(s)(OCoLC)01757209
+NLM ID: 0204174[Serial]
+
+146. Author(s): European Society of Pathology.
+Title Abbreviation: Pathol Eur
+Title(s): Pathologia Europaea.
+Publication Start Year: 1966
+Publication End Year: 1976
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, New York [etc.] Wiley [etc.].
+Latest Publisher: London : Wiley
+Description: 11 v. ill.
+Language: English, French, German
+ISSN: 0031-2967(Print); 0031-2967(Linking)
+Coden: PTEUA6
+LCCN: 76013940
+Fully Indexed In: MEDLINE: v1n1, 1966-v11n4, 1976; PubMed: v1n1, 1966-v11n4, 1976; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*; Research
+Publication Type(s): Periodical
+Notes: Official journal of the European Society of Pathology.
+Other ID: (DNLM)P04880000(s)(OCoLC)01761957
+NLM ID: 0062702[Serial]
+
+147. Author(s): Sommers,Sheldon C,1916-
+Title Abbreviation: Pathol Annu
+Title(s): Pathology annual.
+Publication Start Year: 1966
+Publication End Year: 1996
+Frequency: Semiannual
+Country of Publication: United States
+Publisher: New York : Appleton-Century-Crofts
+Latest Publisher: East Norwalk Ct : Appleton And Lange
+Description: 30 v. illus.
+Language: English
+ISSN: 0079-0184(Print); 0079-0184(Linking)
+Coden: PATABP
+LCCN: 66-20355
+Fully Indexed In: MEDLINE: v5, 1970-v30, 1995; Index medicus
+In: PubMed: v5, 1970-v30, 1995; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): PeriodicalReview
+Notes: Editor: v. 1- S. C. Sommers. Indexes: Vols. 1-14, 1966-79. 1 v.
+Other ID: (DNLM)P05080000(s)(OCoLC)01640370
+NLM ID: 0050610[Serial]
+
+148. Author(s): Stefanini,Mario,1916-2014.
+Title Abbreviation: Prog Clin Pathol
+Title(s): Progress in clinical pathology.
+Publication Start Year: 1966
+Publication End Year: 1984
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York.
+Latest Publisher: New York Ny : Grune And Stratton
+Description: v. illus.
+Language: English
+ISSN: 0079-6174(Print); 0079-6174(Linking)
+Coden: PCGPAI
+Fully Indexed In: MEDLINE: v3, 1970-v9, 1984; PubMed: v3, 1970-v9, 1984; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Editor: 1966- M. Stefanini.
+Other ID: (DNLM)P47480000(s)(OCoLC)00930379
+NLM ID: 0047556[Serial]
+
+149. Author(s): Společnost patologických anatomů.; Společnost patologů.; Československá
+lékařská společnost J. Ev. Purkyně.; Česká lékařská společnost J.E.
+Purkyně.
+Title Abbreviation: Cesk Patol
+Title(s): Československá patologie.
+Publication Start Year: 1965
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Czech Republic
+Publisher: Praha : Státní zdravotnické nakladatelství, 1965-
+Latest Publisher: Praha : Ceska Lekarska Spolecnost
+Description: v. illus.
+Language: Czech, Slovak, English, English, Russian
+ISSN: 1210-7875(Print); 1805-4498(Electronic); 1210-7875(Linking)
+Coden: CPSLAE
+Electronic Links: http://www.cspatologie.cz/
+Fully Indexed In: MEDLINE: v7n1, Feb. 1971-; Index medicus
+In: PubMed: v7n1, Feb. 1971-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Issues for 1965-1993 have cover title: Ceskoslovenská patologie a soudní
+lékarství. Issues for 1994- have cover title: Cesko-Slovenská patologie a
+soudní lékarství. Issues for 1992- have also English title: Czecho-Slovak
+pathology and forensic medicine. Title from caption. Issued with: Soudní
+lékarství with each title retaining its own enumeration and separate
+pagination. Also issued online. In Czech and Slovak; some articles in English,
+1993?- ; table of contents and summaries also in English. Issued by the
+Spolecnost patologických anatomů, 1965- ; by Spolecnost patologů, 1992?- .
+Other ID: (DNLM)C13340000(s)(OCoLC)06365023
+NLM ID: 0050734[Serial]
+
+150. Title Abbreviation: J Comp Pathol
+Title(s): Journal of comparative pathology.
+Publication Start Year: 1965
+Publication End Year: 
+Frequency: Eight no. a year
+Country of Publication: England
+Publisher: Liverpool, University Press.
+Latest Publisher: London : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0021-9975(Print); 1532-3129(Electronic); 0021-9975(Linking)
+Coden: JCVPAR
+LCCN: sn 80001283
+Electronic Links: http://www.sciencedirect.com/science/journal/00219975
+Fully Indexed In: MEDLINE: v75n3,Jul. 1965-; PubMed: v75n3,Jul. 1965-; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology, Veterinary*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J17540000(s)(OCoLC)01641333
+NLM ID: 0102444[Serial]
+
+151. Title Abbreviation: Exp Med Pathol Klin
+Title(s): Experimentelle Medizin, Pathologie und Klinik.
+Publication Start Year: 1964
+Publication End Year: 1972
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Latest Publisher: Berlin : Springer Verlag
+Description: 22 v. ill.
+Language: German
+ISSN: 0071-3430(Print); 0071-3430(Linking)
+Coden: EMPKAV
+Fully Indexed In: MEDLINE: v30, 1970-v36, 1972; PubMed: v30, 1970-v36, 1972; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Pathology*
+Publication Type(s): Periodical
+Notes: Previous vols. issued with title: Pathologie und Klinik in Einzeldarstellungen,
+and are cataloged separately at NLM.
+Other ID: (DNLM)E19740000(s)(OCoLC)09015950
+NLM ID: 0034007[Serial]
+
+152. Title Abbreviation: Exp Mol Pathol Suppl
+Title(s): Experimental and molecular pathology. Supplement.
+Publication Start Year: 1963
+Publication End Year: 1966
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York Ny : Academic Press
+Description: v. illus.
+Language: English
+ISSN: 0531-5522(Print); 0531-5522(Linking)
+Coden: EMPSAL
+Fully Indexed In: MEDLINE: 3, 1966; Index medicus
+In: PubMed: 3, 1966; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Other ID: (DNLM)E19540000(s)(OCoLC)01778967
+NLM ID: 0007677[Serial]
+
+153. Title Abbreviation: Exp Mol Pathol
+Title(s): Experimental and molecular pathology.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Netherlands
+Publisher: New York : Academic Press
+Latest Publisher: <2000- > : Amsteram : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0014-4800(Print); 1096-0945(Electronic); 0014-4800(Linking)
+Coden: EXMPA6
+Electronic Links: http://www.sciencedirect.com/science/journal/00144800
+Fully Indexed In: MEDLINE: v4n5, Oct. 1965-; Index medicus
+In: PubMed: v4n5, Oct. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: None published in 1996. Also issued online.
+Other ID: (DNLM)E19520000(s)(OCoLC)01568631
+NLM ID: 0370711[Serial]
+
+154. Author(s): Epstein,M A(Michael Anthony); Richter,Goetz W,1922-
+Title Abbreviation: Int Rev Exp Pathol
+Title(s): International review of experimental pathology.
+Publication Start Year: 1962
+Publication End Year: 1996
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York.
+Latest Publisher: New York, NY : Academic Press
+Description: v. illus.
+Language: English
+ISSN: 0074-7718(Print); 0074-7718(Linking)
+Coden: IRXPAT
+Fully Indexed In: MEDLINE: v3, 1964-v. 36, 1996; PubMed: v3, 1964-v. 36, 1996; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Editors: 1962- G. W. Richter [and] M. A. Epstein.
+Other ID: (DNLM)I30020000(s)(OCoLC)00988645
+NLM ID: 0374737[Serial]
+
+155. Author(s): American Medical Association.; American Society for Experimental Pathology.
+Title Abbreviation: Arch Pathol
+Title(s): Archives of pathology.
+Publication Start Year: 1960
+Publication End Year: 1975
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Chicago, American Medical Assn.
+Description: 30 v. ill., ports.
+Language: English
+ISSN: 0363-0153(Print); 0363-0153(Linking)
+Coden: ARPAAQ
+Fully Indexed In: MEDLINE: v80n4, 1965-v99n12, Dec. 1975; PubMed: v80n4, 1965-v99n12, Dec. 1975; Abridged index medicus; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Official organ of the American Society for Experimental Pathology, July 1960-Dec.
+1969.
+Other ID: (DNLM)A61845000(s)(OCoLC)02068979
+NLM ID: 7605251[Serial]
+
+156. Author(s): International Academy of Pathology.
+Title Abbreviation: Monogr Pathol
+Title(s): Monographs in pathology.
+Publication Start Year: 1960
+Publication End Year: 1997
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Baltimore, Williams & Wilkins [etc.]
+Description: v. ill.
+Language: English
+ISSN: 0077-0922(Print); 0077-0922(Linking)
+Coden: IAPMAV
+Fully Indexed In: MEDLINE: n18, 1977-n39, 1997; PubMed: n18, 1977-n39, 1997; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Issued by the International Academy of Pathology.
+Other ID: (DNLM)M46920000(s)(OCoLC)01781335
+NLM ID: 0416716[Serial]
+
+157. Author(s): Freie Vereinigung Schweizer Pathologen.; Schweizerische Mikrobiologische
+Gesellschaft.
+Title Abbreviation: Pathol Microbiol (Basel)
+Title(s): Pathologia et microbiologia.
+Publication Start Year: 1960
+Publication End Year: 1975
+Frequency: Monthly
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Latest Publisher: Basel : Karger
+Description: 21 v. ill.
+Language: German, English, French, English, French, German
+ISSN: 0031-2959(Print); 0031-2959(Linking)
+Coden: PAMIAD
+Fully Indexed In: MEDLINE: v28n4, 1965-v43, 1975; PubMed: v28n4, 1965-v43, 1975; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microbiology*; Pathology*
+Publication Type(s): Periodical
+Notes: Monographic supplements are issued with some volumes. Text and summaries in
+French, German, or English. Official organ of the Freie Vereinigung Schweizer
+Pathologen and the Schweizerische Mikrobiologische Gesellschaft.
+Other ID: (DNLM)P04900000(s)(OCoLC)03833444
+NLM ID: 0401122[Serial]
+
+158. Author(s): Indian Association of Pathologists.; Indian Association of Pathologists &
+Microbiologists.
+Title Abbreviation: Indian J Pathol Bacteriol
+Title(s): Indian journal of pathology & bacteriology.
+Publication Start Year: 1958
+Publication End Year: 1975
+Frequency: Quarterly
+Country of Publication: India
+Publisher: Chandigarh : Indian Association of Pathologists
+Latest Publisher: Bombay : Indian Association Of Pathologists
+Description: 18 v. ill.
+Language: English, English
+ISSN: 0019-5448(Print); 0019-5448(Linking)
+Coden: IJPBAR
+LCCN: sa 64000912, sn 82004512
+Fully Indexed In: MEDLINE: v8n4, Oct. 1965-v18, Jan. 1975; Index medicus
+In: PubMed: v8n4, Oct. 1965-v18, Jan. 1975, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteriology*; Pathology*
+Publication Type(s): Periodical
+Notes: Official publication of the Indian Association of Pathologists, 1958-72; of the
+Indian Association of Pathologists & Microbiologists, 1973-75.
+Other ID: (OCoLC)01752914(DNLM)I10000000(s)
+NLM ID: 7605903[Serial]
+
+159. Title Abbreviation: Ann Anat Pathol (Paris)
+Title(s): Annales d'anatomie pathologique.
+Publication Start Year: 1956
+Publication End Year: 1980
+Frequency: Four no. a year
+Country of Publication: France
+Publisher: Paris, Masson.
+Latest Publisher: Paris : Masson Et Cie
+Description: 25 v. : ill.
+Language: French
+ISSN: 0003-3871(Print); 0003-3871(Linking)
+Coden: ANAPA2
+Fully Indexed In: MEDLINE: v10n2,Apr./Jun. 1965-v25, 1980; PubMed: v10n2,Apr./Jun. 1965-v25, 1980; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Pathology*
+Publication Type(s): Periodical
+Notes: Issues for 1956- called also "nouvelle série."
+Other ID: (DNLM)A31455000(s)(OCoLC)01604201
+NLM ID: 0370553[Serial]
+
+160. Author(s): Zhonghua yi xue hui (China : 1949- ). Bing li xue hui.
+Title Abbreviation: Zhonghua Bing Li Xue Za Zhi
+Title(s): Zhonghua bing li xue za zhi = Chinese journal of pathology.
+Publication Start Year: 1955
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: China
+Publisher: Beijing : Zhonghua Yixuehui
+Language: Chinese, English, English
+ISSN: 0529-5807(Print); 0529-5807(Linking)
+Coden: CHPLAB
+Electronic Links: https://www.epathology.org.cn/gkmc/index.htm
+Fully Indexed In: MEDLINE: v14n1, 1985-; Index medicus
+In: PubMed: v14n1, 1985-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Also issued online. Table of contents and some abstracts also in English. Issued 
+by Zhonghua yi xue hui, Bing li xue hui.
+Other ID: (OCoLC)03131657(DNLM)C21180000(s)
+NLM ID: 0005331[Serial]
+
+161. Author(s): Pettinari,Vittorio,1901-
+Title Abbreviation: Chir Patol Sper
+Title(s): Chirurgia e patologia sperimentale.
+Publication Start Year: 1954
+Publication End Year: 1988
+Frequency: Six no. a year
+Country of Publication: Italy
+Publisher: Milano.
+Latest Publisher: Milano : Istituto Per La Diffusione Di Opere Scientifiche
+Description: v. illus.
+Language: Italian, English
+ISSN: 0009-4757(Print); 0009-4757(Linking)
+Coden: CHPAAC
+Fully Indexed In: MEDLINE: v12n10,Oct. 1964-v36, 1988; PubMed: v12n10,Oct. 1964-v36, 1988; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: General Surgery*; Pathology*
+Publication Type(s): Periodical
+Notes: Editor: 1954- V. Pettinari. Summaries in Italian, French, English, and German.
+Other ID: (DNLM)C19360000(s)(OCoLC)09327824
+NLM ID: 0372731[Serial]
+
+162. Title Abbreviation: Ergeb Allg Pathol Pathol Anat
+Title(s): Ergebnisse der allgemeinen Pathologie und pathologischen Anatomie.
+Publication Start Year: 1954
+Publication End Year: 1968
+Country of Publication: Germany
+Publisher: Berlin.
+Description: 14 v. in 12. illus.
+Language: German
+Coden: EAPPAU
+Fully Indexed In: MEDLINE: v47, 1966-v50, 1968; PubMed: v47, 1966-v50, 1968; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Other ID: (DNLM)E11880000(s)(OCoLC)09389692
+NLM ID: 0244770[Serial]
+
+163. Author(s): Semaine des hôpitaux de Paris.
+Title Abbreviation: Arch Anat Pathol (Paris)
+Title(s): Archives d'anatomie pathologique.
+Publication Start Year: 1953
+Publication End Year: 1975
+Frequency: Quarterly
+Country of Publication: France
+Publisher: Paris, L'Expansion scientifique française.
+Latest Publisher: Paris : Expansion Scientifique Francaise
+Description: 23 v. ill., ports.
+Language: French, French
+ISSN: 0003-9608(Print); 0003-9608(Linking)
+Coden: AAPSAT
+Fully Indexed In: MEDLINE: v13n2,Jun. 1965-v23, 1975; PubMed: v13n2,Jun. 1965-v23, 1975; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Pathology*
+Publication Type(s): Periodical
+Notes: Issued 1956-57 also as part of Pathologie et biologie. Memoirs and original
+articles have summaries in English, Spanish, and German. Vol. 1 preceded by a
+number dated June 30, 1952 and issued as La Semaine des hôitaux de Paris, année
+28, no 48. Issued by La Semaine des hôpitaux.
+Other ID: (DNLM)A60540000(s)(OCoLC)01482051
+NLM ID: 7609771[Serial]
+
+164. Author(s): Société française de biologie médicale.
+Title Abbreviation: Pathol Biol
+Title(s): Pathologie et biologie.
+Publication Start Year: 1953
+Publication End Year: 1968
+Frequency: Irregular
+Country of Publication: France
+Publisher: Paris, Expansion scientifique française.
+Description: 16 v. illus.
+Language: French, English
+ISSN: 
+Fully Indexed In: MEDLINE: v12n19, Oct. 1964-v16, Dec. 1968; Index medicus
+In: PubMed: v12n19, Oct. 1964-v16, Dec. 1968, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Medicine*; Pathology*
+Publication Type(s): Periodical
+Notes: Issues for 1956?-59 called Nouv. sér. At head of title, 1959-Feb. 1964: La
+Semaine des hôpitaux Issues for 1953-56 have no vol. numbering, but constitute
+v. 1-4. Summaries in English, Spanish, and German. Issued, 1953?-1958, by La
+Semaine des hôpitaux, and consisted of some numbered and some unnumbered issues 
+of the following: Annales de la recherche médicale; Archives de la Société
+française de biologie médicale (called also Archives de biologie médicale)
+and/or Archives d'anatomie pathologique (all of which were formerly published
+separately)
+Other ID: (DNLM)P04990000(s)(OCoLC)01586809
+NLM ID: 0266544[Serial]
+
+165. Author(s): Nihon Rinshō Byōri Gakkai.
+Title Abbreviation: Rinsho Byori
+Title(s): Rinsho byori. The Japanese journal of clinical pathology.
+Publication Start Year: 1953
+Publication End Year: 2020
+Frequency: Twelve no. a year
+Country of Publication: Japan
+Publisher: Tokyo.
+Latest Publisher: Tokyo : Nihon Rinsho Byori Gakkai
+Description: v. : ill.
+Language: Japanese, English
+ISSN: 0047-1860(Print); 0047-1860(Linking)
+Coden: RBYOAI
+Fully Indexed In: MEDLINE: v13n3,Mar. 1965-v65n3, Mar. 2017; PubMed: v13n3,Mar. 1965-v65n3, Mar. 2017; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Official organ of Nippon Rinsho Byori Gakkai.
+Other ID: (OCoLC)04161170(DNLM)R49140000(s)
+NLM ID: 2984781R[Serial]
+
+166. Author(s): International Academy of Pathology.; International Association of Medical
+Museums.; United States and Canadian Academy of Pathology.
+Title Abbreviation: Lab Invest
+Title(s): Laboratory investigation; a journal of technical methods and pathology.
+Publication Start Year: 1952
+Publication End Year: 
+Frequency: Monthly, <June 2005->
+Country of Publication: United States
+Publisher: Baltimore : Williams & Wilkins
+Latest Publisher: 2023- : [New York] : Elsevier Inc.
+Description: v. illus., ports.
+Language: English
+ISSN: 0023-6837(Print); 1530-0307(Electronic); 0023-6837(Linking)
+Coden: LAINAW
+LCCN: 55000219
+Electronic Links: http://www.nature.com/labinvest/index.html, https://www.sciencedirect.com/journal/laboratory-investigation
+Fully Indexed In: MEDLINE: v14n8, Oct. 1965-; Index medicus
+In: PubMed: v14n8, Oct. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Subtitle varies. Supplements accompany some issues. Also issued online. Official 
+organ of the International Association of Medical Museums, Spring 1952-Mar./Apr. 
+1955; of the International Academy of Pathology, May/June 1955--<>; of the United
+States and Canadian Academy of Pathology, <July 1992-> Vols. for Jan. 1988-
+include abstracts of papers of the Annual Meeting, United States and Canadian
+Academy of Pathology.
+Other ID: (DNLM)L01020000(s)(OCoLC)01755414
+NLM ID: 0376617[Serial]
+
+167. Author(s): Nihon Byōri Gakkai.; Nihon Byōri Gakkai., Proceedings.
+Title Abbreviation: Acta Pathol Jpn
+Title(s): Acta pathologica japonica.
+Publication Start Year: 1951
+Publication End Year: 1993
+Frequency: Monthly
+Country of Publication: Australia
+Publisher: Tokyo.
+Latest Publisher: Carlton South : Blackwell Scientific Publications
+Description: 43 v. ill.
+Language: English
+ISSN: 0001-6632(Print); 0001-6632(Linking)
+Coden: APJAAG
+Fully Indexed In: MEDLINE: v14n4,Nov. 1964-v43,Dec. 1993; PubMed: v14n4,Nov. 1964-v43,Dec. 1993; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Supplements to v. 5- contain Proceedings of the Society's special annual meeting,
+1955- . Microfilm. v. 1 (1951)-v. 4 (1954) 2 microfilm reels : negative ; 35 mm. 
+Articles in English or German. Official organ of the Japanese Pathological
+Society.
+Other ID: (DNLM)A08025000(s)(OCoLC)01460965
+NLM ID: 0372637[Serial]
+
+168. Author(s): Polskie Towarzystwo Patologów.
+Title Abbreviation: Patol Pol
+Title(s): Patologia polska.
+Publication Start Year: 1950
+Publication End Year: 1993
+Frequency: Quarterly
+Country of Publication: Poland
+Publisher: Warszawa.
+Latest Publisher: Warszawa : Panstwowy Zaklad Wydawnictw Lekarskich
+Description: 44 v. illus.
+Language: English, Polish, English, French, Russian
+ISSN: 0031-3114(Print); 0031-3114(Linking)
+Coden: PAPOAC
+Fully Indexed In: MEDLINE: v16n2,Apr.-Jun. 1965-v44, 1993; PubMed: v16n2,Apr.-Jun. 1965-v44, 1993; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Supplements accompany some numbers. Articles in Polish with summaries in Polish, 
+Russian, and English or French, 1950- ; articles chiefly in English with some
+Polish, 19?? -1993. Journal of the Polskie Towarzystwo Patologów, 1978?-1993.
+Other ID: (DNLM)P05480000(s)(OCoLC)06523000
+NLM ID: 0404244[Serial]
+
+169. Title Abbreviation: Veroff Morphol Pathol
+Title(s): Veröffentlichungen aus der morphologischen Pathologie.
+Publication Start Year: 1950
+Publication End Year: 1974
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Stuttgart [etc.] Fischer.
+Description: 39 no. illus.
+Language: German, English, German
+ISSN: 0372-6312(Print); 0372-6312(Linking)
+Coden: VMPAAI
+Fully Indexed In: MEDLINE: v71, 1966-v94, 1974; PubMed: v71, 1966-v94, 1974; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Issues for 1950-55 numbered also as 12. Bd., Heft 5-13, Bd., Heft 4. Suspended
+1945-1949. Summaries in English in later vols.
+Other ID: (DNLM)V03220000(s)(OCoLC)01283558
+NLM ID: 7503946[Serial]
+
+170. Title Abbreviation: Riv Anat Patol Oncol
+Title(s): Rivista di anatomia patologica e di oncologia.
+Publication Start Year: 1948
+Publication End Year: 1991
+Frequency: Three no. a year
+Country of Publication: Italy
+Publisher: Parma, Maccari.
+Latest Publisher: Padua : Istituto Di Anatomia E Istologia Patologica
+Description: v. illus.
+Language: Italian
+ISSN: 0048-8364(Print); 0048-8364(Linking)
+Coden: RAPOAY
+Fully Indexed In: MEDLINE: v25n6,Jun. 1964-v36n1, Jan./Apr. 1970; PubMed: v25n6,Jun. 1964-v36n1, Jan./Apr. 1970; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neoplasms*; Pathology*
+Publication Type(s): Periodical
+Other ID: (DNLM)R50140000(s)(OCoLC)01778167
+NLM ID: 0404350[Serial]
+
+171. Author(s): Deutsche Gesellschaft für Pathologie.
+Title Abbreviation: Verh Dtsch Ges Pathol
+Title(s): Verhandlungen der Deutschen Gesellschaft für Pathologie.
+Publication Start Year: 1948
+Publication End Year: 2007
+Frequency: Annual
+Country of Publication: Germany
+Publisher: Stuttgart, Fischer.
+Description: v. illus.
+Language: German, English
+ISSN: 0070-4113(Print); 0070-4113(Linking)
+Coden: VDGPAN
+Fully Indexed In: MEDLINE: v49, 1965-v91, 2007; PubMed: v49, 1965-v91, 2007; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Notes: Indexes: Generalregister; --26.-37. Tagung, 1931-53. 1 v.
+Other ID: (DNLM)V02100000(s)(OCoLC)01148768
+NLM ID: 7503704[Serial]
+
+172. Author(s): Association of Clinical Pathologists (Great Britain); British Medical
+Association.
+Title Abbreviation: J Clin Pathol
+Title(s): Journal of clinical pathology.
+Publication Start Year: 1947
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London : British Medical Association
+Latest Publisher: London : BMJ Pub. Group
+Description: v. illus.
+Language: English
+ISSN: 0021-9746(Print); 1472-4146(Electronic); 0021-9746(Linking)
+Coden: JCPAAK
+LCCN: sn 80001294
+Electronic Links: http://jcp.bmj.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=0376601
+Fully Indexed In: MEDLINE: v18n4, Sept. 1965-; Abridged index medicus; Index medicus
+In: PubMed: v1, 1947-, OLDMEDLINE, PMC Inactive; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Pathology, Clinical*
+Publication Type(s): Periodical
+Notes: At head of title, 1995-: JCP. "Edited for the Association of Clinical
+Pathologists." Preliminary number dated July 1945. Also issued online. Microfilm.
+v. 1 (1947)-9 (1956). 3 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)J16880000(s)(OCoLC)01680973
+NLM ID: 0376601[Serial]
+
+173. Title Abbreviation: Rev Belg Pathol Med Exp
+Title(s): Revue belge de pathologie et de médecine expérimentale.
+Publication Start Year: 1947
+Publication End Year: 1965
+Frequency: Bimonthly
+Country of Publication: Belgium
+Publisher: Bruxelles, Editions "Acta medica Belgica."
+Description: v. ill., ports.
+Language: French
+ISSN: 0370-3770(Print); 0370-3770(Linking)
+Coden: RBPMAZ
+Fully Indexed In: MEDLINE: 1965; PubMed: 1965; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Other ID: (DNLM)R41640000(s)(OCoLC)01585670
+NLM ID: 20320140R[Serial]
+
+174. Title Abbreviation: Arch Maragliano Patol Clin
+Title(s): Archivio "E. Maragliano" di patologia e clinica.
+Publication Start Year: 1946
+Publication End Year: 1980
+Frequency: Bimonthly
+Country of Publication: Italy
+Publisher: Genova, Istituto scientifico di medicina interna
+Description: v. ill., ports.
+Language: Italian
+ISSN: 0004-0193(Print); 0004-0193(Linking)
+Coden: AMPCAV
+LCCN: sn 86013223
+Fully Indexed In: MEDLINE: v22n1,Feb. 1966-v36, 1980; PubMed: v22n1,Feb. 1966-v36, 1980; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Medicine; Pathology*
+Publication Type(s): Periodical
+Notes: Microfilm. v. 1 (1946)-5 (1950). 5 microfilm reels : negative ; 35 mm.
+Other ID: (OCoLC)01513915(DNLM)A62400000(s)
+NLM ID: 2985161R[Serial]
+
+175. Author(s): Akademii︠a︡ medit︠s︡inskikh nauk SSSR.
+Title Abbreviation: Arkh Patol
+Title(s): Arkhiv patologii.
+Publication Start Year: 1946
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Medicina
+Latest Publisher: Moskva : Media Sfera
+Description: v. illus., ports.
+Language: Russian, English
+ISSN: 0004-1955(Print); 2309-1266(Electronic); 0004-1955(Linking)
+Coden: ARPTAF
+Electronic Links: https://www.mediasphera.ru/journal/arkhiv-patologii, https://dlib.eastview.com/browse/publication/117550
+Fully Indexed In: MEDLINE: v27n6, 1965-; Index medicus
+In: PubMed: v27n6, 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: At head of title: Akademiia meditsinskikh nauk. Publication suspended 1942-45.
+Also issued online
+Other ID: (DNLM)A65910000(s)(OCoLC)01778647
+NLM ID: 0370604[Serial]
+
+176. Author(s): University of Texas Medical Branch at Galveston.
+Title Abbreviation: Tex Rep Biol Med
+Title(s): Texas reports on biology and medicine.
+Publication Start Year: 1943
+Publication End Year: 1982
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Galveston.
+Latest Publisher: Galveston Tx : University Of Texas
+Description: 41 v. : ill., ports.
+Language: English
+ISSN: 0040-4675(Print); 0040-4675(Linking)
+Coden: TRBMAV
+Fully Indexed In: MEDLINE: v22,Dec. suppl., 1964-v41,1981/1982; PubMed: v22,Dec. suppl., 1964-v41,1981/1982; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Medicine
+Publication Type(s): Periodical
+Notes: Monographic supplements accompany some issues. Issued by the University of Texas 
+Medical Branch, Galveston. Indexes: Vols. 1-10, 1943-52, with v. 10.
+Other ID: (DNLM)T07040000(s)(OCoLC)01714841
+NLM ID: 2984820R[Serial]
+
+177. Author(s): American Association of Neuropathologists.
+Title Abbreviation: J Neuropathol Exp Neurol
+Title(s): Journal of neuropathology and experimental neurology.
+Publication Start Year: 1942
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Lawrence, Ks : Association of the journal of neuropathology and experimental
+neurology
+Latest Publisher: 2016- : Oxford, England : Oxford University Press
+Description: v. ill.
+Language: English
+ISSN: 0022-3069(Print); 1554-6578(Electronic); 0022-3069(Linking)
+Coden: JNENAD
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00005072-000000000-00000, https://academic.oup.com/jnen
+Fully Indexed In: MEDLINE: v24n4, Oct. 1965-; Index medicus
+In: PubMed: v24n4, Oct. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System Diseases*; Neurology; Pathology
+Publication Type(s): Periodical
+Notes: Also issued online. Indexes: Vols. 1-15, 1942-56, in v. 16.
+Other ID: (DNLM)J31100000(s)(OCoLC)01754695
+NLM ID: 2985192R[Serial]
+
+178. Author(s): Università degli studi di Perugia. Istituto di anatomia e istologia patologica.
+Title Abbreviation: Lav Ist Anat Istol Patol Univ Studi Perugia
+Title(s): Lavori dell'Istituto di anatomia e istologia patologica, Università degli studi 
+di Perugia.
+Publication Start Year: 1940
+Publication End Year: 1978
+Frequency: Three no. a year
+Country of Publication: Italy
+Publisher: Perugia [1940-1978]
+Latest Publisher: Perugia : Universita Di Perugia. Istituto Di Anatomia E Istologia Patologica
+Description: v. illus.
+Language: Italian, English
+ISSN: 0041-8943(Print)
+Coden: LAPPA5
+Fully Indexed In: MEDLINE: v25n1, 1965-1978; PubMed: v25n1, 1965-1978; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Some issues have monographic supplements. Microfilm. v. 1 (1940)-16 (1956). 4
+microfilm reels : negative ; 35 mm. Summaries in English.
+Other ID: (DNLM)L03060000(s)(OCoLC)01778344
+NLM ID: 7505645[Serial]
+
+179. Author(s): Severi,Lucio
+Title Abbreviation: Arch De Vecchi Anat Patol
+Title(s): Archivio "de Vecchi" per l'anatomia patologica e la medicina clinica.
+Publication Start Year: 1938
+Publication End Year: 1983
+Frequency: Three no. a year
+Country of Publication: Italy
+Publisher: Firenze [etc.]
+Latest Publisher: Firenze : Edizioni Riviste Mediche
+Description: v. illus., ports.
+Language: Italian
+ISSN: 0004-0061(Print); 0004-0061(Linking)
+Coden: AVAPAO
+Fully Indexed In: MEDLINE: v44n3,Dec. 1964-v65, 1983; PubMed: v44n3,Dec. 1964-v65, 1983; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Pathology*
+Publication Type(s): Periodical
+Notes: Editor: 1938- L. Severi. Indexes: Vols. 1-20, 1938/39-53/54 (Issued as v. 21) 1
+v.
+Other ID: (DNLM)A63150000(s)(OCoLC)01513914
+NLM ID: 0372455[Serial]
+
+180. Author(s): American Society of Clinical Pathologists.
+Title Abbreviation: Am J Clin Pathol
+Title(s): American journal of clinical pathology.
+Publication Start Year: 1931
+Publication End Year: 
+Frequency: Monthly, 1940-
+Country of Publication: England
+Publisher: Philadelphia [etc.] Lippincott [etc.]
+Latest Publisher: 2016- : Oxford : Oxford University Press
+Description: v. ill., ports.
+Language: English, English, 
+ISSN: 0002-9173(Print); 1943-7722(Electronic); 0002-9173(Linking)
+Coden: AJCPAI
+LCCN: sg 37000054
+Electronic Links: https://academic.oup.com/ajcp
+Fully Indexed In: MEDLINE: v44n4, Oct. 1965-; Abridged index medicus; Index medicus
+In: PubMed: v44n4, Oct. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Clinical Laboratory Techniques*; Pathology*
+Publication Type(s): Periodical
+Notes: Issues for Aug. 1998- have title: AJCP. Vols. for 1974- include one suppl. each
+year called: College of American Pathologists Survey. Supplements accompany some 
+numbers. Two issues a year, 1989-1999?, have supplement with title: Pathology
+patterns; <May 2000- Dec. 2006> have title: Pathology patterns reviews. Also
+issued online. Articles in English; summaries in Interlingua, Jan. 1956-Sept.
+1964, in English Oct. 1964- . Official publication of the American Society of
+Clinical Pathologists. Indexes: Vols. 1-20, 1931-50, in v. 20.
+Other ID: (OCoLC)01480128(DNLM)A24015000(s)
+NLM ID: 0370470[Serial]
+
+181. Author(s): Ospedale psichiatrico provinciale di Ferrara.
+Title Abbreviation: G Psichiatr Neuropatol
+Title(s): Giornale di psichiatria e di neuropatologia.
+Publication Start Year: 1931
+Publication End Year: 1970
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Ferrara [s.n.]
+Latest Publisher: Ferrara : S.N
+Description: 40 v. ill., ports.
+Language: Italian, English, Multiple languages
+ISSN: 0017-0399(Print); 0017-0399(Linking)
+Coden: GPNEAC
+Fully Indexed In: MEDLINE: v93n2, 1965-v98, 1970; PubMed: v93n2, 1965-v98, 1970; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neurology*; Pathology*; Psychiatry*
+Publication Type(s): Periodical
+Notes: Supplements accompany some numbers. Microfilm. v. 59 (1931)-82 (1954). 8
+microfilm reels : negative ; 35 mm. Articles in Italian; tables of contents and
+summaries in French, English, German, and Italian. Issued by the Ospedale
+psichiatrico provinciale di Ferrara.
+Other ID: (DNLM)G09000000(s)(OCoLC)07484632
+NLM ID: 0404427[Serial]
+
+182. Title Abbreviation: Arch Ital Anat Istol Patol
+Title(s): Archivio italiano di anatomia e istologia patologica.
+Publication Start Year: 1930
+Publication End Year: 1974
+Frequency: Bimonthly
+Country of Publication: Italy
+Publisher: [Bologna, etc.] Cappelli Editore.
+Latest Publisher: Bologna, Etc : Cappelli Editore
+Description: 45 v. ill., ports.
+Language: Italian, English, French, German
+ISSN: 0004-0231(Print); 0004-0231(Linking)
+Coden: AIAIAE
+Fully Indexed In: MEDLINE: v39n4, 1965-v43n5, 1970; PubMed: v39n4, 1965-v43n5, 1970; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Pathology*
+Publication Type(s): Periodical
+Notes: Supplements accompany some volumes. Summaries in English, French, and German.
+Other ID: (DNLM)A62535000(s)(OCoLC)01513922
+NLM ID: 0372443[Serial]
+
+183. Author(s): Institutul de Microbiologie, Parazitologie şi Epidemiologie "Dr. I.
+Cantacuzino"; Institutul de Seruri şi Vaccinuri "Dr. I. Cantacuzino"
+Title Abbreviation: Arch Roum Pathol Exp Microbiol
+Title(s): Archives roumaines de pathologie expérimentales et de microbiologie.
+Publication Start Year: 1928
+Publication End Year: 1990
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucureşti [etc.]
+Latest Publisher: Bucuresti : Editura Medicala
+Description: 49 v. : ill., ports.
+Language: French, English
+ISSN: 0004-0037(Print); 0004-0037(Linking)
+Coden: APEMAR
+Fully Indexed In: MEDLINE: v23n1,Mar. 1964-v49,Oct.-Dec. 1990; PubMed: v23n1,Mar. 1964-v49,Oct.-Dec. 1990; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microbiology*; Pathology*
+Publication Type(s): Periodical
+Notes: Publication suspended 1939-41 and 1949-56. Some articles in English; some
+summaries in English, German, or Russian. Issued 1928-48 by Institut de
+sérologie "Dr. I. Cantacuzino;" 1957- by Institutul de Microbiologie,
+Parazitologie şi Epidemiologie "Dr. I. Cantacuzino."
+Other ID: (DNLM)A62010000(s)(OCoLC)01513901
+NLM ID: 0421056[Serial]
+
+184. Author(s): American Association of Pathologists.; American Association of Pathologists and
+Bacteriologists.; American Society for Experimental Pathology.; American Society 
+for Investigative Pathology.
+Title Abbreviation: Am J Pathol
+Title(s): The American journal of pathology.
+Publication Start Year: 1925
+Publication End Year: 
+Frequency: Monthly, <June 1976->
+Country of Publication: United States
+Publisher: Philadelphia [etc.] American Assn. of Pathologists [etc.]
+Latest Publisher: 2011-: New York : Elsevier
+Description: v. ill.
+Language: English
+ISSN: 0002-9440(Print); 1525-2191(Electronic); 0002-9440(Linking)
+Coden: AJPAA4
+LCCN: 27010042
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0370502, https://www.sciencedirect.com/journal/the-american-journal-of-pathology
+Fully Indexed In: MEDLINE: v44n4,Apr. 1964-; Abridged index medicus; Index medicus
+In: PubMed: v1n1,Jan. 1925-, OLDMEDLINE, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Issues for 1989- also known as: AJP. Available also online. Microfilm. v. 1
+(1935)-34 (1958), v. 35, pgs. 721-1274 (1959)-41 (1962). 52 microfilm reels :
+negative ; 35 mm. Official publication of the American Association of
+Pathologists and Bacteriologists, 1925-June 1976; the American Society for
+Experimental Pathology, 1970-June 1976; the American Association of Pathologists,
+July 1976-1992; the American Society for Investigative Pathology, 1993- Indexes: 
+Vols. 1-20, 1925-44, with v. 20; Vols. 41-60, July 1962-Sept. 1970. 1 v; Vols.
+61-80, Oct. 1970-Sept. 1975. 1 v.
+Other ID: (DNLM)A24630000(s)(OCoLC)01479398
+NLM ID: 0370502[Serial]
+
+185. Author(s): Instituto Português de Oncologia.
+Title Abbreviation: Arq Patol
+Title(s): Arquivo de patologia.
+Publication Start Year: 1925
+Publication End Year: 1975
+Frequency: Three no. a year
+Country of Publication: Portugal
+Publisher: Lisboa : Instituto Portuguese De Oncologia
+Description: v. illus., ports.
+Language: Portuguese, English
+ISSN: 0004-2714(Print); 0004-2714(Linking)
+Coden: APALA4
+Fully Indexed In: MEDLINE: v37n1,Apr. 1965-v47, 1975; PubMed: v37n1,Apr. 1965-v47, 1975; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neoplasms*; Pathology*
+Publication Type(s): Periodical
+Notes: Text in Portuguese, French, English, German, Italian, or Spanish, with summaries 
+in one or more of those languages. Organ of the Instituto Português de
+Oncologia.
+Other ID: (DNLM)A66240000(s)(OCoLC)30309101
+NLM ID: 0376530[Serial]
+
+186. Title Abbreviation: Acta Pathol Microbiol Scand
+Title(s): Acta pathologica et microbiologica Scandinavica.
+Publication Start Year: 1924
+Publication End Year: 1969
+Country of Publication: Denmark
+Publisher: Copenhagen, Munksgaard.
+Description: 77 v. illus.,ports.
+Language: English, French, German, English, French, German
+ISSN: 0365-5555(Print); 0365-5555(Linking)
+Coden: APMIAL
+Fully Indexed In: MEDLINE: 1963-1969; PubMed: 1963-1969; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microbiology*; Pathology
+Publication Type(s): Periodical
+Notes: Microfilm. v. 1 (1924)-v. 56 (1962), suppl. (1926,1927,1929), gen. index v. 1-22 
+(1923-1945) 30 microfilm reels : negative ; 35 mm. Articles and summaries mainly 
+in English, with some in French or German. Continued by the same title issued in 
+two separate sections: Section A, Pathology and Section B, Microbiology and
+immunology. Indexes: Vols. 1-22, 1923-1945, with v. 19.
+Other ID: (DNLM)A08040000(s)(OCoLC)01460961
+NLM ID: 7508471[Serial]
+
+187. Title Abbreviation: Arch Patol Clin Med
+Title(s): Archivio di patologia e clinica medica.
+Publication Start Year: 1921
+Publication End Year: 1971
+Frequency: Six no. a year
+Country of Publication: Italy
+Publisher: Bologna : Casa Editrice Licinio Cappelli
+Description: v. illus.
+Language: Italian
+ISSN: 0004-0142(Print); 0004-0142(Linking)
+Coden: APCMAH
+Fully Indexed In: MEDLINE: v41n6,Jun. 1965-v46n5,Jan. 1971; PubMed: v41n6,Jun. 1965-v46n5,Jan. 1971; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Pathology*
+Publication Type(s): Periodical
+Notes: Publication suspended 1944-45. Microfilm. v. 1 (1921)-15 (1935). 8 microfilm
+reels : negative ; 35 mm.
+Other ID: (DNLM)A62925000(s)(OCoLC)01513910
+NLM ID: 0372450[Serial]
+
+188. Title Abbreviation: Br J Exp Pathol
+Title(s): British journal of experimental pathology.
+Publication Start Year: 1920
+Publication End Year: 1989
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: London.
+Latest Publisher: Oxford : Blackwell
+Description: 70 v. illus., ports.
+Language: English
+ISSN: 0007-1021(Print); 0007-1021(Linking)
+Coden: BJEPA5
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0372543
+Fully Indexed In: MEDLINE: v46n3,Jun. 1965-v70n6,Dec. 1989; PubMed: v1n1,Feb. 1920-v70n6,Dec. 1989; Index medicus
+In: OLDMEDLINE, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Part of title on microfilm. Library holds conservation treatment slides Also
+issued online. Microfilm. 1 microfilm reel : negative ; 35 mm.
+Other ID: (DNLM)B34700000(s)(OCoLC)01537285
+NLM ID: 0372543[Serial]
+
+189. Title Abbreviation: Nihon Byori Gakkai Kaishi
+Title(s): Nihon Byori Gakkai kaishi.
+Publication Start Year: 1911
+Publication End Year: 
+Frequency: Two no. a year
+Country of Publication: Japan
+Publisher: Tokyo : Japanese Pathological Society
+Description: v. illus., ports.
+Language: Japanese, English
+ISSN: 0300-9181(Print); 0300-9181(Linking)
+Coden: NIBKAW
+Fully Indexed In: MEDLINE: v54, 1965-v57, 1968; PubMed: v54, 1965-v57, 1968; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Publication suspended 1945. Issues for 1911-16 called also Verhandlungen der
+Japanischen Pathologischen Gesellschaft; 1927-32, Transactions of the Japanese
+Pathological Society; 1933- Transactiones Societatis Pathologicae Japonicae. Text
+in Japanese, English, and German, 1927-54. Summaries in German, 1911-16; some
+summaries in English, 1955-
+Other ID: (OCoLC)01378545(DNLM)N24420000(s)
+NLM ID: 0420136[Serial]
+
+190. Title Abbreviation: Pathologica
+Title(s): Pathologica.
+Publication Start Year: 1908
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Italy
+Publisher: Genova : [s.n.]
+Latest Publisher: <2007-> : Ospedaletto, Psia : Pacini Editore SpA
+Description: v. illus.
+Language: Italian, English
+ISSN: 0031-2983(Print); 1591-951X(Electronic); 0031-2983(Linking)
+Coden: PATHAB
+Electronic Links: http://www.pathologica.it/, https://pmc.ncbi.nlm.nih.gov/journals/?term=0401123
+Fully Indexed In: MEDLINE: v57n845,Jan.-Feb. 1965-; PubMed: v57n845,Jan.-Feb. 1965-; Index medicus
+In: OLDMEDLINE, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 108 (2016). Also issued online. Microfilm. v. 1
+(1908)-v.54 (1962). 36 microfilm reels : negative ; 35 mm. Text in Italian.
+Other ID: (DNLM)P04940000(s)(OCoLC)01681013
+NLM ID: 0401123[Serial]
+
+191. Title Abbreviation: Frankf Z Pathol
+Title(s): Frankfurter Zeitschrift für Pathologie.
+Publication Start Year: 1907
+Publication End Year: 1967
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: München, Bergmann.
+Description: 77 v. : ill., ports.
+Language: German
+ISSN: 0367-3480(Print); 0367-3480(Linking)
+Coden: FZPAAZ
+Fully Indexed In: MEDLINE: v74n5, 1965-v77, 1967; Index medicus
+In: PubMed: v74n5, 1965-v77, 1967, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Publication suspended Sept. 1944-Aug. 1947. Indexes: Vols. 1-25, 1907-21, with v.
+25; Vols. 26-30, 1922-24, with v. 32; Vols. 36-40, 1928-30, with v. 40; Vols.
+41-45, 1931-33, with v. 46; Vols. 46-50, 1934-37, with v. 50; Vols. 51-60,
+1938-49, with v. 60; Vols. 61-65, 1949-54, with v. 65; Vols. 66-70, 1955-60, with
+v. 71; Vols. 71-75, 1961-66, with v. 76.
+Other ID: (DNLM)F13500000(s)(OCoLC)01570084
+NLM ID: 0151576[Serial]
+
+192. Title Abbreviation: Virchows Arch Pathol Anat Physiol Klin Med
+Title(s): Virchows Archiv für pathologische Anatomie und Physiologie und für klinische
+Medizin.
+Publication Start Year: 1903
+Publication End Year: 1968
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer.
+Description: 173 v. ill.
+Language: English, German, English
+ISSN: 0376-0081(Print); 0376-0081(Linking)
+Coden: APAVAY
+LCCN: sc 82004185, sn 81004018
+Fully Indexed In: MEDLINE: v339n3, 1965-v343, Apr. 1968; Index medicus
+In: PubMed: v339n3, 1965-v343, Apr. 1968, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Pathology; Physiology
+Publication Type(s): Periodical
+Notes: Bd. 221-250, 1916-24. 1 v. Bd. 251-270, 1924-29. 1 v. Bd. 271-300, 1929-37, with 
+Bd. 301. Bd. 301-325, 1937-54. 1 v. Bd. 326-343, 1954-68 with Bd. 343. Issues for
+Jan. 1903-June 1910 numbered also as volumes of Folge 17-19. Microfilm. v. 171
+(1903)-v. 179 (1905), v. 181 (1905)-v. 248 (1923), v. 250 (1924)-v. 284 (1932),
+v. 306(1940), v. 309 (1942). 1973. microfilm reels : negative ; 35 nm Articles in
+English or German with summaries in English.
+Other ID: (DNLM)SR0006705(s)(OCoLC)01645130
+NLM ID: 0217007[Serial]
+
+193. Author(s): Pathological Society of Great Britain and Ireland.
+Title Abbreviation: J Pathol Bacteriol
+Title(s): The Journal of pathology and bacteriology.
+Publication Start Year: 1892
+Publication End Year: 1968
+Frequency: Irregular
+Country of Publication: England
+Publisher: London : Oliver And Boyd
+Description: 96 v. in illus., ports.
+Language: English
+ISSN: 0368-3494(Print); 1555-2039(Electronic); 0368-3494(Linking)
+Coden: JPBAA7
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9896
+Fully Indexed In: MEDLINE: v90n1, Jul. 1965-v96, Oct. 1968; Index medicus
+In: PubMed: v90n1, Jul. 1965-v96, Oct. 1968, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteriology*; Pathology*
+Publication Type(s): Periodical
+Notes: Includes index to v. 1-25, 1892-1922. Also issued online. Microfilm. v.1
+(1892)-v.25 (1922)+gen. index v.1-25 (1892-1922), v.26 (1923)-v.70 (1955). 80
+microfilm reels : negative ; 35 mm. Official journal of the Pathological Society 
+of Great Britain and Ireland, Oct. 1907-Oct. 1968.
+Other ID: (DNLM)J33900000(s)(OCoLC)01608344
+NLM ID: 0204750[Serial]
+
+194. Author(s): Deutsche Pathologische Gesellschaft.; Gesellschaft für Pathologie der DDR.;
+Gesellschaft für Neuropathologie der DDR.
+Title Abbreviation: Zentralbl Allg Pathol
+Title(s): Zentralblatt für allgemeine Pathologie u. pathologische Anatomie.
+Publication Start Year: 1890
+Publication End Year: 1990
+Frequency: 8 no. a year, <1988>-1990
+Country of Publication: Germany
+Publisher: Jena : G. Fischer, -1990.
+Description: 136 v. : ill. (some col.) ; 22-25 cm.
+Language: German, English
+ISSN: 0044-4030(Print); 0044-4030(Linking)
+Coden: ZAPPAN
+LCCN: 66054519, sn 91034801, sn 91034800
+Fully Indexed In: MEDLINE: v107n1,Feb. 27, 1965-v136, 1990; Index medicus
+In: PubMed: v107n1,Feb. 27, 1965-v136, 1990, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Pathology*
+Publication Type(s): AbstractsPeriodical
+Notes: "General pathology, pathological anatomy," <1973>-1990. Issues for 1890-Jan. 1937
+have title: Centralblatt für allgemeine Pathologie und pathologische Anatomie.
+Issues for Nov.? 1928-Jan. 1937 include separately paged section entitled:
+Literatur. Publication suspended Mar. 1945-May 1947. Microfilm. v. 2 (1891)-31
+(1920), v. 33 (1922)-35 (1925), v. 37 (1926)-49 (1930), v. 52 (1931)-54 (1932),
+v. 56 (1932)-57 (1933), v. 59 (1933/1934), v. 61 (1934)-74 (1939), v. 77
+(1939)-104 (1963) + General Register v. 1 (1890)-20 (1909). 87 microfilm reels : 
+negative ; 35 mm. In German; abstracts in English. Official organ of: Deutsche
+Pathologische Gesellschaft, 1904-<1948> Issued by: Gesellschaft für Pathologie
+der DDR, and: Gesellschaft für Neuropathologie der DDR, Bd. 118-Bd. 136, Heft 4,
+published 1974-1990. Indexes: Vols. 1 (1890)-20 (1909). 1 v.
+Other ID: (DNLM)Z06540000(s)(OCoLC)1770577
+NLM ID: 9105593[Serial]
+
+195. Title Abbreviation: Beitr Pathol Anat
+Title(s): Beiträge zur pathologischen Anatomie und zur allgemeinen Pathologie.
+Publication Start Year: 1886
+Publication End Year: 1969
+Frequency: Eight no. a year
+Country of Publication: Germany
+Publisher: Stuttgart, Fischer.
+Latest Publisher: Stuttgart : Gustav Fischer Verlag
+Description: 140 v. illus.
+Language: German
+ISSN: 0366-2446(Print); 0366-2446(Linking)
+Coden: BPAAAG
+Fully Indexed In: MEDLINE: v131n2,Mar. 1965-v140, 1969; PubMed: v131n2,Mar. 1965-v140, 1969; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Pathology
+Publication Type(s): Periodical
+Notes: Issues for 1886-1887/88 have title: Beiträge zur pathologischen Anatomie und
+Physiologie. Publication suspended Oct. 1944-Nov. 1947, 1948. Vols. 51-100,
+1911-1937/38. 1 v. Bound with v. 26 is its Supplement 3. Microfilm.
+v.1(1886)-20(1896). 11 microfilm reels : negative ; 35 mm. Indexes: Vols. 1-10,
+1886-91, in v. 10; Vols. 11-20, 1892-96, in v. 20; Vols. 21-30, 1897-1901, in v. 
+30; Vols. 31-40, 1902-06, in v. 40; Vols. 41-50, 1907-11, in v. 50.
+Other ID: (DNLM)B03600000(s)(OCoLC)50374464
+NLM ID: 0264677[Serial]
+
+196. Author(s): Accademia medico-fisica fiorentina.; Università di Firenze.
+Title Abbreviation: Sperimentale
+Title(s): Lo sperimentale.
+Publication Start Year: 1858
+Publication End Year: 1971
+Frequency: Bimonthly
+Country of Publication: Italy
+Publisher: Firenze.
+Latest Publisher: Florence : Universita degli studi di Firenze
+Description: v. ill.
+Language: Italian
+ISSN: 0038-7355(Print); 0038-7355(Linking)
+Coden: SPERA2
+Fully Indexed In: MEDLINE: Sept.-Oct. 1965-1971; PubMed: Sept.-Oct. 1965-1971; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Medicine*
+Publication Type(s): Periodical
+Notes: Vols. for 1891-1893 issued in two sections: Memorie originali, and: Comunicazioni
+e riviste; 1894-1895: Sezione clinica, and: Sezione biologica. Vols. for 1858-69 
+called ser. 4; 1858-90 called also t. 1-66. Microfilm. ser. 4: v. 1 (1858)-66
+(1890); v. 45 (1891)-v. 112 (1962). 103 microfilm reels : negative ; 35 mm. Organ
+of the Accademia medico-fisica fiorentina, 1892- ; issued 1933- by the University
+of Florence.
+Other ID: (DNLM)S35680000(s)(OCoLC)01716895
+NLM ID: 0413755[Serial]
+

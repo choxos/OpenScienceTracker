@@ -1,0 +1,269 @@
+1. Author(s): Zhongguo shi yan dong wu xue hui,
+Title Abbreviation: Animal Model Exp Med
+Title(s): Animal models and experimental medicine.
+Publication Start Year: 2018
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Hoboken, New Jersey] : John Wiley & Sons, Inc., [2018]-
+Description: 1 online resource
+Language: English
+ISSN: 2576-2095(Electronic); 2096-5451(Print); 2576-2095(Linking)
+LCCN: 2017203367
+Electronic Links: https://onlinelibrary.wiley.com/loi/25762095, https://pmc.ncbi.nlm.nih.gov/journals/?term=101726292
+Fully Indexed In: MEDLINE: v4n1, Mar. 2021-
+In: PubMed: v1n1, Mar. 2018-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animal Welfare; Animals, Laboratory; Disease Models, Animal*; Laboratory Animal Science*; Veterinary Medicine
+Publication Type(s): Periodical
+Other ID: (OCoLC)1014122466
+NLM ID: 101726292[Serial]
+
+2. Title Abbreviation: Curr Protoc Mouse Biol
+Title(s): Current protocols in mouse biology.
+Publication Start Year: 2011
+Publication End Year: 2020
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons
+Language: English
+ISSN: 2161-2617(Electronic); 2161-2617(Linking)
+LCCN: 2011200658
+Electronic Links: http://onlinelibrary.wiley.com/book/10.1002/9780470942390
+Fully Indexed In: MEDLINE: v4n1, 2014-v10n4, Dec. 2020
+In: PubMed: v4n1, 2014-v10n4, Dec. 2020 ; selected citations only before this date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animals, Laboratory; Mice*; Research
+Other ID: (OCoLC)720033467
+NLM ID: 101560384[Serial]
+
+3. Author(s): American Association for Laboratory Animal Science.
+Title Abbreviation: J Am Assoc Lab Anim Sci
+Title(s): Journal of the American Association for Laboratory Animal Science : JAALAS.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Memphis, TN : American Association for Laboratory Animal Science, [2006]-
+Description: v. : ill.
+Language: English
+ISSN: 1559-6109(Print); 2769-6677(Electronic); 1559-6109(Linking)
+LCCN: 2006212740
+Electronic Links: http://www.ingentaconnect.com/content/aalas/jaalas, https://pmc.ncbi.nlm.nih.gov/journals/?term=101269489
+In: PMC; 
+Selectively Indexed in: MEDLINEv45n1, Jan. 2006-PubMedv45n1, Jan. 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animals, Laboratory*; Laboratory Animal Science
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)62944195
+NLM ID: 101269489[Serial]
+
+4. Author(s): American Association for Laboratory Animal Science.
+Title Abbreviation: Comp Med
+Title(s): Comparative medicine.
+Publication Start Year: 2000
+Publication End Year: 2024
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Memphis, TN : American Association for Laboratory Animal Science, 2000-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1532-0820(Print); 2769-819X(Electronic); 1532-0820(Linking)
+Coden: COMEFT
+LCCN: 00229995
+Electronic Links: http://www.ingentaconnect.com/content/aalas/cm, https://pmc.ncbi.nlm.nih.gov/journals/?term=100900466
+Fully Indexed In: MEDLINE: v50n1, Feb. 2000-v74n6, 2024; Index medicus
+In: PubMed: v50n1, Feb. 2000-v74n6, 2024, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animals, Laboratory*; Laboratory Animal Science; Research
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official publication of the American
+Association for Laboratory Animal Science.
+Other ID: (OCoLC)43491793
+NLM ID: 100900466[Serial]
+
+5. Author(s): Nihon Jikken Dōbutsu Kenkyūkai.
+Title Abbreviation: Exp Anim
+Title(s): Experimental animals/ Japanese Association for Laboratory Animal Science.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Quarterly, with annual supplement, 2001-
+Country of Publication: Japan
+Publisher: Tokyo : Japanese Association for Laboratory Animal Science
+Description: v. : ill.
+Language: English
+ISSN: 1341-1357(Print); 1881-7122(Electronic); 0007-5124(Linking)
+Coden: JIDOAA
+LCCN: sn 96039206
+Electronic Links: http://bibpurl.oclc.org/web/7129, https://www.jstage.jst.go.jp/browse/expanim/, https://pmc.ncbi.nlm.nih.gov/journals/?term=9604830
+Fully Indexed In: MEDLINE: v44n1,Jan. 1995-; PubMed: v44n1,Jan. 1995-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animal Welfare*; Animals, Laboratory*
+Publication Type(s): Periodical
+Notes: Title from cover. Includes separately paginated section entitled: Jikken
+dōbutusu nyūsu. Print issues ceased with v. 68, no. 4 (Oct. 2019). Beginning
+with 2011, no. 3 of each vol. is only available online. Supplement published
+April of every year with title: ... Annual Meeting of the Japanese Association
+for Laboratory Animal Science. Also issued online.
+Other ID: (DNLM)SR0088123(s)(OCoLC)34525494
+NLM ID: 9604830[Serial]
+
+6. Author(s): Institute of Laboratory Animal Resources (U.S.)
+Title Abbreviation: ILAR J
+Title(s): ILAR journal/ National Research Council, Institute of Laboratory Animal
+Resources.
+Publication Start Year: 1995
+Publication End Year: 2022
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Washington, DC : Institute of Laboratory Animal Resources (ILAR), National
+Research Council
+Latest Publisher: <2013-> : Oxford : Oxford University Press published on behalf of ILAR
+Description: v. : ill.
+Language: English
+ISSN: 1084-2020(Print); 1930-6180(Electronic); 1084-2020(Linking)
+Coden: IJLOAC
+LCCN: sn 95043770
+Electronic Links: https://academic.oup.com/ilarjournal
+Fully Indexed In: MEDLINE: v41n1, 2000-v62n3, 2021; Index medicus
+In: PubMed: v41n1, 2000-v62n3, 2021; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animal Welfare*; Animals, Laboratory*; Transplantation, Heterologous*
+Publication Type(s): Periodical
+Notes: Title from cover. Some articles in Volume 62, issue 3 published electronically in
+2022. Also issued online.
+Other ID: (DNLM)SR0085780(s)(OCoLC)32526612
+NLM ID: 9516416[Serial]
+
+7. Author(s): Mitteleuropäische Gesellschaft für Alternativmethoden zu Tierversuchen.; Johns 
+Hopkins Center for Alternatives to Animal Testing.; European Society for
+Alternatives to Animal Testing.; Society ALTEX Edition.
+Title Abbreviation: ALTEX
+Title(s): ALTEX.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Heidelberg : Spektrum Akademischer Verlag,
+Description: v. : ill.
+Language: German, English
+ISSN: 1868-596X(Print); 1868-8551(Electronic); 1868-596X(Linking)
+LCCN: 00-243539
+Electronic Links: https://www.altex.org/index.php/altex
+Fully Indexed In: MEDLINE: v17n1, 2000-; PubMed: v17n1, 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animal Testing Alternatives*; Animal Welfare
+Publication Type(s): Periodical
+Notes: Issues for Vol. 22, no. 2 (2005)- have subtitle: Alternatives to animal
+experimentation. Issues for 1994- Vol. 22, no. 1 (2005) have subtitle:
+Alternativen zu Tierexperimenten. Print issues ceased with 2016. Also issued
+online. German and English; in English, <2009-> . Official organ of:
+Mitteleuropäischen Gesellschaft für Alternativmethoden zu Tierversuchen;
+CAAT,<2009->; EUSAAT <2009->. From 2017- , official organ of: ASCCT, CAAT,
+CAAT-Europe, Doerenkamp chairs, ecopa, EUSAAT, t4.
+Other ID: (OCoLC)45463726
+NLM ID: 100953980[Serial]
+
+8. Author(s): American Association for Laboratory Animal Science.
+Title Abbreviation: Contemp Top Lab Anim Sci
+Title(s): Contemporary topics in laboratory animal science/ American Association for
+Laboratory Animal Science.
+Publication Start Year: 1992
+Publication End Year: 2005
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Cordova, TN : The Association, c1992-c2005.
+Latest Publisher: Memphis, TN : American Association for Laboratory Animal Science
+Description: v. : ill.
+Language: English
+ISSN: 1060-0558(Print); 1060-0558(Linking)
+LCCN: sn 91004642
+In: PubMed: v39n1, Jan. 2000-v44n6, Nov. 2005; 
+Selectively Indexed in: MEDLINEv39n1, Jan. 2000-v44n6, Nov. 2005Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animals, Laboratory*; Laboratory Animal Science*
+Publication Type(s): Periodical
+Notes: Title from cover. Official communication vehicle for the American Association for
+Laboratory Animal Science.
+Other ID: (OCoLC)24857273(DNLM)SR0073082(s)
+NLM ID: 9204153[Serial]
+
+9. Author(s): Fund for the Replacement of Animals in Medical Experiments.
+Title Abbreviation: Altern Lab Anim
+Title(s): Alternatives to laboratory animals : ATLA.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Bimonthly, <Mar. 2007->
+Country of Publication: England
+Publisher: London : Fund for the Replacement of Animals in Medical Experiments, [c1981-
+Latest Publisher: 2019- : [London] : SAGE Publications
+Description: v. : ill.
+Language: English
+ISSN: 0261-1929(Print); 2632-3559(Electronic); 0261-1929(Linking)
+Coden: AALADQ
+Electronic Links: https://journals.sagepub.com/home/atl
+Fully Indexed In: MEDLINE: v29n1, Jan./Feb. 2001-; Index medicus
+In: PubMed: v29n1, Jan./Feb. 2001-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animals, Laboratory*; Research*
+Publication Type(s): Abstracts
+Notes: Title from cover. Vol. 18 complete in one issue. Some vols. have supplements.
+Also issued online.
+Other ID: (OCoLC)07942860(DNLM)A22321000(s)
+NLM ID: 8110074[Serial]
+
+10. Title Abbreviation: Lab Anim (NY)
+Title(s): Lab animal.
+Publication Start Year: 1972
+Publication End Year: 
+Frequency: Eleven no. a year, 1994-
+Country of Publication: United States
+Publisher: New York, United Business Publications.
+Latest Publisher: New York, NY : Nature America
+Description: v. illus.
+Language: English
+ISSN: 0093-7355(Print); 1548-4475(Electronic); 0093-7355(Linking)
+Coden: LAANDT
+Electronic Links: https://www.nature.com/laban/articles
+Fully Indexed In: MEDLINE: v30n1, Jan. 2001-; PubMed: v30n1, Jan. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animals, Laboratory*
+Publication Type(s): Periodical
+Notes: One issue annually constitutes a Buyer's guide. Also issued online.
+Other ID: (DNLM)L00160000(s)(OCoLC)02255388
+NLM ID: 0417737[Serial]
+
+11. Author(s): Laboratory Animal Science Association.
+Title Abbreviation: Lab Anim
+Title(s): Laboratory animals.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Quarterly, 1975-
+Country of Publication: England
+Publisher: London : Laboratory Animals Ltd., 1967-
+Latest Publisher: Jan. 2013- : London : Sage
+Description: v. illus.
+Language: English
+ISSN: 0023-6772(Print); 1758-1117(Electronic); 0023-6772(Linking)
+Coden: LBANAX
+LCCN: sf 78000754  $z sn 91000854
+Electronic Links: https://journals.sagepub.com/home/lan
+Fully Indexed In: MEDLINE: v4n1,Apr. 1970-; Index medicus
+In: PubMed: v4n1,Apr. 1970-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animals, Laboratory*
+Publication Type(s): Periodical
+Notes: Journal of the Laboratory Animal Science Association. Also issued online.
+Indexes: Vols. 1-10, 1967-76. 1 v.
+Other ID: (DNLM)L00860000(s)(OCoLC)01641209
+NLM ID: 0112725[Serial]
+

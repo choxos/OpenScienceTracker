@@ -1,0 +1,145 @@
+1. Author(s): Medical Library Association.
+Title Abbreviation: J Med Libr Assoc
+Title(s): Journal of the Medical Library Association : JMLA.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Chicago, IL : Medical Library Association, c2002-
+Description: v. : ill.
+Language: English
+ISSN: 1536-5050(Print); 1558-9439(Electronic); 1536-5050(Linking)
+Coden: JMLAAG
+LCCN: 2001215450
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101132728, http://jmla.mlanet.org/ojs/jmla/index
+Fully Indexed In: MEDLINE: v90n1, Jan. 2002-; Index medicus
+In: PubMed: v90n1, Jan. 2002-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Information Services; Libraries, Medical*; Library Science
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online via PubMedCentral.
+Other ID: (OCoLC)47728400
+NLM ID: 101132728[Serial]
+
+2. Author(s): Medical Library Association. Hospital Libraries Section.
+Title Abbreviation: Natl Netw
+Title(s): National network : the newsletter of the Hospital Libraries Section of the
+Medical Library Association.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: Dallas, TX : The Section,
+Latest Publisher: <Apr. 1995- > : Phoenix, AZ : Hospital Libraries Section of the Medical Library
+Association
+Description: v.
+Language: English
+ISSN: 1075-3753(Print); 1075-3753(Linking)
+Electronic Links: http://hls.mlanet.org/wordpress/?page_id=46
+Fully Indexed In: MEDLINE: v19n1, Aug. 1994-v24n2, Oct. 1999
+In: PubMed: v19n1, Aug. 1994-v24n2, Oct. 1999; 
+Selectively Indexed in: Hospital literature indexv19, 1994Hospital and health administration index1995-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Libraries, Hospital*; United States
+Other Subject(s): Medical Library Association. Hospital Libraries Section
+Publication Type(s): Periodical
+Notes: Description based on: Vol 18 (1) (Aug. 1993); title from caption. Print issues
+ceased with v. 30 (2006). Also issued online.
+Other ID: (DNLM)SR0070641(s)(OCoLC)21588913
+NLM ID: 9507560[Serial]
+
+3. Author(s): Library Association. Medical, Health and Welfare Libraries Group.; Library
+Association. Health Libraries Group.
+Title Abbreviation: Health Libr Rev
+Title(s): Health libraries review.
+Publication Start Year: 1984
+Publication End Year: 2000
+Frequency: Four no. a year
+Country of Publication: England
+Publisher: Oxford : Blackwell Scientific Publications, c1984-c2000.
+Description: 17 v. : ill., ports.
+Language: English
+ISSN: 0265-6647(Print); 1365-2532(Electronic); 0265-6647(Linking)
+LCCN: 85645986
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2532
+Fully Indexed In: MEDLINE: v6n1, Mar. 1989-v17n4, Dec. 2000; PubMed: v6n1, Mar. 1989-v17n4, Dec. 2000
+Selectively Indexed in: Hospital literature indexv6n1, Mar. 1989-1994Hospital and health administration index1995-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Libraries, Medical*
+Publication Type(s): Periodical
+Notes: Title from cover. Has separately paged section, also issued separately, called:
+Newsletter, <Mar. 1987>-Dec. 1995; Library Association Health Libraries Group
+newsletter, Mar. 1996- ; Health Libraries Group newsletter, <-2000> Also issued
+online. Official publication of: Medical, Health and Welfare Libraries Group of
+the Library Association.
+Other ID: (DNLM)SR0054084(s)(OCoLC)11723043
+NLM ID: 8607228[Serial]
+
+4. Title Abbreviation: Methods Inf Med Suppl
+Title(s): Methods of information in medicine. Supplement.
+Publication Start Year: 1966
+Publication End Year: 1978
+Frequency: Annual
+Country of Publication: Germany
+Publisher: Stuttgart, New York, Schattauer.
+Latest Publisher: Stuttgart : Schattauer
+Description: v. illus.
+Language: English
+ISSN: 0580-9525(Print)
+Fully Indexed In: MEDLINE: 3, 1968-11, 1978; PubMed: 3, 1968-11, 1978; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Information Systems*; Medicine*
+Publication Type(s): Periodical
+Notes: In German or English. Called also Methodik der Information in der Medizin.
+Supplement. No. 1-2 issued without series title and cataloged separately at NLM.
+Other ID: (OCoLC)01778949(DNLM)M32660000(s)
+NLM ID: 0207712[Serial]
+
+5. Author(s): American Chemical Society.
+Title Abbreviation: J Chem Doc
+Title(s): Journal of chemical documentation.
+Publication Start Year: 1961
+Publication End Year: 1974
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Easton, Pa. [etc.] American Chemical Society.
+Latest Publisher: Washington Dc : American Chemical Society
+Description: 14 v. illus.
+Language: English
+ISSN: 0021-9576(Print); 0021-9576(Linking)
+Coden: JCHDAN
+LCCN: 64002629
+Selectively Indexed in: MEDLINEv12n2,May 1972-v14,Nov. 1974PubMedv12n2,May 1972-v14,Nov. 1974Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*; Documentation*
+Publication Type(s): Periodical
+Other ID: (DNLM)J15620000(s)(OCoLC)01783059
+NLM ID: 7505011[Serial]
+
+6. Author(s): Medical Library Association.
+Title Abbreviation: Bull Med Libr Assoc
+Title(s): Bulletin of the Medical Library Association.
+Publication Start Year: 1911
+Publication End Year: 2001
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Chicago [etc.] Medical Library Assn.
+Description: v. ill., ports.
+Language: English
+ISSN: 0025-7338(Print); 0025-7338(Linking)
+Coden: BMLAAG
+LCCN: 16016616
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0421037
+Fully Indexed In: MEDLINE: v53n4,Oct. 1965-v89n4, Oct. 2001; Index medicus
+In: PubMed: v1, 1911- v89n4, Oct. 2001, OLDMEDLINE, PMC
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Libraries, Medical*; Medicine*
+Publication Type(s): Periodical
+Notes: Issues for July 1911-May 1936 called New series. Also available online via
+PubMedCentral. Indexes: Author index; --Vols. 1-33, 1911-45, in v. 33; General
+index; --Vols. 1-40, 1911-52, with v. 43; --Vols. 41-50, 1953-62, with v. 51;
+--Vols. 51-60, 1963-72. 1 v.
+Other ID: (DNLM)B47920000(s)(OCoLC)01756998
+NLM ID: 0421037[Serial]
+

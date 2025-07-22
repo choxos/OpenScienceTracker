@@ -1,0 +1,884 @@
+1. Author(s): Springer Nature (Firm),
+Title Abbreviation: Nat Comput Sci
+Title(s): Nature computational science.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [New York, N.Y.] : Springer Nature, [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2662-8457(Electronic); 2662-8457(Linking)
+LCCN: 2021225016
+Electronic Links: https://www.nature.com/natcomputsci
+Fully Indexed In: MEDLINE: v1n1, Jan. 2021-
+In: PubMed: v1n1, Jan. 2021-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computing Methodologies.*; Models, Theoretical; Science*; Technology
+Publication Type(s): Periodical
+Other ID: (OCoLC)1240120742
+NLM ID: 101775476[Serial]
+
+2. Title Abbreviation: WIREs Mech Dis
+Title(s): WIREs mechanisms of disease.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [Hoboken, NJ] : John Wiley & Sons, Inc., [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2692-9368(Electronic); 2692-9368(Linking)
+LCCN: 2020204465
+Electronic Links: https://wires.onlinelibrary.wiley.com/journal/26929368
+Fully Indexed In: MEDLINE: v13n1, Jan-Feb 2021-
+In: PubMed: v13n1, Jan-Feb 2021-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Disease*; Medicine; Systems Biology
+Publication Type(s): Periodical
+Other ID: (OCoLC)1164696052
+NLM ID: 9918227353306676[Serial]
+
+3. Title Abbreviation: Annu Rev Biomed Data Sci
+Title(s): Annual review of biomedical data science.
+Publication Start Year: 2018
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, CA : Annual Reviews, [2018]-
+Description: 1 online resource
+Language: English
+ISSN: 2574-3414(Electronic); 2574-3414(Linking)
+LCCN: 2017201823
+Electronic Links: http://www.annualreviews.org/journal/biodatasci
+Fully Indexed In: MEDLINE: v4, 2021-
+In: PubMed: v4, 2021- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology; Medical Informatics*
+Other ID: (OCoLC)1001435277
+NLM ID: 101714020[Serial]
+
+4. Title Abbreviation: Cell Syst
+Title(s): Cell systems.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Monthly, 2016-
+Country of Publication: United States
+Publisher: [Cambridge, MA] : Cell Press, [2015]-
+Copyright Date: 2015
+Description: 1 online resource
+Language: English
+ISSN: 2405-4720(Electronic); 2405-4712(Print); 2405-4712(Linking)
+LCCN: 2016243171
+Electronic Links: http://www.sciencedirect.com/science/journal/24054712
+Fully Indexed In: MEDLINE: v2n1, Jan. 2016-
+In: PubMed: v2n1, Jan. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cells*
+Publication Type(s): Periodical
+Notes: Numbering from content page. Volume 1 complete in 6 issues.
+Other ID: (OCoLC)919095503
+NLM ID: 101656080[Serial]
+
+5. Author(s): Systems Biology Institute,
+Title Abbreviation: NPJ Syst Biol Appl
+Title(s): NPJ systems biology and applications.
+Publication Start Year: 2015
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : Nature Publishing Group in partnership with SBI, The Systems Biology
+Institute, [2015]-
+Description: 1 online resource
+Language: English
+ISSN: 2056-7189(Electronic); 2056-7189(Linking)
+LCCN: 2016243199
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101677786, http://www.nature.com/npjsba/about
+Fully Indexed In: MEDLINE: v4, 2018
+In: PubMed: v1, 2015-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Systems Biology*
+Publication Type(s): Periodical
+Notes: Articles added consecutively to the current annual volume.
+Other ID: (OCoLC)931500623
+NLM ID: 101677786[Serial]
+
+6. Title Abbreviation: Gigascience
+Title(s): GigaScience.
+Publication Start Year: 2012
+Publication End Year: 
+Country of Publication: United States
+Publisher: London : BioMed Central
+Latest Publisher: 2017- : New York : Oxford University Press
+Language: English
+ISSN: 2047-217X(Electronic); 2047-217X(Linking)
+LCCN: 2013243152
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101596872, https://academic.oup.com/gigascience
+Fully Indexed In: MEDLINE: v4, 2015-
+In: PubMed: v1, 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Information Storage and Retrieval; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Articles added on an individual basis as accepted.
+Other ID: (OCoLC)803040739
+NLM ID: 101596872[Serial]
+
+7. Title Abbreviation: J Biomed Semantics
+Title(s): Journal of biomedical semantics.
+Publication Start Year: 2010
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : Biomed Central
+Language: English
+ISSN: 2041-1480(Electronic)
+LCCN: 2010247773
+Electronic Links: https://jbiomedsem.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101531992
+Fully Indexed In: MEDLINE: v6, 2015-
+In: PubMed: v1, 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Research; Medical Informatics; Semantics*
+Publication Type(s): Periodical
+Notes: Description based on: 1:1 (31 Mar. 2010); title from journal home page (BioMed
+Central Web site, viewed Apr. 29, 2010). Latest issue consulted: 1:6 (12 Apr.
+2010) (viewed June 1, 2010). Mode of access: World Wide Web.
+Other ID: (OCoLC)610018393
+NLM ID: 101531992[Serial]
+
+8. Title Abbreviation: Mol Inform
+Title(s): Molecular informatics.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH Verlag
+Language: English
+ISSN: 1868-1743(Print); 1868-1751(Electronic); 1868-1743(Linking)
+LCCN: 2010200090
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1868-1751
+Fully Indexed In: MEDLINE: v35n1, Jan. 2016-
+In: PubMed: v35n1, Jan. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemical Phenomena; Computational Biology*; Computer-Aided Design
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 29, no. 1/2 (Jan. 2010); title from cover. Print
+issues ceased with 2013. Latest issue consulted: Vol. 29, no. 1/2 (Jan. 2010).
+Also issued online.
+Other ID: (OCoLC)605923838
+NLM ID: 101529315[Serial]
+
+9. Title Abbreviation: Database (Oxford)
+Title(s): Database : the journal of biological databases and curation.
+Publication Start Year: 2009
+Publication End Year: 
+Country of Publication: England
+Publisher: Oxford : Oxford Journals, 2009-
+Language: English
+ISSN: 1758-0463(Electronic); 1758-0463(Linking)
+LCCN: 2009243793
+Electronic Links: https://academic.oup.com/database, https://pmc.ncbi.nlm.nih.gov/journals/?term=101517697
+Fully Indexed In: MEDLINE: 2009-
+In: PubMed: 2009-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology*
+Publication Type(s): Periodical
+Notes: Title from journal home page (viewed May 1, 2009). Latest issue consulted: Vol.
+2009 (viewed Dec. 1, 2009). Articles are published continuously on the Internet. 
+Electronic journal articles are available in portable document format (PDF). Mode
+of access: World Wide Web.
+Other ID: (OCoLC)319891682
+NLM ID: 101517697[Serial]
+
+10. Author(s): International Association of Scientists in the Interdisciplinary Area.
+Title Abbreviation: Interdiscip Sci
+Title(s): Interdisciplinary sciences, computational life sciences.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: [Heidelberg] : Springer-Verlag
+Language: English
+ISSN: 1913-2751(Print); 1867-1462(Electronic); 1867-1462(Linking)
+LCCN: 2009247774
+Electronic Links: https://link.springer.com/journal/12539
+Fully Indexed In: MEDLINE: v1n1, Mar. 2009-
+In: PubMed: v1n1, Mar. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*; Computational Biology; Computer-Aided Design
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 2, no. 2 (June 2010); title from cover. Latest issue
+consulted: Vol. 2, no. 2 (June 2010). Also issued online.
+Other ID: (OCoLC)502454659
+NLM ID: 101515919[Serial]
+
+11. Title Abbreviation: Wiley Interdiscip Rev Syst Biol Med
+Title(s): Wiley interdisciplinary reviews. Systems biology and medicine.
+Publication Start Year: 2009
+Publication End Year: 2020
+Frequency: Six no. a year, 2010-
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons
+Description: v.
+Language: English
+ISSN: 1939-5094(Print); 1939-005X(Electronic); 1939-005X(Linking)
+LCCN: 2007216047
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-005X
+Fully Indexed In: MEDLINE: v1n1, July-Aug 2009-v12n6, Nov-Dec 2020
+In: PubMed: v1n1, July-Aug 2009-v12n6, Nov-Dec 2020; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine; Systems Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.3 (2012) Also issued online.
+Other ID: (OCoLC)164587206
+NLM ID: 101516550[Serial]
+
+12. Author(s): International Society of Intelligent Biological Medicine.
+Title Abbreviation: Int J Comput Biol Drug Des
+Title(s): International journal of computational biology and drug design.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Four issues a year
+Country of Publication: England
+Publisher: [Olney] : Inderscience Enterprise, 2008-
+Language: English
+ISSN: 1756-0756(Print); 1756-0764(Electronic); 1756-0756(Linking)
+LCCN: 2008243925
+Electronic Links: http://www.inderscienceonline.com/loi/ijcbdd
+Fully Indexed In: MEDLINE: v1n1, 2008-v8n1, 2015
+In: PubMed: v1n1, 2008-v8n1, 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computational Biology*; Drug Design*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)237288386
+NLM ID: 101479540[Serial]
+
+13. Title Abbreviation: Syst Biol Reprod Med
+Title(s): Systems biology in reproductive medicine.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: New York : Informa Healthcare
+Latest Publisher: London : Informa Healthcare
+Description: v.
+Language: English
+ISSN: 1939-6368(Print); 1939-6376(Electronic); 1939-6368(Linking)
+LCCN: 2007212290, 2007212287
+Electronic Links: http://www.tandfonline.com/loi/iaan20
+Fully Indexed In: MEDLINE: v54n1, Jan./Feb. 2008-
+In: PubMed: v54n1, Jan./Feb. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Reproductive Medicine*; Systems Biology
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)166267843
+NLM ID: 101464963[Serial]
+
+14. Author(s): BioMed Central Ltd.
+Title Abbreviation: BMC Syst Biol
+Title(s): BMC systems biology.
+Publication Start Year: 2007
+Publication End Year: 2019
+Frequency: Frequency unknown.
+Country of Publication: England
+Publisher: London : BioMed Central
+Language: English
+ISSN: 1752-0509(Electronic); 1752-0509(Linking)
+Electronic Links: https://bmcsystbiol.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101301827
+Fully Indexed In: MEDLINE: v1, 2007-v13, 2019
+In: PubMed: v1, 2007-v13, 2019, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Models, Biological; Systems Biology*
+Publication Type(s): Periodical
+Notes: Title from journal home page (viewed Apr. 25, 2007). Latest issue consulted: 1:19
+(16 Apr. 2007) (viewed Apr. 25, 2007). Articles added on an individual basis as
+accepted. Mode of access: World Wide Web.
+Other ID: (OCoLC)76922333
+NLM ID: 101301827[Serial]
+
+15. Author(s): Institution of Engineering and Technology.
+Title Abbreviation: IET Syst Biol
+Title(s): IET systems biology.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Stevenage : Institution of Engineering and Technology
+Latest Publisher: 2021- : [Oxford] : Wiley
+Description: v.
+Language: English
+ISSN: 1751-8849(Print); 1751-8857(Electronic); 1751-8849(Linking)
+Electronic Links: http://digital-library.theiet.org/content/journals/iet-syb, https://ietresearch.onlinelibrary.wiley.com/journal/17518857, https://pmc.ncbi.nlm.nih.gov/journals/?term=101301198
+Fully Indexed In: MEDLINE: v1n1, Jan. 2007-; PubMed: v1n1, Jan. 2007-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology*; Genomics
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)84716349
+NLM ID: 101301198[Serial]
+
+16. Title Abbreviation: Comput Intell Neurosci
+Title(s): Computational intelligence and neuroscience.
+Publication Start Year: 2006
+Publication End Year: 2024
+Country of Publication: United States
+Publisher: New York, NY : Hindawi Pub. Corp.
+Language: English
+ISSN: 1687-5265(Print); 1687-5273(Electronic)
+LCCN: 2008244035
+Electronic Links: https://www.hindawi.com/journals/cin/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101279357
+Fully Indexed In: MEDLINE: v2007, 2007-v2023, 2023
+In: PubMed: v2007, 2007-v2023, 2023, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computational Biology*; Neurosciences*
+Publication Type(s): Periodical
+Notes: Each issue also has a distinctive title. Description based on Vol. 2008 (2008);
+title from cover. Some articles in Volume 2023 published in 2024. Also issued
+online.
+Other ID: (OCoLC)271810516
+NLM ID: 101279357[Serial]
+
+17. Author(s): Computational Systems Bioinformatics Conference.; Life Sciences Society.
+Title Abbreviation: Comput Syst Bioinformatics Conf
+Title(s): Computational systems bioinformatics/ Life Sciences Society.
+Publication Start Year: 2006
+Publication End Year: 2010
+Frequency: Annual
+Country of Publication: United States
+Publisher: London : Imperial College Press, c2006-c2010.
+Description: v. : ill.
+Language: English
+ISSN: 1752-7791(Print); 1942-454X(Electronic); 1752-7791(Linking)
+LCCN: 2007243119
+Electronic Links: http://www.csb2010.org/CSBArchives10.html
+Fully Indexed In: MEDLINE: 2006-2010
+In: PubMed: 2006-2010; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computational Biology/methods*; Genetic Techniques; Genomics; Medical Informatics
+Publication Type(s): Congress
+Notes: Also issued online.
+Other ID: (OCoLC)85888767
+NLM ID: 101294517[Serial]
+
+18. Title Abbreviation: Int J Data Min Bioinform
+Title(s): International journal of data mining and bioinformatics.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Switzerland
+Publisher: Genẻve, Switzerland : Inderscience Enterprises, [2006]-
+Description: v.
+Language: English
+ISSN: 1748-5673(Print); 1748-5681(Electronic); 1748-5673(Linking)
+LCCN: 2006244100
+Electronic Links: http://www.inderscienceonline.com/loi/ijdmb
+Fully Indexed In: MEDLINE: v1n1, 2006-v13n4, 2015; PubMed: v1n1, 2006-v13n4, 2015
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computational Biology*
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 1, no. 2 (2006). Also issued online.
+Other ID: (OCoLC)77266363
+NLM ID: 101279469[Serial]
+
+19. Title Abbreviation: Int J Bioinform Res Appl
+Title(s): International journal of bioinformatics research and applications.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Six no. a year, 2012-
+Country of Publication: Switzerland
+Publisher: Genève, Switzerland : Inderscience, [2005]-
+Description: v. : ill. ; 24 cm.
+Language: English
+ISSN: 1744-5485(Print); 1744-5493(Electronic); 1744-5485(Linking)
+LCCN: 2006211708
+Electronic Links: http://www.inderscienceonline.com/loi/ijbra
+Fully Indexed In: MEDLINE: v1n1, 2005-v11n4, 2015; PubMed: v1n1, 2005-v11n4, 2015
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computational Biology*
+Publication Type(s): Periodical
+Notes: Issued also online.
+Other ID: (OCoLC)60571850
+NLM ID: 101253758[Serial]
+
+20. Author(s): European Molecular Biology Organization.
+Title Abbreviation: Mol Syst Biol
+Title(s): Molecular systems biology.
+Publication Start Year: 2005
+Publication End Year: 
+Country of Publication: Germany
+Publisher: London : Nature Pub. Group, c2005-
+Latest Publisher: 2024- : Heidelberg : EMBO Press
+Language: English
+ISSN: 1744-4292(Electronic); 1744-4292(Linking)
+LCCN: 2005243561
+Electronic Links: https://www.embopress.org/journal/17444292, https://pmc.ncbi.nlm.nih.gov/journals/?term=101235389
+Fully Indexed In: MEDLINE: v1, 2005-
+In: PubMed: v1, 2005-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Molecular Biology*; Systems Biology
+Publication Type(s): Periodical
+Notes: Title from PDF caption (publisher Web site, viewed June 3, 2005). Latest issue
+consulted: May 2005 (viewed June 3, 2005). Also issued in print. Mode of access: 
+World Wide Web. Published on behalf of European Molecular Biology Organization.
+Other ID: (OCoLC)58795151
+NLM ID: 101235389[Serial]
+
+21. Author(s): Public Library of Science.; International Society for Computational Biology.
+Title Abbreviation: PLoS Comput Biol
+Title(s): PLoS computational biology.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: San Francisco, CA : Public Library of Science, [2005]-
+Description: v. : ill.
+Language: English
+ISSN: 1553-734X(Print); 1553-7358(Electronic); 1553-734X(Linking)
+LCCN: 2004216490
+Electronic Links: http://www.ploscompbiol.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101238922
+Fully Indexed In: MEDLINE: v1n1, June 2005-
+In: PubMed: v1n1, June 2005-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v.4, no.1 (2008). Issues 1-7, 10, 12 (2006) and Issues
+7-12 (2005) never published in print. Also issued online. Published in
+association with International Society for Computational Biology.
+Other ID: (OCoLC)57176662
+NLM ID: 101238922[Serial]
+
+22. Author(s): Institute of Electrical and Electronics Engineers.; Association for Computing
+Machinery.; IEEE Computer Society.
+Title Abbreviation: IEEE/ACM Trans Comput Biol Bioinform
+Title(s): IEEE/ACM transactions on computational biology and bioinformatics/ IEEE, ACM.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, NY : IEEE Computer Society, 2004-
+Description: v. : ill.
+Language: English
+ISSN: 1545-5963(Print); 1557-9964(Electronic); 1545-5963(Linking)
+LCCN: 2003215338
+Electronic Links: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857
+Fully Indexed In: MEDLINE: v1n1, Jan./Mar. 2004-; PubMed: v1n1, Jan./Mar. 2004-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 14 (2017). Also issued online.
+Other ID: (OCoLC)52599372
+NLM ID: 101196755[Serial]
+
+23. Title Abbreviation: J Integr Bioinform
+Title(s): Journal of integrative bioinformatics.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Bielefeld : IMBio e.V.
+Latest Publisher: Berlin : De Gruyter Open
+Language: English
+ISSN: 1613-4516(Electronic); 1613-4516(Linking)
+LCCN: 2009243322
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101503361, https://www.degruyter.com/view/j/jib
+Fully Indexed In: MEDLINE: 2008-
+In: PubMed: 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology*; Medical Informatics
+Publication Type(s): Periodical
+Notes: Description based on: 1(1), 2004; title from caption (publisher's Web site,
+viewed May 5, 2009). Latest issue consulted: 5(2), 2008 (viewed May 5, 2009).
+Other ID: (OCoLC)321037222
+NLM ID: 101503361[Serial]
+
+24. Title Abbreviation: Comput Biol Chem
+Title(s): Computational biology and chemistry.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford : Pergamon, c2003-
+Latest Publisher: Oxford : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 1476-9271(Print); 1476-928X(Electronic); 1476-9271(Linking)
+LCCN: 2003252370
+Electronic Links: http://www.sciencedirect.com/science/journal/14769271
+Selectively Indexed in: MEDLINEv27n1, Feb. 2003-PubMedv27n1, Feb. 2003-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+Notes: Also known as: CBAC. Also issued online.
+Other ID: (OCoLC)51986992
+NLM ID: 101157394[Serial]
+
+25. Author(s): Beijing ji yin zu yan jiu suo.; Zhongguo ke xue yuan.; Zhongguo yi chuan xue hui.
+Title Abbreviation: Genomics Proteomics Bioinformatics
+Title(s): Genomics, proteomics & bioinformatics.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Bimonthly, 2011-
+Country of Publication: England
+Publisher: Beijing, China : Science Press and Elsevier
+Latest Publisher: 2024- : [Oxford] : Oxford University Press on behalf of Beijing Institute of
+Genomics, Chinese Academy of Sciences and China National Center for
+Bioinformation and Genetics Society of China
+Description: v. : ill. ; 29 cm.
+Language: English
+ISSN: 1672-0229(Print); 2210-3244(Electronic); 1672-0229(Linking)
+LCCN: 2004243786
+Electronic Links: https://academic.oup.com/gpb/, http://www.sciencedirect.com/science/journal/16720229, https://pmc.ncbi.nlm.nih.gov/journals/?term=101197608
+Fully Indexed In: MEDLINE: v1n1, Feb. 2003-; Index medicus
+In: PubMed: v1n1, Feb. 2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology; Genomics*; Proteomics
+Publication Type(s): Periodical
+Notes: Issues for Mar. 2010- also called: GPB. Description based on: Vol. 1, no. 3 (Aug.
+2003); title from cover. Also issued online.
+Other ID: (OCoLC)56080394
+NLM ID: 101197608[Serial]
+
+26. Title Abbreviation: J Bioinform Comput Biol
+Title(s): Journal of bioinformatics and computational biology.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Singapore
+Publisher: London : Imperial College Press, c2003-
+Latest Publisher: [Singapore] : World Scientific Publishing Europe Ltd.
+Description: v. : ill. ; 26 cm.
+Language: English
+ISSN: 0219-7200(Print); 1757-6334(Electronic); 0219-7200(Linking)
+LCCN: 2003201398
+Electronic Links: http://www.worldscientific.com/worldscinet/jbcb
+Fully Indexed In: MEDLINE: v1n1, Apr. 2003-; Index medicus
+In: PubMed: v1n1, Apr. 2003-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 1, no. 3 (Oct. 2003). Also issued online.
+Other ID: (OCoLC)53336800
+NLM ID: 101187344[Serial]
+
+27. Author(s): Baxevanis,Andreas D
+Title Abbreviation: Curr Protoc Bioinformatics
+Title(s): Current protocols in bioinformatics/ editoral board, Andreas D. Baxevanis ... [et
+al.].
+Publication Start Year: 2002
+Publication End Year: 2020
+Frequency: Updated every three months
+Country of Publication: United States
+Publisher: [New York] : John Wiley & Sons
+Description: v. (loose-leaf) : ill.
+Language: English
+ISSN: 1934-3396(Print); 1934-340X(Electronic); 1934-3396(Linking)
+LCCN: 2002191048
+Electronic Links: http://onlinelibrary.wiley.com/book/10.1002/0471250953
+Fully Indexed In: MEDLINE: 2002-v72n1, Dec. 2020; PubMed: 2002-v72n1, Dec. 2020
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Amino Acid Sequence; Base Sequence*; Computational Biology/methods; Databases, Genetic; Proteins/analysis; Sequence Analysis/methods; Sequence Homology
+Publication Type(s): Laboratory Manual
+Notes: Print issues ceased with 2011. Includes bibliographical references and index.
+Also issued online.
+Other ID: (OCoLC)213330914
+NLM ID: 101157830[Book]
+
+28. Title Abbreviation: OMICS
+Title(s): Omics : a journal of integrative biology.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., c2002-
+Description: v. : ill.
+Language: English
+ISSN: 1536-2310(Print); 1557-8100(Electronic); 1536-2310(Linking)
+LCCN: 2001211764
+Electronic Links: http://online.liebertpub.com/loi/omi
+Fully Indexed In: MEDLINE: v6n1, 2002-; PubMed: v6n1, 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Biotechnology; Genomics; Molecular Biology
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)47644644
+NLM ID: 101131135[Serial]
+
+29. Author(s): International Conference on Genome Informatics.; Japanese Society for
+Bioinformatics.
+Title Abbreviation: Genome Inform
+Title(s): Genome informatics.
+Publication Start Year: 2001
+Publication End Year: 2011
+Frequency: Two no. a year, 2004-
+Country of Publication: Japan
+Publisher: Tokyo : Universal Academy Press, c2001-
+Description: v. : ill.
+Language: English
+ISSN: 0919-9454(Print); 0919-9454(Linking)
+LCCN: 2007249000
+Electronic Links: http://www.jsbi.org/en/journal1/
+Fully Indexed In: MEDLINE: n12, 2001-n14, 2003; v15n1, 2004-v25n1, 2011; Index medicus
+In: PubMed: n12, 2001-n14, 2003; v15n1, 2004-v25n1, 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genomics*
+Publication Type(s): CongressPeriodical
+Notes: Latest issue consulted: Vol. 16, no. 2 (2005). Also issued online. Issued by:
+Japanese Society for Bioinformatics.
+Other ID: (OCoLC)77523432
+NLM ID: 101280573[Serial]
+
+30. Title Abbreviation: BMC Bioinformatics
+Title(s): BMC bioinformatics.
+Publication Start Year: 2000
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central, 2000-
+Language: English
+ISSN: 1471-2105(Electronic); 1471-2105(Linking)
+LCCN: 2001243458
+Electronic Links: https://bmcbioinformatics.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=100965194
+Fully Indexed In: MEDLINE: v1n1, 2000-; Index medicus
+In: PubMed: v1n1, 2000-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology*
+Publication Type(s): Periodical
+Notes: Title from BioMed Central archive screen (viewed Dec. 17, 2001). Articles added
+consecutively to the current annual v. Mode of access: Internet.
+Other ID: (OCoLC)48656745
+NLM ID: 100965194[Serial]
+
+31. Title Abbreviation: Brief Bioinform
+Title(s): Briefings in bioinformatics
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Bimonthly, 2007-
+Country of Publication: England
+Publisher: London ; Birmingham, AL : H. Stewart Publications, [2000-
+Latest Publisher: Oxford : Oxford University Press
+Description: v.
+Language: English
+ISSN: 1467-5463(Print); 1477-4054(Electronic); 1467-5463(Linking)
+Coden: BBIMFX
+Electronic Links: https://academic.oup.com/bib, https://pmc.ncbi.nlm.nih.gov/journals/?term=100912837
+Fully Indexed In: MEDLINE: v1n1, Feb. 2000-; PubMed: v1n1, Feb. 2000-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology/methods*; Databases, Factual; Medical Informatics; Molecular Sequence Data; Software
+Publication Type(s): Periodical
+Notes: Also available online.
+Other ID: (OCoLC)44107488
+NLM ID: 100912837[Serial]
+
+32. Title Abbreviation: Bioinformatics
+Title(s): Bioinformatics.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Twenty-four no. a year, 2005-
+Country of Publication: England
+Publisher: Oxford : Oxford University Press, c1998-
+Description: v. : ill.
+Language: English
+ISSN: 1367-4803(Print); 1367-4811(Electronic); 1367-4803(Linking)
+Coden: BOINFP
+LCCN: 98641767, sn 98047731
+Electronic Links: https://academic.oup.com/bioinformatics, https://pmc.ncbi.nlm.nih.gov/journals/?term=9808944
+Fully Indexed In: MEDLINE: v14, 1998-; Index medicus
+In: PubMed: v14, 1998-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology; Genome
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0091678(s)(OCoLC)38899833
+NLM ID: 9808944[Serial]
+
+33. Title Abbreviation: In Silico Biol
+Title(s): In silico biology.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Amsterdam ; Washington, DC : [Tokyo] : IOS Press ; Ohmsha, c1998-
+Latest Publisher: 2025- : [Thousand Oaks, CA] : SAGE Publications
+Description: v. : ill.
+Language: English
+ISSN: 1386-6338(Print); 1434-3207(Electronic); 1386-6338(Linking)
+Coden: ISBIFC
+LCCN: sn99-39743
+Electronic Links: https://journals.sagepub.com/home/ISI, http://content.iospress.com/journals/in-silico-biology
+Fully Indexed In: MEDLINE: v1n1, 1998-; Index medicus
+In: PubMed: v1n1, 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0092442(s)(OCoLC)41946558
+NLM ID: 9815902[Serial]
+
+34. Author(s): Pacific Symposium on Biocomputing.
+Title Abbreviation: Pac Symp Biocomput
+Title(s): Pacific Symposium on Biocomputing.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Singapore ; River Edge, NJ : World Scientific, c1995-
+Latest Publisher: <2013-> : Hackensack, NJ : World Scientific
+Description: v. : ill.
+Language: English
+ISSN: 2335-6928(Print); 2335-6936(Electronic); 2335-6928(Linking)
+Electronic Links: http://psb.stanford.edu/psb-online/
+Fully Indexed In: MEDLINE: 1996-; Index medicus
+In: PubMed: 1996-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology
+Publication Type(s): Congress
+Notes: Also issued online.
+Other ID: (DNLM)SR0090855(s)(OCoLC)37690045
+NLM ID: 9711271[Serial]
+
+35. Title Abbreviation: J Comput Biol
+Title(s): Journal of computational biology : a journal of computational molecular cell
+biology.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Monthly, 2009-
+Country of Publication: United States
+Publisher: New York, NY : Mary Ann Liebert, Inc., c1994-
+Description: v. : ill.
+Language: English
+ISSN: 1066-5277(Print); 1557-8666(Electronic); 1066-5277(Linking)
+Coden: JCOBEM
+LCCN: sn 92006717
+Electronic Links: http://online.liebertpub.com/loi/cmb
+Fully Indexed In: MEDLINE: v1n1,spring 1994-; PubMed: v1n1,spring 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computer Simulation; Information Systems; Medical Informatics Computing; Molecular Biology
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 16, no. 12 (Dec. 2009) Also issued 
+online.
+Other ID: (DNLM)SR0078401(s)(OCoLC)26981925
+NLM ID: 9433358[Serial]
+
+36. Title Abbreviation: J Comput Neurosci
+Title(s): Journal of computational neuroscience.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: 6 no. a year, 1999-
+Country of Publication: United States
+Publisher: Boston : Kluwer Academic Publishers, 1994-
+Latest Publisher: New York : Springer US
+Description: v. : ill., ports.
+Language: English
+ISSN: 0929-5313(Print); 1573-6873(Electronic); 0929-5313(Linking)
+Coden: JCNEFR
+LCCN: 97657744, sn 94045038
+Electronic Links: https://link.springer.com/journal/volumesAndIssues/10827
+Fully Indexed In: MEDLINE: v1n1/2,Jun. 1994-; Index medicus
+In: PubMed: v1n1/2,Jun. 1994-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computer Simulation*; Models, Neurological*; Neurosciences*
+Publication Type(s): Periodical
+Notes: Also available online.
+Other ID: (DNLM)SR0080008(s)(OCoLC)31423136
+NLM ID: 9439510[Serial]
+
+37. Author(s): International Neural Network Society.; European Neural Network Society.; Nihon
+Shinkai Kairoku Gakkai.
+Title Abbreviation: Neural Netw
+Title(s): Neural networks : the official journal of the International Neural Network
+Society.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Ten no. a year, 1999-
+Country of Publication: United States
+Publisher: New York : Pergamon Press, [c1988-
+Description: v. : ill.
+Language: English
+ISSN: 0893-6080(Print); 1879-2782(Electronic); 0893-6080(Linking)
+Coden: NNETEB
+LCCN: 88649048, sn 87002755
+Electronic Links: https://www.sciencedirect.com/journal/neural-networks
+Fully Indexed In: MEDLINE: v13n1, Jan. 2000-; PubMed: v13n1, Jan. 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nerve Net*; Nervous System*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Also the official journal of: European
+Neural Network Society, and: Japanese Neural Network Society, <1994->
+Other ID: (DNLM)SR0060718(s)(OCoLC)15601895
+NLM ID: 8805018[Serial]
+
+38. Title Abbreviation: J Comput Chem
+Title(s): Journal of computational chemistry.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: 16 no. a year, <2002->
+Country of Publication: United States
+Publisher: New York : Wiley,
+Description: v. : ill.,
+Language: English
+ISSN: 0192-8651(Print); 1096-987X(Electronic); 0192-8651(Linking)
+Coden: JCCHDD
+LCCN: 80643914, sn 79006892
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-987X
+In: PubMed: v23n1, Jan. 15, 2002-; 
+Selectively Indexed in: MEDLINEv23n1, Jan. 15, 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry/methods*; Computer Simulation; Models, Chemical
+Publication Type(s): Periodical
+Notes: "A Wiley-Interscience publication." Description based on: Vol. 23, no. 1 (Jan.
+15, 2002); title from cover. Print issues ceased with v. 41 (2020). Also issued
+online.
+Other ID: (DNLM)J17615000(s)(OCoLC)05081734
+NLM ID: 9878362[Serial]
+
+39. Title Abbreviation: Biosystems
+Title(s): Bio Systems.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Fifteen no. a year
+Country of Publication: Ireland
+Publisher: Amsterdam, North-Holland Pub. Co.
+Latest Publisher: Limerick : Elsevier Science Ireland
+Description: v. illus.
+Language: English
+ISSN: 0303-2647(Print); 1872-8324(Electronic); 0303-2647(Linking)
+Coden: BSYMBO
+LCCN: 74647009
+Electronic Links: https://www.sciencedirect.com/journal/biosystems
+Fully Indexed In: MEDLINE: v6n1, Jul. 1974-; Index medicus
+In: PubMed: v6n1, Jul. 1974-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Evolution*; Biology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)01795601(DNLM)B14580900(s)
+NLM ID: 0430773[Serial]
+

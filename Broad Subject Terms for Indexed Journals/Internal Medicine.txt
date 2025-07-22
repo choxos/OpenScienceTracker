@@ -1,0 +1,1000 @@
+1. Title Abbreviation: Inn Med (Heidelb)
+Title(s): Die innere Medizin.
+Publication Start Year: 2022
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: [Heidelberg, Germany] : Springer Medizin, [2022]-
+Description: 1 online resource
+Language: English
+ISSN: 2731-7099(Electronic); 2731-7080(Print); 2731-7080(Linking)
+LCCN: 2022220951
+Electronic Links: https://www.springer.com/journal/108
+Fully Indexed In: MEDLINE: v63n7, July 2022-
+In: PubMed: v63n7, July 2022-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Issues also have distinctive titles.
+Other ID: (OCoLC)1334316040
+NLM ID: 9918384885306676[Serial]
+
+2. Author(s): Towarzystwo Internistów Polskich,
+Title Abbreviation: Pol Arch Intern Med
+Title(s): Polish archives of internal medicine.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Poland
+Publisher: Liszki, Poland : Medycyna Praktyczna, [2017]-
+Language: English
+ISSN: 0032-3772(Print); 1897-9483(Electronic); 0032-3772(Linking)
+LCCN: 2017243114
+Electronic Links: https://www.mp.pl/paim/
+Fully Indexed In: MEDLINE: v127n1, 2017-
+In: PubMed: v127n1, 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Polish language title also on website : Polskie Archiwum Medycyny Wewnętrznej.
+Print issues ceased with v. 127 (2017). Also issued online.
+Other ID: (OCoLC)987439582
+NLM ID: 101700960[Serial]
+
+3. Author(s): American Medical Association,
+Title Abbreviation: JAMA Intern Med
+Title(s): JAMA internal medicine.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Semimonthly (except for combined issues in Aug. and Dec.)
+Country of Publication: United States
+Publisher: Chicago, IL : American Medical Association, [2013]-
+Description: volumes ; 27 cm.
+Language: English
+ISSN: 2168-6106(Print); 2168-6114(Electronic); 2168-6106(Linking)
+LCCN: 2012200147
+Electronic Links: https://jamanetwork.com/journals/jamainternalmedicine/issue
+Fully Indexed In: MEDLINE: v173n1, Jan. 2013-; Abridged index medicus
+In: PubMed: v173n1, Jan. 2013-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)798258278
+NLM ID: 101589534[Serial]
+
+4. Title Abbreviation: Cell Death Dis
+Title(s): Cell death & disease.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London : Nature Pub. Group
+Language: English
+ISSN: 2041-4889(Electronic)
+LCCN: 2010243144
+Electronic Links: http://www.nature.com/cddis/index.html, https://pmc.ncbi.nlm.nih.gov/journals/?term=101524092
+Fully Indexed In: MEDLINE: v1n1, Jan. 2010-
+In: PubMed: v1n1, Jan. 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Death*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1 (Jan. 2010); title from HTML header (publisher's Web
+site, viewed Feb. 4, 2010). Latest issue consulted: Vol. 1 (Feb. 2010) (viewed
+Feb. 4, 2010). Mode of access: World Wide Web. Affiliated with: Cell death
+discovery 2058-7716 (DLC) 2015243428 (OCoLC)926100762 (DNLM)101665035.
+Other ID: (OCoLC)529611706
+NLM ID: 101524092[Serial]
+
+5. Title Abbreviation: BMJ Clin Evid
+Title(s): BMJ clinical evidence.
+Publication Start Year: 2006
+Publication End Year: 2016
+Country of Publication: England
+Publisher: London : BMJ Pub. Group, [2006]-
+Language: English
+ISSN: 
+Electronic Links: http://www.clinicalevidence.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101294314
+Fully Indexed In: MEDLINE: as viewed April 2009-v2016, 2016; PubMed: as viewed April 2009-v2016, 2016
+In: PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Evidence-Based Medicine*; United Kingdom
+Publication Type(s): Handbook
+Notes: Title from journal home page (publisher's Web page, viewed April 14, 2009). Each 
+issue cumulates all previous issues. Mode of access: World Wide Web.
+Other ID: (OCoLC)671469502
+NLM ID: 101294314[Electronic Resource]
+
+6. Author(s): Società italiana di medicina interna.
+Title Abbreviation: Intern Emerg Med
+Title(s): Internal and emergency medicine.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Bimonthly, 2009-
+Country of Publication: Italy
+Publisher: Rome, Italy : CEPI-AIM Group, 2006-
+Latest Publisher: Milan : Springer
+Description: v. : ill.
+Language: English
+ISSN: 1828-0447(Print); 1970-9366(Electronic); 1828-0447(Linking)
+LCCN: 2006243696
+Electronic Links: https://link.springer.com/journal/11739
+Fully Indexed In: MEDLINE: v1n1, 2006-; PubMed: v1n1, 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Emergencies; Emergency Medical Services.; Emergency Medicine; Internal Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Print issues ceased with v. 7 (2012). Also
+issued online. Official journal of the Italian Society of Internal Medicine.
+Other ID: (OCoLC)70938593
+NLM ID: 101263418[Serial]
+
+7. Author(s): Royal Australasian College of Physicians.
+Title Abbreviation: Intern Med J
+Title(s): Internal medicine journal.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Australia
+Publisher: Carlton, Vic. : Blackwell Science Asia, c2001-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1444-0903(Print); 1445-5994(Electronic); 1444-0903(Linking)
+LCCN: 2001229843
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1445-5994
+Fully Indexed In: MEDLINE: v31n1, Jan./Feb. 2001-; PubMed: v31n1, Jan./Feb. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 50 (2020). Also issued online
+Official journal of the Royal Australasian College of Physicians.
+Other ID: (OCoLC)46632750
+NLM ID: 101092952[Serial]
+
+8. Author(s): American College of Physicians--American Society of Internal Medicine.
+Title Abbreviation: Clin Evid
+Title(s): Clinical evidence.
+Publication Start Year: 1999
+Publication End Year: 2006
+Frequency: Semiannual
+Country of Publication: England
+Publisher: London [England] : BMJ Pub. Group : ACP-ASIM, c1999-
+Latest Publisher: 2000- : London : BMJ Pub. Group
+Description: v. ; 22 cm.
+Language: English
+ISSN: 1462-3846(Print); 1752-8526(Electronic); 1462-3846(Linking)
+LCCN: 00252052
+Electronic Links: http://www.clinicalevidence.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=100883600
+Fully Indexed In: MEDLINE: n6, Dec. 2001-n15, June 2006; Index medicus
+In: PubMed: n6, Dec. 2001-n15, June 2006, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Evidence-Based Medicine*; United Kingdom
+Publication Type(s): Handbook
+Notes: Also issued online. Issues for 1999 were published jointly with ACP-ASIM.
+Other ID: (OCoLC)42198597
+NLM ID: 100883600[Serial]
+
+9. Author(s): Nihon Naika Gakkai.
+Title Abbreviation: Intern Med
+Title(s): Internal medicine.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Japan
+Publisher: Tokyo, Japan : Japanese Society of Internal Medicine, [1992-
+Description: v. : ill.
+Language: English
+ISSN: 0918-2918(Print); 1349-7235(Electronic); 0918-2918(Linking)
+Coden: IEDIEP
+LCCN: sn 92033130
+Electronic Links: https://www.jstage.jst.go.jp/browse/internalmedicine, https://pmc.ncbi.nlm.nih.gov/journals/?term=9204241
+Fully Indexed In: MEDLINE: v31n1, 1992-; Index medicus
+In: PubMed: v31n1, 1992-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.44 (2005). Also issued online.
+Other ID: (DNLM)SR0073222(s)(OCoLC)25545226
+NLM ID: 9204241[Serial]
+
+10. Author(s): Societatea Română de Medicină Internă.
+Title Abbreviation: Med Interna
+Title(s): Medicină internă/ Societatea Romana de Medicina Interna.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucuresti : Editura "CERMA", 1991-
+Description: v. : ill.
+Language: Romanian, English
+ISSN: 1220-5818(Print); 1220-5818(Linking)
+Electronic Links: http://www.medicina-interna.ro/arhiva.php?lang=ro
+Fully Indexed In: MEDLINE: v43n1-2, 1991-v45n1-2, 1993; PubMed: v43n1-2, 1991-v45n1-2, 1993; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Suspended 1994-2003. Vol 43, nr 1-2 is misnumbered as vol 42.
+Ser. nouă v.6, nr. 3 also called v.7, no.3 (2007), ser. nouă v.6, nr. 4 also
+called v.8, no.4 (2007). Also issued online. In Rumanian; summaries and table of 
+contents also in English.
+Other ID: (DNLM)SR0080850(s)(OCoLC)30467894
+NLM ID: 9431273[Serial]
+
+11. Author(s): Institutul de Medicină Internă "Nicolae Gh. Lupu".; Academia de Stiinte
+Medicale.
+Title Abbreviation: Rom J Intern Med
+Title(s): Romanian journal of internal medicine = Revue roumaine de médecine interne.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Bucuresti : Editura Academiei Române, [1991-
+Latest Publisher: <2016- > : Bucureşti : Editura Academiei Române
+Description: v. : ill.
+Language: English, Romanian
+ISSN: 1220-4749(Print); 2501-062X(Electronic); 1220-4749(Linking)
+Coden: RRINEH
+LCCN: sn 93038190
+Electronic Links: http://www.ear.ro/3brevist/rv56/rv56.htm, https://sciendo.com/journal/RJIM
+Fully Indexed In: MEDLINE: v29n1-2, Jan.-Jun. 1991-; Index medicus
+In: PubMed: v29n1-2, Jan.-Jun. 1991-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Vols. <40 (2002)-> have title: Romanian journal, internal medicine. Title from
+cover. Beginning in 1999 issues lack Romanian parallel title. Also issued online.
+Chiefly in English; summaries also in Romanian. Edited by the "N. Gh. Lupu"
+Institute of Internal Medicine and the Academy of Medical Sciences.
+Other ID: (DNLM)SR0076376(s)(OCoLC)27979017
+NLM ID: 9304507[Serial]
+
+12. Title Abbreviation: Contemp Intern Med
+Title(s): Contemporary internal medicine.
+Publication Start Year: 1989
+Publication End Year: 1998
+Country of Publication: United States
+Publisher: [Greenwich, CT : Aegean Communications, c1989-
+Latest Publisher: Stamford, CT : Appleton And Lange
+Description: v. : ill. (some col.), ports.
+Language: English
+ISSN: 1042-9646(Print); 1042-9646(Linking)
+Selectively Indexed in: MEDLINEV3,N2,Feb 1991-V7n9,1995PubMedV3,N2,Feb 1991-V7n9,1995
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Monthly.
+Other ID: (DNLM)SR0066926(s)(OCoLC)19259410
+NLM ID: 9007257[Serial]
+
+13. Author(s): Association européènne de médecine interne d'ensemble.
+Title Abbreviation: Eur J Intern Med
+Title(s): European journal of internal medicine.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Six no. a year, 2000-
+Country of Publication: Netherlands
+Publisher: Basingstoke, Hampshire, UK : Published by the Macmillan Press on behalf of the
+European Association of Internal Medicine, c1989-
+Latest Publisher: 1999- : Amsterdam, The Netherlands : Elsevier Science
+Description: v. : ill.
+Language: English
+ISSN: 0953-6205(Print); 1879-0828(Electronic); 0953-6205(Linking)
+Coden: EJIMEJ
+LCCN: sn 90031139
+Electronic Links: http://www.sciencedirect.com/science/journal/09536205
+Fully Indexed In: MEDLINE: v19n1, Jan. 2008-; PubMed: v19n1, Jan. 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Other Subject(s): Association européènne de médecine interne d'ensemble.
+Publication Type(s): Periodical
+Notes: Also issued online. Sister journal to: European journal of case reports in
+internal medicine 2284-2594 (DLC) 2016243141 (OCoLC)944325254.
+Other ID: (DNLM)SR0065868(s)(OCoLC)21307570
+NLM ID: 9003220[Serial]
+
+14. Title Abbreviation: J Intern Med Suppl
+Title(s): Journal of internal medicine. Supplement.
+Publication Start Year: 1989
+Publication End Year: 2001
+Frequency: Irregular
+Country of Publication: England
+Publisher: Oxford : Blackwell Scientific Publications, c1989-
+Description: v. : ill.
+Language: English
+ISSN: 0955-7873(Print); 0955-7873(Linking)
+Coden: JIMSE3
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2796
+Fully Indexed In: MEDLINE: 731, 1989-740, 1997; Index medicus
+In: PubMed: 731, 1989-740, 1997; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Suppl. 730- also carry the volume numbering of: Journal of
+internal medicine. Also issued online.
+Other ID: (DNLM)SR0065502(s)(OCoLC)19588004
+NLM ID: 8912975[Serial]
+
+15. Title Abbreviation: J Intern Med
+Title(s): Journal of internal medicine.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Oxford : Blackwell Scientific Publications, c1989-
+Description: v. : ill.
+Language: English
+ISSN: 0954-6820(Print); 1365-2796(Electronic); 0954-6820(Linking)
+Coden: JINMEO
+LCCN: sn 89038328
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2796
+Fully Indexed In: MEDLINE: v225n1, Jan. 1989-; Index medicus
+In: PubMed: v225n1, Jan. 1989-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Prior to 2001, supplement treated as a separate publication.
+Supplement ceased with issue 741 (Feb. 2001). Each year consists of two volumes
+of six numbers each. Also issued online.
+Other ID: (DNLM)SR0064703(s)(OCoLC)19214370
+NLM ID: 8904841[Serial]
+
+16. Author(s): American College of Veterinary Internal Medicine.
+Title Abbreviation: J Vet Intern Med
+Title(s): Journal of veterinary internal medicine/ American College of Veterinary Internal 
+Medicine.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Philadelphia : J.B. Lippincott Co., [c1987-
+Latest Publisher: <2010-> : Malden, MA : Wiley Periodicals
+Description: v. : ill.
+Language: English
+ISSN: 0891-6640(Print); 1939-1676(Electronic); 0891-6640(Linking)
+Coden: JVIMEM
+LCCN: sn 86010621
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=8708660, http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1939-1676
+Fully Indexed In: MEDLINE: v1n1, Jan./Mar. 1987-; Index medicus
+In: PubMed: v1n1, Jan./Mar. 1987-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Veterinary Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official publication of the American
+College of Veterinary Internal Medicine.
+Other ID: (DNLM)SR0057157(s)(OCoLC)14948161
+NLM ID: 8708660[Serial]
+
+17. Author(s): Società italiana di medicina interna.
+Title Abbreviation: Ann Ital Med Int
+Title(s): Annali italiani di medicina interna : organo ufficiale della Società italiana di
+medicina interna.
+Publication Start Year: 1986
+Publication End Year: 2005
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Roma : Edizioni Luigi Pozzi, [1986-
+Latest Publisher: Roma : CEPI-AIM Group
+Description: v. : ill., ports.
+Language: Italian, English, English
+ISSN: 0393-9340(Print); 0393-9340(Linking)
+Coden: AIMIEA
+LCCN: sn 87020043
+Fully Indexed In: MEDLINE: v1n1, 1986-v20n4, Oct./Dec. 2005; PubMed: v1n1, 1986-v20n4, Oct./Dec. 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 6, no. 4, pt. 2 (1991) dated 1992 in error on cover.
+Articles chiefly in Italian with some in English; summaries in both languages.
+Other ID: (OCoLC)15499239(DNLM)SR0058976(s)
+NLM ID: 8806705[Serial]
+
+18. Author(s): Society for Research and Education in Primary Care Internal Medicine.; Society of
+General Internal Medicine.
+Title Abbreviation: J Gen Intern Med
+Title(s): Journal of general internal medicine.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Monthly, 1993-
+Country of Publication: United States
+Publisher: [Philadelphia, PA] : Hanley & Belfus, [c1986-
+Latest Publisher: Secaucus, NJ : Springer
+Description: v. : ill.
+Language: English
+ISSN: 0884-8734(Print); 1525-1497(Electronic); 0884-8734(Linking)
+Coden: JGIMEJ
+LCCN: 86641382, sn 85006424
+Electronic Links: https://link.springer.com/journal/11606, https://pmc.ncbi.nlm.nih.gov/journals/?term=8605834
+Fully Indexed In: MEDLINE: v1n1, Jan./Feb. 1986-; Index medicus
+In: PubMed: v1n1, Jan./Feb. 1986-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: At head of title: JGIM 1995-. Title from cover. Imprint varies. Also issued
+online. Issued by: Society for Research and Education in Primary Care Internal
+Medicine, 1986-1994; by: Society of General Internal Medicine, <Jan. 1995->
+Other ID: (DNLM)SR0055345(s)(OCoLC)12486900
+NLM ID: 8605834[Serial]
+
+19. Author(s): Taehan Naekwa Hakhoe.
+Title Abbreviation: Korean J Intern Med
+Title(s): The Korean journal of internal medicine.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Quarterly, 2001-
+Country of Publication: Korea (South)
+Publisher: [Seoul] : Korean Association of Internal Medicine
+Description: v. : ill.
+Language: English
+ISSN: 1226-3303(Print); 2005-6648(Electronic); 1226-3303(Linking)
+Coden: KJIMEH
+LCCN: sn 95032996
+Electronic Links: http://www.kjim.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=8712418
+Fully Indexed In: MEDLINE: v1n1, 1986-; Index medicus
+In: PubMed: v1n1, 1986-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 2 (July 1986). Also issued online.
+Other ID: (DNLM)SR0058155(s)(OCoLC)17301564
+NLM ID: 8712418[Serial]
+
+20. Author(s): Sociedad Española de Medicina Interna.
+Title Abbreviation: An Med Interna
+Title(s): Anales de medicina interna : organo oficial de la Sociedad Española de Medicina 
+Interna.
+Publication Start Year: 1984
+Publication End Year: 2008
+Frequency: Twelve no. a year
+Country of Publication: Spain
+Publisher: 1984- : Madrid : C y S, Ediciones, S.A.,
+Latest Publisher: <1990>-2008: Madrid : Aran Ediciones
+Description: v. : ill.
+Language: Spanish, English
+ISSN: 0212-7199(Print); 0212-7199(Linking)
+Electronic Links: http://scielo.isciii.es/scielo.php?script=sci_serial&pid=0212-7199&lng=en&nrm=iso
+Fully Indexed In: MEDLINE: v5n9,Sept. 1988-v25n7,Jul. 2008; PubMed: v5n9,Sept. 1988-v25n7,Jul. 2008; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Monthly. Description based on: Vol. 2, no. 6 (jun.-jul. 1985); title from cover. 
+Supplements accompany some volumes. Also issued online. Articles in Spanish;
+summaries and table of contents in English and Spanish. In Spanish with English
+summaries; table of contents in English and Spanish. Search interface available
+in Spanish, English, and Portuguese.
+Other ID: (DNLM)SR0055595(s)(OCoLC)24538303
+NLM ID: 9112183[Serial]
+
+21. Author(s): Société nationale française de médecine interne.
+Title Abbreviation: Rev Med Interne
+Title(s): La Revue de médecine interne/ fondée ... par la Société nationale francaise de
+médecine interne.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: France
+Publisher: Paris : Baillière, [1980-
+Latest Publisher: Paris : Elsevier
+Description: v. : ill.
+Language: French, English, French
+ISSN: 0248-8663(Print); 1768-3122(Electronic); 0248-8663(Linking)
+Coden: RMEIDE
+Electronic Links: http://www.sciencedirect.com/science/journal/02488663
+Fully Indexed In: MEDLINE: v1n1, 1980-; PubMed: v1n1, 1980-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online. Articles in
+French; summaries in English and French.
+Other ID: (DNLM)R44470000(s)(OCoLC)07373286
+NLM ID: 8101383[Serial]
+
+22. Author(s): Academia de Stiinte Medicale.; Academia Republicii Socialiste România.
+Title Abbreviation: Med Interne
+Title(s): Médecine interne.
+Publication Start Year: 1975
+Publication End Year: 1990
+Frequency: Four no. a year
+Country of Publication: Romania
+Publisher: Bucureşti, Editura Academiei Republicii Socialiste România.
+Description: 16 v. ill.
+Language: English, French, English, French
+ISSN: 0377-1202(Print); 0377-1202(Linking)
+Coden: RMMIDK
+LCCN: sn 80003151
+Fully Indexed In: MEDLINE: v13n2, 1975-v28n4, Oct./Dec. 1990; Index medicus
+In: PubMed: v13n2, 1975-v28n4, Oct./Dec. 1990; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Added title in English: Internal medicine. Caption titles in French and English: 
+Revue roumaine de médecine. Médecine interne; Romanian journal of medicine.
+Internal medicine. Articles and summaries in English or French. Issued by the
+Academia de Ştiinţe Medicale.
+Other ID: (OCoLC)01372323(DNLM)M10460000(s)
+NLM ID: 7506353[Serial]
+
+23. Title Abbreviation: Acta Med Austriaca Suppl
+Title(s): Acta medica Austriaca. Supplement.
+Publication Start Year: 1974
+Publication End Year: 2004
+Frequency: Irregular
+Country of Publication: Austria
+Publisher: [Wien, Hollinek]
+Latest Publisher: <2002->: [Wien?] : Blackwell
+Description: no. illus.
+Language: German, English, German
+ISSN: 0303-8181(Print); 0303-8181(Linking)
+Coden: AMEAD7
+Fully Indexed In: MEDLINE: n4, 1977-n63, 2004; Index medicus
+In: PubMed: n4, 1977-n63, 2004; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Some vols. were issued in Acta medica Austriaca, but removed and cataloged
+separately in this Library. Nr. 50 (1999) published with Acta medica Austriaca.
+Text in German with summaries in German and English.
+Other ID: (DNLM)A06315000(s)(OCoLC)01219501
+NLM ID: 7502262[Serial]
+
+24. Author(s): Österreichische Gesellschaft für Innere Medizin.
+Title Abbreviation: Acta Med Austriaca
+Title(s): Acta medica Austriaca.
+Publication Start Year: 1974
+Publication End Year: 2004
+Frequency: Five no. a year
+Country of Publication: Austria
+Publisher: Wien, Hollinek.
+Latest Publisher: 2003- : Wien : Springer Verlag
+Description: v. illus.
+Language: German, English, German
+ISSN: 0303-8173(Print); 1563-2571(Electronic); 0303-8173(Linking)
+Coden: AMAUBB
+LCCN: sn 83005807
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1563-2571
+Fully Indexed In: MEDLINE: v1n1, 1974-v31n5, 2004; PubMed: v1n1, 1974-v31n5, 2004; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in German with summaries in German and English.
+Organ of the Oesterreichische und Wiener Gesellschaft für Innere Medizin, the
+Oesterreichische Kardiologische Gesellschaft, and the Oesterreichische
+Nuklearmedizin Gesellschaft.
+Other ID: (DNLM)A06300000(s)(OCoLC)01204415
+NLM ID: 7501997[Serial]
+
+25. Author(s): Societatea de Medicină Internă.
+Title Abbreviation: Rev Med Interna Neurol Psihiatr Neurochir Dermatovenerol Med Interna
+Title(s): Revista de medicină internă, neurologe, psihiatrie, neurochirurgie,
+dermato-venerologie. Medicină internă.
+Publication Start Year: 1974
+Publication End Year: 1990
+Frequency: Bimonthly
+Country of Publication: Romania
+Publisher: Bucureşti.
+Latest Publisher: Bucuresti : Editura Medicala
+Description: 17 v. illus.
+Language: Romanian, English, Multiple languages
+ISSN: 1220-0905(Print); 1220-0905(Linking)
+Coden: RMIIDY
+Fully Indexed In: MEDLINE: v26n7,Jul./Aug. 1974-v42, 1990; PubMed: v26n7,Jul./Aug. 1974-v42, 1990; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Issue for Iulie/Aug. 1974 has section title Seria medicină internă. Vol. 40,
+nr. 2 misdated Apr.-June 1988, but constitutes Mar.-Apr. 1988. Summaries in
+English, French, German, and Russian. Issued by the Societătea de Medicină
+Internă.
+Other ID: (DNLM)R37360000(s)(OCoLC)01171511
+NLM ID: 7501915[Serial]
+
+26. Author(s): Nederlandsche Internisten Vereeniging.
+Title Abbreviation: Neth J Med
+Title(s): The Netherlands journal of medicine.
+Publication Start Year: 1973
+Publication End Year: 2020
+Frequency: Eleven no. a year, 2002-
+Country of Publication: Netherlands
+Publisher: Haarlem, Bohn
+Latest Publisher: 2002- : Alphen aan de Rijn, The Netherlands : Van Zuiden Communications
+Description: v. illus.
+Language: English
+ISSN: 0300-2977(Print); 1872-9061(Electronic); 0300-2977(Linking)
+Coden: NLJMAV
+Electronic Links: http://www.sciencedirect.com/science/journal/03002977, http://www.njmonline.nl/all_issues.php
+Fully Indexed In: MEDLINE: v16, 1973-v78n6, Dec. 2020; Index medicus
+In: PubMed: v16, 1973-v78n6, Dec. 2020; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Journal of the Netherlands Association of Internal Medicine. Latest issue
+consulted: surrogate of Vol. 60, no. 10 (Nov. 2002). Also issued online.
+Other ID: (DNLM)N11860000(s)(OCoLC)02664273
+NLM ID: 0356133[Serial]
+
+27. Author(s): Société médicale des hôpitaux de Paris.
+Title Abbreviation: Ann Med Interne (Paris)
+Title(s): Annales de médecine interne.
+Publication Start Year: 1969
+Publication End Year: 2003
+Frequency: Eight no. a year
+Country of Publication: France
+Publisher: Paris, Masson.
+Description: v. illus., ports.
+Language: French, English
+ISSN: 0003-410X(Print); 0003-410X(Linking)
+Coden: AMDIBO
+Fully Indexed In: MEDLINE: v120n1, Jan. 1969-v154n8, Dec. 2003; Index medicus
+In: PubMed: v120n1, Jan. 1969-v154n8, Dec. 2003; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Official organ of the Société médicale des hôpitaux de Paris.
+Other ID: (DNLM)A32520000(s)(OCoLC)01481274
+NLM ID: 0171744[Serial]
+
+28. Author(s): Bulgaria. Ministerstvo na narodnoto zdrave i sot︠s︡ialnite grizhi.; T︠S︡entŭr za
+informat︠s︡ii︠a︡ po medit︠s︡ina (Bulgaria); Nauchno druzhestvo po vŭtreshni
+bolesti (Bulgaria)
+Title Abbreviation: Vutr Boles
+Title(s): Vŭtreshni bolesti.
+Publication Start Year: 1962
+Publication End Year: 200u
+Frequency: Bimonthly
+Country of Publication: Bulgaria
+Publisher: Sofiia.
+Latest Publisher: 1999- : Sofii︠a︡ : T︠s︡entur za informat︠s︡ii︠a︡ po medit︠s︡ina
+Description: v. illus.
+Language: Bulgarian, English
+ISSN: 0506-2772(Print); 0506-2772(Linking)
+Coden: VTBLAU
+LCCN: sn 80013944
+Fully Indexed In: MEDLINE: v10n5, 1971-v33n3, 2001; PubMed: v10n5, 1971-v33n3, 2001; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Vols. for 1999- have also English title: Internal diseases. Publication suspended
+1992-1998. Vols. published 1999- called: G. 31, broĭ 1 (1999)- = 1999/1- .
+Summaries in Russian and English. Issued by Ministerstvo na narodnoto zdrave i
+sot︠s︡ialnite grizhi and Republikansko nauchno medit︠s︡insko druzhestvo na
+internistite; 1999- by Nauchno druzhestvo po vŭtreshni bolesti.
+Other ID: (OCoLC)03661709
+NLM ID: 0032666[Serial]
+
+29. Author(s): American Medical Association.
+Title Abbreviation: Arch Intern Med
+Title(s): Archives of internal medicine.
+Publication Start Year: 1960
+Publication End Year: 2012
+Frequency: Semimonthly, <1998->
+Country of Publication: United States
+Publisher: Chicago, American Medical Assn.
+Description: v. illus., ports.
+Language: English
+ISSN: 0003-9926(Print); 1538-3679(Electronic); 0003-9926(Linking)
+Coden: AIMDAP
+LCCN: 00207482, sc 79003396
+Electronic Links: https://jamanetwork.com/journals/jamainternalmedicine/issue
+Fully Indexed In: MEDLINE: v116n4,Oct. 1965-v172n22, Dec. 2012; Abridged index medicus; Index medicus
+In: PubMed: v116n4,Oct. 1965-v172n22, Dec. 2012, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)A61185000(s)(OCoLC)01513873
+NLM ID: 0372440[Serial]
+
+30. Author(s): Berufsverband Deutscher Internisten.
+Title Abbreviation: Internist (Berl)
+Title(s): Der Internist.
+Publication Start Year: 1960
+Publication End Year: 2022
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: v. illus.
+Language: German
+ISSN: 0020-9554(Print); 1432-1289(Electronic); 0020-9554(Linking)
+Coden: INTEAG
+LCCN: sn 83004873
+Electronic Links: https://link.springer.com/journal/108
+Fully Indexed In: MEDLINE: v6n6,Jun. 1965-v63n6, June 2022; PubMed: v6n6,Jun. 1965-v63n6, June 2022; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Supplements accompany some numbers. Supplement for Jahrg. 31, 5 lacks month
+designation but constitues May 1990. Also issued online. Organ of the
+Berufsverband Deutscher Internisten. Indexes: Vol. 1 (1960)-6 (1965).
+Other ID: (DNLM)I36960000(s)(OCoLC)01753799
+NLM ID: 0264620[Serial]
+
+31. Author(s): Československá společnost pro vnitřní lékařství.
+Title Abbreviation: Vnitr Lek
+Title(s): Vnitr̆ní lékar̆ství.
+Publication Start Year: 1955
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Czech Republic
+Publisher: 1973-<1994> : Praha : Avicenum
+Latest Publisher: 2010- : Brno : Ambit Media
+Description: v. illus., ports.
+Language: Czech, English
+ISSN: 0042-773X(Print); 1801-7592(Electronic); 0042-773X(Linking)
+Coden: VNLEAH
+LCCN: sn 85006715
+Electronic Links: https://www.casopisvnitrnilekarstvi.cz/archive.php
+Fully Indexed In: MEDLINE: v11n7,Jul. 1965-v69n5, Fall 2023; Index medicus
+In: PubMed: v11n7,Jul. 1965-v69n5, Fall 2023, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2019. Also issued online. In Czech; summaries in English
+and Russian, <1957>-1989; table of contents also in English, French, German, and 
+Russian, <1957>-1989; table of contents also in English, 1990- Organ of
+Ceskoslovenská spolec̆nost pro vnitr̆ní lékar̆ství.
+Other ID: (DNLM)V10140000(s)(OCoLC)01642134
+NLM ID: 0413602[Serial]
+
+32. Author(s): Zhonghua yi xue hui (China : 1949- ). Nei ke xue hui.
+Title Abbreviation: Zhonghua Nei Ke Za Zhi
+Title(s): Zhonghua nei ke za zhi.
+Publication Start Year: 1953
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: China
+Publisher: Beijing : Zhonghua yi xue hui Nei ke xue hui
+Latest Publisher: <Jan. 2000- > : Beijing : Zhonghua yi xue hui
+Language: Chinese, English, English
+ISSN: 0578-1426(Print); 0578-1426(Linking)
+Coden: CHHNAB
+Electronic Links: http://www.emedicine.org.cn/
+Fully Indexed In: MEDLINE: v18n1, 1979-; Index medicus
+In: PubMed: v18n1, 1979-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Issues for <Jan. 2000-> have English title: Chinese journal of internal medicine.
+Also issued online. In Chinese; added table of contents and abstracts in English,
+<Jan. 2000- >.
+Other ID: (OCoLC)03112740(DNLM)C21140000(s)
+NLM ID: 16210490R[Serial]
+
+33. Author(s): Deutsche Gesellschaft für Klinische Medizin. Sektion Innere Medizin.
+Title Abbreviation: Z Gesamte Inn Med
+Title(s): Zeitschrift für die gesamte innere Medizin und ihre Grenzgebiete.
+Publication Start Year: 1946
+Publication End Year: 1993
+Frequency: Monthly, 1992-1993
+Country of Publication: Germany
+Publisher: Leipzig : Georg Thieme, [1946]-c1993.
+Description: 48 v. : ill. ; 28 cm.
+Language: German, English, German, Russian
+ISSN: 0044-2542(Print); 0044-2542(Linking)
+Coden: ZGIMAL
+LCCN: sn 86008879
+Fully Indexed In: MEDLINE: v20n12,Jun. 15, 1965-1993; PubMed: v20n12,Jun. 15, 1965-1993; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Microfilm. v. 1 (1946)-12 (1957). 11 microfilm reels : negative ; 35 mm. In
+German; summaries in English, German, and Russian; table of contents also in
+English or Russian. Organ der Gesellschaft für Innere Medizin in der
+Gesellschaft für Klinische Medizin der DDR.
+Other ID: (OCoLC)01770453(DNLM)Z03420000(s)
+NLM ID: 21730470R[Serial]
+
+34. Title Abbreviation: Adv Intern Med
+Title(s): Advances in internal medicine.
+Publication Start Year: 1942
+Publication End Year: 2001
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York, Interscience.
+Latest Publisher: Chicago Il : Year Book Medical Publishers
+Description: v. illus.
+Language: English
+ISSN: 0065-2822(Print); 0065-2822(Linking)
+Coden: AIMNAL
+Fully Indexed In: MEDLINE: v13, 1967-v47, 2001; PubMed: v13, 1967-v47, 2001; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Bibliography at end of each essay. Vol. 30 (1985)
+Misnumbered Vol. 30 (1984). Microfilm. v.1(1942)-11(1962). 5 microfilm reels :
+negative ; 35 mm.
+Other ID: (DNLM)A14280000(s)(OCoLC)01461208
+NLM ID: 0370427[Serial]
+
+35. Author(s): American College of Physicians.; American College of Physicians--American Society
+of Internal Medicine.
+Title Abbreviation: Ann Intern Med
+Title(s): Annals of internal medicine.
+Publication Start Year: 1927
+Publication End Year: 
+Frequency: Monthly, 2021-
+Country of Publication: United States
+Publisher: Philadelphia [etc.] American College of Physicians.
+Latest Publisher: <2001->: Philadelphia, PA : American College of Physicians--American Society of
+Internal Medicine
+Description: v. ill., ports.
+Language: English
+ISSN: 0003-4819(Print); 1539-3704(Electronic); 0003-4819(Linking)
+Coden: AIMEAS
+LCCN: 43032966
+Electronic Links: https://www.acpjournals.org/journal/aim
+Fully Indexed In: MEDLINE: v63n4,Oct. 1965-; Abridged index medicus; Index medicus
+In: PubMed: v63n4,Oct. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Internal Medicine*
+Publication Type(s): Periodical
+Notes: Vols. for 1935-60 include the 1st-13th Rheumatism review, 1932/33-1956/58. Vol.
+2-39 called also old ser. v. 7-44. Part 2 of issues for May 1962-Nov. 1969 is
+numbered also as the journal's Supplement and is cataloged separately at NLM; for
+Nov. 1978?- called also "supplement." Also issued online. Microfilm. v.1
+(1927)-v.34 (1951),v.64 (Jan-Jun 1966),v.65 (Jul-Dec 1966)-v.66 (Jan-Jun
+1967),v.67 (Jul-Dec 1967),v.68 (Jan-Jun 1968), v.69 (1968)-v.75 (1971). 65
+microfilm reels : negative ; 35 mm. Vols. for <2001-> issued by American College 
+of Physicians--American Society of Internal Medicine. Indexes: Vols. 41-50,
+1954-59. 1 v.; Vols. 41-50, June 1954-June 1959. 1 v.
+Other ID: (OCoLC)01481385(DNLM)A34995000(s)
+NLM ID: 0372351[Serial]
+
+36. Author(s): Towarzystwo Internistów Polskich.
+Title Abbreviation: Pol Arch Med Wewn
+Title(s): Polskie Archiwum Medycyny Wewnętrznej.
+Publication Start Year: 1923
+Publication End Year: 2016
+Frequency: Monthly
+Country of Publication: Poland
+Publisher: Warszawa : Państwowy Zakład Wydawnictw Lekarskich
+Latest Publisher: Krakow : Medycyna Praktyczna
+Description: v. illus., ports.
+Language: Polish, English
+ISSN: 
+Coden: PAMWAL
+Electronic Links: http://tip.org.pl/pamw/
+Fully Indexed In: MEDLINE: v35n4, 1965-v126n12, 2016; Index medicus
+In: PubMed: v35n4, 1965-v126n12, 2016, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Issues for 1926-39 also have title: Archives polonaises de médecine interne.
+Issues for 1948-1949 also have title: Polish archives of internal medicine.
+Publication suspended Sept. 1939-1947. Supplements accompany some numbers. Also
+issued online; in both English and Polish. Microfilm. v. 1 (1923)-3 (1925), v. 6 
+(1928)-29 (1959). 21 microfilm reels : negative ; 35 mm. Most articles have
+summaries in French, 1923-39; English, 1948; Russian and English, 1949- ;
+articles in Polish and English, 2007; articles in English, 2008- Organ of the
+Towarzystwo Internistów Polskich, 1923-
+Other ID: (DNLM)P18460000(s)(OCoLC)06523174
+NLM ID: 0401225[Serial]
+
+37. Author(s): Deutsche Gesellschaft für Innere Medizin.; Deutsche Gesellschaft für
+Rheumabekämpfung.; Gesellschaft Deutscher Hämatologen.
+Title Abbreviation: Verh Dtsch Ges Inn Med
+Title(s): Verhandlungen der Deutschen Gesellschaft für Innere Medizin.
+Publication Start Year: 1921
+Publication End Year: 1991
+Frequency: Annual
+Country of Publication: Germany
+Publisher: Munchen : J F Bergmann
+Description: v. illus.,ports.
+Language: German
+ISSN: 0070-4067(Print); 0070-4067(Linking)
+Coden: VDGIA2
+Fully Indexed In: MEDLINE: v71, 1965-1991; PubMed: v71, 1965-1991; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Transactions of the 49th congress issued in cooperation with the Deutsche
+Gesellschaft für Rheumabekämpfung; the 58th congress, with the Gesellschaft
+Deutscher Hämatologen. Consists of proceedings of the 33.- Kongress of the
+Deutsche Gesellschaft für Innere Medizin. Suspended publication 1941-1947.
+Microfilm. v. 41 (1929)-42 (1930), v. 44 (1932)-52 (1940), v. 57 (1951)-63
+(1957), v. 65 (1959), v. 68 (1962). 18 microfilm reels : negative ; 35 mm.
+Indexes: Generalregister; --21.-43. Kongress, 1904-31. 1 v; --44.-69. Kongress,
+1932-63. 1 v.
+Other ID: (DNLM)V02040000(s)(OCoLC)01148703
+NLM ID: 7503702[Serial]
+
+38. Author(s): Nihon Naika Gakkai.
+Title Abbreviation: Nihon Naika Gakkai Zasshi
+Title(s): Nihon Naika Gakkai zasshi. The Journal of the Japanese Society of Internal
+Medicine.
+Publication Start Year: 1913
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Japan
+Publisher: Tōkyō, Nihon Naika Gakkai.
+Description: v. ill.
+Language: Japanese, English
+ISSN: 0021-5384(Print); 1883-2083(Electronic); 0021-5384(Linking)
+Coden: NNGAAS
+LCCN: sn 85005825
+Electronic Links: https://www.jstage.jst.go.jp/browse/naika
+Fully Indexed In: MEDLINE: v54n1, Apr. 1965-v106n3, Mar. 2017; Index medicus
+In: PubMed: v54n1, Apr. 1965-v106n3, Mar. 2017, OLDMEDLINE; 
+Selectively Indexed in: Chemical abstracts
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Issues for 1913-47 have title in Japanese only. Also issued online. Microfilm. v.
+1 (1913)-58 (1969) + Index (1903)-(1912), v. 1 (1913)-51 (1963). 68 microfilm
+reels : negative ; 35 mm. Summaries in English, 1956- Indexes: 1903-Mar.
+1928-Mar. 1929 1 v.; Apr. 1929-Mar. 1939 1 v.; 1903-1952 1 v. (includes index to 
+the journal under its earlier title).
+Other ID: (OCoLC)06439754(DNLM)N26300000(s)
+NLM ID: 19130210R[Serial]
+
+39. Title Abbreviation: Ergeb Inn Med Kinderheilkd
+Title(s): Ergebnisse der inneren Medizin und Kinderheilkunde.
+Publication Start Year: 1908
+Publication End Year: 1993
+Frequency: Annual
+Country of Publication: Germany
+Publisher: Berlin : Springer Verlag
+Description: v. illus.
+Language: German, English
+ISSN: 0071-111X(Print); 0071-111X(Linking)
+Coden: EIMKAM
+Fully Indexed In: MEDLINE: v20, 1963-v61, 1993; PubMed: v20, 1963-v61, 1993; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Internal Medicine*; Pediatrics
+Publication Type(s): Periodical
+Notes: Parallel title: Advances in internal medicine and pediatrics. Each volume, n. F. 
+Bd. 6- has cumulative index for the new series. Bd. 1-25, 1908-24, in v. 25. Bd. 
+26-50, 1924-36, in v. 50. Bd. 51-64, 1936-45 in v. 64. Publication suspended
+1946-48. Microfilm. 1-65 1908-1945. 44 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)E12040000(s)(OCoLC)01568177
+NLM ID: 0370703[Serial]
+
+40. Author(s): Corporación Editora Médica del Valle.; Academia de Medicina del Valle del
+Cauca.; Asociación Colombiana de Medicina Interna. Capítulo del Valle
+Cauca-Nariño.; Sociedad Colombiana de Epidemiología.
+Title Abbreviation: Colomb Med (Cali)
+Title(s): Colombia médica : CM.
+Publication Start Year: 19uu
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Colombia
+Publisher: [Cali, Colombia : Universidad del Valle
+Latest Publisher: enero/marzo 2009- : Cali, Colombia : Universidad del Valle, Facultad de Salud
+Description: v. : ill.
+Language: Spanish, English
+ISSN: 0120-8322(Print); 1657-9534(Electronic); 0120-8322(Linking)
+LCCN: sn 90028183
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9212578, http://colombiamedica.univalle.edu.co/index.php/comedica/index
+Fully Indexed In: MEDLINE: v45n1, Jan-Mar 2014-
+In: PubMed: v43n2, 2012-, PMC
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Colombia; Medicine*; Public Health*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 17, no. 1, published in 1986; title from cover. Print 
+issues ceased with v. 29, no. 1 (1998). Supplements accompany some vols. Also
+issued online. Articles in Spanish; summaries in English and Spanish. Issued by: 
+Corporación Editora Médica del Valle. Official organ of: Academia de Medicina
+del Valle del Cauca; Asociación Colombiana de Medicina Interna, Capítulo del
+Valle Cauca-Nariño; and of Sociedad Colombiana de Epidemiología.
+Other ID: (DNLM)C31130000(s)(OCoLC)21125928
+NLM ID: 9212578[Serial]
+

@@ -1,0 +1,779 @@
+1. Author(s): Sociedade Brasileira de Fonoaudiologia,
+Title Abbreviation: Codas
+Title(s): CoDAS.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Continuously updated, 2017-
+Country of Publication: Brazil
+Publisher: São Paulo : Sociedade Brasileira de Fonoaudiologia
+Description: 1 online resource
+Language: English, Portuguese
+ISSN: 2317-1782(Electronic); 2317-1782(Linking)
+LCCN: 2014243219
+Electronic Links: http://www.scielo.br/scielo.php?script=sci_serial&pid=2317-1782&lng=en&nrm=iso, https://pmc.ncbi.nlm.nih.gov/journals/?term=101623246
+Fully Indexed In: MEDLINE: v25n1, 2013-
+In: PubMed: v25n1, 2013-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Hearing Disorders*; Language Disorders*
+Publication Type(s): Periodical
+Notes: Articles and summaries in English and Portuguese. Search interface available in
+English, Portuguese, and Spanish.
+Other ID: (OCoLC)870989623
+NLM ID: 101623246[Serial]
+
+2. Author(s): Sociedade Brasileira de Fonoaudiologia.
+Title Abbreviation: J Soc Bras Fonoaudiol
+Title(s): Jornal da Sociedade Brasileira de Fonoaudiologia.
+Publication Start Year: 2011
+Publication End Year: 2012
+Frequency: Quarterly
+Country of Publication: Brazil
+Publisher: São Paulo : Sociedade Brasileria de Fonoaudiologia
+Language: English, Portuguese
+ISSN: 2179-6491(Electronic); 2179-6491(Linking)
+LCCN: 2012243661
+Electronic Links: http://www.scielo.br/scielo.php?script=sci_serial&pid=2179-6491&lng=en&nrm=iso
+Fully Indexed In: MEDLINE: v23n1, 2011-v24n4, 2012
+In: PubMed: v23n1, 2011-v24n4, 2012; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hearing Disorders; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Articles and summaries in English and Portuguese. Search interface available in
+English, Portuguese, and Spanish.
+Other ID: (OCoLC)742290361
+NLM ID: 101556333[Serial]
+
+3. Author(s): Speech Pathology Association of Australia.
+Title Abbreviation: Int J Speech Lang Pathol
+Title(s): International journal of speech-language pathology.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Milton Park, Abingdon, U.K. : Informa Healthcare, c2008-
+Latest Publisher: 2015- : Abingdon, Oxford : Taylor & Francis
+Language: English
+ISSN: 1754-9507(Print); 1754-9515(Electronic); 1754-9507(Linking)
+LCCN: 2008243510
+Electronic Links: http://www.tandfonline.com/loi/iasl20
+Fully Indexed In: MEDLINE: v12n1, Feb. 2010-
+In: PubMed: v12n1, Feb. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Language Disorders*; Speech Disorders; Speech-Language Pathology
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)213873298
+NLM ID: 101320232[Serial]
+
+4. Author(s): Royal College of Speech & Language Therapists.
+Title Abbreviation: Int J Lang Commun Disord
+Title(s): International journal of language & communication disorders/ Royal College of
+Speech & Language Therapists.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Bimonthly, 2006-
+Country of Publication: United States
+Publisher: London : Taylor & Francis for the Royal College of Speech & Language Therapists, 
+c1998-
+Latest Publisher: 2011- : Malden, MA : Wiley
+Description: v. ; ill.
+Language: English
+ISSN: 1368-2822(Print); 1460-6984(Electronic); 1368-2822(Linking)
+LCCN: 98657724, sn 98030067
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-6984
+Fully Indexed In: MEDLINE: v33n1,Jan./Feb. 1998-; Index medicus
+In: PubMed: v33n1,Jan./Feb. 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communication Disorders
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 55 (2020). Some vols. accompanied
+by supplements. Also issued online.
+Other ID: (DNLM)SR0092127(s)(OCoLC)38452377
+NLM ID: 9803709[Serial]
+
+5. Author(s): American Speech-Language-Hearing Association.
+Title Abbreviation: J Speech Lang Hear Res
+Title(s): Journal of speech, language, and hearing research : JSLHR.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Monthly, 2017-
+Country of Publication: United States
+Publisher: Rockville, MD : American Speech-Language-Hearing Association, c1997-
+Description: v. : ill.
+Language: English
+ISSN: 1092-4388(Print); 1558-9102(Electronic); 1092-4388(Linking)
+Coden: JSLRF
+LCCN: 97657642, sn 97003401
+Electronic Links: http://jslhr.pubs.asha.org/
+Fully Indexed In: MEDLINE: v40n1,Feb. 1997-; PubMed: v40n1,Feb. 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Hearing Disorders; Language Disorders; Speech Disorders
+Publication Type(s): Periodical
+Notes: Title from cover. Contains supplements. Also issued online.
+Other ID: (DNLM)SR0090851(s)(OCoLC)36241093
+NLM ID: 9705610[Serial]
+
+6. Author(s): Nordisk samarbejdsråd for logopedi og foniatri.; British Voice Association.
+Title Abbreviation: Logoped Phoniatr Vocol
+Title(s): Logopedics, phoniatrics, vocology.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Oslo ; Boston : Scandinavian University Press, c1996-
+Latest Publisher: London : Informa Healthcare
+Description: v. : ill., ports.
+Language: English, Danish, Finnish, Norwegian, Swedish
+ISSN: 1401-5439(Print); 1651-2022(Electronic); 1401-5439(Linking)
+LCCN: sn 97039062
+Electronic Links: http://www.tandfonline.com/loi/ilog20
+Fully Indexed In: MEDLINE: v25n1, 2000-; PubMed: v25n1, 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Language Disorders*; Speech Disorders*; Voice Disorders*; Voice*
+Publication Type(s): Periodical
+Notes: Imprint varies. Print issues ceased with v. 39, no. 4 (2009). Also issued online.
+In English; summaries in English, Finnish and either Danish, Norwegian, or
+Swedish. Official journal of the Scandinavian Cooperation Council of Logopedics
+and Phoniatrics and of the British Voice Association.
+Other ID: (DNLM)SR0089942(s)(OCoLC)36182643
+NLM ID: 9617311[Serial]
+
+7. Author(s): International Association of Logopedics and Phoniatrics.
+Title Abbreviation: Folia Phoniatr Logop
+Title(s): Folia phoniatrica et logopaedica : official organ of the International
+Association of Logopedics and Phoniatrics (IALP).
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Switzerland
+Publisher: Basel ; New York : Karger, c1994-
+Description: v. : ill.
+Language: English, German, French
+ISSN: 1021-7762(Print); 1421-9972(Electronic); 1021-7762(Linking)
+Coden: FPLOEP
+Electronic Links: http://www.karger.com/Journal/Home/224177
+Fully Indexed In: MEDLINE: 46.1, 1994-; PubMed: 46.1, 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Speech Disorders*; Voice Disorders*
+Publication Type(s): Periodical
+Notes: Also available online. In English, French, and German.
+Other ID: (DNLM)SR0077878(s)(OCoLC)29750095
+NLM ID: 9422792[Serial]
+
+8. Author(s): Academy of Neurologic Communication Disorders and Sciences.
+Title Abbreviation: J Med Speech Lang Pathol
+Title(s): Journal of medical speech-language pathology.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: San Diego, Calif. : Singular Pub. Group, [1993-
+Latest Publisher: San Diego, CA : Plural Publishing Inc.
+Description: v. : ill.
+Language: English
+ISSN: 1065-1438(Print); 1065-1438(Linking)
+Coden: JSLPEP
+LCCN: sn 92000364
+Electronic Links: https://www.pluralpublishing.com/journals_JMSLP.htm
+In: PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Citations are for articles where the manuscript was deposited in PubMed Central (PMC) in compliance with public access policies. For further information, see <a href="/pmc/about/authorms/" target="new">Author Manuscripts in PMC.</a>
+MeSH: Language Disorders*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Also issued online. Official journal of the Academy of Neurologic Communication
+Disorders and Sciences, <2000>-
+Other ID: (DNLM)SR0077037(s)(OCoLC)26514546
+NLM ID: 9315244[Serial]
+
+9. Author(s): College of Speech and Language Therapists.; Royal College of Speech & Language
+Therapists.
+Title Abbreviation: Eur J Disord Commun
+Title(s): European journal of disorders of communication : the journal of the College of
+Speech and Language Therapists, London.
+Publication Start Year: 1992
+Publication End Year: 1997
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : Whurr Publishers, c1992-c1997.
+Description: 6 v. : ill.
+Language: English, French, German
+ISSN: 0963-7273(Print); 0963-7273(Linking)
+Coden: EJDCEW
+LCCN: 93648636, sn 92038177
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-6984, https://www.tandfonline.com/loi/ilcd19
+Fully Indexed In: MEDLINE: v27n1, 1992-v32n4, 1997; PubMed: v27n1, 1992-v32n4, 1997; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communication Disorders
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. for 1997 includes special issues, not conforming to
+regular numbering pattern. Supplements accompany some vols. Also issued online.
+In English; abstracts in English, French, and German. Issued by: College of
+Speech and Language Therapists, 1992- ; by the Royal College of Speech & Language
+Therapists, 19 -1997.
+Other ID: (DNLM)SR0072189(s)(OCoLC)25647838
+NLM ID: 9208302[Serial]
+
+10. Author(s): American Speech-Language-Hearing Association.
+Title Abbreviation: Am J Speech Lang Pathol
+Title(s): American journal of speech-language pathology/ American Speech-Language-Hearing
+Association.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Six no. a year, 2021-
+Country of Publication: United States
+Publisher: Rockville Md : American Speech-Language-Hearing Association
+Description: v. : ill., ports.
+Language: English
+ISSN: 1058-0360(Print); 1558-9110(Electronic); 1058-0360(Linking)
+Coden: AJSPFZ
+Electronic Links: http://ajslp.pubs.asha.org/
+Fully Indexed In: MEDLINE: v12n1, Feb. 2003-; PubMed: v12n1, Feb. 2003-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Language Disorders*; Language Therapy*; Speech Disorders*; Speech Therapy*; Speech-Language Pathology*
+Publication Type(s): Periodical
+Notes: Three times a year. Title from cover. Contains supplements. Also issued online.
+Other ID: (DNLM)SR0072340(s)(OCoLC)24201505
+NLM ID: 9114726[Serial]
+
+11. Title Abbreviation: Clin Commun Disord
+Title(s): Clinics in communication disorders.
+Publication Start Year: 1991
+Publication End Year: 1994
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Reading, MA : Andover, c1991-[1994]
+Latest Publisher: < >-1994: Woburn Ma : Butterworth-Heinemann
+Description: v. : ill.
+Language: English
+ISSN: 1054-8505(Print); 1054-8505(Linking)
+Fully Indexed In: MEDLINE: v1n1, spring 1991-v4n4, fall 1994; Index medicus
+In: PubMed: v1n1, spring 1991-v4n4, fall 1994; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communication Disorders*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Each issue has also a distinctive title.
+Other ID: (DNLM)SR0071131(s)(OCoLC)22994143
+NLM ID: 9113696[Serial]
+
+12. Author(s): American Speech-Language-Hearing Association.
+Title Abbreviation: ASHA Suppl
+Title(s): ASHA. Supplement.
+Publication Start Year: 1990
+Publication End Year: 1999
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Rockville, MD : ASHA, American Speech-Language-Hearing Association, [1990-
+Description: v. : ill.
+Language: English
+ISSN: 1072-8929(Print); 1072-8929(Linking)
+Fully Indexed In: MEDLINE: n1,Feb. 1990-n19, Mar.-Apr. 1999; PubMed: n1,Feb. 1990-n19, Mar.-Apr. 1999; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hearing Disorders*; Language Disorders*; Speech Disorders*
+Publication Type(s): BibliographyPeriodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0075209(s)(OCoLC)22502664
+NLM ID: 9214642[Serial]
+
+13. Title Abbreviation: Pro Fono
+Title(s): Pró-fono : revista de atualização científica.
+Publication Start Year: 1989
+Publication End Year: 2010
+Frequency: Quarterly, 2007-
+Country of Publication: Brazil
+Publisher: Carapicuiba, São Paulo [Brazil] : Pró-Fono Departamento Editorial, Pró-Fono
+Produtos Especializados para Fonoaudiologia Ltda.,
+Latest Publisher: Barueri, São Paulo : Pró-Fono Departamento Editorial, Pró-Fono Produtos
+Especializados para Fonaudiologia Ltda
+Description: v.
+Language: Portuguese, English
+ISSN: 0104-5687(Print); 1809-399X(Electronic); 0104-5687(Linking)
+Electronic Links: http://bibpurl.oclc.org/web/13040
+Fully Indexed In: MEDLINE: v16n1, 2004-v22n4, 2010; Index medicus
+In: PubMed: v16n1, 2004-v22n4, 2010; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hearing Disorders; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 10, no. 2 (set. 1998); title from cover. Also issued
+online. In Portuguese; summaries also in English. Online version available in
+Portuguese and English, 2005-2010. Search interface available in Portuguese,
+Spanish and English.
+Other ID: (OCoLC)45840903
+NLM ID: 100930630[Serial]
+
+14. Title Abbreviation: Clin Linguist Phon
+Title(s): Clinical linguistics & phonetics.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Eight no. a year, 2000-
+Country of Publication: England
+Publisher: London ; New York : Taylor & Francis, c1987-
+Latest Publisher: London : Informa Healthcare
+Description: v. : ill.
+Language: English
+ISSN: 0269-9206(Print); 1464-5076(Electronic); 0269-9206(Linking)
+LCCN: 88656131, sn 87045212
+Electronic Links: http://www.tandfonline.com/loi/iclp20
+Fully Indexed In: MEDLINE: v16n1, Jan./Feb. 2002-; PubMed: v16n1, Jan./Feb. 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Language Disorders*; Linguistics*; Phonetics*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0057437(s)(OCoLC)14814635
+NLM ID: 8802622[Serial]
+
+15. Author(s): International Society for Augmentative and Alternative Communication.
+Title Abbreviation: Augment Altern Commun
+Title(s): Augmentative and alternative communication : AAC/ sponsored by the International 
+Society for Augmentative and Alternative Communication.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: [Baltimore, MD : Williams and Wilkins, c1985-
+Latest Publisher: 2015- : Abingdon, Oxford : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 0743-4618(Print); 1477-3848(Electronic); 0743-4618(Linking)
+Electronic Links: http://www.tandfonline.com/loi/iaac20
+Fully Indexed In: MEDLINE: v22n1, Mar. 2006-
+In: PubMed: v22n1, Mar. 2006-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nonverbal Communication*; Speech Disorders/rehabilitation*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of: the International
+Society of Augmentative and Alternative Communication.
+Other ID: (DNLM)SR0051385(s)(OCoLC)10587086
+NLM ID: 8504574[Serial]
+
+16. Title Abbreviation: Semin Speech Lang
+Title(s): Seminars in speech and language.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [New York, N.Y.] : Thieme-Stratton, [c1983-
+Latest Publisher: New York Ny : Thieme Stratton
+Description: v. : ill., ports.
+Language: English
+ISSN: 0734-0478(Print); 1098-9056(Electronic); 0734-0478(Linking)
+Coden: SSLAEB
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000076
+Fully Indexed In: MEDLINE: v16n1,Feb. 1995-; PubMed: v16n1,Feb. 1995-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Language Disorders*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)S19385000(s)(OCoLC)08674477
+NLM ID: 8405117[Serial]
+
+17. Author(s): Société d'oto-rhino-laryngologie de Lyon et de la région.
+Title Abbreviation: J Fr Otorhinolaryngol Audiophonol Chir Maxillofac
+Title(s): Journal français d'oto-rhino-laryngologie; audiophonologie, chirurgie
+maxillo-faciale.
+Publication Start Year: 1977
+Publication End Year: 2003
+Frequency: Six no. a year
+Country of Publication: France
+Publisher: Lyon, Simep-éditions.
+Latest Publisher: Villeurbanne : Simep-éditions
+Description: v. ill.
+Language: French
+ISSN: 0398-9771(Print); 0398-9771(Linking)
+Fully Indexed In: MEDLINE: v26, 1977-v33n9, Nov. 1984; Index medicus
+In: PubMed: v26, 1977-v33n9, Nov. 1984; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Face/surgery*; Hearing*; Maxilla/surgery*; Otolaryngology*
+Publication Type(s): Periodical
+Notes: Bulletin of the Société d'oto-rhino-laryngologie de Lyon et de la région. Vol.
+44, no 6 (1995) not published. Articles in French; table of contents in French
+and English.
+Other ID: (DNLM)J21800000(s)(OCoLC)03443385
+NLM ID: 7703703[Serial]
+
+18. Author(s): South African Speech and Hearing Association.
+Title Abbreviation: S Afr J Commun Disord
+Title(s): The South African journal of communication disorders = Die Suid-Afrikaanse
+tydskrif vir Kommunikasieafwykings.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Annual
+Country of Publication: South Africa
+Publisher: Johannesburg, South African Speech and Hearing Assn.
+Latest Publisher: <2015- > : Durbanville, South Africa : AOSIS Publishing
+Description: v. ill.
+Language: English, Afrikaans
+ISSN: 0379-8046(Print); 2225-4765(Electronic); 0379-8046(Linking)
+Coden: SAJDDJ
+Electronic Links: http://www.sajcd.org.za/index.php/sajcd, https://pmc.ncbi.nlm.nih.gov/journals/?term=7805099
+Fully Indexed In: MEDLINE: v24, 1977-; Index medicus
+In: PubMed: v24, 1977-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Hearing Disorders*; Language Disorders*; Speech Disorders*
+Notes: Also issued online. Text in Afrikaans or English.
+Other ID: (OCoLC)04420584(DNLM)S31660000(s)
+NLM ID: 7805099[Serial]
+
+19. Title Abbreviation: Brain Lang
+Title(s): Brain and language.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Twelve no. a year, 2001-
+Country of Publication: Netherlands
+Publisher: New York, Academic Press.
+Latest Publisher: <2000- > : Amsterdam : Elsevier
+Description: v. illus.
+Language: English, English
+ISSN: 0093-934X(Print); 1090-2155(Electronic); 0093-934X(Linking)
+Electronic Links: http://www.sciencedirect.com/science/journal/0093934X
+Fully Indexed In: MEDLINE: v2n1, Jan. 1975-; Index medicus
+In: PubMed: v2n1, Jan. 1975-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain*; Language*; Psycholinguistics*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)B33080000(s)(OCoLC)01793424
+NLM ID: 7506220[Serial]
+
+20. Author(s): Research Foundation for Communication Disorders.
+Title Abbreviation: J Fluency Disord
+Title(s): Journal of fluency disorders.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Tampa, Research Foundation for Communication Disorders.
+Latest Publisher: New York, NY : Elsevier
+Description: v. ill.
+Language: English, English
+ISSN: 0094-730X(Print); 1873-801X(Electronic); 0094-730X(Linking)
+Coden: JFDID8
+LCCN: 74-646546
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-fluency-disorders
+Fully Indexed In: MEDLINE: v27n1, spring 2002-; PubMed: v27n1, spring 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Speech Disorders*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J21300000(s)(OCoLC)01795295
+NLM ID: 7601744[Serial]
+
+21. Author(s): South African Speech and Hearing Association.
+Title Abbreviation: J S Afr Speech Hear Assoc
+Title(s): Journal of the South African Speech and Hearing Association.
+Publication Start Year: 1971
+Publication End Year: 1976
+Frequency: Irregular
+Country of Publication: South Africa
+Publisher: Johannesburg, South African Speech and Hearing Assn.
+Description: 6 v. ill.
+Language: English, Afrikaans
+ISSN: 0300-9874(Print); 0300-9874(Linking)
+Coden: JSHABP
+Fully Indexed In: MEDLINE: v18n1, Dec. 1971-v23, Dec. 1976; Index medicus
+In: PubMed: v18n1, Dec. 1971-v23, Dec. 1976; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hearing Disorders*; Hearing*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Text in English or Afrikaans.
+Other ID: (OCoLC)01224405(DNLM)J39120000(s)
+NLM ID: 7505628[Serial]
+
+22. Author(s): American Speech and Hearing Association.
+Title Abbreviation: Lang Speech Hear Serv Sch
+Title(s): Language, speech, and hearing services in schools.
+Publication Start Year: 1971
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Washington, American Speech and Hearing Assn.
+Description: v. illus., ports.
+Language: English
+ISSN: 0161-1461(Print); 1558-9129(Electronic); 0161-1461(Linking)
+Coden: LGSHA4
+LCCN: 83642143, sn 80001583
+Electronic Links: http://lshss.asha.org/
+Fully Indexed In: MEDLINE: v35n1, Jan. 2004-; Index medicus
+In: PubMed: v35n1, Jan. 2004-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Child; Education, Special*; Hearing Disorders*; Infant; School Health Services*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Called also Journal of language, speech, and hearing services in schools and
+LS&HSS. Also issued online.
+Other ID: (OCoLC)02280683(DNLM)L02180000(s)
+NLM ID: 0323431[Serial]
+
+23. Title Abbreviation: J Commun Disord
+Title(s): Journal of communication disorders.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Bimonthly, 1966-
+Country of Publication: United States
+Publisher: Amsterdam, North-Holland Pub. Co.
+Latest Publisher: New York Ny : Elsevier Scientific Publishing
+Description: v. illus.
+Language: English
+ISSN: 0021-9924(Print); 1873-7994(Electronic); 0021-9924(Linking)
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-communication-disorders
+Fully Indexed In: MEDLINE: v7n3, Sept. 1974-; Index medicus
+In: PubMed: v7n3, Sept. 1974-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communication*; Hearing Disorders*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J17420000(s)(OCoLC)01037366
+NLM ID: 0260316[Serial]
+
+24. Author(s): College of Speech Therapists.
+Title Abbreviation: Br J Disord Commun
+Title(s): The British journal of disorders of communication.
+Publication Start Year: 1966
+Publication End Year: 1991
+Frequency: Three no. a year
+Country of Publication: England
+Publisher: London : College Of Speech Therapists London
+Description: 26 v. illus.
+Language: English
+ISSN: 0007-098X(Print); 0007-098X(Linking)
+Coden: BJDCBU
+LCCN: sf 85001066, sn 84000088
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-6984, https://www.tandfonline.com/loi/ilcd20
+Fully Indexed In: MEDLINE: v1n1,Apr. 1966-v26n2,Aug. 1991; PubMed: v1n1,Apr. 1966-v26n2,Aug. 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communication*; Speech Disorders*; Speech Therapy*
+Publication Type(s): Periodical
+Notes: The journal of the College of Speech Therapists. Also issued online.
+Other ID: (DNLM)B34620000(s)(OCoLC)01537282
+NLM ID: 0052704[Serial]
+
+25. Author(s): American Speech and Hearing Association.
+Title Abbreviation: ASHA Monogr
+Title(s): ASHA monographs.
+Publication Start Year: 1965
+Publication End Year: 1993
+Frequency: Irregular
+Country of Publication: United States
+Publisher: [Washington] American Speech and Hearing Assn.
+Latest Publisher: Washington Dc : American Speech And Hearing Association
+Description: v.
+Language: English
+ISSN: 0066-071X(Print); 0066-071X(Linking)
+Coden: ASHMAT
+Fully Indexed In: MEDLINE: n13,Oct. 1969-n30,Dec. 1993; PubMed: n13,Oct. 1969-n30,Dec. 1993; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Deafness*; Hearing*; Speech Disorders*
+Publication Type(s): Periodical
+Other ID: (DNLM)A69225000(s)(OCoLC)07016009
+NLM ID: 14470400R[Serial]
+
+26. Author(s): American Speech and Hearing Association.; American Speech-Language-Hearing
+Association.
+Title Abbreviation: ASHA
+Title(s): ASHA.
+Publication Start Year: 1959
+Publication End Year: 1999
+Frequency: Bimonthly, 1999-
+Country of Publication: United States
+Publisher: Washington, American Speech and Hearing Assn.
+Latest Publisher: Rockville, MD : American Speech-Language-Hearing Association
+Description: v.
+Language: English
+ISSN: 0001-2475(Print); 0001-2475(Linking)
+Coden: ASHJAK
+Fully Indexed In: MEDLINE: v6n7,Jul. 1964-v41n6, Nov./Dec. 1999; PubMed: v6n7,Jul. 1964-v41n6, Nov./Dec. 1999; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Deafness*; Hearing Disorders*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Has supplement: ASHA. Supplement. Place of publication varies. Vols. for Mar.
+1979- issued by the American Speech-Language-Hearing cAssociation.
+Other ID: (OCoLC)01514403(DNLM)A69210000(s)
+NLM ID: 0370563[Serial]
+
+27. Author(s): American Speech and Hearing Association.; American Speech-Language-Hearing
+Association.
+Title Abbreviation: J Speech Hear Res
+Title(s): Journal of speech and hearing research.
+Publication Start Year: 1958
+Publication End Year: 1996
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Washington, American Speech and Hearing Assn.
+Latest Publisher: Rockville Md : American Speech And Hearing Association
+Description: 39 v. ill.
+Language: English
+ISSN: 0022-4685(Print); 0022-4685(Linking)
+Coden: JSPHAH
+Fully Indexed In: MEDLINE: v8n3, Sept. 1965-v39n6, Dec. 1996; PubMed: v8n3, Sept. 1965-v39n6, Dec. 1996; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hearing*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Issued by: American Speech-Language-Hearing Association, 1979?- .
+Other ID: (OCoLC)01754814(DNLM)J39500000(s)
+NLM ID: 0376336[Serial]
+
+28. Title Abbreviation: Lang Speech
+Title(s): Language and speech.
+Publication Start Year: 1958
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Teddington : Kingston Press
+Latest Publisher: 1999- : London : Sage
+Description: v. : ill. ; 25 cm.
+Language: English
+ISSN: 0023-8309(Print); 1756-6053(Electronic); 0023-8309(Linking)
+Coden: LANSA4
+Electronic Links: https://journals.sagepub.com/home/las
+Fully Indexed In: MEDLINE: v8n3,Jul./Sept. 1965-; Index medicus
+In: PubMed: v8n3,Jul./Sept. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Language*; Phonetics; Speech
+Publication Type(s): Periodical
+Other ID: (DNLM)L02160000(s)(OCoLC)01755538
+NLM ID: 2985214R[Serial]
+
+29. Author(s): College of Speech Therapists.
+Title Abbreviation: Speech Pathol Ther
+Title(s): Speech pathology and therapy.
+Publication Start Year: 1958
+Publication End Year: 1965
+Frequency: Irregular
+Country of Publication: England
+Publisher: London : College Of Speech Therapists
+Description: 8 v. in illus.
+Language: English
+ISSN: 0584-8687(Print)
+Coden: SPATAM
+Fully Indexed In: MEDLINE: v8n2,Oct. 1965; PubMed: v8n2,Oct. 1965; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Speech Disorders*
+Publication Type(s): Periodical
+Notes: Journal of the College of Speech Therapists.
+Other ID: (DNLM)S35640000(s)(OCoLC)01715148
+NLM ID: 0123303[Serial]
+
+30. Title Abbreviation: Phonetica
+Title(s): Phonetica.
+Publication Start Year: 1957
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: Basel [etc.]
+Latest Publisher: [Berlin, Germany] : De Gruyter
+Description: v. illus., ports.
+Language: English
+ISSN: 0031-8388(Print); 1423-0321(Electronic); 0031-8388(Linking)
+Coden: PHNTAW
+Electronic Links: https://www.degruyter.com/journal/key/PHON/html, http://www.karger.com/Journal/Home/224275
+Fully Indexed In: MEDLINE: v24n1, 1971-; PubMed: v24n1, 1971-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Phonetics*
+Publication Type(s): Periodical
+Notes: Also available online. Articles in English, French, or German, with summaries in 
+the three languages.
+Other ID: (OCoLC)01642569(DNLM)P13280000(s)
+NLM ID: 0376424[Serial]
+
+31. Author(s): American Speech and Hearing Association.; American Speech Correction
+Association.; American Speech and Hearing Association., Directory.
+Title Abbreviation: J Speech Hear Disord
+Title(s): The Journal of speech and hearing disorders.
+Publication Start Year: 1948
+Publication End Year: 1990
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Danville, Ill., American Speech and Hearing Assn.
+Latest Publisher: Rockville Md : American Speech And Hearing Association
+Description: v. illus., ports.
+Language: English
+ISSN: 0022-4677(Print); 0022-4677(Linking)
+Coden: JSHDAX
+Fully Indexed In: MEDLINE: v30n4,Nov. 1965-v55,Nov. 1990; PubMed: v30n4,Nov. 1965-v55,Nov. 1990; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hearing Disorders*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Cumulative index, v. 1-15, 1936-50, with v. 15. Oct. issue 1956- is the annual
+directory number of the American Speech and Hearing Assn. Supplement for 1953 (A.
+S. H. A. annual directory) bound with v. 18. Microfilm. v. 33 (1968)-35 (1970). 2
+microfilm reels : negative ; 35 mm. Vol. 13, no. 1 issued by the American Speech 
+Correction Association.
+Other ID: (DNLM)J39460000(s)(OCoLC)01329550
+NLM ID: 0376335[Serial]
+
+32. Author(s): International Association of Logopedics and Phoniatrics.; New York Society for
+Speech and Voice Therapy.
+Title Abbreviation: Folia Phoniatr (Basel)
+Title(s): Folia phoniatrica.
+Publication Start Year: 1947
+Publication End Year: 1993
+Frequency: Six no. a year
+Country of Publication: Switzerland
+Publisher: Basel, Karger.
+Description: 45 v.
+Language: German
+ISSN: 0015-5705(Print); 0015-5705(Linking)
+Coden: FOPHAD
+Electronic Links: http://www.karger.com/fpl
+Fully Indexed In: MEDLINE: v18n1, 1966-v45, 1993; PubMed: v18n1, 1966-v45, 1993; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Speech Disorders*
+Publication Type(s): Periodical
+Notes: Called also Journal international de phoniatrie, Internationale Zeitschrift für 
+Phoniatrie, and International journal of phoniatrics. English title varies
+slightly. Articles in French, German, or English; summaries in all three.
+Official organ of the New York Society for Speech and Voice Therapy and of the
+Internationale Gesellschaft für Logopädie und Phoniatrie.
+Other ID: (DNLM)F08860000(s)(OCoLC)01335356
+NLM ID: 0424467[Serial]
+
+33. Author(s): Acoustical Society of America.; Acoustical Society of America. Meeting.
+Title Abbreviation: J Acoust Soc Am
+Title(s): The Journal of the Acoustical Society of America.
+Publication Start Year: 1929
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Lancaster, Pa. [etc.] : American Institute of Physics for the Acoustical Society 
+of America
+Latest Publisher: Melville, NY : American Institute of Physics
+Description: v. illus.,ports.
+Language: English
+ISSN: 0001-4966(Print); 1520-8524(Electronic); 0001-4966(Linking)
+Coden: JASMAN
+LCCN: 32001514, sn 78000654
+Electronic Links: https://pubs.aip.org/asa/jasa
+In: PubMed: v38n3, Sept. 1965-, OLDMEDLINE
+Selectively Indexed in: MEDLINEv38n3, Sept. 1965-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Acoustics*
+Publication Type(s): Periodical
+Notes: Online version has section with title: JASA express letters. Supplements
+accompany some issues. Semiannual supplements for fall 1974- consist of the
+program of the 88th- Meeting of the Acoustical Society of America formerly
+included in issues of the Journal. Also issued online. Microfilm. v. 27 (1955)-v.
+28 (1956), v. 38 (1965) 3 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)J10580000(s)(OCoLC)01226792
+NLM ID: 7503051[Serial]
+

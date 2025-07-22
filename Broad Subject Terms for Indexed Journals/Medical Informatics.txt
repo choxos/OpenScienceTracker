@@ -1,0 +1,2280 @@
+1. Author(s): American Health Information Management Association,
+Title Abbreviation: Adv Health Inf Sci Pract
+Title(s): Advances in health information science and practice.
+Publication Start Year: 2025
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: United States
+Publisher: Chicago, IL : American Health Information Management Association, [2025]-
+Language: English
+ISSN: 3066-5825(Electronic); 3066-5825(Linking)
+LCCN: 2025200048
+Electronic Links: https://ahisp.ahima.org/OA-J
+Fully Indexed In: MEDLINE: v1n1, 2025-
+In: PubMed: v1n1, 2025-, PMC Forthcoming; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Information Management; Information Systems; Medical Informatics; Medical Records*
+Publication Type(s): Periodical
+Other ID: (OCoLC)1490006089
+NLM ID: 9919050935306676[Serial]
+
+2. Author(s): Society for Imaging Informatics in Medicine,
+Title Abbreviation: J Imaging Inform Med
+Title(s): Journal of imaging informatics in medicine.
+Publication Start Year: 2024
+Publication End Year: 
+Country of Publication: Switzerland
+Publisher: [Cham, Switzerland] : Springer Nature, [2024]-
+Description: 1 online resource
+Language: English
+ISSN: 2948-2933(Electronic); 2948-2925(Print); 2948-2925(Linking)
+LCCN: 2024228216
+Electronic Links: https://www.springer.com/journal/10278, https://pmc.ncbi.nlm.nih.gov/journals/?term=9918663679206676
+Fully Indexed In: MEDLINE: v37n1, 2024-
+In: PubMed: v37n1, 2024-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Medical Informatics; Radiology Information Systems
+Publication Type(s): Periodical
+Notes: Also issued in print. "Official peer-reviewed journal of the Society for Imaging 
+Informatics in Medicine (SIIM)."
+Other ID: (OCoLC)1429763729
+NLM ID: 9918663679206676[Serial]
+
+3. Title Abbreviation: JMIR Infodemiology
+Title(s): JMIR infodemiology.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Canada
+Publisher: Toronto, ON, Canada : JMIR Publications, [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2564-1891(Electronic); 2564-1891(Linking)
+LCCN: cn2021028689
+Electronic Links: https://infodemiology.jmir.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=9918249014806676
+Fully Indexed In: MEDLINE: v1n1, Jan.-Dec. 2021-
+In: PubMed: v1n1, Jan.-Dec. 2021-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Communication; Infodemic; Infodemiology*
+Publication Type(s): Periodical
+Notes: Articles are published online as received and cumulated into volumes.
+Complemented by (work): JMIR public health and surveillance 2369-2960 (DLC)
+2016243150 w (OCoLC)945063488 (DNLM)101669345.
+Other ID: (OCoLC)1262566408
+NLM ID: 9918249014806676[Serial]
+
+4. Author(s): BCS, The Chartered Institute for IT,
+Title Abbreviation: BMJ Health Care Inform
+Title(s): BMJ health & care informatics.
+Publication Start Year: 2019
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BMJ Publishing, [2019]-
+Description: 1 online resource
+Language: English
+ISSN: 2632-1009(Electronic); 2632-1009(Linking)
+LCCN: 2019243066
+Electronic Links: https://informatics.bmj.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101745500
+Fully Indexed In: MEDLINE: v26n1, Apr. 2019-
+In: PubMed: v26n1, Apr. 2019-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Informatics*
+Publication Type(s): Periodical
+Notes: Articles published as they become available and compiled into issues. Official
+publication of BCS, The Chartered Institute for IT.
+Other ID: (OCoLC)1099670708
+NLM ID: 101745500[Serial]
+
+5. Title Abbreviation: Lancet Digit Health
+Title(s): The Lancet. Digital health.
+Publication Start Year: 2019
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [Oxford] : Elsevier Ltd., [2019]-
+Description: 1 online resource
+Language: English
+ISSN: 2589-7500(Electronic); 2589-7500(Linking)
+LCCN: 2019243146
+Electronic Links: https://www.sciencedirect.com/journal/the-lancet-digital-health
+Fully Indexed In: MEDLINE: v1n1, May 2019-
+In: PubMed: v1n1, May 2019-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology; Medical Informatics*
+Publication Type(s): Periodical
+Other ID: (OCoLC)1103228733
+NLM ID: 101751302[Serial]
+
+6. Title Abbreviation: JMIR Aging
+Title(s): JMIR aging.
+Publication Start Year: 2018
+Publication End Year: 
+Frequency: Biannual
+Country of Publication: Canada
+Publisher: [Toronto, ON] : JMIR Publications Inc., [2018]-
+Description: 1 online resource
+Language: English
+ISSN: 2561-7605(Electronic); 2561-7605(Linking)
+LCCN: 2019243037
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101740387, https://aging.jmir.org/
+Fully Indexed In: MEDLINE: v6n1, Jan.-Dec. 2023-
+In: PubMed: v1n1, 2018-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Aged; Aging*; Geriatrics
+Publication Type(s): Periodical
+Notes: Articles published as they become available and compiled into biannual issues.
+Complemented by (work): Journal of medical internet research 1438-8871 (DLC)
+00252482 (OCoLC)42705591 (DNLM)100959882.
+Other ID: (OCoLC)1089882593
+NLM ID: 101740387[Serial]
+
+7. Author(s): BCS, The Chartered Institute for IT,
+Title Abbreviation: J Innov Health Inform
+Title(s): Journal of innovation in health informatics.
+Publication Start Year: 2014
+Publication End Year: 2018
+Country of Publication: England
+Publisher: Swindon : BCS, the Chartered Institute for IT
+Description: 1 online resource
+Language: English
+ISSN: 2058-4563(Electronic); 2058-4555(Print); 2058-4555(Linking)
+LCCN: 2015243105
+Electronic Links: https://informatics.bmj.com/content/by/year
+Fully Indexed In: MEDLINE: v22n1, 2015-v25n4, 2018
+In: PubMed: v22n1, 2015-v25n4, 2018; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Informatics*; Primary Health Care*
+Publication Type(s): Periodical
+Notes: Some articles in Vol. 22, no. 1 published electronically in 2014.
+Other ID: (OCoLC)904797368
+NLM ID: 101651620[Serial]
+
+8. Title Abbreviation: Big Data
+Title(s): Big data.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Bimonthly, 2020-
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc., 2013-
+Description: volumes : illustrations ; 28 cm
+Language: English
+ISSN: 2167-6461(Print); 2167-647X(Electronic); 2167-6461(Linking)
+LCCN: 2012202830
+Electronic Links: http://online.liebertpub.com/loi/BIG
+Fully Indexed In: MEDLINE: v4n1, Mar. 2016-
+In: PubMed: v4n1, Mar. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Access to Information; Data Mining*; Information Dissemination; Information Management
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)793201400
+NLM ID: 101631218[Serial]
+
+9. Author(s): Institute of Electrical and Electronics Engineers,; IEEE Engineering in Medicine 
+and Biology Society,
+Title Abbreviation: IEEE J Biomed Health Inform
+Title(s): IEEE journal of biomedical and health informatics.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Six issues yearly
+Country of Publication: United States
+Publisher: New York, NY : Institute of Electrical and Electronics Engineers, 2013-
+Language: English
+ISSN: 2168-2194(Print); 2168-2208(Electronic); 2168-2194(Linking)
+LCCN: 2012200553
+Electronic Links: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020
+Fully Indexed In: MEDLINE: v17n1, Jan. 2013-
+In: PubMed: v17n1, Jan. 2013-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 20 (2016). Also issued online.
+Other ID: (OCoLC)795362713
+NLM ID: 101604520[Serial]
+
+10. Author(s): JMIR Publications,
+Title Abbreviation: JMIR Med Inform
+Title(s): JMIR medical informatics.
+Publication Start Year: 2013
+Publication End Year: 
+Country of Publication: Canada
+Publisher: Toronto : JMIR Publications, [2013]-
+Description: 1 online resource
+Language: English
+ISSN: 2291-9694(Electronic); 2291-9694(Linking)
+LCCN: 2014243771
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101645109, http://medinform.jmir.org/
+Fully Indexed In: MEDLINE: v12, 2024-
+In: PubMed: v1n1, 2013-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Informatics*
+Publication Type(s): Periodical
+Notes: Issue for Volume 1 (2013), Issue 1 also called: Inaugural issue. Articles are
+added continuously to the current semiannual volume.
+Other ID: (OCoLC)893889796
+NLM ID: 101645109[Serial]
+
+11. Title Abbreviation: JMIR Mhealth Uhealth
+Title(s): JMIR mHealth and uHealth.
+Publication Start Year: 2013
+Publication End Year: 
+Country of Publication: Canada
+Publisher: Toronto: JMIR Publications Inc., [2013]-
+Description: 1 online resource
+Language: English
+ISSN: 2291-5222(Electronic); 2291-5222(Linking)
+LCCN: 2014243192
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101624439, http://mhealth.jmir.org/
+Fully Indexed In: MEDLINE: v7n1, Jan. 2019-
+In: PubMed: v1, 2013-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology*; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Complemented by (work): JMIR formative research 2561-326X (DLC) 2019243000
+(DNLM)101726394.
+Other ID: (OCoLC)858979937
+NLM ID: 101624439[Serial]
+
+12. Author(s): IEEE Computational Intelligence Society.; Institute of Electrical and Electronics
+Engineers.
+Title Abbreviation: IEEE Trans Neural Netw Learn Syst
+Title(s): IEEE transactions on neural networks and learning systems.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Piscataway, NJ : Institute of Electrical and Electronics Engineeers
+Language: English
+ISSN: 2162-237X(Print); 2162-2388(Electronic); 2162-237X(Linking)
+Coden: ITNNEP
+LCCN: 2011200425
+Electronic Links: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=5962385
+In: PubMed: v23n1, Jan. 2012-; 
+Selectively Indexed in: MEDLINEv23n1, Jan. 2012-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Artificial Intelligence; Neural Networks, Computer*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2023. Also issued online.
+Other ID: (OCoLC)738510259
+NLM ID: 101616214[Serial]
+
+13. Author(s): Society for Research Synthesis Methodology.
+Title Abbreviation: Res Synth Methods
+Title(s): Research synthesis methods.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Malden, MA : John Wiley & Sons, 2010-
+Latest Publisher: <Mar. 2014-> : Chichester : Wiley Blackwell
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1759-2879(Print); 1759-2887(Electronic); 1759-2879(Linking)
+LCCN: 2010208799
+Electronic Links: https://onlinelibrary.wiley.com/loi/17592887, https://www.cambridge.org/core/journals/research-synthesis-methods
+Fully Indexed In: MEDLINE: v6n1, Mar. 2015-
+In: PubMed: v6n1, Mar. 2015- ; selected citations only before this date, PMC
+Forthcoming; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Meta-Analysis as Topic; Research Design*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)635483614
+NLM ID: 101543738[Serial]
+
+14. Author(s): Association of Medical Directors of Information Systems.; International Medical
+Informatics Association.
+Title Abbreviation: Appl Clin Inform
+Title(s): Applied clinical informatics.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Five no. a year, 2018-
+Country of Publication: Germany
+Publisher: Hölderlinstr, Germany : Schattauer
+Latest Publisher: 2018- : Stuttgart, Germany : Thieme
+Language: English
+ISSN: 1869-0327(Electronic); 1869-0327(Linking)
+LCCN: 2010243765
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101537732, https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00035026
+Fully Indexed In: MEDLINE: v4n1, 2013-
+In: PubMed: v0, 2009-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Delivery of Health Care; Information Storage and Retrieval; Medical Informatics*; Medical Records Systems, Computerized
+Notes: Title from caption (Schattauer, viewed March 2010). Official eJournal of IMIA and
+AMDIS. Mode of access: World Wide Web.
+Other ID: (OCoLC)560344029
+NLM ID: 101537732[Serial]
+
+15. Title Abbreviation: Wiley Interdiscip Rev Syst Biol Med
+Title(s): Wiley interdisciplinary reviews. Systems biology and medicine.
+Publication Start Year: 2009
+Publication End Year: 2020
+Frequency: Six no. a year, 2010-
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons
+Description: v.
+Language: English
+ISSN: 1939-5094(Print); 1939-005X(Electronic); 1939-005X(Linking)
+LCCN: 2007216047
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-005X
+Fully Indexed In: MEDLINE: v1n1, July-Aug 2009-v12n6, Nov-Dec 2020
+In: PubMed: v1n1, July-Aug 2009-v12n6, Nov-Dec 2020; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine; Systems Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.3 (2012) Also issued online.
+Other ID: (OCoLC)164587206
+NLM ID: 101516550[Serial]
+
+16. Title Abbreviation: Inform Health Soc Care
+Title(s): Informatics for health & social care.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : Informa Healthcare
+Language: English
+ISSN: 1753-8157(Print); 1753-8165(Electronic); 1753-8157(Linking)
+LCCN: 2007213199
+Electronic Links: http://www.tandfonline.com/loi/imif20
+Fully Indexed In: MEDLINE: v33n1, 2008-; PubMed: v33n1, 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Informatics*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)154676918
+NLM ID: 101475011[Serial]
+
+17. Author(s): Institute of Health Record & Information Management.
+Title Abbreviation: J (Inst Health Rec Inf Manag)
+Title(s): The journal.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: [England] : IHRIM
+Language: English
+ISSN: 
+LCCN: 2009243394
+Electronic Links: http://www.ihrim.co.uk/
+Fully Indexed In: MEDLINE: v49n2, July 2008-v50n2, June 2009
+In: PubMed: v49n2, July 2008-v50n2, June 2009; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Information Management; Medical Records*; Societies; United Kingdom
+Other Subject(s): Institute of Health Record & Information Management.
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 49, no. 2 (July 2008); title from cover. Latest issue 
+consulted: Vol. 49, no. 3 (Oct. 2008). Print issues ceased with v. 50, no.2
+(2009).
+Other ID: (OCoLC)390769272
+NLM ID: 101507025[Serial]
+
+18. Title Abbreviation: Comput Math Methods Med
+Title(s): Computational and mathematical methods in medicine.
+Publication Start Year: 2006
+Publication End Year: 2024
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: London : Taylor & Francis, c2006-
+Latest Publisher: 2011-2024 : New York : Hindawi
+Description: v.
+Language: English
+ISSN: 1748-670X(Print); 1748-6718(Electronic); 1748-670X(Linking)
+LCCN: 2006243991
+Electronic Links: http://www.hindawi.com/journals/cmmm/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101277751
+Fully Indexed In: MEDLINE: v11n1, 2010-v2023, 2023
+In: PubMed: v11n1, 2010-v2023, 2023, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Models, Biological; Models, Theoretical*
+Publication Type(s): Periodical
+Notes: Title from cover. Some articles in Volume 2023 published in 2024. Also issued
+online.
+Other ID: (OCoLC)75626978
+NLM ID: 101277751[Serial]
+
+19. Title Abbreviation: Curr Comput Aided Drug Des
+Title(s): Current computer-aided drug design.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Five issues a year, 2019-
+Country of Publication: United Arab Emirates
+Publisher: Sharjah, U.A.E. ; San Francisco, CA : Bentham Science Publishers, c2005-
+Description: v.
+Language: English
+ISSN: 1573-4099(Print); 1875-6697(Electronic); 1573-4099(Linking)
+LCCN: 2006243245
+Electronic Links: http://www.eurekaselect.com/582/journal/current-computer-aided-drug-design
+Fully Indexed In: MEDLINE: v6n1, Mar. 2010-
+In: PubMed: v6n1, Mar. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computer-Aided Design*; Drug Design*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)67290518
+NLM ID: 101265750[Serial]
+
+20. Author(s): American Chemical Society.
+Title Abbreviation: J Chem Inf Model
+Title(s): Journal of chemical information and modeling.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Monthly, 2009-
+Country of Publication: United States
+Publisher: Washington, D.C. : American Chemical Society, c2005-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1549-9596(Print); 1549-960X(Electronic); 1549-9596(Linking)
+LCCN: 2004212268
+Electronic Links: http://pubs.acs.org/jcim
+Fully Indexed In: MEDLINE: v45n1, Jan./Feb. 2005-
+In: PubMed: v45n1, Jan./Feb. 2005-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry*; Informatics; Models, Molecular
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)54952514
+NLM ID: 101230060[Serial]
+
+21. Author(s): Institute of Health Record & Information Management.
+Title Abbreviation: New J (Inst Health Rec Inf Manag)
+Title(s): The new journal : the journal of the Institute of Health Record Information
+Management (UK).
+Publication Start Year: 2005
+Publication End Year: 2007
+Country of Publication: England
+Publisher: [England] : IHRIM, [2005]-
+Description: v. : ill.
+Language: English
+ISSN: 
+LCCN: 2006243650
+Fully Indexed In: MEDLINE: v46n1, Feb. 2005-v48n1, Mar. 2007; PubMed: v46n1, Feb. 2005-v48n1, Mar. 2007
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Records*
+Other Subject(s): Institute of Health Record & Information Management
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 48, no. 1 (Mar. 2007).
+Other ID: (OCoLC)70879699
+NLM ID: 101284929[Serial]
+
+22. Author(s): Institute of Health Record & Information Management.
+Title Abbreviation: For Your Inf (Inst Health Rec Inf Manag)
+Title(s): For your information/ Institute of Health Record & Information Management.
+Publication Start Year: 2004
+Publication End Year: 2004
+Country of Publication: England
+Publisher: [Boston, England?] : IHRIM
+Description: v. : ill.
+Language: English
+LCCN: 2006243649
+Fully Indexed In: MEDLINE: v45n1, Jan. 2004-v45n6, Nov. 2004; PubMed: v45n1, Jan. 2004-v45n6, Nov. 2004
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Records*
+Other Subject(s): Institute of Health Record & Information Management
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 45, issue 2 (Apr. 2004); title from caption. Vol. 45, 
+issue 6 (Nov. 2004) misnumbered as v. 46, issue 6.
+Other ID: (OCoLC)70879606
+NLM ID: 101284925[Serial]
+
+23. Author(s): American Health Information Management Association.
+Title Abbreviation: Perspect Health Inf Manag
+Title(s): Perspectives in health information management/ AHIMA, American Health Information
+Management Association.
+Publication Start Year: 2004
+Publication End Year: 2024
+Frequency: Irregular
+Country of Publication: United States
+Publisher: [Chicago, Ill.] : American Health Information Management Association, c2004-
+Language: English
+ISSN: 1559-4122(Electronic); 1559-4122(Linking)
+LCCN: 2004243462
+Electronic Links: http://perspectives.ahima.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101219871
+Fully Indexed In: MEDLINE: v4, 2007-v21n2, 2024
+In: PubMed: v4, 2007-v21n2, 2024, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Information Management; Information Systems; Medical Records*
+Publication Type(s): Periodical
+Notes: Title from HTML title bar: AHIMA perspectives in health information. Called also:
+PHIM. Title from journal home page (publisher Web site, viewed June 7, 2004).
+Latest issue consulted: 1:4 (June 1, 2004) (viewed June 7, 2004). Articles added 
+on an individual basis as accepted. Mode of access: Internet.
+Other ID: (OCoLC)55737787
+NLM ID: 101219871[Serial]
+
+24. Author(s): IEEE Computational Systems Bioinformatics Conference.; IEEE Computer Society.
+Title Abbreviation: Proc IEEE Comput Syst Bioinform Conf
+Title(s): Proceedings/ IEEE Computational Systems Bioinformatics Conference, CSB.
+Publication Start Year: 2004
+Publication End Year: 2005
+Frequency: Annual
+Country of Publication: United States
+Publisher: Los Alamitos, Calif. : IEEE Computer Society, c2004-
+Description: 2 v. : ill.
+Language: English
+ISSN: 1551-7497(Print); 1551-7497(Linking)
+LCCN: 2004213994
+Fully Indexed In: MEDLINE: v3, 2004-2005; PubMed: v3, 2004-2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computational Biology/methods*; Genetic Techniques; Genomics
+Publication Type(s): Congress
+Other ID: (OCoLC)56106044
+NLM ID: 101240586[Serial]
+
+25. Author(s): AMIA Symposium.; American Medical Informatics Association.
+Title Abbreviation: AMIA Annu Symp Proc
+Title(s): AMIA ... Annual Symposium proceedings/ AMIA Symposium.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Bethesda, MD : American Medical Informatics Association, c2003-
+Description: CD-ROMs : col. ; 4 3/4 in.
+Language: English
+ISSN: 1559-4076(Undetermined); 1942-597X(Electronic); 1559-4076(Linking)
+LCCN: 2004243223
+Electronic Links: https://knowledge.amia.org/all-proceedings, https://pmc.ncbi.nlm.nih.gov/journals/?term=101209213, https://amiasso.omnipress.com/nlm-login/index.php
+Fully Indexed In: MEDLINE: 2003-; Index medicus
+In: PubMed: 2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Informatics Applications*; Medical Informatics Computing
+Publication Type(s): Congress
+Notes: Title on container: American Medical Informatics Association ... proceedings.
+Title from disc label. Each issue also has theme title. Vols. for 2003- also
+called 27th - Annual Symposium. 2004 not published; included as part of Medinfo. 
+Also issued online. System requirements: Pentium processor; 64 MB of RAM; Windows
+95, 98, 2000, ME, XP or NT 4.0; 4x CD-ROM drive; Adobe Acrobat Reader 5.0. System
+requirements: Macintosh PowerPC processor; 64 MB of application RAM; Mac OS 9.0.4
+or later, CarbonLib 1.2.5 or later; 4x CD-ROM drive; Adobe Acrobat Reader 5.0.
+System requirements: UNIX Sun SPARCstation; 32 MB machine; SunOS ver. 2.3, Open
+Windows 3.0 or Motif ver. 1.2.3.; Adobe Acrobat Reader 5.0. System requirements: 
+HP Series 9000, model 700, HP-UX 9.0.3; 32 MB machine; HP-VUE environment; Adobe 
+Acrobat Reader 5.0.
+Other ID: (OCoLC)54768555
+NLM ID: 101209213[Serial]
+
+26. Title Abbreviation: Comput Biol Chem
+Title(s): Computational biology and chemistry.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford : Pergamon, c2003-
+Latest Publisher: Oxford : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 1476-9271(Print); 1476-928X(Electronic); 1476-9271(Linking)
+LCCN: 2003252370
+Electronic Links: http://www.sciencedirect.com/science/journal/14769271
+Selectively Indexed in: MEDLINEv27n1, Feb. 2003-PubMedv27n1, Feb. 2003-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+Notes: Also known as: CBAC. Also issued online.
+Other ID: (OCoLC)51986992
+NLM ID: 101157394[Serial]
+
+27. Title Abbreviation: Appl Bioinformatics
+Title(s): Applied bioinformatics.
+Publication Start Year: 2002
+Publication End Year: 2006
+Frequency: Four no. a year
+Country of Publication: New Zealand
+Publisher: Auckland, N.Z. : Open Mind Journals, c2002-
+Latest Publisher: Auckland, N.Z. : Adis
+Description: v.
+Language: English
+ISSN: 1175-5636(Print); 1175-5636(Linking)
+LCCN: 2003243005
+Fully Indexed In: MEDLINE: v1n1, 2002-v5n4, 2006; PubMed: v1n1, 2002-v5n4, 2006; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computational Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 1, no. 2 (2002).
+Other ID: (OCoLC)51337125
+NLM ID: 101150311[Serial]
+
+28. Title Abbreviation: Comput Inform Nurs
+Title(s): Computers, informatics, nursing : CIN.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Hagerstown, MD : Lippincott Williams & Wilkins, c2002-
+Description: v. : ill.
+Language: English
+ISSN: 1538-2931(Print); 1538-9774(Electronic); 1538-2931(Linking)
+LCCN: 2002213412
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00024665-000000000-00000
+Fully Indexed In: MEDLINE: v20n2, Mar./Apr. 2002-; Index medicus
+In: PubMed: v20n2, Mar./Apr. 2002-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Nursing
+MeSH: Computers; Medical Informatics*; Nursing Care; Nursing*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2011. Also issued online.
+Other ID: (OCoLC)48691893
+NLM ID: 101141667[Serial]
+
+29. Author(s): British Computer Society. Primary Health Care Specialist Group.
+Title Abbreviation: Inform Prim Care
+Title(s): Informatics in primary care.
+Publication Start Year: 2002
+Publication End Year: 2014
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Abingdon, Oxon, UK : Published for the Primary Health Care Specialist Group of
+the British Computer Society by Radcliffe Medical Press
+Latest Publisher: <2014- > : London : BCS, the Chartered Institute for IT
+Description: v. : ill.
+Language: English
+ISSN: 1476-0320(Print); 1475-9985(Electronic); 1475-9985(Linking)
+LCCN: 2002243453
+Electronic Links: http://hijournal.bcs.org/index.php/jhi/issue/archive
+Fully Indexed In: MEDLINE: v11n1, 2003-v21n4, Nov. 2014; Index medicus
+In: PubMed: v11n1, 2003-v21n4, Nov. 2014; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Informatics; Primary Health Care*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 10, no. 1 (2002); title from cover. Print issues
+ceased with v. 20 (2012). Also issued online.
+Other ID: (OCoLC)49955692
+NLM ID: 101150138[Serial]
+
+30. Title Abbreviation: Neuroinformatics
+Title(s): Neuroinformatics.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Totowa, NJ : Humana Press, Inc., c2003-
+Description: v. : ill.
+Language: English
+ISSN: 1539-2791(Print); 1559-0089(Electronic); 1539-2791(Linking)
+LCCN: 2002213167
+Electronic Links: https://link.springer.com/journal/12021
+Fully Indexed In: MEDLINE: v1n1, spring 2003-; PubMed: v1n1, spring 2003-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computer Simulation; Models, Neurological; Neural Networks, Computer; Neurosciences*
+Publication Type(s): Periodical
+Notes: Online version has title: Neuroinformatics online. Title from cover. Also issued 
+online.
+Other ID: (OCoLC)49376960
+NLM ID: 101142069[Serial]
+
+31. Author(s): IEEE Computer Society Bioinformatics Conference.; IEEE Computer Society.; IEEE
+Computer Society. Technical Committee on Bioinformatics.; Association for
+Computing Machinery.
+Title Abbreviation: Proc IEEE Comput Soc Bioinform Conf
+Title(s): Proceedings/ IEEE Computer Society Bioinformatics Conference.
+Publication Start Year: 2002
+Publication End Year: 2003
+Frequency: Annual
+Country of Publication: United States
+Publisher: Los Alamitos, CA : IEEE Computer Society Press, c2002-c2003.
+Description: 2 v. : ill.
+Language: English
+ISSN: 1555-3930(Print); 1555-3930(Linking)
+LCCN: 2004243606
+Fully Indexed In: MEDLINE: v1, 2002-v2, 2003; PubMed: v1, 2002-v2, 2003; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computational Biology/methods*; Genetic Techniques; Genomics
+Publication Type(s): Congress
+Notes: Vol. for 2003 has title: Proceedings of the ... IEEE Bioinformatics Conference.
+Sponsored by IEEE Computer Society, 2002; sponsored by the IEEE Computer Society 
+Technical Committee on Bioinformatics, in cooperation with ACM, 2003.
+Other ID: (OCoLC)56323347
+NLM ID: 101223605[Serial]
+
+32. Title Abbreviation: BMC Med Inform Decis Mak
+Title(s): BMC medical informatics and decision making.
+Publication Start Year: 2001
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2001-
+Language: English
+ISSN: 1472-6947(Electronic); 1472-6947(Linking)
+LCCN: 2002243105
+Electronic Links: https://bmcmedinformdecismak.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101088682
+Fully Indexed In: MEDLINE: v1, 2001-; Index medicus
+In: PubMed: v1, 2001-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Decision Making; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Title from BioMed Central archive volume screen (viewed on Feb. 15, 2002).
+Articles are added consecutively to the current annual v. Mode of access:
+Internet.
+Other ID: (OCoLC)47657389
+NLM ID: 101088682[Serial]
+
+33. Author(s): Library Association. Health Libraries Group.; Chartered Institute of Library and 
+Information Professionals (Great Britain). Health Libraries Group.
+Title Abbreviation: Health Info Libr J
+Title(s): Health information and libraries journal.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Oxford, UK : Blackwell Science Ltd., c2001-
+Description: v. : ill.
+Language: English
+ISSN: 1471-1834(Print); 1471-1842(Electronic); 1471-1834(Linking)
+LCCN: 2001227071
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-1842
+Fully Indexed In: MEDLINE: v18n1, Mar. 2001-; PubMed: v18n1, Mar. 2001-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Health Administration (non-Index Medicus); Index Medicus
+MeSH: Libraries, Medical*; Medical Informatics; United Kingdom
+Publication Type(s): Periodical
+Notes: Title from cover. Has separately paged section called: LA Health Libraries Group 
+newsletter, (began Mar. 2001), also separatly published; CILIP Health Libraries
+Group newsletter, <Mar. 2004->, also separately published. Also issued online.
+Official journal of the Health Libraries Group of the Library Association, Mar.
+2001- ; of the Health Libraries Group of the Chartered Institute of Library and
+Information Professionals, <Mar. 2004->
+Other ID: (OCoLC)46775002
+NLM ID: 100970070[Serial]
+
+34. Title Abbreviation: J Biomed Inform
+Title(s): Journal of biomedical informatics.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: San Diego, CA : Academic Press, c2001-
+Latest Publisher: Orlando : Elsevier
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1532-0464(Print); 1532-0480(Electronic); 1532-0464(Linking)
+Coden: JBIOBL
+LCCN: 00212506
+Electronic Links: http://www.sciencedirect.com/science/journal/15320464
+Fully Indexed In: MEDLINE: v34n1, Feb. 2001-; PubMed: v34n1, Feb. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Informatics*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 58 (2015). Also available to
+subscribers via the World Wide Web; full-text in PDF, tables of contents and
+abstracts in HTML.
+Other ID: (OCoLC)45147179
+NLM ID: 100970413[Serial]
+
+35. Author(s): Institute of Health Record Information and Management.
+Title Abbreviation: Journal (Inst Health Rec Inf Manag)
+Title(s): The journal : the journal of the Institute of Health Record Information and
+Management (UK).
+Publication Start Year: 2000
+Publication End Year: 2003
+Country of Publication: England
+Publisher: Boston, Lincs : IHRIM, [2000-
+Description: 4 v. : ill.
+Language: English
+ISSN: 
+LCCN: 2006243647
+Fully Indexed In: MEDLINE: v41n3, June 2000-v44n4, Dec. 2003
+In: PubMed: v41n3, June 2000-v44n4, Dec. 2003; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Records*
+Other Subject(s): Institute of Health Record Information and Management
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 44, no. 1 (Mar. 2003) misnumbered as v. 45, no. 4.
+Other ID: (OCoLC)70879392
+NLM ID: 101284924[Serial]
+
+36. Author(s): American Telemedicine Association.
+Title Abbreviation: Telemed J E Health
+Title(s): Telemedicine journal and e-health : the official journal of the American
+Telemedicine Association.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Ten no. a year, 2008-
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., c2000-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1530-5627(Print); 1556-3669(Electronic); 1530-5627(Linking)
+LCCN: 00214891
+Electronic Links: http://online.liebertpub.com/loi/tmj
+Fully Indexed In: MEDLINE: v6n3, Fall 2000-; Index medicus
+In: PubMed: v6n3, Fall 2000-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Telemedicine*
+Publication Type(s): Periodical
+Notes: Issues for 2005- have title: Telemedicine and e-health. Title from cover. Also
+available via World Wide Web.
+Other ID: (OCoLC)44260660
+NLM ID: 100959949[Serial]
+
+37. Title Abbreviation: J Med Internet Res
+Title(s): Journal of medical Internet research.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Monthly, 2013-
+Country of Publication: Canada
+Publisher: [Pittsburgh, PA? : s.n., 1999-
+Latest Publisher: <2011- > : Toronto : JMIR Publications
+Language: English
+ISSN: 1438-8871(Electronic); 1439-4456(Print); 1438-8871(Linking)
+LCCN: 00252482
+Electronic Links: http://www.jmir.org, https://pmc.ncbi.nlm.nih.gov/journals/?term=100959882
+Fully Indexed In: MEDLINE: v1n1, Aug. 1999-; Index medicus
+In: PubMed: v1n1, Aug. 1999-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Information Services*; Internet; Medical Informatics; Research
+Publication Type(s): Periodical
+Notes: HTML source title: JMIR. Title from journal home page (viewed Mar. 13, 1999).
+Articles are published continuously online as soon as they are available
+(peer-reviewed and copy-edited). The Journal collates them into archival "issues"
+(about 4 issues per year) and "volumes" (one per year). Text (electronic journal)
+Supplements accompany some issues. Abstracts and selected short articles to be
+published as a printed version. Mode of access: World Wide Web. Sister journal:
+JMIR public health and surveillance 2369-2960 (DLC) 2016243150 (OCoLC)945063488. 
+Complemented by (work): Journal of medical education 2369-3762. Complemented by
+(work): JMIR cancer 2369-1999 (DLC) 2016243424 (OCoLC)961318577. Complemented by 
+(work): JMIR cardio 2561-1011 (DLC) 2019243127 (DNLM)101718325. Complemented by
+(work): JMIR formative research 2561-326X (DLC) 2019243000 (DNLM)101726394.
+Other ID: (OCoLC)42705591
+NLM ID: 100959882[Serial]
+
+38. Author(s): Society for the Internet in Medicine.
+Title Abbreviation: Med Inform Internet Med
+Title(s): Medical informatics and the Internet in medicine.
+Publication Start Year: 1999
+Publication End Year: 2007
+Frequency: Quarterly
+Country of Publication: England
+Publisher: [London ; Bristol, PA] : Taylor & Francis, c1999-c2007.
+Description: v. : ill.
+Language: English
+ISSN: 1463-9238(Print); 1463-9238(Linking)
+LCCN: sn99-47126
+Electronic Links: http://www.tandfonline.com/loi/imif20
+Fully Indexed In: MEDLINE: v24n1, Jan.-Mar. 1999-v32n4, Dec. 2007; PubMed: v24n1, Jan.-Mar. 1999-v32n4, Dec. 2007; Hospital and health administration index: 1999; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electronic Data Processing; Internet; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. An official journal of: The Society for the
+Internet in Medicine, European Federation for Medical Informatics and other
+organizations.
+Other ID: (OCoLC)41061270
+NLM ID: 100883495[Serial]
+
+39. Author(s): European Society for Computing and Technology in Anaesthesia and Intensive Care.;
+Society for Technology in Anesthesia.; American Society of Neurophysiological
+Monitoring.
+Title Abbreviation: J Clin Monit Comput
+Title(s): Journal of clinical monitoring and computing.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Eight no. a year
+Country of Publication: Netherlands
+Publisher: Dordrecht, The Netherlands ; Boston : Kluwer Academic Publishers, c1998-
+Latest Publisher: Amsterdam : Springer
+Description: v. : ill.
+Language: English
+ISSN: 1387-1307(Print); 1573-2614(Electronic); 1387-1307(Linking)
+Coden: JCMCFG
+LCCN: sn98-47222
+Electronic Links: https://link.springer.com/journal/10877
+Fully Indexed In: MEDLINE: v14n1,Jan. 1998-; PubMed: v14n1,Jan. 1998-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anesthesia; Computer Systems; Computing Methodologies; Monitoring, Physiologic
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the European Society
+for Computing and Technology in Anaesthesia and Intensive Care, and of the
+Society for Technology in Anesthesia. Official journal of the American Society of
+Neurophysiological Monitoring, <Jan. 2002->
+Other ID: (DNLM)SR0092193(s)(OCoLC)38955970
+NLM ID: 9806357[Serial]
+
+40. Author(s): Healthcare Information and Management Systems Society.
+Title Abbreviation: J Healthc Inf Manag
+Title(s): Journal of healthcare information management : JHIM.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Chicago, IL : San Francisco : Healthcare Information and Management Systems
+Society ; Jossey-Bass Publishers, c1998-
+Description: v. ; 23 cm.
+Language: English
+ISSN: 1099-811X(Print); 1943-734X(Electronic); 1099-811X(Linking)
+LCCN: 99113499, sn 98000705
+Electronic Links: http://www.himss.org/ASP/publications_jhim.asp
+Fully Indexed In: MEDLINE: v12n3, fall 1998-v24n3, summer 2010
+In: PubMed: v12n3, fall 1998-v27n3, 2013; 
+Selectively Indexed in: Hospital and health administration indexv12n3, fall 1998-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Information Systems/organization & administration*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 24, no. 4(2010). Also issued online.
+Other ID: (OCoLC)39231871(DNLM)SR0093525(s)
+NLM ID: 9815773[Serial]
+
+41. Author(s): International Conference on Medical Image Computing and Computer-Assisted
+Intervention.
+Title Abbreviation: Med Image Comput Comput Assist Interv
+Title(s): Medical image computing and computer-assisted intervention : MICCAI ...
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Germany
+Publisher: Berlin ; New York : Springer, c1998-
+Description: v. : ill. ; 24 cm.
+Language: English
+LCCN: 2005243585
+Fully Indexed In: MEDLINE: v8, 2005-Sept. 2018; PubMed: v8, 2005-Sept. 2018 ; Selected citations only after this date
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnosis, Computer-Assisted*; Diagnostic Imaging; Image Processing, Computer-Assisted; Robotics.; Surgery, Computer-Assisted; Therapy, Computer-Assisted
+Publication Type(s): Congress
+Notes: Latest issue consulted: 7th (Sept. 26-29, 2004). Vols. for 2002- issued in 2
+vols. Also issued online.
+Other ID: (OCoLC)40395223
+NLM ID: 101249582[Serial]
+
+42. Author(s): AMIA Symposium.; American Medical Informatics Association.
+Title Abbreviation: Proc AMIA Symp
+Title(s): Proceedings/ AMIA ... Annual Symposium.
+Publication Start Year: 1998
+Publication End Year: 2002
+Frequency: Annual
+Country of Publication: United States
+Publisher: Philadelphia : Hanley & Belfus, c1998-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1531-605X(Print); 1531-605X(Linking)
+LCCN: sn98-48089
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=100883449
+Fully Indexed In: MEDLINE: 1998-2002; Index medicus
+In: PubMed: 1998-2002, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computer Communication Networks; Medical Informatics Applications*; Medical Informatics Computing
+Publication Type(s): Congress
+Notes: Each issue also has a theme title. Also issued on CD-ROM. "A conference of the
+American Medical Informatics Association."
+Other ID: (OCoLC)40265527
+NLM ID: 100883449[Serial]
+
+43. Title Abbreviation: Health Informatics J
+Title(s): Health informatics journal.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Sheffield, UK : Sheffield Academic Press, [1997-
+Latest Publisher: London : SAGE Publications
+Description: v. : ill.
+Language: English
+ISSN: 1460-4582(Print); 1741-2811(Electronic); 1460-4582(Linking)
+LCCN: sn 99039672
+Electronic Links: https://journals.sagepub.com/home/jhi
+Fully Indexed In: MEDLINE: v12n1, Mar. 2006-; PubMed: v12n1, Mar. 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Informatics*
+Publication Type(s): Periodical
+Notes: Beginning with 2021-, articles published as they are received and compiled into
+quarterly issues. Also issued online.
+Other ID: (OCoLC)41732344
+NLM ID: 100883604[Serial]
+
+44. Author(s): Institute of Electrical and Electronics Engineers.; IEEE Engineering in Medicine 
+and Biology Society.
+Title Abbreviation: IEEE Trans Inf Technol Biomed
+Title(s): IEEE transactions on information technology in biomedicine : a publication of the
+IEEE Engineering in Medicine and Biology Society.
+Publication Start Year: 1997
+Publication End Year: 2012
+Frequency: Bimonthly, <Nov. 2012->
+Country of Publication: United States
+Publisher: New York, NY : Institute of Electrical and Electronics Engineers, c1997-
+Description: v. : ill., ports.
+Language: English
+ISSN: 1089-7771(Print); 1558-0032(Electronic); 1089-7771(Linking)
+Coden: ITIBFX
+LCCN: 97648354, sn96000676
+Electronic Links: http://ieeexplore.ieee.org/servlet/opac?punumber=4233
+Fully Indexed In: MEDLINE: v1n1, Mar. 1997-16n4, Nov. 2012; PubMed: v1n1, Mar. 1997-16n4, Nov. 2012; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electronic Data Processing*; Medical Informatics; Medicine
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0091598(s)(OCoLC)35127413
+NLM ID: 9712259[Serial]
+
+45. Title Abbreviation: Int J Med Inform
+Title(s): International journal of medical informatics.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Ireland
+Publisher: Shannon, Co. Clare, Ireland : Elsevier Science Ireland Ltd., c1997-
+Description: v. : ill.
+Language: English
+ISSN: 1386-5056(Print); 1872-8243(Electronic); 1386-5056(Linking)
+LCCN: sn97-42548
+Electronic Links: https://www.sciencedirect.com/journal/international-journal-of-medical-informatics
+Fully Indexed In: MEDLINE: v44n1,Mar. 1997-; PubMed: v44n1,Mar. 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Informatics
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0090830(s)(OCoLC)36830661
+NLM ID: 9711057[Serial]
+
+46. Author(s): AMIA Fall Symposium.; American Medical Informatics Association.
+Title Abbreviation: Proc AMIA Annu Fall Symp
+Title(s): Proceedings : a conference of the American Medical Informatics Association/ ...
+AMIA Annual Fall Symposium.
+Publication Start Year: 1996
+Publication End Year: 1997
+Frequency: Annual
+Country of Publication: United States
+Publisher: Philadelphia : Hanley & Belfus, c1996-c1997.
+Latest Publisher: Philadelphia Pa : Hanley And Belfus
+Description: 2 v. : ill.
+Language: English
+ISSN: 1091-8280(Print); 1091-8280(Linking)
+LCCN: sn96-48246
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9617342
+Fully Indexed In: MEDLINE: 1996-1997; PubMed: 1996-1997; Index medicus
+In: PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Informatics Applications*
+Publication Type(s): Congress
+Notes: Each issue also has a theme title. Also available in CD-ROM, -1997 and issued
+online.
+Other ID: (DNLM)SR0089987(s)(OCoLC)35907613
+NLM ID: 9617342[Serial]
+
+47. Title Abbreviation: Telemed Virtual Real
+Title(s): Telemedicine and virtual reality.
+Publication Start Year: 1996
+Publication End Year: 1998
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Hagerstown, MD : Lippincott-Raven, c1996-
+Description: v.
+Language: English
+ISSN: 1089-5841(Print); 1089-5841(Linking)
+LCCN: sn96-626
+Selectively Indexed in: MEDLINEv2n1,Jan. 1997-v3n12, 1998PubMedv2n1,Jan. 1997-v3n12, 1998
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Computer Communication Networks; Telemedicine; User-Computer Interface
+Publication Type(s): Periodical
+Notes: Title from caption.
+Other ID: (DNLM)SR0089492(s)(OCoLC)35044905
+NLM ID: 9617314[Serial]
+
+48. Title Abbreviation: Health Inf Syst Telemed
+Title(s): Health information systems and telemedicine.
+Publication Start Year: 1995
+Publication End Year: 1996
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, DC : Arent Fox
+Language: English
+Electronic Links: Access not provided by NLM
+Fully Indexed In: MEDLINE: v1, 1995-1996; PubMed: v1, 1995-1996
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+Other ID: (DNLM)SR0090780(s)
+Collection Status: Not in the NLM Collection
+NLM ID: 9806447[Serial]
+
+49. Author(s): IEEE Computer Society.
+Title Abbreviation: IEEE Trans Vis Comput Graph
+Title(s): IEEE transactions on visualization and computer graphics.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Six no. a year, 2005-
+Country of Publication: United States
+Publisher: New York, NY : IEEE Computer Society, c1995-
+Description: v. : ill. (some col.) ; 28 cm.
+Language: English
+ISSN: 1077-2626(Print); 1941-0506(Electronic); 1077-2626(Linking)
+Coden: ITVGEA
+LCCN: 95648240, sn 94002675
+Electronic Links: http://ieeexplore.ieee.org/servlet/opac?punumber=2945
+Selectively Indexed in: MEDLINEv10n1, Jan./Feb. 2004-PubMedv10n1, Jan./Feb. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computer Graphics*; Computer Simulation; Image Processing, Computer-Assisted
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 10, no. 1 (Jan./Feb. 2004). Print 
+issues ceased with v. 22 (2016). Also issued online.
+Other ID: (OCoLC)30748801(DNLM)SR0091651(s)
+NLM ID: 9891704[Serial]
+
+50. Title Abbreviation: J Telemed Telecare
+Title(s): Journal of telemedicine and telecare.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Eight no. a year, 2009-
+Country of Publication: England
+Publisher: London : Published and distributed by Royal Society of Medicine Press, c1995-
+Latest Publisher: Dec. 2012- : London : Sage
+Description: v. : ill.
+Language: English
+ISSN: 1357-633X(Print); 1758-1109(Electronic); 1357-633X(Linking)
+LCCN: sn 95050143
+Electronic Links: https://journals.sagepub.com/home/jtt
+Fully Indexed In: MEDLINE: v3n1, 1997-; Index medicus
+In: PubMed: v3n1, 1997-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Telemedicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0082125(s)(OCoLC)33812452
+NLM ID: 9506702[Serial]
+
+51. Title Abbreviation: Telemed Telehealth Netw
+Title(s): Telemedicine and telehealth networks : newsmagazine of distance healthcare.
+Publication Start Year: 1995
+Publication End Year: 1998
+Frequency: Monthly
+Country of Publication: United States
+Publisher: San Francisco, CA : Miller Freeman, Inc., [1995-
+Description: v. : ill.
+Language: English
+ISSN: 1091-7853(Print); 1091-7853(Linking)
+Selectively Indexed in: MEDLINEv3n1,Jan. 1997-v.4n2, Apr. 1998PubMedv3n1,Jan. 1997-v4n2, Apr. 1998
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Telemedicine*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0086559(s)(OCoLC)34335571
+NLM ID: 9601797[Serial]
+
+52. Author(s): American Telemedicine Association.
+Title Abbreviation: Telemed J
+Title(s): Telemedicine journal : the official journal of the American Telemedicine
+Association.
+Publication Start Year: 1995
+Publication End Year: 2000
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Larchmont, N.Y. : Mary Ann Liebert, Inc., c1995-c2000.
+Description: 6 v. : ill.
+Language: English
+ISSN: 1078-3024(Print); 1078-3024(Linking)
+LCCN: sn 94001074
+Electronic Links: http://www.liebertonline.com/tmj
+Fully Indexed In: MEDLINE: v1n1, Spring 1995-v6n2, Summer 2000; Index medicus
+In: PubMed: v1n1, Spring 1995-v6n2, Summer 2000; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Telemedicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available on the World Wide Web.
+Other ID: (DNLM)SR0082523(s)(OCoLC)31057356
+NLM ID: 9507612[Serial]
+
+53. Author(s): Health Information Management Association of Australia.
+Title Abbreviation: Health Inf Manag
+Title(s): Health information management : journal of the Health Information Management
+Association of Australia.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Australia
+Publisher: North Melbourne : The Association, 1994-
+Latest Publisher: 2016- : Thousand Oaks, CA : SAGE Publications
+Description: v. : ill., ports.
+Language: English
+ISSN: 1322-4913(Print); 1833-3575(Electronic); 1833-3583(Linking)
+Electronic Links: https://journals.sagepub.com/home/him
+Fully Indexed In: MEDLINE: v24n1, Mar. 1994-; PubMed: v24n1, Mar. 1994-
+Selectively Indexed in: Hospital literature indexv24, 1994Hospital and health administration index1995-1999
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Health Administration (non-Index Medicus); Index Medicus
+MeSH: Hospital Information Systems*; Medical Record Administrators*; Medical Records*
+Publication Type(s): Periodical
+Notes: Title from cover. Some issues available only online. Some vols. for 1994- include
+separately numbered section called: International health records newsletter. Also
+issued online.
+Other ID: (DNLM)SR0082018(s)(OCoLC)31205904
+NLM ID: 9438200[Serial]
+
+54. Title Abbreviation: Health Manag Technol
+Title(s): Health management technology.
+Publication Start Year: 1994
+Publication End Year: 2018
+Frequency: Monthly, 2000-
+Country of Publication: United States
+Publisher: Atlanta, GA : Argus Business, c1994-
+Latest Publisher: Aug. 1999- : Nokomis, FL : Nelson Publishing Inc.
+Description: v. : ill., ports.
+Language: English
+ISSN: 1074-4770(Print); 1074-4770(Linking)
+Electronic Links: http://www.healthmgttech.com/
+Fully Indexed In: MEDLINE: v15, 1994-v38n4, Apr. 2017; PubMed: v15, 1994-v38n4, Apr. 2017
+Selectively Indexed in: Hospital literature indexv15, 1994Hospital and health administration index1995-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computer Communication Networks/organization & administration*; Medical Informatics*; Telemedicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Includes annual market directory and other special issues. Also
+issued online.
+Other ID: (DNLM)SR0080315(s)(OCoLC)29649286
+NLM ID: 9423239[Serial]
+
+55. Author(s): Institute of Health Record Information and Management.
+Title Abbreviation: IHRIM
+Title(s): IHRIM : the journal of the Institute of Health Record Information and Management.
+Publication Start Year: 1994
+Publication End Year: 2000
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Winsford, Cheshire : Institute of Health Record Information and Management,
+[1994-2000].
+Description: 7 v. : ill., ports.
+Language: English
+ISSN: 1364-6974(Print); 1364-6974(Linking)
+LCCN: sn 94045085
+Fully Indexed In: MEDLINE: v35n3, Aug. 1994-v41n2, Mar. 2000
+In: PubMed: v35n3, Aug. 1994-v41n2, Mar. 2000; 
+Selectively Indexed in: Hospital literature indexv35, 1994Hospital and health administration index1995-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Records*
+Other Subject(s): Institute of Health Record Information and Management.
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 40, no.4 (1999) never published.
+Other ID: (DNLM)SR0082223(s)(OCoLC)31500539
+NLM ID: 9439766[Serial]
+
+56. Title Abbreviation: Infocare
+Title(s): InfoCare : information strategies for healthcare networks.
+Publication Start Year: 1994
+Publication End Year: 1998
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: Evergreen, CO : Health Data Analysis, Inc., 1994-[1998]
+Latest Publisher: Minneapolis Mn : Mcgraw-Hill
+Description: v. : ill., ports.
+Language: English
+ISSN: 1090-4522(Print); 1090-4522(Linking)
+Selectively Indexed in: MEDLINEApr. 1994-Mar./Apr. 1998PubMedApr. 1994-Mar./Apr. 1998Hospital literature index1994Hospital and health administration index1995-Mar./Apr. 1998
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Delivery of Health Care/organization & administration*; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Subtitle varies: Information
+strategies for managed care & healthcare networks, 1995?- .
+Other ID: (DNLM)SR0082645(s)(OCoLC)31916677
+NLM ID: 9504687[Serial]
+
+57. Author(s): American Medical Informatics Association.
+Title Abbreviation: J Am Med Inform Assoc
+Title(s): Journal of the American Medical Informatics Association : JAMIA.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Philadelphia, PA : Hanley & Belfus, c1993-
+Latest Publisher: 2015- : Oxford : Oxford University Press
+Description: v. : ill.
+Language: English
+ISSN: 1067-5027(Print); 1527-974X(Electronic); 1067-5027(Linking)
+Coden: JAMAFU
+LCCN: sn 93004712
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9430800, https://academic.oup.com/jamia
+Fully Indexed In: MEDLINE: v1n1, Jan./Feb. 1994-; Index medicus
+In: PubMed: v1n1, Jan./Feb. 1994-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Informatics Applications*; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0077195(s)(OCoLC)27252647
+NLM ID: 9430800[Serial]
+
+58. Title Abbreviation: Telemed Today
+Title(s): Telemedicine today.
+Publication Start Year: 1994
+Publication End Year: 2002
+Frequency: Bimonthly, 1996-
+Country of Publication: United States
+Publisher: Shawnee Mission, KS : [s.n., 1994-]
+Latest Publisher: 2002- : Westlake Village, CA : B2B Health Media, Inc.
+Description: 8 v. : ill.
+Language: English
+ISSN: 1078-0351(Print); 1078-0351(Linking)
+LCCN: sn 94001410
+Selectively Indexed in: MEDLINEv4n1,Jan./Feb. 1996-v9n3, Oct./Nov. 2002PubMedv4n1,Jan./Feb. 1996-v9n3, Oct./Nov. 2002
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Computer Communication Networks*; Delivery of Health Care*; Telemedicine*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Title from cover. None published Aug. 2000-May 2002.
+Other ID: (DNLM)SR0082275(s)(OCoLC)31008561
+NLM ID: 9505215[Serial]
+
+59. Author(s): IEEE Signal Processing Society.; Institute of Electrical and Electronics
+Engineers.
+Title Abbreviation: IEEE Trans Image Process
+Title(s): IEEE transactions on image processing : a publication of the IEEE Signal
+Processing Society.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Monthly, 1995-
+Country of Publication: United States
+Publisher: New York, NY : Institute of Electrical and Electronics Engineers, 1992-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1057-7149(Print); 1941-0042(Electronic); 1057-7149(Linking)
+Coden: IIPRE4
+LCCN: 92640141, sn 91002188
+Electronic Links: http://ieeexplore.ieee.org/servlets/opac?punumber=83
+Selectively Indexed in: MEDLINEv13n1, Jan. 2004-PubMedv13n1, Jan. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Image Processing, Computer-Assisted*; Signal Processing, Computer-Assisted
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 13, no. 1 (Jan. 2004). Print
+issues ceased with v. 27 (2018). Also issued in microfiche and online.
+Other ID: (OCoLC)24103523(DNLM)SR0073880(s)
+NLM ID: 9886191[Serial]
+
+60. Author(s): International Medical Informatics Association.
+Title Abbreviation: Yearb Med Inform
+Title(s): Yearbook of medical informatics.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : Geneva : Schattauer ; IMIA, [1992-
+Latest Publisher: 2017-: New York, NY : Thieme
+Description: v. : ill., ports.
+Language: English
+ISSN: 0943-4747(Print); 2364-0502(Electronic); 0943-4747(Linking)
+LCCN: sn 93038370
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00034612, https://pmc.ncbi.nlm.nih.gov/journals/?term=9312666
+Fully Indexed In: MEDLINE: 2006-
+In: PubMed: 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Informatics*
+Other Subject(s): International Medical Informatics Association.
+Notes: Each v. also has a distinctive theme title. Latest issue consulted: 07. Print
+issues ceased with 2013. Also issued online.
+Other ID: (DNLM)SR0076746(s)(OCoLC)26944815
+NLM ID: 9312666[Serial]
+
+61. Author(s): American Health Information Management Association.
+Title Abbreviation: J AHIMA
+Title(s): Journal of AHIMA/ American Health Information Management Association.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Chicago Il : American Health Information Management Association
+Description: v. : ill., ports.
+Language: English
+ISSN: 1060-5487(Print); 1060-5487(Linking)
+Coden: JAHIES
+Electronic Links: https://journal.ahima.org/
+Fully Indexed In: MEDLINE: 62n11, 1991-v88n6, June 2017; Hospital literature index: 62n11, 1991-1994; Hospital and health administration index: 1995-1999
+In: PubMed: 62n11, 1991-v88n6, June 2017; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Forms and Records Control*; Medical Records*
+Other Subject(s): American Health Information Management Association.
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2021. Issues for Nov. 1991- also
+called v. 62, no. 11-. Also issued online.
+Other ID: (DNLM)SR0072929(s)(OCoLC)24893687
+NLM ID: 9202024[Serial]
+
+62. Title Abbreviation: Stud Health Technol Inform
+Title(s): Studies in health technology and informatics.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: Amsterdam ; Washington, DC : IOS Press, 1991-
+Description: v. : ill.
+Language: English
+ISSN: 0926-9630(Print); 1879-8365(Electronic); 0926-9630(Linking)
+Electronic Links: http://www.ebooks.iospress.nl/bookseries/studies-in-health-technology-and-informatics
+Fully Indexed In: MEDLINE: v1, 1991-; PubMed: v1, 1991-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Health Technology Assessment (non-Index Medicus)
+MeSH: Biomedical Technology*; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Each volume also has a distinctive title. Also issued online.
+Other ID: (DNLM)SR0074791(s)(OCoLC)26850734
+NLM ID: 9214582[Serial]
+
+63. Author(s): Health Data Analysis Inc.
+Title Abbreviation: Healthc Inform
+Title(s): Healthcare informatics : the business magazine for information and communication 
+systems.
+Publication Start Year: 1990
+Publication End Year: 2018
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [Ladewood, CO : Health Data Analysis, 1990-
+Latest Publisher: Minneapolis, MN : McGraw-Hill
+Description: v. : ill., ports.
+Language: English
+ISSN: 1050-9135(Print); 1938-1441(Electronic); 1050-9135(Linking)
+Electronic Links: https://www.healthcare-informatics.com/magazine-issues
+Fully Indexed In: MEDLINE: v7n2,Feb. 1990-v31n5, Jul-Aug 2014; PubMed: v7n2,Feb. 1990-v31n5, Jul-Aug 2014
+Selectively Indexed in: Hospital literature indexv7n2,Feb. 1990-1994Hospital and health administration index1995-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electronic Data Processing*; Information Systems*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Consecutively paged insert called 
+InfoCare published in Nov. 1993 and Feb. 1994 issues. InfoCare became a separate 
+publication as of Apr. 1994. Also issued online.
+Other ID: (DNLM)SR0067626(s)(OCoLC)21140357
+NLM ID: 9004557[Serial]
+
+64. Author(s): IEEE Neural Networks Council.; IEEE Computational Intelligence Society.
+Title Abbreviation: IEEE Trans Neural Netw
+Title(s): IEEE transactions on neural networks/ a publication of the IEEE Neural Networks
+Council.
+Publication Start Year: 1990
+Publication End Year: 2011
+Frequency: Monthly, 2008-
+Country of Publication: United States
+Publisher: New York, NY : Institute of Electrical and Electronics Engineers, c1990-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1045-9227(Print); 1941-0093(Electronic); 1045-9227(Linking)
+Coden: ITNNEP
+LCCN: 90640964, sn 89003761
+Electronic Links: http://ieeexplore.ieee.org/servlet/opac?punumber=72
+Selectively Indexed in: MEDLINEv15n1, Jan. 2004-v22n12, Dec. 2011PubMedv15n1, Jan. 2004-v22n12, Dec. 2011Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neural Networks, Computer*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Issued by: IEEE Neural Networks Council;
+<2008-> IEEE Computational Intelligence Society.
+Other ID: (OCoLC)20284540
+NLM ID: 101211035[Serial]
+
+65. Title Abbreviation: Artif Intell Med
+Title(s): Artificial intelligence in medicine.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Nine no. a year
+Country of Publication: Netherlands
+Publisher: Tecklenburg, Federal Republic of Germany : Burgverlag, c1989-
+Latest Publisher: Amsterdam : Elsevier Science Publishing
+Description: v. : ill.
+Language: English
+ISSN: 0933-3657(Print); 1873-2860(Electronic); 0933-3657(Linking)
+Coden: AIMEEW
+LCCN: 97642243, sn 90031195
+Electronic Links: https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine
+Fully Indexed In: MEDLINE: v5n1, 1993-; PubMed: v5n1, 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Artificial Intelligence*; Medicine*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0064797(s)(OCoLC)21516938
+NLM ID: 8915031[Serial]
+
+66. Title Abbreviation: Int J Neural Syst
+Title(s): International journal of neural systems.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Ten no. a year, 2018-
+Country of Publication: Singapore
+Publisher: Singapore ; Teaneck, N.J. : World Scientific Pub. Co., c1989-
+Description: v. : ill.
+Language: English
+ISSN: 0129-0657(Print); 1793-6462(Electronic); 0129-0657(Linking)
+Electronic Links: http://www.worldscientific.com/worldscinet/ijns
+Fully Indexed In: MEDLINE: v4n1, 1993-; PubMed: v4n1, 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain/physiology*; Computer Simulation*; Models, Theoretical*; Nerve Net/physiology*; Neurons/physiology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0068932(s)(OCoLC)21018895
+NLM ID: 9100527[Serial]
+
+67. Title Abbreviation: Neural Comput
+Title(s): Neural computation.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Monthly, 2000-
+Country of Publication: United States
+Publisher: Cambridge, Mass. : MIT Press, c1989-
+Description: v. : ill. ;
+Language: English
+ISSN: 0899-7667(Print); 1530-888X(Electronic); 0899-7667(Linking)
+LCCN: 89656170, sn 88002184
+Electronic Links: http://www.mitpressjournals.org/loi/neco
+Selectively Indexed in: MEDLINEv7n1,Jan. 1995-PubMedv7n1,Jan. 1995-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neural Networks, Computer*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 26 (2014). Also issued online.
+Other ID: (DNLM)SR0067825(s)(OCoLC)18211733
+NLM ID: 9426182[Serial]
+
+68. Title Abbreviation: Teach Learn Med
+Title(s): Teaching and learning in medicine.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Five issues a year, 2019-
+Country of Publication: United States
+Publisher: Hillsdale, N.J. : Lawrence Erlbaum Associates, 1989-
+Latest Publisher: <2008- > : Philadelphia : Routledge
+Description: v. : ill.
+Language: English
+ISSN: 1040-1334(Print); 1532-8015(Electronic); 1040-1334(Linking)
+LCCN: sf 94092964
+Electronic Links: https://www.tandfonline.com/loi/htlm20
+Fully Indexed In: MEDLINE: v12n1, winter 2000-; Index medicus
+In: PubMed: v12n1, winter 2000-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Education, Medical*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0062686(s)(OCoLC)18330866
+NLM ID: 8910884[Serial]
+
+69. Author(s): Society for Computer Applications in Radiology.
+Title Abbreviation: J Digit Imaging
+Title(s): Journal of digital imaging.
+Publication Start Year: 1988
+Publication End Year: 2023
+Frequency: Six issues a year
+Country of Publication: United States
+Publisher: Philadelphia, PA : W.B. Saunders, c1988-
+Latest Publisher: <2008-2023>: New York : Springer
+Description: v. : ill.
+Language: English
+ISSN: 0897-1889(Print); 1618-727X(Electronic); 0897-1889(Linking)
+Electronic Links: https://link.springer.com/journal/10278, https://pmc.ncbi.nlm.nih.gov/journals/?term=9100529
+Fully Indexed In: MEDLINE: v1n1, Nov. 1988-v36n6, Dec. 2023; Index medicus
+In: PubMed: v1n1, Nov. 1988-v36n6, Dec. 2023, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computer Systems*; Radiographic Image Enhancement*; Radiology Information Systems*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. The official journal of the Society for
+Computer Applications in Radiology.
+Other ID: (DNLM)SR0064423(s)(OCoLC)17429647
+NLM ID: 9100529[Serial]
+
+70. Title Abbreviation: Nurs Educ Microworld
+Title(s): Nursing educators microworld.
+Publication Start Year: 1987
+Publication End Year: 1994
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [Saratoga, CA : Diskovery,
+Latest Publisher: Saratoga Ca : Diskovery, Computer-Assisted Healthcare Education
+Description: v. : ill.
+Language: English
+ISSN: 0893-1356(Print); 0893-1356(Linking)
+Fully Indexed In: MEDLINE: v2n4,Apr./May 1988-1994; PubMed: v2n4,Apr./May 1988-1994; International nursing index: v2n4,Apr./May 1988-1994
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Audiovisual Aids*; Computer-Assisted Instruction*; Computers*; Education, Nursing*; Microcomputers*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 5 (June/July 1987); title from caption.
+Other ID: (DNLM)SR0061847(s)(OCoLC)15360084
+NLM ID: 8812203[Serial]
+
+71. Author(s): Chemical Rubber Company.
+Title Abbreviation: Crit Rev Med Inform
+Title(s): Critical reviews in medical informatics.
+Publication Start Year: 1986
+Publication End Year: 1988
+Frequency: Irregular
+Country of Publication: United States
+Publisher: [Boca Raton, Fla. : CRC Press Inc., c1986-c1988]
+Latest Publisher: Boca Raton Fl : Crc Press
+Description: 1 v. : ill.
+Language: English
+ISSN: 0882-0503(Print); 0882-0503(Linking)
+Coden: CRMIER
+Fully Indexed In: MEDLINE: v1issue1, 1986-v1issue4, 1988; PubMed: v1issue1, 1986-v1issue4, 1988; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Information Systems*; Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0058892(s)(OCoLC)11730621
+NLM ID: 8712374[Serial]
+
+72. Title Abbreviation: Comput Methods Programs Biomed
+Title(s): Computer methods and programs in biomedicine.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Nine no. a year
+Country of Publication: Ireland
+Publisher: Amsterdam : Elsevier Science Publishers, c1984-
+Latest Publisher: Limerick : Elsevier Scientific Publishers
+Description: v. : ill.
+Language: English
+ISSN: 0169-2607(Print); 1872-7565(Electronic); 0169-2607(Linking)
+Coden: CMPBEK
+LCCN: 97641527, sn 85012154
+Electronic Links: http://www.sciencedirect.com/science/journal/01692607
+Fully Indexed In: MEDLINE: v20n1,May 1985-; PubMed: v20n1,May 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computers*; Medicine*; Software*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0054414(s)(OCoLC)12146309
+NLM ID: 8506513[Serial]
+
+73. Author(s): Library Association. Medical, Health and Welfare Libraries Group.; Library
+Association. Health Libraries Group.
+Title Abbreviation: Health Libr Rev
+Title(s): Health libraries review.
+Publication Start Year: 1984
+Publication End Year: 2000
+Frequency: Four no. a year
+Country of Publication: England
+Publisher: Oxford : Blackwell Scientific Publications, c1984-c2000.
+Description: 17 v. : ill., ports.
+Language: English
+ISSN: 0265-6647(Print); 1365-2532(Electronic); 0265-6647(Linking)
+LCCN: 85645986
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2532
+Fully Indexed In: MEDLINE: v6n1, Mar. 1989-v17n4, Dec. 2000; PubMed: v6n1, Mar. 1989-v17n4, Dec. 2000
+Selectively Indexed in: Hospital literature indexv6n1, Mar. 1989-1994Hospital and health administration index1995-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Libraries, Medical*
+Publication Type(s): Periodical
+Notes: Title from cover. Has separately paged section, also issued separately, called:
+Newsletter, <Mar. 1987>-Dec. 1995; Library Association Health Libraries Group
+newsletter, Mar. 1996- ; Health Libraries Group newsletter, <-2000> Also issued
+online. Official publication of: Medical, Health and Welfare Libraries Group of
+the Library Association.
+Other ID: (DNLM)SR0054084(s)(OCoLC)11723043
+NLM ID: 8607228[Serial]
+
+74. Title Abbreviation: Int J Clin Monit Comput
+Title(s): International journal of clinical monitoring and computing.
+Publication Start Year: 1984
+Publication End Year: 1997
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: The Hague : Martinus Nijhoff, c1984-c1997.
+Latest Publisher: Dordrecht : Kluwer Academic
+Description: 14 v. : ill.
+Language: English
+ISSN: 0167-9945(Print); 0167-9945(Linking)
+Coden: IJMCE
+Fully Indexed In: MEDLINE: v1n1, 1984-v14n4,Nov. 1997; PubMed: v1n1, 1984-v14n4,Nov. 1997; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computers; Monitoring, Physiologic
+Publication Type(s): Periodical
+Notes: Imprint varies.
+Other ID: (DNLM)SR0051008(s)(OCoLC)12855001
+NLM ID: 8601284[Serial]
+
+75. Title Abbreviation: MD Comput
+Title(s): M.D. computing : computers in medical practice.
+Publication Start Year: 1984
+Publication End Year: 2001
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Secaucus, NJ : Springer-Verlag New York Inc., [1984-
+Description: v. : ill.
+Language: English
+ISSN: 0724-6811(Print); 0724-6811(Linking)
+Fully Indexed In: MEDLINE: v1n1, 1984-v18n1, Jan./Feb. 2001; PubMed: v1n1, 1984-v18n1, Jan./Feb. 2001; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computers*; Electronics, Medical*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 1, no. 1 preceded by a "premier issue" with title:
+MEDCOMP.
+Other ID: (OCoLC)09798478(DNLM)M08470000(s)
+NLM ID: 8408946[Serial]
+
+76. Author(s): Medical Record Association of Australia.; Health Information Management
+Association of Australia.
+Title Abbreviation: Aust Med Rec J
+Title(s): Australian medical record journal/ Medical Record Association of Australia.
+Publication Start Year: 1983
+Publication End Year: 1993
+Frequency: Quarterly
+Country of Publication: Australia
+Publisher: North Melbourne : Health Information Management Of Australia
+Description: v.
+Language: English
+ISSN: 0817-3907(Print); 0817-3907(Linking)
+Selectively Indexed in: MEDLINE1993PubMed1993Hospital literature index1993
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hospital Information Systems*; Medical Record Administrators*; Medical Records*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 16, no. 5 (Mar. 1987); title from cover. Vols. for
+-1993 issued by: Health Information Management Association of Australia.
+Other ID: (DNLM)SR0058141(s)(OCoLC)18352762
+NLM ID: 8807862[Serial]
+
+77. Title Abbreviation: Comput Nurs
+Title(s): Computers in nursing.
+Publication Start Year: 1983
+Publication End Year: 2002
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Philadelphia, PA : J.B. Lippincott, [1983]-c2002.
+Latest Publisher: -2002: Hagerstown, MD :; : Lippincott Williams & Wilkins
+Description: 20 v. : ill., ports.
+Language: English
+ISSN: 0736-8593(Print); 0736-8593(Linking)
+LCCN: sn 8300313
+Fully Indexed In: MEDLINE: v1, 1983-v20n1, Jan./Feb. 2002; International nursing index: v1, 1983-v18n4, July/Aug. 2000; Index medicus
+In: PubMed: v1, 1983-v20n1, Jan./Feb. 2002; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computers*; Medical Informatics; Nursing
+Publication Type(s): Periodical
+Notes: Title from caption. Supplements accompany some issues.
+Other ID: (DNLM)C36405000(s)(OCoLC)09231528
+NLM ID: 8507717[Serial]
+
+78. Author(s): IEEE Computer Society.; National Computer Graphics Association (U.S.)
+Title Abbreviation: IEEE Comput Graph Appl
+Title(s): IEEE computer graphics and applications.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Bimonthly <1989->
+Country of Publication: United States
+Publisher: [Los Alamitos, CA] : IEEE Computer Society : National Computer Graphics
+Association, [c1981-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 0272-1716(Print); 1558-1756(Electronic); 0272-1716(Linking)
+Coden: ICGADZ
+LCCN: 81645722, sn 80002340
+Electronic Links: http://ieeexplore.ieee.org/servlet/opac?punumber=38
+Selectively Indexed in: MEDLINEv24n1, Jan./Feb. 2004-PubMedv24n1, Jan./Feb. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computer Graphics*
+Publication Type(s): Periodical
+Notes: Title from cover. Some issues accompanied by a CD-ROM, July/Aug. 2002- Latest
+issue consulted: Vol. 24, no. 1 (Jan./Feb. 2004). Also available by subscription 
+via the World Wide Web.
+Other ID: (OCoLC)06794952
+NLM ID: 9881869[Serial]
+
+79. Author(s): Society for Medical Decision Making (U.S.)
+Title Abbreviation: Med Decis Making
+Title(s): Medical decision making : an international journal of the Society for Medical
+Decision Making.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Eight no. a year, 2013-
+Country of Publication: United States
+Publisher: Cambridge, MA : Birkhäuser, c1981-
+Latest Publisher: <2001->: Thousand Oaks, CA : Sage Publications
+Description: v. : ill.
+Language: English
+ISSN: 0272-989X(Print); 1552-681X(Electronic); 0272-989X(Linking)
+Coden: MDMADE
+Electronic Links: https://journals.sagepub.com/home/mdm
+Fully Indexed In: MEDLINE: v1n1, 1981-; PubMed: v1n1, 1981-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Decision Making*; Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)M13110000(s)(OCoLC)06979671
+NLM ID: 8109073[Serial]
+
+80. Author(s): Information Processing in Medical Imaging Conference.; International Conference
+on Information Processing in Medical Imaging.
+Title Abbreviation: Inf Process Med Imaging
+Title(s): Information processing in medical imaging : proceedings of the ... conference.
+Publication Start Year: 198u
+Publication End Year: 
+Frequency: Biennial
+Country of Publication: Germany
+Publisher: Boston : M. Nijhoff,
+Latest Publisher: Berlin : Springer Verlag
+Description: v. : ill.
+Language: English
+ISSN: 1011-2499(Print); 1011-2499(Linking)
+Fully Indexed In: MEDLINE: v18, July 2003-v10265, June 2017; PubMed: v18, July 2003-v10265, June 2017; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnosis, Computer-Assisted*; Diagnostic Imaging*; Image Processing, Computer-Assisted*
+Publication Type(s): Congress
+Notes: Biennial. Subtitle varies. Vols. for 1989? - issued as Progress in clinical and
+biological research; for 1991?- issued as Lecture notes in computer science.
+Published: New York : Wiley-Liss, 1989?- ; Berlin ; New York : Springer-Verlag,
+1991?- . Description based on: 8th (29 Aug.-2 Sept. 1983). Vols. for 1983?- are
+the proceedings of the Information Processing in Medical Imaging Conference; for 
+1989?- are the proceedings of the International Conference on Information
+Processing in Medical Imaging.
+Other ID: (DNLM)SR0074017(s)(OCoLC)24368745
+NLM ID: 9216871[Serial]
+
+81. Author(s): IEEE Computer Society.; Institute of Electrical and Electronics Engineers.
+Title Abbreviation: IEEE Trans Pattern Anal Mach Intell
+Title(s): IEEE transactions on pattern analysis and machine intelligence.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Monthly, 1989-
+Country of Publication: United States
+Publisher: [New York] IEEE Computer Society.
+Description: v. 28 cm.
+Language: English
+ISSN: 0162-8828(Print); 1939-3539(Electronic); 0098-5589(Linking)
+Coden: ITPIDJ
+LCCN: 80640328, sn 79004711
+Electronic Links: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+Selectively Indexed in: MEDLINEv26n1, Jan. 2004-PubMedv26n1, Jan. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Artificial Intelligence; Pattern Recognition, Automated*
+Publication Type(s): Periodical
+Notes: Published: Los Alamitos, CA, <2004-> Latest issue consulted: Vol. 26, no. 1 (Jan.
+2004). Print issues ceased with 2022. Vol. designation PAMI dropped with <v. 10, 
+no. 6, Nov. 1988>. Also available online.
+Other ID: (OCoLC)04253074
+NLM ID: 9885960[Serial]
+
+82. Title Abbreviation: J Med Syst
+Title(s): Journal of medical systems.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, Plenum Press.
+Latest Publisher: 1999- : New York, NY : Kluwer Academic/Plenum Publishers
+Description: v. ill.
+Language: English, English
+ISSN: 0148-5598(Print); 1573-689X(Electronic); 0148-5598(Linking)
+Coden: JMSYDA
+Electronic Links: https://link.springer.com/journal/10916
+Fully Indexed In: MEDLINE: v1n1, 1977-v2n1, 1978; v3n1, 1979-; Hospital literature index: v1n1, 1977-v2n1, 1978; v3n1, 1979-1994; Hospital and health administration index: 1995-1999; Index medicus
+In: PubMed: v1n1, 1977-v2n1, 1978; v3n1, 1979-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Health Administration (non-Index Medicus); Index Medicus
+MeSH: Computers*; Delivery of Health Care*; Information Systems*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 36 (2012). Also issued online.
+Other ID: (DNLM)J29400000(s)(OCoLC)03321484
+NLM ID: 7806056[Serial]
+
+83. Author(s): International Federation for Medical and Biological Engineering.
+Title Abbreviation: Med Biol Eng Comput
+Title(s): Medical & biological engineering & computing.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Monthly, 2006-
+Country of Publication: United States
+Publisher: Stevenage, Eng., Peregrinus.
+Latest Publisher: New York, NY : Springer
+Description: v. ill.
+Language: English, French, German
+ISSN: 0140-0118(Print); 1741-0444(Print); 0140-0118(Linking)
+Coden: MBECDY
+LCCN: 77648223, sn 80013914
+Electronic Links: https://link.springer.com/journal/11517
+Fully Indexed In: MEDLINE: v15n1,Jan. 1977-; PubMed: v15n1,Jan. 1977-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Biomedical Engineering/instrumentation*; Computers*
+Publication Type(s): Periodical
+Notes: Imprint varies. Also issued online. Articles in English; summaries in English,
+French, or German. Journal of the International Federation for Medical &
+Biological Engineering.
+Other ID: (DNLM)M11960000(s)(OCoLC)02861374
+NLM ID: 7704869[Serial]
+
+84. Author(s): Symposium on Computer Applications in Medical Care.; Institute of Electrical and 
+Electronics Engineers.; Society for Advanced Medical Systems. Conference,(12th : 
+1980 : Washington, D.C.); American Medical Informatics Association.
+Title Abbreviation: Proc Annu Symp Comput Appl Med Care
+Title(s): Proceedings/ the ... Annual Symposium on Computer Application [sic] in Medical
+Care.
+Publication Start Year: 1977
+Publication End Year: 1995
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York : Long Beach, Calif. : Institute of Electrical and Electronics Engineers
+; Available from IEEE Computer Society, c1977-c1995.
+Latest Publisher: Bethesda Md : American Medical Informatics Association (Amia)
+Description: 19 v. : ill.
+Language: English
+ISSN: 0195-4210(Print); 0195-4210(Linking)
+Coden: PCMCDC
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=8113685
+Fully Indexed In: MEDLINE: 15th, 1991-19th,Oct. 28-Nov. 1, 1995; Index medicus
+In: PubMed: 1st, Oct. 5, 1977-19th,Oct. 28-Nov. 1, 1995, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computers*; Medical Informatics Applications*; Medicine*
+Publication Type(s): Congress
+Notes: IEEE catalog no. 77CH1270-8 C, etc. Published: Los Alamitos, Calif. : IEEE
+Computer Society Press, -1990?; New York : McGraw-Hill, 1992?-1993; Philadelphia 
+: Henley & Belfus, 1994-1995. Also issued online. Proceedings for 1980 issued in 
+3 parts, of which vol. 3 includes proceedings of the Twelfth Annual Conference of
+the Society for Advanced Medical Systems (SAMS) November 1-2, 1980, Capitol
+Hilton, Washington, D.C. "A conference of the American Medical Informatics
+Association", 1990-1995.
+Other ID: (OCoLC)03574962(DNLM)P30870000(s)
+NLM ID: 8113685[Serial]
+
+85. Title Abbreviation: Comput Chem
+Title(s): Computers & chemistry.
+Publication Start Year: 1976
+Publication End Year: 2002
+Frequency: Bimonthly, <20 Nov. 1997>-2002
+Country of Publication: England
+Publisher: Oxford ; New York : Pergamon, c1976-c2002.
+Description: 26 v. : ill.
+Language: English, English
+ISSN: 0097-8485(Print); 0097-8485(Linking)
+Coden: COCHDK
+Electronic Links: https://www.sciencedirect.com/journal/computers-and-chemistry
+Selectively Indexed in: MEDLINEv18n1, 1994-v26n6, 2002PubMedv18n1, 1994-v26n6, 2002Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*; Computers*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online.
+Other ID: (DNLM)C36220000(s)(OCoLC)01351124
+NLM ID: 7607706[Serial]
+
+86. Author(s): European Federation for Medical Informatics.
+Title Abbreviation: Med Inform (Lond)
+Title(s): Medical informatics = Médecine et informatique.
+Publication Start Year: 1976
+Publication End Year: 1998
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : Taylor & Francis, c1976-c1998.
+Description: 23 v. ill.
+Language: English, French
+ISSN: 0307-7640(Print); 0307-7640(Linking)
+Coden: MINFDZ
+LCCN: sc79-3768, sn79-1938
+Electronic Links: https://www.tandfonline.com/loi/imif20
+Fully Indexed In: MEDLINE: v3n1, 1978 -v23n4,Oct.-Dec. 1998; PubMed: v3n1, 1978 -v23n4,Oct.-Dec. 1998; Hospital literature index: v3n1, 1978-1994; Hospital and health administration index: 1995-v23n4,Oct.-Dec. 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computers*; Electronic Data Processing*; Information Systems*; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Title from cover. Vols. for 1985-1998 have English title only. Also issued
+online. Articles in English; summaries in English and French. Official journal
+of: European Federation for Medical Informatics (MIE), July/Sept. 1980-1998 and
+of other similar organizations, Apr./June 1981-1998.
+Other ID: (DNLM)M10400000(s)(OCoLC)03439422
+NLM ID: 7612096[Serial]
+
+87. Author(s): American Chemical Society.
+Title Abbreviation: J Chem Inf Comput Sci
+Title(s): Journal of chemical information and computer sciences.
+Publication Start Year: 1975
+Publication End Year: 2004
+Frequency: Bimonthly, 1992-
+Country of Publication: United States
+Publisher: Easton, Pa., American Chemical Society.
+Latest Publisher: Washington, DC : American Chemical Society
+Description: v. illus.
+Language: English
+ISSN: 0095-2338(Print); 0095-2338(Linking)
+Coden: JCISD8
+LCCN: 75643870
+In: PubMed: v15n1,Feb. 1975-v44n6, Nov./Dec. 2004; 
+Selectively Indexed in: MEDLINEv15n1,Feb. 1975-v44n6, Nov./Dec. 2004Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*; Computers*; Documentation*; Information Systems*
+Publication Type(s): Periodical
+Notes: Place of publication varies.
+Other ID: (DNLM)J15700000(s)(OCoLC)02241471
+NLM ID: 7505012[Serial]
+
+88. Author(s): Association of Medical Illustrators.; Health Sciences Communications
+Association.; Association of Biomedical Communications Directors.;
+BioCommunications Association.
+Title Abbreviation: J Biocommun
+Title(s): The Journal of biocommunication.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Annual, 2004-
+Country of Publication: United States
+Publisher: Jewett City, CT : Journal of Biocommunication, Inc.
+Latest Publisher: Los Angeles, CA : Journal of Biocommunication in partnership with the University 
+of Illinois at Chicago (UIC) University Library
+Description: v. illus.
+Language: English
+ISSN: 0094-2499(Print); 1936-4563(Electronic); 0094-2499(Linking)
+Coden: JBCMAI
+LCCN: 74646557
+Electronic Links: http://www.jbiocommunication.org/, https://journals.uic.edu/ojs/index.php/jbc/index, https://pmc.ncbi.nlm.nih.gov/journals/?term=0425742
+Fully Indexed In: MEDLINE: v1n1, June 1974-v29n4, 2003; Index medicus
+In: PubMed: v1n1, June 1974-v29n4, 2003; v40n1, 2016-, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Audiovisual Aids*; Biology*; Communication*; Medical Illustration*; Medicine*; Models, Biological*
+Publication Type(s): Periodical
+Notes: Some issues accompanied by supplementary audio-visual materials. Print issues
+ceased with v. 29, no. 4 (2003). Vol. 22 (1995) complete in 3 issues. Vol. 23,
+no. 4 published as a combined issue with v. 64, no. 3 [i.e. no. 4] (Dec. 1996)
+of: Journal of biological photography. Also issued online. A joint publication of
+the Association of Medical Illustrators and the Health Sciences Communications
+Association; official journal of the Association of Biomedical Communications
+Directors, the Association of Medical Illustrators, the Health Sciences
+Communications Association, and the BioCommunications Association, <2000->
+Other ID: (OCoLC)02239926(DNLM)J14260000(s)
+NLM ID: 0425742[Serial]
+
+89. Author(s): MEDINFO; International Federation for Information Processing.; AMIA Symposium.,
+AMIA ... Annual Symposium proceedings
+Title Abbreviation: Medinfo
+Title(s): Medinfo.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Triennial
+Country of Publication: Netherlands
+Publisher: Amsterdam, New York, North-Holland Pub. Co.
+Latest Publisher: 1998- : Amsterdam ; Washington, DC : IOS Press
+Description: v. ill.
+Language: English
+ISSN: 1569-6332(Print); 1569-6332(Linking)
+Coden: IWCID9
+LCCN: 90648148
+Fully Indexed In: MEDLINE: v8n1, 1995-v8n2, 1995; PubMed: v8n1, 1995-v8n2, 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Information Systems*; Medicine*
+Publication Type(s): Congress
+Notes: Indexing continued in Studies in health technology and informatics. Vols. for
+1977-1992 issued in IFIP world conference series on medical informatics ; v. 2,
+etc. Subtitle varies: Proceedings of the ... Conference on Medical Informatics,
+1986-1989; Proceedings of the ... World Congress on Medical Informatics,
+1992-<1995>. Consists of the proceedings of the 1st- World Conference on Medical 
+Informatics. Meetings held in the U.S. are cohosted by AMIA and these v. also
+constitute the AMIA Annual Symposium proceedings. Vols. for 1974- issued in 2 or 
+more vols. 9th ('98) pt. 1 includes separately paged section with title: Invited 
+lectures. Vols. for 2004- issued also on CD-ROM. Issued by the International
+Federation for Information Processing.
+Other ID: (OCoLC)06131094(DNLM)M23820000(s)
+NLM ID: 7600347[Serial]
+
+90. Author(s): International Research Communications System.
+Title Abbreviation: ICRS J Int Res Commun
+Title(s): IRCS journal of international research communications.
+Publication Start Year: 1973
+Publication End Year: 1974
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Lancaster, Eng., MTP, International Research Communications Ltd.
+Latest Publisher: Baltimore, Md. : University Park Press
+Description: 2 v. illus.
+Language: English
+ISSN: 0300-5569(Print); 0300-5569(Linking)
+Coden: JIRCBB
+Selectively Indexed in: MEDLINEv2n1, Jan. 1974-v2n12, Dec. 1974PubMedv2n1, Jan. 1974-v2n12, Dec. 1974
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to reproduction were indexed.
+MeSH: Medicine*; Research*
+Publication Type(s): Periodical
+Notes: "Medical science." At head of title: International Research Communications
+System/medical science (varies slightly).
+Other ID: (OCoLC)01357766(DNLM)J24720000(s)
+NLM ID: 7505550[Serial]
+
+91. Author(s): Institute of Electrical and Electronics Engineers. Systems, Man, and Cybernetics 
+Group.
+Title Abbreviation: IEEE Trans Syst Man Cybern
+Title(s): IEEE transactions on systems, man, and cybernetics.
+Publication Start Year: 1971
+Publication End Year: 1995
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, Institute of Electrical and Electronics Engineers, c1971-c1995.
+Description: 25 v. illus.
+Language: English
+ISSN: 0018-9472(Print); 2168-2909(Electronic); 0018-9472(Linking)
+Coden: ISYMAW
+Electronic Links: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=21
+In: PubMed: vSMC8n1, Jan. 1978-vSMC9n1, Jan. 1979; 
+Selectively Indexed in: MEDLINEvSMC8n1, Jan. 1978-vSMC9n1, Jan. 1979Hospital literature indexvSMC8n1, Jan. 1978-vSMC9n1, Jan. 1979
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cybernetics*; Man-Machine Systems*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)I03820000(s)(OCoLC)01752562
+NLM ID: 1274320[Serial]
+
+92. Title Abbreviation: Comput Biol Med
+Title(s): Computers in biology and medicine.
+Publication Start Year: 1970
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, Pergamon Press.
+Latest Publisher: New York : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0010-4825(Print); 1879-0534(Electronic); 0010-4825(Linking)
+Coden: CBMDAW
+LCCN: 72623964
+Electronic Links: http://www.sciencedirect.com/science/journal/00104825
+Fully Indexed In: MEDLINE: v1n1, Aug. 1970-; PubMed: v1n1, Aug. 1970-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Electronic Data Processing*; Medicine*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)C36120000(s)(OCoLC)01564614
+NLM ID: 1250250[Serial]
+
+93. Title Abbreviation: Int J Biomed Comput
+Title(s): International journal of bio-medical computing.
+Publication Start Year: 1970
+Publication End Year: 1996
+Frequency: Twelve no. a year
+Country of Publication: Ireland
+Publisher: Amsterdam, New York, Elsevier.
+Latest Publisher: Limerick : Elsevier Science Publishers
+Description: 43 v. illus.
+Language: English
+ISSN: 0020-7101(Print); 0020-7101(Linking)
+Coden: IJBCBT
+Electronic Links: http://www.sciencedirect.com/science/journal/00207101
+Fully Indexed In: MEDLINE: v1n1,Jan. 1970-v43n3,Dec. 1996; PubMed: v1n1,Jan. 1970-v43n3,Dec. 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*; Computer-Assisted Instruction*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)01753560(DNLM)I26380000(s)
+NLM ID: 0252005[Serial]
+
+94. Title Abbreviation: Comput Biomed Res
+Title(s): Computers and biomedical research, an international journal.
+Publication Start Year: 1967
+Publication End Year: 2000
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, Academic Press.
+Latest Publisher: San Diego, CA : Academic Press
+Description: 33 v. illus.
+Language: English
+ISSN: 0010-4809(Print); 1090-2368(Electronic); 0010-4809(Linking)
+Coden: CBMRB7
+LCCN: sn 78004292
+Electronic Links: http://www.sciencedirect.com/science/journal/00104809
+Fully Indexed In: MEDLINE: v1n1,Mar. 1967-v33n6, Dec. 2000; PubMed: v1n1,Mar. 1967-v33n6, Dec. 2000; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biometry*; Computer-Assisted Instruction*; Medicine*; Research*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Available also online.
+Other ID: (DNLM)C36140000(s)(OCoLC)01564611
+NLM ID: 0100331[Serial]
+
+95. Title Abbreviation: Methods Inf Med Suppl
+Title(s): Methods of information in medicine. Supplement.
+Publication Start Year: 1966
+Publication End Year: 1978
+Frequency: Annual
+Country of Publication: Germany
+Publisher: Stuttgart, New York, Schattauer.
+Latest Publisher: Stuttgart : Schattauer
+Description: v. illus.
+Language: English
+ISSN: 0580-9525(Print)
+Fully Indexed In: MEDLINE: 3, 1968-11, 1978; PubMed: 3, 1968-11, 1978; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Information Systems*; Medicine*
+Publication Type(s): Periodical
+Notes: In German or English. Called also Methodik der Information in der Medizin.
+Supplement. No. 1-2 issued without series title and cataloged separately at NLM.
+Other ID: (OCoLC)01778949(DNLM)M32660000(s)
+NLM ID: 0207712[Serial]
+
+96. Title Abbreviation: Methods Inf Med
+Title(s): Methods of information in medicine.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: Bimonthly, 2006-
+Country of Publication: Germany
+Publisher: Stuttgart : F K Schattauer Verlag
+Latest Publisher: 2018- : Stuttgart, Germany : Thieme
+Description: v. illus.
+Language: English
+ISSN: 0026-1270(Print); 2511-705X(Electronic); 0026-1270(Linking)
+Coden: MIMCAI
+LCCN: 67036993
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00035037
+Fully Indexed In: MEDLINE: v4n2, June 1965-; Index medicus
+In: PubMed: v4n2, June 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Information Systems*; Medicine*
+Publication Type(s): Periodical
+Notes: Also issued online. In English or German, with summaries in both languages.
+Other ID: (OCoLC)01643482(DNLM)M32640000(s)
+NLM ID: 0210453[Serial]
+
+97. Title Abbreviation: Kybernetik
+Title(s): Kybernetik.
+Publication Start Year: 1961
+Publication End Year: 1974
+Frequency: Eight no. a year
+Country of Publication: Germany
+Publisher: Berlin : Springer Verlag
+Description: 16 v. illus.
+Language: German, German
+ISSN: 0023-5946(Print); 0023-5946(Linking)
+Coden: KYBEAP
+Electronic Links: https://link.springer.com/journal/422
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv2n2,Jun. 1964-v16, 1974PubMedv2n2,Jun. 1964-v16, 1974Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bionics*; Cybernetics*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles and summaries mainly in English, with some in
+German.
+Other ID: (DNLM)K13800000(s)(OCoLC)01234048
+NLM ID: 7502604[Serial]
+
+98. Author(s): International Communication Association.; National Society for the Study of
+Communication.; Annenberg School of Communications (University of Pennsylvania)
+Title Abbreviation: J Commun
+Title(s): The Journal of communication.
+Publication Start Year: 1951
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [New York, NY etc., Oxford University Press, etc.]
+Latest Publisher: 2006- : Malden, MA : Blackwell
+Description: v. illus.
+Language: English
+ISSN: 0021-9916(Print); 1460-2466(Electronic); 0021-9916(Linking)
+Coden: JCMNAA
+LCCN: 56046080
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-2466, https://academic.oup.com/joc
+In: OLDMEDLINE
+Selectively Indexed in: MEDLINEv15n2,Jun. 1965-v33n4, 1983PubMedv15n2,Jun. 1965-v33n4, 1983Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communication*
+Publication Type(s): Periodical
+Notes: Also issued online. Occasional issue accompanied by CD-ROM. Vols. for 1951- June 
+1969 issued by the National Society for the Study of Communication; Sept.
+1969-<winter 1976> by the International Communication Association (1974-<winter
+1976> in cooperation with the Annenberg School of Communications, University of
+Pennsylvania). Indexes: Vols. 1-6, 1951-56, in v. 6; Vols. 1-10, 1951-60, in v.
+11; Vols. 1-18, 1951-68. 1 v.
+Other ID: (DNLM)J17400000(s)(OCoLC)01754508
+NLM ID: 0222527[Serial]
+

@@ -1,0 +1,542 @@
+from django.shortcuts import render, get_object_or_404, redirect
+from django.views.generic import ListView, DetailView, TemplateView, View
+from django.contrib.auth.mixins import LoginRequiredMixin, UserPassesTestMixin
+from django.contrib.auth.forms import UserCreationForm
+from django.contrib.auth import login
+from django.contrib import messages
+from django.http import JsonResponse, HttpResponse, Http404
+from django.db.models import Q, Count, Avg, Sum
+from django.core.paginator import Paginator
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
+from django.conf import settings
+import json
+import csv
+import pandas as pd
+from datetime import datetime
+
+from .models import Paper, Journal, ResearchField, UserProfile, TransparencyTrend
+from .forms import UserProfileForm, PaperSearchForm, JournalSearchForm
+
+class HomeView(TemplateView):
+    """Home page with overview statistics"""
+    template_name = 'tracker/home.html'
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        
+        # Basic statistics
+        context['total_papers'] = Paper.objects.count()
+        context['total_journals'] = Journal.objects.count()
+        context['dental_journals'] = Journal.objects.filter(
+            broad_subject_terms__icontains='Dentistry'
+        ).count()
+        
+        # Transparency statistics
+        papers = Paper.objects.all()
+        context['avg_transparency_score'] = papers.aggregate(
+            avg_score=Avg('transparency_score')
+        )['avg_score'] or 0
+        
+        context['data_sharing_pct'] = (papers.filter(is_open_data=True).count() / 
+                                     max(papers.count(), 1)) * 100
+        context['code_sharing_pct'] = (papers.filter(is_open_code=True).count() / 
+                                     max(papers.count(), 1)) * 100
+        context['coi_disclosure_pct'] = (papers.filter(is_coi_pred=True).count() / 
+                                       max(papers.count(), 1)) * 100
+        
+        # Recent papers
+        context['recent_papers'] = papers.order_by('-created_at')[:5]
+        
+        # Top journals by paper count
+        context['top_journals'] = Journal.objects.annotate(
+            paper_count=Count('papers')
+        ).order_by('-paper_count')[:5]
+        
+        return context
+
+class DashboardView(LoginRequiredMixin, TemplateView):
+    """User dashboard with personalized statistics"""
+    template_name = 'tracker/dashboard.html'
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        
+        # User-specific statistics based on their interests
+        try:
+            profile = self.request.user.userprofile
+            preferred_fields = profile.preferred_fields.all()
+            
+            if preferred_fields:
+                # Filter papers by user's preferred fields
+                papers = Paper.objects.filter(
+                    journal__broad_subject_terms__icontains=preferred_fields.first().name
+                )
+                context['user_field_papers'] = papers.count()
+                context['user_field_avg_transparency'] = papers.aggregate(
+                    avg_score=Avg('transparency_score')
+                )['avg_score'] or 0
+        except UserProfile.DoesNotExist:
+            context['user_field_papers'] = 0
+            context['user_field_avg_transparency'] = 0
+        
+        # General statistics
+        context['total_papers'] = Paper.objects.count()
+        context['total_journals'] = Journal.objects.count()
+        
+        return context
+
+class PaperListView(ListView):
+    """List view for papers with pagination and filtering"""
+    model = Paper
+    template_name = 'tracker/paper_list.html'
+    context_object_name = 'papers'
+    paginate_by = settings.OST_PAGINATION_SIZE
+    
+    def get_queryset(self):
+        queryset = Paper.objects.select_related('journal').all()
+        
+        # Filter by search query
+        search_query = self.request.GET.get('search')
+        if search_query:
+            queryset = queryset.filter(
+                Q(title__icontains=search_query) |
+                Q(author_string__icontains=search_query) |
+                Q(journal_title__icontains=search_query)
+            )
+        
+        # Filter by year
+        year = self.request.GET.get('year')
+        if year:
+            queryset = queryset.filter(pub_year=year)
+        
+        # Filter by transparency indicators
+        if self.request.GET.get('data_sharing'):
+            queryset = queryset.filter(is_open_data=True)
+        if self.request.GET.get('code_sharing'):
+            queryset = queryset.filter(is_open_code=True)
+        if self.request.GET.get('coi_disclosure'):
+            queryset = queryset.filter(is_coi_pred=True)
+        
+        # Ordering
+        order_by = self.request.GET.get('order_by', '-pub_year')
+        queryset = queryset.order_by(order_by)
+        
+        return queryset
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['search_form'] = PaperSearchForm(self.request.GET)
+        context['available_years'] = Paper.objects.values_list(
+            'pub_year', flat=True
+        ).distinct().order_by('-pub_year')
+        return context
+
+class PaperDetailView(DetailView):
+    """Detail view for individual papers"""
+    model = Paper
+    template_name = 'tracker/paper_detail.html'
+    context_object_name = 'paper'
+    slug_field = 'pmid'
+    slug_url_kwarg = 'pmid'
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        
+        # Related papers from same journal
+        context['related_papers'] = Paper.objects.filter(
+            journal=self.object.journal
+        ).exclude(pmid=self.object.pmid)[:5]
+        
+        # Transparency breakdown
+        indicators = [
+            ('Data Sharing', self.object.is_open_data),
+            ('Code Sharing', self.object.is_open_code),
+            ('COI Disclosure', self.object.is_coi_pred),
+            ('Funding Disclosure', self.object.is_fund_pred),
+            ('Protocol Registration', self.object.is_register_pred),
+        ]
+        
+        if self.object.is_replication is not None:
+            indicators.append(('Replication', self.object.is_replication))
+        if self.object.is_novelty is not None:
+            indicators.append(('Novelty', self.object.is_novelty))
+        
+        context['transparency_indicators'] = indicators
+        
+        return context
+
+class PaperSearchView(TemplateView):
+    """Advanced search for papers"""
+    template_name = 'tracker/paper_search.html'
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['form'] = PaperSearchForm()
+        context['journals'] = Journal.objects.all()
+        context['years'] = range(2000, datetime.now().year + 1)
+        return context
+
+class JournalListView(ListView):
+    """List view for journals"""
+    model = Journal
+    template_name = 'tracker/journal_list.html'
+    context_object_name = 'journals'
+    paginate_by = settings.OST_PAGINATION_SIZE
+    
+    def get_queryset(self):
+        queryset = Journal.objects.annotate(
+            paper_count=Count('papers'),
+            avg_transparency=Avg('papers__transparency_score')
+        ).all()
+        
+        # Filter by search
+        search_query = self.request.GET.get('search')
+        if search_query:
+            queryset = queryset.filter(
+                Q(title_abbreviation__icontains=search_query) |
+                Q(title_full__icontains=search_query) |
+                Q(publisher__icontains=search_query)
+            )
+        
+        # Filter by subject
+        subject = self.request.GET.get('subject')
+        if subject:
+            queryset = queryset.filter(broad_subject_terms__icontains=subject)
+        
+        # Filter by country
+        country = self.request.GET.get('country')
+        if country:
+            queryset = queryset.filter(country=country)
+        
+        # Ordering
+        order_by = self.request.GET.get('order_by', 'title_abbreviation')
+        queryset = queryset.order_by(order_by)
+        
+        return queryset
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['search_form'] = JournalSearchForm(self.request.GET)
+        context['available_countries'] = Journal.objects.values_list(
+            'country', flat=True
+        ).distinct().order_by('country')
+        context['available_subjects'] = [
+            'Dentistry', 'Orthodontics', 'Medicine', 'Surgery'
+        ]  # Common subjects
+        return context
+
+class JournalDetailView(DetailView):
+    """Detail view for journals"""
+    model = Journal
+    template_name = 'tracker/journal_detail.html'
+    context_object_name = 'journal'
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        
+        # Journal statistics
+        papers = self.object.papers.all()
+        context['total_papers'] = papers.count()
+        context['avg_transparency_score'] = papers.aggregate(
+            avg_score=Avg('transparency_score')
+        )['avg_score'] or 0
+        
+        # Transparency breakdown
+        context['transparency_stats'] = {
+            'data_sharing': papers.filter(is_open_data=True).count(),
+            'code_sharing': papers.filter(is_open_code=True).count(),
+            'coi_disclosure': papers.filter(is_coi_pred=True).count(),
+            'funding_disclosure': papers.filter(is_fund_pred=True).count(),
+            'protocol_registration': papers.filter(is_register_pred=True).count(),
+        }
+        
+        # Recent papers
+        context['recent_papers'] = papers.order_by('-pub_year')[:10]
+        
+        # Yearly trends
+        context['yearly_stats'] = papers.values('pub_year').annotate(
+            count=Count('id'),
+            avg_transparency=Avg('transparency_score')
+        ).order_by('pub_year')
+        
+        return context
+
+class StatisticsView(TemplateView):
+    """Main statistics page"""
+    template_name = 'tracker/statistics.html'
+    
+    @method_decorator(cache_page(60 * 15))  # Cache for 15 minutes
+    def dispatch(self, *args, **kwargs):
+        return super().dispatch(*args, **kwargs)
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        
+        # Overall statistics
+        papers = Paper.objects.all()
+        journals = Journal.objects.all()
+        
+        context['total_papers'] = papers.count()
+        context['total_journals'] = journals.count()
+        
+        # Transparency indicators statistics
+        indicators_stats = {}
+        indicators = [
+            ('data_sharing', 'is_open_data', 'Data Sharing'),
+            ('code_sharing', 'is_open_code', 'Code Sharing'),
+            ('coi_disclosure', 'is_coi_pred', 'COI Disclosure'),
+            ('funding_disclosure', 'is_fund_pred', 'Funding Disclosure'),
+            ('protocol_registration', 'is_register_pred', 'Protocol Registration'),
+        ]
+        
+        for key, field, label in indicators:
+            count = papers.filter(**{field: True}).count()
+            percentage = (count / max(papers.count(), 1)) * 100
+            indicators_stats[key] = {
+                'count': count,
+                'percentage': percentage,
+                'label': label
+            }
+        
+        context['indicators_stats'] = indicators_stats
+        
+        # Journal distribution by country
+        context['country_distribution'] = journals.values('country').annotate(
+            count=Count('id')
+        ).order_by('-count')[:10]
+        
+        # Papers by year
+        context['yearly_distribution'] = papers.values('pub_year').annotate(
+            count=Count('id'),
+            avg_transparency=Avg('transparency_score')
+        ).order_by('pub_year')
+        
+        return context
+
+class FieldStatisticsView(DetailView):
+    """Statistics for a specific research field"""
+    model = ResearchField
+    template_name = 'tracker/field_statistics.html'
+    context_object_name = 'field'
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        
+        # Get papers in this field (simplified - would need better field matching)
+        papers = Paper.objects.filter(
+            journal__broad_subject_terms__icontains=self.object.name
+        )
+        
+        context['total_papers'] = papers.count()
+        context['avg_transparency_score'] = papers.aggregate(
+            avg_score=Avg('transparency_score')
+        )['avg_score'] or 0
+        
+        # Field-specific statistics
+        context['field_stats'] = {
+            'data_sharing': (papers.filter(is_open_data=True).count() / 
+                           max(papers.count(), 1)) * 100,
+            'code_sharing': (papers.filter(is_open_code=True).count() / 
+                           max(papers.count(), 1)) * 100,
+            'coi_disclosure': (papers.filter(is_coi_pred=True).count() / 
+                             max(papers.count(), 1)) * 100,
+        }
+        
+        return context
+
+# API Views for AJAX/JSON responses
+class TransparencyByYearAPI(View):
+    """API endpoint for transparency trends by year"""
+    
+    def get(self, request):
+        yearly_data = Paper.objects.values('pub_year').annotate(
+            total=Count('id'),
+            data_sharing=Count('id', filter=Q(is_open_data=True)),
+            code_sharing=Count('id', filter=Q(is_open_code=True)),
+            coi_disclosure=Count('id', filter=Q(is_coi_pred=True)),
+            avg_transparency=Avg('transparency_score')
+        ).order_by('pub_year')
+        
+        data = list(yearly_data)
+        return JsonResponse({'data': data})
+
+class TransparencyByFieldAPI(View):
+    """API endpoint for transparency by research field"""
+    
+    def get(self, request):
+        # Simplified field analysis - would need more sophisticated categorization
+        field_data = []
+        major_fields = ['Dentistry', 'Medicine', 'Surgery', 'Orthodontics']
+        
+        for field in major_fields:
+            papers = Paper.objects.filter(
+                journal__broad_subject_terms__icontains=field
+            )
+            
+            if papers.exists():
+                field_data.append({
+                    'field': field,
+                    'total_papers': papers.count(),
+                    'avg_transparency': papers.aggregate(
+                        avg=Avg('transparency_score')
+                    )['avg'] or 0,
+                    'data_sharing_pct': (papers.filter(is_open_data=True).count() / 
+                                       papers.count()) * 100
+                })
+        
+        return JsonResponse({'data': field_data})
+
+class JournalDistributionAPI(View):
+    """API endpoint for journal distribution data"""
+    
+    def get(self, request):
+        distribution = Journal.objects.values('country').annotate(
+            count=Count('id')
+        ).order_by('-count')[:15]
+        
+        data = list(distribution)
+        return JsonResponse({'data': data})
+
+# User Management Views
+class SignUpView(View):
+    """User registration view"""
+    template_name = 'registration/signup.html'
+    
+    def get(self, request):
+        form = UserCreationForm()
+        return render(request, self.template_name, {'form': form})
+    
+    def post(self, request):
+        form = UserCreationForm(request.POST)
+        if form.is_valid():
+            user = form.save()
+            # Create user profile
+            UserProfile.objects.create(user=user)
+            login(request, user)
+            messages.success(request, 'Account created successfully!')
+            return redirect('tracker:home')
+        return render(request, self.template_name, {'form': form})
+
+class ProfileView(LoginRequiredMixin, TemplateView):
+    """User profile view"""
+    template_name = 'tracker/profile.html'
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        try:
+            context['profile'] = self.request.user.userprofile
+        except UserProfile.DoesNotExist:
+            UserProfile.objects.create(user=self.request.user)
+            context['profile'] = self.request.user.userprofile
+        return context
+
+class EditProfileView(LoginRequiredMixin, View):
+    """Edit user profile"""
+    template_name = 'tracker/edit_profile.html'
+    
+    def get(self, request):
+        try:
+            profile = request.user.userprofile
+        except UserProfile.DoesNotExist:
+            profile = UserProfile.objects.create(user=request.user)
+        
+        form = UserProfileForm(instance=profile)
+        return render(request, self.template_name, {'form': form})
+    
+    def post(self, request):
+        try:
+            profile = request.user.userprofile
+        except UserProfile.DoesNotExist:
+            profile = UserProfile.objects.create(user=request.user)
+        
+        form = UserProfileForm(request.POST, instance=profile)
+        if form.is_valid():
+            form.save()
+            messages.success(request, 'Profile updated successfully!')
+            return redirect('tracker:profile')
+        return render(request, self.template_name, {'form': form})
+
+# Research Field Views
+class ResearchFieldListView(ListView):
+    """List of research fields"""
+    model = ResearchField
+    template_name = 'tracker/field_list.html'
+    context_object_name = 'fields'
+
+class ResearchFieldDetailView(DetailView):
+    """Detail view for research fields"""
+    model = ResearchField
+    template_name = 'tracker/field_detail.html'
+    context_object_name = 'field'
+
+class TrendsView(TemplateView):
+    """Trends analysis page"""
+    template_name = 'tracker/trends.html'
+
+class ExportDataView(LoginRequiredMixin, View):
+    """Export data as CSV"""
+    
+    def get(self, request):
+        # Create CSV response
+        response = HttpResponse(content_type='text/csv')
+        response['Content-Disposition'] = 'attachment; filename="ost_papers.csv"'
+        
+        writer = csv.writer(response)
+        
+        # Write header
+        writer.writerow([
+            'PMID', 'Title', 'Authors', 'Journal', 'Year', 'DOI',
+            'Data Sharing', 'Code Sharing', 'COI Disclosure', 
+            'Funding Disclosure', 'Protocol Registration',
+            'Transparency Score'
+        ])
+        
+        # Write data
+        papers = Paper.objects.select_related('journal').all()
+        for paper in papers:
+            writer.writerow([
+                paper.pmid, paper.title, paper.author_string,
+                paper.journal_title, paper.pub_year, paper.doi,
+                paper.is_open_data, paper.is_open_code, paper.is_coi_pred,
+                paper.is_fund_pred, paper.is_register_pred,
+                paper.transparency_score
+            ])
+        
+        return response
+
+# Admin Views
+class ImportDataView(UserPassesTestMixin, TemplateView):
+    """Import data from CSV files (admin only)"""
+    template_name = 'tracker/import_data.html'
+    
+    def test_func(self):
+        return self.request.user.is_superuser
+    
+    def post(self, request):
+        # Implementation for importing data would go here
+        messages.info(request, 'Data import functionality would be implemented here.')
+        return redirect('tracker:import_data')
+
+class UpdateTrendsView(UserPassesTestMixin, View):
+    """Update transparency trends (admin only)"""
+    
+    def test_func(self):
+        return self.request.user.is_superuser
+    
+    def post(self, request):
+        # Implementation for updating trends would go here
+        messages.info(request, 'Trends update functionality would be implemented here.')
+        return redirect('tracker:statistics')
+
+class JournalSearchView(TemplateView):
+    """Advanced search for journals"""
+    template_name = 'tracker/journal_search.html'
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['form'] = JournalSearchForm()
+        context['countries'] = Journal.objects.values_list(
+            'country', flat=True
+        ).distinct().order_by('country')
+        return context

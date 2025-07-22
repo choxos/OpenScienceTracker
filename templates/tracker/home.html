@@ -1,0 +1,292 @@
+{% extends 'tracker/base.html' %}
+
+{% block title %}Open Science Tracker - Home{% endblock %}
+
+{% block extra_head %}
+<style>
+    .hero-section {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 4rem 0;
+        margin-bottom: 3rem;
+    }
+    .stat-card {
+        transition: transform 0.2s;
+    }
+    .stat-card:hover {
+        transform: translateY(-5px);
+    }
+    .transparency-indicator {
+        border-radius: 15px;
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+    .indicator-high { background: linear-gradient(45deg, #28a745, #20c997); }
+    .indicator-medium { background: linear-gradient(45deg, #ffc107, #fd7e14); }
+    .indicator-low { background: linear-gradient(45deg, #dc3545, #e83e8c); }
+</style>
+{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<div class="hero-section">
+    <div class="container text-center">
+        <h1 class="display-4 fw-bold mb-4">
+            <i class="fas fa-microscope me-3"></i>
+            Open Science Tracker
+        </h1>
+        <p class="lead mb-4">
+            Promoting transparency and reproducibility in biomedical research through comprehensive tracking of open science indicators.
+        </p>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <p class="mb-4">
+                    Built on the validated <strong>rtransparent</strong> methodology, OST tracks 7 key transparency indicators across 
+                    scientific literature to help researchers, institutions, and journals improve their open science practices.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <!-- Overview Statistics -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <h2 class="text-center mb-4">
+                <i class="fas fa-chart-line me-2"></i>
+                Database Overview
+            </h2>
+        </div>
+        
+        <div class="col-md-3 col-sm-6 mb-4">
+            <div class="card stat-card h-100 border-0 shadow">
+                <div class="card-body text-center">
+                    <div class="text-primary mb-2">
+                        <i class="fas fa-file-alt fa-2x"></i>
+                    </div>
+                    <h3 class="card-title text-primary">{{ total_papers|floatformat:0 }}</h3>
+                    <p class="card-text">Research Papers</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-3 col-sm-6 mb-4">
+            <div class="card stat-card h-100 border-0 shadow">
+                <div class="card-body text-center">
+                    <div class="text-success mb-2">
+                        <i class="fas fa-book fa-2x"></i>
+                    </div>
+                    <h3 class="card-title text-success">{{ total_journals|floatformat:0 }}</h3>
+                    <p class="card-text">Scientific Journals</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-3 col-sm-6 mb-4">
+            <div class="card stat-card h-100 border-0 shadow">
+                <div class="card-body text-center">
+                    <div class="text-info mb-2">
+                        <i class="fas fa-tooth fa-2x"></i>
+                    </div>
+                    <h3 class="card-title text-info">{{ dental_journals|floatformat:0 }}</h3>
+                    <p class="card-text">Dental Journals</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-3 col-sm-6 mb-4">
+            <div class="card stat-card h-100 border-0 shadow">
+                <div class="card-body text-center">
+                    <div class="text-warning mb-2">
+                        <i class="fas fa-star fa-2x"></i>
+                    </div>
+                    <h3 class="card-title text-warning">{{ avg_transparency_score|floatformat:1 }}/7</h3>
+                    <p class="card-text">Avg Transparency Score</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Transparency Indicators -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <h2 class="text-center mb-4">
+                <i class="fas fa-eye me-2"></i>
+                Transparency Indicators
+            </h2>
+        </div>
+        
+        <div class="col-md-6 mb-4">
+            <div class="transparency-indicator indicator-low text-white">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h5 class="mb-1">
+                            <i class="fas fa-database me-2"></i>
+                            Data Sharing
+                        </h5>
+                        <p class="mb-0">Research data availability</p>
+                    </div>
+                    <div class="text-end">
+                        <h3 class="mb-0">{{ data_sharing_pct|floatformat:1 }}%</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6 mb-4">
+            <div class="transparency-indicator indicator-low text-white">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h5 class="mb-1">
+                            <i class="fas fa-code me-2"></i>
+                            Code Sharing
+                        </h5>
+                        <p class="mb-0">Analysis code availability</p>
+                    </div>
+                    <div class="text-end">
+                        <h3 class="mb-0">{{ code_sharing_pct|floatformat:1 }}%</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6 mb-4">
+            <div class="transparency-indicator indicator-high text-white">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h5 class="mb-1">
+                            <i class="fas fa-balance-scale me-2"></i>
+                            COI Disclosure
+                        </h5>
+                        <p class="mb-0">Conflict of interest statements</p>
+                    </div>
+                    <div class="text-end">
+                        <h3 class="mb-0">{{ coi_disclosure_pct|floatformat:1 }}%</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6 mb-4">
+            <div class="transparency-indicator indicator-medium text-white">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h5 class="mb-1">
+                            <i class="fas fa-money-bill-wave me-2"></i>
+                            Funding Disclosure
+                        </h5>
+                        <p class="mb-0">Funding source information</p>
+                    </div>
+                    <div class="text-end">
+                        <h3 class="mb-0">62%</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Recent Papers and Top Journals -->
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <div class="card border-0 shadow">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">
+                        <i class="fas fa-clock me-2"></i>
+                        Recently Added Papers
+                    </h5>
+                </div>
+                <div class="card-body">
+                    {% for paper in recent_papers %}
+                        <div class="border-bottom pb-2 mb-2">
+                            <h6 class="mb-1">
+                                <a href="{% url 'tracker:paper_detail' paper.pmid %}" class="text-decoration-none">
+                                    {{ paper.title|truncatechars:60 }}
+                                </a>
+                            </h6>
+                            <small class="text-muted">
+                                {{ paper.journal_title }} • {{ paper.pub_year }} • 
+                                <span class="badge bg-secondary">{{ paper.transparency_score }}/7</span>
+                            </small>
+                        </div>
+                    {% empty %}
+                        <p class="text-muted">No papers available yet.</p>
+                    {% endfor %}
+                    <div class="text-center mt-3">
+                        <a href="{% url 'tracker:paper_list' %}" class="btn btn-outline-primary">
+                            View All Papers
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6 mb-4">
+            <div class="card border-0 shadow">
+                <div class="card-header bg-success text-white">
+                    <h5 class="mb-0">
+                        <i class="fas fa-trophy me-2"></i>
+                        Top Journals by Paper Count
+                    </h5>
+                </div>
+                <div class="card-body">
+                    {% for journal in top_journals %}
+                        <div class="border-bottom pb-2 mb-2">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div>
+                                    <h6 class="mb-1">
+                                        <a href="{% url 'tracker:journal_detail' journal.pk %}" class="text-decoration-none">
+                                            {{ journal.title_abbreviation }}
+                                        </a>
+                                    </h6>
+                                    <small class="text-muted">{{ journal.country|default:"Unknown" }}</small>
+                                </div>
+                                <div class="text-end">
+                                    <span class="badge bg-success">{{ journal.paper_count }} papers</span>
+                                </div>
+                            </div>
+                        </div>
+                    {% empty %}
+                        <p class="text-muted">No journals available yet.</p>
+                    {% endfor %}
+                    <div class="text-center mt-3">
+                        <a href="{% url 'tracker:journal_list' %}" class="btn btn-outline-success">
+                            View All Journals
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Call to Action -->
+    <div class="row mt-5">
+        <div class="col-12">
+            <div class="card bg-light border-0">
+                <div class="card-body text-center py-5">
+                    <h3 class="mb-3">Explore Open Science Data</h3>
+                    <p class="lead text-muted mb-4">
+                        Discover transparency trends, compare journals, and contribute to improving research practices.
+                    </p>
+                    <div class="d-flex justify-content-center gap-3 flex-wrap">
+                        <a href="{% url 'tracker:statistics' %}" class="btn btn-primary btn-lg">
+                            <i class="fas fa-chart-bar me-2"></i>
+                            View Statistics
+                        </a>
+                        <a href="{% url 'tracker:paper_search' %}" class="btn btn-outline-primary btn-lg">
+                            <i class="fas fa-search me-2"></i>
+                            Search Papers
+                        </a>
+                        {% if not user.is_authenticated %}
+                            <a href="{% url 'tracker:signup' %}" class="btn btn-success btn-lg">
+                                <i class="fas fa-user-plus me-2"></i>
+                                Join OST
+                            </a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 

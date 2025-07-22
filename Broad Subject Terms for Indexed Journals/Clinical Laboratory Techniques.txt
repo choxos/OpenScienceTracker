@@ -1,0 +1,1127 @@
+1. Author(s): Society for Laboratory Automation and Screening,
+Title Abbreviation: SLAS Technol
+Title(s): SLAS technology.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Thousand Oaks, CA : SAGE Publications, [2017]-
+Description: 1 online resource
+Language: English
+ISSN: 2472-6311(Electronic); 2472-6303(Print); 2472-6303(Linking)
+LCCN: 2016200576
+Electronic Links: https://journals.sagepub.com/home/JLA, https://www.sciencedirect.com/journal/slas-technology
+Fully Indexed In: MEDLINE: v22, 2017-
+In: PubMed: v22, 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Automation, Laboratory*; Informatics; Miniaturization
+Publication Type(s): Periodical
+Notes: "Translating life sciences innovation". Numbering from contents page. Some
+volumes have special issues. Also issued in print.
+Other ID: (OCoLC)950397180
+NLM ID: 101697564[Serial]
+
+2. Author(s): American Association for Clinical Chemistry,
+Title Abbreviation: J Appl Lab Med
+Title(s): The journal of applied laboratory medicine.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: [Washington, DC] : American Association for Clinical Chemistry, [2016]-[2019]
+Latest Publisher: 2020- : Oxford : Oxford University Press
+Description: 1 online resource
+Language: English
+ISSN: 2475-7241(Electronic); 2576-9456(Print); 2475-7241(Linking)
+LCCN: 2016247799
+Electronic Links: https://academic.oup.com/jalm
+Fully Indexed In: MEDLINE: v3n1, July 2018-
+In: PubMed: v3n1, July 2018- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Clinical*; Clinical Laboratory Techniques
+Publication Type(s): Periodical
+Other ID: (OCoLC)964570678
+NLM ID: 101693884[Serial]
+
+3. Title Abbreviation: Monoclon Antib Immunodiagn Immunother
+Title(s): Monoclonal antibodies in immunodiagnosis and immunotherapy.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc.
+Language: English
+ISSN: 2167-9436(Electronic); 2167-9436(Linking)
+LCCN: 2012202917
+Electronic Links: http://online.liebertpub.com/loi/mab
+Fully Indexed In: MEDLINE: v32n1, Feb. 2013-
+In: PubMed: v32n1, Feb. 2013-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Antibodies, Monoclonal*; Immunologic Tests; Immunotherapy
+Publication Type(s): Periodical
+Other ID: (OCoLC)794233644
+NLM ID: 101590955[Serial]
+
+4. Author(s): Taehan Chindan Kŏmsa Ŭihakhoe.
+Title Abbreviation: Ann Lab Med
+Title(s): Annals of laboratory medicine.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Korea (South)
+Publisher: Seoul : Korean Society for Laboratory Medicine
+Language: English
+ISSN: 2234-3806(Print); 2234-3814(Electronic); 2234-3806(Linking)
+LCCN: 2012243047
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101571172, http://www.annlabmed.org/
+Fully Indexed In: MEDLINE: v32n1, Jan. 2012-
+In: PubMed: v32n1, Jan. 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Clinical Laboratory Techniques*; Pathology, Clinical
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)773356523
+NLM ID: 101571172[Serial]
+
+5. Author(s): Society for Laboratory Automation and Screening.
+Title Abbreviation: J Lab Autom
+Title(s): Journal of laboratory automation.
+Publication Start Year: 2011
+Publication End Year: 2016
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: New York : Elsevier
+Latest Publisher: 2012- : Thousand Oaks, CA : Sage
+Language: English
+ISSN: 2211-0690(Electronic); 2211-0682(Print); 2211-0682(Linking)
+LCCN: 2011243369
+Electronic Links: https://journals.sagepub.com/home/jla
+Fully Indexed In: MEDLINE: v16n1, Feb. 2011-v21n6, Dec. 2016
+In: PubMed: v16n1, Feb. 2011-v21n6, Dec. 2016; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Automation, Laboratory*; Biomedical Technology; Clinical Laboratory Techniques
+Publication Type(s): Periodical
+Notes: At head of title: JALA 2011-. An official, peer-reviewed journal of the Society
+for Laboratory Automation and Screening. Also issued in print. Mode of access:
+World Wide Web.
+Other ID: (OCoLC)702680762
+NLM ID: 101558509[Serial]
+
+6. Author(s): Cold Spring Harbor Laboratory.
+Title Abbreviation: Cold Spring Harb Protoc
+Title(s): Cold Spring Harbor protocols.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Cold Spring Harbor, NY : Cold Spring Harbor Laboratory Press
+Language: English
+ISSN: 1940-3402(Print); 1559-6095(Electronic); 1559-6095(Linking)
+LCCN: 2010243158
+Electronic Links: https://cshprotocols.cshlp.org
+Fully Indexed In: MEDLINE: v2009n1, Jan. 2009-
+In: PubMed: v2009n1, Jan. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Research/methods; Cytological Techniques/methods; Molecular Biology/methods*
+Publication Type(s): Periodical
+Notes: Description based on vol. 4, issue 1 (Jan. 2009) ; title from cover. Latest issue
+consulted: vol. 2010, issue 2 (Feb. 2010). Also issued online.
+Other ID: (OCoLC)173685180
+NLM ID: 101524530[Serial]
+
+7. Title Abbreviation: Expert Opin Med Diagn
+Title(s): Expert opinion on medical diagnostics.
+Publication Start Year: 2007
+Publication End Year: 2013
+Frequency: Bimonthly, 2009-
+Country of Publication: England
+Publisher: London : Informa Healthcare
+Language: English
+ISSN: 1753-0059(Print); 1753-0067(Electronic); 1753-0059(Linking)
+LCCN: 2007213170
+Electronic Links: http://www.tandfonline.com/loi/iedg20
+Fully Indexed In: MEDLINE: v7n1, Jan. 2013-v7n6, 2013
+In: PubMed: v7n1, Jan. 2013-v7n6, 2013 ; selected citations only before this date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnosis*
+Publication Type(s): PeriodicalReview
+Notes: Description based on: Vol. 2, no. 1 (Jan. 2008); title from cover. Also issued
+online.
+Other ID: (OCoLC)154201940
+NLM ID: 101392201[Serial]
+
+8. Author(s): American Society for Microbiology.
+Title Abbreviation: Clin Vaccine Immunol
+Title(s): Clinical and vaccine immunology : CVI.
+Publication Start Year: 2006
+Publication End Year: 2017
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, D.C. : American Society for Microbiology, [2006]-
+Description: v.
+Language: English
+ISSN: 1556-6811(Print); 1556-679X(Electronic); 1556-679X(Linking)
+LCCN: 2005213088
+Electronic Links: https://cvi.asm.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101252125
+Fully Indexed In: MEDLINE: v13n1, Jan. 2006-v24n12, Dec. 2017
+In: PubMed: v13n1, Jan. 2006-v24n12, Dec. 2017, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; HLA-D Antigens; Immunologic Techniques; Immunologic Tests; Immunotherapy, Active; Receptors, Immunologic
+Publication Type(s): Periodical
+Notes: Description based on surrogate; title from cover. Print issues ceased with v.14, 
+no.12 (Dec. 2007). Also issued online.
+Other ID: (OCoLC)60770875
+NLM ID: 101252125[Serial]
+
+9. Author(s): Taehan Chindan Kŏmsa Ŭihakhoe,
+Title Abbreviation: Korean J Lab Med
+Title(s): The Korean journal of laboratory medicine.
+Publication Start Year: 2006
+Publication End Year: 2011
+Frequency: Bimonthly
+Country of Publication: Korea (South)
+Publisher: Seoul : Korean Society for Laboratory Medicine, 2006-2011.
+Description: 6 volumes.
+Language: Korean, English
+ISSN: 1598-6535(Print); 1598-6535(Linking)
+Electronic Links: http://www.annlabmed.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101322822
+Fully Indexed In: MEDLINE: v27n1, Feb. 2007-v31n4, Oct. 2011
+In: PubMed: v27n1, Feb. 2007-v31n4, Oct. 2011, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques; Pathology, Clinical*
+Publication Type(s): Periodical
+Notes: Issues for Oct. 2006-Dec. 2010 have Korean title: Taehan Chindan Kŏmsa Ŭihakhoe
+chi. Also issued online. Articles in Korean or English; summaries in English,
+-2010; in English, 2011- .
+Other ID: (OCoLC)880688427
+NLM ID: 101322822[Serial]
+
+10. Title Abbreviation: Mol Diagn Ther
+Title(s): Molecular diagnosis & therapy.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: New Zealand
+Publisher: Auckland, N.Z. : Adis International, c2006-
+Latest Publisher: Auckland : Adis, Springer International
+Description: v. : ill.
+Language: English
+ISSN: 1177-1062(Print); 1179-2000(Electronic); 1177-1062(Linking)
+LCCN: 2006243286
+Electronic Links: https://link.springer.com/journal/40291
+Fully Indexed In: MEDLINE: v10n1, 2006-
+In: PubMed: v10n1, 2006-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomarkers; Genetic Therapy; Molecular Diagnostic Techniques*; Pharmacogenetics
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)68209159
+NLM ID: 101264260[Serial]
+
+11. Title Abbreviation: Nat Protoc
+Title(s): Nature protocols.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly, 2007-
+Country of Publication: England
+Publisher: London, UK : Nature Pub. Group, 2006-
+Language: English
+ISSN: 1750-2799(Electronic); 1754-2189(Print); 1750-2799(Linking)
+LCCN: 2006243648
+Electronic Links: https://www.nature.com/nprot/
+Fully Indexed In: MEDLINE: v1n1, 2006-; PubMed: v1n1, 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology/methods; Biomedical Research/methods; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Title from issue contents screen (publisher's Web site, viewed Aug. 11, 2006).
+Latest issue consulted: Vol. 1, no. 2 (viewed Aug. 11, 2006). Print issues ceased
+with 2010? Issues not published for Vol. 1 nos. 8-12 (2006). Mode of access:
+World Wide Web.
+Other ID: (OCoLC)70276361
+NLM ID: 101284307[Serial]
+
+12. Author(s): Central Society for Clinical Research (U.S.)
+Title Abbreviation: Transl Res
+Title(s): Translational research : the journal of laboratory and clinical medicine.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, N.Y. : Elsevier, [2006]-
+Description: v. : ill.
+Language: English
+ISSN: 1931-5244(Print); 1878-1810(Electronic); 1878-1810(Linking)
+LCCN: 2006212275
+Electronic Links: http://www.sciencedirect.com/science/journal/19315244
+Fully Indexed In: MEDLINE: v148n1, July 2006-; PubMed: v148n1, July 2006-; Abridged index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Clinical Laboratory Techniques*; Medicine; Research
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official publication of the Central Society
+for Clinical Research.
+Other ID: (OCoLC)66901338
+NLM ID: 101280339[Serial]
+
+13. Title Abbreviation: Nat Methods
+Title(s): Nature methods.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, NY : Nature Pub. Group, c2004-
+Description: v. : ill.
+Language: English
+ISSN: 1548-7091(Print); 1548-7105(Electronic); 1548-7091(Linking)
+LCCN: 2004214152
+Electronic Links: http://www.nature.com/nmeth/index.html
+Fully Indexed In: MEDLINE: v1n1, Oct. 2004-; PubMed: v1n1, Oct. 2004-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Research/methods*; Research Design
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)54447242
+NLM ID: 101215604[Serial]
+
+14. Author(s): European Federation of Clinical Chemistry.; European Federation of Clinical
+Chemistry and Laboratory Medicine.; Forum of the European Societies of Clinical
+Chemistry.; International Federation of Clinical Chemistry and Laboratory
+Medicine.
+Title Abbreviation: Clin Chem Lab Med
+Title(s): Clinical chemistry and laboratory medicine.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Berlin ; New York : Walter De Gruyter, c1998-
+Description: v. : ill.
+Language: English
+ISSN: 1434-6621(Print); 1437-4331(Electronic); 1434-6621(Linking)
+Electronic Links: http://www.degruyter.com/view/j/cclm?recentIssue=true
+Fully Indexed In: MEDLINE: v36n1, Jan. 1998-; Index medicus
+In: PubMed: v36n1, Jan. 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Clinical; Clinical Laboratory Techniques
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Journal of: the Forum of the European
+Societies of Clinical Chemistry - the European Branch of the International
+Federation of Clinical Chemistry and Laboratory Medicine, v. 36 (1988), published
+in association with the International Federation of Clinical Chemistry and
+Laboratory Medicine and the Forum of the European Societies of Clinical
+Chemistry, v.37 (1999)-v.45, no. 6 (2007); published in association with: the
+International Federation of Clinical Chemistry and Laboratory Medicine and the
+European Federation of Clinical Chemistry, v. 46, no. 7 (2008)-v.50, no. 4
+(2012); the International Federation of Clinical Chemistry and Laboratory
+Medicine and the European Federation of Clinical Chemistry and Laboratory
+Medicine, v. 50, no. 5 (2012)-v.51, no. 7 (2013); the European Federation of
+Clinical Chemistry and Laboratory Medicine, v. 51, no. 8 (2013)- .
+Other ID: (DNLM)SR0092367(s)(OCoLC)38843522
+NLM ID: 9806306[Serial]
+
+15. Author(s): International Society for Clinical Densitometry.
+Title Abbreviation: J Clin Densitom
+Title(s): Journal of clinical densitometry : the official journal of the International
+Society for Clinical Densitometry.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: Totowa, NJ : Humana Press, c1998-
+Description: v. : ill.
+Language: English
+ISSN: 1094-6950(Print); 1094-6950(Linking)
+Coden: JCDTFM
+LCCN: sn97-708
+Electronic Links: http://www.sciencedirect.com/science/journal/10946950
+Fully Indexed In: MEDLINE: v2n1, spring 1999-; PubMed: v2n1, spring 1999-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Absorptiometry, Photon; Bone Density; Osteoporosis/diagnosis
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0091956(s)(OCoLC)37313466
+NLM ID: 9808212[Serial]
+
+16. Author(s): Arbeitsgemeinschaft der Ärzte Staatlicher und Kommunaler
+Bluttransfusionsdienste.; Berufsvereinigung der Naturwissenschaftler in der
+Labordiagnostik.
+Title Abbreviation: Clin Lab
+Title(s): Clinical laboratory.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Bimonthly, 2000-
+Country of Publication: Germany
+Publisher: Heidelberg : Verlag Klinisches Labor, [1997-
+Latest Publisher: 2010- : Mainz : Clinical Laboratory Publications
+Description: v. : ill. ; ports.
+Language: English, German
+ISSN: 1433-6510(Print); 1433-6510(Linking)
+Coden: CLLAF
+LCCN: sn97-21123
+Electronic Links: http://www.clin-lab-publications.com/
+Fully Indexed In: MEDLINE: v46n1-2, 2000-; Index medicus
+In: PubMed: v46n1-2, 2000-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Clinical Laboratory Techniques; Hematologic Tests
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: v. 56, no. 5+6 (2010). Also available
+on CD-ROM. Also issued online. In German and English; summaries and table of
+contents in both languages, 1997-2000; in English, 2001-
+Other ID: (DNLM)SR0090840(s)(OCoLC)36973474
+NLM ID: 9705611[Serial]
+
+17. Author(s): National Association of Dental Laboratories (U.S.)
+Title Abbreviation: J Dent Technol
+Title(s): Journal of dental technology : the peer-reviewed publication of the National
+Association of Dental Laboratories.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Eight no. a year, 2001-
+Country of Publication: United States
+Publisher: Alexandria Va : National Association Of Dental Laboratories
+Description: v. : ill.
+Language: English
+ISSN: 1088-3118(Print); 1088-3118(Linking)
+LCCN: sn 96003300
+Fully Indexed In: MEDLINE: v13n2,Mar. 1996-v18n8, Nov-Dec. 2001; Index to dental literature: v13n2,Mar. 1996-v16n10,Dec. 1999
+In: PubMed: v13n2,Mar. 1996-v18n8, Nov-Dec. 2001; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Dental Prosthesis*; Laboratories, Dental/organization & administration*; Technology, Dental/methods*Technology, Dental/organization & administration*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0088861(s)(OCoLC)34580596
+NLM ID: 9610506[Serial]
+
+18. Title Abbreviation: Mol Diagn
+Title(s): Molecular diagnosis : a journal devoted to the understanding of human disease
+through the clinical application of molecular biology.
+Publication Start Year: 1996
+Publication End Year: 2005
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Naperville, IL : Churchill Livingstone. c1996-
+Latest Publisher: 2003- : Langhorne, PA : Adis International
+Description: v. : ill.
+Language: English
+ISSN: 1084-8592(Print); 1084-8592(Linking)
+LCCN: sn 95003450
+Fully Indexed In: MEDLINE: v4n1, 1999-v9n4, 2005; PubMed: v4n1, 1999-v9n4, 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: DNA*; Diagnosis*; Molecular Biology/methods*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0086132(s)(OCoLC)33205061
+NLM ID: 9614965[Serial]
+
+19. Author(s): International Society for Laboratory Hematology.
+Title Abbreviation: Lab Hematol
+Title(s): Laboratory hematology : official publication of the International Society for
+Laboratory Hematology.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Charlottesville, VA : Kluge Carden Jennings Pub. Co., c1995-
+Description: v. : ill.
+Language: English
+ISSN: 1080-2924(Print); 1523-6528(Electronic); 1080-2924(Linking)
+Coden: LHAEAE
+LCCN: sn 94006033
+Electronic Links: http://www.cardenjenningspublishing.com/index.php/lh: no longer valid
+Fully Indexed In: MEDLINE: v9n1, 2003-v20n2, June 2014; Index medicus
+In: PubMed: v9n1, 2003-v20n2, June 2014; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hematologic Tests*; Hematology/methods*; Pathology, Clinical*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v.13, no.4 (2007). Vol. 1, no. 1 also called "Premier
+issue". Also called 95/1- . Also issued online.
+Other ID: (DNLM)SR0083282(s)(OCoLC)31748034
+NLM ID: 9615688[Serial]
+
+20. Author(s): American Society for Microbiology.
+Title Abbreviation: Clin Diagn Lab Immunol
+Title(s): Clinical and diagnostic laboratory immunology.
+Publication Start Year: 1994
+Publication End Year: 2005
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Washington, D.C. : American Society for Microbiology, c1994-
+Description: v. : ill.
+Language: English
+ISSN: 1071-412X(Print); 1098-6588(Electronic); 1071-412X(Linking)
+Coden: CDIMEN
+LCCN: sn 93005738, sn 93005736
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9421292, https://cvi.asm.org//content/by/year
+Fully Indexed In: MEDLINE: v1n1, 1994-v12n12, Dec. 2005; Index medicus
+In: PubMed: v1n1, 1994-v12n12, Dec. 2005, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; HLA-D Antigens*; Immunologic Techniques*; Immunologic Tests*; Receptors, Immunologic*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0078892(s)(OCoLC)28638632
+NLM ID: 9421292[Serial]
+
+21. Author(s): Institute of Medical Laboratory Sciences (Great Britain); Royal Society of
+Medicine Services (Great Britain)
+Title Abbreviation: Br J Biomed Sci
+Title(s): British journal of biomedical science.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: [London] : Published for the Institute of Medical Laboratory Sciences by Royal
+Society of Medicine Services, c1993-
+Latest Publisher: 2022- : Lausanne, Switzerland : Frontiers Media SA
+Description: v. : ill.
+Language: English
+ISSN: 0967-4845(Print); 2474-0896(Electronic); 0967-4845(Linking)
+Coden: BJMSEO
+Electronic Links: http://www.tandfonline.com/toc/tbbs20/current, https://www.frontierspartnerships.org/journals/british-journal-of-biomedical-science, https://pmc.ncbi.nlm.nih.gov/journals/?term=9309208
+Fully Indexed In: MEDLINE: v50n1, 1993-; PubMed: v50n1, 1993-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*; Biomedical Technology*; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0075465(s)(OCoLC)27845663
+NLM ID: 9309208[Serial]
+
+22. Title Abbreviation: Diagn Afr
+Title(s): Diagnostics in Africa.
+Publication Start Year: 1993
+Publication End Year: 20uu
+Frequency: Irregular
+Country of Publication: England
+Publisher: Cambridge [England] : FSG Communications, [1993-
+Latest Publisher: Cambridge : Fsg Communications
+Description: v. : ill.
+Language: English
+ISSN: 0969-5796(Print); 0969-5796(Linking)
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to population demographics/reproductive health were indexed.
+MeSH: Africa; Clinical Laboratory Techniques*; Communicable Diseases/diagnosis*; Laboratories*
+Publication Type(s): Periodical
+Notes: Title from caption.
+Other ID: (DNLM)SR0077575(s)(OCoLC)29639023
+NLM ID: 9316757[Serial]
+
+23. Author(s): Soi︠u︡z nauchnykh obshchestv klinicheskoĭ laboratornoĭ diagnostiki.; Russia
+(Federation). Ministerstvo zdravookhranenii︠a︡.; Russia (Federation).
+Ministerstvo zdravookhranenii︠a︡ i medit︠s︡inskoĭ promyshlennosti.
+Title Abbreviation: Klin Lab Diagn
+Title(s): Klinicheskaia laboratornaia diagnostika.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Monthly, 1997-
+Country of Publication: Russia (Federation)
+Publisher: Moskva : "Meditsina", 1992-
+Latest Publisher: 2024- : Saint-Petersburg, Russia : Eco-Vector
+Description: v. : ill.
+Language: Russian, English
+ISSN: 0869-2084(Print); 2412-1320(Electronic); 0869-2084(Linking)
+Coden: KLDIES
+Electronic Links: https://clinlabdia.ru, https://kld-journal.fedlab.ru/0869-2084/
+Fully Indexed In: MEDLINE: n3, 1993-v67n11, Nov. 2022; PubMed: n3, 1993-v67n11, Nov. 2022; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 63, no. 6 (2018). Also issued
+online. Summaries and table of contents also in English. Issued by: Soiuz
+nauchnykh obshchestv klinicheskoĭ laboratornoĭ diagnostiki, and: Ministerstvo
+zdravookhraneniia, 1992-Feb. 1994; Ministerstvo zdravookhraneniia meditsinskoĭ
+promyshlennosti, Mar. 1994- .
+Other ID: (DNLM)SR0077292(s)(OCoLC)30431410
+NLM ID: 9432021[Serial]
+
+24. Title Abbreviation: Am Clin Lab
+Title(s): American clinical laboratory.
+Publication Start Year: 1988
+Publication End Year: 2002
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [Shelton, CT : International Scientific Communications, Inc., [c1988-
+Description: v. : ill., ports.
+Language: English
+ISSN: 1041-3235(Print); 1041-3235(Linking)
+Coden: ACLAE7
+Selectively Indexed in: MEDLINEv9n1,Jan.-Feb. 1990-v19n9, Nov.-Dec. 2000PubMedv9n1,Jan.-Feb. 1990-v19n9, Nov.-Dec. 2000
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Clinical Laboratory Techniques*; Equipment and Supplies*
+Publication Type(s): Periodical
+Notes: Some issues called "News ed." and issued in oversized format and carry same issue
+numbering as previous month, followed by an A. Vol. 12, no.12, 1993 never
+published.
+Other ID: (DNLM)SR0062682(s)(OCoLC)18719659
+NLM ID: 8903666[Serial]
+
+25. Author(s): American Society for Medical Technology.; American Society for Clinical
+Laboratory Science.
+Title Abbreviation: Clin Lab Sci
+Title(s): Clinical laboratory science : journal of the American Society for Medical
+Technology.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [Washington, DC] : American Society for Medical Technology, [1988-
+Latest Publisher: <2000->: Bethesda, MD : American Society for Clinical Laboratory Science
+Description: v. : ill.
+Language: English
+ISSN: 0894-959X(Print); 1945-3574(Electronic); 0894-959X(Linking)
+Electronic Links: http://clsjournal.ascls.org/
+Fully Indexed In: MEDLINE: v3n1, 1990-v27n4, Fall 2014
+In: PubMed: v3n1, 1990-v27n4, Fall 2014; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Biomedical Technology*; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Issues for <2000-> have subtitle: Journal of the American Society for Clinical
+Laboratory Science. Title from cover. Print issues ceased with v. 27 (2014).
+Other ID: (DNLM)SR0061870(s)(OCoLC)16360620
+NLM ID: 8806547[Serial]
+
+26. Title Abbreviation: J Clin Lab Anal
+Title(s): Journal of clinical laboratory analysis.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Bimonthly, 1989-
+Country of Publication: United States
+Publisher: New York : Alan R. Liss, Inc., c1987-
+Latest Publisher: Hoboken, N.J. : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 0887-8013(Print); 1098-2825(Electronic); 0887-8013(Linking)
+Coden: JCANEM
+LCCN: sn 86013839
+Electronic Links: https://onlinelibrary.wiley.com/journal/10982825, https://pmc.ncbi.nlm.nih.gov/journals/?term=8801384
+Fully Indexed In: MEDLINE: v3n1, 1989-; PubMed: v3n1, 1989-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology*; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 28, no. 6 (2014). Also issued
+online.
+Other ID: (DNLM)SR0056303(s)(OCoLC)13352973
+NLM ID: 8801384[Serial]
+
+27. Author(s): National Association of Dental Laboratories (U.S.)
+Title Abbreviation: Trends Tech Contemp Dent Lab
+Title(s): Trends & techniques in the contemporary dental laboratory.
+Publication Start Year: 1984
+Publication End Year: 1996
+Frequency: Ten no. a year
+Country of Publication: United States
+Publisher: [Alexandria, Va. : National Association of Dental Laboratories, c1984-c1996.
+Description: 13 v. : ill., ports.
+Language: English
+ISSN: 0746-8962(Print); 0746-8962(Linking)
+Fully Indexed In: MEDLINE: v1n1,Jan. 1984-v13n1,Jan./Feb. 1996; Index to dental literature: v1n1,Jan. 1984-v13n1,Jan./Feb. 1996
+In: PubMed: v1n1,Jan. 1984-v13n1,Jan./Feb. 1996; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Laboratories, Dental*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 1, no. 1 also called "Premier issue."
+Other ID: (DNLM)T20375000(s)(OCoLC)10378256
+NLM ID: 8409547[Serial]
+
+28. Title Abbreviation: Clin Lab Med
+Title(s): Clinics in laboratory medicine.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia : Saunders, [1981-
+Latest Publisher: <2005->: Philadelphia : Elsevier Health Sciences Division
+Description: v. : ill.
+Language: English
+ISSN: 0272-2712(Print); 1557-9832(Electronic); 0272-2712(Linking)
+Coden: CLMED6
+LCCN: 84645835, sf 82001008, sn 80013689
+Electronic Links: http://www.sciencedirect.com/science/journal/02722712
+Fully Indexed In: MEDLINE: v1n1, 1981-; PubMed: v1n1, 1981-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)C27455600(s)(OCoLC)06829971
+NLM ID: 8100174[Serial]
+
+29. Author(s): Chemical Rubber Company.
+Title Abbreviation: Crit Rev Clin Lab Sci
+Title(s): Critical reviews in clinical laboratory sciences.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Bimonthly, 1995-
+Country of Publication: England
+Publisher: Boca Raton, Fla. : CRC Press, c1980-
+Latest Publisher: London : Informa Healthcare
+Description: v. : ill.
+Language: English
+ISSN: 1040-8363(Print); 1549-781X(Electronic); 1040-8363(Linking)
+Coden: CRCLBH
+LCCN: 86641160
+Electronic Links: http://www.tandfonline.com/loi/ilab20
+Fully Indexed In: MEDLINE: v12n3, 1980-; Index medicus
+In: PubMed: v12n3, 1980-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 50 (2013). Also issued online.
+Other ID: (DNLM)SR0066195(s)(OCoLC)01151594
+NLM ID: 8914816[Serial]
+
+30. Title Abbreviation: Lab Res Methods Biol Med
+Title(s): Laboratory and research methods in biology and medicine.
+Publication Start Year: 1977
+Publication End Year: 1984
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York, Liss.
+Latest Publisher: New York Ny : Alan R Liss
+Description: v. ill.
+Language: English
+ISSN: 0160-8584(Print); 0160-8584(Linking)
+Coden: LRMMDZ
+Fully Indexed In: MEDLINE: v5, 1981-v10, 1984; PubMed: v5, 1981-v10, 1984; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Medicine*; Research Design*
+Publication Type(s): Periodical
+Other ID: (DNLM)L01200000(s)(OCoLC)03783682
+NLM ID: 7707818[Serial]
+
+31. Title Abbreviation: Quintessencia Protese Lab
+Title(s): Quintessência de prótese de laboratório.
+Edition: Edição brasileira.
+Publication Start Year: 1977
+Publication End Year: 19uu
+Frequency: Two no. a year
+Country of Publication: Brazil
+Publisher: Rio de Janeiro : [Editora quintessência do Brasil]
+Latest Publisher: Rio De Janeiro : Editora Quintessencia Do Brasil
+Description: v. : ill.
+Language: Portuguese
+ISSN: 0100-8870(Print); 0100-8870(Linking)
+Fully Indexed In: MEDLINE: v2n1,Jan./Feb. 1978-1979; PubMed: v2n1,Jan./Feb. 1978-1979; Index to dental literature: v2n1,Jan./Feb. 1978-1979
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Dentures*; Technology, Dental/instrumentation*
+Publication Type(s): Periodical
+Notes: Description based on: v. 4, 1 (jan./fev. 1980); title from cover.
+Other ID: (DNLM)Q03256000(s)(OCoLC)09479272
+NLM ID: 8301855[Serial]
+
+32. Author(s): Gesellschaft für Klinische Chemie und Laboratoriumsdiagnostik der DDR.
+Title Abbreviation: Z Med Lab Diagn
+Title(s): Zeitschrift für medizinische Laboratoriumsdiagnostik.
+Publication Start Year: 1977
+Publication End Year: 1991
+Frequency: Eight no. a year
+Country of Publication: Germany
+Publisher: Berlin, Verlag Volk und Gesundheit.
+Latest Publisher: Berlin : Verlag Gesundheit
+Description: v. ill., ports.
+Language: German, English, Multiple languages
+ISSN: 0323-5637(Print); 0323-5637(Linking)
+Coden: ZMLADB
+Fully Indexed In: MEDLINE: v18n1,Feb. 1, 1977-v32, 1991; PubMed: v18n1,Feb. 1, 1977-v32, 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Clinical*; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Articles in German; summaries in English, German, and Russian. Organ of the
+Gesellschaft für Klinische Chemie und Laboratoriumsdiagnostik der DDR.
+Other ID: (DNLM)Z04400000(s)(OCoLC)03441483
+NLM ID: 7706146[Serial]
+
+33. Author(s): Institute of Medical Laboratory Sciences.
+Title Abbreviation: Med Lab Sci
+Title(s): Medical laboratory sciences.
+Publication Start Year: 1976
+Publication End Year: 1992
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, New York, Published for the Institute of Medical Laboratory Sciences by
+Academic Press.
+Latest Publisher: London : Royal Society Of Medicine Services On Behalf Of The Institute Of Medical
+Laboratory Sciences
+Description: 17 v. : ill.
+Language: English, English
+ISSN: 0308-3616(Print); 0308-3616(Linking)
+Coden: MLASDU
+Fully Indexed In: MEDLINE: v33n1, 1976-v49n4,Dec. 1992; PubMed: v33n1, 1976-v49n4,Dec. 1992; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology*
+Publication Type(s): Periodical
+Other ID: (DNLM)M15340000(s)(OCoLC)02302078
+NLM ID: 7609161[Serial]
+
+34. Author(s): Association of Clinical Scientists.; Institute for Clinical Science
+(Philadelphia, Pa.)
+Title Abbreviation: Ann Clin Lab Sci
+Title(s): Annals of clinical and laboratory science.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Monthly, 1999-
+Country of Publication: United States
+Publisher: Philadelphia, Institute for Clinical Science.
+Description: v. illus.
+Language: English
+ISSN: 0091-7370(Print); 1550-8080(Electronic); 0091-7370(Linking)
+Coden: ACLSCP
+Electronic Links: http://www.annclinlabsci.org/
+Fully Indexed In: MEDLINE: v3n3, 1973-; Index medicus
+In: PubMed: v3n3, 1973-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Also issued online. Official journal of the Association of Clinical Scientists.
+Other ID: (DNLM)A34785000(s)(OCoLC)02864670
+NLM ID: 0410247[Serial]
+
+35. Author(s): Association of Clinical Scientists.; Institute for Clinical Science
+(Philadelphia, Pa.)
+Title Abbreviation: Ann Clin Lab Sci (1971)
+Title(s): Annals of clinical laboratory science.
+Publication Start Year: 1971
+Publication End Year: 1973
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Philadelphia, PA Institute for Clinical Science.
+Description: 3 v. illus.
+Language: English
+ISSN: 0095-8905(Print)
+Coden: ACLSCP
+Fully Indexed In: MEDLINE: v1, 1971-v3n2,Mar./Apr. 1973; Index medicus
+In: PubMed: v1, 1971-v3n2,Mar./Apr. 1973; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Also issued online. Official journal of the Association of Clinical Scientists.
+Other ID: (DNLM)A34800000(s)(OCoLC)01608017
+NLM ID: 0410250[Serial]
+
+36. Author(s): Association of Medical Laboratory Immunologists.
+Title Abbreviation: J Immunol Methods
+Title(s): Journal of immunological methods.
+Publication Start Year: 1971
+Publication End Year: 
+Frequency: Twenty four no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam, North-Holand,
+Latest Publisher: Amsterdam : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0022-1759(Print); 1872-7905(Electronic); 0022-1759(Linking)
+Coden: JIMMBG
+LCCN: 72617482
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-immunological-methods
+Fully Indexed In: MEDLINE: v1n1,Sept. 1971-; PubMed: v1n1,Sept. 1971-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Allergy and Immunology*; Antibodies*; Antigens*; Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Imprint varies. Also issued online. Official journal of the Association of
+Medical Laboratory Immunologists, <2008->
+Other ID: (DNLM)J23720000(s)(OCoLC)01783876
+NLM ID: 1305440[Serial]
+
+37. Author(s): Chemical Rubber Company.
+Title Abbreviation: CRC Crit Rev Clin Lab Sci
+Title(s): CRC critical reviews in clinical laboratory sciences.
+Publication Start Year: 1970
+Publication End Year: 1980
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Cleveland, Chemical Rubber Co.
+Latest Publisher: Boca Raton Fl : Crc Press
+Description: 12 v. ill.
+Language: English
+ISSN: 0590-8191(Print); 0590-8191(Linking)
+Coden: CRCLBH
+Electronic Links: http://www.tandfonline.com/loi/ilab20
+Fully Indexed In: MEDLINE: v1n1,Jan. 1970-v12n2,Jul. 1980; Index medicus
+In: PubMed: v1n1,Jan. 1970-v12n2,Jul. 1980; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Also issued online
+Other ID: (OCoLC)01392048(DNLM)C51120000(s)
+NLM ID: 1247734[Serial]
+
+38. Author(s): American Society of Clinical Pathologists.; American Society for Clinical
+Pathology.
+Title Abbreviation: Lab Med
+Title(s): Laboratory medicine.
+Publication Start Year: 1970
+Publication End Year: 
+Frequency: Quarterly, 2013-
+Country of Publication: England
+Publisher: Philadelphia, Lippincott.
+Latest Publisher: Oct. 2015- : Oxford, England: Oxford University Press
+Description: v. illus., ports.
+Language: English, English
+ISSN: 0007-5027(Print); 1943-7730(Electronic); 0007-5027(Linking)
+Coden: LBMEBX
+Electronic Links: https://academic.oup.com/labmed
+Fully Indexed In: MEDLINE: v45n1, Winter 2014-
+In: PubMed: v45n1, Winter 2014- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology*; Chemistry, Clinical*; Pathology*
+Publication Type(s): Periodical
+Notes: At head of title <Sept. 2004- > : ASCP. Issues for -Sept. 2004 have title:
+Laboratorymedicine; issues for Oct. 2004- have title: Labmedicine. Also issued
+online. Official publication of the American Society of Clinical Pathologists;
+<2002-> American Society for Clinical Pathology.
+Other ID: (DNLM)L01080000(s)(OCoLC)01605929
+NLM ID: 0250641[Serial]
+
+39. Title Abbreviation: MLO Med Lab Obs
+Title(s): MLO: medical laboratory observer.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Oradell, Medical Economics, inc.
+Latest Publisher: <2001->: Nokomis, FL : Nelson Publishing
+Description: v. illus.
+Language: English
+ISSN: 0580-7247(Print); 2771-6759(Electronic); 0580-7247(Linking)
+Coden: MLOBAC
+LCCN: 70012151
+Electronic Links: https://www.mlo-online.com/magazine
+Fully Indexed In: MEDLINE: v15, 1983-v49n6, June 2017
+In: PubMed: v15, 1983-v49n6, June 2017; 
+Selectively Indexed in: Hospital literature index1983-1994Hospital and health administration index1995-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Economics, Medical*; Laboratories*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)02535940(DNLM)M40960000(s)
+NLM ID: 0225602[Serial]
+
+40. Author(s): Istituto sieroterapico e vaccinogeno toscano "Sclavo".
+Title Abbreviation: Quad Sclavo Diagn
+Title(s): Quaderni Sclavo di diagnostica clinica e di laboratorio.
+Publication Start Year: 1965
+Publication End Year: 1988
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Siena.
+Latest Publisher: Siena : Istituto Sieroterapico E Vaccinogeno Toscano Sclavo
+Description: v. illus.
+Language: Italian, English
+ISSN: 0033-4979(Print); 0033-4979(Linking)
+Coden: QSDCAJ
+Fully Indexed In: MEDLINE: v7n1,Mar. 1971-v24, 1988; PubMed: v7n1,Mar. 1971-v24, 1988; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*; Diagnosis*
+Publication Type(s): Periodical
+Notes: Publication of the Istituto sieroterapico e vaccinogeno toscano Sclavo. Summaries
+in English and French.
+Other ID: (DNLM)Q00640000(s)(OCoLC)09357232
+NLM ID: 0040616[Serial]
+
+41. Title Abbreviation: Med Lab (Stuttg)
+Title(s): Das Medizinische Laboratorium.
+Publication Start Year: 1963
+Publication End Year: 1982
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Stuttgart : S Hirzel
+Description: v. ill.
+Language: German
+ISSN: 0025-8466(Print); 0025-8466(Linking)
+Coden: MDLBA9
+Fully Indexed In: MEDLINE: v18n7,Jul. 1965-v35, 1982; PubMed: v18n7,Jul. 1965-v35, 1982; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Added title: Le Laboratoire médical, 1963-75.
+Other ID: (OCoLC)05782961(DNLM)M25540000(s)
+NLM ID: 0375264[Serial]
+
+42. Author(s): Soviet Union. Ministerstvo zdravookhranenii︠a︡.
+Title Abbreviation: Lab Delo
+Title(s): Laboratornoe delo.
+Publication Start Year: 1955
+Publication End Year: 1991
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva, Meditsina
+Latest Publisher: Moskva : Izdatelstvo Meditsina
+Description: 36 v.
+Language: Russian, English, English
+ISSN: 0023-6748(Print); 0023-6748(Linking)
+Coden: LABDAZ
+Fully Indexed In: MEDLINE: v10n10, 1964-1991; PubMed: v10n10, 1964-1991; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Summaries and table of contents also in English, 19 -91.
+Other ID: (DNLM)L00700000(s)(OCoLC)07507893
+NLM ID: 18230140R[Serial]
+
+43. Author(s): International Academy of Pathology.; International Association of Medical
+Museums.; United States and Canadian Academy of Pathology.
+Title Abbreviation: Lab Invest
+Title(s): Laboratory investigation; a journal of technical methods and pathology.
+Publication Start Year: 1952
+Publication End Year: 
+Frequency: Monthly, <June 2005->
+Country of Publication: United States
+Publisher: Baltimore : Williams & Wilkins
+Latest Publisher: 2023- : [New York] : Elsevier Inc.
+Description: v. illus., ports.
+Language: English
+ISSN: 0023-6837(Print); 1530-0307(Electronic); 0023-6837(Linking)
+Coden: LAINAW
+LCCN: 55000219
+Electronic Links: http://www.nature.com/labinvest/index.html, https://www.sciencedirect.com/journal/laboratory-investigation
+Fully Indexed In: MEDLINE: v14n8, Oct. 1965-; Index medicus
+In: PubMed: v14n8, Oct. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pathology*
+Publication Type(s): Periodical
+Notes: Subtitle varies. Supplements accompany some issues. Also issued online. Official 
+organ of the International Association of Medical Museums, Spring 1952-Mar./Apr. 
+1955; of the International Academy of Pathology, May/June 1955--<>; of the United
+States and Canadian Academy of Pathology, <July 1992-> Vols. for Jan. 1988-
+include abstracts of papers of the Annual Meeting, United States and Canadian
+Academy of Pathology.
+Other ID: (DNLM)L01020000(s)(OCoLC)01755414
+NLM ID: 0376617[Serial]
+
+44. Author(s): Society for Applied Spectroscopy.
+Title Abbreviation: Appl Spectrosc
+Title(s): Applied spectroscopy.
+Publication Start Year: 1951
+Publication End Year: 
+Frequency: Monthly, 1992-
+Country of Publication: United States
+Publisher: Plainfield, N. J., Society for Applied Spectroscopy.
+Latest Publisher: 2016- : Thousand Oaks, CA : Sage
+Description: v. illus., ports.
+Language: English
+ISSN: 0003-7028(Print); 1943-3530(Electronic); 0003-7028(Linking)
+Coden: APSPA4
+Electronic Links: https://www.osapublishing.org/as/home.cfm, https://journals.sagepub.com/home/asp
+In: PubMed: v57n1, Jan. 2003-; 
+Selectively Indexed in: MEDLINEv57n1, Jan. 2003-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Spectrum Analysis*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)A57825000(s)(OCoLC)01577663
+NLM ID: 0372406[Serial]
+
+45. Title Abbreviation: Scand J Clin Lab Invest Suppl
+Title(s): Scandinavian journal of clinical and laboratory investigation. Supplementum.
+Publication Start Year: 1951
+Publication End Year: 2016
+Frequency: Irregular
+Country of Publication: Norway
+Publisher: Lund : Berling
+Latest Publisher: 2015-2016 : Abingdon, Oxford : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 0085-591X(Print); 2166-1030(Electronic); 0085-591X(Linking)
+Coden: SJCLAY
+Electronic Links: http://www.tandfonline.com/loi/iclb20
+Fully Indexed In: MEDLINE: n83, 1965-n245, 2016; Index medicus
+In: PubMed: n83, 1965-n245, 2016; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)01778243(DNLM)S07480000(s)
+NLM ID: 2984789R[Serial]
+
+46. Author(s): Foreningen af dental laboratorier.
+Title Abbreviation: Dent Lab Bl
+Title(s): Dental laboratorie bladet.
+Publication Start Year: 1950
+Publication End Year: 1970
+Frequency: Quarterly
+Country of Publication: Denmark
+Publisher: København [1950?-1970]
+Latest Publisher: Copenhagen : Foreningen Af Dental Laboratorier
+Description: v. ill.
+Language: Danish
+ISSN: 0070-3672(Print); 0070-3672(Linking)
+Fully Indexed In: MEDLINE: v21n4,Oct. 1970-v21, 1970; PubMed: v21n4,Oct. 1970-v21, 1970; Index to dental literature: v21n4,Oct. 1970-v21, 1970
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Technology, Dental*
+Publication Type(s): Periodical
+Notes: Organ of Foreningen af dental laboratorier.
+Other ID: (DNLM)D04340000(s)(OCoLC)50349849
+NLM ID: 16520480R[Serial]
+
+47. Author(s): Scandinavian Society for Clinical Chemistry and Clinical Physiology.;
+Scandinavian Society for Clinical Chemistry.
+Title Abbreviation: Scand J Clin Lab Invest
+Title(s): Scandinavian journal of clinical and laboratory investigation.
+Publication Start Year: 1949
+Publication End Year: 
+Frequency: Eight no. a year
+Country of Publication: England
+Publisher: Oslo, Medisinsk Fysiologisk Forenings Forlag.
+Latest Publisher: London : Informa Healthcare
+Description: v. illus.
+Language: English
+ISSN: 0036-5513(Print); 1502-7686(Electronic); 0036-5513(Linking)
+Coden: SJCLAY
+LCCN: 67003253
+Electronic Links: http://www.tandfonline.com/loi/iclb20
+Fully Indexed In: MEDLINE: v17n4, 1965-; PubMed: v17n4, 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Research*
+Publication Type(s): Periodical
+Notes: Edited for the Scandinavian Society for Clinical Chemistry and Clinical
+Physiology. 1949?-1984; for the Scandinavian Society for Clinical Chemistry,
+1985- . Place of publication varies. Also issued online.
+Other ID: (DNLM)S07460000(s)(OCoLC)01623860
+NLM ID: 0404375[Serial]
+
+48. Author(s): Central Society for Clinical Research (U.S.)
+Title Abbreviation: J Lab Clin Med
+Title(s): The Journal of laboratory and clinical medicine.
+Publication Start Year: 1915
+Publication End Year: 2006
+Frequency: Monthly
+Country of Publication: United States
+Publisher: St. Louis, C.V. Mosby, -[2006].
+Latest Publisher: -2006: New York, NY : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0022-2143(Print); 1532-6543(Electronic); 0022-2143(Linking)
+Coden: JLCMAK
+LCCN: sf 80000792, sn 78005127
+Electronic Links: http://www.sciencedirect.com/science/journal/00222143
+Fully Indexed In: MEDLINE: v66n3,Sept. 1965-v147n6, June 2006; PubMed: v66n3,Sept. 1965-v147n6, June 2006; Abridged index medicus; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Laboratory Techniques*; Medicine; Research
+Publication Type(s): Periodical
+Notes: Imprint varies. Also issued online. Official publication of the Central Society
+for Clinical Research, 1947-
+Other ID: (DNLM)J27420000(s)(OCoLC)01716105
+NLM ID: 0375375[Serial]
+

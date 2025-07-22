@@ -1,0 +1,2979 @@
+1. Author(s): Society for Imaging Informatics in Medicine,
+Title Abbreviation: J Imaging Inform Med
+Title(s): Journal of imaging informatics in medicine.
+Publication Start Year: 2024
+Publication End Year: 
+Country of Publication: Switzerland
+Publisher: [Cham, Switzerland] : Springer Nature, [2024]-
+Description: 1 online resource
+Language: English
+ISSN: 2948-2933(Electronic); 2948-2925(Print); 2948-2925(Linking)
+LCCN: 2024228216
+Electronic Links: https://www.springer.com/journal/10278, https://pmc.ncbi.nlm.nih.gov/journals/?term=9918663679206676
+Fully Indexed In: MEDLINE: v37n1, 2024-
+In: PubMed: v37n1, 2024-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Medical Informatics; Radiology Information Systems
+Publication Type(s): Periodical
+Notes: Also issued in print. "Official peer-reviewed journal of the Society for Imaging 
+Informatics in Medicine (SIIM)."
+Other ID: (OCoLC)1429763729
+NLM ID: 9918663679206676[Serial]
+
+2. Title Abbreviation: Curr Med Imaging
+Title(s): Current medical imaging.
+Publication Start Year: 2020
+Publication End Year: 
+Frequency: Ten issues a year
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science, [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 1573-4056(Electronic)
+LCCN: 2020243066
+Electronic Links: http://www.eurekaselect.com/610/journal/current-medical-imaging-reviews
+Fully Indexed In: MEDLINE: v16n1, 2020-
+In: PubMed: v16n1, 2020-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*
+Publication Type(s): Periodical
+Notes: Some volumes contain special issues.
+Other ID: (OCoLC)1146272536
+NLM ID: 101762461[Serial]
+
+3. Author(s): Australasian College of Physical Scientists & Engineers in Medicine,
+Title Abbreviation: Phys Eng Sci Med
+Title(s): Physical and engineering sciences in medicine.
+Publication Start Year: 2020
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Switzerland : Springer, [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2662-4737(Electronic); 2662-4729(Print); 2662-4729(Linking)
+LCCN: 2020243082
+Electronic Links: https://link.springer.com/journal/volumesAndIssues/13246
+Fully Indexed In: MEDLINE: v43, 2020-
+In: PubMed: v43, 2020-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Biophysics
+Publication Type(s): Periodical
+Notes: Articles published as they are received and compiled into quarterly issues. The
+official journal of the Australasian College of Physical Scientists and Engineers
+in Medicine.
+Other ID: (OCoLC)1142393816
+NLM ID: 101760671[Serial]
+
+4. Author(s): Society of Breast Imaging,
+Title Abbreviation: J Breast Imaging
+Title(s): Journal of breast imaging.
+Publication Start Year: 2019
+Publication End Year: 
+Country of Publication: United States
+Publisher: [Cary, NC] : Oxford University Press, [2019]-
+Description: 1 online resource
+Language: English
+ISSN: 2631-6129(Electronic); 2631-6110(Print); 2631-6110(Linking)
+LCCN: 2020243041
+Electronic Links: https://academic.oup.com/jbi/pages/About
+Fully Indexed In: MEDLINE: v5n1, Jan.-Feb. 2023-
+In: PubMed: v5n1, Jan.-Feb. 2023- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Breast Diseases/diagnostic imaging*; Early Detection of Cancer
+Publication Type(s): Periodical
+Notes: Also issued in print. Official journal of the Society of Breast Imaging.
+Other ID: (OCoLC)1138748053
+NLM ID: 101752190[Serial]
+
+5. Author(s): Radiological Society of North America,
+Title Abbreviation: Radiol Artif Intell
+Title(s): Radiology. Artificial intelligence.
+Publication Start Year: 2019
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Oak Brook, IL : Radiological Society of North America, Inc., [2019]-
+Language: English
+ISSN: 2638-6100(Electronic); 2638-6100(Linking)
+LCCN: 2018202924
+Electronic Links: https://pubs.rsna.org/journal/ai, https://pmc.ncbi.nlm.nih.gov/journals/?term=101746556
+Fully Indexed In: MEDLINE: v5n1, Jan. 2023-
+In: PubMed: v1n1, Jan. 2019-, PMC Inactive; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Artificial Intelligence/trends*; Diagnostic Imaging/trends; Radiology
+Publication Type(s): Periodical
+Notes: Complemented by (work): Radiology 0033-8419 (DLC) 24011915 (OCoLC)1763380
+(DNLM)0401260. Complemented by (work): Radiology. Cardiothoracic imaging
+2638-6135 (DLC) 2018202925 (OCoLC)1048897843 (DNLM)101748663. Complemented by
+(work): Radiology. Imaging cancer 2638-616X (DLC) 2018202926 (OCoLC)1048898015
+(DNLM)101765309.
+Other ID: (OCoLC)1048897449
+NLM ID: 101746556[Serial]
+
+6. Author(s): Radiological Society of North America,
+Title Abbreviation: Radiol Cardiothorac Imaging
+Title(s): Radiology. Cardiothoracic imaging.
+Publication Start Year: 2019
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Oak Brook, IL : Radiological Society of North America, Inc., [2019]-
+Description: 1 online resource
+Language: English
+ISSN: 2638-6135(Electronic); 2638-6135(Linking)
+LCCN: 2018202925
+Electronic Links: https://pubs.rsna.org/journal/cardiothoracic, https://pmc.ncbi.nlm.nih.gov/journals/?term=101748663
+Fully Indexed In: MEDLINE: v5n1, Feb. 2023-
+In: PubMed: v1n1, Apr. 2019-, PMC Inactive; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cardiovascular Diseases/diagnostic imaging*; Thoracic Diseases/diagnostic imaging*
+Publication Type(s): Periodical
+Notes: Complemented by (work): Radiology 0033-8419 (DLC) 24011915 (OCoLC)1763380
+(DNLM)0401260. Complemented by (work): Radiology. Artificial intelligence
+2638-6100 (OCoLC)1084294291 (DNLM)101746556.
+Other ID: (OCoLC)1048897843
+NLM ID: 101748663[Serial]
+
+7. Author(s): Society of Abdominal Radiologists,; Asian Society of Abdominal Radiology.;
+European Society of Gastrointestinal Radiology.
+Title Abbreviation: Abdom Radiol (NY)
+Title(s): Abdominal radiology.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Monthly, 2016-
+Country of Publication: United States
+Publisher: [New York] : Springer, [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2366-0058(Electronic); 2366-004X(Print)
+LCCN: 2016247757
+Electronic Links: https://link.springer.com/journal/261
+Fully Indexed In: MEDLINE: v41, Jan. 2016-
+In: PubMed: v41, Jan. 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Abdomen*; Diagnostic Imaging*; Gastrointestinal Diseases/diagnosis*
+Publication Type(s): Periodical
+Notes: Numbering from content page.
+Other ID: (OCoLC)936373820
+NLM ID: 101674571[Serial]
+
+8. Author(s): Society of Biological Psychiatry,
+Title Abbreviation: Biol Psychiatry Cogn Neurosci Neuroimaging
+Title(s): Biological psychiatry. Cognitive neuroscience and neuroimaging.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Eight times a year, 2017-
+Country of Publication: United States
+Publisher: New York, NY : Elsevier, Inc., [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2451-9030(Electronic); 2451-9022(Print); 2451-9022(Linking)
+LCCN: 2016247754
+Electronic Links: http://www.sciencedirect.com/science/journal/24519022
+Fully Indexed In: MEDLINE: v2n1, Jan. 2017-
+In: PubMed: v2n1, Jan. 2017- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mental Disorders*; Mental Processes; Neuroimaging
+Publication Type(s): Periodical
+Notes: Numbering from PDF table of contents page. Official journal of the Society of
+Biological Psychiatry.
+Other ID: (OCoLC)935338784
+NLM ID: 101671285[Serial]
+
+9. Title Abbreviation: Tomography
+Title(s): Tomography : a journal for imaging research.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Ann Arbor, Michigan : Grapho Publications LLC, [2015]-
+Latest Publisher: 2021- : Basel, Switzerland : MDPI
+Description: 1 online resource
+Language: English
+ISSN: 2379-139X(Electronic); 2379-1381(Print); 2379-1381(Linking)
+LCCN: 2015200396
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101671170, https://www.mdpi.com/journal/tomography
+Fully Indexed In: MEDLINE: v5n1, Mar. 2019-
+In: PubMed: v1n1, 2015-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Tomography*
+Publication Type(s): Periodical
+Notes: Volume 1 complete with two issues. Also issued in print.
+Other ID: (OCoLC)908853775
+NLM ID: 101671170[Serial]
+
+10. Author(s): New Zealand Institute of Medical Radiation Technology,; Australian Institute of
+Radiography,
+Title Abbreviation: J Med Radiat Sci
+Title(s): Journal of medical radiation sciences.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Malden, MA] : Wiley Publishing Asia Pty Ltd, [2013]-
+Description: 1 online resource
+Language: English
+ISSN: 2051-3909(Electronic); 2051-3895(Print); 2051-3895(Linking)
+LCCN: 2013247789
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101620352, http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2051-3909
+Fully Indexed In: MEDLINE: v62n1, Mar. 2015-
+In: PubMed: v60, Mar. 2013-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Radiography*
+Publication Type(s): Periodical
+Notes: "Official publication of the Australian Institute of Radiography and New Zealand 
+Institute of Medical Radiation Technology."
+Other ID: (OCoLC)860781509
+NLM ID: 101620352[Serial]
+
+11. Author(s): Nihon Kenbikyō Gakkai.
+Title Abbreviation: Microscopy (Oxf)
+Title(s): Microscopy.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, UK : Oxford University Press, [2013]-
+Description: volumes : illustrations ; 28 cm
+Language: English
+ISSN: 2050-5698(Print); 2050-5701(Electronic); 2050-5698(Linking)
+LCCN: 2013240057
+Electronic Links: https://academic.oup.com/jmicro
+In: PubMed: v62n1, Feb. 2013-; 
+Selectively Indexed in: MEDLINEv62n1, Feb. 2013-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microscopy, Electron*
+Publication Type(s): Periodical
+Notes: Also issued online. Official journal of the Japanese Society of Microscopy.
+Other ID: (OCoLC)835550215
+NLM ID: 101595834[Serial]
+
+12. Author(s): Société française de radiologie.; Collège des enseignants en radiologie de
+France.
+Title Abbreviation: Diagn Interv Imaging
+Title(s): Diagnostic and interventional imaging.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Twelve issues a year
+Country of Publication: France
+Publisher: Paris : Elsevier Masson
+Language: English
+ISSN: 2211-5684(Electronic); 2211-5684(Linking)
+LCCN: 2012243093
+Electronic Links: http://www.sciencedirect.com/science/journal/22115684
+Fully Indexed In: MEDLINE: v93n1, Jan. 2012-
+In: PubMed: v93n1, Jan. 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Radiography, Interventional
+Publication Type(s): Periodical
+Notes: Assumes the volume numbering of: Journal de radiologie.
+Other ID: (OCoLC)774973032
+NLM ID: 101568499[Serial]
+
+13. Author(s): European Association of Echocardiography.; European Society of Cardiology.
+Title Abbreviation: Eur Heart J Cardiovasc Imaging
+Title(s): European heart journal. Cardiovascular Imaging.
+Publication Start Year: 2012
+Publication End Year: 
+Country of Publication: England
+Publisher: Oxford : Oxford University Press
+Language: English
+ISSN: 2047-2404(Print); 2047-2412(Electronic); 2047-2404(Linking)
+LCCN: 2012243184
+Electronic Links: https://academic.oup.com/ehjcimaging
+Fully Indexed In: MEDLINE: v13n1, Jan. 2012-
+In: PubMed: v13n1, Jan. 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cardiovascular Diseases/diagnosis*; Diagnostic Imaging/methods; Diagnostic Techniques, Cardiovascular
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)778063522
+NLM ID: 101573788[Serial]
+
+14. Title Abbreviation: Neuroimage Clin
+Title(s): NeuroImage. Clinical.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: [Amsterdam] : Elsevier
+Language: English
+ISSN: 2213-1582(Electronic); 2213-1582(Linking)
+LCCN: 2012247805
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101597070, http://www.sciencedirect.com/science/journal/22131582
+Fully Indexed In: MEDLINE: v4, 2014-
+In: PubMed: v1, 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Nervous System Diseases/diagnosis*
+Publication Type(s): Periodical
+Other ID: (OCoLC)821222565
+NLM ID: 101597070[Serial]
+
+15. Title Abbreviation: Theranostics
+Title(s): Theranostics.
+Publication Start Year: 2011
+Publication End Year: 
+Country of Publication: Australia
+Publisher: Wyoming, N.S.W. : Ivyspring International Publisher, 2011-
+Language: English
+ISSN: 1838-7640(Electronic); 1838-7640(Linking)
+LCCN: 2011243252
+Electronic Links: http://www.thno.org, https://pmc.ncbi.nlm.nih.gov/journals/?term=101552395
+Fully Indexed In: MEDLINE: v1, 2011-
+In: PubMed: v1, 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Molecular Imaging; Nanomedicine*; Nanotechnology
+Publication Type(s): Periodical
+Notes: Title from title screen. Articles within an annual volume are added as received
+during the year.
+Other ID: (OCoLC)696653425
+NLM ID: 101552395[Serial]
+
+16. Author(s): Nihon Igaku Hōshasen Gakkai.
+Title Abbreviation: Jpn J Radiol
+Title(s): Japanese journal of radiology.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Ten no. a year
+Country of Publication: Japan
+Publisher: Tokyo : Springer
+Language: English
+ISSN: 1867-1071(Print); 1867-108X(Electronic); 1867-1071(Linking)
+LCCN: 2009243266
+Electronic Links: https://link.springer.com/journal/11604
+Fully Indexed In: MEDLINE: v27n1, 2009-
+In: PubMed: v27n1, 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiology*; Radionuclide Imaging; Radiotherapy
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 27, no. 1 (2009); title from cover. Latest issue
+consulted: Vol. 27, no. 1 (2009). Also issued online.
+Other ID: (OCoLC)319149120
+NLM ID: 101490689[Serial]
+
+17. Author(s): Nihon Naishikyō Geka Gakkai.; Asia Endosurgery Task Force.
+Title Abbreviation: Asian J Endosc Surg
+Title(s): Asian journal of endoscopic surgery.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Three times a year
+Country of Publication: Japan
+Publisher: Japan : Wiley Blackwell
+Description: v. : ill.
+Language: English
+ISSN: 1758-5910(Electronic); 1758-5902(Print); 1758-5902(Linking)
+LCCN: 2009243428
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1758-5910
+Fully Indexed In: MEDLINE: v4n1, Feb. 2011-
+In: PubMed: v4n1, Feb. 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Endoscopy*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 2, issue 1 (Apr. 2009); title from title screen
+(publisher's Web site, viewed June 19, 2009). Latest issue consulted: Vol. 2,
+issue 1 (Apr. 2009) (viewed June 19, 2009). Official journal of the Japan Society
+for Endoscopic Surgery and the Asia Endosurgery Task Force. Print issues ceased
+with 2011. Also issued in print.
+Other ID: (OCoLC)429048006
+NLM ID: 101506753[Serial]
+
+18. Author(s): American Heart Association.
+Title Abbreviation: Circ Cardiovasc Imaging
+Title(s): Circulation. Cardiovascular imaging.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Hagerstown, MD Lippincott Williams & Wilkins
+Description: v.
+Language: English
+ISSN: 1941-9651(Print); 1942-0080(Electronic); 1941-9651(Linking)
+LCCN: 2008215168
+Electronic Links: http://circimaging.ahajournals.org, https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=01337498-000000000-00000
+Fully Indexed In: MEDLINE: v1n1, July 2008-
+In: PubMed: v1n1, July 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cardiovascular Diseases/diagnosis; Diagnostic Imaging*; Diagnostic Techniques, Cardiovascular*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased v.5, no. 6(2012). Also issued online.
+Other ID: (OCoLC)223447038
+NLM ID: 101479935[Serial]
+
+19. Author(s): American College of Cardiology.
+Title Abbreviation: JACC Cardiovasc Imaging
+Title(s): JACC. Cardiovascular imaging.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Monthly, 2009-
+Country of Publication: United States
+Publisher: New York : Elsevier
+Description: v.
+Language: English
+ISSN: 1936-878X(Print); 1876-7591(Electronic); 1876-7591(Linking)
+LCCN: 2007212137
+Electronic Links: http://www.sciencedirect.com/science/journal/1936878X
+Fully Indexed In: MEDLINE: v1n1, Jan. 2008-
+In: PubMed: v1n1, Jan. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging; Diagnostic Techniques, Cardiovascular*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)123482680
+NLM ID: 101467978[Serial]
+
+20. Author(s): Royal Australian and New Zealand College of Radiologists.
+Title Abbreviation: J Med Imaging Radiat Oncol
+Title(s): Journal of medical imaging and radiation oncology.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Australia
+Publisher: Carlton, Vic. : Blackwell Pub. Asia, c2008-
+Latest Publisher: Carlton, Vic. : Wiley-Blackwell Pub. Asia
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1754-9477(Print); 1754-9485(Electronic); 1754-9477(Linking)
+LCCN: 2008243306
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1754-9485
+Fully Indexed In: MEDLINE: v52n1, Feb. 2008-; PubMed: v52n1, Feb. 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Neoplasms/radiotherapy; Nuclear Medicine; Radiation Oncology*
+Publication Type(s): Periodical
+Notes: Also known as: JMIRO. Title from cover. Also issued online. Official journal of
+the Royal Australian and New Zealand College of Radiologists.
+Other ID: (OCoLC)192094017
+NLM ID: 101469340[Serial]
+
+21. Author(s): Canadian Association of Medical Radiation Technologists.
+Title Abbreviation: J Med Imaging Radiat Sci
+Title(s): Journal of medical imaging and radiation sciences.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York : Elsevier
+Language: English
+ISSN: 1939-8654(Print); 1876-7982(Electronic); 1876-7982(Linking)
+LCCN: 2007212346
+Electronic Links: http://www.sciencedirect.com/science/journal/19398654
+Fully Indexed In: MEDLINE: v49n1, Mar. 2018-
+In: PubMed: v49n1, Mar. 2018- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Nuclear Medicine; Radiotherapy
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)169948192
+NLM ID: 101469694[Serial]
+
+22. Author(s): Societatea Română de Ultrasonografie în Medicină şi Biologie.
+Title Abbreviation: Med Ultrason
+Title(s): Medical ultrasonography.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Cluj, Romania : "Iuliu Haţieganu" Medical Pub. House
+Language: English
+ISSN: 1844-4172(Print); 2066-8643(Electronic); 1844-4172(Linking)
+LCCN: 2010243285
+Electronic Links: https://www.medultrason.ro/medultrason/index.php/medultrason
+Fully Indexed In: MEDLINE: v12n1, Mar. 2010-
+In: PubMed: v12n1, Mar. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonography*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 11, no. 1 (May 2009); title from cover. Latest issue
+consulted: Vol. 11, no. 1 (May 2009). Also issued online.
+Other ID: (OCoLC)593527928
+NLM ID: 101522985[Serial]
+
+23. Title Abbreviation: Brain Imaging Behav
+Title(s): Brain imaging and behavior.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Secaucus, NJ : Springer
+Description: v.
+Language: English
+ISSN: 1931-7557(Print); 1931-7565(Electronic); 1931-7557(Linking)
+LCCN: 2006213702
+Electronic Links: https://link.springer.com/journal/11682
+Fully Indexed In: MEDLINE: v4n1, Mar. 2010-
+In: PubMed: v4n1, Mar. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Behavior; Diagnostic Techniques, Neurological*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Print issues ceased with v.
+4, no. 4 (2010). Also issued online.
+Other ID: (OCoLC)68135871
+NLM ID: 101300405[Serial]
+
+24. Title Abbreviation: Expert Opin Med Diagn
+Title(s): Expert opinion on medical diagnostics.
+Publication Start Year: 2007
+Publication End Year: 2013
+Frequency: Bimonthly, 2009-
+Country of Publication: England
+Publisher: London : Informa Healthcare
+Language: English
+ISSN: 1753-0059(Print); 1753-0067(Electronic); 1753-0059(Linking)
+LCCN: 2007213170
+Electronic Links: http://www.tandfonline.com/loi/iedg20
+Fully Indexed In: MEDLINE: v7n1, Jan. 2013-v7n6, 2013
+In: PubMed: v7n1, Jan. 2013-v7n6, 2013 ; selected citations only before this date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnosis*
+Publication Type(s): PeriodicalReview
+Notes: Description based on: Vol. 2, no. 1 (Jan. 2008); title from cover. Also issued
+online.
+Other ID: (OCoLC)154201940
+NLM ID: 101392201[Serial]
+
+25. Author(s): Società italiana di ultrasonologia in medicina e biologia.
+Title Abbreviation: J Ultrasound
+Title(s): Journal of ultrasound.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Milano : Elsevier Masson
+Latest Publisher: 2013: [Milan] : Springer
+Language: English, Italian
+ISSN: 1971-3495(Print); 1876-7931(Electronic); 1876-7931(Linking)
+LCCN: 2008243995
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101315005, https://www.sciencedirect.com/journal/journal-of-ultrasound, https://link.springer.com/journal/volumesAndIssues/40477
+Fully Indexed In: MEDLINE: v19n1, Mar. 2016-
+In: PubMed: v10, 2007-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonography*
+Publication Type(s): Periodical
+Notes: Description based on Vol. 10, issue 3 (Sept. 2007); title from cover. Print
+issues ceased with v. 12 (2009). Also issued online. Articles in English;
+summarizes in Italian.
+Other ID: (OCoLC)271810532
+NLM ID: 101315005[Serial]
+
+26. Title Abbreviation: Contrast Media Mol Imaging
+Title(s): Contrast media & molecular imaging.
+Publication Start Year: 2006
+Publication End Year: 2024
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, England : Wiley-Blackwell, c2006-2024
+Latest Publisher: 2017-2024 : London : Hindawi in collaboration with John Wiley & Sons, Inc.
+Language: English
+ISSN: 1555-4317(Electronic); 1555-4309(Print); 1555-4309(Linking)
+LCCN: 2005212234
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101286760, https://onlinelibrary.wiley.com/loi/15554317
+Fully Indexed In: MEDLINE: v1n1, Jan./Feb. 2006-v2024, 2024; PubMed: v1n1, Jan./Feb. 2006-v2024, 2024
+In: PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Contrast Media*; Diagnostic Imaging
+Publication Type(s): Periodical
+Notes: Title from product information screen (Wiley Interscience, viewed Nov. 20, 2006).
+Latest issue consulted: Vol. 1, issue 5 (Sept./Oct. 2006) (viewed Nov. 20, 2006).
+Print issues ceased with v. 5, no. 6 (2010). Also issued in print. Mode of
+access: World Wide Web.
+Other ID: (OCoLC)58749692
+NLM ID: 101286760[Serial]
+
+27. Title Abbreviation: PET Clin
+Title(s): PET clinics.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia : Elsevier Saunders, c2006-
+Language: English
+ISSN: 1556-8598(Print); 1879-9809(Electronic); 1556-8598(Linking)
+LCCN: 2005214956
+Electronic Links: http://www.sciencedirect.com/science/journal/15568598
+Fully Indexed In: MEDLINE: v9n1, Jan. 2014-
+In: PubMed: v9n1, Jan. 2014- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Positron-Emission Tomography*
+Publication Type(s): Periodical
+Notes: Each issue also has a distinctive title. Also issued online.
+Other ID: (OCoLC)60858292
+NLM ID: 101260152[Serial]
+
+28. Title Abbreviation: Curr Med Imaging Rev
+Title(s): Current medical imaging reviews.
+Publication Start Year: 2005
+Publication End Year: 2019
+Frequency: Ten no. a year, 2019-
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U.A.E. ; San Francisco, CA : Bentham Science Publishers Ltd.,
+c2005-c2019.
+Description: v. : ill.
+Language: English
+ISSN: 1573-4056(Linking)
+LCCN: 2006243970
+Electronic Links: http://www.eurekaselect.com/610/journal/current-medical-imaging-reviews
+Fully Indexed In: MEDLINE: v15n1, 2019-v15n10, 2019
+In: PubMed: v15n1, 2019-v15n10, 2019 ; Selected citations only before this date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnostic Imaging*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 2, no. 3 (Aug. 2006). Also issued 
+online.
+Other ID: (OCoLC)58947771
+NLM ID: 101272516[Serial]
+
+29. Author(s): Türk Radyoloji Derneği.
+Title Abbreviation: Diagn Interv Radiol
+Title(s): Diagnostic and interventional radiology : official journal of the Turkish Society
+of Radiology.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Bimonthly, 2012-
+Country of Publication: Turkey
+Publisher: Ankara, Turkey : Turkish Society of Radiology, [2005]-
+Latest Publisher: Istanbul : Galenos Publishing House
+Description: v. : ill.
+Language: English
+ISSN: 1305-3825(Print); 1305-3612(Electronic); 1305-3825(Linking)
+LCCN: 2005243799
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101241152, http://www.dirjournal.org
+Fully Indexed In: MEDLINE: v11n1, Mar. 2005-
+In: PubMed: v11n1, Mar. 2005-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiography, Interventional*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 23, no. 6 (2017). Also issued
+online.
+Other ID: (OCoLC)58530885
+NLM ID: 101241152[Serial]
+
+30. Title Abbreviation: Expert Rev Med Devices
+Title(s): Expert review of medical devices.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: London : Future Drugs Ltd.
+Latest Publisher: 2015- : Abingdon, Oxford : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1743-4440(Print); 1745-2422(Electronic); 1743-4440(Linking)
+LCCN: 2005243240
+Electronic Links: http://www.tandfonline.com/loi/ierd20
+Fully Indexed In: MEDLINE: v1n1, Sept. 2004-; Index medicus
+In: PubMed: v1n1, Sept. 2004-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Equipment Design; Equipment and Supplies*
+Publication Type(s): PeriodicalReview
+Notes: Title from cover. Description based on: Vol. 2, no. 1 (Jan. 2005); title from
+cover. Also issued online.
+Other ID: (OCoLC)57731790
+NLM ID: 101230445[Serial]
+
+31. Title Abbreviation: Photodiagnosis Photodyn Ther
+Title(s): Photodiagnosis and photodynamic therapy.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Amsterdam ; Boston : Elsevier, c2004-
+Description: v. : ill.
+Language: English
+ISSN: 1572-1000(Print); 1873-1597(Electronic); 1572-1000(Linking)
+LCCN: 2004243884
+Electronic Links: http://www.sciencedirect.com/science/journal/15721000
+Fully Indexed In: MEDLINE: v5n1, Mar. 2008-
+In: PubMed: v5n1, Mar. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Photosensitizing Agents/therapeutic use; Phototherapy*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)57142159
+NLM ID: 101226123[Serial]
+
+32. Title Abbreviation: Cardiovasc Ultrasound
+Title(s): Cardiovascular ultrasound.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: England
+Publisher: London, UK : BioMed Central, 2003-
+Language: English
+ISSN: 1476-7120(Electronic); 1476-7120(Linking)
+LCCN: 2003252750
+Electronic Links: https://link.springer.com/journal/12947, https://pmc.ncbi.nlm.nih.gov/journals/?term=101159952
+Fully Indexed In: MEDLINE: v1n1, 2003; Index medicus
+In: PubMed: v1n1, 2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cardiovascular Diseases/diagnostic imaging; Cardiovascular System/diagnostic imaging*; Echocardiography; Ultrasonography*
+Publication Type(s): Periodical
+Notes: Title from caption (viewed July 22, 2003). Latest issue consulted: 1:11 (25 Aug
+2003). Numbered articles added as available to annual v. Mode of access: World
+Wide Web.
+Other ID: (OCoLC)51979217
+NLM ID: 101159952[Serial]
+
+33. Author(s): Nihon Shin Ekōzu Gakkai.
+Title Abbreviation: J Echocardiogr
+Title(s): Journal of echocardiography.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Japan
+Publisher: 2003-2008: Suita : Japanese Society of Echocardiography
+Latest Publisher: 2007- : Tokyo : Springer Japan
+Description: v.
+Language: English
+ISSN: 1349-0222(Print); 1880-344X(Electronic); 1349-0222(Linking)
+LCCN: 2011243156
+Electronic Links: https://link.springer.com/journal/12574
+Fully Indexed In: MEDLINE: v13n1, Mar. 2015-
+In: PubMed: v13n1, Mar. 2015- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Echocardiography*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)225494386
+NLM ID: 101263153[Serial]
+
+34. Author(s): Nihon Jiki Kyōmei Igakkai.
+Title Abbreviation: Magn Reson Med Sci
+Title(s): Magnetic resonance in medical sciences : MRMS : an official journal of Japan
+Society of Magnetic Resonance in Medicine.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Japan
+Publisher: Tōkyō : Japan Society of Magnetic Resonance in Medicine
+Description: v. : ill.
+Language: English
+ISSN: 1347-3182(Print); 1880-2206(Electronic); 1347-3182(Linking)
+Coden: MRMSCT
+LCCN: 2003243203
+Electronic Links: https://www.jstage.jst.go.jp/browse/mrms/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101153368
+Fully Indexed In: MEDLINE: v1n1, 2002-; Index medicus
+In: PubMed: v1n1, 2002-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Imaging*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)52087726
+NLM ID: 101153368[Serial]
+
+35. Author(s): Academy of Molecular Imaging.; Society for Molecular Imaging.; European Society
+for Molecular Imaging.; World Molecular Imaging Society.; World Molecular Imaging
+Congress.
+Title Abbreviation: Mol Imaging Biol
+Title(s): Molecular imaging and biology.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, NY : Elsevier Science, c2001-
+Latest Publisher: 2005- : New York, NY : Springer
+Description: v. : ill.
+Language: English
+ISSN: 1536-1632(Print); 1860-2002(Electronic); 1536-1632(Linking)
+LCCN: 2001215378
+Electronic Links: https://link.springer.com/journal/11307
+Fully Indexed In: MEDLINE: v5n1, Jan./Feb. 2003-; PubMed: v5n1, Jan./Feb. 2003-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cytological Techniques/statistics & numerical data; Diagnostic Imaging/statistics & numerical data*; Molecular Biology/methods
+Publication Type(s): Periodical
+Notes: Early issues have subtitle: MIB. Title from cover. Also issued online. 2002-2010,
+the official publication of the Academy of Molecular Imaging; in 2010, it becomes
+the official journal of the World Molecular Imaging Congress and the official
+journal of the Academy of Molecular Imaging, the Society for Molecular Imaging,
+and the European Society for Molecular Imaging. In 2012, it became the official
+publication of the World Molecular Imaging Society.
+Other ID: (OCoLC)47441501
+NLM ID: 101125610[Serial]
+
+36. Title Abbreviation: Mol Imaging
+Title(s): Molecular imaging.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Eight issues per year, <2013->
+Country of Publication: United States
+Publisher: Cambridge, MA : MIT Press, c2002-
+Latest Publisher: 2024- : [Thousand Oaks, CA] : SAGE Publications
+Description: v. : ill.
+Language: English
+ISSN: 1535-3508(Print); 1536-0121(Electronic); 1535-3508(Linking)
+LCCN: 2001212652
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101120118, https://journals.sagepub.com/home/mix
+Fully Indexed In: MEDLINE: v1n1,Jan./Mar. 2002-; Index medicus
+In: PubMed: v1n1,Jan./Mar. 2002-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cytological Techniques; Diagnostic Imaging/methods*; Molecular Diagnostic Techniques
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 12, no. 8 (Dec. 2013). Also issued 
+online.
+Other ID: (OCoLC)47029639
+NLM ID: 101120118[Serial]
+
+37. Title Abbreviation: BMC Med Imaging
+Title(s): BMC medical imaging.
+Publication Start Year: 2001
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2001-
+Language: English
+ISSN: 1471-2342(Electronic); 1471-2342(Linking)
+LCCN: 2002243095
+Electronic Links: https://bmcmedimaging.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=100968553
+Fully Indexed In: MEDLINE: v7, 2007-
+In: PubMed: v7, 2007-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*
+Publication Type(s): Periodical
+Notes: Title from BioMed Central archive volume screen (viewed on Feb. 15, 2002).
+Articles are added consecutively to the current annual v. Articles in PDF and
+HTML format. System requirements: HTML browser, JPeg compatible browser or image 
+viewer, Adobe acrobat reader. Mode of access: Internet.
+Other ID: (OCoLC)48748135
+NLM ID: 100968553[Serial]
+
+38. Author(s): North American Society for Cardiac Imaging.
+Title Abbreviation: Int J Cardiovasc Imaging
+Title(s): The international journal of cardiovascular imaging.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Eight no. a year
+Country of Publication: United States
+Publisher: Boston : Kluwer Academic Publishers, c2001-
+Latest Publisher: [New York] : Springer
+Description: v.
+Language: English
+ISSN: 1569-5794(Print); 1875-8312(Electronic); 1569-5794(Linking)
+Coden: IJCIBI
+LCCN: 2001252127
+Electronic Links: https://link.springer.com/journal/10554
+Fully Indexed In: MEDLINE: v17n1, Feb. 2001-; Index medicus
+In: PubMed: v17n1, Feb. 2001-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging; Diagnostic Techniques, Cardiovascular*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the North American
+Society for Cardiac Imaging.
+Other ID: (OCoLC)47730377
+NLM ID: 100969716[Serial]
+
+39. Author(s): Nihon Chōonpa Igakkai.
+Title Abbreviation: J Med Ultrason (2001)
+Title(s): Journal of medical ultrasonics.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Japan
+Publisher: Tokyo, Japan : Springer Verlag, c2001-
+Description: v.
+Language: English
+ISSN: 1346-4523(Print); 1613-2254(Electronic); 1346-4523(Linking)
+LCCN: 2002243041
+Electronic Links: https://link.springer.com/journal/10396
+Fully Indexed In: MEDLINE: v42n1, Jan. 2015-
+In: PubMed: v42n1, Jan. 2015- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonics*; Ultrasonography
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the Japan Society of
+Ultrasonics.
+Other ID: (OCoLC)48922441
+NLM ID: 101128385[Serial]
+
+40. Author(s): International Cancer Imaging Society.
+Title Abbreviation: Cancer Imaging
+Title(s): Cancer imaging : the official publication of the International Cancer Imaging
+Society.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Two no. a year
+Country of Publication: England
+Publisher: London : e-med, c2000]-
+Latest Publisher: <2014- > : London : Springer Nature
+Language: English
+ISSN: 1470-7330(Electronic); 1740-5025(Print); 1470-7330(Linking)
+LCCN: 2004243633
+Electronic Links: http://cancerimagingjournal.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101172931
+Fully Indexed In: MEDLINE: v5n1, 2005-
+In: PubMed: v4n1, 2004-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging; Neoplasms/diagnosis*
+Publication Type(s): Periodical
+Notes: Title from caption (publisher Web site, viewed Aug. 16, 2004). Latest issue
+consulted: Vol. 4, issue 2 (viewed Aug. 16, 2004). First issue of each vol.
+contains the annual ICIS Conference. Issue for Vol. 1, issue 1- contains ICIS
+Conference 2000- . Vol. 4 issued also with a special issue. International Cancer 
+Imaging Society annual conference issue also published in print. Mode of access: 
+Internet.
+Other ID: (OCoLC)56362225
+NLM ID: 101172931[Serial]
+
+41. Author(s): European Society of Cardiology. Working Group on Echocardiography.; European
+Association of Echocardiography.
+Title Abbreviation: Eur J Echocardiogr
+Title(s): European journal of echocardiography : the journal of the Working Group on
+Echocardiography of the European Society of Cardiology.
+Publication Start Year: 2000
+Publication End Year: 2011
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : W.B. Saunders, c2000-
+Latest Publisher: 2008- : Oxford : Oxford University Press
+Description: v.
+Language: English
+ISSN: 1525-2167(Print); 1532-2114(Electronic); 1532-2114(Linking)
+Coden: EJEUAJ
+LCCN: sn 99008678
+Electronic Links: https://academic.oup.com/ehjcimaging
+Fully Indexed In: MEDLINE: v1n1, Mar. 2000-v12n12, Dec. 2011; Index medicus
+In: PubMed: v1n1, Mar. 2000-v12n12, Dec. 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cardiovascular System/diagnostic imaging; Echocardiography*; Heart Diseases/diagnostic imaging; Ultrasonography
+Publication Type(s): Periodical
+Notes: Also issued online. Issued by: European Association of Echocardiography of the
+European Society of Cardiology, 2004-
+Other ID: (OCoLC)41418064
+NLM ID: 100890618[Serial]
+
+42. Title Abbreviation: Surg Laparosc Endosc Percutan Tech
+Title(s): Surgical laparoscopy, endoscopy & percutaneous techniques.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Hagerstown, MD : Lippincott Williams & Wilkins, c1999-
+Description: v. : ill.; 28 cm.
+Language: English
+ISSN: 1530-4515(Print); 1534-4908(Electronic); 1530-4515(Linking)
+Coden: SLEPB3
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00129689-000000000-00000
+Fully Indexed In: MEDLINE: v9n2, Apr. 1999-; PubMed: v9n2, Apr. 1999-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Endoscopy*; Laparoscopy*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 30 (2020). Also issued online.
+Other ID: (OCoLC)41219765
+NLM ID: 100888751[Serial]
+
+43. Author(s): Society for Cardiovascular Magnetic Resonance.; BioMed Central Ltd.
+Title Abbreviation: J Cardiovasc Magn Reson
+Title(s): Journal of cardiovascular magnetic resonance : official journal of the Society
+for Cardiovascular Magnetic Resonance.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: New York : M. Dekker, Inc., c1998-
+Latest Publisher: 2024- : London : Elsevier
+Language: English
+ISSN: 1097-6647(Print); 1532-429X(Electronic); 1097-6647(Linking)
+Coden: JCMRFR
+LCCN: sn 98000109
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-cardiovascular-magnetic-resonance, https://jcmr-online.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=9815616
+Fully Indexed In: MEDLINE: v1n1, Jan. 1999-; Index medicus
+In: PubMed: v1n1, Jan. 1999-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cardiovascular Diseases/diagnosis*; Magnetic Resonance Angiography; Magnetic Resonance Imaging
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 1, no. 3 (July 1999). Print issues ceased with v.9, 
+no.6 (2007). Also issued online.
+Other ID: (OCoLC)38227998(DNLM)SR0093415(s)
+NLM ID: 9815616[Serial]
+
+44. Author(s): International Conference on Medical Image Computing and Computer-Assisted
+Intervention.
+Title Abbreviation: Med Image Comput Comput Assist Interv
+Title(s): Medical image computing and computer-assisted intervention : MICCAI ...
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Germany
+Publisher: Berlin ; New York : Springer, c1998-
+Description: v. : ill. ; 24 cm.
+Language: English
+LCCN: 2005243585
+Fully Indexed In: MEDLINE: v8, 2005-Sept. 2018; PubMed: v8, 2005-Sept. 2018 ; Selected citations only after this date
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnosis, Computer-Assisted*; Diagnostic Imaging; Image Processing, Computer-Assisted; Robotics.; Surgery, Computer-Assisted; Therapy, Computer-Assisted
+Publication Type(s): Congress
+Notes: Latest issue consulted: 7th (Sept. 26-29, 2004). Vols. for 2002- issued in 2
+vols. Also issued online.
+Other ID: (OCoLC)40395223
+NLM ID: 101249582[Serial]
+
+45. Title Abbreviation: J Magn Reson
+Title(s): Journal of magnetic resonance.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: San Diego : Academic Press, c1997-2004.
+Latest Publisher: 2004- : San Diego : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 1090-7807(Print); 1096-0856(Electronic); 1090-7807(Linking)
+LCCN: 97-658016
+Electronic Links: http://www.sciencedirect.com/science/journal/10907807
+Selectively Indexed in: MEDLINEv124n1,Jan. 1997-PubMedv124n1,Jan. 1997-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Spectroscopy
+Publication Type(s): Periodical
+Notes: Title from cover. Published: Orlando, FL, Mar.? 1997- . Also issued online.
+Other ID: (DNLM)SR0089794(s)(OCoLC)35454788
+NLM ID: 9707935[Serial]
+
+46. Title Abbreviation: Med Image Anal
+Title(s): Medical image analysis.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Eight no. a year, 2012-
+Country of Publication: Netherlands
+Publisher: London : Oxford University Press, [1996-
+Latest Publisher: Amsterdam : Elsevier
+Description: v. : ill. + compact laser optical discs (4 3/4 in.)
+Language: English
+ISSN: 1361-8415(Print); 1361-8423(Electronic); 1361-8415(Linking)
+LCCN: 97655020
+Electronic Links: http://www.sciencedirect.com/science/journal/13618415
+Fully Indexed In: MEDLINE: v1n1,Mar. 1996-; PubMed: v1n1,Mar. 1996-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging; Image Processing, Computer-Assisted
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Issues for Vol. 4, no. 1 (Mar. 2000)- no longer
+include an accompanying disc. Also issued online. System requirements for
+accompanying disc: IBM PC or equivalent with Windows 3.1 or higher; or Macintosh 
+(68020-68040 or Power Macintosh) with Apple System Software version 7.0 or later;
+or Sun SPARCstation with Solaris 1.1, 2.3 or 2.4 OS software; or HP 9000 with
+HP9.0.3 or later OS software; CD-ROM drive; RAM required: 4 MB (PC, Macintosh), 8
+MB (Sun), 32 MB (HP).
+Other ID: (DNLM)SR0090226(s)(OCoLC)36651362
+NLM ID: 9713490[Serial]
+
+47. Author(s): College of Radiographers (Great Britain)
+Title Abbreviation: Radiography (Lond)
+Title(s): Radiography/ the College of Radiographers.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: London ; Philadelphia : W.B. Saunders Co., c1995-
+Latest Publisher: 2003- : Amsterdam : Elsevier B.V.
+Description: v. : ill.
+Language: English
+ISSN: 1078-8174(Print); 1532-2831(Electronic); 1078-8174(Linking)
+LCCN: sn 94000837
+Electronic Links: http://www.sciencedirect.com/science/journal/10788174
+Fully Indexed In: MEDLINE: v23n1, Feb. 2017-
+In: PubMed: v23n1, Feb. 2017- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Neoplasms*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 1 complete in 2 issues. Also issued online. Official
+journal of the College of Radiographers.
+Other ID: (DNLM)SR0082433(s)(OCoLC)31198067
+NLM ID: 9604102[Serial]
+
+48. Author(s): Sociedad Latinoamericana de Microscopía Electrónica.; Centro Regional de
+Investigaciones Científicas y Tecnológicas (Mendoza, Argentina)
+Title Abbreviation: Biocell
+Title(s): Biocell : official journal of the Sociedades Latinoamericanas de Microscopía
+Electronica ... et. al.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Three no. a year
+Country of Publication: United States
+Publisher: Mendoza, Argentina : Centro Regional de Investigaciones Científicas y
+Tecnológicas,
+Latest Publisher: Henderson, NV : Tech Science Press
+Description: v. : ill., ports.
+Language: English, Portuguese, Spanish
+ISSN: 0327-9545(Print); 1667-5746(Electronic); 0327-9545(Linking)
+Coden: BOCEEZ
+Electronic Links: https://www.techscience.com/journal/biocell
+Fully Indexed In: MEDLINE: v18n1, 1994-v37n2, Aug. 2013; PubMed: v18n1, 1994-v37n2, Aug. 2013; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cells*; Microscopy, Electron*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 18, no. 1 (Apr. 1994). Print issues ceased with 2013? 
+Also issued online. In English; summaries in English and Portuguese or Spanish.
+Other ID: (DNLM)SR0078219(s)(OCoLC)31080049
+NLM ID: 9438655[Serial]
+
+49. Author(s): European Federation of Societies for Ultrasound in Medicine and Biology.
+Title Abbreviation: Eur J Ultrasound
+Title(s): European journal of ultrasound : official journal of the European Federation of
+Societies for Ultrasound in Medicine and Biology.
+Publication Start Year: 1994
+Publication End Year: 2003
+Frequency: Six no. a year
+Country of Publication: Ireland
+Publisher: Shannon, Co. Clare, Ireland : Elsevier Science Ireland Ltd., c1993-
+Description: v. : ill., ports.
+Language: English
+ISSN: 0929-8266(Print); 0929-8266(Linking)
+LCCN: 94648541
+Electronic Links: https://www.sciencedirect.com/journal/european-journal-of-ultrasound
+Fully Indexed In: MEDLINE: v7n1,Feb. 1998-v16n3, Feb. 2003; PubMed: v7n1,Feb. 1998-v16n3, Feb. 2003; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Ultrasonics*; Ultrasonography*
+Publication Type(s): Periodical
+Notes: Title from cover. Supplements accompany some volumes. Also available online.
+Other ID: (DNLM)SR0078476(s)(OCoLC)31143555
+NLM ID: 9440414[Serial]
+
+50. Author(s): Tıbbi Görüntüleme ve Girişimsel Radyoloji Derneği.; Hacettepe Üniversitesi.
+Radyoloji Anabilim Dalı.; Türk Tıbbi Görüntüleme ve Girişimsel Radyoloji
+Derneği.; Türk Radyoloji Derneği.
+Title Abbreviation: Tani Girisim Radyol
+Title(s): Tanısal ve girişimsel radyoloji : Tıbbi Görüntüleme ve Girişimsel Radyoloji 
+Derneği yayın organı.
+Publication Start Year: 1994
+Publication End Year: 2004
+Frequency: Quarterly, 1996-2004.
+Country of Publication: Turkey
+Publisher: Ankara : Radyoloji Anabilim Dalı, Hacettepe Üniversitesi Tıp Fakültesi,
+[1994-2004]
+Latest Publisher: Ankara : Türk Radyoloji Derneği
+Description: 10 v. : ill.
+Language: Turkish, English, English
+ISSN: 1300-4360(Print); 1300-4360(Linking)
+LCCN: 2003243730
+Electronic Links: https://www.dirjournal.org/EN
+Fully Indexed In: MEDLINE: v9n1, Mar. 2003-v10n4, Dec. 2004; PubMed: v9n1, Mar. 2003-v10n4, Dec. 2004; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnostic Imaging*; Radiography, Interventional
+Publication Type(s): Periodical
+Notes: Has English title: Turkish journal of diagnostic and interventional radiology.
+Title from cover. Also available online. In Turkish, with summaries and title
+page in English. Issued by: Tıbbi Görüntüleme ve Girişimsel Radyoloji
+Derneği, 1994-Sept. 1996; Türk Tıbbi Görüntüleme ve Girişimsel Radyoloji
+Derneği, Dec. 1996-2000; Türk Radyoloji Derneği, 2001-
+Other ID: (OCoLC)37994916
+NLM ID: 9710449[Serial]
+
+51. Title Abbreviation: Ultrason Sonochem
+Title(s): Ultrasonics sonochemistry.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Ten no. a year, 2018-
+Country of Publication: Netherlands
+Publisher: Oxford : Butterworth Heinemann, c1994-
+Latest Publisher: Amsterdam : Elsevier Science
+Description: v. : ill.
+Language: English
+ISSN: 1350-4177(Print); 1873-2828(Electronic); 1350-4177(Linking)
+Coden: ULSOER
+LCCN: 94-645159
+Electronic Links: https://www.sciencedirect.com/journal/ultrasonics-sonochemistry, https://pmc.ncbi.nlm.nih.gov/journals/?term=9433356
+In: PMC; 
+Selectively Indexed in: MEDLINEv4n1, 1997-PubMedv4n1, 1997-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonics*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online.
+Other ID: (DNLM)SR0078542(s)(OCoLC)30502153
+NLM ID: 9433356[Serial]
+
+52. Title Abbreviation: Abdom Imaging
+Title(s): Abdominal imaging.
+Publication Start Year: 1993
+Publication End Year: 2015
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, NY : Springer International, c1993-
+Description: v. : ill.
+Language: English
+ISSN: 0942-8925(Print); 1432-0509(Electronic); 0942-8925(Linking)
+Coden: ABIMEL
+LCCN: sn 93007105
+Electronic Links: https://link.springer.com/journal/261
+Fully Indexed In: MEDLINE: v18n1, 1993-v40n8, Oct. 2015; Index medicus
+In: PubMed: v18n1, 1993-v40n8, Oct. 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Abdomen*; Diagnostic Imaging*; Gastrointestinal Diseases/diagnosis*; Urologic Diseases/diagnosis*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 39, no. 6 (Dec. 2014). Also issued 
+online.
+Other ID: (DNLM)SR0075712(s)(OCoLC)27261530
+NLM ID: 9303672[Serial]
+
+53. Title Abbreviation: J Magn Reson B
+Title(s): Journal of magnetic resonance. Series B.
+Publication Start Year: 1993
+Publication End Year: 1996
+Frequency: Monthly
+Country of Publication: United States
+Publisher: San Diego : Academic Press, c1993-c1996.
+Description: 13 v. : ill.
+Language: English
+ISSN: 1064-1866(Print); 1096-0872(Electronic); 1064-1866(Linking)
+Electronic Links: http://www.sciencedirect.com/science/journal/10641866
+Selectively Indexed in: MEDLINEPubMedIndex medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry/methods*; Biology/methods*; Magnetic Resonance Spectroscopy*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0076368(s)(OCoLC)26224244
+NLM ID: 9309764[Serial]
+
+54. Author(s): European Society for Magnetic Resonance in Medicine and Biology
+Title Abbreviation: MAGMA
+Title(s): Magma.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Six no. a year, 1998-
+Country of Publication: Germany
+Publisher: New York, NY : Chapman & Hall, c1993-
+Latest Publisher: 2003- : Heidelberg : Springer
+Description: v. : ill.
+Language: English
+ISSN: 0968-5243(Print); 1352-8661(Electronic); 0968-5243(Linking)
+Coden: MRBMEY
+LCCN: sn 93007326
+Electronic Links: https://link.springer.com/journal/10334
+Fully Indexed In: MEDLINE: v3n1, 1995-; PubMed: v3n1, 1995-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Spectroscopy*
+Publication Type(s): Periodical
+Notes: Issues for Apr. 1994- have subtitle: Magnetic resonance materials in physics,
+biology, and medicine. Title from cover. Also issued online. Official journal of 
+the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB).
+Other ID: (OCoLC)27951701(DNLM)SR0077022(s)
+NLM ID: 9310752[Serial]
+
+55. Title Abbreviation: Magn Reson Imaging Clin N Am
+Title(s): Magnetic resonance imaging clinics of North America.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia, PA : W.B. Saunders Co., c1993-
+Latest Publisher: Philadelphia Pa : Saunders
+Description: v. : ill.
+Language: English
+ISSN: 1064-9689(Print); 1557-9786(Electronic); 1064-9689(Linking)
+Coden: MRIAF
+LCCN: sn 92000293
+Electronic Links: http://www.sciencedirect.com/science/journal/10649689
+Fully Indexed In: MEDLINE: v1n1,Sept. 1993-; PubMed: v1n1,Sept. 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Imaging
+Publication Type(s): Periodical
+Notes: Each issue has also a distinctive title. Also issued online.
+Other ID: (OCoLC)26478136(DNLM)SR0078504(s)
+NLM ID: 9422762[Serial]
+
+56. Title Abbreviation: Micron
+Title(s): Micron : the international research and review journal for microscopy.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Monthly, 2012-
+Country of Publication: England
+Publisher: Oxford ; New York : Pergamon Press, c1993-
+Description: v. : ill.
+Language: English
+ISSN: 0968-4328(Print); 1878-4291(Electronic); 0968-4328(Linking)
+Coden: MCONEN
+LCCN: 94660585, sn 93002472
+Electronic Links: http://www.sciencedirect.com/science/journal/09684328
+Selectively Indexed in: MEDLINEv25n1,Feb. 1994-PubMedv25n1,Feb. 1994-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Electron Probe Microanalysis.*; Microscopy*
+Publication Type(s): Periodical
+Notes: Bimonthly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0075312(s)(OCoLC)27751008
+NLM ID: 9312850[Serial]
+
+57. Title Abbreviation: Fortschr Geb Rontgenstrahlen Neuen Bildgeb Verfahr Erganzungsbd
+Title(s): Fortschritte auf dem Gebiete der Röntgenstrahlen und der neuen bildgebenden
+Verfahren. Ergänzungsband.
+Publication Start Year: 1992
+Publication End Year: 1992
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : Georg Thieme, 1992-
+Latest Publisher: Stuttgart : Georg Thieme Verlag
+Description: v. : ill.
+Language: German
+ISSN: 
+Fully Indexed In: MEDLINE: 130, 1992; PubMed: 130, 1992; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnostic Imaging*; Radiology*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0078649(s)(OCoLC)26594953
+NLM ID: 9316522[Serial]
+
+58. Title Abbreviation: Microsc Res Tech
+Title(s): Microscopy research and technique.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Monthly (except semimonthly in Feb., Apr., June, Aug., Oct., &  Dec.), 2003-
+Country of Publication: United States
+Publisher: New York, NY : Wiley-Liss, c1992-
+Description: v. : ill.
+Language: English
+ISSN: 1059-910X(Print); 1097-0029(Electronic); 1059-910X(Linking)
+Coden: MRTEEO
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0029
+In: PubMed: v20n1, Jan. 1992-; 
+Selectively Indexed in: MEDLINEv20n1, Jan. 1992-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microscopy*; Microscopy, Electron*
+Publication Type(s): Periodical
+Notes: Sixteen no. a year. Title from cover. Also issued online.
+Other ID: (DNLM)SR0072571(s)(OCoLC)24807748
+NLM ID: 9203012[Serial]
+
+59. Title Abbreviation: Neuroimage
+Title(s): NeuroImage.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Semimonthly (except monthly in Mar., June, Sept. and Dec.)
+Country of Publication: United States
+Publisher: Orlando, FL : Academic Press, c1992-
+Description: v. : ill.
+Language: English
+ISSN: 1053-8119(Print); 1095-9572(Electronic); 1053-8119(Linking)
+Electronic Links: http://www.sciencedirect.com/science/journal/10538119
+Fully Indexed In: MEDLINE: v1n1, 1992-; PubMed: v1n1, 1992-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Nervous System Diseases/diagnosis*
+Publication Type(s): Periodical
+Notes: Title from cover. Available also online.
+Other ID: (DNLM)SR0069847(s)(OCoLC)22646807
+NLM ID: 9215515[Serial]
+
+60. Author(s): American College of Veterinary Radiology.; International Veterinary Radiology
+Association.
+Title Abbreviation: Vet Radiol Ultrasound
+Title(s): Veterinary radiology & ultrasound : the official journal of the American College 
+of Veterinary Radiology and the International Veterinary Radiology Association.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Raleigh Nc : American College Of Veterinary Radiology
+Latest Publisher: Oxford : Blackwell
+Description: v. : ill., ports.
+Language: English
+ISSN: 1058-8183(Print); 1740-8261(Electronic); 1058-8183(Linking)
+Coden: VRULED
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1740-8261
+Fully Indexed In: MEDLINE: v38n1,Jan./Feb. 1997-; Index medicus
+In: PubMed: v38n1,Jan./Feb. 1997-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiography/veterinary*; Ultrasonography/veterinary*
+Publication Type(s): Periodical
+Notes: Bimonthly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0073746(s)(OCoLC)24384362
+NLM ID: 9209635[Serial]
+
+61. Title Abbreviation: Aktuelle Radiol
+Title(s): Aktuelle Radiologie.
+Publication Start Year: 1991
+Publication End Year: 1998
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : Georg Thieme Verlag, c1991-
+Latest Publisher: Stuttgart : Georg Thieme Verlag
+Description: v. : ill.
+Language: German, English
+ISSN: 0939-267X(Print); 0939-267X(Linking)
+Coden: AKRAEP
+Fully Indexed In: MEDLINE: v1n1,Jan. 1991-v8n6,Nov. 1998; PubMed: v1n1,Jan. 1991-v8n6,Nov. 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiography*
+Publication Type(s): Periodical
+Notes: Six no. a year. Title from cover. Articles in German; summaries in English and
+German.
+Other ID: (DNLM)SR0070072(s)(OCoLC)23268032
+NLM ID: 9102962[Serial]
+
+62. Title Abbreviation: Gastrointest Endosc Clin N Am
+Title(s): Gastrointestinal endoscopy clinics of North America.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia : W.B. Saunders Co., c1991-
+Latest Publisher: <2005->: Philadelphia, Pa : Elsevier Health Sciences Division
+Description: v. : ill.
+Language: English
+ISSN: 1052-5157(Print); 1558-1950(Electronic); 1052-5157(Linking)
+Coden: GECNED
+LCCN: sn 90001097
+Electronic Links: http://www.sciencedirect.com/science/journal/10525157, http://www.giendo.theclinics.com/
+Fully Indexed In: MEDLINE: v4n1, 1994-; PubMed: v4n1, 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Endoscopy, Gastrointestinal*
+Publication Type(s): Periodical
+Notes: Quarterly. Each issue has also a distinctive title. Also issued online.
+Other ID: (DNLM)SR0071697(s)(OCoLC)22298969
+NLM ID: 9202792[Serial]
+
+63. Author(s): Society for Magnetic Resonance Imaging.; Radiological Society of North America.
+Title Abbreviation: J Magn Reson Imaging
+Title(s): Journal of magnetic resonance imaging : JMRI.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Monthly, 1999-
+Country of Publication: United States
+Publisher: Chicago, IL : Society for Magnetic Resonance Imaging, c1991-
+Latest Publisher: <2005-> : Hoboken , N.J. : Wiley-Liss
+Description: v. : ill.
+Language: English
+ISSN: 1053-1807(Print); 1522-2586(Electronic); 1053-1807(Linking)
+Coden: JMRIFR
+LCCN: sn 90003275
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2586
+Fully Indexed In: MEDLINE: v1n1, Jan.-Feb. 1991-; Index medicus
+In: PubMed: v1n1, Jan.-Feb. 1991-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Imaging*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Issued in conjunction with the Radiological
+Society of North America.
+Other ID: (DNLM)SR0070198(s)(OCoLC)22469246
+NLM ID: 9105850[Serial]
+
+64. Author(s): American Society of Neuroimaging.
+Title Abbreviation: J Neuroimaging
+Title(s): Journal of neuroimaging : official journal of the American Society of
+Neuroimaging.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Boston, Mass. : Little, Brown and Co., c1991-
+Latest Publisher: 2009- : Hoboken, NJ : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 1051-2284(Print); 1552-6569(Electronic); 1051-2284(Linking)
+Coden: JNERET
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1552-6569
+Fully Indexed In: MEDLINE: v1n1, Feb. 1991-; Index medicus
+In: PubMed: v1n1, Feb. 1991-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Health Technology Assessment (non-Index Medicus)
+MeSH: Diagnostic Imaging*; Nervous System Diseases/diagnosis*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2013. Also issued online.
+Other ID: (DNLM)SR0069108(s)(OCoLC)21896793
+NLM ID: 9102705[Serial]
+
+65. Title Abbreviation: Neuroimaging Clin N Am
+Title(s): Neuroimaging clinics of North America.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia, PA : W.B. Saunders Co., c1991-
+Description: v. : ill., ports.
+Language: English
+ISSN: 1052-5149(Print); 1557-9867(Electronic); 1052-5149(Linking)
+Coden: NCNAEO
+Electronic Links: http://www.sciencedirect.com/science/journal/10525149
+Fully Indexed In: MEDLINE: v4n1,Feb. 1994-; PubMed: v4n1,Feb. 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Nervous System Diseases/diagnosis*
+Publication Type(s): Periodical
+Notes: Quarterly. Vol. 11, no. 3 (Aug. 2001) consists entirely of reprints of articles
+from other journals. Also issued online.
+Other ID: (DNLM)SR0072476(s)(OCoLC)22299096
+NLM ID: 9211377[Serial]
+
+66. Author(s): International Society of Ultrasound in Obstetrics and Gynecology.
+Title Abbreviation: Ultrasound Obstet Gynecol
+Title(s): Ultrasound in obstetrics & gynecology : the official journal of the International
+Society of Ultrasound in Obstetrics and Gynecology.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: England
+Publisher: Carnforth, Lancs, UK ; Park Ridge, N.J., USA : Parthenon Pub., c1991-
+Latest Publisher: 2003- : Chichester, West Sussex, UK : John Wiley & Sons, Ltd.
+Description: v. : ill., ports.
+Language: English
+ISSN: 0960-7692(Print); 1469-0705(Electronic); 0960-7692(Linking)
+Coden: UOGYFJ
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1469-0705
+Fully Indexed In: MEDLINE: v5n1,Jan. 1995-; PubMed: v5n1,Jan. 1995-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genital Diseases, Female/diagnostic imaging*; Ultrasonography*; Ultrasonography, Prenatal*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0069897(s)(OCoLC)23968529
+NLM ID: 9108340[Serial]
+
+67. Author(s): International Fetal Medicine and Surgery Society.
+Title Abbreviation: Fetal Diagn Ther
+Title(s): Fetal diagnosis and therapy.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Eight no. a year, 2007-
+Country of Publication: Switzerland
+Publisher: Basel ; New York : S. Karger, 1991-
+Description: v. : ill.
+Language: English
+ISSN: 1015-3837(Print); 1421-9964(Electronic); 1015-3837(Linking)
+Coden: FDTHES
+Electronic Links: http://www.karger.com/Journal/Home/224239
+Fully Indexed In: MEDLINE: v5n1, 1990-; PubMed: v5n1, 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Fetal Diseases/diagnosis*Fetal Diseases/therapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Also called v. 5, no. 1- . Vol. 5 covers 1990 but released Feb.
+1991- . Also available online. Official journal of: The International Fetal
+Medicine and Surgery Society.
+Other ID: (DNLM)SR0066199(s)(OCoLC)23338607
+NLM ID: 9107463[Serial]
+
+68. Author(s): International Society for Neuroimaging in Psychiatry.
+Title Abbreviation: Psychiatry Res Neuroimaging
+Title(s): Psychiatry research. Neuroimaging.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1872-7506(Electronic); 0925-4927(Print); 0925-4927(Linking)
+Electronic Links: http://www.sciencedirect.com/science/journal/09254927
+Fully Indexed In: MEDLINE: v247, 2016-; Index medicus
+In: PubMed: v247, 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Psychiatry*
+Publication Type(s): Periodical
+Notes: Issues from 1990-2016 shared numbering with the parent journal, Psychiatry
+research. With Vol. 247 (2016), the Neuroimaging section established its own
+numbering sequence and became an independent publication. Also issued in print.
+Official publication of the International Society for Neuroimaging in Psychiatry.
+Separated from (work): Psychiatry research 1990- (DLC) sc 80001920
+(OCoLC)05636342 (DNLM)7911385.
+Other ID: (OCoLC)44089664
+NLM ID: 101723001[Serial]
+
+69. Title Abbreviation: Clin Imaging
+Title(s): Clinical imaging.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [New York, NY] : Elsevier, [c1989-
+Description: v. : ill.
+Language: English
+ISSN: 0899-7071(Print); 1873-4499(Electronic); 0899-7071(Linking)
+Coden: CLIMEB
+LCCN: 89657641, sn 88002325
+Electronic Links: https://www.sciencedirect.com/journal/clinical-imaging
+Fully Indexed In: MEDLINE: v13n1,Mar. 1989-; PubMed: v13n1,Mar. 1989-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Magnetic Resonance Imaging*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0063365(s)(OCoLC)18185958
+NLM ID: 8911831[Serial]
+
+70. Author(s): Nihon Shōkaki Naishikyō Gakkai.
+Title Abbreviation: Dig Endosc
+Title(s): Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy
+Society.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Six no. a year, <2018>-
+Country of Publication: Australia
+Publisher: Tokyo, Japan : The Society, c1989-
+Latest Publisher: 2019- : Richmond, Vic., Australia : John Wiley & Sons Australia, Ltd.
+Description: v. : ill., ports.
+Language: English
+ISSN: 0915-5635(Print); 1443-1661(Electronic); 0915-5635(Linking)
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1443-1661
+Fully Indexed In: MEDLINE: v21n1, Jan. 2009-
+In: PubMed: v21n1, Jan. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Digestive System Diseases/diagnosis*Digestive System Diseases/therapy*; Endoscopy*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0068898(s)(OCoLC)23045533
+NLM ID: 9101419[Serial]
+
+71. Title Abbreviation: Magn Reson Q
+Title(s): Magnetic resonance quarterly.
+Publication Start Year: 1989
+Publication End Year: 1995
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: [New York, NY] : Raven Press, [1989-
+Latest Publisher: New York Ny : Raven Press
+Description: v. : ill.
+Language: English
+ISSN: 0899-9422(Print); 0899-9422(Linking)
+Coden: MRQUE
+Fully Indexed In: MEDLINE: v5n1,Jan. 1989-1995; PubMed: v5n1,Jan. 1989-1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Magnetic Resonance Imaging*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0063195(s)(OCoLC)18270263
+NLM ID: 8910769[Serial]
+
+72. Title Abbreviation: Bildgebung
+Title(s): Bildgebung = Imaging.
+Publication Start Year: 1988
+Publication End Year: 1996
+Frequency: Four no. a year
+Country of Publication: Switzerland
+Publisher: Basel ; New York : Karger, [c1988-
+Latest Publisher: Basel : Karger
+Description: v. : ill.
+Language: German, English
+ISSN: 1012-5655(Print); 1012-5655(Linking)
+Coden: BILDEZ
+Fully Indexed In: MEDLINE: v56n1,Nov. 1988-1996; PubMed: v56n1,Nov. 1988-1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnostic Imaging*
+Publication Type(s): Periodical
+Notes: Title from cover. Articles in German or English; summaries in both.
+Other ID: (DNLM)SR0063065(s)(OCoLC)19244679
+NLM ID: 8904648[Serial]
+
+73. Author(s): Computerized Medical Imaging Society.
+Title Abbreviation: Comput Med Imaging Graph
+Title(s): Computerized medical imaging and graphics : the official journal of the
+Computerized Medical Imaging Society.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York : Pergamon Press, c1988-
+Latest Publisher: Tarrytown Ny : Elsevier Science
+Description: v. : ill.
+Language: English
+ISSN: 0895-6111(Print); 1879-0771(Electronic); 0895-6111(Linking)
+Coden: CMIGEY
+LCCN: sn 87001842
+Electronic Links: https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics
+Fully Indexed In: MEDLINE: v12n1,Jan.-Feb. 1988-; PubMed: v12n1,Jan.-Feb. 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0062103(s)(OCoLC)16702127
+NLM ID: 8806104[Serial]
+
+74. Title Abbreviation: Electron Microsc Rev
+Title(s): Electron microscopy reviews.
+Publication Start Year: 1988
+Publication End Year: 1992
+Frequency: Two no. a year
+Country of Publication: United States
+Publisher: Oxford ; New York : Pergamon Press, c1988-c1992.
+Latest Publisher: Elmsford Ny : Pergamon Press
+Description: 5 v. : ill.
+Language: English
+ISSN: 0892-0354(Print); 0892-0354(Linking)
+Coden: EMIREL
+Electronic Links: http://www.sciencedirect.com/science/journal/08920354
+Fully Indexed In: MEDLINE: v1n1, 1988-v5n2, 1992; PubMed: v1n1, 1988-v5n2, 1992; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy, Electron*
+Publication Type(s): PeriodicalReview
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)15063309(DNLM)SR0060717(s)
+NLM ID: 8809169[Serial]
+
+75. Author(s): Society for Computer Applications in Radiology.
+Title Abbreviation: J Digit Imaging
+Title(s): Journal of digital imaging.
+Publication Start Year: 1988
+Publication End Year: 2023
+Frequency: Six issues a year
+Country of Publication: United States
+Publisher: Philadelphia, PA : W.B. Saunders, c1988-
+Latest Publisher: <2008-2023>: New York : Springer
+Description: v. : ill.
+Language: English
+ISSN: 0897-1889(Print); 1618-727X(Electronic); 0897-1889(Linking)
+Electronic Links: https://link.springer.com/journal/10278, https://pmc.ncbi.nlm.nih.gov/journals/?term=9100529
+Fully Indexed In: MEDLINE: v1n1, Nov. 1988-v36n6, Dec. 2023; Index medicus
+In: PubMed: v1n1, Nov. 1988-v36n6, Dec. 2023, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computer Systems*; Radiographic Image Enhancement*; Radiology Information Systems*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. The official journal of the Society for
+Computer Applications in Radiology.
+Other ID: (DNLM)SR0064423(s)(OCoLC)17429647
+NLM ID: 9100529[Serial]
+
+76. Author(s): American Society of Echocardiography.
+Title Abbreviation: J Am Soc Echocardiogr
+Title(s): Journal of the American Society of Echocardiography : official publication of the
+American Society of Echocardiography.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: United States
+Publisher: St. Louis, Mo. : C.V. Mosby Co., [c1988-
+Latest Publisher: St. Louis Mo : Mosby-Year Book
+Description: v. : ill.
+Language: English
+ISSN: 0894-7317(Print); 1097-6795(Electronic); 0894-7317(Linking)
+Coden: JSECEJ
+Electronic Links: http://www.sciencedirect.com/science/journal/08947317
+Fully Indexed In: MEDLINE: v1n1,Jan.-Feb. 1988-; PubMed: v1n1,Jan.-Feb. 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Echocardiography*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0060524(s)(OCoLC)16198043
+NLM ID: 8801388[Serial]
+
+77. Title Abbreviation: NMR Biomed
+Title(s): NMR in biomedicine.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Ten no. a year, 2008-
+Country of Publication: England
+Publisher: London : Heyden & Son, 1988-
+Latest Publisher: Chichester : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 0952-3480(Print); 1099-1492(Electronic); 0952-3480(Linking)
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1492
+Fully Indexed In: MEDLINE: v1n1, 1988-; PubMed: v1n1, 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Spectroscopy*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased v. 24, no. 10 (2011). Also issued online.
+Other ID: (DNLM)SR0060836(s)(OCoLC)19558856
+NLM ID: 8915233[Serial]
+
+78. Title Abbreviation: Top Magn Reson Imaging
+Title(s): Topics in magnetic resonance imaging : TMRI.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [Frederick, MD : Aspen Publishers, c1988-
+Latest Publisher: Hagerstown, MD : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English
+ISSN: 0899-3459(Print); 1536-1004(Electronic); 0899-3459(Linking)
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00002142-000000000-00000
+Fully Indexed In: MEDLINE: v1n1,Dec. 1988-; PubMed: v1n1,Dec. 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Imaging*
+Publication Type(s): Periodical
+Notes: Title from cover. "An Aspen publication". Each issue has a distinctive title.
+Print issues ceased with v. 27, no. 6 (2018). Also available online.
+Other ID: (DNLM)SR0064654(s)(OCoLC)18068151
+NLM ID: 8913523[Serial]
+
+79. Title Abbreviation: Ultrasound Q
+Title(s): Ultrasound quarterly.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [New York, N.Y., U.S.A.] : Raven Press, [c1988-
+Latest Publisher: <2000->: Hagerstown, MD : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English
+ISSN: 0894-8771(Print); 1536-0253(Electronic); 0894-8771(Linking)
+Coden: ULQUEZ
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00013644-000000000-00000
+Fully Indexed In: MEDLINE: v19n1, Mar. 2003-; PubMed: v19n1, Mar. 2003-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonography*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Print issues ceased with 2015.
+Also available online.
+Other ID: (DNLM)SR0060695(s)(OCoLC)16274495
+NLM ID: 8809459[Serial]
+
+80. Title Abbreviation: Am J Card Imaging
+Title(s): American journal of cardiac imaging.
+Publication Start Year: 1987
+Publication End Year: 1996
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Orlando, FL] : Grune & Stratton, [c1987-1996]
+Latest Publisher: Philadelphia Pa : W.B. Saunders Co
+Description: v. : ill.
+Language: English
+ISSN: 0887-7971(Print); 0887-7971(Linking)
+Coden: AJCIEZ
+LCCN: sn 86013832
+Fully Indexed In: MEDLINE: v5n1, 1991-v10n4, Oct.1996; PubMed: v5n1, 1991-v10n4, Oct.1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Angiocardiography*; Echocardiography*; Heart/diagnostic imaging*; Magnetic Resonance Spectroscopy*; Radionuclide Imaging*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies.
+Other ID: (DNLM)SR0057206(s)(OCoLC)13351454
+NLM ID: 8706659[Serial]
+
+81. Author(s): Scanning Microscopy International.
+Title Abbreviation: Scanning Microsc Suppl
+Title(s): Scanning microscopy. Supplement.
+Publication Start Year: 1987
+Publication End Year: 1996
+Frequency: Annual
+Country of Publication: United States
+Publisher: Chicago, IL : Scanning Microscopy International, c1987-
+Description: v. : ill.
+Language: English
+ISSN: 0892-953X(Print); 0892-953X(Linking)
+Coden: SMSUEU
+In: PubMed: 1, 1987-10, 1996; 
+Selectively Indexed in: MEDLINE1, 1987-10, 1996Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy*; Microscopy, Electron, Scanning*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0060951(s)(OCoLC)15306667
+NLM ID: 8710881[Serial]
+
+82. Author(s): Scanning Microscopy International.
+Title Abbreviation: Scanning Microsc
+Title(s): Scanning microscopy.
+Publication Start Year: 1987
+Publication End Year: 1996
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Chicago : Scanning Microscopy International, c1987-
+Latest Publisher: Elk Grove Village, Il : Scanning Microscopy International
+Description: v. : ill.
+Language: English
+ISSN: 0891-7035(Print); 0891-7035(Linking)
+Coden: SCMIEU
+In: PubMed: v1n1, Mar. 1987-v10n4, Dec. 1996; 
+Selectively Indexed in: MEDLINEv1n1, Mar. 1987-v10n4, Dec. 1996Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy*; Microscopy, Electron, Scanning*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0059628(s)(OCoLC)14972781
+NLM ID: 8704616[Serial]
+
+83. Author(s): Society of American Gastrointestinal Endoscopic Surgeons.; European Association
+for Endoscopic Surgery.
+Title Abbreviation: Surg Endosc
+Title(s): Surgical endoscopy.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Monthly, 1994-
+Country of Publication: Germany
+Publisher: [Berlin] : Springer International, c1987-
+Latest Publisher: 1992- : New York : Springer
+Description: v. : ill.
+Language: English
+ISSN: 0930-2794(Print); 1432-2218(Electronic); 0930-2794(Linking)
+LCCN: sn88-26110
+Electronic Links: https://link.springer.com/journal/464
+Fully Indexed In: MEDLINE: v1n1, 1987-; Index medicus
+In: PubMed: v1n1, 1987-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Endoscopy*; Ultrasonography
+Publication Type(s): Periodical
+Notes: Vols. for 2002- called also: Surgical endoscopy and other interventional
+techniques. Title from cover. Latest issue consulted: Vo. 16, no. 1 (Jan. 2002). 
+Vol. 1, no. 1 preceded by a supplement called: Surgical endoscopy and
+interventional techniques, suppl. to v. 1, issued 1986. Supplements accompany
+some volumes. Also issued online. Official journal of Society of American
+Gastrointestinal Endoscopic Surgeons and European Association for Endoscopic
+Surgery.
+Terms of Use: Electronic version restricted to institutions with a site/user ID and password.
+Other ID: (OCoLC)18306633(DNLM)SR0057631(s)
+NLM ID: 8806653[Serial]
+
+84. Author(s): International Fetal Medicine and Surgery Society.
+Title Abbreviation: Fetal Ther
+Title(s): Fetal therapy.
+Publication Start Year: 1986
+Publication End Year: 1989
+Frequency: Four no. a year
+Country of Publication: Switzerland
+Publisher: Basel ; New York : S. Karger, 1986-1991.
+Latest Publisher: Basel : Karger
+Description: 4 v. : ill., ports.
+Language: English
+ISSN: 0257-2788(Print); 0257-2788(Linking)
+Coden: FETHEZ
+Fully Indexed In: MEDLINE: 1/1/86,Apr. 1986-4/4/89, 1989; PubMed: 1/1/86,Apr. 1986-4/4/89, 1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Fetal Diseases/therapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Also called v. 1, no. 1-v. 4, no. 4. Vol. 1-v. 4 cover
+1986-1989 but released Apr. 1986-Jan. 1991. Supplements accompany some vols.
+Official organ of the International Fetal Medicine and Surgery Society, v. 1, no.
+2-3-v. 4, no. 4.
+Other ID: (DNLM)SR0054933(s)(OCoLC)13579411
+NLM ID: 8700083[Serial]
+
+85. Author(s): North American Society for Cardiac Imaging.
+Title Abbreviation: Int J Card Imaging
+Title(s): International journal of cardiac imaging.
+Publication Start Year: 1985
+Publication End Year: 2000
+Frequency: Six no. a year, 1997-2000
+Country of Publication: Netherlands
+Publisher: Boston : Nijhoff, 1985-c2000.
+Latest Publisher: Dordrecht : Kluwer Academic Publishers
+Description: 16 v. : ill.
+Language: English
+ISSN: 0167-9899(Print); 1573-0743(Electronic); 0167-9899(Linking)
+Coden: IJCIEL
+LCCN: sn 86031075
+Fully Indexed In: MEDLINE: v1n1, 1985-v16n6, Dec. 2000; PubMed: v1n1, 1985-v16n6, Dec. 2000; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Angiocardiography*; Echocardiography*; Heart/diagnostic imaging*; Magnetic Resonance Spectroscopy*; Radiography*; Radionuclide Imaging*
+Publication Type(s): Periodical
+Notes: Published: Dordrecht, Netherlands ; Norwell, MA : Kluwer Academic Publishers,
+-Dec. 2000. Supplements accompany some vols. Also issued online. Official journal
+of the: North American Society for Cardiac Imaging, -Dec. 2000.
+Other ID: (DNLM)SR0052388(s)(OCoLC)12855040
+NLM ID: 8600426[Serial]
+
+86. Title Abbreviation: J Thorac Imaging
+Title(s): Journal of thoracic imaging.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Gaithersburg, Md. : Aspen Systems Corp., c1985-
+Latest Publisher: 1998- : Philadelphia, PA : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English
+ISSN: 0883-5993(Print); 1536-0237(Electronic); 0883-5993(Linking)
+Coden: JTIME8
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00005382-000000000-00000
+Fully Indexed In: MEDLINE: v1n1, 1985-; PubMed: v1n1, 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiography, Thoracic*; Radionuclide Imaging*; Thorax/diagnostic imaging*; Tomography*; Ultrasonography*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues have also distinctive titles. Imprint varies. "An Aspen 
+publication." Print issues ceased with 2024. Also issued online. Official organ
+of: Society of Thoracic Radiology, 1985-<Spring 1995>; and: Japanese Society of
+Thoracic Radiology, <spring 1995->
+Other ID: (DNLM)SR0055190(s)(OCoLC)12174382
+NLM ID: 8606160[Serial]
+
+87. Author(s): Kressel,Herbert Y
+Title Abbreviation: Magn Reson Annu
+Title(s): Magnetic resonance annual.
+Publication Start Year: 1985
+Publication End Year: 1988
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York : Raven Press, c1985-c1988.
+Latest Publisher: New York Ny : Raven Press
+Description: 4 v. : ill.
+Language: English
+ISSN: 8756-9787(Print); 8756-9787(Linking)
+Coden: MRANEO
+Fully Indexed In: MEDLINE: 1985-1988; PubMed: 1985-1988; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Magnetic Resonance Spectroscopy*
+Publication Type(s): Periodical
+Notes: Editor: Herbert Y. Kressel.
+Other ID: (DNLM)SR0050790(s)(OCoLC)11206862
+NLM ID: 8409187[Serial]
+
+88. Author(s): Nederlandse Vereniging voor Radiodiagnostiek.
+Title Abbreviation: Diagn Imaging Clin Med
+Title(s): Diagnostic imaging in clinical medicine.
+Publication Start Year: 1984
+Publication End Year: 1986
+Frequency: Bimonthly
+Country of Publication: Switzerland
+Publisher: Basel ; New York : Karger, -1986]
+Latest Publisher: Basel : Karger
+Description: 3 v. ill.
+Language: English
+ISSN: 0254-881X(Print); 0254-881X(Linking)
+Coden: DICMD4
+Fully Indexed In: MEDLINE: 53/1/84,Jan.-Feb. 1984-55/6/86,Nov.-Dec. 1986; PubMed: 53/1/84,Jan.-Feb. 1984-55/6/86,Nov.-Dec. 1986; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiography*; Radionuclide Imaging*; Thermography*; Ultrasonography*
+Publication Type(s): Periodical
+Notes: Description based on: 53/2/84 (Mar.-Apr. 1984); title from cover. Organ of the
+Netherlands' Society of Radiodiagnosis.
+Other ID: (DNLM)D09576000(s)(OCoLC)10425193
+NLM ID: 8400594[Serial]
+
+89. Title Abbreviation: Digitale Bilddiagn
+Title(s): Digitale Bilddiagnostik.
+Publication Start Year: 1984
+Publication End Year: 1990
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Stuttgart : Thieme, [c1984-1990]
+Latest Publisher: Stuttgart : Georg Thieme Verlag
+Description: v. : ill.
+Language: German, English, English
+ISSN: 0724-7591(Print); 0724-7591(Linking)
+Coden: DIBIEM
+Fully Indexed In: MEDLINE: v4n1,Mar. 1984-v10n3/4,Sept.-Dec. 1990; PubMed: v4n1,Mar. 1984-v10n3/4,Sept.-Dec. 1990; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Angiography*; Magnetic Resonance Spectroscopy*; Tomography, Emission-Computed*; Tomography, X-Ray Computed*; Ultrasonics*
+Publication Type(s): Periodical
+Notes: Title from cover. Articles in German or English with summaries and table of
+contents in both languages.
+Other ID: (DNLM)D10836000(s)(OCoLC)11227360
+NLM ID: 8405849[Serial]
+
+90. Title Abbreviation: Echocardiography
+Title(s): Echocardiography.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Ten no. a year, 2005-
+Country of Publication: United States
+Publisher: Mount Kisco, N.Y. : Futura Pub. Co., [c1984-
+Latest Publisher: Hoboken, NJ : Wiley-Blackwell
+Description: v. : ill.
+Language: English
+ISSN: 0742-2822(Print); 1540-8175(Electronic); 0742-2822(Linking)
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-8175
+Fully Indexed In: MEDLINE: v7n1, 1990-v12n6, 1995; v17n1, Jan. 2000-; Index medicus
+In: PubMed: v7n1, 1990-v12n6, 1995; v17n1, Jan. 2000-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Health Technology Assessment (non-Index Medicus)
+MeSH: Echocardiography*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 31 (2014). Also issued online.
+Other ID: (DNLM)SR0052800(s)(OCoLC)10304666
+NLM ID: 8511187[Serial]
+
+91. Title Abbreviation: J Electron Microsc Tech
+Title(s): Journal of electron microscopy technique.
+Publication Start Year: 1984
+Publication End Year: 1991
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York : Alan R. Liss, [c1984-c1991]
+Description: 19 v. : ill.
+Language: English
+ISSN: 0741-0581(Print); 1553-0817(Electronic); 0741-0581(Linking)
+Coden: JEMTEC
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0029
+Fully Indexed In: MEDLINE: v7n1, Sept. 1987-v19n4, Dec. 1991; PubMed: v7n1, Sept. 1987-v19n4, Dec. 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microbiological Techniques*; Microscopy, Electron*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)J19770000(s)(OCoLC)10077580
+NLM ID: 8502171[Serial]
+
+92. Author(s): Society of Magnetic Resonance in Medicine (U.S.); International Society for
+Magnetic Resonance in Medicine.
+Title Abbreviation: Magn Reson Med
+Title(s): Magnetic resonance in medicine.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Twelve no. a year, 1987-
+Country of Publication: United States
+Publisher: San Diego : Academic Press,
+Latest Publisher: 1999- : New York, NY : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 0740-3194(Print); 1522-2594(Electronic); 0740-3194(Linking)
+Coden: MRMEEN
+LCCN: 88640361, sn 83004961
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2594
+Fully Indexed In: MEDLINE: v1n1, 1984-; Index medicus
+In: PubMed: v1n1, 1984-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Spectroscopy*
+Publication Type(s): Periodical
+Notes: Issues for <2003- > called also: MRM. Description based on: Vol. 1, no. 2 (June
+1984); title from cover. Print issues ceased with v. 64, no. 6 (Dec. 2010). Also 
+issued online. Issued by: Society of Magnetic Resonance in Medicine, 1984- ;
+International Society for Magnetic Resonance in Medicine, <2003-> .
+Other ID: (DNLM)J27975000(s)(OCoLC)09922011
+NLM ID: 8505245[Serial]
+
+93. Title Abbreviation: Semin Ultrasound CT MR
+Title(s): Seminars in ultrasound, CT, and MR.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Orlando, FL : Grune & Stratton, c1984-
+Latest Publisher: Philadelphia Pa : W B Saunders
+Description: v. : ill.
+Language: English
+ISSN: 0887-2171(Print); 1558-5034(Electronic); 0887-2171(Linking)
+Coden: SEULDO
+LCCN: sn 86014173, sn 91003656
+Electronic Links: http://www.sciencedirect.com/science/journal/08872171
+Fully Indexed In: MEDLINE: v9n1,Feb. 1988-; PubMed: v9n1,Feb. 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Imaging*; Tomography, X-Ray Computed*; Ultrasonography*
+Publication Type(s): Periodical
+Notes: Issues for Feb. 1992- have title: Seminars in ultrasound, CT, and MRI. Title from
+cover. Vols. for 1992- have title: Seminars in ultrasound, CT, and MRI. Publisher
+varies, 1989- : W.B. Saunders. Also issued online.
+Other ID: (OCoLC)10871915(DNLM)SR0052499(s)
+NLM ID: 8504689[Serial]
+
+94. Author(s): Radiation Medicine Association (Japan); Nihon Igaku Hōshasen Gakkai.
+Title Abbreviation: Radiat Med
+Title(s): Radiation medicine.
+Publication Start Year: 1983
+Publication End Year: 2008
+Frequency: Ten no. a year, 2006-2008
+Country of Publication: Japan
+Publisher: Tokyo, Japan : Radiation Medicine Association, [c1983]-
+Latest Publisher: Tokyo : Springer Tokyo
+Description: v. : ill.
+Language: English
+ISSN: 0288-2043(Print); 1862-5274(Electronic); 0288-2043(Linking)
+Coden: RAMEER
+LCCN: sn 85019297
+Electronic Links: https://link.springer.com/journal/11604
+Fully Indexed In: MEDLINE: v1n1, 1983-v26n10, 2008; PubMed: v1n1, 1983-v26n10, 2008; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neoplasms/radiotherapy*; Radionuclide Imaging*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online. Vols. for <Apr. 2006-> are 
+the official publication of the Japan Radiological Society.
+Other ID: (DNLM)R00550000(s)(OCoLC)10585646
+NLM ID: 8412264[Serial]
+
+95. Author(s): Institute of Electrical and Electronics Engineers.; IEEE Acoustics, Speech, and
+Signal Processing Society.
+Title Abbreviation: IEEE Trans Med Imaging
+Title(s): IEEE transactions on medical imaging.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Monthly, 1999-
+Country of Publication: United States
+Publisher: New York, NY : Institute of Electrical and Electronics Engineers, c1982-
+Description: v. : ill.
+Language: English, English
+ISSN: 0278-0062(Print); 1558-254X(Electronic); 0278-0062(Linking)
+Coden: ITMID4
+Electronic Links: http://ieeexplore.ieee.org/servlet/opac?punumber=42
+Fully Indexed In: MEDLINE: v16n1,Feb. 1997-; PubMed: v16n1,Feb. 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Electronics, Medical*; Radiography*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Sponsored by the IEEE Acoustics, Speech,
+and Signal Processing Society ... [et al.].
+Other ID: (OCoLC)07677152(DNLM)I03785000(s)
+NLM ID: 8310780[Serial]
+
+96. Author(s): American Institute of Ultrasound in Medicine.
+Title Abbreviation: J Ultrasound Med
+Title(s): Journal of ultrasound in medicine : official journal of the American Institute of
+Ultrasound in Medicine.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [Philadelphia, Pa.] : W.B. Saunders, c1982-
+Latest Publisher: 2017- : Oxford, UK : John Wiley and Sons
+Description: v. : ill.
+Language: English, English
+ISSN: 0278-4297(Print); 1550-9613(Electronic); 0278-4297(Linking)
+Coden: JUMEDA
+LCCN: sc 82004500, sn 81002074
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1550-9613
+Fully Indexed In: MEDLINE: v1n1, 1982-; Index medicus
+In: PubMed: v1n1, 1982-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonics*
+Publication Type(s): Periodical
+Notes: Title from cover. Some issues have supplements. Some supplements are publications
+of the Institute's meetings and conventions. Also issued online.
+Other ID: (DNLM)J40970000(s)(OCoLC)07828058
+NLM ID: 8211547[Serial]
+
+97. Title Abbreviation: Magn Reson Imaging
+Title(s): Magnetic resonance imaging.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Ten no. a year
+Country of Publication: Netherlands
+Publisher: New York : Pergamon, c1982-
+Latest Publisher: <2008->: Amsterdam : Elsevier
+Description: v. : ill.
+Language: English, English
+ISSN: 0730-725X(Print); 1873-5894(Electronic); 0730-725X(Linking)
+Coden: MRIMDQ
+LCCN: 82645444, sn 82000124
+Electronic Links: https://www.sciencedirect.com/journal/magnetic-resonance-imaging
+Fully Indexed In: MEDLINE: v1n1, 1982-; PubMed: v1n1, 1982-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Magnetic Resonance Spectroscopy*; Nuclear Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)M01133000(s)(OCoLC)08047251
+NLM ID: 8214883[Serial]
+
+98. Author(s): Chemical Rubber Company.
+Title Abbreviation: Crit Rev Diagn Imaging
+Title(s): Critical reviews in diagnostic imaging.
+Publication Start Year: 1980
+Publication End Year: 2001
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Boca Raton, Fla. : CRC Press, c1980-
+Description: v. : ill.
+Language: English
+ISSN: 1040-8371(Print); 1040-8371(Linking)
+Coden: CRDIDF
+LCCN: 85642867
+Fully Indexed In: MEDLINE: v13n1, 1980-v42n6, 2001; PubMed: v13n1, 1980-v42n6, 2001; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnostic Imaging*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0066252(s)(OCoLC)12330600
+NLM ID: 8914817[Serial]
+
+99. Author(s): Information Processing in Medical Imaging Conference.; International Conference
+on Information Processing in Medical Imaging.
+Title Abbreviation: Inf Process Med Imaging
+Title(s): Information processing in medical imaging : proceedings of the ... conference.
+Publication Start Year: 198u
+Publication End Year: 
+Frequency: Biennial
+Country of Publication: Germany
+Publisher: Boston : M. Nijhoff,
+Latest Publisher: Berlin : Springer Verlag
+Description: v. : ill.
+Language: English
+ISSN: 1011-2499(Print); 1011-2499(Linking)
+Fully Indexed In: MEDLINE: v18, July 2003-v10265, June 2017; PubMed: v18, July 2003-v10265, June 2017; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Diagnosis, Computer-Assisted*; Diagnostic Imaging*; Image Processing, Computer-Assisted*
+Publication Type(s): Congress
+Notes: Biennial. Subtitle varies. Vols. for 1989? - issued as Progress in clinical and
+biological research; for 1991?- issued as Lecture notes in computer science.
+Published: New York : Wiley-Liss, 1989?- ; Berlin ; New York : Springer-Verlag,
+1991?- . Description based on: 8th (29 Aug.-2 Sept. 1983). Vols. for 1983?- are
+the proceedings of the Information Processing in Medical Imaging Conference; for 
+1989?- are the proceedings of the International Conference on Information
+Processing in Medical Imaging.
+Other ID: (DNLM)SR0074017(s)(OCoLC)24368745
+NLM ID: 9216871[Serial]
+
+100. Author(s): Sociedad Latinoamericana de Microscopía Electrónica.; Sociedad Iberoamericana
+de Biología Celular.
+Title Abbreviation: Microsc Electron Biol Celular
+Title(s): Microscopía electrónica y biología celular : organo oficial de las Sociedades 
+Latinoamericana de Microscopía Electrónica e Iberoamericana de Biología
+Celular.
+Publication Start Year: 1980
+Publication End Year: 1993
+Frequency: Semiannual
+Country of Publication: Argentina
+Publisher: Mendoza, Argentina : Las Sociedades,
+Latest Publisher: Mendoza : Sociedades Latinoamericana De Microscopia Electronica
+Description: v. : ill.
+Language: English, Spanish
+ISSN: 0326-3142(Print); 0326-3142(Linking)
+Coden: MEBCE7
+Selectively Indexed in: MEDLINEv9n1, 1985-1993PubMedv9n1, 1985-1993Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Cells*; Microscopy, Electron*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 8, no. 1 (marzo-jun. 1984). Articles chiefly in
+English with some in Spanish; summaries in both languages.
+Other ID: (DNLM)SR0055895(s)(OCoLC)13780642
+NLM ID: 8612496[Serial]
+
+101. Author(s): Österreichische Gesellschaft für Ultraschall in der Medizin.; Schweizerische
+Gesellschaft für Ultraschall in Medizin und Biologie.; Deutsche Gesellschaft
+für Ultraschall in der Medizin.; European Federation of Societies for Ultrasound
+in Medicine and Biology.
+Title Abbreviation: Ultraschall Med
+Title(s): Ultraschall in der Medizin : Organ der Deutschen Gesellschaft für Ultraschall in
+der Medizin, [der] Österreichischen Gesellschaft für Ultraschall in der
+Medizin, [der] Schweizerischen Gesellschaft für Ultraschall in Medizin und
+Biologie.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : G. Thieme Verlag, [c1980-
+Description: v. : ill.
+Language: German, English
+ISSN: 0172-4614(Print); 1438-8782(Electronic); 0172-4614(Linking)
+Coden: ULMEDY
+LCCN: sc 83002528, sn 83008720
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000089
+Fully Indexed In: MEDLINE: v3n1, 1982-; PubMed: v3n1, 1982-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonics*
+Publication Type(s): Periodical
+Notes: Issues for Feb. 2004- have also English title: European journal of ultrasound.
+Title from cover. Latest issue consulted: surrogate of 25. Jahrg., 1 (Feb. 2004).
+Also issued online. Articles in German ; summaries and table of contents in
+English and German; articles; text in English or German with summaries in both
+languages, <Feb. 2004-> Issues for Feb. 2004- are also the official journal of
+the European Federation of Societies for Ultrasound in Medicine and Biology
+(EFSUMB). Sister journal: Ultrasound international open 2199-7152 (DLC)
+2016247764 (OCoLC)939609422 (DNLM)101674542.
+Other ID: (DNLM)U01465000(s)(OCoLC)09718856
+NLM ID: 8303585[Serial]
+
+102. Title Abbreviation: Clin Diagn Ultrasound
+Title(s): Clinics in diagnostic ultrasound.
+Publication Start Year: 1979
+Publication End Year: 1995
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York, Churchill Livingstone.
+Latest Publisher: New York Ny : Churchill Livingstone
+Description: v. ill.
+Language: English
+ISSN: 0193-743X(Print); 0193-743X(Linking)
+Coden: CDULDB
+Fully Indexed In: MEDLINE: v23, 1988-v30, 1995; PubMed: v23, 1988-v30, 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Ultrasonics*
+Publication Type(s): Periodical
+Other ID: (DNLM)C27390000(s)(OCoLC)05162352
+NLM ID: 7904770[Serial]
+
+103. Title Abbreviation: Diagn Imaging (San Franc)
+Title(s): Diagnostic imaging.
+Publication Start Year: 1979
+Publication End Year: 2011
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [San Francisco, Miller Freeman]
+Description: v. ill.
+Language: English
+ISSN: 0194-2514(Print); 0194-2514(Linking)
+LCCN: sn 79008538
+Selectively Indexed in: MEDLINEv12n2,Feb. 1990-v22n12, Dec. 2000PubMedv12n2,Feb. 1990-v22n12, Dec. 2000
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Nuclear Medicine*; Radiography*; Radiology*; Technology, Radiologic*; Ultrasonics*
+Publication Type(s): Periodical
+Other ID: (OCoLC)05365753(DNLM)D09575000(s)
+NLM ID: 8007815[Serial]
+
+104. Title Abbreviation: Ultrason Imaging
+Title(s): Ultrasonic imaging.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: New York, Academic Press.
+Latest Publisher: Oct. 2012- : London : Sage
+Description: v. ill.
+Language: English
+ISSN: 0161-7346(Print); 1096-0910(Electronic); 0161-7346(Linking)
+Coden: ULIMD4
+LCCN: 79643461  $z sn 79007149
+Electronic Links: https://journals.sagepub.com/home/uix
+Fully Indexed In: MEDLINE: v1n1, Jan. 1979-; Index medicus
+In: PubMed: v1n1, Jan. 1979-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonography*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)U01470000(s)(OCoLC)04015539
+NLM ID: 7909167[Serial]
+
+105. Title Abbreviation: J Comput Tomogr
+Title(s): The Journal of computed tomography.
+Publication Start Year: 1978
+Publication End Year: 1988
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Baltimore : University park Press, [1978-c1988]
+Latest Publisher: New York Ny : Elsevier Science Publishing
+Description: 11v. : ill.
+Language: English
+ISSN: 0149-936X(Print); 0149-936X(Linking)
+Coden: CJCTDL
+Fully Indexed In: MEDLINE: v2, 1978-v12n4,Oct. 1988; PubMed: v2, 1978-v12n4,Oct. 1988; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Tomography, X-Ray Computed*
+Publication Type(s): Periodical
+Notes: Imprint varies.
+Other ID: (OCoLC)03590514(DNLM)J17617000(s)
+NLM ID: 7805373[Serial]
+
+106. Author(s): Deutsche Röntgengesellschaft.; Österreichische Röntgengesellschaft.
+Title Abbreviation: Rofo
+Title(s): RöFo : Fortschritte auf dem Gebiete der Röntgenstrahlen und der Nuklearmedizin.
+Publication Start Year: 1975
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Stuttgart : Thieme
+Description: v. : ill., ports.
+Language: German, English
+ISSN: 1438-9029(Print); 1438-9010(Electronic); 1438-9010(Linking)
+Coden: RFGNDO
+LCCN: sn 78006293, sn 91033489
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000066
+Fully Indexed In: MEDLINE: v122,Jan. 1975-; PubMed: v122,Jan. 1975-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging*; Radiography*
+Publication Type(s): Periodical
+Notes: Issues for Juli 1989-1996 have subtitle: Fortschritte auf dem Gebiete der
+Röntgenstrahlen und der neuen bildgebenden Verfahren. Issues for 1997- have
+subtitle: Fortschritte auf dem Gebiete der Röntgenstrahlen und der bildgebenden
+Verfahren. Also issued online. Table of contents and summaries also in English.
+Organ of the Deutsche Röntgengesellschaft; issues for Juli 1989- also an organ of
+Österreichische Röntgengesellschaft.
+Other ID: (DNLM)R53720000(s)(OCoLC)01397929
+NLM ID: 7507497[Serial]
+
+107. Title Abbreviation: Ultramicroscopy
+Title(s): Ultramicroscopy.
+Publication Start Year: 1975
+Publication End Year: 
+Frequency: 16 no. a year, 2000-
+Country of Publication: Netherlands
+Publisher: Amsterdam, North-Holland.
+Latest Publisher: Amsterdam : Elsevier
+Description: v. illus.
+Language: English, English
+ISSN: 0304-3991(Print); 1879-2723(Electronic); 0304-3991(Linking)
+Coden: ULTRD6
+Electronic Links: https://www.sciencedirect.com/journal/ultramicroscopy
+In: PubMed: v1n1,Jan. 1975-; 
+Selectively Indexed in: MEDLINEv1n1,Jan. 1975-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microscopy*; Microscopy, Electron*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)U01440000(s)(OCoLC)02246092
+NLM ID: 7513702[Serial]
+
+108. Author(s): American Institute of Ultrasound in Medicine.
+Title Abbreviation: J Clin Ultrasound
+Title(s): Journal of clinical ultrasound : JCU.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Monthly, except bimonthly in Mar./Apr., July/Aug., Nov./Dec., <2005->
+Country of Publication: United States
+Publisher: Denver, Colo. : Norman House, c1973-
+Latest Publisher: <2005-> : Hoboken, N.J. : Wiley Subscription Services, Inc.
+Description: v. ill.
+Language: English
+ISSN: 0091-2751(Print); 1097-0096(Electronic); 0091-2751(Linking)
+Coden: JCULDD
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0096
+Fully Indexed In: MEDLINE: v1n2,Jun. 1973-; Index medicus
+In: PubMed: v1n2,Jun. 1973-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonography*
+Publication Type(s): Periodical
+Notes: Also issued online. Aug. 1976- : Official journal of the American Institute of
+Ultrasound in Medicine.
+Other ID: (OCoLC)01786752(DNLM)J07080000(s)
+NLM ID: 0401663[Serial]
+
+109. Author(s): World Federation for Ultrasound in Medicine and Biology.
+Title Abbreviation: Ultrasound Med Biol
+Title(s): Ultrasound in medicine & biology.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Twelve no. a year, 2001-
+Country of Publication: England
+Publisher: Oxford, New York, Pergamon Press.
+Description: v. illus.
+Language: English
+ISSN: 0301-5629(Print); 1879-291X(Electronic); 0301-5629(Linking)
+Coden: USMBA3
+LCCN: 73647303
+Electronic Links: https://www.sciencedirect.com/journal/ultrasound-in-medicine-and-biology
+Fully Indexed In: MEDLINE: v1n2,Mar. 1974-; PubMed: v1n2,Mar. 1974-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonics*
+Publication Type(s): Periodical
+Notes: Supplements accompany some vols. Also issued online. Official journal of the
+World Federation for Ultrasound in Medicine and Biology.
+Other ID: (OCoLC)01789455(DNLM)U01560000(s)
+NLM ID: 0410553[Serial]
+
+110. Title Abbreviation: Microsc Acta
+Title(s): Microscopica acta.
+Publication Start Year: 1971
+Publication End Year: 1983
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Stuttgart, Hirzel.
+Latest Publisher: Stuttgart : S Hirzel Verlag
+Description: 12 v. ill.
+Language: German, English
+ISSN: 0044-376X(Print); 0044-376X(Linking)
+Coden: MSACCU
+Selectively Indexed in: MEDLINEv7n1,Sept. 1971-v82,May 1983PubMedv7n1,Sept. 1971-v82,May 1983Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy*
+Publication Type(s): Periodical
+Notes: Articles in German or English; summaries in both languages.
+Other ID: (DNLM)M34760000(s)(OCoLC)01788199
+NLM ID: 1306037[Serial]
+
+111. Title Abbreviation: Endoscopy
+Title(s): Endoscopy.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Twelve no. a year, 2000-
+Country of Publication: Germany
+Publisher: Stuttgart, Thieme.
+Latest Publisher: Stuttgart : Georg Thieme Verlag
+Description: v. illus.
+Language: English
+ISSN: 0013-726X(Print); 1438-8812(Electronic); 0013-726X(Linking)
+Coden: ENDCAM
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000012
+Fully Indexed In: MEDLINE: v8n1,Feb. 1976-; PubMed: v8n1,Feb. 1976-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Endoscopy*
+Publication Type(s): Periodical
+Notes: Also issued online. Text in English or German with summaries in English.
+Other ID: (DNLM)E07440000(s)(OCoLC)01604468
+NLM ID: 0215166[Serial]
+
+112. Author(s): Royal Microscopical Society (Great Britain); International Society for
+Stereology.
+Title Abbreviation: J Microsc
+Title(s): Journal of microscopy.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: 12 no. a year, 1981-
+Country of Publication: England
+Publisher: Oxford, Published for the Royal Microscopical Society by Blackwell Scientific
+Publications.
+Description: v. illus.
+Language: English
+ISSN: 0022-2720(Print); 1365-2818(Electronic); 0022-2720(Linking)
+Coden: JMICAR
+LCCN: 75613422, sn 79006367
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2818
+Selectively Indexed in: MEDLINEv89n1, 1969-PubMedv89n1, 1969-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microscopy*
+Publication Type(s): Periodical
+Notes: Also issued online. Official journal of the International Society for Stereology.
+Issued by the Royal Microscopical Society.
+Other ID: (DNLM)J30040000(s)(OCoLC)01644311
+NLM ID: 0204522[Serial]
+
+113. Author(s): Università di Bologna. Centro di microscopia elettronica.
+Title Abbreviation: J Submicrosc Cytol
+Title(s): Journal of submicroscopic cytology.
+Publication Start Year: 1969
+Publication End Year: 1987
+Frequency: Four no. a year
+Country of Publication: Italy
+Publisher: Bologna, Centro di microscopia elettronica, Università di Bologna.
+Description: 19 v. illus.
+Language: English
+ISSN: 0022-4782(Print); 0022-4782(Linking)
+Coden: JSMCBM
+Selectively Indexed in: MEDLINEv13n2,Apr. 1981-v19n4,Oct. 1987PubMedv13n2,Apr. 1981-v19n4,Oct. 1987Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Microscopy, Electron*
+Publication Type(s): Periodical
+Notes: Summaries also in Italian.
+Other ID: (DNLM)J39740000(s)(OCoLC)39940241
+NLM ID: 0235232[Serial]
+
+114. Author(s): IIT Research Institute. Metals Research Division.; Scanning Electron Microscope
+Symposium
+Title Abbreviation: Scan Electron Microsc
+Title(s): Scanning electron microscopy.
+Publication Start Year: 1968
+Publication End Year: 1986
+Frequency: Quarterly, 1980-1986
+Country of Publication: United States
+Publisher: Chicago Il : Scanning Electron Microscopy
+Description: 18 v. ill.
+Language: English
+ISSN: 0586-5581(Print); 0586-5581(Linking)
+Coden: SEMYBL
+Selectively Indexed in: MEDLINE1979-1986PubMed1979-1986Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy, Electron, Scanning*
+Publication Type(s): Congress
+Notes: Vols. for 1968-77 consist of proceedings of the 1st-10th annual Scanning Electron
+Microscope Symposium (and other meetings, 1971- ). Vols. for 1973- accompanied by
+Advertiser's brochure & exhibition information. Issued in parts, 1976-1986.
+Sponsored by the Metals Research Division of IIT Research Institute, 1968-77.
+Other ID: (OCoLC)04072770(DNLM)S08120000(s)
+NLM ID: 0371617[Serial]
+
+115. Author(s): American Society for Gastrointestinal Endoscopy.
+Title Abbreviation: Gastrointest Endosc
+Title(s): Gastrointestinal endoscopy.
+Publication Start Year: 1965
+Publication End Year: 
+Frequency: Thirteen no. a year, 2001-
+Country of Publication: United States
+Publisher: Denver.
+Latest Publisher: St Louis, Mo : Mosby Yearbook
+Description: v. illus., ports.
+Language: English
+ISSN: 0016-5107(Print); 1097-6779(Electronic); 0016-5107(Linking)
+Coden: GAENBQ
+LCCN: 81642269, sc 78001363
+Electronic Links: https://www.sciencedirect.com/journal/gastrointestinal-endoscopy
+Fully Indexed In: MEDLINE: v12n2,Nov. 1965-; PubMed: v12n2,Nov. 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Endoscopy*; Gastroenterology*
+Publication Type(s): Periodical
+Notes: Issues for 1992- include separately numbered section called Perspectives in
+endoscopy. Also issued online. Official publication of the American Society for
+Gastrointestinal Endoscopy.
+Other ID: (DNLM)G01960000(s)(OCoLC)01570459
+NLM ID: 0010505[Serial]
+
+116. Title Abbreviation: Rontgenpraxis
+Title(s): Röntgenpraxis; Zeitschrift für radiologische Technik.
+Publication Start Year: 1963
+Publication End Year: 2008
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Stuttgart : S. Hirzel.
+Latest Publisher: <2005>-2008 : Jena, Germany : Elsevier
+Description: v. illus.
+Language: German
+ISSN: 0035-7820(Print); 1618-0976(Electronic); 0035-7820(Linking)
+Coden: RGPXAZ
+Electronic Links: http://www.sciencedirect.com/science/journal/00357820
+Fully Indexed In: MEDLINE: v18n7, Jul. 1965-v56n5, 2008; Index medicus
+In: PubMed: v18n7, Jul. 1965-v56n5, 2008, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiography*
+Publication Type(s): Periodical
+Notes: Subtitle varies: Radiologische diagnostik und technik, 1981- Also issued online.
+Other ID: (OCoLC)01778176(DNLM)R54228000(s)
+NLM ID: 0404365[Serial]
+
+117. Title Abbreviation: Ultrasonics
+Title(s): Ultrasonics.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Eight no. a year, 2006-
+Country of Publication: Netherlands
+Publisher: London. Butterworth Scientific Ltd.,
+Latest Publisher: 1995- : Amsterdam : Elsevier Science
+Description: v. ill.
+Language: English
+ISSN: 0041-624X(Print); 1874-9968(Electronic); 0041-624X(Linking)
+Coden: ULTRA3
+LCCN: sf 80000765, sn 79019129
+Electronic Links: https://www.sciencedirect.com/journal/ultrasonics
+In: PubMed: v4n1, Jan. 1966-; 
+Selectively Indexed in: MEDLINEv4n1, Jan. 1966-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ultrasonics*
+Publication Type(s): Periodical
+Notes: Supplements accompany some issues. Also issued online.
+Other ID: (DNLM)U01480000(s)(OCoLC)01607881
+NLM ID: 0050452[Serial]
+
+118. Title Abbreviation: J Ultrastruct Res
+Title(s): Journal of ultrastructure research.
+Publication Start Year: 1957
+Publication End Year: 1985
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York.
+Latest Publisher: New York Ny : Academic Press
+Description: 93 v. illus.
+Language: English
+ISSN: 0022-5320(Print); 0022-5320(Linking)
+Coden: JULRA7
+Electronic Links: http://www.sciencedirect.com/science/journal/00225320
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv12n5,Jun. 1965-1985PubMedv12n5,Jun. 1965-1985Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Microscopy*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English and French.
+Other ID: (DNLM)J41000000(s)(OCoLC)01680952
+NLM ID: 0376344[Serial]
+
+119. Author(s): Hospital Physicists' Association.
+Title Abbreviation: Phys Med Biol
+Title(s): Physics in medicine and biology.
+Publication Start Year: 1956
+Publication End Year: 
+Frequency: Semimonthly, 2002-
+Country of Publication: England
+Publisher: Bristol : IOP Publishing
+Description: v. illus.
+Language: English
+ISSN: 0031-9155(Print); 1361-6560(Electronic); 0031-9155(Linking)
+Coden: PHMBA7
+Electronic Links: http://iopscience.iop.org/journal/0031-9155
+Fully Indexed In: MEDLINE: v11n1,Jan. 1966-; PubMed: v11n1,Jan. 1966-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*; Physics*
+Publication Type(s): AbstractsPeriodical
+Notes: Journal of the Hospital Physicists' Association. Print issues ceased with v. 62
+(2017). Also issued online.
+Other ID: (DNLM)P14820000(s)(OCoLC)01762343
+NLM ID: 0401220[Serial]
+
+120. Author(s): Denshi Kenbikyō Gakkai (Japan); Nihon Denshi Kenbikyō Gakkai.
+Title Abbreviation: J Electron Microsc (Tokyo)
+Title(s): Journal of electron microscopy.
+Publication Start Year: 1953
+Publication End Year: 2012
+Frequency: Bimonthly, <1992>-2012
+Country of Publication: Japan
+Publisher: Tokyo : Japanese Society of Electron Microscopy : Oxford University Press
+Description: v. ill.
+Language: English, English
+ISSN: 0022-0744(Print); 1477-9986(Electronic); 0022-0744(Linking)
+Coden: JELJA7
+Electronic Links: https://academic.oup.com/jmicro
+Selectively Indexed in: MEDLINEv13n3, 1964-v61n6, Dec. 2012PubMedv13n3, 1964-v61n6, Dec. 2012Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy, Electron*
+Publication Type(s): Periodical
+Notes: Added title in Japanese: Denshi Kenbikyo Gakkai shi; kikan. Also issued online.
+Articles in English or Japanese, 1960-73; in English with summaries in English,
+1974- Issued 1953-63 by the Society of Electron-Microscopy; 1964- by the Japanese
+Society of Electron Microscopy.
+Other ID: (DNLM)J19760000(s)(OCoLC)04578751
+NLM ID: 7611157[Serial]
+
+121. Title Abbreviation: Mikroskopie
+Title(s): Mikroskopie.
+Publication Start Year: 1946
+Publication End Year: 1985
+Frequency: Monthly
+Country of Publication: Austria
+Publisher: Wien, Hammer.
+Latest Publisher: Vienna : Verlag Georg Fromme
+Description: v. illus.
+Language: German
+ISSN: 0026-3702(Print); 0026-3702(Linking)
+Coden: MIKSAM
+Fully Indexed In: MEDLINE: v20n1,Aug. 1965-v40n11-12, 1983; PubMed: v20n1,Aug. 1965-v40n11-12, 1983; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy*
+Publication Type(s): Periodical
+Notes: Articles in German, French, Italian, or English, with summaries in one or more of
+these languages.
+Other ID: (DNLM)M35860000(s)(OCoLC)39942903
+NLM ID: 0376654[Serial]
+
+122. Title Abbreviation: Z Mikrosk Anat Forsch
+Title(s): Zeitschrift für mikroskopisch-anatomische Forschung.
+Publication Start Year: 1924
+Publication End Year: 1990
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Leipzig : Akademische Verlagsgesellschaft Geest And Portig Kg
+Description: 104 v. illus.
+Language: German
+ISSN: 0044-3107(Print); 0044-3107(Linking)
+Coden: ZMAFA2
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv72n2, 1965-v104, 1990PubMedv72n2, 1965-v104, 1990Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Microscopy*
+Publication Type(s): Periodical
+Notes: At head of title, Bd. 3- Jahrbuch für Morphologie und mikroskopische Anatomie,
+2. Abt. Monographic supplements accompany some volumes. Some articles in English,
+French, or Italian, with some summaries in these languages.
+Other ID: (OCoLC)01770496(DNLM)Z04540000(s)
+NLM ID: 0413637[Serial]
+
+123. Author(s): American Microscopical Society.
+Title Abbreviation: Trans Am Microsc Soc
+Title(s): Transactions of the American Microscopical Society.
+Publication Start Year: 1895
+Publication End Year: 1994
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Lawrence, Kansas [etc.]
+Latest Publisher: Lawrence Ks : American Microscopical Society
+Description: 97 v. illus.,ports.
+Language: English
+ISSN: 0003-0023(Print); 0003-0023(Linking)
+Coden: TAMSAJ
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv84n4,Oct. 1965-v102n1, 1983PubMedv84n4,Oct. 1965-v102n1, 1983Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy*
+Publication Type(s): Periodical
+Notes: Supplements accompany some numbers. Indexes: Vols. 1-25, 1878/79-1903, with v.
+25. Indexes: Vols. 1-80, 1878/79-1961. 1 v. (includes index to former title)
+Other ID: (DNLM)T15360000(s)(OCoLC)01480424
+NLM ID: 7506104[Serial]
+
+124. Author(s): Deutsche Gesellschaft für Elektronenmikroskopie.
+Title Abbreviation: Z Wiss Mikrosk
+Title(s): Zeitschrift für wissenschaftliche Mikroskopie und mikroskopische Technik.
+Publication Start Year: 1884
+Publication End Year: 1971
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Stuttgart, Hirzel.
+Latest Publisher: Leipzig : S Hirzel Verlag
+Description: 70 v. illus., ports.
+Language: German
+ISSN: 0373-031X(Print); 0373-031X(Linking)
+Coden: ZWMIA5
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv67n2,Jan. 1966-v70n4,Jul 1971PubMedv67n2,Jan. 1966-v70n4,Jul 1971Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy*
+Publication Type(s): Periodical
+Notes: Publication suspended 1945-Jan. 1951. Microfilm. v.1 (1884)-v.64 (1960), Index
+v.1-30 (1884-1913),Register 1-3 (1884-1913). 39 microfilm reels : negative ; 35
+mm. Some articles in French or English. Organ of the Deutsche Gesellschaft für
+Elektronenmikroskopie, Feb. 1951-Dec. 1961. Indexes: Vols. 1-10, 1884-93. 1 v;
+Vols. 11-20, 1894-1903. 1 v; Vols. 21-30, 1904-13. 1 v.
+Other ID: (DNLM)Z06240000(s)(OCoLC)01770563
+NLM ID: 1306536[Serial]
+
+125. Author(s): Royal Microscopical Society (Great Britain).
+Title Abbreviation: J R Microsc Soc
+Title(s): Journal.
+Publication Start Year: 1878
+Publication End Year: 1968
+Frequency: Irregular
+Country of Publication: England
+Publisher: London.
+Latest Publisher: London : Royal Microscopical Society
+Description: 88 v. in illus.
+Language: English
+ISSN: 0368-3974(Print); 0368-3974(Linking)
+Coden: JRMSAS
+Electronic Links: https://onlinelibrary.wiley.com/journal/13652818
+Fully Indexed In: MEDLINE: v86n1,Oct. 1966-v88, 1968; Index medicus
+In: PubMed: v86n1,Oct. 1966-v88, 1968, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy*
+Publication Type(s): Periodical
+Notes: Title varies slightly. Includes the society's transactions and proceedings.
+Volumes for Mar. 1878-Dec. 1880 numbered v. 1-3; Feb. 1881-Dec. 1886, ser. 2, v. 
+1-6; issues for Feb. 1887-Dec. 1925 have no vol. numbering, but with Mar. 1926
+numbering resumed. Issues for Mar.-Dec. 1926 called ser. 2; Mar. 1927- ser. 3.
+Also issued online Microfilm. v. 1 (1878)-3 (1880), ser. 2: v. 1 (1881)-6 (1886),
+(1887)-(1888)-(1900). 23 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)J37540000(s)(OCoLC)01606258
+NLM ID: 0204543[Serial]
+
+126. Author(s): Royal Microscopical Society., Transactions.
+Title Abbreviation: Q J Microsc Sci
+Title(s): The Quarterly journal of microscopical science.
+Publication Start Year: 1853
+Publication End Year: 1965
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : Microscopical Society of London
+Description: 114 v. illus.
+Language: English
+ISSN: 0370-2952(Print); 0370-2952(Linking)
+Coden: QJMSAF
+Electronic Links: http://jcs.biologists.org/
+Fully Indexed In: MEDLINE: new ser.,v106n2,Jun. 1965-v106,Dec. 1965; PubMed: new ser.,v106n2,Jun. 1965-v106,Dec. 1965; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microscopy*
+Publication Type(s): Periodical
+Notes: Part of title on microfilm. Includes the Transactions of the Microscopical
+Society of London. Index to the Quarterly journal of microscopical science,
+1853-1888, to the Transactions of the Microscopical Society, 1844-1868, and to
+the Proceedings of the Dublin Microscopical Club, 1865-1880. 1 v. New ser., v.
+62-87, 1916-46, with v. 88. Issues for Mar. 1947-Dec. 1965 called also 3d ser.,
+no. 1-76. Also issued online. Microfilm. v. 1 (1853)-8 (1860); new ser.: v. 1
+(1861)-22 (1888), new ser.: v. 25 (1885)-29 (1889), new ser.: v. 31 (1890)-52
+(1908), new ser.: v. 54 (1909)-57 (1912), new ser.: v. 59 (1913)-65 (1921) +
+Index v. 1 (1853)-new ser.: v. 61 (1916) + Transactions new ser.: v. 1 (1853)-16 
+(1868) + Proceedings (1865)-(1880). 47 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)Q01740000(s)(OCoLC)01763236
+NLM ID: 0061353[Serial]
+

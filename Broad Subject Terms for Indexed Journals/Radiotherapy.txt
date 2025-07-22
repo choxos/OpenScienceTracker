@@ -1,0 +1,796 @@
+1. Author(s): American Society for Radiation Oncology.
+Title Abbreviation: Pract Radiat Oncol
+Title(s): Practical radiation oncology.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Bimonthly, 2014-
+Country of Publication: United States
+Publisher: New York : Elsevier
+Language: English
+ISSN: 1879-8500(Print); 1879-8519(Electronic); 1879-8500(Linking)
+LCCN: 2012243217
+Electronic Links: http://www.sciencedirect.com/science/journal/18798500
+Fully Indexed In: MEDLINE: v4n1, Jan-Feb 2014-
+In: PubMed: v4n1, Jan-Feb 2014- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neoplasms/radiotherapy; Radiation Oncology*
+Publication Type(s): Periodical
+Notes: Also issued online. Complemented by (work): Advances in radiation oncology
+2452-1094 (OCoLC)947095253 (DNLM)101677247. Complemented by (work): International
+journal of radiation oncology, biology, physics 0360-3016 (OCoLC)01865944
+(DNLM)7603616.
+Other ID: (OCoLC)776806773
+NLM ID: 101558279[Serial]
+
+2. Author(s): Nihon Igaku Hōshasen Gakkai.
+Title Abbreviation: Jpn J Radiol
+Title(s): Japanese journal of radiology.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Ten no. a year
+Country of Publication: Japan
+Publisher: Tokyo : Springer
+Language: English
+ISSN: 1867-1071(Print); 1867-108X(Electronic); 1867-1071(Linking)
+LCCN: 2009243266
+Electronic Links: https://link.springer.com/journal/11604
+Fully Indexed In: MEDLINE: v27n1, 2009-
+In: PubMed: v27n1, 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiology*; Radionuclide Imaging; Radiotherapy
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 27, no. 1 (2009); title from cover. Latest issue
+consulted: Vol. 27, no. 1 (2009). Also issued online.
+Other ID: (OCoLC)319149120
+NLM ID: 101490689[Serial]
+
+3. Title Abbreviation: Curr Radiopharm
+Title(s): Current radiopharmaceuticals.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Three issues a year
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science Publishers, c2008-
+Language: English
+ISSN: 1874-4710(Print); 1874-4729(Electronic); 1874-4710(Linking)
+LCCN: 2009243070
+Electronic Links: http://www.eurekaselect.com/672/journal/current-radiopharmaceuticals
+Fully Indexed In: MEDLINE: v4n1, Jan. 2011-
+In: PubMed: v4n1, Jan. 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiopharmaceuticals*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 (Jan. 2008); title from cover. Latest issue
+consulted: Vol. 1, no. 3 (Sept. 2008). Also issued online.
+Other ID: (OCoLC)310091709
+NLM ID: 101468718[Serial]
+
+4. Title Abbreviation: Radiat Oncol
+Title(s): Radiation oncology.
+Publication Start Year: 2006
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central, 2006-
+Language: English
+ISSN: 1748-717X(Electronic); 1748-717X(Linking)
+LCCN: 2006243190
+Electronic Links: https://ro-journal.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101265111
+Fully Indexed In: MEDLINE: v1, 2006-
+In: PubMed: v1, 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiation Oncology*
+Publication Type(s): Periodical
+Notes: Title from PDF caption (publisher's Web site, viewed Mar. 17, 2006). Latest issue
+consulted: 1:3 (28 Feb. 2006) (viewed Mar. 17, 2006). Articles added
+consecutively to current annual v. Mode of access: Internet.
+Other ID: (OCoLC)65636901
+NLM ID: 101265111[Serial]
+
+5. Author(s): Associazione italiana di medicina nucleare.; International Association of
+Radiopharmacology.; International Society for Radiopharmaceutical Chemistry and
+Biology. Radiopharmacology Section.
+Title Abbreviation: Q J Nucl Med Mol Imaging
+Title(s): The quarterly journal of nuclear medicine and molecular imaging : official
+publication of the Italian Association of Nuclear Medicine (AIMN) [and] the
+International Association of Radiopharmacology (IAR), [and] Section of the
+Society of Radiopharmaceutical Chemistry and Biology.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Quarterly, 2013-
+Country of Publication: Italy
+Publisher: Torino, Italy : Minerva Medica, c2004-
+Description: v. : ill.
+Language: English
+ISSN: 1824-4785(Print); 1827-1936(Electronic); 1824-4785(Linking)
+LCCN: 2004243570
+Electronic Links: http://www.minervamedica.it/en/journals/nuclear-med-molecular-imaging/
+Fully Indexed In: MEDLINE: v48n1, Jan. 2004-; PubMed: v48n1, Jan. 2004-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Imaging; Molecular Biology; Nuclear Medicine*; Radiopharmaceuticals
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online by subscription.
+Other ID: (OCoLC)56189335
+NLM ID: 101213861[Serial]
+
+6. Author(s): American Brachytherapy Society.
+Title Abbreviation: Brachytherapy
+Title(s): Brachytherapy.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: New York, NY : Elsevier, 2002-
+Description: v. : ill. 28 cm.
+Language: English
+ISSN: 1538-4721(Print); 1873-1449(Electronic); 1538-4721(Linking)
+LCCN: 2002213436
+Electronic Links: http://www.sciencedirect.com/science/journal/15384721
+Fully Indexed In: MEDLINE: v1n1, 2002-; PubMed: v1n1, 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brachytherapy*; Neoplasms/radiotherapy
+Publication Type(s): Periodical
+Notes: Vol. 1, no. 1- Title from cover. "Official journal of the American Brachytherapy 
+Society." Also issued online.
+Other ID: (OCoLC)48845627
+NLM ID: 101137600[Serial]
+
+7. Author(s): International Commission on Radiation Units and Measurements.
+Title Abbreviation: J ICRU
+Title(s): Journal of the ICRU.
+Publication Start Year: 2001
+Publication End Year: 
+Country of Publication: England
+Publisher: Ashford, Kent, England : Nuclear Technology Pub.,
+Latest Publisher: <2019-> : [London] : SAGE Publications
+Description: v.
+Language: English
+ISSN: 1473-6691(Print); 1742-3422(Electronic); 1473-6691(Linking)
+LCCN: 2002243194
+Electronic Links: https://journals.sagepub.com/home/cru
+Fully Indexed In: MEDLINE: v12n1, 2013-v14n1, Apr. 2014
+In: PubMed: v12n1, 2013-v14n1, Apr. 2014; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiation Dosage; Radiation Effects; Radiometry*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 3 (2001); title from cover. Publication
+suspended from 2015-2018. Also issued online. Issued by the International
+Commission on Radiation Units and Measurements.
+Other ID: (OCoLC)49620112
+NLM ID: 101123500[Serial]
+
+8. Author(s): Société française de radiothérapie oncologique.
+Title Abbreviation: Cancer Radiother
+Title(s): Cancer radiothérapie : journal de la Société française de radiothérapie
+oncologique.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Eight no. a year, 2005-
+Country of Publication: France
+Publisher: Paris : Elsevier, c1997-
+Description: v. : ill.
+Language: French, English
+ISSN: 1278-3218(Print); 1769-6658(Electronic); 1278-3218(Linking)
+Coden: CARAFC
+Electronic Links: http://www.sciencedirect.com/science/journal/12783218
+Fully Indexed In: MEDLINE: v1n1, 1997-; Index medicus
+In: PubMed: v1n1, 1997-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neoplasms/radiotherapy
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Articles in French; summaries and table of 
+contents in English and French.
+Other ID: (DNLM)SR0089986(s)(OCoLC)37325615
+NLM ID: 9711272[Serial]
+
+9. Title Abbreviation: Cancer Biother Radiopharm
+Title(s): Cancer biotherapy & radiopharmaceuticals.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., c1996-
+Description: v. : ill., ports.
+Language: English
+ISSN: 1084-9785(Print); 1557-8852(Electronic); 1084-9785(Linking)
+Coden: CBRAFJ
+LCCN: sn 95005496
+Electronic Links: http://online.liebertpub.com/loi/cbr
+Fully Indexed In: MEDLINE: v15n1, Feb. 2000-; PubMed: v15n1, Feb. 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Products/therapeutic use*; Neoplasms/therapy*; Radioisotopes/therapeutic use*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0086392(s)(OCoLC)33232704
+NLM ID: 9605408[Serial]
+
+10. Author(s): Association of Radiology and Oncology.; Slovenian Medical Society. Section of
+Radiology.; Croatian Society of Radiology.
+Title Abbreviation: Radiol Oncol
+Title(s): Radiology and oncology.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Poland
+Publisher: Ljubljana : Slovenian Medical Society, Section of Radiology [and] Croatian
+Medical Association, Croatian Society of Radiology, [1992-
+Latest Publisher: [Warsaw, Poland] : Sciendo
+Description: v. : ill.
+Language: English
+ISSN: 1318-2099(Print); 1581-3207(Electronic); 1318-2099(Linking)
+Coden: RONCEM
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9317213, https://content.sciendo.com/view/journals/raon/raon-overview.xml
+Fully Indexed In: MEDLINE: v52n1, Mar. 2018-
+In: PubMed: v44, 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neoplasms*; Radiography*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0077361(s)(OCoLC)29368941
+NLM ID: 9317213[Serial]
+
+11. Title Abbreviation: Sonderb Z Strahlenther Onkol
+Title(s): Sonderband ... der Zeitschrift Strahlentherapie und Onkologie.
+Publication Start Year: 1992
+Publication End Year: 1998
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: München : Urban & Vogel, c1992-
+Description: v. : ill.
+Language: German
+Fully Indexed In: MEDLINE: n83, 1992-n83, 1992-n84, 1994; PubMed: n83, 1992-n83, 1992-n84, 1994; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neoplasms/radiotherapy*
+Publication Type(s): Periodical
+Notes: Title from verso of analytical t.p.
+Other ID: (DNLM)SR0077680(s)(OCoLC)28968173
+NLM ID: 9312251[Serial]
+
+12. Author(s): American Association of Medical Dosimetrists.
+Title Abbreviation: Med Dosim
+Title(s): Medical dosimetry : official journal of the American Association of Medical
+Dosimetrists.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Southwest Harbor, Me. : Beech Hill Pub.,
+Latest Publisher: <2000->: New York, NY : Elsevier Science
+Description: v. : ill.
+Language: English
+ISSN: 0958-3947(Print); 1873-4022(Electronic); 1873-4022(Linking)
+Coden: MEDOEJ
+LCCN: sn 89036316
+Electronic Links: http://www.sciencedirect.com/science/journal/09583947
+Fully Indexed In: MEDLINE: v13n1, 1988-; PubMed: v13n1, 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiotherapy*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 12, no. 3 (Sept. 1987); title from cover. Place of
+publication varies. Also issued online.
+Other ID: (DNLM)SR0062083(s)(OCoLC)19743847
+NLM ID: 8908862[Serial]
+
+13. Title Abbreviation: Sonderb Strahlenther Onkol
+Title(s): Sonderbände zur Strahlentherapie und Onkologie.
+Publication Start Year: 1987
+Publication End Year: 1988
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: [München ; Baltimore] : Urban & Schwarzenberg, [1987-1988]
+Latest Publisher: Munchen : Urban Und Schwarzenberg
+Description: v. : ill.
+Language: German
+ISSN: 0931-2447(Print); 0931-2447(Linking)
+Fully Indexed In: MEDLINE: v81, 1987-v82, 1988; PubMed: v81, 1987-v82, 1988; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Oncology*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Issues in German have title: Sonderbände zur Strahlentherapie Onkologie: issues 
+in English have title: Supplements to Strahlentherapie und Onkologie.
+Other ID: (DNLM)SR0058902(s)(OCoLC)15285785
+NLM ID: 8702243[Serial]
+
+14. Author(s): Deutsche Röntgengesellschaft.
+Title Abbreviation: Strahlenther Onkol
+Title(s): Strahlentherapie und Onkologie : Organ der Deutschen Röntgengesellschaft ... [et
+al].
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: [München] : Urban & Vogel, [c1986-
+Description: v. : ill.
+Language: German, English, French
+ISSN: 0179-7158(Print); 1439-099X(Electronic); 0179-7158(Linking)
+Coden: STONE4
+Electronic Links: https://link.springer.com/journal/66
+Fully Indexed In: MEDLINE: v162n1,Jan. 1986-; PubMed: v162n1,Jan. 1986-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Oncology*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Has supplements: Sonderbände zur Strahlentherapie und
+Onkologie, 1987-1988; Sonderband ... der Zeitschrift Strahlentherapie und
+Onkologie, 1992- . Also available online. Articles chiefly in German with some in
+English; summaries in English, French and German.
+Other ID: (DNLM)SR0055911(s)(OCoLC)13320934
+NLM ID: 8603469[Serial]
+
+15. Title Abbreviation: Acta Radiol Oncol
+Title(s): Acta radiologica. Oncology.
+Publication Start Year: 1984
+Publication End Year: 1986
+Frequency: Six no. a year
+Country of Publication: Sweden
+Publisher: Stockholm : Actga Radiologica, 1984-1986.
+Latest Publisher: Stockholm : Societies Of Medical Radiology In Denmark, Finland, Norway And Sweden
+Description: 3 v. : ill.
+Language: English, English
+ISSN: 0349-652X(Print); 0349-652X(Linking)
+Coden: AROBDR
+LCCN: sn 85014030
+Electronic Links: http://www.tandfonline.com/loi/ionc20
+Fully Indexed In: MEDLINE: v23n1,1984-v25n4-6,Jul.-Dec. 1986; PubMed: v23n1,1984-v25n4-6,Jul.-Dec. 1986; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Oncology*; Neoplasms/therapy*; Physics*; Radiation Effects*
+Publication Type(s): Periodical
+Notes: Title from cover. "Published by the societies of medical radiology in Denmark,
+Findland, Norway, and Sweden." Also issued online. Text in English.
+Other ID: (OCoLC)10969256(DNLM)A08800000(s)
+NLM ID: 8209606[Serial]
+
+16. Author(s): Radiation Medicine Association (Japan); Nihon Igaku Hōshasen Gakkai.
+Title Abbreviation: Radiat Med
+Title(s): Radiation medicine.
+Publication Start Year: 1983
+Publication End Year: 2008
+Frequency: Ten no. a year, 2006-2008
+Country of Publication: Japan
+Publisher: Tokyo, Japan : Radiation Medicine Association, [c1983]-
+Latest Publisher: Tokyo : Springer Tokyo
+Description: v. : ill.
+Language: English
+ISSN: 0288-2043(Print); 1862-5274(Electronic); 0288-2043(Linking)
+Coden: RAMEER
+LCCN: sn 85019297
+Electronic Links: https://link.springer.com/journal/11604
+Fully Indexed In: MEDLINE: v1n1, 1983-v26n10, 2008; PubMed: v1n1, 1983-v26n10, 2008; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neoplasms/radiotherapy*; Radionuclide Imaging*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online. Vols. for <Apr. 2006-> are 
+the official publication of the Japan Radiological Society.
+Other ID: (DNLM)R00550000(s)(OCoLC)10585646
+NLM ID: 8412264[Serial]
+
+17. Author(s): European Society for Radiotherapy and Oncology.; European Society for Therapeutic
+Radiology and Oncology.
+Title Abbreviation: Radiother Oncol
+Title(s): Radiotherapy and oncology : journal of the European Society for Therapeutic
+Radiology and Oncology.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Ireland
+Publisher: Amsterdam : Elsevier Science Publishers, c1983-
+Latest Publisher: Limerick : Elsevier Scientific Publishers
+Description: v. : ill., ports.
+Language: English
+ISSN: 0167-8140(Print); 1879-0887(Electronic); 0167-8140(Linking)
+Coden: RAONDT
+Electronic Links: https://www.sciencedirect.com/journal/radiotherapy-and-oncology
+Fully Indexed In: MEDLINE: v1n1, 1983-; PubMed: v1n1, 1983-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Oncology*; Neoplasms/radiotherapy*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also available online. Complemented by (work):
+Clinical and translational radiation oncology (DLC) 2017243324 (OCoLC)965749405
+(DNLM)101713416.
+Other ID: (DNLM)R01835000(s)(OCoLC)10321932
+NLM ID: 8407192[Serial]
+
+18. Title Abbreviation: Acta Radiol Oncol Radiat Ther Phys Biol
+Title(s): Acta radiologica. Oncology, radiation therapy, physics and biology.
+Publication Start Year: 1980
+Publication End Year: 1983
+Frequency: Bimonthly
+Country of Publication: Sweden
+Publisher: Stockholm : Acta Radiologica, 1980-
+Description: 4 v. : ill. ; 28 cm.
+Language: English, English, French, German
+ISSN: 
+Coden: AROBDR
+LCCN: sc 82008098, sn 82002247
+Electronic Links: https://www.tandfonline.com/loi/ionc20
+Fully Indexed In: MEDLINE: v19n1,1980-v22n6, 1983; PubMed: v19n1,1980-v22n6, 1983; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neoplasms/radiotherapy*; Physics; Radiology*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Also issued online. Published by the societies of medical radiology in Denmark,
+Finland, Norway and Sweden.
+Other ID: (OCoLC)07185599
+NLM ID: 101470759[Serial]
+
+19. Author(s): International Isotope Society.
+Title Abbreviation: J Labelled Comp Radiopharm
+Title(s): Journal of labelled compounds & radiopharmaceuticals.
+Publication Start Year: 1976
+Publication End Year: 
+Frequency: Monthly (semimonthly Mar. and Oct.), 2000-
+Country of Publication: England
+Publisher: London, New York, Wiley.
+Description: v. ill.
+Language: English, French, German, English
+ISSN: 0362-4803(Print); 1099-1344(Electronic); 0362-4803(Linking)
+Coden: JLCRD4
+LCCN: 76644079
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1344
+Fully Indexed In: MEDLINE: v56n1, Jan. 2013- ; selected citations only before this date
+In: PubMed: v56n1, Jan. 2013- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Pharmacy*; Radioisotopes*
+Publication Type(s): Periodical
+Notes: Print issues ceased with vol. 56, issue 9-10 (July/Aug. 2013). Also issued
+online. Articles in English, French, or German; summaries in English. "Official
+journal of the International Isotope Society," <2005-> Indexes: Vol. 28 (1990)-v.
+42 (1999), issued with v. 43.
+Other ID: (DNLM)J27380000(s)(OCoLC)02339476
+NLM ID: 7610510[Serial]
+
+20. Title Abbreviation: Rays
+Title(s): Rays.
+Publication Start Year: 1976
+Publication End Year: 2006
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Roma, Centro minerva medica.
+Latest Publisher: Milano : Masson Italia Periodici
+Description: v. ill.
+Language: English, English
+ISSN: 0390-7740(Print); 0390-7740(Linking)
+Coden: RAYSDQ
+Fully Indexed In: MEDLINE: v10n1, 1985-v31n1, 2006; PubMed: v10n1, 1985-v31n1, 2006; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiation*; Radiography*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Place of publication varies.
+Other ID: (DNLM)R04780000(s)(OCoLC)03578685
+NLM ID: 7707724[Serial]
+
+21. Author(s): American Society of Therapeutic Radiologists.; American Society for Therapeutic
+Radiology and Oncology.; American Society for Radiation Oncology.
+Title Abbreviation: Int J Radiat Oncol Biol Phys
+Title(s): International journal of radiation oncology, biology, physics.
+Publication Start Year: 1975
+Publication End Year: 
+Frequency: Fifteen no. a year
+Country of Publication: United States
+Publisher: Elmsford, N. Y., Pergamon Press.
+Latest Publisher: New York, NY : Elsevier, Inc
+Description: v. ill.
+Language: English, English
+ISSN: 0360-3016(Print); 1879-355X(Electronic); 0360-3016(Linking)
+Coden: IOBPD3
+LCCN: 76643426
+Electronic Links: http://www.sciencedirect.com/science/journal/03603016
+Fully Indexed In: MEDLINE: v1n1/2,Oct./Nov. 1975-; PubMed: v1n1/2,Oct./Nov. 1975-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neoplasms/radiotherapy*; Radiobiology*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Supplements accompany some vols. Also issued online.
+Sponsored by the American Society of Therapeutic Radiologists, 1975-1983; by the 
+American Society for Therapeutic Radiology and Oncology, 1984-2008 ; by the
+American Society for Radiation Oncology, 2009-. Complemented by (work): Advances 
+in radiation oncology 2452-1094 (OCoLC)947095253 (DNLM)101677247. Complemented by
+(work): Practical radiation oncology 1879-8500 (OCoLC)776806773 (DNLM)101558279.
+Other ID: (OCoLC)01865944(DNLM)I27960000(s)
+NLM ID: 7603616[Serial]
+
+22. Author(s): American Association of Physicists in Medicine.; American Institute of Physics.
+Title Abbreviation: Med Phys
+Title(s): Medical physics.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Lancaster, Pa., Published for the American Assn. of Physicists in Medicine by the
+American Institute of Physics.
+Latest Publisher: 2017- : Hoboken, NJ : John Wiley and Sons, Inc.
+Description: v. illus.
+Language: English
+ISSN: 0094-2405(Print); 2473-4209(Electronic); 0094-2405(Linking)
+Coden: MPHYA6
+LCCN: 74645246
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2473-4209
+Fully Indexed In: MEDLINE: v1n1, 1974-; PubMed: v1n1, 1974-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Also issued online. Indexes: Vol. 1 (1974)-v. 10 (1983). 1 v.
+Other ID: (DNLM)M16480000(s)(OCoLC)01794379
+NLM ID: 0425746[Serial]
+
+23. Title Abbreviation: Radiat Environ Biophys
+Title(s): Radiation and environmental biophysics.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: v. illus.
+Language: English
+ISSN: 0301-634X(Print); 1432-2099(Electronic); 0301-634X(Linking)
+Coden: REBPAT
+Electronic Links: https://link.springer.com/journal/411
+Fully Indexed In: MEDLINE: v11n3, 1974-; PubMed: v11n3, 1974-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*; Environment*; Radiation*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English or German.
+Other ID: (DNLM)R00520000(s)(OCoLC)01793951
+NLM ID: 0415677[Serial]
+
+24. Title Abbreviation: Pediatr Radiol
+Title(s): Pediatric radiology.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: v. illus.
+Language: English
+ISSN: 0301-0449(Print); 1432-1998(Electronic); 0301-0449(Linking)
+Coden: PDRYA5
+Electronic Links: https://link.springer.com/journal/247
+Fully Indexed In: MEDLINE: v1n1,Mar. 1973-; PubMed: v1n1,Mar. 1973-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Child; Infant; Radiography*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Also issued online
+Other ID: (DNLM)P06480000(s)(OCoLC)01696630
+NLM ID: 0365332[Serial]
+
+25. Title Abbreviation: Front Radiat Ther Oncol
+Title(s): Frontiers of radiation therapy and oncology.
+Publication Start Year: 1968
+Publication End Year: 2011
+Frequency: Two no. a year
+Country of Publication: Switzerland
+Publisher: Basel ; New York : Karger.
+Description: v. illus.
+Language: English
+ISSN: 0071-9676(Print); 1662-3789(Electronic); 0071-9676(Linking)
+Coden: FRTOA7
+LCCN: sf 76000114
+Electronic Links: http://www.karger.com/BookSeries/Home/223904
+Fully Indexed In: MEDLINE: v14, 1979-v43, 2011; Index medicus
+In: PubMed: v14, 1979-v43, 2011 ; Selected citations only before this date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neoplasms*; Radiotherapy*
+Notes: Also issued online.
+Other ID: (DNLM)F14340000(s)(OCoLC)01570270
+NLM ID: 0125544[Serial]
+
+26. Author(s): Deeley,Thomas J
+Title Abbreviation: Mod Trends Radiother
+Title(s): Modern trends in radiotherapy.
+Publication Start Year: 1967
+Publication End Year: 1972
+Frequency: Irregular
+Country of Publication: England
+Publisher: London.
+Latest Publisher: London : Butterworth
+Description: v. illus.
+Language: English
+ISSN: 0544-6937(Print); 0544-6937(Linking)
+Coden: MTRTB2
+Fully Indexed In: MEDLINE: 2, 1972; PubMed: 2, 1972; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiotherapy*
+Publication Type(s): Periodical
+Notes: Editors: 1967- T. J. Deeley and C. A. P. Wood.
+Other ID: (DNLM)M42680000(s)(OCoLC)08301461
+NLM ID: 0076450[Serial]
+
+27. Author(s): Nederlandse Vereniging voor Revalidatie.; Schweizerische Gesellschaft für
+Radiologie und Nuklearmedizin.; Schweizerische Vereinigung für Radiologie,
+Nuklearmedizin und Strahlenbiologie.
+Title Abbreviation: Radiol Clin Biol
+Title(s): Radiologia clinica et biologica.
+Publication Start Year: 1965
+Publication End Year: 1974
+Frequency: Bimonthly
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Latest Publisher: Basel : Karger
+Description: 10 v. illus.
+Language: Multiple languages, English, Multiple languages, English
+ISSN: 0033-8346(Print); 0033-8346(Linking)
+Coden: RCBOAC
+Fully Indexed In: MEDLINE: v34n4, 1965-v43, 1974; PubMed: v34n4, 1965-v43, 1974; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiology*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Articles and summaries in English, French, German, or Italian. Organ of the
+Schweizerische Gesellschaft für Radiologie und Nuklearmedizin, 1965; of the
+Schweizerische Vereinigung für Radiologie, Nuklearmedizin und Strahlenbiologie, 
+1965-74; and of the Nederlandse Vereniging voor Radiologie, 1967-74.
+Other ID: (DNLM)R01380000(s)(OCoLC)01360204
+NLM ID: 7513001[Serial]
+
+28. Author(s): Federazione della stampa radiologica latina.
+Title Abbreviation: Radiobiol Radioter Fis Med
+Title(s): Radiobiologia, radioterapia, e fisica medica.
+Publication Start Year: 1960
+Publication End Year: 1970
+Frequency: Bimonthly
+Country of Publication: Italy
+Publisher: Bologna.
+Latest Publisher: Bologna : Casa Editrice Licinio Cappelli
+Description: v. illus.
+Language: Italian
+ISSN: 0033-8176(Print); 0033-8176(Linking)
+Coden: RRFIAH
+Fully Indexed In: MEDLINE: v20n5,Sept.-Oct. 1965-v24n6, Nov.-Dec. 1969; PubMed: v20n5,Sept.-Oct. 1965-v24n6, Nov.-Dec. 1969; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Radiology*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: At head of title: Federazione della stampa radiologica latina. Called also 3.
+ser., anno 32-
+Other ID: (DNLM)R00920000(s)(OCoLC)20938469
+NLM ID: 0401250[Serial]
+
+29. Title Abbreviation: Radiobiol Radiother (Berl)
+Title(s): Radiobiologia, radiotherapia.
+Publication Start Year: 1960
+Publication End Year: 1990
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: Berlin : Verlag Volk Und Gesundheit
+Description: v. illus.
+Language: German
+ISSN: 0033-8184(Print); 0033-8184(Linking)
+Coden: RDBGAT
+Fully Indexed In: MEDLINE: v6n3, 1965-v31, 1990; PubMed: v6n3, 1965-v31, 1990; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiobiology*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Articles in German, French, or English, with summaries in the three languages.
+Other ID: (DNLM)R00940000(s)(OCoLC)02266742
+NLM ID: 0401247[Serial]
+
+30. Author(s): Gosudarstvennyĭ rentgenologicheskiĭ radiologicheskiĭ i rakovyĭ institut.;
+Soviet Union. Ministerstvo zdravookhranenii︠a︡.; Soviet Union. Narodnyĭ
+komissariat zdravookhranenii︠a︡.; Vsesoiuznaia assotsiatsia rentgenologov i
+radiologov.
+Title Abbreviation: Vestn Rentgenol Radiol
+Title(s): Vestnik rentgenologii i radiologii.
+Publication Start Year: 1920
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva.
+Latest Publisher: Moskva : Izdatelstvo Meditsina
+Description: v. ill., ports.
+Language: Russian, English
+ISSN: 0042-4676(Print); 2619-0478(Electronic); 0042-4676(Linking)
+Coden: VRRAAT
+Electronic Links: https://www.russianradiology.ru/jour
+Fully Indexed In: MEDLINE: v40n2,Mar.-Apr. 1965-n1, Jan.-Feb. 2017; PubMed: v40n2,Mar.-Apr. 1965-n1, Jan.-Feb. 2017; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiology*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Journal of the Gosudarstvennyĭ rentgenologicheskiĭ i radiologicheskiĭ
+institut, 1920?-34 (and the Vsesoiuznaia assotsiatsiia rentgenologov i
+radiologov, 1924-34); of the Gosudarstvennyĭ rentgenologicheskiĭ,
+radiologicheskiĭ i rakovyĭinstitut, 1935-40. Gody 14, 17, 19-20, and 22 consist
+of Trudy godichnoĭ sessii Gosudarstvennogo rentgenologicheskogo,
+radiologicheskogo i rakovogo instituta. Publication suspended 1942-43, 1948-50.
+Vol. numbers irregular: Vols. for 1951?-55 have no vol. numbering but constitute 
+v. 27-30. Also issued online. Microfilm. v. 2 (1922)-9 (1931), v. 11 (1932)-47
+(1972). 33 microfilm reels : negative ; 35 mm. Summaries in German, 1929-33;
+French and English, 1934-38; French and German, 1939-41; English, 1957- Issued by
+Narodnyĭ komissariat zdravookhraneniia SSSR, 1936-46; by Ministerstvo
+zdravookhraneniia SSSR, 1947-
+Other ID: (DNLM)V04580000(s)(OCoLC)01589137
+NLM ID: 0424741[Serial]
+
+31. Title Abbreviation: Strahlentherapie Sonderb
+Title(s): Strahlentherapie. Sonderbände.
+Publication Start Year: 1912
+Publication End Year: 1986
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin.
+Latest Publisher: Munchen : Urban Und Schwarzenberg
+Description: 80 v. : ill.
+Language: English
+ISSN: 0371-3822(Print); 0371-3822(Linking)
+Coden: STRSAU
+Fully Indexed In: MEDLINE: v56, 1964-v80, 1986; PubMed: v56, 1964-v80, 1986; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiology*; Radiotherapy*
+Publication Type(s): Collected Work
+Notes: Bd. 9-12, 16-17 bound with Strahlentherapie, Bd. 19-46, 1924-33, in NLM. Some
+vols. issued only in English with title: Supplements to "Strahlentherapie."
+Other ID: (DNLM)S42920000(s)(OCoLC)01715428
+NLM ID: 0404544[Serial]
+
+32. Author(s): Deutsche Röntgengesellschaft.; Deutscher Zentralausschuss für Krebsbekämpfung 
+und Krebsforschung.; Deutsche Gesellschaft für Lichtforschung.
+Title Abbreviation: Strahlentherapie
+Title(s): Strahlentherapie.
+Publication Start Year: 1912
+Publication End Year: 1985
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: München, Urban & Schwarzenberg.
+Description: 161 v. ill., ports.
+Language: German
+ISSN: 0039-2073(Print); 0039-2073(Linking)
+Coden: STRAAA
+Fully Indexed In: MEDLINE: v127n2,Jun. 1965- v161n12,Dec. 1985; PubMed: v127n2,Jun. 1965- v161n12,Dec. 1985; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiotherapy*
+Publication Type(s): Periodical
+Notes: Journal of the Deutsche Röntgengesellschaft, Gesellschaft für Lichtforschung
+and, 1956- of the Deutscher Zentralausschuss für Krebsbekämpfung und
+Krebsforschung. Bound with v. 19-46, 1923-33, are the journal's Sonderbände, v. 
+9-12, 16-17, respectively. Gesamt-Inhaltsverzeichnis. v. 1-50, 1912-34. 1 v. v.
+51-100, 1934-56. 1 v. v. 101-125, 1956-64. 1 v. Publication suspended Sept.
+1944-Aug. 1946. Microfilm. v. 1 (1912)-25 (1927) + Register v. 1 (1912)-6 (1916).
+24 microfilm reels : negative ; 35 mm. Summaries in French and English.
+Other ID: (DNLM)S42900000(s)(OCoLC)01695265
+NLM ID: 1260024[Serial]
+
+33. Author(s): Deutsche Gesellschaft für Medizinische Physik.; Österreichische Gesellschaft
+für Medizinische Physik.; Schweizerische Gesellschaft für Strahlenbiologie und 
+Medizinische Physik.
+Title Abbreviation: Z Med Phys
+Title(s): Zeitschrift für medizinische Physik.
+Publication Start Year: 19uu
+Publication End Year: 
+Frequency: Four issues a year
+Country of Publication: Germany
+Publisher: Jena [Germany] : Gustav Fischer Verlag,
+Latest Publisher: [Heidelberg] : Elsevier GmbH
+Description: v.
+Language: German, English
+ISSN: 0939-3889(Print); 1876-4436(Electronic); 0939-3889(Linking)
+LCCN: 00-243416
+Electronic Links: http://www.sciencedirect.com/science/journal/09393889, https://pmc.ncbi.nlm.nih.gov/journals/?term=100886455
+Fully Indexed In: MEDLINE: v11n1, 2001-; Index medicus
+In: PubMed: v11n1, 2001-, PMC
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiography; Radionuclide Imaging; Radiotherapy; Technology, Radiologic*; Technology, Radiologic/instrumentation*
+Publication Type(s): Periodical
+Notes: Description based on: 1998, Nr. 2; title from cover. Also issued online. Articles
+in English; editorials and announcements in German. Issued by: Deutsche
+Gesellschaft für Medizinische Physik; Österreichische Gesellschaft für
+Medizinische Physik; and: Schweizerische Gesellschaft für Strahlenbiologie und
+Medizinische Physik.
+Other ID: (OCoLC)44773911
+NLM ID: 100886455[Serial]
+

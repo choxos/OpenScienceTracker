@@ -1,0 +1,2240 @@
+1. Title Abbreviation: J Epidemiol Popul Health
+Title(s): Journal of epidemiology and population health.
+Publication Start Year: 2024
+Publication End Year: 
+Country of Publication: France
+Publisher: [Paris] : Elsevier Masson, [2024]-
+Description: 1 online resource
+Language: English
+ISSN: 2950-4333(Electronic); 2950-4368(Print); 2950-4333(Linking)
+LCCN: 2024228307
+Electronic Links: https://www.sciencedirect.com/science/journal/29504333
+Fully Indexed In: MEDLINE: v72n1, Feb. 2024-
+In: PubMed: v72n1, Feb. 2024-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiologic Methods*; Epidemiology; Population Health
+Publication Type(s): Periodical
+Notes: Some volumes have numbered supplements. Also issued in print.
+Other ID: (OCoLC)1422745238
+NLM ID: 9918769574106676[Serial]
+
+2. Author(s): American Medical Association,
+Title Abbreviation: JAMA Health Forum
+Title(s): JAMA health forum.
+Publication Start Year: 2020
+Publication End Year: 
+Frequency: Daily
+Country of Publication: United States
+Publisher: Chicago, IL : American Medical Association, [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2689-0186(Electronic); 2689-0186(Linking)
+LCCN: 2019201752
+Electronic Links: https://jamanetwork.com/journals/jama-health-forum
+Fully Indexed In: MEDLINE: v1n1, Jan. 2020-
+In: PubMed: v1n1, Jan. 2020-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Delivery of Health Care*; Health Policy*; Public Health
+Publication Type(s): Periodical
+Acquisition Note: American Medical Association, 330 N. Wabash Chicago, IL 60611-5885
+Other ID: (OCoLC)1120722436
+NLM ID: 101769500[Serial]
+
+3. Title Abbreviation: BMJ Glob Health
+Title(s): BMJ global health.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: [London] : BMJ Publishing Group Ltd, [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2059-7908(Electronic); 2059-7908(Linking)
+LCCN: 2016247811
+Electronic Links: https://gh.bmj.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101685275
+Fully Indexed In: MEDLINE: v5n1, Jan. 2020-
+In: PubMed: v1n1, Apr. 2016-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Health Administration (non-Index Medicus); Index Medicus
+MeSH: Global Health*; Healthcare Disparities
+Publication Type(s): Periodical
+Notes: Some issues have supplements.
+Other ID: (OCoLC)962128199
+NLM ID: 101685275[Serial]
+
+4. Author(s): Public Health Agency of Canada,
+Title Abbreviation: Health Promot Chronic Dis Prev Can
+Title(s): Health promotion and chronic disease prevention in Canada : research, policy and 
+practice.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Canada
+Publisher: Ottawa, Ontario : Public Health Agency of Canada = Agence de la santé publique
+du Canada, [2015]-
+Description: 1 online resource
+Language: English
+ISSN: 2368-738X(Electronic); 2368-738X(Linking)
+LCCN: 2015243458
+Electronic Links: https://www.canada.ca/en/public-health/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/past-issues.html, https://pmc.ncbi.nlm.nih.gov/journals/?term=101648506
+Fully Indexed In: MEDLINE: v35n1, March 2015-
+In: PubMed: v35n1, March 2015-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Accident Prevention*; Canada; Chronic Disease*; Health Promotion*
+Publication Type(s): Periodical
+Notes: Search interface available in English and French.
+Other ID: (OCoLC)917356887
+NLM ID: 101648506[Serial]
+
+5. Title Abbreviation: J Racial Ethn Health Disparities
+Title(s): Journal of racial and ethnic health disparities.
+Publication Start Year: 2014
+Publication End Year: 
+Country of Publication: Switzerland
+Publisher: [Cham] : Springer International Publishing
+Description: 1 online resource
+Language: English
+ISSN: 2196-8837(Electronic); 2197-3792(Print); 2196-8837(Linking)
+LCCN: 2014243477
+Electronic Links: https://link.springer.com/journal/40615#
+Fully Indexed In: MEDLINE: v2n1, Mar. 2015-
+In: PubMed: v2n1, Mar. 2015- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Healthcare Disparities*
+Publication Type(s): Periodical
+Notes: Also issued in print.
+Other ID: (OCoLC)882616392
+NLM ID: 101628476[Serial]
+
+6. Author(s): Sax Institute,; New South Wales. Department of Health.
+Title Abbreviation: Public Health Res Pract
+Title(s): Public health research & practice.
+Publication Start Year: 2014
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Australia
+Publisher: Ultimo, NSW : Sax Institute, [2014]-
+Description: 1 online resource
+Language: English
+ISSN: 2204-2091(Electronic); 2204-2091(Linking)
+LCCN: 2014243773
+Electronic Links: http://www.phrp.com.au/
+Fully Indexed In: MEDLINE: v25n1, 2014-
+In: PubMed: v25n1, 2014-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*; New South Wales; Public Health*
+Publication Type(s): Periodical
+Other ID: (OCoLC)894336198
+NLM ID: 101648133[Serial]
+
+7. Author(s): Public Health Agency of Canada.
+Title Abbreviation: Chronic Dis Inj Can
+Title(s): Chronic diseases and injuries in Canada.
+Publication Start Year: 2011
+Publication End Year: 2014
+Frequency: Quarterly
+Country of Publication: Canada
+Publisher: Ottawa : Public Health Agency of Canada, c2011-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1925-6515(Print); 1925-6523(Electronic); 1925-6515(Linking)
+LCCN: 2011243675
+Electronic Links: http://www.phac-aspc.gc.ca/publicat/cdic-mcc/index-eng.php
+Fully Indexed In: MEDLINE: v31n3, June 2011-v34n4, Nov. 2014
+In: PubMed: v31n3, June 2011-v34n4, Nov. 2014; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Canada; Chronic Disease*; Wounds and Injuries
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)751669848
+NLM ID: 101556266[Serial]
+
+8. Title Abbreviation: Epidemiol Psychiatr Sci
+Title(s): Epidemiology and psychiatric sciences.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Cambridge : Cambridge University Press
+Language: English
+ISSN: 2045-7960(Print); 2045-7979(Electronic); 2045-7960(Linking)
+LCCN: 2011243374
+Electronic Links: https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences, https://pmc.ncbi.nlm.nih.gov/journals/?term=101561091
+Fully Indexed In: MEDLINE: v20n1, Mar. 2011-
+In: PubMed: v20n1, Mar. 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Community Psychiatry; Epidemiology*; Mental Disorders
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 21, no. 4 (Dec. 2012). Also issued online.
+Other ID: (OCoLC)727338545
+NLM ID: 101561091[Serial]
+
+9. Author(s): Saudi Arabia. Wizārat al-Ṣiḥḥah,
+Title Abbreviation: J Epidemiol Glob Health
+Title(s): Journal of epidemiology and global health.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Amsterdam : Elsevier, [2011]-
+Latest Publisher: 2021- : [Cham] : Springer
+Language: English
+ISSN: 2210-6006(Print); 2210-6014(Electronic); 2210-6006(Linking)
+LCCN: 2012205380
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-epidemiology-and-global-health/issues, https://www.atlantis-press.com/journals/jegh, https://www.springer.com/journal/44197, https://pmc.ncbi.nlm.nih.gov/journals/?term=101592084
+Fully Indexed In: MEDLINE: v1n1, Dec. 2011-
+In: PubMed: v1n1, Dec. 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communicable Disease Control; Global Health; Public Health*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 7 (2017). Also issued online.
+Other ID: (OCoLC)776770795
+NLM ID: 101592084[Serial]
+
+10. Author(s): World Health Organization. Regional Office for the Western Pacific.
+Title Abbreviation: Western Pac Surveill Response J
+Title(s): Western Pacific surveillance and response journal : WPSAR.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Philippines
+Publisher: Manila, Philippines : World Health Organization, Regional Office for the Western 
+Pacific, c2010-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 2094-7321(Print); 2094-7313(Electronic); 2094-7321(Linking)
+LCCN: 2011243329
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101558993, https://ojs.wpro.who.int/ojs/index.php/wpsar/index
+Fully Indexed In: MEDLINE: v4n1, Jan.-Mar. 2013-
+In: PubMed: v1n1, Oct.-Dec. 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Asia, Eastern; Asia, Southeastern; Communicable Disease Control; Disaster Planning; Oceania; Sentinel Surveillance*
+Publication Type(s): Periodical
+Notes: Title from caption. Print issues ceased with 2022. Also issued online.
+Other ID: (OCoLC)712143443
+NLM ID: 101558993[Serial]
+
+11. Title Abbreviation: Cancer Epidemiol
+Title(s): Cancer epidemiology.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1877-7821(Print); 1877-783X(Electronic); 1877-7821(Linking)
+LCCN: 2009243584
+Electronic Links: http://www.sciencedirect.com/science/journal/18777821
+Fully Indexed In: MEDLINE: v33n1, 2009-
+In: PubMed: v33n1, 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neoplasms/diagnosisNeoplasms/epidemiology*Neoplasms/prevention & control
+Notes: Description based on: Vol. 33, issue 1 (July 2009); title from cover. Latest
+issue consulted: Vol. 33, issue 1 (July 2009). Also issued online.
+Other ID: (OCoLC)435770550
+NLM ID: 101508793[Serial]
+
+12. Title Abbreviation: Epidemics
+Title(s): Epidemics.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1755-4365(Print); 1878-0067(Electronic); 1878-0067(Linking)
+LCCN: 2009243410
+Electronic Links: http://www.sciencedirect.com/science/journal/17554365
+Fully Indexed In: MEDLINE: v1n1, Mar. 2009-
+In: PubMed: v1n1, Mar. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communicable Diseases*; Disease Outbreaks; Infections
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 (Mar. 2009); title from title page. Latest
+issue consulted: Vol. 1, no. 1 (Mar. 2009). Print issues ceased with v. 5, no. 4 
+(Dec. 2013). Also issued online.
+Other ID: (OCoLC)416086275
+NLM ID: 101484711[Serial]
+
+13. Author(s): Han'guk Yŏk Hakhoe.
+Title Abbreviation: Epidemiol Health
+Title(s): Epidemiology and health.
+Publication Start Year: 2009
+Publication End Year: 
+Country of Publication: Korea (South)
+Publisher: Seoul : Korean Society of Epidemiology
+Language: English
+ISSN: 2092-7193(Electronic); 2092-7193(Linking)
+LCCN: 2009243802
+Electronic Links: http://www.e-epih.org, https://pmc.ncbi.nlm.nih.gov/journals/?term=101519472
+Fully Indexed In: MEDLINE: v38, 2016-
+In: PubMed: v31, 2009-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*; Korea
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 31 (2009); title from HTML header (publisher's Web
+site, viewed Nov. 17, 2009). Latest issue consulted: Vol. 31 (2009) (viewed Nov. 
+17, 2009).
+Other ID: (OCoLC)477203533
+NLM ID: 101519472[Serial]
+
+14. Title Abbreviation: Spat Spatiotemporal Epidemiol
+Title(s): Spatial and spatio-temporal epidemiology.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier, 2009-
+Description: v. : ill. (some col.) ; 27 cm.
+Language: English
+ISSN: 1877-5845(Print); 1877-5853(Electronic); 1877-5845(Linking)
+LCCN: 2010208627
+Electronic Links: http://www.sciencedirect.com/science/journal/18775845
+Fully Indexed In: MEDLINE: v1n1, Oct-Dec 2009-
+In: PubMed: v1n1, Oct-Dec 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiologic Methods*; Geographic Information Systems; Statistics as Topic/methods
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)502318218
+NLM ID: 101516571[Serial]
+
+15. Author(s): Society for the Study of Social Biology.
+Title Abbreviation: Biodemography Soc Biol
+Title(s): Biodemography and social biology.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: United States
+Publisher: Syracuse, NY : Society for the Study of Social Biology
+Latest Publisher: 2009- : Philadelphia : Routledge
+Description: v. : ill. ; 23 cm.
+Language: English
+ISSN: 1948-5565(Print); 1948-5573(Electronic); 1948-5565(Linking)
+LCCN: 2009237252
+Electronic Links: http://www.tandfonline.com/loi/hsbi20
+Fully Indexed In: MEDLINE: v54n1, spring 2008-
+In: PubMed: v54n1, spring 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Evolution; Demography; Sociobiology*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 54, no. 1 (spring 2008); title from cover. Latest
+issue consulted: Vol. 54, no. 2 (fall 2008). Suspended 2007. Also issued online.
+Other ID: (OCoLC)309845773
+NLM ID: 101500303[Serial]
+
+16. Author(s): International Society of Exposure Analysis.
+Title Abbreviation: J Expo Sci Environ Epidemiol
+Title(s): Journal of exposure science & environmental epidemiology.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, NY : Nature Pub. Group, c2006-
+Description: v. : ill.
+Language: English
+ISSN: 1559-0631(Print); 1559-064X(Electronic); 1559-0631(Linking)
+LCCN: 2005216278
+Electronic Links: http://www.nature.com/jes
+Fully Indexed In: MEDLINE: v16n1, Jan. 2006-; PubMed: v16n1, Jan. 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Exposure*; Environmental Monitoring; Environmental Pollutants/analysis
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official organ of the International Society
+of Exposure Analysis.
+Other ID: (OCoLC)62348128
+NLM ID: 101262796[Serial]
+
+17. Title Abbreviation: World Health Popul
+Title(s): World health & population.
+Publication Start Year: 2006
+Publication End Year: 2019
+Frequency: Quarterly, 2006-
+Country of Publication: Canada
+Publisher: Toronto, ON : Longwoods Pub.
+Language: English
+ISSN: 1718-3340(Electronic)
+LCCN: 2008243210
+Electronic Links: https://www.longwoods.com/publications/world-health-population
+Fully Indexed In: MEDLINE: v9n1, 2007-v18n1, 2019
+In: PubMed: v9n1, 2007-v18n1, 2019; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Delivery of Health Care; Developing Countries; Health Planning; Health Policy*; Population
+Publication Type(s): Periodical
+Notes: Title from title screen (publisher's Web site, viewed Feb. 5, 2007). Latest issue
+consulted: Vol. 9, no. 4 (2007) (viewed Jan. 29, 2008). Print issues ceased with 
+v. 15, no. 4 (2014).
+Other ID: (OCoLC)179259023
+NLM ID: 101307691[Serial]
+
+18. Author(s): Sistema Único de Saúde (Brazil)
+Title Abbreviation: Epidemiol Serv Saude
+Title(s): Epidemiologia e serviços de saúde : revista do Sistema Unico de Saúde do
+Brasil.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Brazil
+Publisher: Brasília, DF : Secretaria de Vigilância em Saúde do Ministério da Saúde,
+2003-
+Latest Publisher: Brasília, DF : Secretaria de Vigilância em Saúde e Ambiente - Ministério da
+Saúde do Brasil
+Description: v. : ill. ; 28 cm.
+Language: Portuguese, English, Spanish, English
+ISSN: 1679-4974(Print); 2237-9622(Electronic); 1679-4974(Linking)
+LCCN: 2004240573
+Electronic Links: https://www.scielo.br/j/ress, https://ress.iec.gov.br/p/home, https://pmc.ncbi.nlm.nih.gov/journals/?term=101248287
+Fully Indexed In: MEDLINE: v25n1, Jan.-Mar. 2016-
+In: PubMed: v25n1, Jan.-Mar. 2016-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brazil; Communicable Disease Control; Communicable Diseases/epidemiology*; Population Surveillance; Public Health
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 12, no. 3 (julho/set. de 2003). Print issues ceased 
+with 2015. Also issued online. In Portuguese; summaries and table of contents in 
+English and Spanish.
+Other ID: (OCoLC)55950847
+NLM ID: 101248287[Serial]
+
+19. Title Abbreviation: Popul Health Metr
+Title(s): Population health metrics.
+Publication Start Year: 2003
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2003]-
+Language: English
+ISSN: 1478-7954(Electronic); 1478-7954(Linking)
+LCCN: 2003243272
+Electronic Links: https://pophealthmetrics.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101178411
+Fully Indexed In: MEDLINE: is v14, 2016-
+In: PubMed: v1n1, 2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry; Health Status Indicators*; Health Status
+Publication Type(s): Periodical
+Notes: Title from home page (viewed May 21, 2003). Latest issue consulted: Vol. 1, issue
+6 (2003) (viewed May 21, 2003). Articles added on a continuous basis. Each
+article constitutes a new issue. Mode of access: Internet.
+Other ID: (OCoLC)52384322
+NLM ID: 101178411[Serial]
+
+20. Title Abbreviation: J Cancer Epidemiol Prev
+Title(s): Journal of cancer epidemiology and prevention.
+Publication Start Year: 2002
+Publication End Year: 2002
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : Martin Dunitz, c2002-
+Description: v. : ill.
+Language: English
+ISSN: 1476-6647(Print); 1476-6655(Electronic); 1476-6647(Linking)
+Coden: JCEPBB
+Fully Indexed In: MEDLINE: v7n1, 2002-v7n4, 2002; PubMed: v7n1, 2002-v7n4, 2002; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neoplasms/epidemiology*Neoplasms/prevention & control
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (OCoLC)49987442
+NLM ID: 101141610[Serial]
+
+21. Title Abbreviation: Scand J Public Health Suppl
+Title(s): Scandinavian journal of public health. Supplement.
+Publication Start Year: 2001
+Publication End Year: 2007
+Frequency: Irregular
+Country of Publication: England
+Publisher: Basingstoke, Hampshire : Taylor & Francis, c2001-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1403-4956(Print); 1403-4948(Linking)
+LCCN: 2001252126
+Fully Indexed In: MEDLINE: n55, 2001-n70, 2007; PubMed: n55, 2001-n70, 2007; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Finland; Iceland; Public Health; Scandinavian and Nordic Countries; Social Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: 61 (Nov. 2003). Oct. 2003 is numbered
+62, Nov. 2003 is numbered 61.
+Other ID: (OCoLC)47682146
+NLM ID: 100883504[Serial]
+
+22. Title Abbreviation: Vector Borne Zoonotic Dis
+Title(s): Vector borne and zoonotic diseases.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Six no. a year, 2008-
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., [2001-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1530-3667(Print); 1557-7759(Electronic); 1530-3667(Linking)
+LCCN: 00214851
+Electronic Links: http://online.liebertpub.com/loi/vbz
+Fully Indexed In: MEDLINE: v1n1, spring 2001-; PubMed: v1n1, spring 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Disease Vectors*; Zoonoses
+Publication Type(s): Periodical
+Notes: Also issued online; available by subscription.
+Other ID: (OCoLC)44125474
+NLM ID: 100965525[Serial]
+
+23. Author(s): Naukovyĭ t︠s︡entr radiat︠s︡iĭnoï medyt︠s︡yny (Akademii︠a︡ medychnykh nauk
+Ukraïny); Derz︠h︡avna ustanova "Nat︠s︡ionalʹnyĭ naukovyĭ t︠s︡entr
+radiat︠s︡iĭnoï medyt︠s︡yny".
+Title Abbreviation: Probl Radiac Med Radiobiol
+Title(s): Problemy radiat︠s︡iĭnoï medyt︠s︡yny ta radiobiolohiï.
+Publication Start Year: 200u
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Ukraine
+Publisher: Kyïv : Naukovyĭ t︠s︡entr radiat︠s︡iĭnoï medyt︠s︡yny AMN Ukraïny
+Language: English, Russian, Ukrainian
+ISSN: 2304-8336(Print); 2313-4607(Electronic); 2304-8336(Linking)
+Electronic Links: http://radiationproblems.org.ua/home.html
+Fully Indexed In: MEDLINE: v19, 2014-
+In: PubMed: v19, 2014-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Radiation Effects*; Radiobiology; Radiology/methods
+Notes: Issues for 2012- also have title: Problems of radiation medicine and
+radiobiology. Also issued online. Russian or Ukranian and English in parallel
+columns. Text in Ukrainian, with some articles in Russian; summaries in Russian
+and English, <-2010>. Online version available in English and Russian or
+Ukranian. Search interface available in English and Ukranian.
+Other ID: (OCoLC)729854615
+NLM ID: 101560511[Serial]
+
+24. Title Abbreviation: Scand J Public Health
+Title(s): Scandinavian journal of public health.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Eight no. a year, 2008-
+Country of Publication: Sweden
+Publisher: Stockholm ; Boston : Scandinavian University Press, c1999-
+Latest Publisher: <2008->: London, England : Sage Publications
+Description: v.
+Language: English
+ISSN: 1403-4948(Print); 1651-1905(Electronic); 1403-4948(Linking)
+Coden: SJPHAJ
+LCCN: sn 99047792
+Electronic Links: https://journals.sagepub.com/home/sjp
+Fully Indexed In: MEDLINE: v27n1,1999-; PubMed: v27n1,1999-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Finland/epidemiology; Iceland/epidemiology; Public Health; Scandinavian and Nordic Countries/epidemiology; Social Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Supplements accompany some issues.
+Also issued online. Owned by: the Scandinavian Association of Social Medicine.
+Other ID: (OCoLC)41367272
+NLM ID: 100883503[Serial]
+
+25. Author(s): New York Academy of Medicine.
+Title Abbreviation: J Urban Health
+Title(s): Journal of urban health : bulletin of the New York Academy of Medicine.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Bimonthly, 2006-
+Country of Publication: United States
+Publisher: Cary, NC : Oxford University Press for the New York Academy of Medicine, c1998-
+Latest Publisher: 2006- : New York, NY : Springer
+Description: v. : ill.
+Language: English
+ISSN: 1099-3460(Print); 1468-2869(Electronic); 1099-3460(Linking)
+Coden: JUHEFL
+LCCN: 98657867, sn 98000559
+Electronic Links: https://link.springer.com/journal/11524, https://pmc.ncbi.nlm.nih.gov/journals/?term=9809909
+Fully Indexed In: MEDLINE: v75n1,Mar. 1998-; Index medicus
+In: PubMed: v75n1,Mar. 1998-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medicine; Urban Health
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0093306(s)(OCoLC)39047564
+NLM ID: 9809909[Serial]
+
+26. Author(s): Associação Brasileira de Pós-Graduação em Saúde Coletiva.
+Title Abbreviation: Rev Bras Epidemiol
+Title(s): Revista brasileira de epidemiologia = Brazilian journal of epidemiology.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Three times a year
+Country of Publication: Brazil
+Publisher: São Paulo, SP, Brasil : Associação Brasileira de Pós-Graduação em Saúde
+Coletiva, 1998-
+Description: v. : ill. ; 26 cm.
+Language: Portuguese, English, Spanish
+ISSN: 1415-790X(Print); 1980-5497(Electronic); 1415-790X(Linking)
+LCCN: sn 99036340
+Electronic Links: https://www.scielo.br/j/rbepid/, https://pmc.ncbi.nlm.nih.gov/journals/?term=100954576
+Fully Indexed In: MEDLINE: v13n1, Mar. 2010-
+In: PubMed: v13n1, Mar. 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*; Public Health
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 16 (2013). Issued also online.
+Chiefly in Portuguese; some articles in English and Spanish.
+Other ID: (OCoLC)41213365
+NLM ID: 100954576[Serial]
+
+27. Title Abbreviation: J Epidemiol Biostat
+Title(s): Journal of epidemiology and biostatistics.
+Publication Start Year: 1996
+Publication End Year: 2001
+Frequency: Six no. a year, 2000-
+Country of Publication: England
+Publisher: Oxford : ISIS Medical Media, c1996-c2001.
+Description: 6 v. : ill.
+Language: English
+ISSN: 1359-5229(Print); 1359-5229(Linking)
+Fully Indexed In: MEDLINE: v4n1, 1999-v6n6, 2001; PubMed: v4n1, 1999-v6n6, 2001; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biometry*; Epidemiology*
+Publication Type(s): Periodical
+Notes: A full text CD-ROM with search facility will be provided with the first issue of 
+the subsequent year's volume.
+Other ID: (DNLM)SR0089109(s)(OCoLC)35299069
+NLM ID: 9611181[Serial]
+
+28. Title Abbreviation: Health Place
+Title(s): Health & place.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Six no. a year, 2009-
+Country of Publication: England
+Publisher: [Kidlington, Oxford, U.K.] : Pergamon, c1995-
+Latest Publisher: Exford, England : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 1353-8292(Print); 1873-2054(Electronic); 1353-8292(Linking)
+Coden: HEPLFG
+LCCN: sn 95001783
+Electronic Links: https://www.sciencedirect.com/journal/health-and-place
+Fully Indexed In: MEDLINE: v1,n1 Mar. 1995-; PubMed: v1,n1 Mar. 1995-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Health Technology Assessment (non-Index Medicus)
+MeSH: Epidemiology*; Health Policy*; Health Services Accessibility*; Public Health*; Public Policy*; Sociology, Medical*
+Publication Type(s): Periodical
+Notes: Also available online.
+Other ID: (DNLM)SR0082045(s)(OCoLC)32451187
+NLM ID: 9510067[Serial]
+
+29. Author(s): U.S. Army Center for Health Promotion and Preventive Medicine.; Armed Forces
+Health Surveillance Center (U.S.)
+Title Abbreviation: MSMR
+Title(s): MSMR.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: <Apr. 1995>-Mar. 2007: Washington, DC : Army Medical Surveillance Activity
+Latest Publisher: Apr. 2007- : Silver Spring, MD : Armed Forces Health Surveillance Center
+Language: English
+ISSN: 2158-0111(Print); 2152-8217(Electronic); 2152-8217(Linking)
+LCCN: 2010201449
+Electronic Links: https://health.mil/Military-Health-Topics/Health-Readiness/AFHSD/Reports-and-Publications/Medical-Surveillance-Monthly-Report, https://pmc.ncbi.nlm.nih.gov/journals/?term=101548156
+Fully Indexed In: MEDLINE: v18n1, Jan. 2011-
+In: PubMed: v18n1, Jan. 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Military Personnel*; Morbidity*; Population Surveillance; United States; Wounds and Injuries/epidemiology
+Publication Type(s): PeriodicalStatistics
+Notes: "A publication of the Armed Forces Health Surveillance Center." Also issued
+online.
+Other ID: (OCoLC)671268376
+NLM ID: 101548156[Serial]
+
+30. Author(s): Česká lékařská společnost J.E. Purkyně. Společnost pro epidemiologii a
+mikrobiologii.
+Title Abbreviation: Epidemiol Mikrobiol Imunol
+Title(s): Epidemiologie, mikrobiologie, imunologie : casopis Spolecnosti pro epidemiologii 
+a mikrobiologii Ceské lékarské spolecnosti J.E. Purkyne.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Czech Republic
+Publisher: Praha : Ceská lékarská spolecnost J.E. Purkyne, c1994-
+Description: v. : ill.
+Language: Czech, English
+ISSN: 1210-7913(Print); 1210-7913(Linking)
+Coden: EMIME6
+Electronic Links: http://nts.prolekare.cz/cls/nts/casop/epidemiologie/epidemiologie.html
+Fully Indexed In: MEDLINE: v43n1,Mar. 1994-; PubMed: v43n1,Mar. 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*; Hypersensitivity*; Immune System Diseases*; Microbiology*
+Publication Type(s): Periodical
+Notes: Also issued online. In Czech; summaries and table of contents also in English.
+Other ID: (DNLM)SR0080896(s)(OCoLC)30468564
+NLM ID: 9431736[Serial]
+
+31. Author(s): Medical Screening Society.
+Title Abbreviation: J Med Screen
+Title(s): Journal of medical screening.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : BMJ Publishing Group, c1994-
+Latest Publisher: Dec. 2012- : London : Sage
+Description: v. : ill.
+Language: English
+ISSN: 0969-1413(Print); 1475-5793(Electronic); 0969-1413(Linking)
+Coden: JMSCFE
+LCCN: sn 94038683
+Electronic Links: https://journals.sagepub.com/home/msc
+Fully Indexed In: MEDLINE: v1n1,Jan. 1994-; Index medicus
+In: PubMed: v1n1,Jan. 1994-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diagnostic Tests, Routine*; Mass Screening*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Vols. for 2003- issued by: Medical
+Screening Society.
+Other ID: (DNLM)SR0077906(s)(OCoLC)30899087
+NLM ID: 9433359[Serial]
+
+32. Author(s): International Society of Geographical and Epidemiological Ophthalmology.
+Title Abbreviation: Ophthalmic Epidemiol
+Title(s): Ophthalmic epidemiology.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Bimonthly, 2005-
+Country of Publication: England
+Publisher: Buren, The Netherlands : Aeolus Press, c1994-
+Latest Publisher: London : Informa Healthcare
+Description: v. : ill.
+Language: English
+ISSN: 0928-6586(Print); 1744-5086(Electronic); 0928-6586(Linking)
+Coden: OPEPFP
+LCCN: sn 94045093
+Electronic Links: http://www.tandfonline.com/loi/iope20
+Fully Indexed In: MEDLINE: v1n1,Mar. 1994-; PubMed: v1n1,Mar. 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Blindness/prevention & control*; Eye Diseases/epidemiology*; Ophthalmology*; Public Health*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online. Official publication of: the
+International Society of Geographical and Epidemiological Ophthalmology ISGEO.
+Other ID: (DNLM)SR0078940(s)(OCoLC)30751029
+NLM ID: 9435674[Serial]
+
+33. Author(s): Česká lékařská společnost J.E. Purkyně.
+Title Abbreviation: Cent Eur J Public Health
+Title(s): Central European journal of public health.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Czech Republic
+Publisher: Prague : Czech Medical Association J.E. Purkyne, [1993-
+Latest Publisher: 2002- : [Prague?] : TIGIS, Ltd. in association with the National Institute of
+Public Health
+Description: v. ill. (some col.)
+Language: English
+ISSN: 1210-7778(Print); 1210-7778(Linking)
+Coden: CEJHEK
+Electronic Links: https://cejph.szu.cz/
+Fully Indexed In: MEDLINE: v1n1, June 1993-; PubMed: v1n1, June 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Public Health*
+Publication Type(s): Periodical
+Notes: Title from cover. Also numbered JHEMI vol. 37- , in continuation of earlier
+title. Also issued online
+Other ID: (DNLM)SR0076467(s)(OCoLC)29800897
+NLM ID: 9417324[Serial]
+
+34. Author(s): Canada. Health and Welfare Canada.
+Title Abbreviation: Can Commun Dis Rep
+Title(s): Canada communicable disease report = Relevé des maladies transmissibles au
+Canada.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Semimonthly
+Country of Publication: Canada
+Publisher: Ottawa : Health and Welfare Canada, 1992-
+Latest Publisher: Ottawa : Health Canada
+Description: v. : ill.
+Language: English, French
+ISSN: 1188-4169(Print); 1481-8531(Electronic); 1188-4169(Linking)
+Electronic Links: http://www.phac-aspc.gc.ca/publicat/ccdr-rmtc/index-eng.php, https://pmc.ncbi.nlm.nih.gov/journals/?term=9303729
+Fully Indexed In: MEDLINE: v18n1, 1992-v35, 2009; Index medicus
+In: PubMed: v18n1, 1992-v35, 2009; v40n2, 2014-, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Canada; Communicable Disease Control*; Communicable Diseases*; Communicable Diseases/epidemiology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 33, no. 6 (2007). Also issued online. Text in English
+and French.
+Other ID: (DNLM)SR0075129(s)(OCoLC)26498061
+NLM ID: 9303729[Serial]
+
+35. Title Abbreviation: Epidemiol Psichiatr Soc
+Title(s): Epidemiologia e psichiatria sociale.
+Publication Start Year: 1992
+Publication End Year: 2010
+Frequency: 4 no. a year, <1999>-2010
+Country of Publication: Italy
+Publisher: Roma : Il Pensiero scientifico editore,
+Description: v. : ill.
+Language: Italian, English
+ISSN: 1121-189X(Print); 1121-189X(Linking)
+LCCN: sn 96039892
+Electronic Links: https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences
+Fully Indexed In: MEDLINE: v6n1,Jan.-Apr. 1997-v19n4,Oct.-Dec. 2010; Index medicus
+In: PubMed: v6n1,Jan.-Apr. 1997-v19n4,Oct.-Dec. 2010; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Community Psychiatry*; Epidemiology*; Mental Disorders*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 2, n. 1 (genn.-apr. 1993); title from cover. Vols. 1
+(1992)-7 (1998) reissued on CD-ROM as a supplement to Vol. 8, n. 1. Also issued
+online. Articles in Italian with some in English; summaries in both languages.
+Other ID: (DNLM)SR0082562(s)(OCoLC)36056027
+NLM ID: 9501447[Serial]
+
+36. Title Abbreviation: Pharmacoepidemiol Drug Saf
+Title(s): Pharmacoepidemiology and drug safety.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Twelve no. a year, 2004-
+Country of Publication: England
+Publisher: Chichester, West Sussex : Wiley, 1992-
+Description: v.
+Language: English
+ISSN: 1053-8569(Print); 1099-1557(Electronic); 1053-8569(Linking)
+Coden: PDSAEA
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1557
+Fully Indexed In: MEDLINE: v10n1, Jan.-Feb. 2001-; PubMed: v10n1, Jan.-Feb. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Drug Utilization*; Drug-Related Side Effects and Adverse Reactions*; Epidemiologic Methods*; Epidemiology*; Pharmacology, Clinical*; Product Surveillance, Postmarketing*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0071999(s)(OCoLC)22683758
+NLM ID: 9208369[Serial]
+
+37. Author(s): American Association for Cancer Research.; American Society of Preventive
+Oncology.
+Title Abbreviation: Cancer Epidemiol Biomarkers Prev
+Title(s): Cancer epidemiology, biomarkers & prevention : a publication of the American
+Association for Cancer Research, cosponsored by the American Society of
+Preventive Oncology.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Philadelphia, PA : American Association for Cancer Research, c1991-
+Description: v. : ill.
+Language: English
+ISSN: 1055-9965(Print); 1538-7755(Electronic); 1055-9965(Linking)
+Coden: CEBPE4
+Electronic Links: https://aacrjournals.org/cebp
+Fully Indexed In: MEDLINE: v1n1,Nov./Dec. 1991-; PubMed: v1n1,Nov./Dec. 1991-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetic Markers*; Neoplasms/epidemiology*Neoplasms/genetics*Neoplasms/prevention & control*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 29, no. 12 (Dec. 2020). Available
+also online.
+Other ID: (DNLM)SR0071522(s)(OCoLC)23441645
+NLM ID: 9200608[Serial]
+
+38. Title Abbreviation: Eur J Public Health
+Title(s): European journal of public health.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Six no. a year, 2005-
+Country of Publication: England
+Publisher: Stockholm, Sweden : Almqvist & Wiksell International, c1991-
+Latest Publisher: Oxford : Oxford University Press
+Description: v.
+Language: English
+ISSN: 1101-1262(Print); 1464-360X(Electronic); 1101-1262(Linking)
+Coden: EJPHF6
+Electronic Links: https://academic.oup.com/eurpub, https://pmc.ncbi.nlm.nih.gov/journals/?term=9204966
+Fully Indexed In: MEDLINE: v11n1, Mar. 2001-; PubMed: v11n1, Mar. 2001-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*; Europe; Public Health*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also available online.
+Other ID: (DNLM)SR0070077(s)(OCoLC)25627514
+NLM ID: 9204966[Serial]
+
+39. Author(s): Nihon Eki Gakkai.
+Title Abbreviation: J Epidemiol
+Title(s): Journal of epidemiology/ Japan Epidemiological Association.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Bimonthly, 1999-
+Country of Publication: Japan
+Publisher: Tokyo : Japan Epidemiological Association
+Latest Publisher: 2018- : [Tokyo] : Japan Epidemiological Association
+Description: v. : ill.
+Language: English
+ISSN: 0917-5040(Print); 1349-9092(Electronic); 0917-5040(Linking)
+Coden: JOEPFV
+LCCN: sn 96039553
+Electronic Links: https://www.jstage.jst.go.jp/browse/jea, https://pmc.ncbi.nlm.nih.gov/journals/?term=9607688
+Fully Indexed In: MEDLINE: v6n1, 1996-; Index medicus
+In: PubMed: v6n1, 1996-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 4, no. 2 (Aug. 1994); title from cover. Also issued
+online. Official journal of the Japan Epidemiological Association.
+Other ID: (DNLM)SR0085282(s)(OCoLC)35306680
+NLM ID: 9607688[Serial]
+
+40. Author(s): International Society of Exposure Analysis.
+Title Abbreviation: J Expo Anal Environ Epidemiol
+Title(s): Journal of exposure analysis and environmental epidemiology.
+Publication Start Year: 1991
+Publication End Year: 2005
+Frequency: Bimonthly, 1999-
+Country of Publication: England
+Publisher: Princeton, N.J. : Princeton Scientific Pub. Co., c1991-
+Latest Publisher: Basingstoke, UK : Nature Publishing Group
+Description: v. : ill.
+Language: English
+ISSN: 1053-4245(Print); 1476-5519(Electronic); 1053-4245(Linking)
+Coden: JEAEE9
+LCCN: 91643989, sn 90001374
+Electronic Links: http://www.nature.com/jea
+Fully Indexed In: MEDLINE: v1n1, 1991-v15n6, Nov. 2005; PubMed: v1n1, 1991-v15n6, Nov. 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Environmental Exposure*; Environmental Monitoring*; Environmental Pollutants/analysis*
+Publication Type(s): Periodical
+Notes: Issues for <Mar. 2005-> called: Journal of exposure analysis & environmental
+epidemiology. Also issued online. Official organ of the International Society of 
+Exposure Analysis.
+Other ID: (DNLM)SR0071115(s)(OCoLC)22529149
+NLM ID: 9111438[Serial]
+
+41. Author(s): American College of Epidemiology.
+Title Abbreviation: Ann Epidemiol
+Title(s): Annals of epidemiology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Eight no. a year, 1997-
+Country of Publication: United States
+Publisher: New York, NY : Elsevier, c1990-
+Description: v. : ill.
+Language: English
+ISSN: 1047-2797(Print); 1873-2585(Electronic); 1047-2797(Linking)
+Coden: ANNPE3
+Electronic Links: https://www.sciencedirect.com/journal/annals-of-epidemiology
+Fully Indexed In: MEDLINE: v1n1,Oct. 1990-; PubMed: v1n1,Oct. 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Acute Disease/epidemiology*; Chronic Disease/epidemiology*
+Notes: Title from cover. Also available online. Sponsored by: American College of
+Epidemiology.
+Other ID: (DNLM)SR0067415(s)(OCoLC)20649595
+NLM ID: 9100013[Serial]
+
+42. Author(s): Uniunea Societăților de Științe Medicale.; Societatea Română de
+Microbiologie.
+Title Abbreviation: Bacteriol Virusol Parazitol Epidemiol
+Title(s): Bacteriologia, virusologia, parazitologia, epidemiologia/ Uniunea Societătilor
+de Stiinte Medicale din România.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucuresti : Editura Medicala, 1990-
+Description: v. : ill.
+Language: Romanian, English, Russian
+ISSN: 1220-3696(Print); 1220-3696(Linking)
+Fully Indexed In: MEDLINE: v35n2, Apr.-Jun. 1990- v56n1, 2011; Index medicus
+In: PubMed: v35n2, Apr.-Jun. 1990- v56n1, 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteriology*; Epidemiology*; Parasitology*; Virology*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Articles in Romanian; some summaries in English,
+Romanian, and Russian, 1990; summaries in English, 1991- ; tables of contents in 
+English, Romanian, and Russian, 1990 and in English, French and Romanian, 1991- .
+Journal of: Societatea Româna de Microbiologie, 1991- .
+Other ID: (OCoLC)24498798(DNLM)SR0073306(s)
+NLM ID: 9204448[Serial]
+
+43. Title Abbreviation: Cancer Causes Control
+Title(s): Cancer causes & control : CCC.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Twelve times a year, 2010-
+Country of Publication: Netherlands
+Publisher: Oxford, UK : Rapid Communications of Oxford Ltd., 1990-
+Latest Publisher: Dordrecht : Kluwer Academic Publishers
+Description: v. : ill.
+Language: English
+ISSN: 0957-5243(Print); 1573-7225(Electronic); 0957-5243(Linking)
+Coden: CCCNEN
+LCCN: sn 90031475
+Electronic Links: https://link.springer.com/journal/10552
+Fully Indexed In: MEDLINE: v1n1,Jul. 1990-; PubMed: v1n1,Jul. 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neoplasms/epidemiology*Neoplasms/prevention & control*
+Publication Type(s): Periodical
+Notes: Vol. 1, no. 1 (July 1990)- Title from cover. Vol. 1 complete in 3 issues. Also
+issued online.
+Other ID: (DNLM)SR0069767(s)(OCoLC)22459434
+NLM ID: 9100846[Serial]
+
+44. Author(s): International Society for Environmental Epidemiology.
+Title Abbreviation: Epidemiology
+Title(s): Epidemiology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: [Cambridge, MA : Blackwell Scientific Publications ; Chestnut Hill, MA :
+Epidemiology Resources, c1990-
+Latest Publisher: <2000>- : Hagerstown, MD : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English
+ISSN: 1044-3983(Print); 1531-5487(Electronic); 1044-3983(Linking)
+Coden: EPIDEY
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00001648-000000000-00000
+Fully Indexed In: MEDLINE: v1n1,Jan. 1990-; Index medicus
+In: PubMed: v1n1,Jan. 1990-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0066406(s)(OCoLC)19769281
+NLM ID: 9009644[Serial]
+
+45. Author(s): New South Wales. Department of Health.
+Title Abbreviation: N S W Public Health Bull
+Title(s): New South Wales public health bulletin.
+Publication Start Year: 1990
+Publication End Year: 2014
+Frequency: Quarterly, 2013-
+Country of Publication: Australia
+Publisher: North Sydney, NSW : NSW Health Dept.,
+Description: v. : ill.
+Language: English
+ISSN: 1034-7674(Print); 1839-4345(Electronic); 1034-7674(Linking)
+Electronic Links: http://www.phrp.com.au/issue/past-issues/
+Fully Indexed In: MEDLINE: v13n1-2, Jan.-Feb. 2002-v24n 4, 2014; Index medicus
+In: PubMed: v13n1-2, Jan.-Feb. 2002-v24n 4, 2014; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiology*; New South Wales; Public Health*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 8, no. 1-2 (Jan.-Feb. 1997); title from caption. Print
+issues ceased with v. 24, 2014. Supplements, each with a distinctive title,
+accompany some vols. New South Wales mothers and babies, a statistical report
+published annually, issued as a supplement. Also issued online. Indexes: Vols. 1 
+(1990)-8 (1997) in v. 9, no. 1-2.
+Other ID: (DNLM)SR0090950(s)(OCoLC)37908671
+NLM ID: 9712270[Serial]
+
+46. Author(s): Magyar Földrajzi Társaság. Sectio Medico-Geographica.; IGU Working Group on
+Geography of Health.; International Geographical Union. Commission on Geography
+of Health and Development.
+Title Abbreviation: Geogr Med Suppl
+Title(s): Geographia medica. Supplement = Geographia medica. Sonderband.
+Publication Start Year: 1988
+Publication End Year: 1992
+Frequency: Irregular
+Country of Publication: Hungary
+Publisher: Budapest : Medico-Geographical Section of the Hungarian Geographical Society on
+behalf of Working Group on Geography of Health of the International Geographical 
+Union, 1988-[1992?]
+Latest Publisher: Budapest : Medico-Geographical Section Of The Hungarian Geographical Society On
+Behalf Of Working Group On Geography Of Health Of The International Geographical 
+Union
+Description: v. : ill.
+Language: English, English
+ISSN: 0866-4323(Print); 0866-4323(Linking)
+Fully Indexed In: MEDLINE: v1, 1988-1990; PubMed: v1, 1988-1990; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiology*; Geography*
+Publication Type(s): Periodical
+Notes: Articles in English and German; summaries in both languages. Vols. for 1989-
+published on behalf of the Commission on Geography of Health and Development,
+International Geographical Union.
+Other ID: (DNLM)SR0068879(s)(OCoLC)18474030
+NLM ID: 9011764[Serial]
+
+47. Author(s): Society of Hospital Epidemiologists of America.; Society for Healthcare
+Epidemiology of America.
+Title Abbreviation: Infect Control Hosp Epidemiol
+Title(s): Infection control and hospital epidemiology.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [Thorofare, N.J. ] : SLACK Inc., c1988-
+Latest Publisher: Jan. 2015- : Cambridge : Cambridge University Press
+Description: v. : ill.
+Language: English
+ISSN: 0899-823X(Print); 1559-6834(Electronic); 0899-823X(Linking)
+Coden: ICEPE3
+LCCN: 89656010, sn 88001997
+Electronic Links: https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology
+Fully Indexed In: MEDLINE: v9n2, Feb. 1988-; International nursing index: v9n2, Feb. 1988-v21n5, May 2000; Index medicus
+In: PubMed: v9n2, Feb. 1988-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Nursing
+MeSH: Cross Infection*; Epidemiology*; Hospitals*; Infection Control*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the Society of Hospital
+Epidemiologists of America, 1998-April 1994; Society for Healthcare Epidemiology 
+of America, May 1994- .
+Other ID: (DNLM)SR0062088(s)(OCoLC)17410391
+NLM ID: 8804099[Serial]
+
+48. Title Abbreviation: J Clin Epidemiol
+Title(s): Journal of clinical epidemiology.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Oxford ; New York : Pergamon Press, c1988-
+Latest Publisher: New York : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0895-4356(Print); 1878-5921(Electronic); 0895-4356(Linking)
+Coden: JCEPEE
+LCCN: 88640924, sn 87002447
+Electronic Links: http://www.sciencedirect.com/science/journal/08954356
+Fully Indexed In: MEDLINE: v41n1, 1988-; Index medicus
+In: PubMed: v41n1, 1988-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Supplements accompany some issues. Also issued online.
+Other ID: (DNLM)SR0061216(s)(OCoLC)16638324
+NLM ID: 8801383[Serial]
+
+49. Title Abbreviation: Soc Psychiatry Psychiatr Epidemiol
+Title(s): Social psychiatry and psychiatric epidemiology.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Germany
+Publisher: [Berlin] : Springer International, [c1988-
+Description: v. : ill.
+Language: English
+ISSN: 0933-7954(Print); 1433-9285(Electronic); 0933-7954(Linking)
+Coden: SPPEEM
+Electronic Links: https://link.springer.com/journal/127
+Fully Indexed In: MEDLINE: v23n1,Jan. 1988-; PubMed: v23n1,Jan. 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Community Psychiatry*; Epidemiology*; Mental Disorders*
+Publication Type(s): Periodical
+Notes: Called also: SPPE. Also available online.
+Other ID: (DNLM)SR0062104(s)(OCoLC)17661557
+NLM ID: 8804358[Serial]
+
+50. Title Abbreviation: Epidemiol Infect
+Title(s): Epidemiology and infection.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Twelve no. a year, 2008-
+Country of Publication: England
+Publisher: Cambridge Eng : Cambridge University Press
+Description: v. : ill.
+Language: English
+ISSN: 0950-2688(Print); 1469-4409(Electronic); 0950-2688(Linking)
+Coden: EPINEU
+Electronic Links: https://www.cambridge.org/core/journals/epidemiology-and-infection, https://pmc.ncbi.nlm.nih.gov/journals/?term=8703737
+Fully Indexed In: MEDLINE: v98n1, Feb. 1987-; Index medicus
+In: PubMed: v98n1, Feb. 1987-, PMC
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communicable Diseases*; Epidemiology*; Infections*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 142, no. 12 (2014). Also issued
+online.
+Other ID: (DNLM)SR0058325(s)(OCoLC)15218155
+NLM ID: 8703737[Serial]
+
+51. Title Abbreviation: Paediatr Perinat Epidemiol
+Title(s): Paediatric and perinatal epidemiology.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Six no. a year, 2004-
+Country of Publication: England
+Publisher: Oxford ; Boston : Blackwell Scientific Publications, [c1987-
+Description: v. : ill.
+Language: English
+ISSN: 0269-5022(Print); 1365-3016(Electronic); 0269-5022(Linking)
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3016
+Fully Indexed In: MEDLINE: v1n1,Apr. 1987-; PubMed: v1n1,Apr. 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*; Pediatrics*; Perinatology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0058338(s)(OCoLC)15994243
+NLM ID: 8709766[Serial]
+
+52. Title Abbreviation: Genet Epidemiol Suppl
+Title(s): Genetic epidemiology. Supplement.
+Publication Start Year: 1986
+Publication End Year: 1986
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York : A.R. Liss, c1987-
+Description: v. : ill.
+Language: English
+ISSN: 
+Fully Indexed In: MEDLINE: v1, 1986; PubMed: v1, 1986; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiologic Methods*; Genetic Diseases, Inborn*
+Publication Type(s): Periodical
+Notes: Title from cover. Vols. 1- issued also as monographs.
+Other ID: (DNLM)SR0065900(s)(OCoLC)15915649
+NLM ID: 8914640[Serial]
+
+53. Title Abbreviation: Eur J Epidemiol
+Title(s): European journal of epidemiology.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Twelve no. a year, 2000-
+Country of Publication: Netherlands
+Publisher: [Rome : The Journal, 1985-
+Latest Publisher: Dordrecht : Kluwer Academic Publishers
+Description: v. : ill.
+Language: English
+ISSN: 0393-2990(Print); 1573-7284(Electronic); 0393-2990(Linking)
+Coden: EJEPE8
+LCCN: sn 86031212
+Electronic Links: https://link.springer.com/journal/10654
+Fully Indexed In: MEDLINE: v1n1,Mar. 1985-; PubMed: v1n1,Mar. 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online.
+Other ID: (DNLM)SR0054183(s)(OCoLC)12670884
+NLM ID: 8508062[Serial]
+
+54. Title Abbreviation: Genet Epidemiol
+Title(s): Genetic epidemiology.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Eight no. a year, 1999-
+Country of Publication: United States
+Publisher: New York, N.Y. : Alan R. Liss, c1984-
+Latest Publisher: New York, NY : Wiley-Liss
+Description: v. : ill., ports.
+Language: English
+ISSN: 0741-0395(Print); 1098-2272(Electronic); 0741-0395(Linking)
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2272
+Fully Indexed In: MEDLINE: v1n1, 1984-; PubMed: v1n1, 1984-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*; Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Has supplement: Genetic epidemiology. Supplement, 1986- Print
+issues ceased with v. 38, no. 8 (Dec. 2014). Also issued online.
+Other ID: (DNLM)G04577000(s)(OCoLC)10075991
+NLM ID: 8411723[Serial]
+
+55. Author(s): Instituto Mexicano del Seguro Social.
+Title Abbreviation: Rev Med Inst Mex Seguro Soc
+Title(s): Revista médica del Instituto Mexicano del Seguro Social.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Mexico
+Publisher: México, D.F. : Oficina de Bibliotecas y Divulgación de la Jefatura de los
+Servicios de Enseñanza e Investigación, [1983]-
+Latest Publisher: <2010- > : México, D.F. : Coordinación de Educación en Salud, División de
+Innovación Educativa
+Description: v. : ill. ; 25 cm.
+Language: Spanish, English, English
+ISSN: 0443-5117(Print); 2448-5667(Electronic); 0443-5117(Linking)
+Coden: RMEDAU
+LCCN: sn 85006194
+Electronic Links: http://revistamedica.imss.gob.mx/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101243727
+Fully Indexed In: MEDLINE: v43n1, Jan./Feb. 2005-
+In: PubMed: v43n1, Jan./Feb. 2005-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 42, no. 6 (nov./dic. 2004). Has
+occasional unnumbered supplements. Also issued online. In Spanish with table of
+contents and summaries in English.
+Other ID: (OCoLC)10512384
+NLM ID: 101243727[Serial]
+
+56. Author(s): World Federation of Neurology. Research Committee on Neuroepidemiology.
+Title Abbreviation: Neuroepidemiology
+Title(s): Neuroepidemiology.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Switzerland
+Publisher: Basel ; New York : S. Karger, [1982-
+Description: v. : ill.
+Language: English, English
+ISSN: 0251-5350(Print); 1423-0208(Electronic); 0251-5350(Linking)
+Coden: NEEPD3
+Electronic Links: http://www.karger.com/Journal/Home/224263
+Fully Indexed In: MEDLINE: 4/1/85, 1985-; PubMed: 4/1/85, 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System Diseases/epidemiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online. Official publication of the World
+Federation of Neurology Research Committee on Neuroepidemiology.
+Other ID: (DNLM)N12700400(s)(OCoLC)08487314
+NLM ID: 8218700[Serial]
+
+57. Author(s): Zhonghua yi xue hui (China : 1949- ); Zhongguo yi xue ke xue yuan. Liu xing bing 
+xue wei sheng wu xue yan jiu suo.
+Title Abbreviation: Zhonghua Liu Xing Bing Xue Za Zhi
+Title(s): Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: China
+Publisher: [Beijing] : Zhonghua yi xue hui; Zhongguo yi xue ke xue yuan Liu xing bing xue
+wei sheng wu xue yan jiu suo, [1981-
+Latest Publisher: Beijing : Zhonghua yi xue hui; Zhongguo yi xue ke xue yuan Liu xing bing xue wei 
+sheng wu xue yan jiu suo
+Description: v. : ill.
+Language: Chinese, English
+ISSN: 0254-6450(Print); 0254-6450(Linking)
+Coden: ZLZAE6
+Electronic Links: http://chinaepi.icdc.cn/zhlxbxen/ch/index.aspx
+Fully Indexed In: MEDLINE: v3n1, 1982-; PubMed: v3n1, 1982-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communicable Diseases*; Epidemiology*; Microbiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Articles in Chinese; table of contents in
+Chinese and English.
+Other ID: (OCoLC)08617360(DNLM)C21074300(s)
+NLM ID: 8208604[Serial]
+
+58. Author(s): Kokuritsu Yobō Eisei Kenkyūjo (Japan); Japan. Kōseishō. Eizu Kekkaku
+Kansenshōka.
+Title Abbreviation: Byogen Biseibutsu Kenshutsu Joho Geppo
+Title(s): Byōgen biseibutsu kenshutsu jōhō, geppo = Infectious agents surveillance
+report (IASR).
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Japan
+Publisher: Tōkyō : Kokuritsu Yobō Eisei Kenkyūjo, Kōseishō Hoken Iryōkyoku, Eizu
+Kekkaku Kansenshōka,
+Description: v.
+Language: Japanese, English
+ISSN: 0915-5813(Print); 0915-5813(Linking)
+LCCN: sn99-39861
+Electronic Links: http://idsc.nih.go.jp/iasr/index-c.html
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communicable Diseases/epidemiology; Disease Outbreaks; Infections/epidemiology*; Japan
+Publication Type(s): Periodical
+Notes: Online version has title in HTML source code: IASR monthly report. Description
+based on: Vol. 17, no. 5 (1996-nen 5-gatsu) = no. 195; title from caption. Print 
+issues ceased with v. 33, no. 12 (2012). Also issued online. Chiefly in Japanese 
+with some in English.
+Other ID: (DNLM)SR0093441(s)(OCoLC)42776215
+NLM ID: 9812944[Serial]
+
+59. Author(s): Canada. Health and Welfare Canada.
+Title Abbreviation: Chronic Dis Can
+Title(s): Chronic diseases in Canada.
+Publication Start Year: 1980
+Publication End Year: 2011
+Frequency: Quarterly
+Country of Publication: Canada
+Publisher: [Ottawa] : Health and Welfare Canada, 1980-
+Latest Publisher: Ottawa : Health Canada
+Description: v. : ill.
+Language: English
+ISSN: 0228-8699(Print); 1481-8523(Electronic); 0228-8699(Linking)
+Electronic Links: http://www.phac-aspc.gc.ca/publicat/cdic-mcc/
+Fully Indexed In: MEDLINE: v17n1,winter 1996-v31n2, Mar. 2011; Index medicus
+In: PubMed: v17n1,winter 1996-v31n2, Mar. 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Canada; Chronic Disease*
+Publication Type(s): Periodical
+Notes: Other editions available: Maladies chroniques au Canada. Supplements accompany
+some issues. Also issued online.
+Other ID: (DNLM)C20470000(s)(OCoLC)07822810
+NLM ID: 8506870[Serial]
+
+60. Author(s): Pan American Health Organization.
+Title Abbreviation: Epidemiol Bull
+Title(s): Epidemiological bulletin.
+Publication Start Year: 1980
+Publication End Year: 2009
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Washington] Pan American Health Organization.
+Description: v. ill.
+Language: English
+ISSN: 0256-1859(Print); 0256-1859(Linking)
+LCCN: 80648954
+Electronic Links: http://www1.paho.org/English/dd/ais/beindexe.htm
+Fully Indexed In: MEDLINE: v9n1, 1988-v26n3, Sept. 2005; Index medicus
+In: PubMed: v9n1, 1988-v26n3, Sept. 2005; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Americas; Epidemiology*
+Publication Type(s): Periodical
+Notes: Published also in Spanish with title: Boletín epidemiológico. Print issues
+ceased with: Vol. 26, no. 3 (Sept. 2005) Also issued online. Indexes: Vols. 1-4, 
+1980-1983, with v.4.
+Other ID: (DNLM)E11205000(s)(OCoLC)06692437
+NLM ID: 8011598[Serial]
+
+61. Author(s): Klingberg,Marcus A
+Title Abbreviation: Contrib Epidemiol Biostat
+Title(s): Contributions to epidemiology and biostatistics.
+Publication Start Year: 1979
+Publication End Year: 1995
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Latest Publisher: Basel : Karger
+Description: v.
+Language: English
+ISSN: 0377-3574(Print); 0377-3574(Linking)
+Coden: CEPBDV
+Fully Indexed In: MEDLINE: v7, 1995; PubMed: v7, 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiology*; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Editor: v. 1- M. A. Klingberg.
+Other ID: (DNLM)C47780000(s)(OCoLC)04633885
+NLM ID: 7807252[Serial]
+
+62. Author(s): International Epidemiological Association.; Society for Epidemiologic Research
+(U.S.); Johns Hopkins Bloomberg School of Public Health.
+Title Abbreviation: Epidemiol Rev
+Title(s): Epidemiologic reviews.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Annual, 2003-
+Country of Publication: United States
+Publisher: Baltimore, Johns Hopkins Univ. Press
+Latest Publisher: <2006- > : New York : published by Oxford University Press on behalf of Johns
+Hopkins Bloomberg School of Public Health
+Description: v. ill.
+Language: English
+ISSN: 0193-936X(Print); 1478-6729(Electronic); 0193-936X(Linking)
+Coden: EPIRD7
+LCCN: 79007564, 79005507
+Electronic Links: https://academic.oup.com/epirev
+Fully Indexed In: MEDLINE: v1n1, 1979-; Index medicus
+In: PubMed: v1n1, 1979-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*
+Publication Type(s): Periodical
+Notes: Published under the editorial management of the American journal of epidemiology.
+Also issued online. Published by the Johns Hopkins University School of Hygiene
+and Public Health, <1993- > under the editorial management of the American
+journal of epidemiology, <1979- >. Published by Oxford University Press on behalf
+of Johns Hopkins Bloomberg School of Public Health, vols. for <2006- >. Sponsored
+by the Society for Epidemiologic Research and the International Epidemiological
+Association.
+Other ID: (OCoLC)05273707(DNLM)E11170000(s)
+NLM ID: 7910703[Serial]
+
+63. Author(s): British Medical Association.
+Title Abbreviation: Epidemiol Community Health
+Title(s): Epidemiology and community health.
+Publication Start Year: 1979
+Publication End Year: 1979
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : British Medical Assn.
+Description: 106 p. ill.
+Language: English, English
+ISSN: 0142-467X(Print); 0142-467X(Linking)
+Coden: JECHDR
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=7907645
+Fully Indexed In: MEDLINE: v33n1,Mar. 1979; Index medicus
+In: PubMed: v33n1,Mar. 1979, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Community Health Services*; Epidemiology*; Public Health*; Social Medicine*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)E11310000(s)(OCoLC)04981466
+NLM ID: 7907645[Serial]
+
+64. Author(s): British Medical Association.
+Title Abbreviation: J Epidemiol Community Health
+Title(s): Journal of epidemiology and community health.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Monthly, <1998->
+Country of Publication: England
+Publisher: London, British Medical Assn.
+Description: v. ill.
+Language: English, English
+ISSN: 0143-005X(Print); 1470-2738(Electronic); 0143-005X(Linking)
+Coden: JECHDR
+Electronic Links: http://jech.bmj.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=7909766
+Fully Indexed In: MEDLINE: v33n2, 1979-; Index medicus
+In: PubMed: v33n2, 1979-, PMC Inactive; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Community Health Services*; Epidemiology*; Public Health*; Social Medicine*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J20260020(s)(OCoLC)05385322
+NLM ID: 7909766[Serial]
+
+65. Title Abbreviation: Soc Sci Med D
+Title(s): Social science & medicine. Part D, Medical geography.
+Publication Start Year: 1979
+Publication End Year: 1981
+Frequency: Eighteen no. a year
+Country of Publication: England
+Publisher: Oxford ; New York : Pergamon Press, c1979-[1981]
+Latest Publisher: Oxford : Pergamon Press
+Description: v. : ill.
+Language: English, English
+ISSN: 0160-8002(Print); 0160-8002(Linking)
+Coden: SSMGDX
+Electronic Links: http://www.sciencedirect.com/science/journal/01608002
+Fully Indexed In: MEDLINE: v15Dn3,Aug. 1981- v15Dn4,Dec. 1981; PubMed: v15Dn3,Aug. 1981- v15Dn4,Dec. 1981; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Delivery of Health Care*; Environment*; Epidemiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)07960892(DNLM)S28702110(s)
+NLM ID: 8109997[Serial]
+
+66. Author(s): British Medical Association.
+Title Abbreviation: J Epidemiol Community Health (1978)
+Title(s): Journal of epidemiology and community health.
+Publication Start Year: 1978
+Publication End Year: 1978
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, British Medical Assn.
+Latest Publisher: London : British Medical Association
+Description: 319 p. : ill., ports.
+Language: English, English
+ISSN: 0141-7681(Print); 0141-7681(Linking)
+Coden: JECHDR
+LCCN: sc 80001930, sn 80011508
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=7806055
+Fully Indexed In: MEDLINE: v32,Jun.-Dec. 1978; Index medicus
+In: PubMed: v32,Jun.-Dec. 1978, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Community Health Services*; Epidemiology*; Public Health*; Social Medicine*
+Publication Type(s): Periodical
+Notes: Key titlle: Journal of epidemiology and community health, ISSN 0141-7681. Also
+issued online.
+Other ID: (DNLM)J20260000(s)(OCoLC)03919045
+NLM ID: 7806055[Serial]
+
+67. Title Abbreviation: Soc Sci Med Med Geogr
+Title(s): Social science & medicine. Medical geography.
+Publication Start Year: 1978
+Publication End Year: 1979
+Frequency: Eighteen no. a year
+Country of Publication: England
+Publisher: Oxford, Elmsford, N. Y., Pergamon Press.
+Description: 2 v. ill.
+Language: English, English
+ISSN: 
+Coden: SSMGDX
+Electronic Links: http://www.sciencedirect.com/science/journal/01608002
+Fully Indexed In: MEDLINE: v13Dn2,Jun. 1979; PubMed: v13Dn2,Jun. 1979; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Delivery of Health Care*; Environment*; Epidemiology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)03989785(DNLM)S28700150(s)
+NLM ID: 7905393[Serial]
+
+68. Title Abbreviation: Epidemiol Prev
+Title(s): Epidemiologia e prevenzione.
+Publication Start Year: 1976
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Milano : Cooperativa epidemiologia e prevenzione
+Description: v. : ill., maps.
+Language: Italian, English
+ISSN: 1120-9763(Print); 1120-9763(Linking)
+LCCN: sn 89036080
+Electronic Links: http://www.epiprev.it/
+Fully Indexed In: MEDLINE: v9n30,Mar. 1987-; PubMed: v9n30,Mar. 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*; Italy; Preventive Medicine*
+Publication Type(s): Periodical
+Notes: Published: Rome, Italy: La Nuova Italia Scientifica, 1985-1993. Description based
+on: Anno 1, n. 2 (estate 1977); title from cover. Issues for 1977 preceded by an 
+experimental issue called n. 0, dated "autumno 1976". Also issued online.
+Articles in Italian; occasional summaries in English and Italian.
+Other ID: (OCoLC)19169994(DNLM)SR0050954(s)
+NLM ID: 8902507[Serial]
+
+69. Title Abbreviation: Rev Epidemiol Sante Publique
+Title(s): Revue d'épidémiologie et de santé publique.
+Publication Start Year: 1976
+Publication End Year: 2023
+Frequency: Bimonthly
+Country of Publication: France
+Publisher: Paris, New York, Masson.
+Description: v. ill.
+Language: English, French, English, French
+ISSN: 0398-7620(Print); 0398-7620(Linking)
+Coden: RESPDF
+Electronic Links: http://www.sciencedirect.com/science/journal/03987620
+Fully Indexed In: MEDLINE: v24n1,Mar./Apr. 1976-v71n6, Dec. 2023; PubMed: v24n1,Mar./Apr. 1976-v71n6, Dec. 2023; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiology*; Public Health*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English or French with summaries and tables of
+contents in both languages.
+Other ID: (DNLM)R42360000(s)(OCoLC)02509902
+NLM ID: 7608039[Serial]
+
+70. Author(s): Canada. Health and Welfare Canada.; Laboratory Centre for Disease Control
+(Canada). Bureau of Epidemiology.
+Title Abbreviation: Can Dis Wkly Rep
+Title(s): Canada diseases weekly report = Rapport hebdomadaire des maladies au Canada.
+Publication Start Year: 1975
+Publication End Year: 1991
+Frequency: Weekly
+Country of Publication: Canada
+Publisher: [Ottawa, Ont.] : Health and Welfare Canada,
+Description: 17 v. : ill.
+Language: English, French
+ISSN: 0382-232X(Print); 0382-232X(Linking)
+Coden: CDWSE9
+Fully Indexed In: MEDLINE: v14n1, 1988-v17n39, Sept. 28, 1991; Index medicus
+In: PubMed: v14n1, 1988-v17n39, Sept. 28, 1991; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Canada; Communicable Disease Control*; Communicable Diseases*; Epidemiology*
+Publication Type(s): Periodical
+Notes: Has supplement: New facts of life. Description based on: Vol. 13-49 (Dec. 12,
+1987); title from caption. Supplements accompany some issues. In English and
+French. Issues for May 10, 1975- published by the: Bureau of Epidemiology,
+Laboratory Centre for Disease Control.
+Other ID: (DNLM)C03240000(s)(OCoLC)02248870
+NLM ID: 8903726[Serial]
+
+71. Author(s): Societatea de Bacteriologie, Virusologie, Parazitologie, Epidemiologie.
+Title Abbreviation: Rev Ig Bacteriol Virusol Parazitol Epidemiol Pneumoftiziol Bacteriol Virusol
+Parazitol Epidemiol
+Title(s): Revista de igienă, bacteriologie, virusologie, parazitologie, epidemiologie,
+pneumoftiziologie. Bacteriologia, virusologia, parazitologia, epidemiologia.
+Publication Start Year: 1974
+Publication End Year: 1990
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucureşti.
+Latest Publisher: Bucuresti : Uniunea Societatealor De Stiinte Medicale
+Description: 17 v. illus.
+Language: Romanian, English, Multiple languages
+ISSN: 0376-4494(Print); 0376-4494(Linking)
+Coden: BVPEDC
+Fully Indexed In: MEDLINE: v19n4, Jul./Sept. 1974-1990; Index medicus
+In: PubMed: v19n4, Jul./Sept. 1974-1990; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteriology*; Epidemiology*; Parasitology*; Virology*
+Publication Type(s): Periodical
+Notes: Journal of the Societătea de Bacteriologie, Virusologie, Parazitologie,
+Epidemiologie. Title varies slightly. Articles in Romanian; tables of contents
+and summaries in English, French, German, Romanian, and Russian.
+Other ID: (OCoLC)01168398(DNLM)R35260000(s)
+NLM ID: 7508738[Serial]
+
+72. Title Abbreviation: Community Dent Oral Epidemiol
+Title(s): Community dentistry and oral epidemiology.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Denmark
+Publisher: Copenhagen, Munksgaard.
+Latest Publisher: Copenhagen : Munksgaard International Publishers
+Description: v. illus.
+Language: English
+ISSN: 0301-5661(Print); 1600-0528(Electronic); 0301-5661(Linking)
+Coden: CDOEAP
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0528
+Fully Indexed In: MEDLINE: v1n1, 1973-; Index to dental literature: v1n1, 1973-v28n2, Apr. 2000; Index medicus
+In: PubMed: v1n1, 1973-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Dentistry; Index Medicus
+MeSH: Dental Health Surveys*; Mouth Diseases/epidemiology*; Public Health Dentistry*; Tooth Diseases/epidemiology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)C33100000(s)(OCoLC)01780835
+NLM ID: 0410263[Serial]
+
+73. Title Abbreviation: Scand J Soc Med Suppl
+Title(s): Scandinavian journal of social medicine. Supplementum.
+Publication Start Year: 1973
+Publication End Year: 1998
+Frequency: Irregular
+Country of Publication: Sweden
+Publisher: Stockholm, Almqvist & Wiksell, 1973-
+Latest Publisher: Stockholm : Scandinavian University Press
+Description: no. illus.
+Language: English
+ISSN: 0301-7311(Print); 0301-7311(Linking)
+Coden: SJSSD2
+Fully Indexed In: MEDLINE: n7, 1973-n54, 1998; PubMed: n7, 1973-n54, 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Social Medicine*
+Publication Type(s): Periodical
+Notes: Some vols. have title: Scandinavian journal of social medicine. Supplement.
+Other ID: (DNLM)S07920000(s)(OCoLC)01777771
+NLM ID: 0412776[Serial]
+
+74. Title Abbreviation: Scand J Soc Med
+Title(s): Scandinavian journal of social medicine.
+Publication Start Year: 1973
+Publication End Year: 1998
+Frequency: Four no. a year
+Country of Publication: Sweden
+Publisher: Stockholm, Almqvist & Wiksell Periodical Co.
+Latest Publisher: Stockholm : Scandinavian University Press
+Description: 26 v. illus.
+Language: English
+ISSN: 0300-8037(Print); 0300-8037(Linking)
+Coden: SJSMAF
+LCCN: sc 83008276
+Electronic Links: https://journals.sagepub.com/home/sjp
+Fully Indexed In: MEDLINE: v1n1, 1973-v26n4,1998; PubMed: v1n1, 1973-v26n4,1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Social Medicine*
+Publication Type(s): Periodical
+Notes: Has supplements. Also issued online.
+Other ID: (DNLM)S07900000(s)(OCoLC)01443254
+NLM ID: 0365610[Serial]
+
+75. Author(s): International Epidemiological Association.
+Title Abbreviation: Int J Epidemiol
+Title(s): International journal of epidemiology.
+Publication Start Year: 1972
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: [London] Oxford University Press.
+Description: v. ill.
+Language: English, English
+ISSN: 0300-5771(Print); 1464-3685(Electronic); 0300-5771(Linking)
+Coden: IJEPBF
+Electronic Links: https://academic.oup.com/ije
+Fully Indexed In: MEDLINE: v1n1,spring 1972-; PubMed: v1n1,spring 1972-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*
+Publication Type(s): Periodical
+Notes: Also available online. Official journal of the International Epidemiological
+Association.
+Other ID: (DNLM)I26820000(s)(OCoLC)01784923
+NLM ID: 7802871[Serial]
+
+76. Title Abbreviation: Rev Epidemiol Med Soc Sante Publique
+Title(s): Revue d'épidémiologie, médecine sociale et santé publique.
+Publication Start Year: 1971
+Publication End Year: 1975
+Frequency: Eight no. a year
+Country of Publication: France
+Publisher: Paris, Masson.
+Latest Publisher: Paris : Masson Et Cie
+Description: 5 v. ill.
+Language: French, English, French
+ISSN: 0035-2438(Print); 0035-2438(Linking)
+Coden: REPMBN
+Fully Indexed In: MEDLINE: v22n6,Sept. 1974-v23,Oct./Dec. 1975; PubMed: v22n6,Sept. 1974-v23,Oct./Dec. 1975; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiology*; Public Health*; Social Medicine*
+Publication Type(s): Periodical
+Notes: Articles in French; summaries in English and French.
+Other ID: (DNLM)R42340000(s)(OCoLC)02267105
+NLM ID: 7608204[Serial]
+
+77. Author(s): International Geographical Union. Commission on Medical Geography.; Magyar
+Földrajzi Társaság. Sectio Medico-Geographica.
+Title Abbreviation: Geogr Med
+Title(s): Geographia medica.
+Publication Start Year: 1970
+Publication End Year: 1994
+Frequency: Annual
+Country of Publication: Hungary
+Publisher: Budapest.
+Latest Publisher: Szeged : Albert Szent-Gyorgyi Medical University
+Description: v. illus.
+Language: English
+ISSN: 0300-807X(Print); 0300-807X(Linking)
+Coden: GMDCB4
+Fully Indexed In: MEDLINE: v9, 1979-v20, 1990; PubMed: v9, 1979-v20, 1990; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiology*
+Publication Type(s): Periodical
+Notes: Has supplement: Geographia Medica. Supplement. Articles in English, French, or
+German. Issued by the Sectio Medico-Geographica Societatis Geographicae
+Hungaricae and the Consilium Geographia Medica Unionis Internationalis
+Geographiae.
+Other ID: (DNLM)G05100000(s)(OCoLC)02365404
+NLM ID: 0356650[Serial]
+
+78. Title Abbreviation: Acta Sociomed Scand Suppl
+Title(s): Acta socio-medica Scandinavica. Supplement.
+Publication Start Year: 1969
+Publication End Year: 1972
+Country of Publication: Sweden
+Publisher: [Stockholm] Läromedelsförlagen [1969?]-72.
+Description: 6 no. illus.
+Language: English
+ISSN: 0301-7664(Print); 0301-7664(Linking)
+Fully Indexed In: MEDLINE: n3, 1970-1972; PubMed: n3, 1970-1972; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Social Medicine*
+Publication Type(s): Periodical
+Notes: Text in English.
+Other ID: (DNLM)A09210000(s)(OCoLC)11115167
+NLM ID: 0414076[Serial]
+
+79. Title Abbreviation: Acta Sociomed Scand
+Title(s): Acta socio-medica Scandinavica.
+Publication Start Year: 1969
+Publication End Year: 1972
+Frequency: Three no. a year
+Country of Publication: Denmark
+Publisher: Stockholm, Läromedelsförlagen.
+Latest Publisher: Copenhagen : Laeromedelsfoerlagen
+Description: 4 v. ill.
+Language: Danish
+ISSN: 0044-6041(Print); 0044-6041(Linking)
+Coden: ASMSC6
+Fully Indexed In: MEDLINE: v1n1, 1969-v4n1, 1972; PubMed: v1n1, 1969-v4n1, 1972; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Social Medicine*
+Publication Type(s): Periodical
+Notes: Text in English, French or German.
+Other ID: (DNLM)A09195000(s)(OCoLC)01605486
+NLM ID: 2985168R[Serial]
+
+80. Author(s): Cambridge Group for the History of Population and Social Structure.; University
+of Nottingham. Department of Adult Education.
+Title Abbreviation: Local Popul Stud
+Title(s): Local population studies.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: England
+Publisher: [Matlock, Derbyshire, Eng., Cambridge Group for the History of Population and
+Social Structure, 1968-
+Description: v. illus.
+Language: English
+ISSN: 0143-2974(Print); 0143-2974(Linking)
+Selectively Indexed in: MEDLINEn3, 1969-n96, Spring 2016PubMedn3, 1969-n96, Spring 2016
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Demography*; Population*
+Publication Type(s): Periodical
+Other ID: (DNLM)L11990000(s)(OCoLC)02324976
+NLM ID: 0211167[Serial]
+
+81. Author(s): Institut national d'études démographiques (France)
+Title Abbreviation: Popul Soc (Paris)
+Title(s): Population et sociétés; bulletin mensuel d'informations démographiques,
+économiques, sociales.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Eleven no. a year
+Country of Publication: France
+Publisher: Paris, Institut national d'études démographiques.
+Latest Publisher: Paris : L Institut National D Etudes Demographiques
+Description: no.
+Language: French
+ISSN: 0184-7783(Print); 0184-7783(Linking)
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Population*
+Publication Type(s): Periodical
+Other ID: (DNLM)P19880000(s)(OCoLC)03866844
+NLM ID: 0154572[Serial]
+
+82. Author(s): Johns Hopkins University. School of Hygiene and Public Health.; Society for
+Epidemiologic Research (U.S.)
+Title Abbreviation: Am J Epidemiol
+Title(s): American journal of epidemiology.
+Publication Start Year: 1965
+Publication End Year: 
+Frequency: Semimonthly
+Country of Publication: United States
+Publisher: Baltimore, School of Hygiene and Public Health of Johns Hopkins Univ.
+Latest Publisher: Cary, NC : Oxford University Press
+Description: v. ill.
+Language: English
+ISSN: 0002-9262(Print); 1476-6256(Electronic); 0002-9262(Linking)
+Coden: AJEPAS
+Electronic Links: https://academic.oup.com/aje
+Fully Indexed In: MEDLINE: v82n2,Sept. 1965-; PubMed: v82n2,Sept. 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epidemiology*; Public Health*
+Publication Type(s): Periodical
+Notes: Sponsored 1975- by the Society for Epidemiologic Research.
+Other ID: (DNLM)A24180000(s)(OCoLC)01480139
+NLM ID: 7910653[Serial]
+
+83. Author(s): Instituto Mexicano del Seguro Social.
+Title Abbreviation: Rev Med (Mex)
+Title(s): Revista médica.
+Publication Start Year: 1962
+Publication End Year: 1983
+Frequency: Bimonthly
+Country of Publication: Mexico
+Publisher: [México : Instituto Mexicano del Seguro Social], 1962-[1983]
+Description: 21 v. : ill. ; 25 cm.
+Language: Spanish, English, English
+ISSN: 
+LCCN: sn 86012228
+In: MEDLINE: Selected citations only, PubMed: Selected citations only, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. Includes citations from print indexes prior to 1966.
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. In Spanish, with table of contents and summaries in English.
+Other ID: (OCoLC)05254164(DNLM)R36240000(s)
+NLM ID: 20240030R[Serial]
+
+84. Author(s): Leningradskiĭ institut ėpidemiologii i mikrobiologii im. Pastera.
+Title Abbreviation: Tr Leningr Inst Epidemiol Mikrobiol
+Title(s): Trudy Leningradskogo instituta ėpidemiologii i mikrobiologii im. Pastera.
+Publication Start Year: 1961
+Publication End Year: 1961
+Country of Publication: Russia (Federation)
+Publisher: Leningrad : Leningradskiĭ institut ėpidemiologii i mikrobiologii im. Pastera,
+1961.
+Description: 2 v.
+Language: Russian
+LCCN: sn 98039112
+Fully Indexed In: MEDLINE: v25, 1963; PubMed: v25, 1963; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communicable Diseases*
+Notes: Each issue has also an individual title.
+Other ID: (OCoLC)38523428
+NLM ID: 9427271[Serial]
+
+85. Title Abbreviation: J Hyg Epidemiol Microbiol Immunol
+Title(s): Journal of hygiene, epidemiology, microbiology, and immunology.
+Publication Start Year: 1957
+Publication End Year: 1992
+Frequency: Quarterly
+Country of Publication: Czech Republic
+Publisher: Prague.
+Latest Publisher: Praha : Avicenum
+Description: 36 v. : ill.
+Language: Multiple languages
+ISSN: 0022-1732(Print); 0022-1732(Linking)
+Coden: JHEMA2
+Fully Indexed In: MEDLINE: 9n3, 1965-36, 1992; PubMed: 9n3, 1965-36, 1992; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Epidemiology; Hygiene*; Microbiology*
+Publication Type(s): Periodical
+Notes: Issued also in Russian ed. Articles in English, French, or German, and summaries 
+in all three languages.
+Other ID: (DNLM)J23580000(s)(OCoLC)01696965
+NLM ID: 2985116R[Serial]
+
+86. Author(s): Ceskoslovenská lékarská spolecnost J. Ev. Purkyne. Sekce mikrobiologů a
+epidemiologů.
+Title Abbreviation: Cesk Epidemiol Mikrobiol Imunol
+Title(s): Ceskoslovenská epidemiologie, mikrobiologie, imunologie.
+Publication Start Year: 1956
+Publication End Year: 1993
+Frequency: Four no. a year
+Country of Publication: Czech Republic
+Publisher: Praha.
+Latest Publisher: Praha : Ceskoslovenska Lekarska Spolecnost
+Description: 38 v. ill.
+Language: Czech, English
+ISSN: 0009-0522(Print); 0009-0522(Linking)
+Coden: CKEMAE
+Fully Indexed In: MEDLINE: v14n4,Jul. 1965-v42, 1993; PubMed: v14n4,Jul. 1965-v42, 1993; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiology*; Hypersensitivity*; Immune System Diseases*; Microbiology*
+Publication Type(s): Periodical
+Notes: Journal of the Spolecnost ceskoslovenských mikrobiologú a epidemiologú. Vols. 
+for 19??-1993 have title: Cesko-Slovenská epidemiologie, mikrobiologie,
+immunologie. Table of contents and summaries in Czech, Russian, and English.
+Other ID: (DNLM)C13100000(s)(OCoLC)07112256
+NLM ID: 2984708R[Serial]
+
+87. Author(s): London School of Economics and Political Science. Population Investigation
+Committee.
+Title Abbreviation: Popul Stud (Camb)
+Title(s): Population studies.
+Publication Start Year: 1947
+Publication End Year: 
+Frequency: Three no. a year, July 1951-
+Country of Publication: England
+Publisher: London [etc.] Population Investigation Committee [etc.]
+Latest Publisher: London : Routledge
+Description: v. illus.
+Language: English
+ISSN: 0032-4728(Print); 1477-4747(Electronic); 0032-4728(Linking)
+Coden: POSTA4
+LCCN: 49048521
+Electronic Links: https://www.tandfonline.com/loi/rpst20
+Fully Indexed In: MEDLINE: v58n1, Mar. 2004-; Index medicus
+In: PubMed: v58n1, Mar. 2004-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Demography*
+Publication Type(s): Periodical
+Notes: Also issued online. Issued by the Population Investigation Committee.
+Other ID: (DNLM)P19900000(s)(OCoLC)01711968
+NLM ID: 0376427[Serial]
+
+88. Author(s): Poland. Naczelny Nadzwyczajny Komisariat do Walki z Epidemiami.; Narodowy
+Instytut Zdrowia Publicznego--Państwowy Zakład Higieny (Poland)
+Title Abbreviation: Przegl Epidemiol
+Title(s): Przegla̧d epidemiologiczny.
+Publication Start Year: 1947
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Poland
+Publisher: Warszawa : Państwowy Zakład Wydawnictw Lekarskich
+Latest Publisher: Warszawa : Narodowy Instytut Zdrowia Publicznego--Państwowy Zakład Higieny
+Description: v. illus.
+Language: English, Polish
+ISSN: 0033-2100(Print); 0033-2100(Linking)
+Coden: PREPAB
+Electronic Links: http://www.przeglepidemiol.pzh.gov.pl/
+Fully Indexed In: MEDLINE: v19n2, 1965-; Index medicus
+In: PubMed: v19n2, 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communicable Diseases*; Epidemiology*
+Publication Type(s): Periodical
+Notes: Issues for 2013- have English title: Epidemiological review. Also issued online. 
+Microfilm. v. 1 (1947)-4 (1949), v. 6 (1951)-15 (1961A). 5 microfilm reels :
+negative ; 35 mm. Articles have summaries in English or French, -2012; in English
+and Polish, only English articles incude references and tables/illustrations,
+2013- . Search interface available in English and Polish. Issued by the Naczelny 
+Nadzwyczajny Komisariat Walki z Epidemiami.
+Other ID: (DNLM)P51940000(s)(OCoLC)01310087
+NLM ID: 0413725[Serial]
+
+89. Title Abbreviation: Beitr Hyg Epidemiol
+Title(s): Beiträge zur Hygiene und Epidemiologie.
+Publication Start Year: 1943
+Publication End Year: 1981
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Leipzig : Johann Ambrosius Barth
+Description: v. illus.
+Language: German
+ISSN: 0067-5083(Print); 0067-5083(Linking)
+Coden: BHEPAP
+Fully Indexed In: MEDLINE: n19, 1965-n25, 1981; PubMed: n19, 1965-n25, 1981; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiology*; Hygiene*
+Publication Type(s): Collected Work
+Notes: Some numbers issued in revised editions. Microfilm. v. 1 (1943)-12 (1958). 1
+microfilm reel : negative ; 35 mm.
+Other ID: (DNLM)B03320000(s)(OCoLC)02586819
+NLM ID: 0372500[Serial]
+
+90. Author(s): Soviet Union. Ministerstvo zdravookhranenii︠a︡.; Soviet Union. Narodnyĭ
+komissariat zdravookhranenii︠a︡.; Vsesoi︠u︡znoe nauchnoe obshchestvo
+mikrobiologov i ėpidemiologov imeni I.I. Mechnikova.; Vsesoi︠u︡znoe obshchestvo 
+mikrobiologov, ėpidemiologov i infekt︠s︡ionistov.; Vserossiĭskoe obshchestvo
+ėpidemiologov, mikrobiologov i parazitologov.
+Title Abbreviation: Zh Mikrobiol Epidemiol Immunobiol
+Title(s): Zhurnal mikrobiologii, ėpidemiologii i immunobiologii.
+Publication Start Year: 1935
+Publication End Year: 
+Frequency: Bimonthly <2015->
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Izd-vo "Medit︠s︡ina"
+Latest Publisher: <2018, no. 4 (ii︠u︡lʹ-avgust)- >: Moskva : FBUN T︠S︡NII Ėpidemiologii
+Rospotrebnadzora
+Description: volumes : illustrations
+Language: Russian, English
+ISSN: 0372-9311(Print); 2686-7613(Electronic); 0372-9311(Linking)
+Coden: ZMEIAV
+Electronic Links: https://microbiol.crie.ru/jour/index
+Fully Indexed In: MEDLINE: v41n5, May 1964-n2, Mar. 2017; PubMed: v41n5, May 1964-n2, Mar. 2017; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Epidemiology; Microbiology
+Publication Type(s): Periodical
+Notes: Issues for <2002-> have also English title: Journal of microbiology,
+epidemiology, and immunobiology. At head of title: Ministerstvo
+zdravookhranenii︠a︡ Soi︠u︡za SSR; also at head of title, <Jan. 1984->:
+Vsesoi︠u︡znoe nauchnoe obshchestvo mikrobiologov, ėpidemiologov i parazitologov 
+im. I.I. Mechnikova. Part of title on microfilm. Vol. numbering irregular.
+Supplement accompany some issues. Also available online. Microfilm. v.16
+(1936)-v.21 (1938), no.1-12 (1939)-no.1-12 (1969). 50 microfilm reels : negative 
+; 35 mm. Summaries in English, French, or German, 1935-41; in English, May 1959- 
+Table of contents in English, 1942- Issued by Narodnyĭ komissariat
+zdravookhranenii︠a︡ SSSR, 1938-45; by Ministerstvo zdravookhranenii︠a︡ SSSR,
+1946- by Vsesoi︠u︡znoe obshchestvo mikrobiologov, ėpidemiologov i
+infekt︠s︡ioistov, 1967-72; by Vsesoi︠u︡znoe nauchnoe obshchestvo ėpidemiologov i
+mikrobiologov im I. I. Mechnikova, 1973-
+Other ID: (OCoLC)01770627(DNLM)Z08060000(s)
+NLM ID: 0415217[Serial]
+
+91. Author(s): League of Nations. Secretariat. Health Section.; United Nations. Economic and
+Social Council.; Interim Commission of the World Health Organization.; Interim
+Commission of the World Health Organization. Epidemiological Information
+Service.; Interim Commission of the World Health Organization. Sanitary
+Conventions and Quarantine Service.; World Health Organization. Sanitary
+Conventions and Quarantine Service.; World Health Organization. Sanitary
+Conventions and Quarantine Section.; World Health Organization. Quarantine
+Service.; World Health Organization. Section of International Quarantine.; World 
+Health Organization. International Quarantine.; World Health Organization.
+International Quarantine Service.; World Health Organization. Epidemiological
+Surveillance and Quarantine Service.; World Health Organization. Epidemiological 
+Surveillance and Quarantine Unit.; World Health Organization. Epidemiological
+Surveillance of Communicable Diseases.
+Title Abbreviation: Wkly Epidemiol Rec
+Title(s): Relevé épidémiologique hebdomadaire/ Section d'hygiène du Secrétariat de la 
+Société des Nations = Weekly epidemiological record / Health Section of the
+Secretariat of the League of Nations.
+Publication Start Year: 1928
+Publication End Year: 
+Frequency: Weekly
+Country of Publication: Switzerland
+Publisher: Genève : Health Section, Secretariat of the League of Nations
+Latest Publisher: 1947-: Geneva : World Health Organization
+Description: v. : ill., maps ; 30-38 cm.
+Language: English, French
+ISSN: 0049-8114(Print); 1996-8345(Electronic); 0049-8114(Linking)
+LCCN: 36007476, sn 85061378
+Electronic Links: http://www.who.int/wer/en/
+Fully Indexed In: MEDLINE: v65n1, 1990-v93n12, Mar. 2018; Index medicus
+In: PubMed: v65n1, 1990-v93n12, Mar. 2018; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communicable Diseases/epidemiology*; Epidemiology*; Quarantine.*; Vaccination*
+Notes: Called also in English: WER. Called also in French: REH. Order of titles and
+publishers vary. Description based on surrogate; title from caption. Latest issue
+consulted: 72. année, no 31 (1. août 1997). Issues for 1947 called also nouv.
+sér.; some no. issued combined; issues for <1946>-1948 have numbers: <R.H.
+1036>-R.H. 1192; 1947-1953 have numbers: R.E.H. 1-R.E.H. 365. Also issued online.
+Microfilm. v.3, no. 142 (1928)-v.3, no. 148 (1928), v.4, no.1(1929)-v.4,
+no.26(1929), v.4, no.28(1929)-v.4, no.52(1929), v.5(1930)-v. 10(1935). 4
+microfilm reels : negative ; 35 mm. English and French. Vols. for <Jan.
+1946>-Aug. 1946 issued by: Health Section of the Secretariat of the League of
+Nations; Sept.-Oct. 10, 1946 by: United Nations Economic and Social Council; Oct.
+17-Nov. 28, 1946 by: Interim Commission of the World Health Organization; Dec.
+1946-Mar. 17, 1948 by: Epidemiological Information Service of the Interim
+Commission of the World Health Organization; Mar. 24-July 28, 1948 by: Sanitary
+Conventions and Quarantine Service of the Interim Commission of the World Health 
+Organization; Aug. 4, 1948-Mar. 16, 1949 by: Sanitary Conventions and Quarantine 
+Service of the World Health Organization; Mar. 23, 1949-July 4, 1951 by: Sanitary
+Conventions and Quarantine Section of the World Health Organization; July 11,
+1951-Mar. 5, 1953 by: Quarantine Service, World Health Organization; Mar. 12,
+1953-Dec. 5, 1958 by: Section of International Quarantine, World Health
+Organization; Dec. 12, 1958-Nov. 1961 by: International Quarantine, World Health 
+Organization; Dec. 1961-Sept. 1968 by: International Quarantine Service, World
+Health Organization; Oct. 4-Oct. 11, 1968 by: Epidemiological Surveillance and
+Quarantine Service, World Health Organization. Vols. for Oct. 18-Feb. 5, 1971
+issued by: Epidemiological Surveillance and Quarantine Unit, World Health
+Organization; Feb. 12, 1971- by: Epidemiological Surveillance of Communicable
+Diseases, World Health Organization.
+Other ID: (OCoLC)04393595(DNLM)W01980000(s)
+NLM ID: 0240017[Serial]
+
+92. Author(s): Istituto sieroterapico milanese.
+Title Abbreviation: Boll Ist Sieroter Milan
+Title(s): Bollettino dell'Istituto sieroterapico milanese.
+Publication Start Year: 1917
+Publication End Year: 1992
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: [Milano, L'Istituto]
+Latest Publisher: Milano : Istituto Sieroterapico Milanese
+Description: v. ill.
+Language: Italian, English
+ISSN: 0021-2547(Print); 0021-2547(Linking)
+Coden: BISMAP
+Fully Indexed In: MEDLINE: v44n7,Jul.-Aug. 1965-v70, 1991/92; PubMed: v44n7,Jul.-Aug. 1965-v70, 1991/92; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Epidemiology*; Microbiology*
+Publication Type(s): Periodical
+Notes: Supplements accompany some numbers. Summaries in German, French, or English.
+Other ID: (OCoLC)04055194(DNLM)B30420000(s)
+NLM ID: 17720040R[Serial]
+
+93. Title Abbreviation: Int J Health Geogr
+Title(s): International journal of health geographics.
+Publication Start Year: 19uu
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2002]-
+Language: English
+ISSN: 1476-072X(Electronic); 1476-072X(Linking)
+LCCN: 2003244907
+Electronic Links: https://ij-healthgeographics.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101152198
+Fully Indexed In: MEDLINE: v5n1, 2006-
+In: PubMed: v1n1,2002-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Delivery of Health Care; Health Resources; Information Systems/statistics & numerical data*; Public Health; Topography, Medical/methods
+Publication Type(s): Periodical
+Notes: Source code title: IJHG. Title from home page (viewed Feb. 7, 2003). Individual
+articles are numbered with volume and article number on BioMed Central, e.g.,
+1:1; with volume, issue, and article number on PubMed Central, e.g., 1(1):1. Mode
+of access: World Wide Web (HTML and PDF formats).
+Other ID: (OCoLC)51212935
+NLM ID: 101152198[Serial]
+
+94. Author(s): National Cancer Registrars Association.
+Title Abbreviation: J Registry Manag
+Title(s): Journal of registry management.
+Publication Start Year: 19uu
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Lenexa, KS : National Cancer Registrars Association,
+Latest Publisher: Alexandria, VA : National Cancer Registrars Association, Inc.
+Description: v.
+Language: English
+ISSN: 1945-6123(Print); 1945-6131(Electronic); 1945-6131(Linking)
+LCCN: sn98-39437
+Electronic Links: http://www.ncra-usa.org/About/Publications/Journal-of-Registry-Management, https://pmc.ncbi.nlm.nih.gov/journals/?term=9804163
+Fully Indexed In: MEDLINE: v36n1, spring 2009-
+In: PubMed: v36n1, spring 2009-, PMC
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neoplasms/epidemiology; Registries; United States/epidemiology
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 24, no. 1 (Feb. 1997); title from cover. Print issues 
+ceased with 2019. Also issued online. Official journal of the National Cancer
+Registrars Association.
+Other ID: (DNLM)SR0090137(s)(OCoLC)40077075
+NLM ID: 9804163[Serial]
+

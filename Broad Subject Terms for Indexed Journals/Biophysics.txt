@@ -1,0 +1,2530 @@
+1. Title Abbreviation: Biophys Rep (N Y)
+Title(s): Biophysical reports.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [New York] : Cell Press Elsevier, [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2667-0747(Electronic); 2667-0747(Linking)
+LCCN: 2022237387
+Electronic Links: https://www.cell.com/biophysreports/home, https://pmc.ncbi.nlm.nih.gov/journals/?term=9918266001106676
+Fully Indexed In: MEDLINE: v4n1, Mar. 2024-
+In: PubMed: v1n1, Sept. 2021-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysical Phenomena*
+Publication Type(s): Periodical
+Other ID: (OCoLC)1280064301
+NLM ID: 9918266001106676[Serial]
+
+2. Author(s): Acoustical Society of America,
+Title Abbreviation: JASA Express Lett
+Title(s): JASA express letters.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [Melville, NY] : Acoustical Society of America, [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2691-1191(Electronic); 2691-1191(Linking)
+LCCN: 2008242071
+Electronic Links: https://asa.scitation.org/journal/jel
+Fully Indexed In: MEDLINE: v1n1, Jan. 2021-
+In: PubMed: v1n1, Jan. 2021-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Acoustics*
+Publication Type(s): Periodical
+Other ID: (OCoLC)145604726
+NLM ID: 101775177[Serial]
+
+3. Author(s): Australasian College of Physical Scientists & Engineers in Medicine,
+Title Abbreviation: Phys Eng Sci Med
+Title(s): Physical and engineering sciences in medicine.
+Publication Start Year: 2020
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Switzerland : Springer, [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2662-4737(Electronic); 2662-4729(Print); 2662-4729(Linking)
+LCCN: 2020243082
+Electronic Links: https://link.springer.com/journal/volumesAndIssues/13246
+Fully Indexed In: MEDLINE: v43, 2020-
+In: PubMed: v43, 2020-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Biophysics
+Publication Type(s): Periodical
+Notes: Articles published as they are received and compiled into quarterly issues. The
+official journal of the Australasian College of Physical Scientists and Engineers
+in Medicine.
+Other ID: (OCoLC)1142393816
+NLM ID: 101760671[Serial]
+
+4. Title Abbreviation: Biochim Biophys Acta Bioenerg
+Title(s): Biochimica et biophysica acta. Bioenergetics.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1879-2650(Electronic); 0005-2728(Print); 0005-2728(Linking)
+LCCN: 2002238505
+Electronic Links: http://www.sciencedirect.com/science/journal/00052728
+Fully Indexed In: MEDLINE: v1858n1, Jan. 2017-
+In: PubMed: v1858n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biophysics*; Cell Membrane*; Energy Metabolism*
+Publication Type(s): Periodical
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, this journal
+shares vol. numbering with the other topical sections of Biochimica et biophysica
+acta: Biomembranes; Gene structure and expression; General subjects; Lipids and
+lipid metabolism (called Dec. 1998- : Molecular and cell biology of lipids);
+Molecular basis of disease; Molecular cell research; Protein structure and
+molecular enzymology (called July 2002- : Proteins and proteomics); Reviews on
+biomembranes (until May 2002); and: Reviews on cancer. Also issued in print.
+Other ID: (OCoLC)38492124
+NLM ID: 101731706[Serial]
+
+5. Title Abbreviation: Biochim Biophys Acta Biomembr
+Title(s): Biochimica et biophysica acta. Biomembranes.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1879-2642(Electronic); 0005-2736(Print); 0005-2736(Linking)
+LCCN: 2002238561
+Electronic Links: http://www.sciencedirect.com/science/journal/00052736
+Fully Indexed In: MEDLINE: v1859n1, Jan. 2017-
+In: PubMed: v1859n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Membrane*
+Publication Type(s): Periodical
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, this journal
+shares vol. numbering with the other topical sections of Biochimica et biophysica
+acta: Bioenergetics; Gene structure and expression; General subjects; Lipids and 
+lipid metabolism (called Dec. 1998- : Molecular and cell biology of lipids);
+Molecular basis of disease; Molecular cell research; Protein structure and
+molecular enzymology (called July 2002- : Proteins and proteomics); Reviews on
+biomembranes (until May 2002 when it was absorbed by this title); and: Reviews on
+cancer. Also issued in print.
+Other ID: (OCoLC)38491782
+NLM ID: 101731713[Serial]
+
+6. Title Abbreviation: Biochim Biophys Acta Gene Regul Mech
+Title(s): Biochimica et biophysica acta. Gene regulatory mechanisms.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier,
+Language: English
+ISSN: 1876-4320(Electronic); 1874-9399(Print); 1874-9399(Linking)
+LCCN: 2008249023
+Electronic Links: http://www.sciencedirect.com/science/journal/18749399
+Fully Indexed In: MEDLINE: v1860n1, Jan. 2017-
+In: PubMed: v1860n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genes, Regulator*
+Publication Type(s): Periodical
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, all topical
+sections of Biochimica et biophysica acta share numbering: Bioenergetics;
+Biomembranes; Gene regulatory mechanisms (formerly Gene structure and
+expression); General subjects; Molecular and cell biology of lipids (formerly
+Lipids and lipid metabolism); Molecular basis of disease; Molecular cell
+research; Proteins and proteomics (formerly Protein structure and molecular
+enzymology); Biomembranes (formerly Reviews on biomembranes); and: Reviews on
+cancer.
+Other ID: (OCoLC)192075226
+NLM ID: 101731723[Serial]
+
+7. Title Abbreviation: Biochim Biophys Acta Gen Subj
+Title(s): Biochimica et biophysica acta. General subjects.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1872-8006(Electronic); 0304-4165(Print); 0304-4165(Linking)
+LCCN: 2003233285
+Electronic Links: http://www.sciencedirect.com/science/journal/03044165
+Fully Indexed In: MEDLINE: v1861n1, Jan. 2017-
+In: PubMed: v1861n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, all topical
+sections of Biochimica et biophysica acta share numbering: Bioenergetics;
+Biomembranes; Gene regulatory mechanisms (formerly Gene structure and
+expression); General subjects; Molecular and cell biology of lipids (formerly
+Lipids and lipid metabolism); Molecular basis of disease; Molecular cell
+research; Proteins and proteomics (formerly Protein structure and molecular
+enzymology); Biomembranes (formerly Reviews on biomembranes); and Reviews on
+cancer. Also issued in print.
+Other ID: (OCoLC)38492156
+NLM ID: 101731726[Serial]
+
+8. Title Abbreviation: Biochim Biophys Acta Mol Cell Biol Lipids
+Title(s): Biochimica et biophysica acta. Molecular and cell biology of lipids.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1879-2618(Electronic); 1388-1981(Print); 1388-1981(Linking)
+Coden: BBMLFG
+LCCN: 2003233276
+Electronic Links: http://www.sciencedirect.com/science/journal/13881981
+Fully Indexed In: MEDLINE: v1862n1, Jan. 2017-
+In: PubMed: v1862n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Lipids*
+Publication Type(s): Periodical
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, all topical
+sections of Biochimica et biophysica acta share numbering: Bioenergetics;
+Biomembranes; Gene regulatory mechanisms (formerly Gene structure and
+expression); General subjects; Molecular and cell biology of lipids (formerly
+Lipids and lipid metabolism); Molecular basis of disease; Molecular cell
+research; Proteins and proteomics (formerly Protein structure and molecular
+enzymology); Biomembranes (formerly Reviews on biomembranes); and Reviews on
+cancer. Also issued in print.
+Other ID: (OCoLC)40742111
+NLM ID: 101731727[Serial]
+
+9. Title Abbreviation: Biochim Biophys Acta Mol Basis Dis
+Title(s): Biochimica et biophysica acta. Molecular basis of disease.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1879-260X(Electronic); 0925-4439(Print); 0925-4439(Linking)
+LCCN: 2003233261
+Electronic Links: http://www.sciencedirect.com/science/journal/09254439
+Fully Indexed In: MEDLINE: v1863n1, Jan. 2017-
+In: PubMed: v1863n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Molecular Biology*
+Publication Type(s): Periodical
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, all topical
+sections of Biochimica et biophysica acta share numbering: Bioenergetics;
+Biomembranes; Gene regulatory mechanisms (formerly Gene structure and
+expression); General subjects; Molecular and cell biology of lipids (formerly
+Lipids and lipid metabolism); Molecular basis of disease; Molecular cell
+research; Proteins and proteomics (formerly Protein structure and molecular
+enzymology); Biomembranes (formerly Reviews on biomembranes); and: Reviews on
+cancer. Also issued in print.
+Other ID: (OCoLC)38492172
+NLM ID: 101731730[Serial]
+
+10. Title Abbreviation: Biochim Biophys Acta Mol Cell Res
+Title(s): Biochimica et biophysica acta. Molecular cell research.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1879-2596(Electronic); 0167-4889(Print); 0167-4889(Linking)
+LCCN: 2003233271
+Electronic Links: http://www.sciencedirect.com/science/journal/01674889
+Fully Indexed In: MEDLINE: v1864n1, Jan. 2017-
+In: PubMed: v1864n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cells*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, all topical
+sections of Biochimica et biophysica acta share numbering: Bioenergetics;
+Biomembranes; Gene regulatory mechanisms (formerly Gene structure and
+expression); General subjects; Molecular and cell biology of lipids (formerly
+Lipids and lipid metabolism); Molecular basis of disease; Molecular cell
+research; Proteins and proteomics (formerly Protein structure and molecular
+enzymology); Biomembranes (formerly Reviews on biomembranes); and: Reviews on
+cancer. Also issued in print.
+Other ID: (OCoLC)38492180
+NLM ID: 101731731[Serial]
+
+11. Title Abbreviation: Biochim Biophys Acta Proteins Proteom
+Title(s): Biochimica et biophysica acta. Proteins and proteomics.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1878-1454(Electronic); 1570-9639(Print); 1570-9639(Linking)
+LCCN: 2005264505
+Electronic Links: http://www.sciencedirect.com/science/journal/15709639
+Fully Indexed In: MEDLINE: v1865n1, Jan. 2017-
+In: PubMed: v1865n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Enzymes*; Proteins*; Proteomics*
+Publication Type(s): Periodical
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, all topical
+sections of Biochimica et biophysica acta share numbering: Bioenergetics;
+Biomembranes; Gene regulatory mechanisms (formerly Gene structure and
+expression); General subjects; Molecular and cell biology of lipids (formerly
+Lipids and lipid metabolism); Molecular basis of disease; Molecular cell
+research; Proteins and proteomics (formerly Protein structure and molecular
+enzymology); Biomembranes (formerly Reviews on biomembranes); and: Reviews on
+cancer. Also issued in print.
+Other ID: (OCoLC)50303018
+NLM ID: 101731734[Serial]
+
+12. Title Abbreviation: Biochim Biophys Acta Rev Cancer
+Title(s): Biochimica et biophysica acta. Reviews on cancer.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Four issues a year
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1879-2561(Electronic); 0304-419X(Print); 0304-419X(Linking)
+LCCN: sn 98040941
+Electronic Links: https://www.sciencedirect.com/journal/biochimica-et-biophysica-acta-bba-reviews-on-cancer
+Fully Indexed In: MEDLINE: v1867n1, Jan. 2017-
+In: PubMed: v1867n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neoplasms*
+Publication Type(s): PeriodicalReview
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, all topical
+sections of Biochimica et biophysica acta share numbering: Bioenergetics;
+Biomembranes; Gene regulatory mechanisms (formerly Gene structure and
+expression); General subjects; Molecular and cell biology of lipids (formerly
+Lipids and lipid metabolism); Molecular basis of disease; Molecular cell
+research; Proteins and proteomics (formerly Protein structure and molecular
+enzymology); Biomembranes (formerly Reviews on biomembranes); and: Reviews on
+cancer. Also issued in print.
+Other ID: (OCoLC)38492211(DNLM)SR0092548(s)
+NLM ID: 9806362[Serial]
+
+13. Author(s): American Physical Society,
+Title Abbreviation: Phys Rev E
+Title(s): Physical review. E.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Ridge, NY : American Physical Society, [2016]-
+Language: English
+ISSN: 2470-0045(Print); 2470-0053(Electronic); 2470-0061(Undetermined); 2470-0045(Linking)
+LCCN: 2015203980, 2015203981
+Electronic Links: http://journals.aps.org/pre
+Fully Indexed In: MEDLINE: v93n1, Jan. 2016-
+In: PubMed: v93n1, Jan. 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysical Phenomena; Nonlinear Dynamics; Physical Phenomena*
+Publication Type(s): Periodical
+Notes: "Covering statistical, nonlinear, biological, and soft matter physics". Each
+volume issued in two parts. Also issued online.
+Other ID: (OCoLC)932249200
+NLM ID: 101676019[Serial]
+
+14. Author(s): Institute of Physics and Engineering in Medicine (Great Britain),
+Title Abbreviation: Biomed Phys Eng Express
+Title(s): Biomedical physics & engineering express.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Bimonthly, 2015-
+Country of Publication: England
+Publisher: Bristol : IOP Publishing Ltd., [2015]-
+Description: 1 online resource
+Language: English
+ISSN: 2057-1976(Electronic); 2057-1976(Linking)
+LCCN: 2016243162
+Electronic Links: http://iopscience.iop.org/2057-1976/
+Fully Indexed In: MEDLINE: v6n1, Jan. 2020-
+In: PubMed: v6n1, Jan. 2020- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Biophysical Phenomena*
+Publication Type(s): Periodical
+Notes: Numbering from content page.
+Other ID: (OCoLC)945570857
+NLM ID: 101675002[Serial]
+
+15. Author(s): Molecular Diversity Preservation International.
+Title Abbreviation: Cells
+Title(s): Cells.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Basel, Switzerland : MDPI
+Language: English
+ISSN: 2073-4409(Electronic); 2073-4409(Linking)
+LCCN: 2013243057
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101600052, http://www.mdpi.com/journal/cells
+Fully Indexed In: MEDLINE: v8n1, Jan. 2019-
+In: PubMed: v1, 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemical Phenomena; Biophysical Phenomena; Cells*
+Publication Type(s): Periodical
+Notes: Some articles in v. 2012 published electronically in 2011.
+Other ID: (OCoLC)823191591
+NLM ID: 101600052[Serial]
+
+16. Title Abbreviation: Annu Rev Biophys
+Title(s): Annual review of biophysics.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, CA : Annual Reviews
+Description: v.
+Language: English
+ISSN: 1936-122X(Print); 1936-1238(Electronic); 1936-122X(Linking)
+LCCN: 2007215102
+Electronic Links: http://www.annualreviews.org/loi/biophys
+Fully Indexed In: MEDLINE: v37, 2007-
+In: PubMed: v37, 2007-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Notes: Description based on first issue; title from title page. Also issued online.
+Other ID: (OCoLC)85449594
+NLM ID: 101469708[Serial]
+
+17. Title Abbreviation: J Biophotonics
+Title(s): Journal of biophotonics.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Monthly, 2009-
+Country of Publication: Germany
+Publisher: Weinheim : Wiley-VCH
+Language: English
+ISSN: 1864-063X(Print); 1864-0648(Electronic); 1864-063X(Linking)
+LCCN: 2009243055
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1864-0648
+Fully Indexed In: MEDLINE: v1n1, Feb. 2008-
+In: PubMed: v1n1, Feb. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Photobiology*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)304302801
+NLM ID: 101318567[Serial]
+
+18. Author(s): Nihon Hōshasen Gijutsu Gakkai.; Nihon Igaku Butsuri Gakkai.
+Title Abbreviation: Radiol Phys Technol
+Title(s): Radiological physics and technology.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Japan
+Publisher: Tokyo : Springer Japan
+Language: English
+ISSN: 1865-0333(Print); 1865-0341(Electronic); 1865-0333(Linking)
+LCCN: 2012243353
+Electronic Links: https://link.springer.com/journal/12194
+Fully Indexed In: MEDLINE: v1n1, Jan. 2008-
+In: PubMed: v1n1, Jan. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Physics*; Technology, Radiologic
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)464515244
+NLM ID: 101467995[Serial]
+
+19. Author(s): Zhongguo ke xue yuan. Shanghai sheng ming ke xue yan jiu yuan. Sheng wu hua xue
+yu xi bao sheng wu xue yan jiu suo.
+Title Abbreviation: Acta Biochim Biophys Sin (Shanghai)
+Title(s): Acta biochimica et biophysica Sinica.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: China
+Publisher: Shanghai : Shanghai Scientific and Technical Publishers, 2004-
+Latest Publisher: 2022- : Shanghai : China Science Publishing & Media Ltd.
+Description: v. : ill.
+Language: English
+ISSN: 1672-9145(Print); 1745-7270(Electronic); 1672-9145(Linking)
+LCCN: 2004243168
+Electronic Links: https://academic.oup.com/abbs, http://www.abbs.org.cn/, https://www.sciengine.com/ABBS/home, https://pmc.ncbi.nlm.nih.gov/journals/?term=101206716
+Fully Indexed In: MEDLINE: v36n1, Jan. 2004-; Index medicus
+In: PubMed: v36n1, Jan. 2004-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Called also: ABBS. Title from cover. Also issued online. Sponsored by: Institute 
+of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences,
+Chinese Academy of Sciences.
+Other ID: (OCoLC)54687419
+NLM ID: 101206716[Serial]
+
+20. Author(s): Royal Society (Great Britain)
+Title Abbreviation: J R Soc Interface
+Title(s): Journal of the Royal Society, Interface/ the Royal Society.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Twelve no. a year, 2008-
+Country of Publication: England
+Publisher: London : Royal Society, [2004]-
+Language: English
+ISSN: 1742-5662(Electronic); 1742-5689(Print); 1742-5662(Linking)
+LCCN: 2004243693
+Electronic Links: https://royalsocietypublishing.org/journal/rsif, https://pmc.ncbi.nlm.nih.gov/journals/?term=101217269
+Fully Indexed In: MEDLINE: v1n1, 22 Nov. 2004-; Index medicus
+In: PubMed: v1n1, 22 Nov. 2004-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines; Natural Science Disciplines*
+Publication Type(s): Periodical
+Notes: Title from issue abstract page (publisher Web site, viewed Sept. 21, 2004).
+Latest issue consulted: 11 Aug. 2004 (viewed Sept. 21, 2004). Print issues ceased
+with v. 16 (2019). Articles are added continuously. Print issues called: Vol. 1, 
+no. 1 (22 Nov. 2004)- Vol. 1 complete in one issue. Also issued in print. Mode of
+access: World Wide Web.
+Other ID: (OCoLC)56574616
+NLM ID: 101217269[Serial]
+
+21. Author(s): Institute of Physics Publishing.; American Institute of Physics.
+Title Abbreviation: Phys Biol
+Title(s): Physical biology.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: England
+Publisher: Bristol, UK : Institute of Physics Pub., c2004-
+Description: v. : ill.
+Language: English
+ISSN: 1478-3967(Print); 1478-3975(Electronic); 1478-3967(Linking)
+LCCN: 2005243280
+Electronic Links: http://iopscience.iop.org/journal/1478-3975
+Fully Indexed In: MEDLINE: v1n1/2, June 2004-; PubMed: v1n1/2, June 2004-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry; Biology; Biophysics*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.2, no.1 (2005). Vol. 1, no. 1 (Mar. 
+2004) and Vol. 1, no. 2 (June 2004)- issued separately online, but combined in
+print. Also issued online. Published in association with the American Institute
+of Physics.
+Other ID: (OCoLC)58451475
+NLM ID: 101197454[Serial]
+
+22. Title Abbreviation: Phys Life Rev
+Title(s): Physics of life reviews.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Amsterdam ; Boston : Elsevier, c2004-
+Description: v. : ill. ; 27 cm.
+Language: English
+ISSN: 1571-0645(Print); 1873-1457(Electronic); 1571-0645(Linking)
+LCCN: 2004209533
+Electronic Links: http://www.sciencedirect.com/science/journal/15710645
+Fully Indexed In: MEDLINE: v7n1, Mar. 2010-
+In: PubMed: v7n1, Mar. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology; Biophysics*
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 1, issue 3 (Dec. 2004). Also issued online.
+Other ID: (OCoLC)56480744
+NLM ID: 101229718[Serial]
+
+23. Author(s): Akademii︠a︡ nauk SSSR.; MAIK Nauka/Interperiodica Publishing.
+Title Abbreviation: Dokl Biochem Biophys
+Title(s): Doklady. Biochemistry and biophysics.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Moscow, Russia : [Dordrecht] : International Academic Pub. Co.
+"Nauka/Interperiodica" ; Distributed worldwide by Kluwer Academic/Plenum
+Publishers, c2001-
+Latest Publisher: New York, NY : Pleiades Publishing
+Description: v. : ill. ; 28 cm.
+Language: English, Russian
+ISSN: 1607-6729(Print); 1608-3091(Electronic); 1607-6729(Linking)
+Coden: DBBOAL
+LCCN: 2001243295
+Electronic Links: https://link.springer.com/journal/10628
+Fully Indexed In: MEDLINE: v376, Jan.-Feb. 2001-; Index medicus
+In: PubMed: v376, Jan.-Feb. 2001-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Title from cover. Carries vol. numbering and date of the Russian original. Also
+issued online. Translated and published by: Maik nauka/Interperiodica Pub.
+Other ID: (OCoLC)47721281
+NLM ID: 101126895[Serial]
+
+24. Author(s): American Physical Society.; American Institute of Physics.
+Title Abbreviation: Phys Rev E Stat Nonlin Soft Matter Phys
+Title(s): Physical review. E, Statistical, nonlinear, and soft matter physics.
+Publication Start Year: 2001
+Publication End Year: 2015
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Melville, NY : Published by the American Physical Society through the American
+Institute of Physics, c2001-
+Latest Publisher: <Aug. 2015-> : Ridge, NY : American Physical Society
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1539-3755(Print); 1550-2376(Electronic); 1539-3755(Linking)
+Coden: PRESCM
+LCCN: 2001227060
+Electronic Links: http://journals.aps.org/pre
+Fully Indexed In: MEDLINE: v63n1, Jan. 2001-v92n6, Dec. 2015; Index medicus
+In: PubMed: v63n1, Jan. 2001-v92n6, Dec. 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics; Nonlinear Dynamics; Physics*; Statistics as Topic
+Publication Type(s): Periodical
+Notes: Pt. 1 of each issue has subtitle: Soft matter and biological physics. Pt. 2 of
+each issue has subtitle: Chaos, hydrodynamics, plasmas, and related topics. Title
+from cover. Each month issued in two parts: 1. Soft matter and biological
+physics; and: 2. Chaos, hydrodynamics, plasmas, and related topics. Issues for
+3rd ser., v. 63, no. 1, pt. 1- appear as 3rd ser., v. 63, no. 1-1- Also issued
+online.
+Other ID: (OCoLC)45808357
+NLM ID: 101136452[Serial]
+
+25. Author(s): Société française de chimie.; Gesellschaft Deutscher Chemiker.
+Title Abbreviation: Chemphyschem
+Title(s): Chemphyschem : a European journal of chemical physics and physical chemistry.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: 18 no. a year, 2007-
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH Verlag, c2000-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1439-4235(Print); 1439-7641(Electronic); 1439-4235(Linking)
+LCCN: 00256045
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1439-7641
+In: PubMed: v1n1, Aug. 2000-; 
+Selectively Indexed in: MEDLINEv1n1, Aug. 2000-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Physical*; Physics
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 16, no. 18 (2015). Also issued
+online. Issued by: Société française de chimie; and: Gesellschaft Deutscher
+Chemiker.
+Other ID: (OCoLC)44873380
+NLM ID: 100954211[Serial]
+
+26. Author(s): Società italiana di fisica.; European Physical Society.
+Title Abbreviation: Eur Phys J E Soft Matter
+Title(s): The European physical journal. E, Soft matter.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: France
+Publisher: Les Ulis, France : Secaucus, NJ : EDP Sciences : Società italiana di fisica ;
+Springer, [2000-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1292-8941(Print); 1292-895X(Electronic); 1292-8941(Linking)
+Coden: EPJSFH
+LCCN: 00252059
+Electronic Links: https://link.springer.com/journal/10189
+In: PubMed: v10n1, Jan. 2003-; 
+Selectively Indexed in: MEDLINEv10n1, Jan. 2003-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Physics*
+Publication Type(s): Periodical
+Notes: Issued in three vols. per year. Also issued online. Recognized by the European
+Physical Society.
+Other ID: (OCoLC)43386567
+NLM ID: 101126530[Serial]
+
+27. Author(s): Nihon Igaku Butsuri Gakkai.
+Title Abbreviation: Igaku Butsuri
+Title(s): Igaku butsuri : Nihon Igaku Butsuri Gakkai kikanshi = Japanese journal of medical
+physics : an official journal of Japan Society of Medical Physics.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Japan
+Publisher: Chiba-shi : Nihon Igaku Butsuri Gakkai, 2000-
+Description: v.
+Language: Japanese, English
+ISSN: 1345-5354(Print); 2186-9634(Electronic); 1345-5354(Linking)
+LCCN: 2001243392
+Electronic Links: https://www.jstage.jst.go.jp/browse/jjmp
+Fully Indexed In: MEDLINE: v22n1, 2002-; PubMed: v22n1, 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*; Health Physics; Physics
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. In Japanese and English.
+Other ID: (OCoLC)48476210
+NLM ID: 101125977[Serial]
+
+28. Author(s): American College of Medical Physics.; American Institute of Physics.
+Title Abbreviation: J Appl Clin Med Phys
+Title(s): Journal of applied clinical medical physics/ American College of Medical Physics.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Reston, VA : American College of Medical Physics, c2000-
+Latest Publisher: 2017- : Malden, MA : Wiley on behalf of American Association of Physicists in
+Medicine
+Language: English
+ISSN: 1526-9914(Electronic); 1526-9914(Linking)
+LCCN: sn 99004511
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101089176, http://aapm.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1526-9914/
+Fully Indexed In: MEDLINE: v1n1, winter 2000-; PubMed: v1n1, winter 2000-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Clinical Medicine; Health Physics*
+Publication Type(s): Periodical
+Notes: Title from contents screen (viewed Feb. 28, 2001). Articles and tables of
+contents are in pdf and PostScript format, tables of contents are also in HTML
+format Mode of access: World Wide Web. Made available by through the American
+Institute of Physics' online journal publishing service.
+Other ID: (OCoLC)42464062
+NLM ID: 101089176[Serial]
+
+29. Title Abbreviation: Luminescence
+Title(s): Luminescence : the journal of biological and chemical luminescence.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Chichester, Sussex, UK : Wiley & Sons, c1999-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1522-7235(Print); 1522-7243(Electronic); 1522-7235(Linking)
+Coden: LUMIFC
+LCCN: sn 99047451
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-7243
+Fully Indexed In: MEDLINE: v14n1, Jan./Feb. 1999-; Index medicus
+In: PubMed: v14n1, Jan./Feb. 1999-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Luminescence*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 29 (2014). Also issued online.
+Other ID: (OCoLC)41215277
+NLM ID: 100889025[Serial]
+
+30. Author(s): Royal Society of Chemistry (Great Britain); Deutsche Bunsen-Gesellschaft für
+Physikalische Chemie.; Koninklijke Nederlandse Chemische Vereniging.; Società
+chimica italiana.
+Title Abbreviation: Phys Chem Chem Phys
+Title(s): Physical chemistry chemical physics : PCCP.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Weekly (48 issues), 2006-
+Country of Publication: England
+Publisher: Cambridge [England] : Royal Society of Chemistry, c1999-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1463-9076(Print); 1463-9084(Electronic); 1463-9076(Linking)
+Coden: PPCPFQ
+LCCN: sn 99047155
+Electronic Links: http://www.rsc.org/Publishing/Journals/CP/article.asp?type=CurrentIssue
+In: PubMed: v7n1, Jan. 7, 2005-; 
+Selectively Indexed in: MEDLINEv7n1, Jan. 7, 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry, Physical*; Physics
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 6, no. 20 (21 Oct. 2004). Also
+issued online. A journal of the Royal Society of Chemistry, Deutsche
+Bunsen-Gesellschaft für Physikalische Chemie, Koninklijke Nederlandse Chemische
+Vereniging, and Società chimica italiana.
+Other ID: (OCoLC)40650881
+NLM ID: 100888160[Serial]
+
+31. Author(s): Federation of Asian and Oceanian Biochemists and Molecular Biologists.
+Title Abbreviation: J Biochem Mol Biol Biophys
+Title(s): Journal of biochemistry, molecular biology, and biophysics : JBMBB : the official
+journal of the Federation of Asian and Oceanian Biochemists and Molecular
+Biologists (FAOBMB).
+Publication Start Year: 1997
+Publication End Year: 2002
+Frequency: Bimonthly, 2000-
+Country of Publication: England
+Publisher: [Amsterdam?] Netherlands : Harwood Academic Publishers, c1997-
+Latest Publisher: 2002: London : Taylor & Francis Health Sciences
+Description: v. : ill.
+Language: English
+ISSN: 1025-8140(Print); 1025-8140(Linking)
+Coden: JBMBF6
+Fully Indexed In: MEDLINE: v6n1, Feb. 2002-v6n6, Dec. 2002; Index medicus
+In: PubMed: v6n1, Feb. 2002-v6n6, Dec. 2002; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry; Biophysics; Molecular Biology
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also available in a CD-ROM archive
+version.
+Other ID: (DNLM)SR0090643(s)(OCoLC)43520069
+NLM ID: 9714994[Serial]
+
+32. Author(s): Optical Society of America.
+Title Abbreviation: Opt Express
+Title(s): Optics express.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Biweekly
+Country of Publication: United States
+Publisher: Washington, DC : Optical Society of America, 1997-
+Latest Publisher: Washington, DC : Optica Publishing Group
+Language: English
+ISSN: 1094-4087(Electronic); 1094-4087(Linking)
+Coden: OPEXFF
+LCCN: sn 97000184
+Electronic Links: https://opg.optica.org/oe/home.cfm
+Fully Indexed In: MEDLINE: v16n1, Jan. 2008-
+In: PubMed: v16n1, Jan. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Optics and Photonics*
+Publication Type(s): Periodical
+Notes: Title from title screen (viewed on Feb. 29, 1998). Latest issue consulted: Vol.
+16, no. 16 (Aug. 4, 2008) (viewed Aug. 8, 2008). Text (electronic journal) Mode
+of access: World Wide Web.
+Other ID: (OCoLC)37160672
+NLM ID: 101137103[Serial]
+
+33. Title Abbreviation: Cell Biochem Biophys
+Title(s): Cell biochemistry and biophysics.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Totowa, NJ : Humana Press, c1996-
+Description: v. : ill.
+Language: English
+ISSN: 1085-9195(Print); 1559-0283(Electronic); 1085-9195(Linking)
+Coden: CBBIFV
+LCCN: 97645818, sn 95003631
+Electronic Links: https://link.springer.com/journal/12013
+Fully Indexed In: MEDLINE: v27n2, 1995/96-; Index medicus
+In: PubMed: v27n2, 1995/96-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*; Cells/chemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0088579(s)(OCoLC)33449553
+NLM ID: 9701934[Serial]
+
+34. Author(s): Royal Society (Great Britain)
+Title Abbreviation: Philos Trans A Math Phys Eng Sci
+Title(s): Philosophical transactions. Series A, Mathematical, physical, and engineering
+sciences.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Twenty four no. a year, 2008-
+Country of Publication: England
+Publisher: London : The Royal Society, c1996-
+Description: v. : ill. ; 24 cm.
+Language: English
+ISSN: 1364-503X(Print); 1471-2962(Electronic); 1364-503X(Linking)
+Coden: PTMSFB
+LCCN: 97655039, sn 96047202
+Electronic Links: https://royalsocietypublishing.org/journal/rsta
+In: PubMed: v360n1790, Jan. 15, 2002-; 
+Selectively Indexed in: MEDLINEv360n1790, Jan. 15, 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mathematics; Natural Science Disciplines*
+Publication Type(s): Periodical
+Notes: Vols. for 2005- have title: Philosophical transactions of the Royal Society. A,
+Mathematical, physical, and engineering sciences. "Research frontiers," <1997->
+Title from cover. Also issued online.
+Other ID: (OCoLC)34435526
+NLM ID: 101133385[Serial]
+
+35. Title Abbreviation: Prim Sens Neuron
+Title(s): Primary sensory neuron : the international interdisciplinary journal reporting
+basic and clinical research on sensory receptors and primary afferent neurons.
+Publication Start Year: 1995
+Publication End Year: 1998
+Frequency: Four no. a year
+Country of Publication: Netherlands
+Publisher: Utrecht, The Netherlands : VSP, c1995-c1998.
+Latest Publisher: Utrecht : Vsp
+Description: 3 v. : ill.
+Language: English
+ISSN: 0929-9637(Print); 0929-9637(Linking)
+Coden: PRSNFC
+LCCN: sn 96039100
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to space life sciences were indexed.
+MeSH: Neurons, Afferent*; Sensory Receptor Cells*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0083689(s)(OCoLC)34263679
+NLM ID: 9516986[Serial]
+
+36. Author(s): Biological Engineering Society.
+Title Abbreviation: Med Eng Phys
+Title(s): Medical engineering & physics.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Ten no. a year, 1998-
+Country of Publication: England
+Publisher: Oxford, UK : Butterworth-Heinemann, c1994-
+Latest Publisher: London : Butterworth-Heinemann
+Description: v. : ill.
+Language: English
+ISSN: 1350-4533(Print); 1873-4030(Electronic); 1350-4533(Linking)
+Coden: MEPHEO
+LCCN: sn 94003504
+Electronic Links: https://www.sciencedirect.com/journal/medical-engineering-and-physics
+Fully Indexed In: MEDLINE: v16n1,Jan. 1994-; PubMed: v16n1,Jan. 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering; Physics
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Published on behalf of: Biological
+Engineering Society.
+Other ID: (DNLM)SR0080279(s)(OCoLC)29693720
+NLM ID: 9422753[Serial]
+
+37. Author(s): Institute of Physical Sciences in Medicine (Great Britain); Institution of
+Physics and Engineering in Medicine and Biology.
+Title Abbreviation: Physiol Meas
+Title(s): Physiological measurement.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Monthly, 2006-
+Country of Publication: England
+Publisher: Bristol, UK : IOP Pub. Ltd., c1993-
+Description: v. : ill.
+Language: English
+ISSN: 0967-3334(Print); 1361-6579(Electronic); 0967-3334(Linking)
+Coden: PMEAE3
+LCCN: sn 93007339
+Electronic Links: http://iopscience.iop.org/journal/0967-3334
+Fully Indexed In: MEDLINE: v14n1,Feb. 1993-; PubMed: v14n1,Feb. 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Biophysics*; Monitoring, Physiologic*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 38 (2017). Also issued online.
+Official journal of the: Institute of Physical Sciences in Medicine, 1993-May
+1996; of the: Institution of Physics and Engineering in Medicine and Biology,
+Aug. 1996- .
+Other ID: (DNLM)SR0076039(s)(OCoLC)27890544
+NLM ID: 9306921[Serial]
+
+38. Title Abbreviation: Annu Rev Biophys Biomol Struct
+Title(s): Annual review of biophysics and biomolecular structure.
+Publication Start Year: 1992
+Publication End Year: 2007
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, Calif. : Annual Reviews, Inc., c1992-
+Latest Publisher: Palo Alto Ca : Annual Reviews
+Description: v. : ill., ports.
+Language: English
+ISSN: 1056-8700(Print); 1545-4266(Electronic); 1056-8700(Linking)
+Coden: ABBSE4
+LCCN: 92656233, sn 91001284
+Electronic Links: http://www.annualreviews.org/loi/biophys
+Fully Indexed In: MEDLINE: v21, 1992-v36, 2007; PubMed: v21, 1992-v36, 2007; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics*; Macromolecular Substances*; Molecular Biology*; Molecular Structure*; Structure-Activity Relationship*
+Notes: Annual. Also issued online.
+Other ID: (DNLM)SR0073853(s)(OCoLC)23884496
+NLM ID: 9211097[Serial]
+
+39. Author(s): Association des physiologistes (France)
+Title Abbreviation: Arch Int Physiol Biochim Biophys
+Title(s): Archives internationales de physiologie, de biochimie et de biophysique.
+Publication Start Year: 1991
+Publication End Year: 1994
+Frequency: Bimonthly
+Country of Publication: Belgium
+Publisher: Liège, Belgique : Vaillant-Carmanne, [1991-1994?]
+Latest Publisher: Liege : Vaillant-Carmanne
+Description: 4 v. : ill., ports.
+Language: English, English
+ISSN: 0778-3124(Print); 0778-3124(Linking)
+Coden: AIPBE4
+Electronic Links: http://www.tandfonline.com/loi/iarp20
+Fully Indexed In: MEDLINE: v99n1, 1991-v102n6,Nov.-Dec. 1994; Index medicus
+In: PubMed: v99n1, 1991-v102n6,Nov.-Dec. 1994; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biophysics*; Physiology*
+Publication Type(s): Periodical
+Notes: Bimonthly. Title from cover. Also issued online Articles in English and French;
+summaries in English. Organ of: Association des physiologistes, and some Belgian 
+societies.
+Other ID: (DNLM)SR0071909(s)(OCoLC)23978866
+NLM ID: 9111069[Serial]
+
+40. Title Abbreviation: J Fluoresc
+Title(s): Journal of fluorescence.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: New York : Plenum Press, c1991-
+Latest Publisher: Amsterdam : Springer-
+Description: v. : ill.
+Language: English
+ISSN: 1053-0509(Print); 1573-4994(Electronic); 1053-0509(Linking)
+Coden: JOFLEN
+LCCN: 91640739, sn 90003437
+Electronic Links: https://link.springer.com/journal/10895
+In: PubMed: v14n1, Jan. 2004-; 
+Selectively Indexed in: MEDLINEv14n1, Jan. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Fluorescence*; Spectrometry, Fluorescence*; Spectrum Analysis*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2013. Title from cover. Also issued online.
+Other ID: (DNLM)SR0071721(s)(OCoLC)22439996
+NLM ID: 9201341[Serial]
+
+41. Title Abbreviation: Adv Mater
+Title(s): Advanced materials.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Semimonthly, 2000-
+Country of Publication: Germany
+Publisher: Deerfield Beach, FL : VCH Publishers, 1989-
+Latest Publisher: Sept. 3, 1997- : Weinheim : Wiley-VCH
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 0935-9648(Print); 1521-4095(Electronic); 0935-9648(Linking)
+Coden: ADVMEW
+LCCN: 90656517
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4095
+In: PubMed: v22n1, Jan. 5 2010-; 
+Selectively Indexed in: MEDLINEv22n1, Jan. 5 2010-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical and Dental Materials*; Manufactured Materials
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 22, no. 8 (Feb. 23, 2010). Volume 
+numbering begins with v. 2, no. 1 (Jan. 1990). Also issued online.
+Other ID: (OCoLC)21104347(DNLM)SR0070881(s)
+NLM ID: 9885358[Serial]
+
+42. Author(s): Institute of Physics (Great Britain); American Institute of Physics.
+Title Abbreviation: J Phys Condens Matter
+Title(s): Journal of physics. Condensed matter : an Institute of Physics journal.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Weekly (50 issues yearly), <2003->
+Country of Publication: England
+Publisher: Bristol, UK : IOP Pub., c1989-
+Description: v. : ill. ; 26 cm.
+Language: English, French, German
+ISSN: 0953-8984(Print); 1361-648X(Electronic); 0953-8984(Linking)
+Coden: JCOMEL
+LCCN: 89655558, sn 89025138
+Electronic Links: https://iopscience.iop.org/journal/0953-8984
+In: PubMed: v22n1, Jan. 2010-; 
+Selectively Indexed in: MEDLINEv22n1, Jan. 2010-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2023. Special issues accompany some
+vols. Also issued online. English, French, and German. Published in association
+with the American Institute of Physics.
+Other ID: (OCoLC)19068764
+NLM ID: 101165248[Serial]
+
+43. Author(s): Associazione italiana di fisica biomedica.
+Title Abbreviation: Phys Med
+Title(s): Physica medica : PM : an international journal devoted to the applications of
+physics to medicine and biology : official journal of the Italian Association of 
+Biomedical Physics (AIFB).
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Six no. a year, 2013-
+Country of Publication: Italy
+Publisher: Lugano, Switzerland : Giardini editori S.A.,
+Latest Publisher: Pisa : Istituti Editoriali e Poligrafici Internazionali
+Description: v. : ill.
+Language: English
+ISSN: 1120-1797(Print); 1724-191X(Electronic); 1120-1797(Linking)
+Electronic Links: https://www.sciencedirect.com/journal/physica-medica
+Fully Indexed In: MEDLINE: v23n1, March 2007-
+In: PubMed: v23n1, March 2007-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 8, n. 2 (Apr.-June 1992). Latest issue consulted: Vol.
+22, n. 3 (July-Sep. 2006). Print issues ceased with v. 31, no.5-8 (2015) Some
+volumes have supplements. Also issued online. In English.
+Other ID: (DNLM)SR0074390(s)(OCoLC)27638439
+NLM ID: 9302888[Serial]
+
+44. Author(s): Magyar Tudományos Akadémia.
+Title Abbreviation: Acta Biochim Biophys Hung
+Title(s): Acta biochimica et biophysica Hungarica.
+Publication Start Year: 1986
+Publication End Year: 1992
+Frequency: Quarterly
+Country of Publication: Hungary
+Publisher: Budapest : Akadémiai Kiadó, [1986-1992?].
+Latest Publisher: Budapest : Akademiai Kiado
+Description: 7 v. : ill.
+Language: English
+ISSN: 0237-6261(Print); 0237-6261(Linking)
+Coden: ABBHE5
+Fully Indexed In: MEDLINE: v21n1-2, 1986-v26n1-4, 1992; Index medicus
+In: PubMed: v21n1-2, 1986-v26n1-4, 1992; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Title from cover. Text in English. Issued by: the Hungarian Academy of Sciences.
+Other ID: (DNLM)SR0058574(s)(OCoLC)14695450
+NLM ID: 8701158[Serial]
+
+45. Title Abbreviation: J Biolumin Chemilumin
+Title(s): Journal of bioluminescence and chemiluminescence.
+Publication Start Year: 1986
+Publication End Year: 1998
+Frequency: Bimonthly, 1994-1998
+Country of Publication: England
+Publisher: Chichester, Sussex, England : Wiley & Sons, c1986-c1998.
+Description: 13 v. : ill.
+Language: English
+ISSN: 0884-3996(Print); 0884-3996(Linking)
+Coden: JBCHE7
+LCCN: 87-640727
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-7243
+Fully Indexed In: MEDLINE: v1n1,Jun. 1986-v13, n6,Nov./Dec. 1998; PubMed: v1n1,Jun. 1986-v13, n6,Nov./Dec. 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Luminescent Measurements.*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0055008(s)(OCoLC)12366428
+NLM ID: 8612490[Serial]
+
+46. Title Abbreviation: Annu Rev Biophys Biophys Chem
+Title(s): Annual review of biophysics and biophysical chemistry.
+Publication Start Year: 1985
+Publication End Year: 1991
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, Calif. : Annual Reviews, c1985-c1991.
+Latest Publisher: Palo Alto Ca : Annual Reviews
+Description: 7 v. : ill., ports.
+Language: English
+ISSN: 0883-9182(Print); 0883-9182(Linking)
+Coden: ABPBBK
+Fully Indexed In: MEDLINE: v14, 1985-v20, 1991; PubMed: v14, 1985-v20, 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biophysics*; Chemistry, Physical*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0054225(s)(OCoLC)12140595
+NLM ID: 8505748[Serial]
+
+47. Author(s): International Microwave Power Institute.
+Title Abbreviation: J Microw Power Electromagn Energy
+Title(s): The Journal of microwave power and electromagnetic energy : a publication of the 
+International Microwave Power Institute.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Vienna, Va : International Microwave Power Institute
+Latest Publisher: 2016- : New York, NY : Taylor & Francis
+Description: v. : ill., ports.
+Language: English
+ISSN: 0832-7823(Print); 2472-4041(Electronic); 0832-7823(Linking)
+Coden: JMPEE4
+Electronic Links: http://www.tandfonline.com/loi/tpee20
+In: PubMed: v20n1, 1985-v47n4, 2013; 
+Selectively Indexed in: MEDLINEv20n1, 1985-v47n4, 2013Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electromagnetic Phenomena*; Microwaves*; Radiation*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 47, no. 4 (2013). Also issued
+online.
+Other ID: (DNLM)SR0060044(s)(OCoLC)12644830
+NLM ID: 8706313[Serial]
+
+48. Title Abbreviation: Acta Radiol Oncol
+Title(s): Acta radiologica. Oncology.
+Publication Start Year: 1984
+Publication End Year: 1986
+Frequency: Six no. a year
+Country of Publication: Sweden
+Publisher: Stockholm : Actga Radiologica, 1984-1986.
+Latest Publisher: Stockholm : Societies Of Medical Radiology In Denmark, Finland, Norway And Sweden
+Description: 3 v. : ill.
+Language: English, English
+ISSN: 0349-652X(Print); 0349-652X(Linking)
+Coden: AROBDR
+LCCN: sn 85014030
+Electronic Links: http://www.tandfonline.com/loi/ionc20
+Fully Indexed In: MEDLINE: v23n1,1984-v25n4-6,Jul.-Dec. 1986; PubMed: v23n1,1984-v25n4-6,Jul.-Dec. 1986; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Oncology*; Neoplasms/therapy*; Physics*; Radiation Effects*
+Publication Type(s): Periodical
+Notes: Title from cover. "Published by the societies of medical radiology in Denmark,
+Findland, Norway, and Sweden." Also issued online. Text in English.
+Other ID: (OCoLC)10969256(DNLM)A08800000(s)
+NLM ID: 8209606[Serial]
+
+49. Author(s): International Society of Biorheology.
+Title Abbreviation: Biorheology Suppl
+Title(s): Biorheology. Supplement : the official journal of the International Society of
+Biorheology.
+Publication Start Year: 1984
+Publication End Year: 1984
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Elmsford, N.Y. : Pergamon Press, [c1984]
+Latest Publisher: New York Ny : Pergamon Press
+Description: v. : ill.
+Language: English
+ISSN: 0891-978X(Print); 0891-978X(Linking)
+Coden: BRHLAU
+Fully Indexed In: MEDLINE: 1, 1984; PubMed: 1, 1984; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Rheology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0053771(s)(OCoLC)12138456
+NLM ID: 8503530[Serial]
+
+50. Author(s): European Biophysical Societies Association.
+Title Abbreviation: Eur Biophys J
+Title(s): European biophysics journal : EBJ.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Six no. a year, 1998-
+Country of Publication: Germany
+Publisher: Berlin ; New York : Springer International, c1984-
+Latest Publisher: 1996- : Berlin : Springer Verlag and the European Biophysical Societies
+Association
+Description: v. : ill.
+Language: English
+ISSN: 0175-7571(Print); 1432-1017(Electronic); 0175-7571(Linking)
+Coden: EBJOE8
+LCCN: 85641738, sc 84002133, sn 84012756
+Electronic Links: https://link.springer.com/journal/249
+Fully Indexed In: MEDLINE: v11n1, 1984-; PubMed: v11n1, 1984-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Issues for Vol. 24, no. 5 (1996)- also have variant title: European biophysics
+journal with biophysics letters. Title from cover. Vol. 28, no. 1 misdated as
+1998, but constitutes 1999. Also issued online. Vols. from 1996- issued in
+conjunction with the European Biophysical Societies Association.
+Other ID: (DNLM)SR0050646(s)(OCoLC)11035862
+NLM ID: 8409413[Serial]
+
+51. Title Abbreviation: Physiol Chem Phys Med NMR
+Title(s): Physiological chemistry and physics and medical NMR.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Two no. a year
+Country of Publication: United States
+Publisher: New York : Pacific Press, [c1983-
+Latest Publisher: Portland Or : Pacific Press
+Description: v. : ill.
+Language: English
+ISSN: 0748-6642(Print); 0748-6642(Linking)
+Coden: PCPNER
+Electronic Links: http://www.physiologicalchemistryandphysics.com/
+Fully Indexed In: MEDLINE: v15n1, 1983-v43, 2014; PubMed: v15n1, 1983-v43, 2014; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Magnetic Resonance Spectroscopy*; Physics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0052772(s)(OCoLC)10169379
+NLM ID: 8502230[Serial]
+
+52. Author(s): Slovenská akadémia vied.
+Title Abbreviation: Gen Physiol Biophys
+Title(s): General physiology and biophysics.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Bimonthly, 2018-
+Country of Publication: Slovakia
+Publisher: Bratislava, CSSR : VEDA, c1982-
+Latest Publisher: 2014- : Bratislava : Ústav molekulárnej fyziológie a genetiky SAV
+Description: v. : ill.
+Language: English, English
+ISSN: 0231-5882(Print); 1338-4325(Electronic); 0231-5882(Linking)
+Coden: GPBIE2
+Electronic Links: http://www.aepress.sk/
+Fully Indexed In: MEDLINE: v1n1, 1982-; Index medicus
+In: PubMed: v1n1, 1982-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*; Physiology*
+Publication Type(s): Periodical
+Notes: Published under the auspices of: the Slovak Academy of Sciences. Also issued
+online.
+Other ID: (DNLM)G04230000(s)(OCoLC)09921346
+NLM ID: 8400604[Serial]
+
+53. Title Abbreviation: Acta Radiol Oncol Radiat Ther Phys Biol
+Title(s): Acta radiologica. Oncology, radiation therapy, physics and biology.
+Publication Start Year: 1980
+Publication End Year: 1983
+Frequency: Bimonthly
+Country of Publication: Sweden
+Publisher: Stockholm : Acta Radiologica, 1980-
+Description: 4 v. : ill. ; 28 cm.
+Language: English, English, French, German
+ISSN: 
+Coden: AROBDR
+LCCN: sc 82008098, sn 82002247
+Electronic Links: https://www.tandfonline.com/loi/ionc20
+Fully Indexed In: MEDLINE: v19n1,1980-v22n6, 1983; PubMed: v19n1,1980-v22n6, 1983; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neoplasms/radiotherapy*; Physics; Radiology*; Radiotherapy*
+Publication Type(s): Periodical
+Notes: Also issued online. Published by the societies of medical radiology in Denmark,
+Finland, Norway and Sweden.
+Other ID: (OCoLC)07185599
+NLM ID: 101470759[Serial]
+
+54. Author(s): Australasian College of Physical Scientists in Medicine.
+Title Abbreviation: Australas Phys Eng Sci Med
+Title(s): Australasian physical & engineering sciences in medicine/ supported by the
+Australasian College of Physical Scientists in Medicine and the Australasian
+Association of Physical Sciences in Medicine.
+Publication Start Year: 1980
+Publication End Year: 2019
+Frequency: Four no. a year
+Country of Publication: Netherlands
+Publisher: Melbourne : Australasian College Of Physical Scientists In Medicine
+Latest Publisher: 2009-2019 : Dordrecht : Springer
+Description: v. : ill.
+Language: English, English
+ISSN: 0158-9938(Print); 1879-5447(Electronic); 0158-9938(Linking)
+Coden: AUPMDI
+Electronic Links: https://link.springer.com/journal/13246
+Fully Indexed In: MEDLINE: v6n1, 1983-v42n4, Dec. 2019; Index medicus
+In: PubMed: v6n1, 1983-v42n4, Dec. 2019; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Engineering*; Biophysics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)A75155000(s)(OCoLC)08581681
+NLM ID: 8208130[Serial]
+
+55. Author(s): Bioelectromagnetics Society (Gaithersburg, Md.); Society for Physical Regulation 
+in Biology and Medicine.; European Bioelectromagnetics Association.
+Title Abbreviation: Bioelectromagnetics
+Title(s): Bioelectromagnetics.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: 8 no. a year, 1998-
+Country of Publication: United States
+Publisher: New York, Liss.
+Latest Publisher: New York, NY : Wiley-Liss
+Description: v. ill.
+Language: English, English
+ISSN: 0197-8462(Print); 1521-186X(Electronic); 0197-8462(Linking)
+Coden: BLCTDO
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-186X
+Fully Indexed In: MEDLINE: v1n1, 1980-; Index medicus
+In: PubMed: v1n1, 1980-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Electromagnetic Phenomena*; Electrophysiology*
+Publication Type(s): Periodical
+Notes: Also issued online. Vols. for <Dec. 2001-> issued by: Bioelectromagnetics
+Society, the Society for Physical Regulation in Biology and Medicine, and the
+European Bioelectromagnetics Association.
+Other ID: (DNLM)B15530000(s)(OCoLC)06152871
+NLM ID: 8008281[Serial]
+
+56. Author(s): Hospital Physicists' Association.; Deutsche Gesellschaft für Medizinische
+Physik.; European Federation of Organisation for Medical Physics.; Institute of
+Physics (Great Britain); Institute of Physical Sciences in Medicine (Great
+Britain)
+Title Abbreviation: Clin Phys Physiol Meas
+Title(s): Clinical physics and physiological measurement : an official journal of the
+Hospital Physicists' Association, Deutsche Gesellschaft für Medizinische Physik 
+and the European Federation of Organisations for Medical Physics.
+Publication Start Year: 1980
+Publication End Year: 1992
+Frequency: Four no. a year
+Country of Publication: England
+Publisher: Bristol, England : Institute of Physics. -1992.
+Latest Publisher: York : Institute Of Physical Sciences In Medicine
+Description: 13 v. : ill.
+Language: English, English, French, German
+ISSN: 0143-0815(Print); 0143-0815(Linking)
+Coden: CPPMD5
+Electronic Links: http://iopscience.iop.org/journal/0967-3334
+Fully Indexed In: MEDLINE: v2n1,Feb. 1981-v13n4,Nov. 1992; PubMed: v2n1,Feb. 1981-v13n4,Nov. 1992; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Engineering*; Biophysics*; Monitoring, Physiologic*
+Publication Type(s): Periodical
+Notes: Published -1992 by the: Institute of Physical Sciences in Medicine. Description
+based on: v. 2, no. 2 (May 1981); title from cover. Also issued online. Articles 
+in English; summaries in English, French and German.
+Other ID: (DNLM)C26490000(s)(OCoLC)06827724
+NLM ID: 8209031[Serial]
+
+57. Title Abbreviation: Cell Biophys
+Title(s): Cell biophysics.
+Publication Start Year: 1979
+Publication End Year: 1995
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [Totowa, N.J., etc.] Humana Press.
+Latest Publisher: Clifton, N.J. : Humana Press
+Description: 27 v. ill.
+Language: English
+ISSN: 0163-4992(Print); 0163-4992(Linking)
+Coden: CBIODE
+Fully Indexed In: MEDLINE: v1n1,Mar. 1979-v27n1,Aug. 1995; PubMed: v1n1,Mar. 1979-v27n1,Aug. 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics*; Cell Biology*
+Publication Type(s): Periodical
+Other ID: (DNLM)C10745000(s)(OCoLC)04391788
+NLM ID: 8002185[Serial]
+
+58. Title Abbreviation: J Biochem Biophys Methods
+Title(s): Journal of biochemical and biophysical methods.
+Publication Start Year: 1979
+Publication End Year: 2008
+Frequency: Six no. a year, <v. 70, no. 1 2007>-
+Country of Publication: Netherlands
+Publisher: Amsterdam, Elsevier/North-Holland Biomedical Press.
+Description: v. ill.
+Language: English, English
+ISSN: 0165-022X(Print); 1872-857X(Electronic); 0165-022X(Linking)
+LCCN: 80640152, sn 80012887
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-biochemical-and-biophysical-methods
+Fully Indexed In: MEDLINE: v1n1, 1979-v70n6, 2008; PubMed: v1n1, 1979-v70n6, 2008; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry/methods*; Biophysics/methods*; Molecular Biology/methods*
+Publication Type(s): Periodical
+Notes: Also available online.
+Other ID: (DNLM)J14230000(s)(OCoLC)04936947
+NLM ID: 7907378[Serial]
+
+59. Title Abbreviation: Acta Radiol Oncol Radiat Phys Biol
+Title(s): Acta radiologica: oncology, radiation, physics, biology.
+Publication Start Year: 1978
+Publication End Year: 1979
+Frequency: Six no. a year
+Country of Publication: Sweden
+Publisher: Stockholm : Societies Of Medical Radiology In Denmark, Finland, Norway And Sweden
+Description: 2 v. ill.
+Language: English, English, French, German
+ISSN: 0348-5196(Print); 0348-5196(Linking)
+Coden: ARONDT
+LCCN: sn 79004990
+Electronic Links: http://www.tandfonline.com/loi/ionc20
+Fully Indexed In: MEDLINE: v17n1, 1978-v18, 1979; Index medicus
+In: PubMed: v17n1, 1978-v18, 1979; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medical Oncology*; Neoplasms/radiotherapy*; Physics*; Radiation Effects*; Radiology*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English; summaries in English, French, and
+German. Published by the societies of medical radiology in Denmark, Finland,
+Norway, and Sweden.
+Other ID: (DNLM)A08805000(s)(OCoLC)04168219
+NLM ID: 7805897[Serial]
+
+60. Title Abbreviation: Biophys Struct Mech
+Title(s): Biophysics of structure and mechanism.
+Publication Start Year: 1974
+Publication End Year: 1984
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer International.
+Latest Publisher: Heidelberg : Springer Verlag
+Description: 10 v. ill.
+Language: English, English
+ISSN: 0340-1057(Print); 0340-1057(Linking)
+Coden: BSMHBH
+Electronic Links: https://link.springer.com/journal/249
+Selectively Indexed in: MEDLINEv1n1,Oct. 28, 1974-v10,Mar. 1984PubMedv1n1,Oct. 28, 1974-v10,Mar. 1984Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)B19240000(s)(OCoLC)02243377
+NLM ID: 7502020[Serial]
+
+61. Author(s): International Society on Biotelemetry.
+Title Abbreviation: Biotelemetry
+Title(s): Biotelemetry.
+Publication Start Year: 1974
+Publication End Year: 1977
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Latest Publisher: Basel : Karger
+Description: 4 v. ill.
+Language: English, English
+ISSN: 0301-5912(Print); 0301-5912(Linking)
+Coden: BTMYA6
+LCCN: 75-646820
+Fully Indexed In: MEDLINE: v1n1, 1974-v4, 1977; PubMed: v1n1, 1974-v4, 1977; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biometry*; Monitoring, Physiologic*; Telemetry*
+Publication Type(s): Periodical
+Notes: Official organ of the International Society on Biotelemetry.
+Other ID: (DNLM)B19880000(s)(OCoLC)02243325
+NLM ID: 0430774[Serial]
+
+62. Author(s): Brown,H D(Harry Darrow)
+Title Abbreviation: Cancer Biochem Biophys
+Title(s): Cancer biochemistry biophysics.
+Publication Start Year: 1974
+Publication End Year: 1999
+Frequency: Four no. a year
+Country of Publication: England
+Publisher: London, New York, Gordon and Breach Science Publishers.
+Description: v. illus.
+Language: English, English
+ISSN: 0305-7232(Print); 0305-7232(Linking)
+Coden: CABCD4
+Fully Indexed In: MEDLINE: v1n4, 1976-v17n1-2, July 1999; PubMed: v1n4, 1976-v17n1-2, July 1999; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biophysics*; Neoplasms, Experimental*
+Publication Type(s): Periodical
+Notes: Editor: 1974- H. D. Brown.
+Other ID: (DNLM)C05040000(s)(OCoLC)01181846
+NLM ID: 7506524[Serial]
+
+63. Author(s): Quagliariello,E(Ernesto); Singer,Thomas Peter,1920-1999.; Palmieri,F(Ferdinando)
+Title Abbreviation: Horiz Biochem Biophys
+Title(s): Horizons in biochemistry and biophysics.
+Publication Start Year: 1974
+Publication End Year: 1989
+Frequency: Irregular
+Country of Publication: England
+Publisher: Reading, Mass., Addison-Wesley.
+Latest Publisher: Chichester : Wiley
+Description: v. ill.
+Language: English, English
+ISSN: 0096-2708(Print); 0096-2708(Linking)
+Coden: HZBBAO
+Fully Indexed In: MEDLINE: v1n1, 1974-v9, 1979; PubMed: v1n1, 1974-v9, 1979; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Editors: 1974- E. Quagliariello, F. Palmieri, T. P. Singer.
+Other ID: (DNLM)H16960000(s)(OCoLC)02243969
+NLM ID: 7502793[Serial]
+
+64. Author(s): American Association of Physicists in Medicine.; American Institute of Physics.
+Title Abbreviation: Med Phys
+Title(s): Medical physics.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Lancaster, Pa., Published for the American Assn. of Physicists in Medicine by the
+American Institute of Physics.
+Latest Publisher: 2017- : Hoboken, NJ : John Wiley and Sons, Inc.
+Description: v. illus.
+Language: English
+ISSN: 0094-2405(Print); 2473-4209(Electronic); 0094-2405(Linking)
+Coden: MPHYA6
+LCCN: 74645246
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2473-4209
+Fully Indexed In: MEDLINE: v1n1, 1974-; PubMed: v1n1, 1974-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Also issued online. Indexes: Vol. 1 (1974)-v. 10 (1983). 1 v.
+Other ID: (DNLM)M16480000(s)(OCoLC)01794379
+NLM ID: 0425746[Serial]
+
+65. Title Abbreviation: Radiat Environ Biophys
+Title(s): Radiation and environmental biophysics.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: v. illus.
+Language: English
+ISSN: 0301-634X(Print); 1432-2099(Electronic); 0301-634X(Linking)
+Coden: REBPAT
+Electronic Links: https://link.springer.com/journal/411
+Fully Indexed In: MEDLINE: v11n3, 1974-; PubMed: v11n3, 1974-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*; Environment*; Radiation*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English or German.
+Other ID: (DNLM)R00520000(s)(OCoLC)01793951
+NLM ID: 0415677[Serial]
+
+66. Title Abbreviation: Biophys Chem
+Title(s): Biophysical chemistry.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: 18 no. a year, 2000-
+Country of Publication: Netherlands
+Publisher: Amsterdam, North-Holland Pub. Co.
+Latest Publisher: Amsterdam : Elsevier Science B.V
+Description: v. illus.
+Language: English
+ISSN: 0301-4622(Print); 1873-4200(Electronic); 0301-4622(Linking)
+Coden: BICIAZ
+LCCN: 74644619
+Electronic Links: https://www.sciencedirect.com/journal/biophysical-chemistry
+Fully Indexed In: MEDLINE: v1n2,Dec. 1973-; PubMed: v1n2,Dec. 1973-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Chemistry, Physical*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)B19080000(s)(OCoLC)01793925
+NLM ID: 0403171[Serial]
+
+67. Title Abbreviation: J Biol Phys
+Title(s): Journal of biological physics.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Blacksburg, Va., University Publications.
+Latest Publisher: Dordrecht : Kluwer
+Description: v. illus.
+Language: English
+ISSN: 0092-0606(Print); 1573-0689(Electronic); 0092-0606(Linking)
+Coden: JBPHBZ
+Electronic Links: https://link.springer.com/journal/10867, https://pmc.ncbi.nlm.nih.gov/journals/?term=0417731
+Fully Indexed In: MEDLINE: v39n1, Jan. 2013-
+In: PubMed: v32n2, 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J14440000(s)(OCoLC)01788732
+NLM ID: 0417731[Serial]
+
+68. Author(s): Morales,Manuel F
+Title Abbreviation: Annu Rev Biophys Bioeng
+Title(s): Annual review of biophysics and bioengineering.
+Publication Start Year: 1972
+Publication End Year: 1984
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, Calif., Annual Reviews, inc.
+Latest Publisher: Palo Alto Ca : Annual Reviews
+Description: v. illus.
+Language: English
+ISSN: 0084-6589(Print); 0084-6589(Linking)
+Coden: ABPBBK
+LCCN: 79-188446
+Fully Indexed In: MEDLINE: v1, 1972-v13, 1984; PubMed: v1, 1972-v13, 1984; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Engineering*; Biophysics*
+Publication Type(s): Periodical
+Notes: Editor: 1972- M. F. Morales.
+Other ID: (DNLM)A54030000(s)(OCoLC)01481497
+NLM ID: 0332636[Serial]
+
+69. Author(s): Council of Scientific & Industrial Research (India); Indian National Science
+Academy.; Society of Biological Chemists (India)
+Title Abbreviation: Indian J Biochem Biophys
+Title(s): Indian journal of biochemistry & biophysics.
+Publication Start Year: 1971
+Publication End Year: 
+Frequency: Bimonthly, 1979-
+Country of Publication: India
+Publisher: New Delhi : National Institute of Science Communication and Information
+Resources, CSIR
+Description: v. illus.
+Language: English
+ISSN: 0301-1208(Print); 0975-0959(Electronic); 0301-1208(Linking)
+Coden: IJBBBQ
+LCCN: sa 65000415, sn 79004661
+Electronic Links: http://nopr.niscair.res.in/handle/123456789/34
+Fully Indexed In: MEDLINE: v8, 1971-v52n2, Apr. 2015; Index medicus
+In: PubMed: v8, 1971-v52n2, Apr. 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Also issued online. Issued by the Council of Scientific & Industrial Research in 
+association with the Indian National Science Academy and the Society of
+Biological Chemists.
+Other ID: (DNLM)I09100000(s)(OCoLC)01696706
+NLM ID: 0310774[Serial]
+
+70. Author(s): Kotani,Masao
+Title Abbreviation: Adv Biophys
+Title(s): Advances in biophysics.
+Publication Start Year: 1970
+Publication End Year: 2004
+Frequency: Annual, 1997-
+Country of Publication: Japan
+Publisher: Tokyo, Univ. of Tokyo Press; Baltimore, University Park Press.
+Latest Publisher: 2004- : Tokyo : Limerick : Japan Scientific Societies Press ; Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0065-227X(Print); 1873-4618(Electronic); 0065-227X(Linking)
+Coden: ADVBAT
+LCCN: 76-118663
+Electronic Links: http://www.sciencedirect.com/science/journal/0065227X
+Fully Indexed In: MEDLINE: 1, 1970-38, 2004; PubMed: 1, 1970-38, 2004; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Editor: 1970- M. Kotani. Also issued online.
+Other ID: (DNLM)A13335000(s)(OCoLC)01461154
+NLM ID: 0262476[Serial]
+
+71. Title Abbreviation: Physiol Chem Phys
+Title(s): Physiological chemistry and physics.
+Publication Start Year: 1969
+Publication End Year: 1982
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York [etc.] Pacific Press [etc.]
+Latest Publisher: Portland Or : Pacific Publishing Company
+Description: 14 v. ill.
+Language: English
+ISSN: 0031-9325(Print); 0031-9325(Linking)
+Coden: PLCHB4
+Selectively Indexed in: MEDLINEv4n1, 1972-v14, 1982PubMedv4n1, 1972-v14, 1982Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Physics*
+Publication Type(s): Periodical
+Other ID: (DNLM)P15000000(s)(OCoLC)01762356
+NLM ID: 0202364[Serial]
+
+72. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr A Cryst Phys Diffr Theor Gen Crystallogr
+Title(s): Acta crystallographica. Section A, Crystal physics, diffraction, theoretical and 
+general crystallography.
+Publication Start Year: 1968
+Publication End Year: 1982
+Frequency: Bimonthly
+Country of Publication: Denmark
+Publisher: Copenhagen, Published for the International Union of Crystallography by
+Munksgaard.
+Description: 15 v. ill.
+Language: English
+ISSN: 0567-7394(Print); 0567-7394(Linking)
+Coden: ACACBN
+Fully Indexed In: MEDLINE: v25n1,Jan. 1,  1969 ; v26n6, Nov. 1, 1970; Index medicus
+In: PubMed: v25n1,Jan. 1, 1969 ; v26n6, Nov. 1, 1970; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallization*; Crystallography*
+Publication Type(s): Periodical
+Notes: Some vols. accompanied by supplements for the collected abstracts of the
+International Union of Crystallography congresses. Articles in English, French,
+or German.
+Other ID: (OCoLC)01460869(DNLM)A05100000(s)
+NLM ID: 0211627[Serial]
+
+73. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr B Struct Crystallogr Cryst Chem
+Title(s): Acta crystallographica. Section B: Structural crystallography and crystal
+chemistry.
+Publication Start Year: 1968
+Publication End Year: 1982
+Frequency: Monthly
+Country of Publication: Denmark
+Publisher: Copenhagen, Published for the International Union of Crystallography by
+Munksgaard.
+Description: 15 v. ill., ports.
+Language: English, French, German
+ISSN: 0567-7408(Print); 0567-7408(Linking)
+Coden: ACBCAR
+LCCN: 86643048, sn 80012040
+Fully Indexed In: MEDLINE: v24n1,Jan. 23, 1968- v26n10,Oct. 15, 1970; Index medicus
+In: PubMed: v24n1,Jan. 23, 1968- v26n10,Oct. 15, 1970; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallization*; Crystallography*
+Publication Type(s): Periodical
+Notes: Articles in English, French, or German.
+Other ID: (DNLM)A05115000(s)(OCoLC)01460868
+NLM ID: 0211630[Serial]
+
+74. Author(s): Levine,Sumner N
+Title Abbreviation: Adv Biomed Eng Med Phys
+Title(s): Advances in biomedical engineering and medical physics.
+Publication Start Year: 1968
+Publication End Year: 1971
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York, Interscience.
+Latest Publisher: New York Ny : Wiley Interscience
+Description: 4 v. ill.
+Language: English
+ISSN: 0065-2261(Print); 0065-2261(Linking)
+Coden: ABEPB7
+Fully Indexed In: MEDLINE: v1, 1968-v4, 1971; PubMed: v1, 1968-v4, 1971; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Engineering*; Biophysics*
+Publication Type(s): Periodical
+Notes: Editor: S. N. Levine.
+Other ID: (DNLM)A13320000(s)(OCoLC)01461153
+NLM ID: 7611904[Serial]
+
+75. Author(s): International Union for Pure and Applied Biophysics.
+Title Abbreviation: Q Rev Biophys
+Title(s): Quarterly reviews of biophysics.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, Cambridge Univ. Press.
+Description: v. illus.
+Language: English
+ISSN: 0033-5835(Print); 1469-8994(Electronic); 0033-5835(Linking)
+Coden: QURBAW
+Electronic Links: https://www.cambridge.org/core/journals/quarterly-reviews-of-biophysics
+Fully Indexed In: MEDLINE: v1n1,May 1968-; PubMed: v1n1,May 1968-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 45, no.4 (2012). Also issued online. Official organ
+of the International Union for Pure and Applied Biophysics. Complemented by
+(work): QRB discovery 2633-2892 (OCoLC)1203185415 (DNLM)101772102.
+Other ID: (DNLM)Q02580000(s)(OCoLC)01586799
+NLM ID: 0144032[Serial]
+
+76. Title Abbreviation: Mol Biol Biochem Biophys
+Title(s): Molecular biology, biochemistry, and biophysics.
+Publication Start Year: 1967
+Publication End Year: 1987
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer.
+Latest Publisher: Berlin : Springer Verlag
+Description: v. ports.
+Language: English
+ISSN: 0077-0221(Print); 0077-0221(Linking)
+Coden: MBBBAD
+Selectively Indexed in: MEDLINE8, 1970-37, 1987PubMed8, 1970-37, 1987Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biology*; Biophysics*
+Publication Type(s): Periodical
+Notes: Called also Molekularbiologie, Biochemie und Biophysik. Some numbers issued in
+revised editions.
+Other ID: (DNLM)M43220000(s)(OCoLC)01758519
+NLM ID: 0173540[Serial]
+
+77. Author(s): Magyar Tudományos Akadémia.
+Title Abbreviation: Acta Biochim Biophys Acad Sci Hung
+Title(s): Acta biochimica et biophysica; Academiae Scientiarum Hungaricae.
+Publication Start Year: 1966
+Publication End Year: 1985
+Frequency: Quarterly
+Country of Publication: Hungary
+Publisher: Budapest : Akademiai Kiado
+Description: 20 v. illus.
+Language: English
+ISSN: 
+Coden: ABBPAP
+Fully Indexed In: MEDLINE: v3n3, 1968-v20n3-4, 1985; Index medicus
+In: PubMed: v3n3, 1968-v20n3-4, 1985; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Text in English.
+Other ID: (DNLM)A04305000(s)(OCoLC)01460840
+NLM ID: 0067725[Serial]
+
+78. Author(s): International Microwave Power Institute.
+Title Abbreviation: J Microw Power
+Title(s): The Journal of microwave power.
+Publication Start Year: 1966
+Publication End Year: 1984
+Frequency: Quarterly
+Country of Publication: Canada
+Publisher: Edmonton, Alta., International Microwave Power Institute.
+Description: v. illus.
+Language: English
+ISSN: 0022-2739(Print); 0022-2739(Linking)
+Coden: JLMPAB
+Electronic Links: http://jmpee.org/
+In: PubMed: v12n1, Mar. 1977-v19, 1984; 
+Selectively Indexed in: MEDLINEv12n1, Mar. 1977-v19, 1984Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microwaves*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J30080000(s)(OCoLC)02035684
+NLM ID: 0332155[Serial]
+
+79. Author(s): International Federation for Medical and Biological Engineering.
+Title Abbreviation: Med Biol Eng
+Title(s): Medical & biological engineering.
+Publication Start Year: 1966
+Publication End Year: 1976
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Stevenage, Eng., Peregrinus [etc.]
+Latest Publisher: London : Peter Peregrinus
+Description: 11 v. ill.
+Language: English, English, French, German
+ISSN: 0025-696X(Print); 0025-696X(Linking)
+Coden: MBENAU
+Fully Indexed In: MEDLINE: v4n1,Jan. 1966-v14,Nov. 1976; PubMed: v4n1,Jan. 1966-v14,Nov. 1976; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Engineering*; Biomedical Engineering/instrumentation*; Equipment and Supplies*
+Publication Type(s): Periodical
+Notes: Journal of the International Federation for Medical & Biological Engineering.
+Articles in English; summaries in English, French, and German.
+Other ID: (DNLM)M11940000(s)(OCoLC)01588902
+NLM ID: 0043417[Serial]
+
+80. Author(s): Akademii︠a︡ nauk SSSR.; Consultants Bureau.; MAIK Nauka/Interperiodica
+Publishing.
+Title Abbreviation: Dokl Biophys
+Title(s): Doklady biophysics : proceedings of the Academy of Sciences of the USSR,
+Biophysics section/ translated from Russian.
+Publication Start Year: 1964
+Publication End Year: 2000
+Frequency: Semiannual, <2000->
+Country of Publication: United States
+Publisher: New York : Consultants Bureau, c1965-c2000.
+Description: v. : ill.
+Language: English, Russian
+ISSN: 0012-4974(Print); 0012-4974(Linking)
+Coden: DOKBAG
+LCCN: 95647207
+Electronic Links: https://link.springer.com/journal/10629
+Fully Indexed In: MEDLINE: v370-372, Jan.-June 2000-v373-375, July-Dec. 2000; PubMed: v370-372, Jan.-June 2000-v373-375, July-Dec. 2000; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Title from cover. Translated and published: Moscow : Maik nauka/Interperiodica,
+1994-2000. Issues carry the same numbering as the Russian originals from which
+they were translated. Also issued online.
+Other ID: (OCoLC)33184322(DNLM)D18640000(s)
+NLM ID: 7505460[Serial]
+
+81. Author(s): Council of Scientific & Industrial Research (India); Society of Biological
+Chemists (India); Indian National Science Academy.
+Title Abbreviation: Indian J Biochem
+Title(s): Indian journal of biochemistry.
+Publication Start Year: 1964
+Publication End Year: 1970
+Frequency: Quarterly
+Country of Publication: India
+Publisher: New Delhi New York : Council of Scientific and Industrial Research ; Pergamon
+Press [distributor]
+Description: 7 v. illus.
+Language: English
+ISSN: 0019-5081(Print); 0019-5081(Linking)
+LCCN: 86655104
+Fully Indexed In: MEDLINE: v1n2, June 1964-v7n4, Dec. 1970; Index medicus
+In: PubMed: v1n2, June 1964-v7n4, Dec. 1970; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*
+Publication Type(s): Periodical
+Notes: Issues for -Dec. 1970 published in association with the Indian National Science
+Academy, New Delhi & the Society of Biological Chemists, India.
+Other ID: (DNLM)I09080000(s)(OCoLC)01588143
+NLM ID: 1306642[Serial]
+
+82. Title Abbreviation: Biophysik
+Title(s): Biophysik.
+Publication Start Year: 1963
+Publication End Year: 1973
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin.
+Description: 10 v. illus.
+Language: German
+ISSN: 0006-3517(Print); 0006-3517(Linking)
+Coden: BPYKAU
+Fully Indexed In: MEDLINE: v2n3, 1965-v10, 1973; PubMed: v2n3, 1965-v10, 1973; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Articles also in English or French.
+Other ID: (DNLM)B19260000(s)(OCoLC)01536464
+NLM ID: 0413060[Serial]
+
+83. Author(s): Butler,J A V(John Alfred Valentine),1899-
+Title Abbreviation: Prog Biophys Mol Biol
+Title(s): Progress in biophysics and molecular biology.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Nine no. a year 2001-
+Country of Publication: England
+Publisher: New York.
+Latest Publisher: Oxford : Pergamon Press
+Description: v. illus.
+Language: English
+ISSN: 0079-6107(Print); 1873-1732(Electronic); 0079-6107(Linking)
+Coden: PBIMAC
+Electronic Links: http://www.sciencedirect.com/science/journal/00796107
+Fully Indexed In: MEDLINE: v15, 1965-; PubMed: v15, 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Editors: 1963- J. A. V. Butler [et al.] Also available online.
+Other ID: (DNLM)P47180000(s)(OCoLC)01715038
+NLM ID: 0401233[Serial]
+
+84. Title Abbreviation: Biorheology
+Title(s): Biorheology.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Oxford, Eng. [etc.]
+Latest Publisher: 2025- : [Thousand Oaks, CA] : SAGE Publications
+Description: v. ill.
+Language: English, French, German
+ISSN: 0006-355X(Print); 1878-5034(Electronic); 0006-355X(Linking)
+Coden: BRHLAU
+Electronic Links: https://journals.sagepub.com/home/BRH, http://content.iospress.com/journals/biorheology
+Fully Indexed In: MEDLINE: v3n1,Sept. 1965-; PubMed: v3n1,Sept. 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*; Body Fluids*
+Publication Type(s): Periodical
+Notes: Special issues accompany some vols. Imprint varies. Also issued online. Articles 
+in English, French, or German.
+Other ID: (DNLM)B19560000(s)(OCoLC)02086401
+NLM ID: 0372526[Serial]
+
+85. Author(s): Institut national de la recherche agronomique (France)
+Title Abbreviation: Ann Biol Anim Biochim Biophys
+Title(s): Annales de biologie animale, biochimie, biophysique.
+Publication Start Year: 1961
+Publication End Year: 1979
+Frequency: Quarterly
+Country of Publication: France
+Publisher: Paris : Institut National De La Recherche Agronomique
+Description: 19 v. ill.
+Language: English, French, English, French
+ISSN: 0003-388X(Print); 0003-388X(Linking)
+Coden: ABABAC
+Electronic Links: http://rnd.edpsciences.org/
+In: PubMed: v12n1, 1972-v14n2, 1974; 
+Selectively Indexed in: MEDLINEv12n1, 1972-v14n2, 1974Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biology*; Biophysics*; Physiology, Comparative*
+Publication Type(s): Periodical
+Notes: Supplements accompany some vols. Also issued online. Articles in English or
+French; summaries in both languages.
+Other ID: (DNLM)A31500000(s)(OCoLC)01481237
+NLM ID: 0040752[Serial]
+
+86. Author(s): International Society of Biometeorology.
+Title Abbreviation: Int J Biometeorol
+Title(s): International journal of biometeorology.
+Publication Start Year: 1961
+Publication End Year: 
+Frequency: Six no. a year, 2009-
+Country of Publication: United States
+Publisher: Leiden.
+Latest Publisher: New York, NY : Springer Verlag
+Description: v.
+Language: English
+ISSN: 0020-7128(Print); 1432-1254(Electronic); 0020-7128(Linking)
+Coden: IJBMAO
+LCCN: 72625755, sn 85005781
+Electronic Links: https://link.springer.com/journal/484
+Fully Indexed In: MEDLINE: v8n1,Aug. 1964-; PubMed: v8n1,Aug. 1964-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Adaptation, Physiological*; Weather*
+Publication Type(s): Periodical
+Notes: Journal of the International Society of Biometeorology. Supplements accompany
+some vols. Also issued online.
+Other ID: (OCoLC)06745198(DNLM)I26420000(s)
+NLM ID: 0374716[Serial]
+
+87. Author(s): Biophysical Society.; American Physical Society. Division of Biological Physics.
+Title Abbreviation: Biophys J
+Title(s): Biophysical journal.
+Publication Start Year: 1960
+Publication End Year: 
+Frequency: Twenty-four no. a year 2006-
+Country of Publication: United States
+Publisher: New York, Published by Rockefeller University Press [etc.] for the Biophysical
+Society.
+Latest Publisher: Cambridge, MA : Cell Press
+Description: v. ill.
+Language: English
+ISSN: 0006-3495(Print); 1542-0086(Electronic); 0006-3495(Linking)
+Coden: BIOJAU
+LCCN: 63006481, sn 78004262
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0370626, https://www.sciencedirect.com/journal/biophysical-journal
+Fully Indexed In: MEDLINE: v5n4, Jul. 1965-; Index medicus
+In: PubMed: v1 1960-, OLDMEDLINE, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Edited July? 1975- by the Biophysical Society in cooperation with the Division of
+Biological Physics of the American Physical Society. Vols. for 1968-77 include
+Biophysical Society program and abstracts, annual meeting (called Society
+abstracts, annual meeting - Biophysical Society, 1968-69); vols. for 1978-
+include Program and abstracts of joint meeting - Biophysical Society and American
+Physical Society. Some vols. have supplements. Also issued online.
+Other ID: (OCoLC)01390110(DNLM)B19100000(s)
+NLM ID: 0370626[Serial]
+
+88. Title Abbreviation: Biochem Biophys Res Commun
+Title(s): Biochemical and biophysical research communications.
+Publication Start Year: 1959
+Publication End Year: 
+Frequency: Weekly (except the first week of Jan. and the last week of Dec.), 2001-
+Country of Publication: United States
+Publisher: New York, Academic Press.
+Latest Publisher: <2002- >: San Diego, CA : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0006-291X(Print); 1090-2104(Electronic); 0006-291X(Linking)
+Coden: BBRCA9
+Electronic Links: http://www.sciencedirect.com/science/journal/0006291X
+Fully Indexed In: MEDLINE: v15n1, Feb. 18, 1964-; PubMed: v15n1, Feb. 18, 1964-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Includes indexes cumulative for vols. published each year, 1982?- . Also issued
+online.
+Other ID: (DNLM)B14760000(s)(OCoLC)01532958
+NLM ID: 0372516[Serial]
+
+89. Author(s): Zhongguo ke xue yuan. Shanghai sheng ming ke xue yan jiu yuan. Sheng wu hua xue
+yu xi bao sheng wu xue yan jiu suo.
+Title Abbreviation: Sheng Wu Hua Xue Yu Sheng Wu Wu Li Xue Bao (Shanghai)
+Title(s): Sheng wu hua xue yu sheng wu wu li xue bao Acta biochimica et biophysica Sinica.
+Publication Start Year: 1959
+Publication End Year: 2003
+Frequency: Monthly, 2003
+Country of Publication: China
+Publisher: [Shanghai Shanghai renmin chu ban she, 1961?]-2003.
+Latest Publisher: Shanghai : Shanghai Institute of Biochemistry, Academia Sinica
+Description: 35 v. ill.
+Language: Chinese, English
+ISSN: 0582-9879(Print); 0582-9879(Linking)
+Coden: SHWPAU
+LCCN: sn 86010306
+Electronic Links: http://www.abbs.info: no longer valid
+Fully Indexed In: MEDLINE: v34n1, Jan. 2002-v35n12, Dec. 2003; PubMed: v34n1, Jan. 2002-v35n12, Dec. 2003; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Suspended 1966 to 1975. Available also online. Table of contents also in English.
+Sponsored by: Zhongguo ke xue yuan Shanghai sheng ming ke xue yan jiu suo Sheng
+wu hua xue yu xi bao sheng wu xue yan jiu suo, <2003>.
+Other ID: (OCoLC)07429373(DNLM)S22495000(s)
+NLM ID: 20730160R[Serial]
+
+90. Author(s): Akademii︠a︡ nauk SSSR
+Title Abbreviation: Biofizika
+Title(s): Biofizika.
+Publication Start Year: 1956
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Izdatelstvo Nauka
+Description: v. illus.
+Language: Russian, English
+ISSN: 0006-3029(Print); 0006-3029(Linking)
+Coden: BIOFAI
+Electronic Links: https://sciencejournals.ru/journal/biofiz/
+Fully Indexed In: MEDLINE: v10n2, 1965-v61n2, Mar.-Apr. 2016; Index medicus
+In: PubMed: v10n2, 1965-v61n2, Mar.-Apr. 2016, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Also issued online Microfilm. v.1(1956)-5(1960). 5 microfilm reels : negative ;
+35 mm. Issued by Akademiia nauk SSSR.
+Other ID: (DNLM)B15700000(s)(OCoLC)01536402
+NLM ID: 0372666[Serial]
+
+91. Author(s): Hospital Physicists' Association.
+Title Abbreviation: Phys Med Biol
+Title(s): Physics in medicine and biology.
+Publication Start Year: 1956
+Publication End Year: 
+Frequency: Semimonthly, 2002-
+Country of Publication: England
+Publisher: Bristol : IOP Publishing
+Description: v. illus.
+Language: English
+ISSN: 0031-9155(Print); 1361-6560(Electronic); 0031-9155(Linking)
+Coden: PHMBA7
+Electronic Links: http://iopscience.iop.org/journal/0031-9155
+Fully Indexed In: MEDLINE: v11n1,Jan. 1966-; PubMed: v11n1,Jan. 1966-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*; Physics*
+Publication Type(s): AbstractsPeriodical
+Notes: Journal of the Hospital Physicists' Association. Print issues ceased with v. 62
+(2017). Also issued online.
+Other ID: (DNLM)P14820000(s)(OCoLC)01762343
+NLM ID: 0401220[Serial]
+
+92. Title Abbreviation: Opt Acta (Lond)
+Title(s): Optica acta.
+Publication Start Year: 1954
+Publication End Year: 1986
+Frequency: Monthly
+Country of Publication: England
+Publisher: London [etc.]
+Latest Publisher: London : Taylor And Francis
+Description: 33 v. illus.
+Language: English
+ISSN: 0030-3909(Print); 0030-3909(Linking)
+Coden: OPACAT
+Fully Indexed In: MEDLINE: v12n2,Apr. 1965-v17n9,Sept. 1970; Index medicus
+In: PubMed: v12n2,Apr. 1965-v17n9,Sept. 1970, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Optics and Photonics*
+Publication Type(s): Periodical
+Notes: Articles in French, German, or English, with summaries in the three languages.
+Other ID: (OCoLC)01761343(DNLM)O08200000(s)
+NLM ID: 0401203[Serial]
+
+93. Author(s): American Chemical Society.; Chemical Society (Great Britain); Faraday Society.
+Title Abbreviation: J Phys Chem
+Title(s): The Journal of physical chemistry.
+Publication Start Year: 1952
+Publication End Year: 1996
+Frequency: Weekly (except for last week of Dec.), 1993-1996
+Country of Publication: United States
+Publisher: Easton, Pa. : American Chemical Society, c1952-1996.
+Latest Publisher: -1996: Washington, D.C. : American Chemical Society
+Description: 45 v. illus., ports.
+Language: English
+ISSN: 0022-3654(Print); 0022-3654(Linking)
+Coden: JPCHAX
+LCCN: 34023847
+Electronic Links: http://pubs.acs.org/loi/jpchax
+Fully Indexed In: MEDLINE: v69n12,Dec. 1965-v78n17,Aug. 15, 1974; PubMed: v69n12,Dec. 1965-v78n17,Aug. 15, 1974; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Physical*
+Publication Type(s): Periodical
+Notes: Title from cover. Has also supplementary material issued on negative microfiche. 
+Also available to subscribers in PDF via the World Wide Web. Issued by the
+American Chemical Society (with the Chemical Society, 1924-34, and the Faraday
+Society, 1924-46).
+Other ID: (DNLM)J34840000(s)(OCoLC)01681052
+NLM ID: 0406042[Serial]
+
+94. Title Abbreviation: Arch Biochem Biophys
+Title(s): Archives of biochemistry and biophysics.
+Publication Start Year: 1951
+Publication End Year: 
+Frequency: Twenty four no. a year, 1996-
+Country of Publication: United States
+Publisher: New York, NY : Academic Press
+Latest Publisher: <2000- > : San Diego, CA : Elsevier
+Description: v. illus., ports.
+Language: English
+ISSN: 0003-9861(Print); 1096-0384(Electronic); 0003-9861(Linking)
+Coden: ABBIA4
+LCCN: 44005905
+Electronic Links: http://www.sciencedirect.com/science/journal/00039861
+Fully Indexed In: MEDLINE: v111n1, July 1965-; Index medicus
+In: PubMed: v111n1, July 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biophysics*
+Publication Type(s): Periodical
+Notes: Issues for <Oct. 1, 2002-> called also: ABB. Also issued online. Microfilm. 1
+microfilm reel : negative ; 35 mm. Indexes: Vols. 1-75, 1942-58. 1 v. (Includes
+index to the journal under its earlier title).
+Other ID: (DNLM)A60645000(s)(OCoLC)01482120
+NLM ID: 0372430[Serial]
+
+95. Author(s): British Optical Association.
+Title Abbreviation: Br J Physiol Opt
+Title(s): The British journal of physiological optics.
+Publication Start Year: 1950
+Publication End Year: 1980
+Frequency: Irregular
+Country of Publication: England
+Publisher: London, British Optical Assn.
+Latest Publisher: London : British Optical Association
+Description: 28 v. ill.
+Language: English
+ISSN: 0007-1218(Print); 0007-1218(Linking)
+Coden: BJPOAN
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv22n3, 1965-v34, 1980PubMedv22n3, 1965-v34, 1980Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Optometry*; Vision, Ocular*
+Publication Type(s): Periodical
+Notes: Includes index to vols. 1-34; 1940-1980.
+Other ID: (DNLM)B35240000(s)(OCoLC)01537301
+NLM ID: 0377224[Serial]
+
+96. Title Abbreviation: Adv Biol Med Phys
+Title(s): Advances in biological and medical physics.
+Publication Start Year: 1948
+Publication End Year: 1980
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York Ny : Academic Press
+Description: v. illus.
+Language: English
+ISSN: 0065-2245(Print); 0065-2245(Linking)
+Coden: ABMPAC
+Fully Indexed In: MEDLINE: v10, 1965-v17, 1980; Index medicus
+In: PubMed: v10, 1965-v17, 1980, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics*; Physics
+Publication Type(s): Periodical
+Notes: Microfilm. v.1(1948)-3(1953). 1 microfilm reel : negative ; 35 mm.
+Other ID: (DNLM)A13260000(s)(OCoLC)01461151
+NLM ID: 0370414[Serial]
+
+97. Title Abbreviation: Biochim Biophys Acta
+Title(s): Biochimica et biophysica acta.
+Publication Start Year: 1947
+Publication End Year: 2016
+Frequency: One hundred issues per year, 2006-
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Pub. Co.
+Description: v. ill.
+Language: English
+ISSN: 0006-3002(Print); 1878-2434(Electronic); 0006-3002(Linking)
+Coden: BBACAQ
+LCCN: 49048142
+Electronic Links: http://www.sciencedirect.com/science/journal/00063002, http://www.sciencedirect.com/science/journal/00052728, http://www.sciencedirect.com/science/journal/00052736, http://www.sciencedirect.com/science/journal/01674781, http://www.sciencedirect.com/science/journal/03044165, http://www.sciencedirect.com/science/journal/00052760, http://www.sciencedirect.com/science/journal/13881981, http://www.sciencedirect.com/science/journal/01674889, http://www.sciencedirect.com/science/journal/01674838, http://www.sciencedirect.com/science/journal/15709639, http://www.sciencedirect.com/science/journal/03044157, http://www.sciencedirect.com/science/journal/0304419X, http://www.sciencedirect.com/science/journal/18749399, https://www.sciencedirect.com/journal/biochimica-et-biophysica-acta-bba-molecular-basis-of-disease/issues
+Fully Indexed In: MEDLINE: v87n2, 1964-v1866n2, Dec. 2016; Index medicus
+In: PubMed: v87n2, 1964-v1866n2, Dec. 2016, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry; Biophysics
+Publication Type(s): Periodical
+Notes: At head of title: BBA 4 Jan. 1994?-. Published intermittently in specialized
+sections. Section titles vary. Beginning in Mar. 1996, articles from the section:
+Reviews on cancer appear first in an online version called: Reviews on cancer
+online. "International journal of biochemistry and biophysics" Some issues have
+distinctive titles. Through 2016, published intermittently in specialized
+sections (section titles vary) according to a volume numbering scheme that
+embraces all sections of the journal (e.g. Vols. for <2002-> published as
+follows: Bioenergetics in 5 vols. of 3 no. each; Biomembranes in 10 vols. of 2
+no. each; Gene structure and expression in 5 vols. of 3 no. each; General
+subjects in 5 vols. of 3 no. each; Molecular and cell biology of lipids in 6
+vols. of 3 no. each; Molecular basis of disease in 3 vols. of 3 no. each;
+Molecular cell research in 6 vols. of 3 no. each; Proteins and proteomics in 8
+vols. of 2 no. each; Reviews on cancer in 2 vols. of 2 no. each.) Also issued
+online. Microfilm. v. 6 (1897)-7 (1899), v. 9 (1900)-12 (1904), v. 168-169
+(1968). 3 microfilm reels : negative ; 35 mm. Articles in English, French or
+German, with summaries in all three languages. Author indexs: Vols. 1-50,
+1947-61. 1 v; Vols. 101-149, 1965-67. 1 v; Vols. 171-195, 1969. 1 v.; Vols.
+196-224, 1970. 1 v.; Vols. 225-254, 1971. 1 v.; Vols. 255-290, 1972. 1 v.; Vols. 
+291-331, 1973. 1 v.; Vol. 332-374, 1974. 1v.; Vols. 375-417, 1975. 1 v.; Vols.
+418-458, 1976. 1 v.; Vols. 459-500, 1977. 1 v. Subject indexes: Vols. 1-50,
+1947-61. 1 v.; Vols. 51-100, 1961-65. 1 v; Vols. 101-49, 1965-67. 1 v.; Vols.
+171-195, 1969. 1 v.; Vols. 196-224, 1970. 1 v.; Vols. 225-254, 1971. 1 v.; Vols. 
+255-290, 1972. 1 v.; Vols. 291-331, 1973. 1 v.; Vols. 332-374, 1974. 1 v.; Vols. 
+375-417, 1975. 1 v.; Vols. 418-458, 1976. 1 v.; Vols. 459-500, 1977. 1 v.
+Other ID: (OCoLC)01536398(DNLM)B15340000(s)
+NLM ID: 0217513[Serial]
+
+98. Author(s): Faraday Society.
+Title Abbreviation: Discuss Faraday Soc
+Title(s): Discussions of the Faraday Society.
+Publication Start Year: 1947
+Publication End Year: 1971
+Frequency: Irregular
+Country of Publication: England
+Publisher: London : Chemical Society
+Description: 52 no. illus.
+Language: English
+ISSN: 0366-9033(Print); 1754-7679(Electronic); 0366-9033(Linking)
+Coden: DFSOAW
+Electronic Links: http://www.rsc.org/Publishing/Journals/df/Article.asp?Type=CurrentIssue
+In: PubMed: n40, 1965-n52, 1971; 
+Selectively Indexed in: MEDLINEn40, 1965-n52, 1971Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)01568829(DNLM)D16200000(s)
+NLM ID: 7507090[Serial]
+
+99. Author(s): Rashevsky,Nicolas,1899-1972.
+Title Abbreviation: Bull Math Biophys
+Title(s): The Bulletin of mathematical biophysics.
+Publication Start Year: 1939
+Publication End Year: 1972
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Holland, Mich., Mathematical Biology, inc. [etc.]
+Latest Publisher: Chicago Il : Mathematical Biology
+Description: 34 v. illus., ports.
+Language: English
+ISSN: 0007-4985(Print); 0007-4985(Linking)
+Coden: BMBIAO
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv27n2,Jun. 1965-v34,Dec. 1972PubMedv27n2,Jun. 1965-v34,Dec. 1972Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biometry*; Biophysics*; Cell Biology*
+Publication Type(s): Periodical
+Notes: Edited by N. Rashevsky, Mar. 1939-Mar. 1972.
+Other ID: (DNLM)B47640000(s)(OCoLC)01537761
+NLM ID: 0402113[Serial]
+
+100. Author(s): Physical Society (Great Britain); Institute of Physics (Great Britain); Institute
+of Physics and the Physical Society.; Institute of Physics Publishing.
+Title Abbreviation: Rep Prog Phys
+Title(s): Reports on progress in physics.
+Publication Start Year: 1934
+Publication End Year: 
+Frequency: Monthly <, July 1975>
+Country of Publication: England
+Publisher: London : Institute Of Physics
+Description: v. ill.
+Language: English
+ISSN: 0034-4885(Print); 1361-6633(Electronic); 0034-4885(Linking)
+Coden: RPPHAG
+LCCN: 35016768
+Electronic Links: http://iopscience.iop.org/journal/0034-4885
+In: PubMed: v75n1, Jan. 2012- ; selected citations only before this date
+Selectively Indexed in: MEDLINEv75n1, Jan. 2012-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Physics*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2023. Also issued online. Vols. for 1934-1960 issued by 
+the Physical Society; 1961-<70> by the Institute of Physics and the Physical
+Society; 1971- by the Institute of Physics; 1987- by the Institute of Physics
+Publishing.
+Other ID: (DNLM)R22200000(s)(OCoLC)01607643
+NLM ID: 19620690R[Serial]
+
+101. Author(s): American Institute of Physics.
+Title Abbreviation: J Chem Phys
+Title(s): The Journal of chemical physics.
+Publication Start Year: 1933
+Publication End Year: 
+Frequency: Semimonthly
+Country of Publication: United States
+Publisher: Lancaster, Pa., American Institute of Physics.
+Latest Publisher: New York, NY : American Institute of Physics
+Description: v. illus.
+Language: English
+ISSN: 0021-9606(Print); 1089-7690(Electronic); 0021-9606(Linking)
+Coden: JCPSA6
+Electronic Links: https://pubs.aip.org/aip/jcp
+In: PubMed: v38n1,Jan. 1, 1963-v54n5,Mar. 1, 1971; v120, Jan. 2004-, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv38n1,Jan. 1, 1963-v54n5,Mar. 1, 1971; v120, Jan. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Chemistry*; Physics*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online.
+Other ID: (DNLM)J15720000(s)(OCoLC)01782311
+NLM ID: 0375360[Serial]
+
+102. Author(s): American Institute of Physics.; Optical Society of America.
+Title Abbreviation: J Opt Soc Am
+Title(s): Journal of the Optical Society of America.
+Publication Start Year: 1930
+Publication End Year: 1983
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, D.C. [etc.] Optical Society of America
+Latest Publisher: Lancaster Pa : American Institute Of Physics
+Description: 54 v. ill.
+Language: English
+ISSN: 0030-3941(Print); 2375-110X(Electronic); 0030-3941(Linking)
+Coden: JOSAAH
+Electronic Links: http://www.opticsinfobase.org/josa/browse.cfm
+In: PubMed: v54n5, May 1964-v73, Dec. 1983, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv54n5, May 1964-v73, Dec. 1983Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Equipment and Supplies*; Optics and Photonics*
+Publication Type(s): Periodical
+Notes: Supplements accompany some volumes. Also issued online. Microfilm. v. 20
+(1930)-35 (1945). 7 microfilm reels : negative ; 35 mm. Issued by the American
+Institute of Physics. Indexes: Vol. 1-25, 1917-35, with v. 25. (Includes index to
+the journal under its earlier titles); Vol. 1-40, 1917-50, in v. 44 (Includes
+index to the journal under its earlier titles).
+Other ID: (DNLM)J32860000(s)(OCoLC)01334208
+NLM ID: 7503097[Serial]
+
+103. Author(s): American Institute of Physics.; Optical Society of America.
+Title Abbreviation: Rev Sci Instrum
+Title(s): The Review of scientific instruments.
+Publication Start Year: 1930
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: 1930-1932 : Menasha, WI : Optical Society of America
+Latest Publisher: 1933- : Woodbury, N.Y. : American Institute Of Physics
+Description: v. illus., ports.
+Language: English
+ISSN: 0034-6748(Print); 1089-7623(Electronic); 0034-6748(Linking)
+Coden: RSINAK
+LCCN: 32017560
+Electronic Links: https://pubs.aip.org/aip/rsi
+In: PubMed: v36n11, Nov. 1965-v55n3, 1984; v78n1, Jan. 2007-, OLDMEDLINE
+Selectively Indexed in: MEDLINEv36n11, Nov. 1965-v55n3, 1984; v78n1, Jan. 2007-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Equipment and Supplies*; Physics*
+Publication Type(s): Periodical
+Notes: Issues for Jan. 1933-Dec. 1937 have title: Review of scientific instruments, with
+physics news and views. Called also new ser., Jan. 1930-Dec. 1932. Sept. 1996
+issue supplemented by CD-ROM containing full-text of 9th National Conference on
+Synchrotron Radiation Instrumentation. Also issued online. Issued by the Optical 
+Society of America, Jan. 1930-Dec. 1932; by the American Institute of Physics,
+1938-
+Other ID: (DNLM)R28960000(s)(OCoLC)01763839
+NLM ID: 0405571[Serial]
+

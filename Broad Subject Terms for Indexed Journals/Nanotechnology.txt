@@ -1,0 +1,669 @@
+1. Title Abbreviation: Nanotheranostics
+Title(s): Nanotheranostics.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Australia
+Publisher: Sydney, NSW : Ivyspring International Publishers, 2017-
+Description: 1 online resource
+Language: English
+ISSN: 2206-7418(Electronic); 2206-7418(Linking)
+LCCN: 2017243203
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101698994, http://www.ntno.org
+Fully Indexed In: MEDLINE: v2n1, 2018-
+In: PubMed: v1n1, 2017-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Theranostic Nanomedicine*
+Notes: Text and graphics.
+Other ID: (OCoLC)956775715
+NLM ID: 101698994[Serial]
+
+2. Title Abbreviation: Small Methods
+Title(s): Small methods.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim : WILEY-VCH Verlag GmbH & Co. KGaA, [2017]-
+Description: 1 online resource
+Language: English
+ISSN: 2366-9608(Electronic); 2366-9608(Linking)
+LCCN: 2018243263
+Electronic Links: https://onlinelibrary.wiley.com/journal/23669608
+Selectively Indexed in: MEDLINEv5n1, Jan. 2021-PubMedv5n1, Jan. 2021- ; selected citations only before this date
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanotechnology*
+Publication Type(s): Periodical
+Notes: Some volumes contain special issues.
+Other ID: (OCoLC)971209062
+NLM ID: 101724536[Serial]
+
+3. Title Abbreviation: NanoImpact
+Title(s): NanoImpact.
+Publication Start Year: 2016
+Publication End Year: 
+Country of Publication: Netherlands
+Publisher: [Amsterdam] : Elsevier B.V., [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2452-0748(Electronic); 2452-0748(Linking)
+LCCN: 2017243298
+Electronic Links: https://www.sciencedirect.com/journal/nanoimpact
+Fully Indexed In: MEDLINE: v21, Jan. 2021-
+In: PubMed: v21, Jan. 2021- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanostructures*; Safety Management
+Publication Type(s): Periodical
+Notes: "An international journal of nanosafety research."
+Other ID: (OCoLC)962744583
+NLM ID: 101676795[Serial]
+
+4. Title Abbreviation: Artif Cells Nanomed Biotechnol
+Title(s): Artificial cells, nanomedicine, and biotechnology.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: London : Informa Healthcare, [2013]-
+Latest Publisher: 2015- : Abingdon, Oxford : Taylor & Francis
+Language: English
+ISSN: 2169-1401(Print); 2169-141X(Electronic); 2169-1401(Linking)
+LCCN: 2012203241
+Electronic Links: https://www.tandfonline.com/loi/ianb20
+Fully Indexed In: MEDLINE: v41n1, Feb. 2013-
+In: PubMed: v41n1, Feb. 2013-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*; Biotechnology; Nanotechnology
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 41 (2013). Also issued online.
+Other ID: (OCoLC)805700476
+NLM ID: 101594777[Serial]
+
+5. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: J Mater Chem B
+Title(s): Journal of materials chemistry. B.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Forty-eight no. a year
+Country of Publication: England
+Publisher: Cambridge : Royal Society of Chemistry
+Language: English
+ISSN: 2050-750X(Print); 2050-7518(Electronic); 2050-750X(Linking)
+Coden: JMCBDV
+LCCN: 2013243172
+Electronic Links: http://pubs.rsc.org/en/journals/journalissues/tb#
+Fully Indexed In: MEDLINE: v7n1, Jan. 2019-
+In: PubMed: v7n1, Jan. 2019- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*; Nanostructures; Nanotechnology
+Publication Type(s): Periodical
+Notes: Also on cover: Materials for biology and medicine. Print issues ceased with v. 7 
+(2019). Also issued online.
+Other ID: (OCoLC)835932194
+NLM ID: 101598493[Serial]
+
+6. Title Abbreviation: Pharm Nanotechnol
+Title(s): Pharmaceutical nanotechnology.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science, [2013]-
+Language: English
+ISSN: 2211-7385(Print); 2211-7393(Electronic); 2211-7385(Linking)
+LCCN: 2014243364
+Electronic Links: http://www.eurekaselect.com/102195/journal/pharmaceutical-nanotechnology
+Fully Indexed In: MEDLINE: v5n1, 2017-
+In: PubMed: v5n1, 2017- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanostructures; Nanotechnology; Technology, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)878941425
+NLM ID: 101623431[Serial]
+
+7. Author(s): Società italiana biomateriali.
+Title Abbreviation: J Appl Biomater Funct Mater
+Title(s): Journal of applied biomaterials & functional materials.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Three no. a year
+Country of Publication: United States
+Publisher: Milano : Wichtig Editore
+Latest Publisher: 2018- : Thousand Oaks, CA : SAGE Publications
+Language: English
+ISSN: 2280-8000(Electronic); 2280-8000(Linking)
+LCCN: 2013243243
+Electronic Links: https://journals.sagepub.com/home/jbfa
+Fully Indexed In: MEDLINE: v10n1, 2012-
+In: PubMed: v10n1, 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*; Bioengineering; Biomechanical Phenomena
+Publication Type(s): Periodical
+Notes: Official journal of: Società italiana biomateriali, Consorzio interuniversitario
+nazionale per la scienza e tecnologia dei materiali, Societa italiana di
+biomeccanica in ortopedia e traumatologia, Sociedad ibérica de biomecánica y
+biomateriales, and: Grouppo nazionale di bioingegneria.
+Other ID: (OCoLC)843379012
+NLM ID: 101586617[Serial]
+
+8. Title Abbreviation: Theranostics
+Title(s): Theranostics.
+Publication Start Year: 2011
+Publication End Year: 
+Country of Publication: Australia
+Publisher: Wyoming, N.S.W. : Ivyspring International Publisher, 2011-
+Language: English
+ISSN: 1838-7640(Electronic); 1838-7640(Linking)
+LCCN: 2011243252
+Electronic Links: http://www.thno.org, https://pmc.ncbi.nlm.nih.gov/journals/?term=101552395
+Fully Indexed In: MEDLINE: v1, 2011-
+In: PubMed: v1, 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Molecular Imaging; Nanomedicine*; Nanotechnology
+Publication Type(s): Periodical
+Notes: Title from title screen. Articles within an annual volume are added as received
+during the year.
+Other ID: (OCoLC)696653425
+NLM ID: 101552395[Serial]
+
+9. Author(s): Royal Society of Chemistry (Great Britain); Guo jia na mi ke xue zhong xin
+(China)
+Title Abbreviation: Nanoscale
+Title(s): Nanoscale.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Cambridge, UK : RSC Pub.
+Description: v.
+Language: English
+ISSN: 2040-3364(Print); 2040-3372(Electronic); 2040-3364(Linking)
+LCCN: 2010243522
+Electronic Links: http://www.rsc.org/Publishing/Journals/NR/index.asp
+In: PubMed: v1n1, Oct. 2009-; 
+Selectively Indexed in: MEDLINEv1n1, Oct. 2009-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanotechnology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 8, no. 48 (2016). Vol. 1 complete in three issues.
+Also issued online. "Nanoscale is a collaborative venture between RSC Publishing 
+and leading nanoscience research centre, the National Center for Nanoscience and 
+Technology (NCNST) in Beijing, China."
+Other ID: (OCoLC)500920444
+NLM ID: 101525249[Serial]
+
+10. Title Abbreviation: Wiley Interdiscip Rev Nanomed Nanobiotechnol
+Title(s): Wiley interdisciplinary reviews. Nanomedicine and nanobiotechnology.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons
+Language: English
+ISSN: 1939-5116(Print); 1939-0041(Electronic); 1939-0041(Linking)
+LCCN: 2007216045
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0041
+Fully Indexed In: MEDLINE: v1n1, Jan./Feb. 2009-
+In: PubMed: v1n1, Jan./Feb. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanomedicine*; Nanotechnology
+Publication Type(s): PeriodicalReview
+Notes: Description based on: Vol. 1, no. 1 (Jan./Feb. 2009).; title from cover. Latest
+issue consulted: Vol. 1, no. 4 (July/Aug. 2009). Print issues ceased with v. 1,
+no. 4 (2011). Also issued online.
+Other ID: (OCoLC)164586455
+NLM ID: 101508311[Serial]
+
+11. Author(s): American Chemical Society.
+Title Abbreviation: ACS Nano
+Title(s): ACS nano.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington D.C. : American Chemical Society
+Language: English
+ISSN: 1936-0851(Print); 1936-086X(Electronic); 1936-0851(Linking)
+LCCN: 2007214243
+Electronic Links: http://pubs.acs.org/journals/ancac3/index.html
+In: PubMed: v1n1, Aug. 2007-; 
+Selectively Indexed in: MEDLINEv1n1, Aug. 2007-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanotechnology*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)85374402
+NLM ID: 101313589[Serial]
+
+12. Author(s): Institution of Engineering and Technology.
+Title Abbreviation: IET Nanobiotechnol
+Title(s): IET nanobiotechnology/ IET.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Nine issues a year, 2019-
+Country of Publication: United States
+Publisher: Stevenage, Herts, UK : Institution of Engineering and Technology, c2007-
+Latest Publisher: 2024- : [Hoboken, NJ] : Wiley
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1751-8741(Print); 1751-875X(Electronic); 1751-8741(Linking)
+LCCN: 2007251101
+Electronic Links: http://digital-library.theiet.org/content/journals/iet-nbt, https://ietresearch.onlinelibrary.wiley.com/journal/ietnbt, https://pmc.ncbi.nlm.nih.gov/journals/?term=101303205
+Fully Indexed In: MEDLINE: v1n1, Feb. 2007-; PubMed: v1n1, Feb. 2007-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2020. Also issued online; subscription
+required for full-text online access.
+Other ID: (OCoLC)86085276
+NLM ID: 101303205[Serial]
+
+13. Title Abbreviation: Nanotoxicology
+Title(s): Nanotoxicology.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: 4 issues per year
+Country of Publication: England
+Publisher: London : Informa Healthcare, 2007-
+Language: English
+ISSN: 1743-5404(Electronic); 1743-5390(Print); 1743-5390(Linking)
+LCCN: 2007254001
+Electronic Links: http://www.tandfonline.com/loi/inan20
+Fully Indexed In: MEDLINE: v4n1, Mar. 2010-
+In: PubMed: v4n1, Mar. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanoparticles/toxicity*
+Publication Type(s): Periodical
+Notes: Title from journal homepage (publisher's Web site, viewed Apr. 27, 2007). Latest 
+issue consulted: Vol. 3, no. 3 (2009) (viewed Nov. 13, 2009). Print issues ceased
+with v. 7, no. 8 (2013). Also issued in print. Mode of access: World Wide Web.
+Other ID: (OCoLC)123904595
+NLM ID: 101233132[Serial]
+
+14. Title Abbreviation: Recent Pat Nanotechnol
+Title(s): Recent patents on nanotechnology.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Three issues yearly
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science Publishers, 2007-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1872-2105(Print); 2212-4020(Electronic); 1872-2105(Linking)
+LCCN: 2007205058
+Electronic Links: http://www.eurekaselect.com/653/journal/recent-patents-nanotechnology
+In: PubMed: v1n1, 2007-; 
+Selectively Indexed in: MEDLINEv1n1, 2007-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 2, no. 2 (June 2008). Also issued 
+online.
+Other ID: (OCoLC)73689977
+NLM ID: 101291922[Serial]
+
+15. Author(s): Institute of Nanotechnology.
+Title Abbreviation: Int J Nanomedicine
+Title(s): International journal of nanomedicine.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: New Zealand
+Publisher: Auckland : DOVE Medical Press,
+Language: English
+ISSN: 1176-9114(Print); 1178-2013(Electronic); 1176-9114(Linking)
+LCCN: 2007243320
+Electronic Links: http://www.dovepress.com/articles.php?journal_id=5, https://pmc.ncbi.nlm.nih.gov/journals/?term=101263847
+Fully Indexed In: MEDLINE: v1n1, 2006-
+In: PubMed: v1n1, 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanomedicine*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Latest issue consulted: v. 1,
+no. 3 (2006). Print issues ceased with v. 4, no. 4 (2008). Also issued online.
+Issued by: Institute of Nanotechnology.
+Other ID: (OCoLC)173846180
+NLM ID: 101263847[Serial]
+
+16. Title Abbreviation: Nanomedicine (Lond)
+Title(s): Nanomedicine.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Thirty no. a year, 2020-
+Country of Publication: England
+Publisher: London, UK : Future Medicine Ltd., c2006-
+Latest Publisher: 2024- : [Milton Park, Oxfordshire] : Taylor & Francis
+Description: v.
+Language: English
+ISSN: 1743-5889(Print); 1748-6963(Electronic); 1743-5889(Linking)
+LCCN: 2007243179
+Electronic Links: https://www.tandfonline.com/journals/innm20, https://pmc.ncbi.nlm.nih.gov/journals/?term=101278111
+Fully Indexed In: MEDLINE: v1n1, Aug 2006-; PubMed: v1n1, Aug 2006-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanomedicine*
+Publication Type(s): Periodical
+Notes: Title from cover Latest issue consulted: Vol. 2, no. 2 (Apr. 2007). Also issued
+online.
+Other ID: (OCoLC)74343784
+NLM ID: 101278111[Serial]
+
+17. Title Abbreviation: Nat Nanotechnol
+Title(s): Nature nanotechnology.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London : Nature Pub. Group, 2006-
+Description: v.
+Language: English
+ISSN: 1748-3387(Print); 1748-3395(Electronic); 1748-3387(Linking)
+LCCN: 2006244070
+Electronic Links: http://www.nature.com/nnano/index.html
+Fully Indexed In: MEDLINE: v1n1, Oct. 2006-; PubMed: v1n1, Oct. 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)76826475
+NLM ID: 101283273[Serial]
+
+18. Title Abbreviation: J Biomed Nanotechnol
+Title(s): Journal of biomedical nanotechnology.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Monthly, 2013-
+Country of Publication: United States
+Publisher: Stevenson Ranch, CA : American Scientific Publishers, c2005-
+Description: v. : ill.
+Language: English
+ISSN: 1550-7033(Print); 1550-7041(Electronic); 1550-7033(Linking)
+LCCN: 2004212709
+Electronic Links: http://www.aspbs.com/JBN/
+Fully Indexed In: MEDLINE: v5n1, Feb. 2009-v18n4, Apr. 1, 2022
+In: PubMed: v5n1, Feb. 2009-v18n4, Apr. 1, 2022; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Technology; Nanostructures; Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)55528989
+NLM ID: 101230869[Serial]
+
+19. Author(s): American Academy of Nanomedicine.
+Title Abbreviation: Nanomedicine
+Title(s): Nanomedicine : nanotechnology, biology, and medicine.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, NY : Elsevier, c2005-
+Description: v. : ill.
+Language: English
+ISSN: 1549-9634(Print); 1549-9642(Electronic); 1549-9634(Linking)
+LCCN: 2004212272
+Electronic Links: http://www.sciencedirect.com/science/journal/15499634
+Fully Indexed In: MEDLINE: v1n1, Mar. 2005-; PubMed: v1n1, Mar. 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology; Nanostructures; Nanotechnology*
+Publication Type(s): Periodical
+Notes: "The official journal of the American Academy of Nanomedicine." Print issues
+ceased with v. 3 (2007)? Also issued online.
+Other ID: (OCoLC)54953022
+NLM ID: 101233142[Serial]
+
+20. Title Abbreviation: Small
+Title(s): Small.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Semi-monthly, 2009-
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH, c2005-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1613-6810(Print); 1613-6829(Electronic); 1613-6810(Linking)
+LCCN: 2005243035
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1613-6829
+In: PubMed: v1n1, Jan. 2005-; 
+Selectively Indexed in: MEDLINEv1n1, Jan. 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Miniaturization*; Nanotechnology
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)57172204
+NLM ID: 101235338[Serial]
+
+21. Author(s): Institution of Electrical Engineers.
+Title Abbreviation: IEE Proc Nanobiotechnol
+Title(s): IEE proceedings. Nanobiotechnology.
+Publication Start Year: 2003
+Publication End Year: 2006
+Frequency: Bimonthly, 2004-
+Country of Publication: England
+Publisher: Stevenage, U.K. : Institution of Electrical Engineers, c2003-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1478-1581(Print); 1740-9748(Electronic); 1478-1581(Linking)
+Coden: IPNEAY
+LCCN: 2003242118
+Fully Indexed In: MEDLINE: v152n1, Feb. 2005-v153n6, Dec. 2006; PubMed: v152n1, Feb. 2005-v153n6, Dec. 2006
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology; Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (OCoLC)52592472
+NLM ID: 101188789[Serial]
+
+22. Author(s): Società italiana biomateriali.
+Title Abbreviation: J Appl Biomater Biomech
+Title(s): Journal of applied biomaterials & biomechanics : JABB.
+Publication Start Year: 2003
+Publication End Year: 2011
+Frequency: Three no. a year
+Country of Publication: Italy
+Publisher: Milano ; Birmingham [Ala.] : Wichtig Editore
+Description: v. : ill.
+Language: English
+ISSN: 1722-6899(Print); 1724-6024(Electronic); 1722-6899(Linking)
+LCCN: 2003243679
+Fully Indexed In: MEDLINE: v8n1, Jan-Apr 2010-v9n3, Sept-Dec 2011
+In: PubMed: v8n1, Jan-Apr 2010-v9n3, Sept-Dec 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biocompatible Materials*; Biomechanical Phenomena; Biomedical Engineering
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 2 (May-Aug. 2003); title from cover. Official
+journal of: Italian Society of Biomaterials ... [et al.].
+Other ID: (OCoLC)53839774
+NLM ID: 101180437[Serial]
+
+23. Title Abbreviation: J Nanobiotechnology
+Title(s): Journal of nanobiotechnology.
+Publication Start Year: 2003
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, 2003-
+Language: English
+ISSN: 1477-3155(Electronic); 1477-3155(Linking)
+LCCN: 2003243100
+Electronic Links: https://jnanobiotechnology.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101152208
+Fully Indexed In: MEDLINE: v9, Jan. 2011-
+In: PubMed: v1n1,2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title on title bar: JN. Title from home page (viewed Feb. 11, 2003). Individual
+articles are numbered with volume and article number, e.g., 1:1. Mode of access: 
+Internet.
+Other ID: (OCoLC)51762317
+NLM ID: 101152208[Serial]
+
+24. Author(s): Institute of Electrical and Electronics Engineers.; IEEE Engineering in Medicine 
+and Biology Society.
+Title Abbreviation: IEEE Trans Nanobioscience
+Title(s): IEEE transactions on nanobioscience.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Piscataway, NJ : Institute of Electrical and Electronics Engineers, c2002-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1536-1241(Print); 1558-2639(Electronic); 1536-1241(Linking)
+Coden: ITMCEL
+LCCN: 2001211739
+Electronic Links: http://ieeexplore.ieee.org/servlet/opac?punumber=7728
+Fully Indexed In: MEDLINE: v1n1, Mar. 2002-; Index medicus
+In: PubMed: v1n1, Mar. 2002-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering; Computational Biology; Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 2, no. 1 (Mar. 2003). Print issues
+ceased with v.15 (2016). Also issued online. A publication of the IEEE
+Engineering in Medicine and Biology Society and 5 other IEEE societies or
+councils.
+Other ID: (OCoLC)47360509
+NLM ID: 101152869[Serial]
+
+25. Title Abbreviation: J Nanosci Nanotechnol
+Title(s): Journal of nanoscience and nanotechnology.
+Publication Start Year: 2001
+Publication End Year: 2021
+Frequency: Monthly, 2005-
+Country of Publication: United States
+Publisher: Stevenson Ranch, CA : American Scientific Publishers, 2001-2021
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1533-4880(Print); 1533-4899(Electronic); 1533-4880(Linking)
+Coden: JNNOAR
+LCCN: 2001214416
+Electronic Links: http://www.aspbs.com/jnn/
+In: PubMed: v1n1,Mar. 2001-v21n12, Dec. 2021; 
+Selectively Indexed in: MEDLINEv1n1,Mar. 2001-v21n12, Dec. 2021Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)45763374
+NLM ID: 101088195[Serial]
+
+26. Author(s): American Chemical Society.
+Title Abbreviation: Nano Lett
+Title(s): Nano letters.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, DC : American Chemical Society, c2001-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1530-6984(Print); 1530-6992(Electronic); 1530-6984(Linking)
+Coden: NALEFD
+LCCN: 00215436
+Electronic Links: http://pubs.acs.org/journals/nalefd/index.html
+Selectively Indexed in: MEDLINEv5n1, Jan. 2005-PubMedv5n1, Jan. 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*; Miniaturization; Molecular Biology
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)44446006
+NLM ID: 101088070[Serial]
+
+27. Author(s): American Institute of Physics.; Institute of Physics (Great Britain)
+Title Abbreviation: Nanotechnology
+Title(s): Nanotechnology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: 50 issues yearly, 2007-
+Country of Publication: England
+Publisher: Bristol, UK : IOP Pub., c1990-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 0957-4484(Print); 1361-6528(Electronic); 0957-4484(Linking)
+Coden: NNOTER
+LCCN: 93642465, sn 91001546
+Electronic Links: http://iopscience.iop.org/journal/0957-4484
+Fully Indexed In: MEDLINE: v20n1, Jan. 7, 2009-
+In: PubMed: v20n1, Jan. 7, 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanotechnology*
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 20, no. 19 (May 2009). Print issues ceased with
+2023. Also issued online. Published in association with the American Institute of
+Physics.
+Other ID: (OCoLC)22150204
+NLM ID: 101241272[Serial]
+
+28. Author(s): Institute of Physics (Great Britain); American Institute of Physics.
+Title Abbreviation: J Phys Condens Matter
+Title(s): Journal of physics. Condensed matter : an Institute of Physics journal.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Weekly (50 issues yearly), <2003->
+Country of Publication: England
+Publisher: Bristol, UK : IOP Pub., c1989-
+Description: v. : ill. ; 26 cm.
+Language: English, French, German
+ISSN: 0953-8984(Print); 1361-648X(Electronic); 0953-8984(Linking)
+Coden: JCOMEL
+LCCN: 89655558, sn 89025138
+Electronic Links: https://iopscience.iop.org/journal/0953-8984
+In: PubMed: v22n1, Jan. 2010-; 
+Selectively Indexed in: MEDLINEv22n1, Jan. 2010-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysics*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2023. Special issues accompany some
+vols. Also issued online. English, French, and German. Published in association
+with the American Institute of Physics.
+Other ID: (OCoLC)19068764
+NLM ID: 101165248[Serial]
+
+29. Title Abbreviation: Mikrochim Acta
+Title(s): Mikrochimica acta.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Austria
+Publisher: Wien ; New York : Springer-Verlag.
+Description: v. ill., ports.
+Language: English, French, German, English, French, German
+ISSN: 0026-3672(Print); 1436-5073(Electronic); 0026-3672(Linking)
+Coden: MIACAQ
+Electronic Links: https://link.springer.com/journal/604
+In: PubMed: n1-2, 1966-n5-6, July 1977; v185n1, Jan. 2018-
+Selectively Indexed in: MEDLINEn1-2, 1966-n5-6, July 1977; v185n1, Jan. 2018-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Chemistry Techniques, Analytical*; Microchemistry*
+Publication Type(s): Periodical
+Notes: Issues for Aug. 2000- have title: Microchimica acta. Also issued online. Articles
+mainly in English with some in French or German; summaries in English and German 
+and some in French.
+Other ID: (DNLM)M35680000(s)(OCoLC)01778788
+NLM ID: 7808782[Serial]
+

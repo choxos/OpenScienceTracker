@@ -1,0 +1,1430 @@
+1. Title Abbreviation: Tumour Virus Res
+Title(s): Tumour virus research.
+Publication Start Year: 2021
+Publication End Year: 
+Country of Publication: Netherlands
+Publisher: [Amsterdam] : Elsevier B.V., [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2666-6790(Electronic); 2666-6790(Linking)
+LCCN: 2021229631
+Electronic Links: https://www.journals.elsevier.com/tumour-virus-research/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101775149
+Fully Indexed In: MEDLINE: v11, 2021-
+In: PubMed: v11, 2021-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medical Oncology*; Neoplasms
+Publication Type(s): Periodical
+Other ID: (OCoLC)1243337497
+NLM ID: 101775149[Serial]
+
+2. Title Abbreviation: Lancet Microbe
+Title(s): The Lancet. Microbe.
+Publication Start Year: 2020
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [Oxford] : Elsevier Ltd., [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2666-5247(Electronic); 2666-5247(Linking)
+LCCN: 2020243232
+Electronic Links: https://www.sciencedirect.com/journal/the-lancet-microbe
+Fully Indexed In: MEDLINE: v1n1, May 2020-
+In: PubMed: v1n1, May 2020-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microbiological Phenomena*; Microbiological Techniques
+Publication Type(s): Periodical
+Other ID: (OCoLC)1152068376
+NLM ID: 101769019[Serial]
+
+3. Title Abbreviation: Nat Microbiol
+Title(s): Nature microbiology.
+Publication Start Year: 2016
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : Nature Publishing Group, [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2058-5276(Electronic); 2058-5276(Linking)
+LCCN: 2016247755
+Electronic Links: http://www.nature.com/nmicrobiol/
+Fully Indexed In: MEDLINE: v1n1, Jan. 2016-
+In: PubMed: v1n1, Jan. 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microbiological Phenomena*
+Publication Type(s): Periodical
+Notes: Articles added as received to volume in progress. Numbering from content page.
+Other ID: (OCoLC)934998403
+NLM ID: 101674869[Serial]
+
+4. Author(s): International Papillomavirus Society,
+Title Abbreviation: Papillomavirus Res
+Title(s): Papillomavirus research.
+Publication Start Year: 2015
+Publication End Year: 2020
+Country of Publication: Netherlands
+Publisher: [Amsterdam] : Elsevier B.V., [2015]-[2020]
+Description: 1 online resource
+Language: English
+ISSN: 2405-8521(Electronic); 2405-8521(Linking)
+LCCN: 2016243317
+Electronic Links: http://www.sciencedirect.com/science/journal/24058521, https://pmc.ncbi.nlm.nih.gov/journals/?term=101662552
+Fully Indexed In: MEDLINE: v3, June 2017-v10, Dec. 2020
+In: PubMed: v1, Dec. 2015-v10, Dec. 2020, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Papillomaviridae*
+Publication Type(s): Periodical
+Notes: "The journal of HPV and other small DNA tumor viruses". Articles continously
+published and added to annual volume. Numbering from contents page.
+Other ID: (OCoLC)939219842
+NLM ID: 101662552[Serial]
+
+5. Title Abbreviation: Annu Rev Virol
+Title(s): Annual review of virology.
+Publication Start Year: 2014
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, California : Annual Reviews, 2014-
+Language: English
+ISSN: 2327-056X(Print); 2327-0578(Electronic); 2327-056X(Linking)
+LCCN: 2013200665
+Electronic Links: http://www.annualreviews.org/journal/virology
+Fully Indexed In: MEDLINE: v2, 2015-
+In: PubMed: v2, 2015- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virus Physiological Phenomena; Viruses*
+Notes: Also issued online.
+Other ID: (OCoLC)828861092
+NLM ID: 101625721[Serial]
+
+6. Title Abbreviation: Curr Opin Virol
+Title(s): Current opinion in virology.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1879-6257(Print); 1879-6265(Electronic); 1879-6257(Linking)
+LCCN: 2011243694
+Electronic Links: http://www.sciencedirect.com/science/journal/18796257
+Fully Indexed In: MEDLINE: v1n1, July 2011-
+In: PubMed: v1n1, July 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virus Diseases*; Virus Physiological Phenomena; Viruses
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)754169637
+NLM ID: 101560941[Serial]
+
+7. Author(s): International Antiviral Society-USA.
+Title Abbreviation: Top Antivir Med
+Title(s): Topics in antiviral medicine.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Four to six times per year
+Country of Publication: United States
+Publisher: San Francisco : International Antiviral Society-USA
+Language: English
+ISSN: 2161-5861(Print); 2161-5853(Electronic); 2161-5853(Linking)
+LCCN: 2011243333
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101560274, https://www.iasusa.org/activities/topics-in-antiviral-medicine/current-issues/
+Fully Indexed In: MEDLINE: v19n1, Feb./Mar. 2011-
+In: PubMed: v19n1, Feb./Mar. 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: HIV Infections; Virus Diseases*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2016. Also issued online.
+Other ID: (OCoLC)723108621
+NLM ID: 101560274[Serial]
+
+8. Title Abbreviation: Food Environ Virol
+Title(s): Food and environmental virology.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York : Springer
+Language: English
+ISSN: 1867-0334(Print); 1867-0342(Electronic); 1867-0334(Linking)
+LCCN: 2010243354
+Electronic Links: https://link.springer.com/journal/12560
+Fully Indexed In: MEDLINE: v4n1, Mar. 2012-
+In: PubMed: v4n1, Mar. 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Microbiology; Food Contamination; Food Microbiology; Virus Diseases*
+Publication Type(s): Periodical
+Notes: Description based on Vol. 1, no. 1 (Mar. 2009); title from cover. Latest issue
+consulted: Vol. 1, no. 3/4 (Dec. 2009). Print issues ceased with v. 2 (2010).
+Also issued online.
+Other ID: (OCoLC)610177218
+NLM ID: 101483831[Serial]
+
+9. Author(s): Molecular Diversity Preservation International.; Multidisciplinary Digital
+Publishing Institute.
+Title Abbreviation: Viruses
+Title(s): Viruses.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Basel, Switzerland : MDPI
+Language: English
+ISSN: 1999-4915(Electronic); 1999-4915(Linking)
+LCCN: 2009243732
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101509722, http://www.mdpi.com/journal/viruses
+Fully Indexed In: MEDLINE: v3n1, 2011-
+In: PubMed: v1, 2009-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*; Virus Diseases; Viruses
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 (June 2009); title from journal home page
+(Publisher's website, viewed Oct. 19, 2009). Latest issue consulted: Vol. 1, no. 
+3 (Dec. 2009) (viewed Oct. 27, 2009). Articles in PDF and Html format. System
+requirements: Adobe acrobat reader.
+Other ID: (OCoLC)458286944
+NLM ID: 101509722[Serial]
+
+10. Author(s): Zhongguo ke xue yuan. Wuhan bing du yan jiu suo.; Zhongguo wei sheng wu xue hui.;
+Bing du xue guo jia zhong dian shi yan shi (China)
+Title Abbreviation: Virol Sin
+Title(s): Virologica Sinica.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Netherlands
+Publisher: Beijing : Science Press
+Latest Publisher: 2022- : [Amsterdam, Netherlands] : Elsevier B.V. on behalf of KeAi Communications
+Co. Ltd.
+Language: English
+ISSN: 1674-0769(Print); 1995-820X(Electronic); 1995-820X(Linking)
+LCCN: 2010243349
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101514185, https://link.springer.com/journal/12250, https://www.sciencedirect.com/journal/virologica-sinica
+Fully Indexed In: MEDLINE: v25n1, Feb. 2010-
+In: PubMed: v25n1, Feb. 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Description based on the first issue; title from cover. Latest issue consulted:
+v. 24, no. 6 (Dec. 2009). Numbering continues that of earlier title. Also issued 
+online. Sponsored by: Wuhan Institute of Virology, CAS; Chinese Society for
+Microbiology; State Key Laboratory of Virology <2009->.
+Other ID: (OCoLC)610177219
+NLM ID: 101514185[Serial]
+
+11. Title Abbreviation: Influenza Other Respir Viruses
+Title(s): Influenza and other respiratory viruses.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: England
+Publisher: Oxford, UK : Wiley, c2007-
+Description: v. : ill.
+Language: English
+ISSN: 1750-2640(Print); 1750-2659(Electronic); 1750-2640(Linking)
+LCCN: 2007206096
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1750-2659, https://pmc.ncbi.nlm.nih.gov/journals/?term=101304007
+Fully Indexed In: MEDLINE: v1n1, Jan. 2007-
+In: PubMed: v1n1, Jan. 2007-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Influenza, Human*; Respiratory Tract Infections; Virus Diseases
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 6, no. 6 (2012). Some articles in
+v. 2007 published electronically in 2006. Also issued online.
+Other ID: (OCoLC)86106236
+NLM ID: 101304007[Serial]
+
+12. Title Abbreviation: Retrovirology
+Title(s): Retrovirology.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: England
+Publisher: [London] : BioMed Central, c2004-
+Language: English
+ISSN: 1742-4690(Electronic); 1742-4690(Linking)
+LCCN: 2004243415
+Electronic Links: https://retrovirology.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101216893
+Fully Indexed In: MEDLINE: v1n1, 2004-; Index medicus
+In: PubMed: v1n1, 2004-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Retroviridae Infections; Retroviridae*
+Publication Type(s): Periodical
+Notes: Title from PDF article caption (viewed June 4, 2004). Latest issue consulted:
+1:11 (26 May 2004) (viewed June 4, 2004). Articles added on an individual basis
+as accepted. Mode of access: World Wide Web.
+Other ID: (OCoLC)54798617
+NLM ID: 101216893[Serial]
+
+13. Author(s): BioMed Central Ltd.
+Title Abbreviation: Virol J
+Title(s): Virology journal.
+Publication Start Year: 2004
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central, 2004-
+Language: English
+ISSN: 1743-422X(Electronic); 1743-422X(Linking)
+LCCN: 2004243766
+Electronic Links: https://virologyj.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101231645
+Fully Indexed In: MEDLINE: v1, 2004-; Index medicus
+In: PubMed: v1, 2004-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Title from issue caption (publisher Web site, viewed Oct. 14, 2004). Latest issue
+consulted: 1:6 (23 Sept. 2004) (viewed Oct. 14, 2004). Articles added
+consecutively to current annual v. Also issued online. Mode of access: World Wide
+Web.
+Other ID: (OCoLC)56433791
+NLM ID: 101231645[Serial]
+
+14. Author(s): Pan American Society for Clinical Virology.
+Title Abbreviation: J Clin Virol
+Title(s): Journal of clinical virology : the official publication of the Pan American
+Society for Clinical Virology.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Nine no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science, c1998-
+Description: v. : ill.
+Language: English
+ISSN: 1386-6532(Print); 1873-5967(Electronic); 1386-6532(Linking)
+Coden: JCVIFB
+LCCN: sn98-39425
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-clinical-virology
+Fully Indexed In: MEDLINE: v11n1,Jul. 24, 1998-; PubMed: v11n1,Jul. 24, 1998-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virus Diseases; Viruses
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0092017(s)(OCoLC)40077087
+NLM ID: 9815671[Serial]
+
+15. Title Abbreviation: J Hum Virol
+Title(s): Journal of human virology.
+Publication Start Year: 1997
+Publication End Year: 2002
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Hagerstown, MD : Lippincott-Raven Publishers, c1997-
+Description: v. : ill.
+Language: English
+ISSN: 1090-9508(Print); 1090-9508(Linking)
+Coden: JHVIFC
+LCCN: sn 96002811
+Electronic Links: http://gateway.ovid.com/ovidweb.cgi?T=JS&MODE=ovid&NEWS=n&PAGE=toc&D=ovft&AN=00125823-000000000-00000
+Fully Indexed In: MEDLINE: v1n1,Nov./Dec. 1997-v5n1, Jan./Feb. 2002; PubMed: v1n1,Nov./Dec. 1997-v5n1, Jan./Feb. 2002; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Viral Vaccines; Virus Diseases; Viruses*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)35580936(DNLM)SR0089811(s)
+NLM ID: 9805755[Serial]
+
+16. Author(s): Société française de microbiologie.; Société française de virologie.
+Title Abbreviation: Virologie (Montrouge)
+Title(s): Virologie.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: France
+Publisher: Montrouge, France : John Libbey Eurotext, [1997?-
+Latest Publisher: Montrouge : John Libbey Eurotext
+Description: v.
+Language: French, English, English
+ISSN: 1267-8694(Print); 1267-8694(Linking)
+LCCN: sn98-39227
+Electronic Links: https://www.jle.com/en/revues/vir/revue.phtml
+Fully Indexed In: MEDLINE: v23n1, Jan-Feb 2019-
+In: PubMed: v23n1, Jan-Feb 2019-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virus Diseases; Viruses
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. In French; summaries and table of contents 
+also in English. "Avec le parrainage de la Société française de
+microbiologie."
+Other ID: (DNLM)SR0090115(s)(OCoLC)39125028
+NLM ID: 9802575[Serial]
+
+17. Author(s): International Society for Antiviral Research.
+Title Abbreviation: Antivir Ther
+Title(s): Antiviral therapy.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Eight no. a year, 2005-
+Country of Publication: England
+Publisher: London : International Medical Press
+Latest Publisher: [London] : SAGE Publications
+Description: v. : ill.
+Language: English
+ISSN: 1359-6535(Print); 2040-2058(Electronic); 1359-6535(Linking)
+LCCN: sn 99039880
+Electronic Links: https://journals.sagepub.com/home/avt
+Fully Indexed In: MEDLINE: v1n1,1996-; PubMed: v1n1,1996-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Antiviral Agents/therapeutic use*; Virus Diseases/therapy; Viruses/drug effects
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 3, no. 4 (1998); title from cover. Supplements
+accompany some v. Also issued online. Official publication of the International
+Society for Antiviral Research.
+Other ID: (DNLM)SR0091683(s)(OCoLC)42889502
+NLM ID: 9815705[Serial]
+
+18. Author(s): International Retrovirology Association.
+Title Abbreviation: J Acquir Immune Defic Syndr Hum Retrovirol
+Title(s): Journal of acquired immune deficiency syndromes and human retrovirology :
+official publication of the International Retrovirology Association.
+Publication Start Year: 1995
+Publication End Year: 1999
+Frequency: Fifteen no. a year
+Country of Publication: United States
+Publisher: New York, N.Y. : Raven Press, c1995-c1999.
+Latest Publisher: 1999 : Hagerstown, MD : Lippincott Williams & Wilkins
+Description: 13 v. ill.
+Language: English
+ISSN: 1077-9450(Print); 1077-9450(Linking)
+Coden: JDSRET
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00042560-000000000-00000
+Fully Indexed In: MEDLINE: v8n1, Jan. 1995-v20n5, Apr. 15, 1999; PubMed: v8n1, Jan. 1995-v20n5, Apr. 15, 1999; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Acquired Immunodeficiency Syndrome*; Deltaretrovirus Infections*; Deltaretrovirus*; Retroviridae*
+Publication Type(s): Periodical
+Notes: Title from cover. Supplements accompany some volumes. Also issued online.
+Other ID: (DNLM)SR0082538(s)(OCoLC)30934907
+NLM ID: 9501482[Serial]
+
+19. Title Abbreviation: J Neurovirol
+Title(s): Journal of neurovirology.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Houndmills, Basingstoke, Hampshire ; New York, NY : Stockton Press, c1995-
+Latest Publisher: 2011- : New York : Springer
+Description: v. : ill.
+Language: English
+ISSN: 1355-0284(Print); 1538-2443(Electronic); 1355-0284(Linking)
+Coden: JNVIFK
+Electronic Links: https://link.springer.com/journal/13365, https://www.tandfonline.com/loi/ijnv20
+Fully Indexed In: MEDLINE: v1n1,Mar. 1995-; PubMed: v1n1,Mar. 1995-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System Diseases*; Virus Diseases/microbiology*Virus Diseases/pathology*
+Publication Type(s): Periodical
+Notes: Supplements accompany some vols. Also issued online.
+Other ID: (DNLM)SR0082241(s)(OCoLC)33812329
+NLM ID: 9508123[Serial]
+
+20. Title Abbreviation: Rom J Virol
+Title(s): Romanian journal of virology.
+Publication Start Year: 1995
+Publication End Year: 1999
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucureşti : Editura Academiei Române, [1995-
+Description: v. : ill.
+Language: English, French
+ISSN: 
+Fully Indexed In: MEDLINE: v46n1-2,Jan.-Jun. 1995-v50n1-4, Jan.-Dec. 1999; PubMed: v46n1-2,Jan.-Jun. 1995-v50n1-4, Jan.-Dec. 1999; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virus Diseases*; Viruses*
+Publication Type(s): Periodical
+Notes: Title from cover. Some no. issued together. Articles in English; summaries in
+English and French.
+Other ID: (DNLM)SR0090428(s)(OCoLC)36277138
+NLM ID: 9702340[Serial]
+
+21. Title Abbreviation: Clin Diagn Virol
+Title(s): Clinical and diagnostic virology.
+Publication Start Year: 1993
+Publication End Year: 1998
+Frequency: Nine no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier Science Publishers B.V., c1993-
+Description: v. : ill.
+Language: English
+ISSN: 0928-0197(Print); 0928-0197(Linking)
+Coden: CDVIE8
+Electronic Links: http://www.sciencedirect.com/science/journal/09280197
+Fully Indexed In: MEDLINE: v7n1, 1997-1998; PubMed: v7n1, 1997-1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virus Diseases*; Viruses*
+Publication Type(s): Periodical
+Notes: Also available online.
+Other ID: (DNLM)SR0075372(s)(OCoLC)28707312
+NLM ID: 9309653[Serial]
+
+22. Title Abbreviation: J Viral Dis
+Title(s): The Journal of viral diseases.
+Publication Start Year: 1993
+Publication End Year: 1993
+Frequency: Bimonthly
+Country of Publication: Greece
+Publisher: Athens, Hellas : Zymel,
+Description: v. : ill.
+Language: English
+ISSN: 1105-7149(Print); 1105-7149(Linking)
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virus Diseases
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, 3 (Apr. '93).
+Other ID: (DNLM)SR0079552(s)(OCoLC)30623217
+NLM ID: 9417808[Serial]
+
+23. Title Abbreviation: Arch Virol Suppl
+Title(s): Archives of virology. Supplementum.
+Publication Start Year: 1991
+Publication End Year: 2008
+Frequency: Irregular
+Country of Publication: Austria
+Publisher: Wien ; New York : Springer-Verlag, c1991-
+Description: v. : ill., ports.
+Language: English
+ISSN: 0939-1983(Print); 0939-1983(Linking)
+Coden: AVISE9
+Electronic Links: https://link.springer.com/bookseries/1377
+Fully Indexed In: MEDLINE: 1 , 1991-20, 2008; Index medicus
+In: PubMed: 1 , 1991-20, 2008; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)25279749(DNLM)SR0075132(s)
+NLM ID: 9214275[Serial]
+
+24. Title Abbreviation: Rev Med Virol
+Title(s): Reviews in medical virology.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: 6 no. a year, 2000-
+Country of Publication: England
+Publisher: Chichester, West Sussex, England : Wiley, c1991-
+Description: v. : ill.
+Language: English
+ISSN: 1052-9276(Print); 1099-1654(Electronic); 1052-9276(Linking)
+Coden: RMVIEW
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1654
+Fully Indexed In: MEDLINE: v9n1, Jan.-Mar. 1999-; PubMed: v9n1, Jan.-Mar. 1999-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virus Diseases*; Viruses*
+Publication Type(s): PeriodicalReview
+Notes: Title from cover. Print issues ceased with 2013. Also issued online.
+Other ID: (DNLM)SR0069354(s)(OCoLC)22415937
+NLM ID: 9112448[Serial]
+
+25. Title Abbreviation: Antivir Chem Chemother
+Title(s): Antiviral chemistry & chemotherapy.
+Publication Start Year: 1990
+Publication End Year: 2023
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, UK ; Boston : Blackwell Scientific Publications, c1990-2023.
+Latest Publisher: 2015-2023 : London : Sage Publications
+Description: v. : ill.
+Language: English
+ISSN: 0956-3202(Print); 2040-2066(Electronic); 0956-3202(Linking)
+Coden: ACCHEH
+Electronic Links: https://journals.sagepub.com/home/avc, https://pmc.ncbi.nlm.nih.gov/journals/?term=9009212
+Fully Indexed In: MEDLINE: v9n1,Jan. 1998-v31, Jan.-Dec. 2023; PubMed: v9n1,Jan. 1998-v31, Jan.-Dec. 2023; Index medicus
+In: PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Antiviral Agents*; Virus Diseases/drug therapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.19, no. 6 (2009). Vol. 19, no. 4
+include ISAR News, Vol. 18, no. 2. Also issued online.
+Other ID: (DNLM)SR0065847(s)(OCoLC)20073994
+NLM ID: 9009212[Serial]
+
+26. Author(s): Uniunea Societăților de Științe Medicale.; Societatea Română de
+Microbiologie.
+Title Abbreviation: Bacteriol Virusol Parazitol Epidemiol
+Title(s): Bacteriologia, virusologia, parazitologia, epidemiologia/ Uniunea Societătilor
+de Stiinte Medicale din România.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucuresti : Editura Medicala, 1990-
+Description: v. : ill.
+Language: Romanian, English, Russian
+ISSN: 1220-3696(Print); 1220-3696(Linking)
+Fully Indexed In: MEDLINE: v35n2, Apr.-Jun. 1990- v56n1, 2011; Index medicus
+In: PubMed: v35n2, Apr.-Jun. 1990- v56n1, 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteriology*; Epidemiology*; Parasitology*; Virology*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Articles in Romanian; some summaries in English,
+Romanian, and Russian, 1990; summaries in English, 1991- ; tables of contents in 
+English, Romanian, and Russian, 1990 and in English, French and Romanian, 1991- .
+Journal of: Societatea Româna de Microbiologie, 1991- .
+Other ID: (OCoLC)24498798(DNLM)SR0073306(s)
+NLM ID: 9204448[Serial]
+
+27. Author(s): International Herpes Management Forum.
+Title Abbreviation: Herpes
+Title(s): Herpes : the journal of the IHMF.
+Publication Start Year: 199u
+Publication End Year: 2009
+Frequency: Three no. a year
+Country of Publication: England
+Publisher: Worthing, West Sussex, UK : Cambridge Medical Publications,
+Description: v. : ill., ports.
+Language: English
+ISSN: 0969-7667(Print); 1470-1537(Electronic); 0969-7667(Linking)
+LCCN: sn98-39118
+Fully Indexed In: MEDLINE: v8n1, Mar. 2001-v15n3, Jan. 2009; Index medicus
+In: PubMed: v8n1, Mar. 2001-v15n3, Jan. 2009; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Herpesviridae Infections/prevention & control*
+Publication Type(s): Periodical
+Notes: Issues have also distinctive titles. Description based on: Vol. 4, no. 1 (Mar.
+1997); title from cover.
+Other ID: (DNLM)SR0091742(s)(OCoLC)38557739
+NLM ID: 9801722[Serial]
+
+28. Author(s): Academia de Stiinte Medicale.
+Title Abbreviation: Rev Roum Virol
+Title(s): Revue roumaine de virologie.
+Publication Start Year: 1990
+Publication End Year: 1994
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucuresti, România : Editura Academiei Române, [1990-1994]
+Description: 5v. : ill.
+Language: English, English
+ISSN: 1018-0532(Print); 1018-0532(Linking)
+Coden: RRVIEX
+LCCN: sn 90031397
+Fully Indexed In: MEDLINE: v41n1,Jan.-Mar. 1990-v45n3-4, Jul.-Dec. 1994; PubMed: v41n1,Jan.-Mar. 1990-v45n3-4, Jul.-Dec. 1994; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*; Virus Diseases*; Viruses*
+Publication Type(s): Periodical
+Notes: Caption title also in English: Romanian journal of virology. Title from cover.
+Some no. issued together. In English and French. Issued by: the Academia de
+Stiinte Medicale.
+Other ID: (DNLM)SR0069359(s)(OCoLC)22807860
+NLM ID: 9100120[Serial]
+
+29. Title Abbreviation: Res Virol
+Title(s): Research in virology.
+Publication Start Year: 1989
+Publication End Year: 1998
+Frequency: Bimonthly
+Country of Publication: France
+Publisher: Amsterdam ; New York : Elsevier, c1989-c1998.
+Description: 10 v. : ill.
+Language: English, English, French
+ISSN: 0923-2516(Print); 0923-2516(Linking)
+Coden: RESVEY
+Electronic Links: http://www.sciencedirect.com/science/journal/09232516
+Fully Indexed In: MEDLINE: v140/n1,Jan.-Feb. 1989-v149n9, Nov.-Dec. 1998; PubMed: v140/n1,Jan.-Feb. 1989-v149n9, Nov.-Dec. 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online. Articles in English; summaries in
+English, some also in French.
+Other ID: (DNLM)SR0065294(s)(OCoLC)19408546
+NLM ID: 8907469[Serial]
+
+30. Title Abbreviation: Zentralbl Bakteriol
+Title(s): Zentralblatt für Bakteriologie : international journal of medical microbiology.
+Publication Start Year: 1989
+Publication End Year: 2000
+Frequency: Eight no. a year
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : Gustav Fischer, 1989-c1999.
+Latest Publisher: Stuttgart : Gustav Fischer
+Description: 19 v. : ill.
+Language: English, German
+ISSN: 0934-8840(Print); 0934-8840(Linking)
+Coden: ZEBAE8
+LCCN: 90643752
+Fully Indexed In: MEDLINE: v270n1,May 1989-v289n8,Jan. 2000.; PubMed: v270n1,May 1989-v289n8,Jan. 2000.; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacterial Infections*; Communicable Diseases/microbiology*; Parasitic Diseases*; Viruses*
+Publication Type(s): Periodical
+Notes: Vols. for Apr. 1991- have subtitle: International journal of medical
+microbiology, virology, parasitology, and infectious diseases. Title from cover. 
+Published: Jena, Germany : Urban & Fischer, 19 -1999. Four issues per volume.
+Articles in English; summaries also in German, 1989-Jan. 1994.
+Other ID: (OCoLC)19959116(DNLM)SR0073224(s)
+NLM ID: 9203851[Serial]
+
+31. Title Abbreviation: Viral Immunol
+Title(s): Viral immunology.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Six no. a year, 2009-
+Country of Publication: United States
+Publisher: New York, NY : Mary Ann Liebert, Inc., c1987-
+Description: v. : ill.
+Language: English
+ISSN: 0882-8245(Print); 1557-8976(Electronic); 0882-8245(Linking)
+Coden: VIIMET
+LCCN: sn 85007629
+Electronic Links: http://online.liebertpub.com/loi/vim
+Fully Indexed In: MEDLINE: v1n1, 1987-; PubMed: v1n1, 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Viruses/immunology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0054006(s)(OCoLC)12004000
+NLM ID: 8801552[Serial]
+
+32. Title Abbreviation: Virus Genes
+Title(s): Virus genes.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Boston, USA : M. Nijhoff, 1987-
+Latest Publisher: Boston Ma : Kluwer Academic
+Description: v. : ill.
+Language: English
+ISSN: 0920-8569(Print); 1572-994X(Electronic); 0920-8569(Linking)
+Coden: VIGEET
+Electronic Links: https://link.springer.com/journal/11262
+Fully Indexed In: MEDLINE: v1n1, 1987-; Index medicus
+In: PubMed: v1n1, 1987-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genes, Viral*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0059914(s)(OCoLC)17390370
+NLM ID: 8803967[Serial]
+
+33. Author(s): Zhonghua yi xue hui (China : 1949- ). Yi xue bing du xue hui.
+Title Abbreviation: Zhonghua Shi Yan He Lin Chuang Bing Du Xue Za Zhi
+Title(s): Zhonghua shi yan he lin chuang bing du xue za zhi = Zhonghua shiyan he linchuang 
+bingduxue zazhi = Chinese journal of experimental and clinical virology.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Bimonthly, 2008-
+Country of Publication: China
+Publisher: Beijing : Chinese Society of Medical Virology,
+Description: v. : ill.
+Language: Chinese, English, English
+ISSN: 1003-9279(Print); 1003-9279(Linking)
+Coden: ZSLZFS
+Electronic Links: http://c.wanfangdata.com.cn/PeriodicalProfile-zhsyhlcbdx.aspx
+Fully Indexed In: MEDLINE: v11n1, 1997-v27n5, 2013; Index medicus
+In: PubMed: v11n1, 1997-v27n5, 2013; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Description based on: Di 8 juan, di 3 qi (1994 nian 9 yue); title from cover.
+Also issued online. Articles in Chinese; table of contents and summaries also in 
+English.
+Other ID: (DNLM)SR0085034(s)(OCoLC)36055953
+NLM ID: 9602873[Serial]
+
+34. Author(s): Institut Pasteur (Paris, France)
+Title Abbreviation: Ann Inst Pasteur Virol
+Title(s): Annales de l'Institut Pasteur. Virology.
+Publication Start Year: 1986
+Publication End Year: 1988
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, c1986-[c1988]
+Latest Publisher: Amsterdam : Elsevier
+Description: 3 v. : ill.
+Language: English, French, English
+ISSN: 0769-2617(Print); 0769-2617(Linking)
+Coden: AIPVEU
+Fully Indexed In: MEDLINE: v139, 1988; PubMed: v139, 1988; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Articles chiefly in English with some in French; summaries in both languages.
+Other ID: (DNLM)SR0058809(s)(OCoLC)14928307
+NLM ID: 8702442[Serial]
+
+35. Author(s): Zhongguo wei sheng wu xue hui.
+Title Abbreviation: Bing Du Xue Bao
+Title(s): Bing du xue bao = Chinese journal of virology/ [bian ji, Bing du xue bao bian ji 
+wei yuan hui].
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Bimonthly, 2005-
+Country of Publication: China
+Publisher: [Peking] : Zhongguo wei sheng wu xue hui, 1985-
+Latest Publisher: Beijing : Chung-Kuo Wei Sheng Wu Hsueh Hui
+Description: v. : ill.
+Language: Chinese, English
+ISSN: 1000-8721(Print); 1000-8721(Linking)
+Coden: BIXUEA
+Electronic Links: http://bdxb.cbpt.cnki.net/WKC/WebPublication/wkTextContent.aspx?colType=4&tp=gklb&mid=bdxb
+Fully Indexed In: MEDLINE: v23n1, Jan. 2007-v33n1, Jan. 2017
+In: PubMed: v23n1, Jan. 2007-v33n1, Jan. 2017; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online; subscription required for full-text access.
+Articles in Chinese; summaries and table of contents in Chinese and English.
+Other ID: (DNLM)SR0057761(s)(OCoLC)17725116
+NLM ID: 8803009[Serial]
+
+36. Title Abbreviation: Virus Res Suppl
+Title(s): Virus research. Supplement.
+Publication Start Year: 1985
+Publication End Year: 1988
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science Publishers, c1985-
+Description: v.
+Language: English
+ISSN: 0921-2590(Print); 0921-2590(Linking)
+Electronic Links: http://sciencedirect.com/science/journal/01681702
+Fully Indexed In: MEDLINE: 1, 1985-2, 1988; PubMed: 1, 1985-2, 1988; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0058100(s)(OCoLC)12686717
+NLM ID: 8611941[Serial]
+
+37. Title Abbreviation: Virus Res
+Title(s): Virus research.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: 16 no. a year, 1999-
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science, c1984-
+Description: v. : ill.
+Language: English
+ISSN: 0168-1702(Print); 1872-7492(Electronic); 0168-1702(Linking)
+Coden: VIREDF
+Electronic Links: https://www.sciencedirect.com/journal/virus-research, https://pmc.ncbi.nlm.nih.gov/journals/?term=8410979
+Fully Indexed In: MEDLINE: v1n1, 1984-; PubMed: v1n1, 1984-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Also available online.
+Other ID: (DNLM)V08043000(s)(OCoLC)10694473
+NLM ID: 8410979[Serial]
+
+38. Author(s): Soviet Union. Ministerstvo zdravookhranenii︠a︡.
+Title Abbreviation: Mol Gen Mikrobiol Virusol
+Title(s): Molekuliarnaia genetika, mikrobiologiia i virusologiia.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Meditsina,
+Description: v. : ill.
+Language: Russian, English
+ISSN: 0208-0613(Print); 0208-0613(Linking)
+Coden: MGMVDU
+Electronic Links: https://dlib.eastview.com/browse/publication/6905
+Fully Indexed In: MEDLINE: 1985-v35n1, 2017; PubMed: 1985-v35n1, 2017; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microbiology*; Molecular Biology*; Virology*
+Publication Type(s): Periodical
+Notes: Description based on: 1984, 6; title from cover. Translated as: Molekuliarnaia
+genetika, mikrobiologiia i virusologiia. English. Molecular genetics,
+microbiology and virology Also issued online Text in Russian; abstracts and table
+of contents in English. Issued by: Ministerstvo zdravookhraneniia SSSR.
+Other ID: (DNLM)M43510000(s)(OCoLC)17207692
+NLM ID: 9315607[Serial]
+
+39. Title Abbreviation: Zentralbl Bakteriol Mikrobiol Hyg A
+Title(s): Zentralblatt für Bakteriologie, Mikrobiologie, und Hygiene. Series A, Medical
+microbiology, infectious diseases, virology, parasitology.
+Publication Start Year: 1983
+Publication End Year: 1989
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : G. Fischer, c1983- [c1989]
+Latest Publisher: Stuttgart : Gustav Fischer Verlag
+Description: 15 v. : ill.
+Language: English, German
+ISSN: 0176-6724(Print); 0176-6724(Linking)
+Coden: ZBMPEJ
+Fully Indexed In: MEDLINE: v256n1,Nov. 1983-v270n4,Mar. 1989; PubMed: v256n1,Nov. 1983-v270n4,Mar. 1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communicable Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover. Articles in English or German ; summaries in both languages.
+Other ID: (DNLM)Z06619000(s)(OCoLC)10642688
+NLM ID: 8403032[Serial]
+
+40. Title Abbreviation: Antiviral Res
+Title(s): Antiviral research.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: [Amsterdam ; New York : Elsevier/North-Holland Biomedical Press, c1981-
+Latest Publisher: Amsterdam : Elsevier
+Description: v. : ill.
+Language: English, English
+ISSN: 0166-3542(Print); 1872-9096(Electronic); 0166-3542(Linking)
+Coden: ARSRDR
+LCCN: sc 82003274
+Electronic Links: http://www.sciencedirect.com/science/journal/01663542
+Fully Indexed In: MEDLINE: v1n2,Jun. 1981-; PubMed: v1n2,Jun. 1981-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Antiviral Agents*; Virus Diseases/immunology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)A55961000(s)(OCoLC)07603702
+NLM ID: 8109699[Serial]
+
+41. Title Abbreviation: J Virol Methods
+Title(s): Journal of virological methods.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Sixteen no. a year, 1999-
+Country of Publication: Netherlands
+Publisher: [Amsterdam] : Elsevier/North-Holland Biomedical Press, 1980-
+Description: v. ill.
+Language: English
+ISSN: 0166-0934(Print); 1879-0984(Electronic); 0166-0934(Linking)
+Coden: JVMEDH
+LCCN: sn 80013916
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-virological-methods
+Fully Indexed In: MEDLINE: v4n1, 1980-; PubMed: v4n1, 1980-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J41255000(s)(OCoLC)06403038
+NLM ID: 8005839[Serial]
+
+42. Author(s): Bŭlgarska akademii︠a︡ na naukiti︠e︡.
+Title Abbreviation: Acta Microbiol Bulg
+Title(s): Acta microbiologica Bulgarica.
+Publication Start Year: 1978
+Publication End Year: 
+Frequency: Quarterly, 2016-
+Country of Publication: Bulgaria
+Publisher: Sofiia, Bulgarska akademiia na naukite.
+Latest Publisher: Sofia : Bulgarian Society for Microbiology
+Description: v. ill.
+Language: Bulgarian, English, Russian
+ISSN: 0204-8809(Print); 2603-3755(Electronic); 0204-8809(Linking)
+Coden: AMBUDI
+Electronic Links: https://actamicrobio.bg/
+Fully Indexed In: MEDLINE: v1, 1978-v30, 1993; PubMed: v1, 1978-v30, 1993; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Microbiology*; Virology*
+Publication Type(s): Periodical
+Notes: No volumes published from 1994-2014. Also issued online. Articles in Bulgarian;
+summaries in English and Russian; tables of contents in all three languages.
+Other ID: (DNLM)A06946000(s)(OCoLC)04851645
+NLM ID: 7901426[Serial]
+
+43. Title Abbreviation: J Med Virol
+Title(s): Journal of medical virology.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, Liss.
+Latest Publisher: New York Ny : Wiley-Liss
+Description: v. ill.
+Language: English, English
+ISSN: 0146-6615(Print); 1096-9071(Electronic); 0146-6615(Linking)
+Coden: JMVIDB
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9071
+Fully Indexed In: MEDLINE: v1n1, 1977-; PubMed: v1n1, 1977-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J29440000(s)(OCoLC)02988328
+NLM ID: 7705876[Serial]
+
+44. Author(s): Bŭlgarska akademii︠a︡ na naukiti︠e︡.; Mikrobiologicheski institut (Bŭlgarska
+akademii︠a︡ na naukite)
+Title Abbreviation: Acta Microbiol Virol Immunol (Sofiia)
+Title(s): Acta microbiologica, virologica et immunologica.
+Publication Start Year: 1975
+Publication End Year: 1977
+Country of Publication: Bulgaria
+Publisher: Sofiia, Izd-vo na Bulgarska akademiia na naukite.
+Latest Publisher: Sofiia : Izd-Vo Na Bulgarska Akademiia Na Naukite
+Description: 6 v. ill., ports.
+Language: Bulgarian, English, Russian
+ISSN: 0324-0452(Print); 0324-0452(Linking)
+Coden: AMVIDE
+Fully Indexed In: MEDLINE: v1, 1975-v6, 1977; PubMed: v1, 1975-v6, 1977; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Microbiology*; Virology*
+Publication Type(s): Periodical
+Notes: Articles in Bulgarian; summaries in English and Russian; tables of contents in
+all three languages. Issued in 1975 by the Mikrobiologicheski institut,
+Bŭlgarska akademiia na naukite.
+Other ID: (OCoLC)01877509(DNLM)A07065000(s)
+NLM ID: 7600027[Serial]
+
+45. Title Abbreviation: Arch Virol
+Title(s): Archives of virology.
+Publication Start Year: 1975
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Austria
+Publisher: Wien, New York, Springer-Verlag.
+Description: v. ill.
+Language: English, English
+ISSN: 0304-8608(Print); 1432-8798(Electronic); 0304-8608(Linking)
+Coden: ARVIDF
+LCCN: 75646737
+Electronic Links: https://link.springer.com/journal/705
+Fully Indexed In: MEDLINE: v47n1, 1975-; Index medicus
+In: PubMed: v47n1, 1975-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)A62220000(s)(OCoLC)02243267
+NLM ID: 7506870[Serial]
+
+46. Author(s): Academia Republicii Socialiste România.; Academia de Stiinte Medicale.
+Title Abbreviation: Virologie
+Title(s): Virologie.
+Publication Start Year: 1975
+Publication End Year: 1989
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucureşti, Editura Academiei Republicii Socialiste România.
+Description: 15 v. ill.
+Language: English, German, English, German
+ISSN: 0253-181X(Print); 0253-181X(Linking)
+Coden: RRMVDQ
+LCCN: 75648814
+Fully Indexed In: MEDLINE: v26n1, 1975-v40n4,Oct.-Dec. 1989; PubMed: v26n1, 1975-v40n4,Oct.-Dec. 1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Added title in English: Virology. Caption titles in French and English: Revue
+roumaine de médecine: Virologie; Romanian journal of medicine: Virology.
+Articles and summaries in English, German, or French. Issued by the Academia de
+Stiinţe Medicale.
+Other ID: (OCoLC)02244572(DNLM)V07880000(s)
+NLM ID: 7605765[Serial]
+
+47. Author(s): Ospedale Maria Vittoria di Torino.
+Title Abbreviation: G Batteriol Virol Immunol
+Title(s): Giornale di batteriologia, virologia ed immunologia.
+Publication Start Year: 1974
+Publication End Year: 1994
+Frequency: Monthly
+Country of Publication: Italy
+Publisher: Torino, Ospedale Maria Vittoria.
+Latest Publisher: Torino : Ospedale Maria Vittoria
+Description: v. illus.
+Language: English, Italian, English, Italian
+ISSN: 0390-5462(Print); 0390-5462(Linking)
+Coden: GBVID3
+Fully Indexed In: MEDLINE: v1n1-6,Jan./Jun. 1974-v86, 1994; PubMed: v1n1-6,Jan./Jun. 1974-v86, 1994; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Bacteriology*; Virology*
+Publication Type(s): Periodical
+Notes: Articles in Italian or English, with summaries in both languages.
+Other ID: (DNLM)G08280000(s)(OCoLC)01650241
+NLM ID: 7510850[Serial]
+
+48. Author(s): Societatea de Bacteriologie, Virusologie, Parazitologie, Epidemiologie.
+Title Abbreviation: Rev Ig Bacteriol Virusol Parazitol Epidemiol Pneumoftiziol Bacteriol Virusol
+Parazitol Epidemiol
+Title(s): Revista de igienă, bacteriologie, virusologie, parazitologie, epidemiologie,
+pneumoftiziologie. Bacteriologia, virusologia, parazitologia, epidemiologia.
+Publication Start Year: 1974
+Publication End Year: 1990
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucureşti.
+Latest Publisher: Bucuresti : Uniunea Societatealor De Stiinte Medicale
+Description: 17 v. illus.
+Language: Romanian, English, Multiple languages
+ISSN: 0376-4494(Print); 0376-4494(Linking)
+Coden: BVPEDC
+Fully Indexed In: MEDLINE: v19n4, Jul./Sept. 1974-1990; Index medicus
+In: PubMed: v19n4, Jul./Sept. 1974-1990; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteriology*; Epidemiology*; Parasitology*; Virology*
+Publication Type(s): Periodical
+Notes: Journal of the Societătea de Bacteriologie, Virusologie, Parazitologie,
+Epidemiologie. Title varies slightly. Articles in Romanian; tables of contents
+and summaries in English, French, German, Romanian, and Russian.
+Other ID: (OCoLC)01168398(DNLM)R35260000(s)
+NLM ID: 7508738[Serial]
+
+49. Author(s): International Association of Microbiological Societies. Section on Virology.
+Title Abbreviation: Intervirology
+Title(s): Intervirology.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Switzerland
+Publisher: Basel, Karger.
+Description: v. illus.
+Language: English
+ISSN: 0300-5526(Print); 1423-0100(Electronic); 0300-5526(Linking)
+Coden: IVRYAK
+Electronic Links: http://www.karger.com/Journal/Home/224031
+Fully Indexed In: MEDLINE: v1n1, 1973-; PubMed: v1n1, 1973-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Journal of the Virology Section of the International Association of
+Microbiological Societies. Print issues ceased with 2020. Also available online.
+Other ID: (DNLM)I37240000(s)(OCoLC)01788734
+NLM ID: 0364265[Serial]
+
+50. Author(s): Behringwerke AG.
+Title Abbreviation: Behring Inst Mitt
+Title(s): Behring Institute Mitteilungen.
+Publication Start Year: 1972
+Publication End Year: 1997
+Frequency: Two no. a year
+Country of Publication: Germany
+Publisher: Marburg/Lahn, Behringwerke AG.
+Latest Publisher: Marburg/lahn : Behringwerke Ag
+Description: no. illus.
+Language: English
+ISSN: 0301-0457(Print); 0301-0457(Linking)
+Coden: BHIMA2
+Fully Indexed In: MEDLINE: n72, 1983-n99, 1997; PubMed: n72, 1983-n99, 1997; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Drug Therapy*; Immunization, Passive*; Virology*
+Publication Type(s): Periodical
+Notes: Called also Behring Institute Research Communications.
+Other ID: (OCoLC)02359639(DNLM)B02780000(s)
+NLM ID: 0367532[Serial]
+
+51. Author(s): Ospedale Maria Vittoria di Torino.
+Title Abbreviation: G Batteriol Virol Immunol Microbiol
+Title(s): Giornale di batteriologia, virologia ed immunologia ed annali dell'Ospedale Maria
+Vittoria di Torino. Parte 1: Sezione microbiologica.
+Publication Start Year: 1971
+Publication End Year: 1973
+Frequency: Semiannual
+Country of Publication: Italy
+Publisher: Torino, Ospedale Maria Vittoria.
+Latest Publisher: Torino : Ospedale Maria Vittoria
+Description: 3 v. illus.
+Language: English, Italian, English, Italian
+ISSN: 0301-1453(Print); 0301-1453(Linking)
+Coden: GBVMAC
+Fully Indexed In: MEDLINE: v65n1,Jan. 1972-v66,Aug./Dec. 1973; PubMed: v65n1,Jan. 1972-v66,Aug./Dec. 1973; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Bacteriology*; Virology*
+Publication Type(s): Periodical
+Notes: Articles in Italian or English, with summaries in both languages.
+Other ID: (DNLM)G08320000(s)(OCoLC)01650266
+NLM ID: 7510848[Serial]
+
+52. Author(s): Ospedale Maria Vittoria di Torino.
+Title Abbreviation: G Batteriol Virol Immunol Clin
+Title(s): Giornale di batteriologia, virologia ed immunologia ed annali dell'Ospedale Maria
+Vittoria di Torino. Parte 2: Sezione clinica.
+Publication Start Year: 1971
+Publication End Year: 1973
+Frequency: Semiannual
+Country of Publication: Italy
+Publisher: Torino, Ospedale Maria Vittoria.
+Description: 3 v. illus.,ports.
+Language: Italian
+ISSN: 0301-1445(Print); 0301-1445(Linking)
+Coden: GBVCAG
+Fully Indexed In: MEDLINE: v15n1,Jan./Aug. 1972; PubMed: v15n1,Jan./Aug. 1972; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Bacteriology*; Virology*
+Publication Type(s): Periodical
+Notes: Called also Annali dell'Ospedale Maria Vittoria di Torino and also numbered v.
+14-16.
+Other ID: (OCoLC)01650277(DNLM)G08340000(s)
+NLM ID: 7510849[Serial]
+
+53. Author(s): Melnick,Joseph L
+Title Abbreviation: Monogr Virol
+Title(s): Monographs in virology.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Description: v.
+Language: English
+ISSN: 0077-0965(Print); 0077-0965(Linking)
+Coden: MONVAK
+Fully Indexed In: MEDLINE: v1, 1967-v11, 1976; PubMed: v1, 1967-v11, 1976; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Editor: 1967- J. L. Melnick. Indexes: Author index: v. 1 (1968)-19 (1974) in v.
+10.
+Other ID: (DNLM)M47180000(s)(OCoLC)01758571
+NLM ID: 0124434[Serial]
+
+54. Title Abbreviation: Virol Monogr
+Title(s): Virology monographs. Die Virusforschung in Einzeldarstellungen.
+Publication Start Year: 1968
+Publication End Year: 1981
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York, Springer.
+Latest Publisher: New York Ny : Springer Verlag
+Description: v. illus.
+Language: English
+ISSN: 0083-6591(Print); 0083-6591(Linking)
+Coden: VIRMB3
+Fully Indexed In: MEDLINE: 8, 1971-18, 1981; PubMed: 8, 1971-18, 1981; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Other ID: (DNLM)V07980000(s)(OCoLC)04053391
+NLM ID: 0170663[Serial]
+
+55. Author(s): Society for General Microbiology.; Federation of European Microbiological
+Societies.
+Title Abbreviation: J Gen Virol
+Title(s): The Journal of general virology.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, Cambridge Univ. Press for the Society for General Microbiology.
+Latest Publisher: 2015- : London : Microbiology Society
+Description: v. illus.
+Language: English
+ISSN: 0022-1317(Print); 1465-2099(Electronic); 0022-1317(Linking)
+Coden: JGVIAY
+Electronic Links: http://jgv.microbiologyresearch.org/content/journal/jgv
+Fully Indexed In: MEDLINE: v1n1, Jan. 1967-; Index medicus
+In: PubMed: v1n1, Jan. 1967-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 99 (2018). Also issued online.
+Other ID: (DNLM)J22020000(s)(OCoLC)01754603
+NLM ID: 0077340[Serial]
+
+56. Author(s): American Society for Microbiology.
+Title Abbreviation: J Virol
+Title(s): Journal of virology.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Baltimore, American Society for Microbiology.
+Latest Publisher: Washington Dc : American Society For Microbiology
+Description: v. illus.
+Language: English
+ISSN: 0022-538X(Print); 1098-5514(Electronic); 0022-538X(Linking)
+Coden: JOVIAM
+Electronic Links: https://jvi.asm.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=0113724
+Fully Indexed In: MEDLINE: v1n1, Feb. 1967-; Index medicus
+In: PubMed: v1n1, Feb. 1967-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Viruses*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 88 (2014). Also issued online.
+Other ID: (DNLM)J41260000(s)(OCoLC)01783311
+NLM ID: 0113724[Serial]
+
+57. Author(s): Ospedale Maria Vittoria di Torino.
+Title Abbreviation: G Batteriol Virol Immunol Ann Osp Maria Vittor Torino
+Title(s): Giornale di batteriologia, virologia, ed immunologia ed annali dell'Ospedale
+Maria Vittoria di Torino.
+Publication Start Year: 1958
+Publication End Year: 1970
+Frequency: Five no. a year
+Country of Publication: Italy
+Publisher: Torino, Ospedale Maria Vittoria.
+Latest Publisher: Turin : Ospedale Maria Vittoria Di Torino
+Description: 13 v. illus.
+Language: Italian
+ISSN: 0017-0267(Print); 0017-0267(Linking)
+Coden: GBVIAY
+Fully Indexed In: MEDLINE: v58n1,Jan./Feb. 1965-v63,Nov./Dec. 1970; PubMed: v58n1,Jan./Feb. 1965-v63,Nov./Dec. 1970; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Bacteriology*; Virology*
+Publication Type(s): Periodical
+Notes: Some summaries also in English, French, or German. Continued by a publication
+with the same title issued in two parts: Sezione microbiologica and Sezione
+clinica. Issue for Nov./Dec. 1970 called also Parte 2: Sezione clinica.
+Other ID: (DNLM)G08300000(s)(OCoLC)06811048
+NLM ID: 0365561[Serial]
+
+58. Title Abbreviation: Prog Med Virol
+Title(s): Progress in medical virology. Fortschritte der medizinischen Virusforschung.
+Progrès en virologie médicale.
+Publication Start Year: 1958
+Publication End Year: 1993
+Frequency: Annual
+Country of Publication: Switzerland
+Publisher: New York.
+Latest Publisher: Basel : Karger
+Description: v. illus.
+Language: English
+ISSN: 0079-645X(Print); 0079-645X(Linking)
+Coden: PMVIA6
+LCCN: 58003852
+Fully Indexed In: MEDLINE: v7, 1965-v40, 1993; PubMed: v7, 1965-v40, 1993; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Issued with English title only 1970-
+Other ID: (OCoLC)01762957(DNLM)P48120000(s)
+NLM ID: 0376451[Serial]
+
+59. Author(s): Nihon Uirusu Gakkai.; Nihon Uirusu Gakkai., Sokai kenkyu happyo yoshi.
+Title Abbreviation: Uirusu
+Title(s): Uirusu.
+Publication Start Year: 1958
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: Japan
+Publisher: Kyoto : Society Of Japanese Virologists
+Description: v. ill.
+Language: Japanese, English
+ISSN: 0042-6857(Print); 0042-6857(Linking)
+Coden: UIRUAF
+Electronic Links: https://www.jstage.jst.go.jp/browse/jsv
+Fully Indexed In: MEDLINE: v22n1,Jun. 1972-; PubMed: v22n1,Jun. 1972-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Vols. for <1958-> have also English title: Journal of virology. Vols. for <1987->
+have also English title: Virus. Contains the society's 6th- Sokai kenkyu happyo
+yoshi [Abstracts of papers of the general meeting]. Also issued online. Articles 
+in Japanese with abstracts in English. Table of contents also in English.
+Official journal of the Nippon Uirusu Gakkai.
+Other ID: (OCoLC)01593783(DNLM)U00920000(s)
+NLM ID: 0417475[Serial]
+
+60. Author(s): Československá akademie věd.
+Title Abbreviation: Acta Virol
+Title(s): Acta virologica.
+Edition: English ed.
+Publication Start Year: 1957
+Publication End Year: 
+Frequency: Quarterly, 2002-
+Country of Publication: Switzerland
+Publisher: Prague, Czechoslovak Academy of Sciences.
+Latest Publisher: 2023- : [Lausanne, Switzerland] : Frontiers Media S.A.
+Description: v. illus.
+Language: English
+ISSN: 0001-723X(Print); 1336-2305(Electronic); 0001-723X(Linking)
+Coden: AVIRA2
+LCCN: sn 86013192
+Electronic Links: http://www.elis.sk/index.php?page=shop.browse&category_id=1&option=com_virtuemart&Itemid=1, https://www.frontierspartnerships.org/journals/acta-virologica
+Fully Indexed In: MEDLINE: v9n4, 1965-v67n1, 2023; PubMed: v9n4, 1965-v67n1, 2023; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Imprint varies. Some vols. have monographic supplements. Print issues ceased with
+2023. Also issued online.
+Other ID: (DNLM)A09855000(s)(OCoLC)01461031
+NLM ID: 0370401[Serial]
+
+61. Author(s): Soviet Union. Ministerstvo zdravookhranenii︠a︡.
+Title Abbreviation: Vopr Virusol
+Title(s): Voprosy virusologii.
+Publication Start Year: 1956
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Ministerstvo zdravookhranenii︠a︡ SSSR
+Latest Publisher: Moskva : FBUN T︠S︡NII Ėpidemiologii Rospotrebnadzora
+Description: v. illus.
+Language: Russian, English
+ISSN: 0507-4088(Print); 2411-2097(Electronic); 0507-4088(Linking)
+Coden: VVIRAT
+Electronic Links: https://virusjour.crie.ru/jour/index
+Fully Indexed In: MEDLINE: v10n1, Jan./Feb. 1965-; Index medicus
+In: PubMed: v10n1, Jan./Feb. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virus Diseases*; Viruses*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 63, no. 3 (2018). Also issued online. Issued by
+Ministerstvo zdravookhraneniia SSSR.
+Other ID: (DNLM)V12120000(s)(OCoLC)01769293
+NLM ID: 0417337[Serial]
+
+62. Title Abbreviation: Virology
+Title(s): Virology.
+Publication Start Year: 1955
+Publication End Year: 
+Frequency: Twenty six no. a year
+Country of Publication: United States
+Publisher: New York, Academic Press.
+Description: v. illus.
+Language: English
+ISSN: 0042-6822(Print); 1096-0341(Electronic); 0042-6822(Linking)
+Coden: VIRLAX
+LCCN: a 57005753
+Electronic Links: https://www.sciencedirect.com/journal/virology
+Fully Indexed In: MEDLINE: v23n1,May 1964-; PubMed: v23n1,May 1964-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Also issued online. Indexes: Vols. 1-20, 1955-63. 1 v. Sister journal: Virology
+reports 2214-6695 (DLC)2015247805 (OcLC)2015247805 (DNLM)101633793.
+Other ID: (DNLM)V07900000(s)(OCoLC)01769213
+NLM ID: 0110674[Serial]
+
+63. Author(s): Smith,Kenneth M(Kenneth Manley),1892-1981.; Lauffer,Max A(Max Augustus),1914-
+Title Abbreviation: Adv Virus Res
+Title(s): Advances in virus research.
+Publication Start Year: 1953
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York, NY : Academic Press
+Description: v. illus.
+Language: English
+ISSN: 0065-3527(Print); 1557-8399(Electronic); 0065-3527(Linking)
+Coden: AVREA8
+Electronic Links: http://www.sciencedirect.com/science/bookseries/00653527
+Fully Indexed In: MEDLINE: v11, 1965-; Index medicus
+In: PubMed: v11, 1965-, OLDMEDLINE
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Virology*
+Publication Type(s): Periodical
+Notes: Editors: 1953- K. M. Smith and M. A. Lauffer. Also issued online. Microfilm. v. 1
+(1953)-v. 2 (1954) 1 microfilm reel : negative ; 35 mm.
+Other ID: (DNLM)A15570000(s)(OCoLC)01461272
+NLM ID: 0370441[Serial]
+

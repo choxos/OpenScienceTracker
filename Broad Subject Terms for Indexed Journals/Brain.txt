@@ -1,0 +1,1478 @@
+1. Author(s): European Stroke Organisation.
+Title Abbreviation: Eur Stroke J
+Title(s): European stroke journal.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : SAGE Publications Ltd, [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2396-9881(Electronic); 2396-9873(Print); 2396-9873(Linking)
+LCCN: 2017243327
+Electronic Links: https://journals.sagepub.com/home/eso, https://pmc.ncbi.nlm.nih.gov/journals/?term=101688446
+Fully Indexed In: MEDLINE: v8n1, Mar. 2023-
+In: PubMed: v1n1, Mar. 2016-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Stroke*
+Publication Type(s): Periodical
+Notes: Some volumes have supplements. Official publication of the European Stroke
+Organisation.
+Other ID: (OCoLC)945465963
+NLM ID: 101688446[Serial]
+
+2. Author(s): Society for Neuroscience,
+Title Abbreviation: eNeuro
+Title(s): eNeuro.
+Publication Start Year: 2014
+Publication End Year: 
+Frequency: Quarterly, 2015
+Country of Publication: United States
+Publisher: [Washington, DC] : Society for Neuroscience, [2014]-
+Description: 1 online resource
+Language: English
+ISSN: 2373-2822(Electronic); 2373-2822(Linking)
+LCCN: 2014200473
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101647362, http://www.eneuro.sfn.org
+Fully Indexed In: MEDLINE: v2n1, Jan.-Feb. 2015-
+In: PubMed: v1n1, Nov.-Dec. 2014-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System Diseases*
+Publication Type(s): Periodical
+Notes: One issue published in 2014.
+Other ID: (OCoLC)880724129
+NLM ID: 101647362[Serial]
+
+3. Title Abbreviation: Brain Behav
+Title(s): Brain and behavior.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons
+Language: English
+ISSN: 2162-3279(Electronic)
+LCCN: 2010208094
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101570837, http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2157-9032
+Fully Indexed In: MEDLINE: v4n1, Jan. 2014-
+In: PubMed: v1n1, Sept. 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Behavior; Brain/anatomy & histology*Brain/physiology
+Publication Type(s): Periodical
+Other ID: (OCoLC)671244355
+NLM ID: 101570837[Serial]
+
+4. Title Abbreviation: Brain Connect
+Title(s): Brain connectivity.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc.
+Language: English
+ISSN: 2158-0014(Print); 2158-0022(Electronic); 2158-0014(Linking)
+LCCN: 2010201501
+Electronic Links: http://online.liebertpub.com/loi/brain
+Fully Indexed In: MEDLINE: v1n1, 2011-
+In: PubMed: v1n1, 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain/physiology*; Mental Disorders; Nervous System Diseases
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)670079024
+NLM ID: 101550313[Serial]
+
+5. Title Abbreviation: Fluids Barriers CNS
+Title(s): Fluids and barriers of the CNS.
+Publication Start Year: 2011
+Publication End Year: 
+Country of Publication: England
+Publisher: London : Biomed Central
+Language: English
+ISSN: 2045-8118(Electronic); 2045-8118(Linking)
+LCCN: 2011243210
+Electronic Links: https://fluidsbarrierscns.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101553157
+Fully Indexed In: MEDLINE: v12, 2015-
+In: PubMed: v8, 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cerebrospinal Fluid*; Nervous System Diseases
+Publication Type(s): Periodical
+Notes: Articles added consecutively to current annual volume. Mode of access: Internet.
+Other ID: (OCoLC)708333081
+NLM ID: 101553157[Serial]
+
+6. Title Abbreviation: Transl Stroke Res
+Title(s): Translational stroke research.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York : Springer
+Language: English
+ISSN: 1868-4483(Print); 1868-601X(Electronic); 1868-4483(Linking)
+LCCN: 2010243375
+Electronic Links: https://link.springer.com/journal/12975
+Fully Indexed In: MEDLINE: v4n1, Feb. 2013-
+In: PubMed: v4n1, Feb. 2013- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Stroke*; Translational Research, Biomedical.
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 (Mar. 2010); title from cover. Latest issue
+consulted: Vol. 1, no. 1 (Mar. 2010). Print issues ceased with v. 1 (2010). Also 
+issued online.
+Other ID: (OCoLC)614340819
+NLM ID: 101517297[Serial]
+
+7. Title Abbreviation: Brain Stimul
+Title(s): Brain stimulation.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York : Elsevier
+Description: v.
+Language: English
+ISSN: 1935-861X(Print); 1876-4754(Electronic); 1876-4754(Linking)
+LCCN: 2007214181
+Electronic Links: http://www.sciencedirect.com/science/journal/1935861X
+Fully Indexed In: MEDLINE: v1n1, Jan. 2008-
+In: PubMed: v1n1, Jan. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain/physiology*; Diagnostic Techniques, Neurological; Electric Stimulation*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)82456860
+NLM ID: 101465726[Serial]
+
+8. Author(s): BioMed Central Ltd.
+Title Abbreviation: Mol Brain
+Title(s): Molecular brain.
+Publication Start Year: 2008
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central
+Language: English
+ISSN: 1756-6606(Electronic); 1756-6606(Linking)
+LCCN: 2009243142
+Electronic Links: https://molecularbrain.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101468876
+Fully Indexed In: MEDLINE: v1, 2008-
+In: PubMed: v1, 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain; Molecular Biology; Neurosciences*
+Publication Type(s): Periodical
+Notes: Description based on: 1:1 (17 June 2008); title from caption (publisher's Web
+site, viewed Mar. 17, 2009). Latest issue consulted: 2:7 (5 Mar. 2009) (viewed
+Mar. 17, 2009). Articles added consecutively to current annual v. Mode of access:
+World Wide Web.
+Other ID: (OCoLC)233191053
+NLM ID: 101468876[Serial]
+
+9. Title Abbreviation: Brain Nerve
+Title(s): Brain and nerve = Shinkei kenkyū no shinpo.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Japan
+Publisher: Tōkyō : igaku Shoin
+Language: Japanese
+ISSN: 1881-6096(Print); 1344-8129(Electronic); 1881-6096(Linking)
+LCCN: 2007243330
+Electronic Links: http://www.igaku-shoin.co.jp/journalPortal.do?journalPortalId=416
+Fully Indexed In: MEDLINE: v59n1, Jan. 2007-; PubMed: v59n1, Jan. 2007-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System Diseases*; Neurology; Neurosurgery; Neurosurgical Procedures
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online. In
+Japanese; abstracts and table of contents in English.
+Other ID: (OCoLC)85888981
+NLM ID: 101299709[Serial]
+
+10. Title Abbreviation: Brain Imaging Behav
+Title(s): Brain imaging and behavior.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Secaucus, NJ : Springer
+Description: v.
+Language: English
+ISSN: 1931-7557(Print); 1931-7565(Electronic); 1931-7557(Linking)
+LCCN: 2006213702
+Electronic Links: https://link.springer.com/journal/11682
+Fully Indexed In: MEDLINE: v4n1, Mar. 2010-
+In: PubMed: v4n1, Mar. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Behavior; Diagnostic Techniques, Neurological*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Print issues ceased with v.
+4, no. 4 (2010). Also issued online.
+Other ID: (OCoLC)68135871
+NLM ID: 101300405[Serial]
+
+11. Title Abbreviation: Brain Struct Funct
+Title(s): Brain structure & function.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Unknown
+Country of Publication: Germany
+Publisher: Berlin : Springer-Verlag, c2007-
+Description: v. : ill. ; 25 cm.
+Language: English
+ISSN: 1863-2653(Print); 1863-2661(Electronic); 1863-2653(Linking)
+LCCN: 2007243247
+Electronic Links: https://link.springer.com/journal/429
+Fully Indexed In: MEDLINE: v212n1, July 2007-; PubMed: v212n1, July 2007-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain/anatomy & histology*Brain/physiology
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)163129673
+NLM ID: 101282001[Serial]
+
+12. Title Abbreviation: Front Neural Circuits
+Title(s): Frontiers in neural circuits.
+Publication Start Year: 2007
+Publication End Year: 
+Country of Publication: Switzerland
+Publisher: [Lausanne, Switzerland] : Frontiers Research Foundation, c2007-
+Description: v.
+Language: English
+ISSN: 1662-5110(Electronic); 1662-5110(Linking)
+LCCN: 2009243196
+Electronic Links: http://www.frontiersin.org/neural_circuits, https://pmc.ncbi.nlm.nih.gov/journals/?term=101477940
+Fully Indexed In: MEDLINE: v7, 2013-
+In: PubMed: v1, 2007-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neural Pathways*; Neurobiology
+Publication Type(s): Periodical
+Notes: Description based on Vol. 1, issue 1 (Nov. 1, 2007); title from caption
+(publisher's Web site, viewed Mar. 20, 2009). Latest issue consulted: Vol. 2,
+issue 2 (Dec. 15, 2008) (viewed Mar. 20, 2009).
+Other ID: (OCoLC)250619181
+NLM ID: 101477940[Serial]
+
+13. Title Abbreviation: Brain Cell Biol
+Title(s): Brain cell biology.
+Publication Start Year: 2006
+Publication End Year: 2008
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Norwell, MA : Springer, 2007-
+Description: v.
+Language: English
+ISSN: 1559-7105(Print); 1559-7113(Electronic); 1559-7105(Linking)
+LCCN: 2007243296
+Electronic Links: https://link.springer.com/journal/11068
+Fully Indexed In: MEDLINE: v35n1, Feb. 2006-v36n5-6, Dec. 2008
+In: PubMed: v35n1, Feb. 2006-v36n5-6, Dec. 2008; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain/cytology*; Nervous System/cytology*; Neurobiology
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)163100873
+NLM ID: 101272887[Serial]
+
+14. Title Abbreviation: Brain Res Rev
+Title(s): Brain research reviews.
+Publication Start Year: 2006
+Publication End Year: 2011
+Frequency: Bimonthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier B.V., 2006-
+Language: English
+ISSN: 0165-0173(Print); 1872-6321(Electronic); 0165-0173(Linking)
+LCCN: 2007243350
+Electronic Links: https://www.sciencedirect.com/journal/brain-research-reviews
+Fully Indexed In: MEDLINE: v51n1,June 2006-v67n1/2, June 24, 2011
+In: PubMed: v51n1,June 2006-v67n1/2, June 24, 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain*
+Publication Type(s): PeriodicalReview
+Notes: Description based on first issue. Latest issue consulted: Vol. 52, no. 2 (Sept.
+2006). Also issued online.
+Other ID: (OCoLC)104927985
+NLM ID: 101300366[Serial]
+
+15. Author(s): BioMed Central Ltd.
+Title Abbreviation: Behav Brain Funct
+Title(s): Behavioral and brain functions : BBF.
+Publication Start Year: 2005
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central, 2005-
+Language: English
+ISSN: 1744-9081(Electronic); 1744-9081(Linking)
+LCCN: 2005243558
+Electronic Links: https://behavioralandbrainfunctions.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101245751
+Fully Indexed In: MEDLINE: v6, 2010-
+In: PubMed: v6, 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Behavior; Behavior, Animal; Brain/physiology; Nervous System Diseases/psychology; Nervous System Physiological Phenomena*; Neurophysiology; Neuropsychology
+Publication Type(s): Periodical
+Notes: Title from PDF caption (publisher's Web site, viewed June 3, 2005). Latest issue 
+consulted: 1:6 (4 May 2005) (viewed June 3, 2005). "Behavioral and brain
+functions is an open access, peer-reviewed, online journal that encompasses all
+aspects of neurobiology where the unifying theme is behavior or behavioral
+dysfunction"--From Web site, viewed April 27, 2005. Articles added consecutively 
+to current annual v. Mode of access: World Wide Web.
+Other ID: (OCoLC)59722804
+NLM ID: 101245751[Serial]
+
+16. Author(s): EEG and Clinical Neuroscience Society.
+Title Abbreviation: Clin EEG Neurosci
+Title(s): Clinical EEG and neuroscience.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Wheaton, IL : EEG and Clinical Neuroscience Society, c2004-
+Latest Publisher: Thoudand Oaks, CA : Sage Publications
+Description: v. : ill. ; 26 cm.
+Language: English
+ISSN: 1550-0594(Print); 2169-5202(Electronic); 1550-0594(Linking)
+LCCN: 2004243279
+Electronic Links: https://journals.sagepub.com/home/eeg
+Fully Indexed In: MEDLINE: v35n1, Jan. 2004-; Index medicus
+In: PubMed: v35n1, Jan. 2004-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Electroencephalography*; Neurosciences
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the EEG and Clinical
+Neuroscience Society (ENCS).
+Other ID: (OCoLC)54488061
+NLM ID: 101213033[Serial]
+
+17. Title Abbreviation: Cerebellum
+Title(s): The cerebellum.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Six no. a year, 2013-
+Country of Publication: United States
+Publisher: London : Martin Dunitz, c2002-
+Latest Publisher: <2006->: New York : Springer
+Description: v.
+Language: English
+ISSN: 1473-4222(Print); 1473-4230(Electronic); 1473-4222(Linking)
+Coden: CERECF
+LCCN: 2003213601
+Electronic Links: https://link.springer.com/journal/12311
+Fully Indexed In: MEDLINE: v1n1,Jan./Mar. 2002-; PubMed: v1n1,Jan./Mar. 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ataxia; Cerebellum*; Cognition; Neurophysiology
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online.
+Other ID: (OCoLC)51268235
+NLM ID: 101089443[Serial]
+
+18. Author(s): International Behavioural and Neural Genetics Society.
+Title Abbreviation: Genes Brain Behav
+Title(s): Genes, brain, and behavior.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Eight no. a year, 2005-
+Country of Publication: England
+Publisher: Oxford : Munksgaard, c2002-
+Description: v. : ill.
+Language: English
+ISSN: 1601-1848(Print); 1601-183X(Electronic); 1601-183X(Linking)
+LCCN: 2002243177
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1601-183X, https://pmc.ncbi.nlm.nih.gov/journals/?term=101129617
+Fully Indexed In: MEDLINE: v1n1,Jan. 2002-; PubMed: v1n1,Jan. 2002-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics, Behavioral*; Mental Disorders/genetics; Nervous System Diseases/genetics
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2013. Also issued online. Official
+publication of the International Behavioural and Neural Genetics Society.
+Other ID: (OCoLC)49524930
+NLM ID: 101129617[Serial]
+
+19. Title Abbreviation: Brain Res Gene Expr Patterns
+Title(s): Brain research. Gene expression patterns.
+Publication Start Year: 2001
+Publication End Year: 2002
+Frequency: Four issues a year
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, c2001-c2002.
+Description: 1 v. : ill. ; 28 cm.
+Language: English
+ISSN: 
+Coden: GEPEAD
+LCCN: 2001261198
+Fully Indexed In: MEDLINE: v1n1, Aug. 2001-v1n3/4, Oct. 2002; PubMed: v1n1, Aug. 2001-v1n3/4, Oct. 2002; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Central Nervous System; Gene Expression*
+Publication Type(s): Periodical
+Notes: "A section of Brain research devoted to patterns of expression of genes during
+the development, maturity and aging of the central nervous system."
+Other ID: (OCoLC)48131212
+NLM ID: 101125870[Serial]
+
+20. Author(s): Australian Society for the Study of Brain Impairment.; Brain Impairment
+Conference
+Title Abbreviation: Brain Impair
+Title(s): Brain impairment : a multidisciplinary journal of the Australian Society for the 
+Study of Brain Impairment.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Three no. a year
+Country of Publication: Australia
+Publisher: Bowen Hills, QLD, Australia : Published for the ASSBI by Australian Academic
+Press, c2000-
+Latest Publisher: 2024-: Clayton VIC : CSIRO Publishing
+Description: v.
+Language: English
+ISSN: 1443-9646(Print); 1839-5252(Electronic); 1839-5252(Linking)
+LCCN: 2001243393
+Electronic Links: https://www.cambridge.org/core/journals/brain-impairment, https://www.publish.csiro.au/ib
+Fully Indexed In: MEDLINE: v24n1, Mar. 2023-
+In: PubMed: v24n1, Mar. 2023- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain Diseases*
+Publication Type(s): CongressPeriodical
+Notes: Title from caption. Some issues contain abstracts of the Annual Brain Impairment 
+Conference. Print issues ceased with v. 15, no. 3 (Dec. 2014). Also issued
+online.
+Other ID: (OCoLC)48476206
+NLM ID: 101121542[Serial]
+
+21. Title Abbreviation: Epileptic Disord
+Title(s): Epileptic disorders : international epilepsy journal with videotape.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Montrouge, France : John Libbey Eurotext
+Latest Publisher: 2023- : [Hoboken] : Wiley
+Language: English
+ISSN: 1294-9361(Print); 1950-6945(Electronic); 1294-9361(Linking)
+Coden: EPDIFP
+LCCN: sn 99039926
+Electronic Links: https://onlinelibrary.wiley.com/journal/19506945, http://www.jle.com/en/revues/epd/revue.phtml
+Fully Indexed In: MEDLINE: v1n1n,Mar. 1999-; Index medicus
+In: PubMed: v1n1n,Mar. 1999-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epilepsy*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.19, no. 4 (2017). Each issue
+accompanied by a videocassette (sd., col. ; 1/2 in.), which supplements selected 
+articles, -2002. Vols. for <2003-> accompanied by a CD-ROM. Also issued online.
+Other ID: (OCoLC)43206751
+NLM ID: 100891853[Serial]
+
+22. Title Abbreviation: Brain Res Brain Res Protoc
+Title(s): Brain research. Brain research protocols.
+Publication Start Year: 1997
+Publication End Year: 2005
+Frequency: Six no. a year, 1998-
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science Publishers, c1997-
+Description: v. : ill.
+Language: English
+ISSN: 1385-299X(Print); 1385-299X(Linking)
+Coden: BRPRFP
+LCCN: 97642203, sn 97042561
+Electronic Links: https://www.sciencedirect.com/journal/brain-research-protocols
+Fully Indexed In: MEDLINE: v1n1,Feb. 1997-v16n1/3, Dec. 2005; PubMed: v1n1,Feb. 1997-v16n1/3, Dec. 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain; Neurosciences/instrumentationNeurosciences/methods; Research Design; Research/instrumentation
+Publication Type(s): Periodical
+Notes: "A section of brain research devoted to the publication of experimental protocols
+in neuroscience." Also numbered 1/1- . Also available online.
+Other ID: (DNLM)SR0091978(s)(OCoLC)37377697
+NLM ID: 9716650[Serial]
+
+23. Author(s): Nihon Nōshuyō Byōri Kenkyūkai.
+Title Abbreviation: Brain Tumor Pathol
+Title(s): Brain tumor pathology.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Four no. a year, 2011-
+Country of Publication: Japan
+Publisher: Tokyo : Springer-Verlag Tokyo, [1997-
+Description: v. : ill.
+Language: English
+ISSN: 1433-7398(Print); 1861-387X(Electronic); 1433-7398(Linking)
+Coden: BTPAFM
+LCCN: sn97-40240
+Electronic Links: https://link.springer.com/journal/10014
+Fully Indexed In: MEDLINE: v14n1, 1997-; PubMed: v14n1, 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain Neoplasms/pathology
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the Japan Society of
+Brain Tumor Pathology.
+Other ID: (DNLM)SR0092153(s)(OCoLC)37992618
+NLM ID: 9716507[Serial]
+
+24. Title Abbreviation: Hum Brain Mapp
+Title(s): Human brain mapping.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: New York : Wiley-Liss, c1993-
+Latest Publisher: New York : Wiley
+Description: v. ill.
+Language: English
+ISSN: 1065-9471(Print); 1097-0193(Electronic); 1065-9471(Linking)
+Coden: HBMAE
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0193, https://pmc.ncbi.nlm.nih.gov/journals/?term=9419065
+Fully Indexed In: MEDLINE: v6n1, 1998-; PubMed: v6n1, 1998-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain Mapping*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0076843(s)(OCoLC)26813384
+NLM ID: 9419065[Serial]
+
+25. Title Abbreviation: Brain Res Cogn Brain Res
+Title(s): Brain research. Cognitive brain research.
+Publication Start Year: 1992
+Publication End Year: 2005
+Frequency: Bimonthly, 2000-
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier Science Publishers, c1992-
+Description: v. : ill.
+Language: English
+ISSN: 0926-6410(Print); 0926-6410(Linking)
+Coden: CBRREZ
+LCCN: 93640646, sn 92024152
+Electronic Links: https://www.sciencedirect.com/journal/cognitive-brain-research
+Fully Indexed In: MEDLINE: v1n1, June 1992-v25n3, Dec. 2005; PubMed: v1n1, June 1992-v25n3, Dec. 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain*; Cognition/physiology*; Higher Nervous Activity*
+Publication Type(s): Periodical
+Notes: "A section of Brain research devoted to the publication of cognitive and
+computational studies." Also numbered 1/1- . Also available online.
+Other ID: (DNLM)SR0072202(s)(OCoLC)26247816
+NLM ID: 9214304[Serial]
+
+26. Title Abbreviation: Cereb Cortex
+Title(s): Cerebral cortex.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Eight no. a year
+Country of Publication: United States
+Publisher: New York, NY : Oxford University Press, c1991-
+Description: v. : ill.
+Language: English
+ISSN: 1047-3211(Print); 1460-2199(Electronic); 1047-3211(Linking)
+Electronic Links: https://academic.oup.com/cercor
+Fully Indexed In: MEDLINE: v1n1, 1991-; PubMed: v1n1, 1991-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cerebral Cortex*
+Publication Type(s): Periodical
+Notes: Bimonthly. Title from cover. Bimonthly. Available also online. Complemented by
+(work): Cerebral cortex communications 2632-7376 (DLC) 2020243178
+(DNLM)101767128.
+Other ID: (DNLM)SR0068921(s)(OCoLC)20665497
+NLM ID: 9110718[Serial]
+
+27. Title Abbreviation: Cerebrovasc Dis
+Title(s): Cerebrovascular diseases.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Eight no. a year, 2001-
+Country of Publication: Switzerland
+Publisher: Basel ; New York : Karger, 1990-
+Description: v. : ill.
+Language: English
+ISSN: 1015-9770(Print); 1421-9786(Electronic); 1015-9770(Linking)
+LCCN: sn 90031474
+Electronic Links: http://www.karger.com/Journal/Home/224153
+Fully Indexed In: MEDLINE: v8n1,Jan.-Feb. 1998-; PubMed: v8n1,Jan.-Feb. 1998-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cerebrovascular Disorders*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues also designated as: Vol. 1, no. 1- . Also issued online.
+Other ID: (DNLM)SR0068827(s)(OCoLC)22789090
+NLM ID: 9100851[Serial]
+
+28. Title Abbreviation: Hippocampus
+Title(s): Hippocampus.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Eight no. a year 2003-
+Country of Publication: United States
+Publisher: New York, NY : Churchill Livingstone, c1991-
+Latest Publisher: New York, NY : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 1050-9631(Print); 1098-1063(Electronic); 1050-9631(Linking)
+Coden: HIPPEL
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-1063
+Fully Indexed In: MEDLINE: v1n1,Jan. 1991-; PubMed: v1n1,Jan. 1991-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Hippocampus*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0069105(s)(OCoLC)21725124
+NLM ID: 9108167[Serial]
+
+29. Author(s): Collegium Internationale Activitatis Nervosae Superioris.
+Title Abbreviation: Homeost Health Dis
+Title(s): Homeostasis in health and disease : international journal devoted to integrative 
+brain functions and homeostatic systems.
+Publication Start Year: 1991
+Publication End Year: 2006
+Frequency: Bimonthly
+Country of Publication: Czech Republic
+Publisher: Prague : Czechoslovak Medical Society J. Ev. Purkynĕ ; Oxford : distributed by
+Pergamon Press, [1991?-
+Latest Publisher: Prague : Czechoslovak Medical Society J. Ev. Purkyne
+Description: v. : ill.
+Language: English
+ISSN: 0960-7560(Print); 0960-7560(Linking)
+Coden: HOMOE
+LCCN: 92643878
+Fully Indexed In: MEDLINE: v33n1, 1991-v33n6, 1991; PubMed: v33n1, 1991-v33n6, 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Central Nervous System*; Homeostasis/physiology*
+Publication Type(s): Periodical
+Notes: Bimonthly. Title from cover. Official journal: CIANS (Collegium Internationale
+Activitatis Nervosae Superioris).
+Other ID: (DNLM)SR0069036(s)(OCoLC)24490174
+NLM ID: 9206066[Serial]
+
+30. Author(s): National Stroke Association (U.S.)
+Title Abbreviation: J Stroke Cerebrovasc Dis
+Title(s): Journal of stroke and cerebrovascular diseases : the official journal of National
+Stroke Association.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Bimonthly, 1997-
+Country of Publication: United States
+Publisher: New York, NY : Demos Publications, [1991-
+Latest Publisher: Philadelphia, PA : Saunders
+Description: v. : ill.
+Language: English
+ISSN: 1052-3057(Print); 1532-8511(Electronic); 1052-3057(Linking)
+LCCN: 92641817, sn 90001166
+Electronic Links: http://www.sciencedirect.com/science/journal/10523057
+Fully Indexed In: MEDLINE: v16n1, Jan/Feb 2007-; PubMed: v16n1, Jan/Feb 2007-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cerebrovascular Disorders*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online. Issued also
+online.
+Other ID: (OCoLC)22248418(DNLM)SR0069110(s)
+NLM ID: 9111633[Serial]
+
+31. Author(s): International Society of Neuropathology.
+Title Abbreviation: Brain Pathol
+Title(s): Brain pathology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Zürich, Switzerland : International Society of Neuropathology, [1990-
+Description: v. : ill.
+Language: English
+ISSN: 1015-6305(Print); 1750-3639(Electronic); 1015-6305(Linking)
+Coden: BRPAE7
+LCCN: sn 93038293
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1750-3639, https://pmc.ncbi.nlm.nih.gov/journals/?term=9216781
+Fully Indexed In: MEDLINE: v1n1, Sept. 1990-; PubMed: v1n1, Sept. 1990-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0071360(s)(OCoLC)24603872
+NLM ID: 9216781[Serial]
+
+32. Title Abbreviation: Brain Res Brain Res Rev
+Title(s): Brain research. Brain research reviews.
+Publication Start Year: 1989
+Publication End Year: 2005
+Frequency: Nine no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science Publishers, c1989-
+Description: v. : ill.
+Language: English
+ISSN: 
+Coden: BRERD2
+Electronic Links: https://www.sciencedirect.com/journal/brain-research-reviews
+Fully Indexed In: MEDLINE: v14n1,Jan./Mar. 1989-v50n2,Dec. 15, 2005; Index medicus
+In: PubMed: v14n1,Jan./Mar. 1989-v50n2,Dec. 15, 2005; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain*
+Publication Type(s): PeriodicalReview
+Notes: Also issued online.
+Other ID: (DNLM)SR0064609(s)(OCoLC)19645042
+NLM ID: 8908638[Serial]
+
+33. Title Abbreviation: Brain Res Mol Brain Res
+Title(s): Brain research. Molecular brain research.
+Publication Start Year: 1989
+Publication End Year: 2005
+Frequency: Twenty four no. a year, 1999-
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science Publishers, c1989-
+Description: v. : ill.
+Language: English
+ISSN: 0169-328X(Print); 0169-328X(Linking)
+Coden: MBREE4
+LCCN: 92648940, sn 89036324
+Electronic Links: https://www.sciencedirect.com/journal/molecular-brain-research
+Fully Indexed In: MEDLINE: v5n1,Jan. 1989-v142n2, Dec. 14, 2005; PubMed: v5n1,Jan. 1989-v142n2, Dec. 14, 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain*; Neurobiology*
+Publication Type(s): Periodical
+Notes: Vol. 26, no. 1-2, Oct.1992 is misnumbered no. 1-4. Also available online.
+Other ID: (DNLM)SR0064605(s)(OCoLC)19645119
+NLM ID: 8908640[Serial]
+
+34. Title Abbreviation: Cerebrovasc Brain Metab Rev
+Title(s): Cerebrovascular and brain metabolism reviews.
+Publication Start Year: 1989
+Publication End Year: 1996
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, N.Y. : Raven Press, [c1989-1996]
+Description: v. : ill.
+Language: English
+ISSN: 1040-8827(Print); 1040-8827(Linking)
+Coden: CEMREV
+Fully Indexed In: MEDLINE: v1n1,spring 1989-v8n4,winter 1996; PubMed: v1n1,spring 1989-v8n4,winter 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain/metabolism*; Cerebrovascular Circulation*; Cerebrovascular Disorders*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0063194(s)(OCoLC)18565056
+NLM ID: 8910172[Serial]
+
+35. Title Abbreviation: Brain Res Dev Brain Res
+Title(s): Brain research. Developmental brain research.
+Publication Start Year: 1988
+Publication End Year: 2005
+Frequency: Fourteen no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science Publishers,
+Description: v. : ill.
+Language: English
+ISSN: 0165-3806(Print); 0165-3806(Linking)
+LCCN: 92649678, sn 89036323
+Electronic Links: https://www.sciencedirect.com/journal/developmental-brain-research
+Fully Indexed In: MEDLINE: v44n1,Nov. 1, 1988-v160n2, Dec. 7, 2005; PubMed: v44n1,Nov. 1, 1988-v160n2, Dec. 7, 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain/growth & development*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 44, no. 2 (1 Dec. 1988). Also available online.
+Indexes: Included in the annual cumulative author and subject indexes to: Brain
+research.
+Other ID: (DNLM)SR0064603(s)(OCoLC)19645066
+NLM ID: 8908639[Serial]
+
+36. Title Abbreviation: Brain Topogr
+Title(s): Brain topography.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [New York, NY : Human Sciences Press, c1988-
+Latest Publisher: 1999- : New York : Kluwer Academic/Plenum Publishers
+Description: v. : ill.
+Language: English
+ISSN: 0896-0267(Print); 1573-6792(Electronic); 0896-0267(Linking)
+Coden: BRTOEZ
+Electronic Links: https://link.springer.com/journal/10548
+Fully Indexed In: MEDLINE: v1n1,fall 1988-; PubMed: v1n1,fall 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain Mapping*; Electroencephalography*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0062374(s)(OCoLC)16885199
+NLM ID: 8903034[Serial]
+
+37. Title Abbreviation: Epilepsy Res Suppl
+Title(s): Epilepsy research. Supplement.
+Publication Start Year: 1988
+Publication End Year: 1996
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, 1988-
+Description: v. : ill., ports.
+Language: English
+ISSN: 0922-9833(Print); 0922-9833(Linking)
+Coden: ERSUED
+Fully Indexed In: MEDLINE: n1, 1988-n11, 1996; PubMed: n1, 1988-n11, 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epilepsy*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0065995(s)(OCoLC)20224739
+NLM ID: 8913231[Serial]
+
+38. Author(s): Nihon Nōshuyō Byōri Kenkyūkai.
+Title Abbreviation: Noshuyo Byori
+Title(s): Nōshuyō byōri = Brain tumor pathology.
+Publication Start Year: 1988
+Publication End Year: 1996
+Frequency: Two no. a year
+Country of Publication: Japan
+Publisher: Nagoya-shi : Nihon Nōshuyō Byōri Kenkyūkai, 1988-c1996.
+Latest Publisher: Nagoya-Shi : Nihon Noshuyo Byori Kenkyukai
+Description: 9 v. : ill. (some col.)
+Language: Japanese, English, English
+ISSN: 0914-8108(Print); 0914-8108(Linking)
+Coden: BTPAFM
+LCCN: sn93-38489
+Fully Indexed In: MEDLINE: v10n1, 1993-v13n2, Nov. 1996; PubMed: v10n1, 1993-v13n2, Nov. 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain Neoplasms/pathology*
+Publication Type(s): CongressPeriodical
+Notes: Title from cover. Official organ of Nihon Nōshuyō Byōri Kenkyūkai. No. 2 of
+each vol. includes proceedings of the annual meeting of the Japan Society of
+Brain Tumor Pathology. Some issues combined. Articles in Japanese with some in
+English; summaries in English, 1988-1990; articles in English, 1991-1996.
+Other ID: (DNLM)SR0064883(s)(OCoLC)29182476
+NLM ID: 9315330[Serial]
+
+39. Author(s): Psychoneuroimmunology Research Society.
+Title Abbreviation: Brain Behav Immun
+Title(s): Brain, behavior, and immunity.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Six no. a year 2002-
+Country of Publication: Netherlands
+Publisher: San Diego : Academic Press, [c1987-
+Latest Publisher: <2000- > : Amsterdam : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0889-1591(Print); 1090-2139(Electronic); 0889-1591(Linking)
+Coden: BBIMEW
+Electronic Links: http://www.sciencedirect.com/science/journal/08891591
+Fully Indexed In: MEDLINE: v1n1, 1987-; Index medicus
+In: PubMed: v1n1, 1987-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Psychoneuroimmunology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0057933(s)(OCoLC)13800590
+NLM ID: 8800478[Serial]
+
+40. Title Abbreviation: Brain Inj
+Title(s): Brain injury
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Fourteen no. a year, 2005-
+Country of Publication: England
+Publisher: London ; New York : Taylor & Francis, c1987-
+Latest Publisher: London : Informa Healthcare
+Description: v. : ill.
+Language: English
+ISSN: 0269-9052(Print); 1362-301X(Electronic); 0269-9052(Linking)
+Coden: BRAIEO
+LCCN: 88659556, sn 85007498
+Electronic Links: http://www.tandfonline.com/loi/ibij20
+Fully Indexed In: MEDLINE: v1n1, July-Sept. 1987-; PubMed: v1n1, July-Sept. 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain Injuries*
+Publication Type(s): Periodical
+Notes: Title from cover. On t.p. "BI" appears as I superimposed on B. Supplements
+accompany some vols. Also issued online.
+Other ID: (DNLM)SR0054784(s)(OCoLC)12055327
+NLM ID: 8710358[Serial]
+
+41. Title Abbreviation: Epilepsy Res
+Title(s): Epilepsy research.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: 15 no. a year, 1999-
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science Publishers, c1987-
+Description: v. : ill.
+Language: English
+ISSN: 0920-1211(Print); 1872-6844(Electronic); 0920-1211(Linking)
+Coden: EPIRE8
+LCCN: sn 87026147
+Electronic Links: https://www.sciencedirect.com/journal/epilepsy-research
+Fully Indexed In: MEDLINE: v1n1,Jan.-Feb. 1987-; PubMed: v1n1,Jan.-Feb. 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epilepsy*
+Publication Type(s): Periodical
+Notes: Has supplement: Epilepsy research. Supplement. Also issued online.
+Other ID: (DNLM)SR0057733(s)(OCoLC)15022074
+NLM ID: 8703089[Serial]
+
+42. Title Abbreviation: Metab Brain Dis
+Title(s): Metabolic brain disease.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York : Plenum, c1986-
+Latest Publisher: 2005- : Amsterdam : Springer
+Description: v. : ill.
+Language: English
+ISSN: 0885-7490(Print); 1573-7365(Electronic); 0885-7490(Linking)
+Coden: MBDIEE
+LCCN: 89645534, sn 85005316
+Electronic Links: https://link.springer.com/journal/11011
+Fully Indexed In: MEDLINE: v1n1, 1986-; PubMed: v1n1, 1986-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain Diseases, Metabolic.*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0055799(s)(OCoLC)12712938
+NLM ID: 8610370[Serial]
+
+43. Title Abbreviation: Brain Cogn
+Title(s): Brain and cognition.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Nine no. a year
+Country of Publication: United States
+Publisher: New York : Academic Press, [c1982-
+Description: v. : ill.
+Language: English, English
+ISSN: 0278-2626(Print); 1090-2147(Electronic); 0278-2626(Linking)
+Electronic Links: http://www.sciencedirect.com/science/journal/02782626
+Fully Indexed In: MEDLINE: v3n1, 1984-; PubMed: v3n1, 1984-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain*; Cognition*; Neurophysiology*; Psychophysiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Available also online.
+Other ID: (DNLM)B33025000(s)(OCoLC)07753769
+NLM ID: 8218014[Serial]
+
+44. Author(s): International Society of Cerebral Blood Flow and Metabolism.
+Title Abbreviation: J Cereb Blood Flow Metab
+Title(s): Journal of cerebral blood flow and metabolism : official journal of the
+International Society of Cerebral Blood Flow and Metabolism.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Monthly, 1997-
+Country of Publication: United States
+Publisher: New York : Raven Press, c1981-
+Latest Publisher: 2016- : Thousand Oaks, CA : SAGE Publications
+Description: v. : ill.
+Language: English, English
+ISSN: 0271-678X(Print); 1559-7016(Electronic); 0271-678X(Linking)
+Coden: JCBMDN
+Electronic Links: https://journals.sagepub.com/home/jcb, https://pmc.ncbi.nlm.nih.gov/journals/?term=8112566
+Fully Indexed In: MEDLINE: v1n1, 1981-; Index medicus
+In: PubMed: v1n1, 1981-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain/blood supply*Brain/metabolism*; Cerebrovascular Circulation*
+Publication Type(s): Periodical
+Notes: Title from cover. Supplements accompany some vols. Also issued online.
+Other ID: (DNLM)J15565000(s)(OCoLC)06680300
+NLM ID: 8112566[Serial]
+
+45. Title Abbreviation: Behav Brain Res
+Title(s): Behavioural brain research.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Twenty no. a year, 1999-
+Country of Publication: Netherlands
+Publisher: Amsterdam, Elsevier/North-Holland Biomedical Press.
+Description: v. ill.
+Language: English
+ISSN: 0166-4328(Print); 1872-7549(Electronic); 0166-4328(Linking)
+Coden: BBREDI
+LCCN: sc 84001387, sn 80002854
+Electronic Links: https://www.sciencedirect.com/journal/behavioural-brain-research
+Fully Indexed In: MEDLINE: v1n1,Jan. 1980-; PubMed: v1n1,Jan. 1980-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Behavior/physiology*; Brain/physiology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)06183451(DNLM)B02670000(s)
+NLM ID: 8004872[Serial]
+
+46. Author(s): Nihon Shōni Shinkeigaku Kenkyūkai.
+Title Abbreviation: Brain Dev
+Title(s): Brain & development.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Ten no. a year, 2006-
+Country of Publication: Netherlands
+Publisher: Tokyo, B & D Publishing Society.
+Latest Publisher: 1993- : Amsterdam : Elsevier
+Description: v. ill.
+Language: English
+ISSN: 0387-7604(Print); 1872-7131(Electronic); 0387-7604(Linking)
+LCCN: 96641909, sn 82020852
+Electronic Links: https://www.sciencedirect.com/journal/brain-and-development
+Fully Indexed In: MEDLINE: v1n1, 1979-; Index medicus
+In: PubMed: v1n1, 1979-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain*; Child Development*; Child; Infant; Nervous System Diseases*; Pediatrics*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online. Official journal of the Japanese
+Society of Pediatric Neurology, 1979; Japanese Society of Child Neurology, 1980-
+Other ID: (DNLM)B33030000(s)(OCoLC)05730754
+NLM ID: 7909235[Serial]
+
+47. Title Abbreviation: Behav Brain Sci
+Title(s): The Behavioral and brain sciences.
+Publication Start Year: 1978
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Cambridge [Eng.], New York, Cambridge Univ. Press.
+Description: v. ill.
+Language: English, English
+ISSN: 0140-525X(Print); 1469-1825(Electronic); 0140-525X(Linking)
+Coden: BBSCDH
+Electronic Links: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences
+Fully Indexed In: MEDLINE: v20n1,Mar. 1997-; Index medicus
+In: PubMed: v20n1,Mar. 1997-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Behavioral Sciences*; Cognition*; Neurology*; Psychology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 37, no.6 (Dec. 2014). Also issued online.
+Other ID: (DNLM)B02320000(s)(OCoLC)04172559
+NLM ID: 7808666[Serial]
+
+48. Title Abbreviation: Brain Res Bull
+Title(s): Brain research bulletin.
+Publication Start Year: 1976
+Publication End Year: 
+Frequency: Eighteen no. a year
+Country of Publication: United States
+Publisher: Phoenix, N. Y. ANKHO International Inc.
+Latest Publisher: New York Ny : Elsevier Science
+Description: v. ill.
+Language: English, English
+ISSN: 0361-9230(Print); 1873-2747(Electronic); 0361-9230(Linking)
+Coden: BRBUDU
+Electronic Links: https://www.sciencedirect.com/journal/brain-research-bulletin
+Fully Indexed In: MEDLINE: v1n1,Jan/Feb. 1976-; PubMed: v1n1,Jan/Feb. 1976-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain*; Research*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also available online.
+Other ID: (DNLM)B33200000(s)(OCoLC)02134161
+NLM ID: 7605818[Serial]
+
+49. Title Abbreviation: Brain Lang
+Title(s): Brain and language.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Twelve no. a year, 2001-
+Country of Publication: Netherlands
+Publisher: New York, Academic Press.
+Latest Publisher: <2000- > : Amsterdam : Elsevier
+Description: v. illus.
+Language: English, English
+ISSN: 0093-934X(Print); 1090-2155(Electronic); 0093-934X(Linking)
+Electronic Links: http://www.sciencedirect.com/science/journal/0093934X
+Fully Indexed In: MEDLINE: v2n1, Jan. 1975-; Index medicus
+In: PubMed: v2n1, Jan. 1975-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain*; Language*; Psycholinguistics*; Speech Disorders*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)B33080000(s)(OCoLC)01793424
+NLM ID: 7506220[Serial]
+
+50. Title Abbreviation: No Shinkei Geka
+Title(s): No shinkei geka. Neurological surgery.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Japan
+Publisher: Tokyo, Igaku Shoin.
+Description: v. illus.
+Language: Japanese, English
+ISSN: 0301-2603(Print); 1882-1251(Electronic); 0301-2603(Linking)
+Coden: NOKGB6
+Electronic Links: http://medicalfinder.jp/ejournal/top-03012603.html
+Fully Indexed In: MEDLINE: v2n1,Jan. 1974-; PubMed: v2n1,Jan. 1974-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain/surgery*; Neurosurgery*
+Publication Type(s): Periodical
+Notes: Also issued online. Added table of contents in English. Original articles have
+summaries also in English.
+Other ID: (OCoLC)01350682(DNLM)N28238000(s)
+NLM ID: 0377015[Serial]
+
+51. Author(s): Société d'électroencéphalographie et de neurophysiologie clinique de langue
+française.
+Title Abbreviation: Rev Electroencephalogr Neurophysiol Clin
+Title(s): Revue d'électroencéphalographie et de neurophysiologie clinique.
+Publication Start Year: 1971
+Publication End Year: 1987
+Frequency: Quarterly
+Country of Publication: France
+Publisher: Paris, Masson.
+Latest Publisher: Paris : Editions Scientifique Elsevier
+Description: 17 v. illus.
+Language: French
+ISSN: 0370-4475(Print); 0370-4475(Linking)
+Coden: RENCBH
+LCCN: sn 86012854
+Fully Indexed In: MEDLINE: v2n1,Jan.-Mar. 1972-v17n4, Dec. 1987; PubMed: v2n1,Jan.-Mar. 1972-v17n4, Dec. 1987; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electroencephalography*; Neurophysiology*
+Publication Type(s): Periodical
+Notes: Official organ of the Société d'electroencéphalographie et de neurophysiologie
+clinique de langue francaise.
+Other ID: (DNLM)R42260000(s)(OCoLC)04765500
+NLM ID: 0320770[Serial]
+
+52. Author(s): American Medical Electroencephalographic Association.
+Title Abbreviation: Clin Electroencephalogr
+Title(s): Clinical EEG (electroencephalography).
+Publication Start Year: 1970
+Publication End Year: 2003
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Chicago : Clinical EEG (electroencephalography)
+Latest Publisher: -2003: Wheaton, IL : EEG and Clinical Neuroscience Society
+Description: 34 v. illus.
+Language: English
+ISSN: 0009-9155(Print); 0009-9155(Linking)
+LCCN: sn 80000650
+Electronic Links: https://journals.sagepub.com/home/eeg
+Fully Indexed In: MEDLINE: v9, 1978-v34n4, Oct. 2003; Index medicus
+In: PubMed: v9, 1978-v34n4, Oct. 2003; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electroencephalography*
+Publication Type(s): Periodical
+Notes: Vol. 27, no. 4 (Oct. 1996) misnumbered as v.27, no. 3. Also issued online.
+Official journal of the American Medical Electroencephalographic Association.
+Other ID: (OCoLC)01554931(DNLM)C25220000(s)
+NLM ID: 0236454[Serial]
+
+53. Author(s): American Heart Association.
+Title Abbreviation: Stroke
+Title(s): Stroke.
+Publication Start Year: 1970
+Publication End Year: 
+Frequency: Monthly, 1988-
+Country of Publication: United States
+Publisher: Dallas : American Heart Association
+Latest Publisher: 1998- : Baltimore, Md. : Lippincott Williams & Wilkins
+Description: v. illus.
+Language: English
+ISSN: 0039-2499(Print); 1524-4628(Electronic); 0039-2499(Linking)
+Coden: SJCCA7
+LCCN: 70019475
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00007670-000000000-00000
+Fully Indexed In: MEDLINE: v1n1, Jan./Feb. 1970-; Index medicus
+In: PubMed: v1n1, Jan./Feb. 1970-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cerebrovascular Circulation*; Cerebrovascular Disorders*
+Publication Type(s): Periodical
+Notes: Online variant title: Stroke online. Has occasional supplements. Also issued
+online. Official journal of the American Heart Association.
+Other ID: (DNLM)S43040000(s)(OCoLC)01714534
+NLM ID: 0235266[Serial]
+
+54. Author(s): Nihon Shōni Shinkeigaku Kenkyūkai.
+Title Abbreviation: No To Hattatsu
+Title(s): No to hattatsu = Brain and development.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Japan
+Publisher: Tokyo, Shindan to Chiryosha.
+Description: v. illus.
+Language: Japanese, English
+ISSN: 0029-0831(Print); 1884-7668(Electronic); 0029-0831(Linking)
+Coden: NTHAA7
+Electronic Links: https://www.jstage.jst.go.jp/browse/ojjscn/-char/en
+Fully Indexed In: MEDLINE: v15n1, 1983-v49n3, May 2017; PubMed: v15n1, 1983-v49n3, May 2017; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain Diseases*; Brain*; Child Development*; Child; Infant; Pediatrics*
+Publication Type(s): Periodical
+Notes: English parallel title 'Brain and development' dropped with vol. 15, no. 1
+(1983). Also issued online. Official journal of the Japanese Society of Pediatric
+Neurology.
+Other ID: (OCoLC)08733680(DNLM)N28240000(s)
+NLM ID: 0215224[Serial]
+
+55. Title Abbreviation: Brain Behav Evol
+Title(s): Brain, behavior and evolution.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: 8 no. a year, 2003-
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Description: v. illus.
+Language: English
+ISSN: 0006-8977(Print); 1421-9743(Electronic); 0006-8977(Linking)
+Coden: BRBEBE
+Electronic Links: http://www.karger.com/Journal/Home/223831
+Fully Indexed In: MEDLINE: v3n1, 1970-; PubMed: v3n1, 1970-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Behavior*; Biological Evolution*; Neurophysiology*
+Publication Type(s): Periodical
+Notes: Also available online.
+Other ID: (DNLM)B33020000(s)(OCoLC)01536985
+NLM ID: 0151620[Serial]
+
+56. Author(s): International Brain Research Organization.
+Title Abbreviation: Brain Res
+Title(s): Brain research.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Sixty no. a year, <2010->
+Country of Publication: Netherlands
+Publisher: Amsterdam Elsevier/North-Holland Biomedical Press.
+Description: v. ill.
+Language: English
+ISSN: 0006-8993(Print); 1872-6240(Electronic); 0006-8993(Linking)
+Coden: BRREAP
+LCCN: 68005703
+Electronic Links: https://www.sciencedirect.com/journal/brain-research
+Fully Indexed In: MEDLINE: v1n1,Jan. 1966-; PubMed: v1n1,Jan. 1966-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain*; Neurology*
+Publication Type(s): Periodical
+Notes: Vols. for 19 -1988 include subseries: Brain research reviews; Developmental brain
+research; and: Molecular brain research, which beginning 1989 were issued
+separately as: Brain research. Brain research reviews; Brain research.
+Developmental brain research; and: Brain research. Molecular brain research.
+Author and subject indexes published annually, 1980- Also issued online. Vols.
+for 1973-1975? include a separately paged section with title: IBRO news, which
+consists of the newsletter of the International Brain Research Organization.
+Indexes: Author index; --Vols. 1-125, 1966-Apr. 1977. 1 v; --Vols. 126-159, Apr. 
+1977-Dec. 1978. l v; Subject index; --Vols. 119-138, Jan.-Dec. 1977. 1 v.
+Other ID: (OCoLC)01536986(DNLM)B33180000(s)
+NLM ID: 0045503[Serial]
+
+57. Title Abbreviation: Exp Brain Res
+Title(s): Experimental brain research.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Twenty four no. a year
+Country of Publication: Germany
+Publisher: Berlin : Springer Verlag
+Description: v. illus.
+Language: English
+ISSN: 0014-4819(Print); 1432-1106(Electronic); 0014-4819(Linking)
+Coden: EXBRAP
+Electronic Links: https://link.springer.com/journal/221
+Fully Indexed In: MEDLINE: v1n1, 1966-; Index medicus
+In: PubMed: v1n1, 1966-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain*
+Publication Type(s): Periodical
+Notes: Also issued online. Contributions in English, French, or German, with summaries
+in English.
+Other ID: (OCoLC)03262584(DNLM)E19280000(s)
+NLM ID: 0043312[Serial]
+
+58. Title Abbreviation: Cortex
+Title(s): Cortex; a journal devoted to the study of the nervous system and behavior.
+Publication Start Year: 1964
+Publication End Year: 
+Frequency: Ten no. a year, 2008?-
+Country of Publication: Italy
+Publisher: Varese.
+Latest Publisher: Milan : Masson
+Description: v. illus.
+Language: English
+ISSN: 0010-9452(Print); 1973-8102(Electronic); 0010-9452(Linking)
+Coden: CRTXAX
+Electronic Links: https://www.sciencedirect.com/journal/cortex
+Fully Indexed In: MEDLINE: v5n1,Mar. 1969-; PubMed: v5n1,Mar. 1969-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Behavior*; Neurology*
+Publication Type(s): Periodical
+Notes: Also issued online. Text in English, French, German or Italian.
+Other ID: (DNLM)C50060000(s)(OCoLC)02116577
+NLM ID: 0100725[Serial]
+
+59. Title Abbreviation: Prog Brain Res
+Title(s): Progress in brain research.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Description: v. illus., ports.
+Language: English
+ISSN: 0079-6123(Print); 1875-7855(Electronic); 0079-6123(Linking)
+Coden: PBRRA4
+LCCN: sn 80000092
+Electronic Links: https://www.sciencedirect.com/science/bookseries/00796123
+Fully Indexed In: MEDLINE: v15, 1965-; Index medicus
+In: PubMed: v15, 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain*; Neurology*; Research*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)P47220000(s)(OCoLC)01587158
+NLM ID: 0376441[Serial]
+
+60. Author(s): Institut für Hirnforschung und Allgemeine Biologie.
+Title Abbreviation: J Hirnforsch
+Title(s): Journal für Hirnforschung.
+Publication Start Year: 1954
+Publication End Year: 1999
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: Berlin : Akademie Verlag
+Description: v. illus.
+Language: German, English
+ISSN: 0021-8359(Print); 0021-8359(Linking)
+Coden: JOHIAK
+Fully Indexed In: MEDLINE: v7n2, 1964-v43n4, 1999; PubMed: v7n2, 1964-v43n4, 1999; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Brain*; Neurology*
+Publication Type(s): Periodical
+Notes: Publication suspended 1960-61. Organ of the Institut für Hirnforschung und
+Allgemeine Biologie, Neustadt im Schwarzwald.
+Other ID: (DNLM)J22860000(s)(OCoLC)01754401
+NLM ID: 0421521[Serial]
+
+61. Title Abbreviation: No To Shinkei
+Title(s): Nō to shinkei = Brain and nerve.
+Publication Start Year: 1948
+Publication End Year: 2006
+Frequency: Monthly
+Country of Publication: Japan
+Publisher: Tokyo.
+Latest Publisher: Tōkyō : Igaku Shoin
+Description: v. illus., ports.
+Language: Japanese, English
+ISSN: 0006-8969(Print); 0006-8969(Linking)
+Coden: BRNED8
+Fully Indexed In: MEDLINE: v18n2, 1966-v58n12, 2006; PubMed: v18n2, 1966-v58n12, 2006; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Neurosurgery*
+Publication Type(s): Periodical
+Notes: Table of contents and summaries in English, 1951- Organ of Nippon No-Shinkeigeka 
+Gakkai.
+Other ID: (OCoLC)01607521(DNLM)N28260000(s)
+NLM ID: 0413550[Serial]
+
+62. Author(s): International League against Epilepsy.
+Title Abbreviation: Epilepsia
+Title(s): Epilepsia.
+Publication Start Year: 1909
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Copenhagen : Munskgaard
+Latest Publisher: Malden, MA : Blackwell Science
+Description: v. ill., ports.
+Language: English
+ISSN: 0013-9580(Print); 1528-1167(Electronic); 0013-9580(Linking)
+Coden: EPILAK
+LCCN: med47002300, sn 78005665
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1528-1167
+Fully Indexed In: MEDLINE: v6n3,Sept. 1965-; Index medicus
+In: PubMed: v6n3,Sept. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epilepsy*
+Publication Type(s): Periodical
+Notes: Publication suspended Nov. 1915-Feb. 1937. Vol. 32, Suppl. 4 not published.
+Supplements accompany some vols., 1982?- . Also issued online. Microfilm. v. 1
+(1909)-5 (1915), ser. 2: v. 1 (1937)-4 (1950). 4 microfilm reels : negative ; 35 
+mm. Text in English; some summaries in English and French. Issued by the
+International League against Epilepsy.
+Other ID: (DNLM)E11360000(s)(OCoLC)01568121
+NLM ID: 2983306R[Serial]
+
+63. Author(s): Société de pharmacie de Paris.; Colloque international sur la chlorpromazine et
+les médicaments neuroleptiques en thérapeutique psychiatrique,(1955 : Paris)
+Title Abbreviation: Encephale
+Title(s): L'Encéphale.
+Publication Start Year: 1906
+Publication End Year: 
+Frequency: Six no. a year, <2000- >
+Country of Publication: France
+Publisher: 1906-1996: Paris : Delarue
+Latest Publisher: Paris Masson
+Description: v. illus.,ports.
+Language: French, English, French
+ISSN: 0013-7006(Print); 0013-7006(Linking)
+Coden: ENCEAN
+Electronic Links: https://www.sciencedirect.com/journal/lencephale
+Fully Indexed In: MEDLINE: v53n3,May/Jun. 1964-; PubMed: v53n3,May/Jun. 1964-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Neurology*; Psychiatry*; Psychopharmacology*; Psychosomatic Medicine*
+Publication Type(s): Periodical
+Notes: Subtitle varies. Issues for 45. année, no 4 consist of the proceedings of the
+Colloque international sur la chlorpromazine et les médicaments neuroleptiques en
+thérapeutique psychiatrique, 1955. Some vols. accompanied by supplements.
+Suspended during 1974. Also issued online. Microfilm. v.1 (1906)-v.51 (1962). 51 
+microfilm reels : negative ; 35 mm. Added table of contents in English; summaries
+in English and French. Issued by the Société de psychiatrie de Paris, 1909-30.
+Other ID: (DNLM)E06520000(s)(OCoLC)01350713
+NLM ID: 7505643[Serial]
+
+64. Title Abbreviation: Brain
+Title(s): Brain : a journal of neurology.
+Publication Start Year: 1878
+Publication End Year: 
+Frequency: Monthly, 1997-
+Country of Publication: England
+Publisher: London.
+Latest Publisher: Oxford : Oxford University Press
+Description: v. illus.
+Language: English
+ISSN: 0006-8950(Print); 1460-2156(Electronic); 0006-8950(Linking)
+Coden: BRAIAK
+LCCN: 66084758
+Electronic Links: https://academic.oup.com/brain
+Fully Indexed In: MEDLINE: v88n2,Jun. 1965-; PubMed: v88n2,Jun. 1965-; Abridged index medicus; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Neurology*
+Publication Type(s): Periodical
+Notes: Available also online. Microfilm. v.1(1878)-75(1952),94(1971). 33 microfilm reels
+: negative ; 35 mm. Indexes: Vols. 1-23, 1878-1900. 1 v. Complemented by (work): 
+Brain communications 2632-1297 (OCoLC)1096460459 (DLC) 2020243186
+(DNLM)101755125.
+Other ID: (DNLM)B32980000(s)(OCoLC)01536984
+NLM ID: 0372537[Serial]
+

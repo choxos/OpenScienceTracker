@@ -1,0 +1,1305 @@
+1. Author(s): American Chemical Society,
+Title Abbreviation: ACS Sens
+Title(s): ACS sensors.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, DC : American Chemical Society, [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2379-3694(Electronic); 2379-3694(Linking)
+LCCN: 2015200467
+Electronic Links: http://pubs.acs.org/journal/ascefj
+Fully Indexed In: MEDLINE: v2n1, Jan. 2017-
+In: PubMed: v2n1, Jan. 2017- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biosensing Techniques*
+Publication Type(s): Periodical
+Notes: Numbering from table of contents page.
+Other ID: (OCoLC)909899145
+NLM ID: 101669031[Serial]
+
+2. Author(s): International Union of Crystallography,
+Title Abbreviation: Acta Crystallogr A Found Adv
+Title(s): Acta crystallographica. Section A, Foundations and advances.
+Publication Start Year: 2014
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Malden, MA : John Wiley & Sons Ltd, [2014]-
+Description: 1 online resource
+Language: English
+ISSN: 2053-2733(Electronic); 2053-2733(Linking)
+LCCN: 2014247750
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1107/S20532733
+In: PubMed: v70n1, 2014-; 
+Selectively Indexed in: MEDLINEv70n1, 2014-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Crystallography*
+Publication Type(s): Periodical
+Other ID: (OCoLC)867736904
+NLM ID: 101620182[Serial]
+
+3. Author(s): International Union of Crystallography,
+Title Abbreviation: Acta Crystallogr C Struct Chem
+Title(s): Acta crystallographica. Section C, Structural chemistry.
+Publication Start Year: 2014
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Malden, MA : John Wiley & Sons Ltd, [2014]-
+Latest Publisher: 2014- : Chester : International Union of Crystallography
+Description: 1 online resource
+Language: English
+ISSN: 2053-2296(Electronic); 2053-2296(Linking)
+LCCN: 2014243162
+Electronic Links: http://journals.iucr.org/c/, http://onlinelibrary.wiley.com/journal/10.1107/S20532296
+In: PubMed: v70n1, Jan. 2014-; 
+Selectively Indexed in: MEDLINEv70n1, Jan. 2014-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemical Phenomena; Crystallography*
+Publication Type(s): Periodical
+Other ID: (OCoLC)870137915
+NLM ID: 101620313[Serial]
+
+4. Author(s): International Union of Crystallography,
+Title Abbreviation: Acta Crystallogr B Struct Sci Cryst Eng Mater
+Title(s): Acta crystallographica Section B, Structural science, crystal engineering and
+materials.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford : Wiley-Blackwell, 2013-
+Language: English
+ISSN: 2052-5192(Print); 2052-5206(Electronic); 2052-5192(Linking)
+LCCN: 2013243434
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1107/S20525206
+In: PubMed: v69pt1, Feb. 2013-; 
+Selectively Indexed in: MEDLINEv69pt1, Feb. 2013-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Crystallization*; Crystallography*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 69, pt. 6 (Dec. 2013). Also issued online.
+Other ID: (OCoLC)854908481
+NLM ID: 101609037[Serial]
+
+5. Author(s): International Union of Crystallography,
+Title Abbreviation: Acta Crystallogr F Struct Biol Commun
+Title(s): Acta crystallographica. Section F, Structural biology communications.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Malden, MA : John Wiley & Sons Inc., [2014]-
+Description: 1 online resource
+Language: English
+ISSN: 2053-230X(Electronic); 2053-230X(Linking)
+LCCN: 2014243163
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1107/S2053230X, https://pmc.ncbi.nlm.nih.gov/journals/?term=101620319
+Fully Indexed In: MEDLINE: v70n1, Jan. 2014-
+In: PubMed: v70n1, Jan. 2014-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Crystallization*; Crystallography; Macromolecular Substances
+Publication Type(s): Periodical
+Notes: Some articles in v. 2014 published electronically in 2013.
+Other ID: (OCoLC)870137916
+NLM ID: 101620319[Serial]
+
+6. Title Abbreviation: Methods Appl Fluoresc
+Title(s): Methods and applications in fluorescence.
+Publication Start Year: 2013
+Publication End Year: 
+Country of Publication: England
+Publisher: Bristol : IOP Publishing, 2013-
+Description: 1 online resource
+Language: English
+ISSN: 2050-6120(Electronic); 2050-6120(Linking)
+LCCN: 2014243452
+Electronic Links: http://iopscience.iop.org/journal/2050-6120
+Fully Indexed In: MEDLINE: v4n1, Mar. 2016-
+In: PubMed: v4n1, Mar. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Fluorescence*; Spectrometry, Fluorescence*
+Publication Type(s): Periodical
+Notes: Some articles have video abstracts.
+Other ID: (OCoLC)843127814
+NLM ID: 101608648[Serial]
+
+7. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Anal Methods
+Title(s): Analytical methods : advancing methods and applications.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Cambridge : RSC Pub., 2009-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1759-9660(Print); 1759-9679(Electronic); 1759-9660(Linking)
+LCCN: 2010243323
+Electronic Links: http://www.rsc.org/Publishing/Journals/AY/Index.asp
+Fully Indexed In: MEDLINE: v12n1, Jan. 2020-
+In: PubMed: v12n1, Jan. 2020- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemical Phenomena; Chemistry Techniques, Analytical*
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 2, no. 1 (Jan. 2010). Print issues ceased with v.8
+(2016). Also issued online.
+Other ID: (OCoLC)489019369
+NLM ID: 101519733[Serial]
+
+8. Title Abbreviation: Bioanalysis
+Title(s): Bioanalysis.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Twenty-four issues a year, 2011-
+Country of Publication: England
+Publisher: London : Future Science, 2009-
+Latest Publisher: 2024- : [Milton Park, Oxfordshire] : Taylor & Francis
+Description: v. : ill. (some col.) ; 28 cm.
+Language: English
+ISSN: 1757-6180(Print); 1757-6199(Electronic); 1757-6180(Linking)
+LCCN: 2010243088
+Electronic Links: https://www.tandfonline.com/journals/ibio20, https://pmc.ncbi.nlm.nih.gov/journals/?term=101512484
+Fully Indexed In: MEDLINE: v1n1, Apr. 2009-
+In: PubMed: v1n1, Apr. 2009-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry Techniques, Analytical/methods*; Pharmaceutical Preparations/analysis; Technology, Pharmaceutical
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 1, no. 8 (Nov. 2009). Vol. 1 complete in nine
+issues. Also issued online.
+Other ID: (OCoLC)500521492
+NLM ID: 101512484[Serial]
+
+9. Title Abbreviation: Curr Protoc Chem Biol
+Title(s): Current protocols in chemical biology.
+Publication Start Year: 2009
+Publication End Year: 2020
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons, Inc.
+Language: English
+ISSN: 2160-4762(Electronic); 2160-4762(Linking)
+LCCN: 2011201667
+Electronic Links: http://onlinelibrary.wiley.com/book/10.1002/9780470559277
+Fully Indexed In: MEDLINE: v5n1, 2013-v12n4, Dec. 2020
+In: PubMed: v5n1, 2013-v12n4, Dec. 2020 ; selected citations only before this date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemical Phenomena*
+Publication Type(s): Periodical
+Other ID: (OCoLC)707494231
+NLM ID: 101559235[Serial]
+
+10. Title Abbreviation: Drug Test Anal
+Title(s): Drug testing and analysis.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Bimonthly (twelve no. per year)
+Country of Publication: England
+Publisher: Chichester, UK : John Wiley & Sons
+Language: English
+ISSN: 1942-7603(Print); 1942-7611(Electronic); 1942-7603(Linking)
+LCCN: 2008213114
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1942-7611
+Fully Indexed In: MEDLINE: v1n1, Jan. 2009-
+In: PubMed: v1n1, Jan. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Drug Evaluation*; Pharmaceutical Preparations/analysis
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 & 2 (Jan./Feb. 2009); title from cover.
+Latest issue consulted: Vol. 1, no. 1 & 2 (Jan./Feb. 2009). Twelve issues per
+year published in combined bimonthly issues. Also issued online.
+Other ID: (OCoLC)231680670
+NLM ID: 101483449[Serial]
+
+11. Title Abbreviation: Annu Rev Anal Chem (Palo Alto Calif)
+Title(s): Annual review of analytical chemistry.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, Calif. : Annual Reviews
+Language: English
+ISSN: 1936-1327(Print); 1936-1335(Electronic); 1936-1327(Linking)
+LCCN: 2007215104
+Electronic Links: http://www.annualreviews.org/loi/anchem
+In: PubMed: v1, July 2008-; 
+Selectively Indexed in: MEDLINEv1, July 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry Techniques, Analytical*
+Notes: Description based on first issue; title from title page. Also issued online.
+Other ID: (OCoLC)85479636
+NLM ID: 101508602[Serial]
+
+12. Title Abbreviation: Expert Opin Drug Discov
+Title(s): Expert opinion on drug discovery.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London : Informa Healthcare
+Latest Publisher: 2015- : Abingdon, Oxford : Taylor & Francis
+Language: English
+ISSN: 1746-0441(Print); 1746-045X(Electronic); 1746-0441(Linking)
+LCCN: 2007243327
+Electronic Links: http://www.tandfonline.com/loi/iedc20
+Fully Indexed In: MEDLINE: v7n1, Jan. 2012-
+In: PubMed: v7n1, Jan. 2012- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Drug Design*
+Publication Type(s): PeriodicalReview
+Notes: Description based on: Vol. 1, no. 7 (Dec. 2006); title from cover. Also issued
+online.
+Other ID: (OCoLC)85888972
+NLM ID: 101295755[Serial]
+
+13. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr Sect F Struct Biol Cryst Commun
+Title(s): Acta crystallographica. Section F, Structural biology and crystallization
+communications.
+Publication Start Year: 2005
+Publication End Year: 2013
+Frequency: Monthly
+Country of Publication: England
+Publisher: Chester, England : International Union of Crystallography, c2005-
+Latest Publisher: Oxford, England : Wiley-Blackwell
+Language: English
+ISSN: 1744-3091(Electronic); 1744-3091(Linking)
+LCCN: 2005252448
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1107/S2053230X/issues, https://pmc.ncbi.nlm.nih.gov/journals/?term=101226117
+Fully Indexed In: MEDLINE: v61n1, Jan. 2005-v69n12, Dec. 2013
+In: PubMed: v61n1, Jan. 2005-v69n12, Dec. 2013, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallization*; Crystallography; Macromolecular Substances
+Publication Type(s): Periodical
+Notes: Title on HTML title bar: (IUCr) structural biology and crystallization
+communications online. Title from issue contents screen (publisher Web site,
+viewed Aug. 2, 2005). Latest issue consulted: Vol. 61, pt. 8 (Aug. 2005) (viewed 
+Aug. 2, 2005). Mode of access: World Wide Web.
+Other ID: (OCoLC)56932079
+NLM ID: 101226117[Serial]
+
+14. Title Abbreviation: Profiles Drug Subst Excip Relat Methodol
+Title(s): Profiles of drug substances, excipients, and related methodology.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Netherlands
+Publisher: Amsterdam ; Boston : Elsevier Academic Press, 2003-
+Description: v. : ill. ; 24 cm.
+Language: English
+ISSN: 1871-5125(Print); 1871-5125(Linking)
+LCCN: 2004243091
+Electronic Links: http://www.sciencedirect.com/science/bookseries/18715125/31
+Fully Indexed In: MEDLINE: v37, 2012-
+In: PubMed: v37, 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Excipients/analysisExcipients/chemistry; Pharmaceutical Preparations/analysis*Pharmaceutical Preparations/chemistry
+Notes: Also issued online.
+Other ID: (OCoLC)53979632
+NLM ID: 101197857[Serial]
+
+15. Author(s): Gesellschaft Deutscher Chemiker.; Société française de chimie.; Sociedad
+Española de Química Analítica.
+Title Abbreviation: Anal Bioanal Chem
+Title(s): Analytical and bioanalytical chemistry.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Thirty no. a year, 2011-
+Country of Publication: Germany
+Publisher: Heidelberg : Springer-Verlag, 2002-
+Description: v.
+Language: English
+ISSN: 1618-2642(Print); 1618-2650(Electronic); 1618-2642(Linking)
+LCCN: 2002252156
+Electronic Links: https://link.springer.com/journal/216
+In: PubMed: v372n1, Jan. 2002-; 
+Selectively Indexed in: MEDLINEv372n1, Jan. 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry Techniques, Analytical*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues for 2002-2010 published in 3 v. of 8 issues each; 2011- 
+published in 3 v. of 10 issues each. Also issued online. Issued by: Gesellschaft 
+Deutscher Chemiker; Société française de chimie; and, Sociedad Española de
+Química Analítica.
+Other ID: (OCoLC)48772356
+NLM ID: 101134327[Serial]
+
+16. Title Abbreviation: Assay Drug Dev Technol
+Title(s): Assay and drug development technologies.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Ten no. a year, 2013-
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., c2002-
+Description: v. : ill.
+Language: English
+ISSN: 1540-658X(Print); 1557-8127(Electronic); 1540-658X(Linking)
+LCCN: 2002213649
+Electronic Links: http://online.liebertpub.com/loi/adt
+Fully Indexed In: MEDLINE: v1n1, Nov. 2002-; PubMed: v1n1, Nov. 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Assay/instrumentationBiological Assay/methods; Drug Evaluation, Preclinical/instrumentation*Drug Evaluation, Preclinical/methods*; Technology, Pharmaceutical/instrumentationTechnology, Pharmaceutical/methods
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)50079108
+NLM ID: 101151468[Serial]
+
+17. Title Abbreviation: J Chromatogr B Analyt Technol Biomed Life Sci
+Title(s): Journal of chromatography. B, Analytical technologies in the biomedical and life 
+sciences.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Semimonthly (except one issue in Sept.)
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, c2002-
+Description: v. : ill. ; 27 cm.
+Language: English
+ISSN: 1570-0232(Print); 1873-376X(Electronic); 1570-0232(Linking)
+LCCN: 2002262008
+Electronic Links: http://www.sciencedirect.com/science/journal/15700232
+Fully Indexed In: MEDLINE: v766n1, Jan. 5, 2002-; Index medicus
+In: PubMed: v766n1, Jan. 5, 2002-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chromatography/methods*; Electrophoresis/methods; Spectrum Analysis
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)48846244
+NLM ID: 101139554[Serial]
+
+18. Title Abbreviation: J Sep Sci
+Title(s): Journal of separation science.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: 18 no. a year, 2002-
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH, c2001-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1615-9306(Print); 1615-9314(Electronic); 1615-9306(Linking)
+Coden: JSSCCJ
+LCCN: 2001252320
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1615-9314
+Selectively Indexed in: MEDLINEv27n1-2, Jan. 2004-PubMedv27n1-2, Jan. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chromatography*; Electrophoresis
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 37, no. 24 (Dec. 2014). Also issued
+online.
+Other ID: (OCoLC)45838272
+NLM ID: 101088554[Serial]
+
+19. Author(s): Beaucage,Serge L
+Title Abbreviation: Curr Protoc Nucleic Acid Chem
+Title(s): Current protocols in nucleic acid chemistry/ edited by Serge L. Beaucage ... [et 
+al.].
+Publication Start Year: 2000
+Publication End Year: 2020
+Frequency: Updated every three months
+Country of Publication: United States
+Publisher: New York : Wiley, 2000-2020.
+Language: English
+ISSN: 1934-9289(Electronic); 1934-9270(Print); 1934-9270(Linking)
+LCCN: 2008215486
+Electronic Links: http://onlinelibrary.wiley.com/book/10.1002/0471142700
+Fully Indexed In: MEDLINE: 2000-v83n1, Dec. 2020; PubMed: 2000-v83n1, Dec. 2020
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Nucleic Acids/chemical synthesis*
+Publication Type(s): Laboratory Manual
+Notes: Title from home page (updated July 2006; viewed Sept. 20, 2006). Kept up to date 
+by supplements. Includes bibliographical references. Also issued in print and
+CD-ROM formats. Mode of access: World Wide Web.
+Terms of Use: Restricted to Current protocol subscribers.
+Other ID: (OCoLC)71798090
+NLM ID: 101287865[Electronic Resource]
+
+20. Title Abbreviation: Eur J Mass Spectrom (Chichester)
+Title(s): European journal of mass spectrometry.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Chichester, West Sussex, U.K. : IM Publications, c2000-
+Latest Publisher: 2017- : London, U.K. : SAGE Publishing
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1469-0667(Print); 1751-6838(Electronic); 1469-0667(Linking)
+Coden: EJMSCL
+Electronic Links: https://journals.sagepub.com/loi/emsa
+In: PubMed: v9n1, 2003-; 
+Selectively Indexed in: MEDLINEv9n1, 2003-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mass Spectrometry*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 8, no. 5 (2002). Also issued
+online.
+Other ID: (OCoLC)44845933
+NLM ID: 101124748[Serial]
+
+21. Title Abbreviation: J Capill Electrophor Microchip Technol
+Title(s): Journal of capillary electrophoresis and microchip technology.
+Publication Start Year: 1999
+Publication End Year: 2008
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Shelton, CT : ISC Technical Publications, c1999-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1946-4940(Print); 1946-4940(Linking)
+Coden: JCEMF6
+LCCN: 2006265553
+Fully Indexed In: MEDLINE: v6n1/2, Jan./Apr. 1999-v10n5/6, 2008; Index medicus
+In: PubMed: v6n1/2, Jan./Apr. 1999-v10n5/6, 2008, Chemical abstracts; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electrophoresis, Capillary*; Electrophoresis, Microchip
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (OCoLC)44114813
+NLM ID: 101294946[Serial]
+
+22. Author(s): Microscopy Society of America.; Microbeam Analysis Society.; Microbeam Analysis
+Society. Meeting.; Microscopical Society of Canada.
+Title Abbreviation: Microsc Microanal
+Title(s): Microscopy and microanalysis : the official journal of Microscopy Society of
+America, Microbeam Analysis Society, Microscopical Society of Canada.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: New York, N.Y. : Springer-Verlag New York, 1997-
+Latest Publisher: 2023- : [Oxford] : Oxford University Press
+Description: v. : ill.
+Language: English
+ISSN: 1431-9276(Print); 1435-8115(Electronic); 1431-9276(Linking)
+Coden: MIMIF7
+Electronic Links: https://www.cambridge.org/core/journals/microscopy-and-microanalysis, https://academic.oup.com/mam
+In: PubMed: v8n1, Feb. 2002-; 
+Selectively Indexed in: MEDLINEv8n1, Feb. 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microchemistry; Microscopy
+Publication Type(s): Periodical
+Notes: Title from cover. Supplements accompany some numbers. Also issued online.
+Other ID: (DNLM)SR0090032(s)(OCoLC)36919214
+NLM ID: 9712707[Serial]
+
+23. Title Abbreviation: Enantiomer
+Title(s): Enantiomer.
+Publication Start Year: 1996
+Publication End Year: 2002
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Netherlands : Langhorne, PA : Gordon and Breach ; distributed by International
+Publishers Distributor, c1996-
+Latest Publisher: 2002: Philadelphia, PA : Taylor & Francis
+Description: v.
+Language: English
+ISSN: 1024-2430(Print); 1024-2430(Linking)
+LCCN: sn99-39633
+Selectively Indexed in: MEDLINEv1n1, 1996-v7n6, Nov./Dec. 2002PubMedv1n1, 1996-v7n6, Nov./Dec. 2002Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chromatography; Molecular Conformation; Stereoisomerism
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies.
+Other ID: (DNLM)SR0089219(s)(OCoLC)41640424
+NLM ID: 9612491[Serial]
+
+24. Title Abbreviation: J Mass Spectrom
+Title(s): Journal of mass spectrometry : JMS.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: England
+Publisher: Chichester, UK : Wiley, c1995-
+Description: v. : ill.
+Language: English
+ISSN: 1076-5174(Print); 1096-9888(Electronic); 1076-5174(Linking)
+Coden: JMSPFJ
+LCCN: sn 94005017
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9888c
+In: PubMed: v31n1,Jan. 1996-; 
+Selectively Indexed in: MEDLINEv31n1,Jan. 1996-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mass Spectrometry*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. for 1995 accompanied by Special combined issue of Journal 
+of mass spectrometry, and: Rapid communications in mass spectrometry; dedicated
+to the Third International Symposium on Applied Mass Spectrometry in the Health
+Sciences and the European Tandem Mass Spectrometry Conference, Barcelona, July
+9-13, 1995. Feb. 1996 issue accompanied by diskette entitled: Current literature 
+database, which contains all entries appearing in the Current Literature section 
+during 1995. Also issued online.
+Other ID: (DNLM)SR0082662(s)(OCoLC)30505598
+NLM ID: 9504818[Serial]
+
+25. Title Abbreviation: J Capillary Electrophor
+Title(s): Journal of capillary electrophoresis.
+Publication Start Year: 1994
+Publication End Year: 1998
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Shelton, CT : ISC Technical Publications, Inc., c1994-c1996 i.e. [1998]
+Description: 5 v. : ill.
+Language: English
+ISSN: 1079-5383(Print); 1079-5383(Linking)
+Coden: JCELF3
+LCCN: sn 94003145
+Fully Indexed In: MEDLINE: v2n4, Jul./Aug. 1995-v5n5/6, Sept./Dec. 1998; Index medicus
+In: PubMed: v2n4, Jul./Aug. 1995-v5n5/6, Sept./Dec. 1998; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electrophoresis*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0083061(s)(OCoLC)31431331
+NLM ID: 9507610[Serial]
+
+26. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr D Biol Crystallogr
+Title(s): Acta crystallographica. Section D, Biological crystallography.
+Publication Start Year: 1993
+Publication End Year: 2015
+Frequency: Monthly, 1999-
+Country of Publication: United States
+Publisher: Copenhagen : Published for the International Union of Crystallography by
+Munksgaard, c1993-
+Latest Publisher: Malden, MA : Wiley-Blackwell
+Description: v. : ill.
+Language: English
+ISSN: 0907-4449(Print); 1399-0047(Electronic); 0907-4449(Linking)
+Coden: ABCRE6
+LCCN: 95647565, sn 93039532
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1107/S20597983
+Fully Indexed In: MEDLINE: v54n1, Jan, 1, 1998-v71n12, Dec. 2015; Index medicus
+In: PubMed: v54n1, Jan, 1, 1998-v71n12, Dec. 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallography*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with vol. 69, pt. 12, Dec. 2013. Also
+issued online.
+Other ID: (DNLM)SR0075376(s)(OCoLC)27327092
+NLM ID: 9305878[Serial]
+
+27. Title Abbreviation: J Chromatogr A
+Title(s): Journal of chromatography. A.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Seventy eight no. a year, 2005-
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, 1993-
+Description: v. : ill.
+Language: English
+ISSN: 0021-9673(Print); 1873-3778(Electronic); 0021-9673(Linking)
+Coden: JCRAEY
+LCCN: 94659073, sn 93038589
+Electronic Links: http://www.sciencedirect.com/science/journal/00219673
+Fully Indexed In: MEDLINE: v652n1, Oct. 15, 1993-; Index medicus
+In: PubMed: v652n1, Oct. 15, 1993-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chromatography*; Electrophoresis*
+Publication Type(s): CongressPeriodical
+Notes: Some v. called: Symposium volumes, and some v. called: Bibliography section.
+Bibliography section ceased with v. 981, no. 2 in 2003. Some nos. issued in
+combined form. Also issued online. Indexes: Vols. 651 (1993)-700 (1995), as v.
+701; v. 702 (1995)-750 (1996), as v. 751; v. 802 (1998)-v. 850 (1999) as v. 851.
+Other ID: (DNLM)SR0079068(s)(OCoLC)29336194
+NLM ID: 9318488[Serial]
+
+28. Author(s): AOAC International.
+Title Abbreviation: J AOAC Int
+Title(s): Journal of AOAC International.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Arlington, VA : AOAC International, c1992-
+Latest Publisher: 2020- : Oxford : Oxford University Press
+Description: v. : ill.
+Language: English
+ISSN: 1060-3271(Print); 1944-7922(Electronic); 1060-3271(Linking)
+Coden: JAINEE
+Electronic Links: https://academic.oup.com/jaoac
+Fully Indexed In: MEDLINE: v75n1, 1992-; PubMed: v75n1, 1992-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry Techniques, Analytical/methods*; Chemistry, Agricultural/methods*; Food Analysis*
+Publication Type(s): Periodical
+Notes: Bimonthly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0074883(s)(OCoLC)24929715
+NLM ID: 9215446[Serial]
+
+29. Title Abbreviation: Biol Mass Spectrom
+Title(s): Biological mass spectrometry.
+Publication Start Year: 1991
+Publication End Year: 1994
+Frequency: Monthly
+Country of Publication: England
+Publisher: Chichester, Sussex, England : Wiley, c1991-1994.
+Description: 4 v. : ill.
+Language: English
+ISSN: 1052-9306(Print); 2376-3876(Electronic); 1052-9306(Linking)
+Coden: BIMSEH
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9888b/issues
+In: PubMed: v20n1, 1991-v23n10,Dec. 1994; 
+Selectively Indexed in: MEDLINEv20n1, 1991-v23n10,Dec. 1994Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Mass Spectrometry*
+Publication Type(s): Periodical
+Notes: Monthly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0070473(s)(OCoLC)22416643
+NLM ID: 9102982[Serial]
+
+30. Title Abbreviation: J Fluoresc
+Title(s): Journal of fluorescence.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: New York : Plenum Press, c1991-
+Latest Publisher: Amsterdam : Springer-
+Description: v. : ill.
+Language: English
+ISSN: 1053-0509(Print); 1573-4994(Electronic); 1053-0509(Linking)
+Coden: JOFLEN
+LCCN: 91640739, sn 90003437
+Electronic Links: https://link.springer.com/journal/10895
+In: PubMed: v14n1, Jan. 2004-; 
+Selectively Indexed in: MEDLINEv14n1, Jan. 2004-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Fluorescence*; Spectrometry, Fluorescence*; Spectrum Analysis*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2013. Title from cover. Also issued online.
+Other ID: (DNLM)SR0071721(s)(OCoLC)22439996
+NLM ID: 9201341[Serial]
+
+31. Author(s): American Society for Mass Spectrometry.
+Title Abbreviation: J Am Soc Mass Spectrom
+Title(s): Journal of the American Society for Mass Spectrometry.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Monthly, <1993- >
+Country of Publication: United States
+Publisher: New York, NY : Elsevier, c1990-
+Latest Publisher: 2020- : Washington, DC : ACS Publications
+Description: v. : ill.
+Language: English
+ISSN: 1044-0305(Print); 1879-1123(Electronic); 1044-0305(Linking)
+LCCN: 90649286, sn 89007266
+Electronic Links: https://link.springer.com/journal/13361, https://pubs.acs.org/journal/jamsef
+Selectively Indexed in: MEDLINEv9n1,Jan. 1998-PubMedv9n1,Jan. 1998-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mass Spectrometry*
+Publication Type(s): Periodical
+Notes: Bimonthly. Some issues have supplements. Also issued online.
+Other ID: (DNLM)SR0066219(s)(OCoLC)19650595
+NLM ID: 9010412[Serial]
+
+32. Author(s): International Electrophoresis Society.
+Title Abbreviation: Appl Theor Electrophor
+Title(s): Applied and theoretical electrophoresis : the official journal of the
+International Electrophoresis Society.
+Publication Start Year: 1988
+Publication End Year: 1996
+Frequency: Two no. a year
+Country of Publication: United States
+Publisher: Basingstoke, Hampshire, U.K. : Scientific & Medical Division, Macmillan Press,
+Latest Publisher: Lawrence Ks : Electrophoresis Society
+Description: v. : ill.
+Language: English
+ISSN: 0954-6642(Print); 0954-6642(Linking)
+Coden: ATELEM
+Fully Indexed In: MEDLINE: v1n1, 1988-v6n1, 1996; PubMed: v1n1, 1988-v6n1, 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Electrophoresis*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 2, published 1989. Vol. 5 complete in 2 issues.
+Other ID: (DNLM)SR0064570(s)(OCoLC)19350113
+NLM ID: 8915308[Serial]
+
+33. Title Abbreviation: Rapid Commun Mass Spectrom
+Title(s): Rapid communications in mass spectrometry : RCM.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Twenty four no. a year
+Country of Publication: England
+Publisher: London, UK : Heyden, c1987-
+Latest Publisher: Chichester : John Wiley And Sons Ltd
+Description: v. : ill., ports.
+Language: English
+ISSN: 0951-4198(Print); 1097-0231(Electronic); 0951-4198(Linking)
+Coden: RCMSEF
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0231
+In: PubMed: v1n1,May 1987-; 
+Selectively Indexed in: MEDLINEv1n1,May 1987-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mass Spectrometry*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0061054(s)(OCoLC)16180039
+NLM ID: 8802365[Serial]
+
+34. Title Abbreviation: Biomed Chromatogr
+Title(s): Biomedical chromatography : BMC.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Ten no. a year, 2004-
+Country of Publication: England
+Publisher: London : Heyden & Son, c1986-1990
+Latest Publisher: 1990- : Chichester : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 0269-3879(Print); 1099-0801(Electronic); 0269-3879(Linking)
+Coden: BICHE2
+LCCN: sn 88026334
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0801
+Fully Indexed In: MEDLINE: v1n1,Feb. 1986-; PubMed: v1n1,Feb. 1986-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Chromatography/methods*; Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Print issues ceased with 2013. Also issued
+online.
+Other ID: (DNLM)SR0056614(s)(OCoLC)13501997
+NLM ID: 8610241[Serial]
+
+35. Title Abbreviation: Biomed Environ Mass Spectrom
+Title(s): Biomedical & environmental mass spectrometry.
+Publication Start Year: 1986
+Publication End Year: 1990
+Frequency: Twelve no. a year
+Country of Publication: England
+Publisher: Chichester, Sussex : J. Wiley, c1986-c1990.
+Description: 7 v. : ill.
+Language: English
+ISSN: 0887-6134(Print); 0887-6134(Linking)
+Coden: BEMSEN
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9888b
+In: PubMed: v13n1,Jan. 1986-v19n13,Dec. 1990; 
+Selectively Indexed in: MEDLINEv13n1,Jan. 1986-v19n13,Dec. 1990Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Mass Spectrometry*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0055910(s)(OCoLC)13084513
+NLM ID: 8603224[Serial]
+
+36. Author(s): Nihon Bunseki Kagakkai.
+Title Abbreviation: Anal Sci
+Title(s): Analytical sciences : the international journal of the Japan Society for
+Analytical Chemistry.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Monthly, 1999-
+Country of Publication: Switzerland
+Publisher: Tokyo : The Society, [1985-
+Latest Publisher: 2022- : [Cham] : Springer
+Description: v. : ill.
+Language: English
+ISSN: 0910-6340(Print); 1348-2246(Electronic); 0910-6340(Linking)
+Coden: ANSCEN
+LCCN: sn 86031135
+Electronic Links: https://www.jstage.jst.go.jp/browse/analsci, https://www.springer.com/journal/44211
+Selectively Indexed in: MEDLINEv17n1, Jan. 2001-PubMedv17n1, Jan. 2001-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry Techniques, Analytical*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0054047(s)(OCoLC)12754332
+NLM ID: 8511078[Serial]
+
+37. Author(s): Zhongguo hua xue hui (Beijing, China)
+Title Abbreviation: Se Pu
+Title(s): Se pu = Chinese journal of chromatography/ Zhongguo hua xue hui.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: China
+Publisher: Dalian Shi : Hua xue za zhi she
+Description: v. : ill.
+Language: Chinese, English
+ISSN: 1000-8713(Print); 1872-2059(Electronic); 1000-8713(Linking)
+Coden: SEPUER
+LCCN: 85-644230
+Electronic Links: https://www.chrom-china.com/EN/1000-8713/home.shtml, https://pmc.ncbi.nlm.nih.gov/journals/?term=9424804
+In: PubMed: v15n1,Jan. 1997-, PMC; 
+Selectively Indexed in: MEDLINEv15n1,Jan. 1997-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chromatography*; Electrophoresis*
+Publication Type(s): Periodical
+Notes: Description based on: 1985, 3; title from cover. Also issued online.
+Other ID: (DNLM)SR0064858(s)(OCoLC)12783801
+NLM ID: 9424804[Serial]
+
+38. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr A
+Title(s): Acta crystallographica. Section A, Foundations of crystallography.
+Publication Start Year: 1983
+Publication End Year: 2013
+Frequency: Bimonthly, 1991-
+Country of Publication: United States
+Publisher: Copenhagen : Published for the International Union of Crystallography by
+Munksgaard, c1983-
+Latest Publisher: Malden, MA : Wiley-Blackwell Pub.
+Description: v. : ill.
+Language: English, French, German, English
+ISSN: 0108-7673(Print); 1600-5724(Electronic); 0108-7673(Linking)
+Coden: ACACEQ
+LCCN: 86643047, 94640589, sn 94043189, sc 83007784, sn 83008489
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1107/S20532733
+In: PubMed: v44n1, 1988-v69n6, 2013; 
+Selectively Indexed in: MEDLINEv44n1, 1988-v69n6, 2013Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallography*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues for Jan.-Sept. 1994 have section title: Fundamentals of 
+crystallography. Print issues ceased with 2013. Some vols. accompanied by
+supplements for the collected abstracts of the International Union of
+Crystallography congresses. Also issued online. Articles in English, French or
+German; summaries in English.
+Other ID: (OCoLC)09247058(DNLM)A05110000(s)
+NLM ID: 8305825[Serial]
+
+39. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr B
+Title(s): Acta crystallographica. Section B, Structural science.
+Publication Start Year: 1983
+Publication End Year: 2012
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Copenhagen : Published for the International Union of Crystallography by
+Munksgaard, c1983-
+Latest Publisher: <2004- > : Malden, MA : Wiley-Blackwell
+Description: v. : ill.
+Language: English, French, German, English
+ISSN: 0108-7681(Print); 1600-5740(Electronic); 0108-7681(Linking)
+Coden: ASBSDK
+LCCN: 86643049, sn 83008519
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1107/S20525206/issues
+In: PubMed: v44n1, 1988-v68n6, Dec. 2012; 
+Selectively Indexed in: MEDLINEv44n1, 1988-v68n6, Dec. 2012Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallization*; Crystallography*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Articles in English, French or German;
+summaries in English.
+Other ID: (OCoLC)09375674(DNLM)A05116000(s)
+NLM ID: 8403252[Serial]
+
+40. Author(s): International Union of Crystallography.
+Title Abbreviation: Acta Crystallogr C
+Title(s): Acta crystallographica. Section C, Crystal structure communications.
+Publication Start Year: 1983
+Publication End Year: 2013
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Copenhagen : Published for the International Union of Crystallography by
+Munksgaard, c1983-
+Latest Publisher: <2008- > : Malden, MA : Wiley-Blackwell
+Description: v. : ill.
+Language: English, French, German, English
+ISSN: 0108-2701(Print); 1600-5759(Electronic); 0108-2701(Linking)
+Coden: ACSCEE
+LCCN: 86643050, sc 83007475, sn 83011270
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1107/S20532296/issues
+In: PubMed: v44n1, 1988-v69n12, Dec. 2013; 
+Selectively Indexed in: MEDLINEv44n1, 1988-v69n12, Dec. 2013Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Crystallography*
+Publication Type(s): Periodical
+Notes: Online version has title: Crystal structure communications online. Title from
+cover. Also issued online. Articles in English, French or German; summaries in
+English.
+Other ID: (OCoLC)09210431(DNLM)A05120000(s)
+NLM ID: 8305826[Serial]
+
+41. Title Abbreviation: Mass Spectrom Rev
+Title(s): Mass spectrometry reviews.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York : Wiley, [c1982-
+Description: v. : ill.
+Language: English
+ISSN: 0277-7037(Print); 1098-2787(Electronic); 0277-7037(Linking)
+Coden: MSRVD3
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2787
+Selectively Indexed in: MEDLINEv16n1,Jan.-Feb. 1997-PubMedv16n1,Jan.-Feb. 1997-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mass Spectrometry*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)M04922000(s)(OCoLC)07626296
+NLM ID: 8219702[Serial]
+
+42. Author(s): Zhongguo guang xue xue hui.
+Title Abbreviation: Guang Pu Xue Yu Guang Pu Fen Xi
+Title(s): Guang pu xue yu guang pu fen xi = Guang pu.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: China
+Publisher: Beijing : Beijing da xue chu ban she,
+Latest Publisher: Beijing : Beijing da xue chu ban she
+Description: v. : ill.
+Language: Chinese, English
+ISSN: 1000-0593(Print); 1000-0593(Linking)
+Coden: GYGFED
+LCCN: 92-644917
+Electronic Links: http://www.gpxygpfx.com/
+In: PubMed: v17n1, 1997-v37n3, 2017; 
+Selectively Indexed in: MEDLINEv17n1, 1997-v37n3, 2017Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Spectrum Analysis*
+Publication Type(s): Periodical
+Notes: Description based on: 1982, 3-4; title from cover. Issues for 1982, 3-4?- called 
+also di 2 juan di 3,4 qi?- Some issues published in combined form. Also issued
+online. In Chinese; summaries in English. Issued by: Zhongguo guang xue xue hui, 
+1987-.
+Other ID: (DNLM)SR0064850(s)(OCoLC)25623370
+NLM ID: 9424805[Serial]
+
+43. Author(s): Chemical Rubber Company.
+Title Abbreviation: Crit Rev Anal Chem
+Title(s): Critical reviews in analytical chemistry/ CRC.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Boca Raton, Fla. : CRC Press, 1980-
+Latest Publisher: Philadelphia, PA : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1040-8347(Print); 1547-6510(Electronic); 1040-8347(Linking)
+LCCN: 87658565
+Electronic Links: http://www.tandfonline.com/loi/batc20
+Fully Indexed In: MEDLINE: v44n1, 2014-
+In: PubMed: v44n1, 2014-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry Techniques, Analytical*
+Publication Type(s): Periodical
+Notes: Quarterly. Also issued online.
+Other ID: (DNLM)SR0067055(s)(OCoLC)15335326
+NLM ID: 9004784[Serial]
+
+44. Author(s): Electrophoresis Society.
+Title Abbreviation: Electrophoresis
+Title(s): Electrophoresis.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Twenty-four no. a year 2002
+Country of Publication: Germany
+Publisher: [Weinheim, Germany] : Verlag Chemie, [1980-
+Latest Publisher: <Oct. 2004->: Weinheim : Wiley-VCH
+Description: v. : ill.
+Language: English, English
+ISSN: 0173-0835(Print); 1522-2683(Electronic); 0173-0835(Linking)
+Coden: ELCTDN
+LCCN: 83640492, sc 82005054, sn 81006599
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2683
+Fully Indexed In: MEDLINE: v9n1, 1988-; PubMed: v9n1, 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Electrophoresis*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the Electrophoresis
+Society.
+Other ID: (DNLM)E05370000(s)(OCoLC)07297725
+NLM ID: 8204476[Serial]
+
+45. Title Abbreviation: Biomed Mass Spectrom
+Title(s): Biomedical mass spectrometry.
+Publication Start Year: 1974
+Publication End Year: 1985
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, Heydon & Son.
+Latest Publisher: London : Heyden And Son
+Description: 12 v. : ill.
+Language: English
+ISSN: 0306-042X(Print); 0306-042X(Linking)
+Coden: BMSYAL
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9888b
+In: PubMed: v1n1,Feb. 1974-v12n12,Dec. 1985; 
+Selectively Indexed in: MEDLINEv1n1,Feb. 1974-v12n12,Dec. 1985Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Mass Spectrometry*
+Publication Type(s): Periodical
+Notes: Also issued online. Indexes: Vols. 1-5, 1974-78. 1 v.
+Other ID: (DNLM)B18400000(s)(OCoLC)02241003
+NLM ID: 0430246[Serial]
+
+46. Title Abbreviation: Int J Environ Anal Chem
+Title(s): International journal of environmental analytical chemistry.
+Publication Start Year: 1971
+Publication End Year: 
+Frequency: Fifteen no. a year, <2006->
+Country of Publication: England
+Publisher: New York, Gordon and Breach.
+Latest Publisher: London : Taylor & Francis
+Description: v. illus.
+Language: English
+ISSN: 0306-7319(Print); 1029-0397(Electronic); 0306-7319(Linking)
+Coden: IJEAA3
+LCCN: 74648494
+Electronic Links: https://www.tandfonline.com/toc/geac20/current
+Selectively Indexed in: MEDLINEv1n1,Aug. 1971-v29n4, 1987PubMedv1n1,Aug. 1971-v29n4, 1987Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry*; Environment*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English, French, or German.
+Other ID: (DNLM)I26780000(s)(OCoLC)01796569
+NLM ID: 0331757[Serial]
+
+47. Title Abbreviation: J Chromatogr Sci
+Title(s): Journal of chromatographic science.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Ten no. a year, 2002-
+Country of Publication: United States
+Publisher: Niles Il : Preston Technical Abstracts
+Latest Publisher: <2012- > : Oxford : Oxford University Press
+Description: v. ill.
+Language: English
+ISSN: 0021-9665(Print); 1945-239X(Electronic); 0021-9665(Linking)
+Coden: JCHSBZ
+LCCN: 74645019
+Electronic Links: https://academic.oup.com/chromsci
+Selectively Indexed in: MEDLINEv10n1,Jan. 1972-PubMedv10n1,Jan. 1972-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chromatography*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J16360000(s)(OCoLC)01794207
+NLM ID: 0173225[Serial]
+
+48. Author(s): Association of Official Analytical Chemists.
+Title Abbreviation: J Assoc Off Anal Chem
+Title(s): Journal - Association of Official Analytical Chemists.
+Publication Start Year: 1966
+Publication End Year: 1991
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Washington [etc.]
+Latest Publisher: Arlington, Va : Association of Official Analytical Chemists
+Description: 26 v. ill., ports.
+Language: English
+ISSN: 0004-5756(Print); 0004-5756(Linking)
+Coden: JANCA2
+Selectively Indexed in: MEDLINEv54n1,Jan. 1971-1991PubMedv54n1,Jan. 1971-1991Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chemistry, Agricultural*; Food Analysis*
+Publication Type(s): Periodical
+Notes: Ceased with v. 74 in 1991. Indexes: Vols. 49-58, 1966-75. 1 v.
+Other ID: (DNLM)J13460000(s)(OCoLC)01034419
+NLM ID: 7505559[Serial]
+
+49. Author(s): Giddings,J Calvin(John Calvin),1930-
+Title Abbreviation: Adv Chromatogr
+Title(s): Advances in chromatography.
+Publication Start Year: 1965
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York, Dekker.
+Latest Publisher: <2005- > : Boca Raton : CRC Press
+Description: v. illus.
+Language: English
+ISSN: 0065-2415(Print); 0065-2415(Linking)
+Coden: ADCYA3
+LCCN: 65-27435
+In: PubMed: 9, 1970-v53, 2017; 
+Selectively Indexed in: MEDLINE9, 1970-v53, 2017Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chromatography*
+Publication Type(s): Periodical
+Notes: Editors: 1965- J. C. Giddings and R. A. Keller.
+Other ID: (DNLM)A13590000(s)(OCoLC)01373446
+NLM ID: 0121020[Serial]
+
+50. Title Abbreviation: J Chromatogr
+Title(s): Journal of chromatography.
+Publication Start Year: 1958
+Publication End Year: 1994
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: Amsterdam, Elsevier.
+Description: v. ill.
+Language: English, French, German, English, French, German
+ISSN: 
+Coden: JOCRAM
+LCCN: a  60003657
+Electronic Links: http://www.sciencedirect.com/science/journal/00219673, http://www.sciencedirect.com/science/journal/03784347
+In: OLDMEDLINE
+Selectively Indexed in: MEDLINEv18n3,Jun. 1965-v651,May 1994PubMedv18n3,Jun. 1965-v651,May 1994Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Chromatography*; Electrophoresis*
+Publication Type(s): Periodical
+Notes: Includes annual index issues, 1982/83?- . Some issues also called:
+Chromatographic reviews; Biomedical applications (vols 612-622); Symposium
+volumes; Bibliography section, and bear volume numbering of main title. Also
+issued online. Articles and some summaries in English, French, or German.
+Indexes: Vols. 151-250, 1978-1982, in v. 263.
+Other ID: (OCoLC)00987924(DNLM)J16380000(s)
+NLM ID: 0427043[Serial]
+
+51. Title Abbreviation: Talanta
+Title(s): Talanta.
+Publication Start Year: 1958
+Publication End Year: 
+Frequency: 18 no. a year, 2000-
+Country of Publication: Netherlands
+Publisher: Oxford : Pergamon Press
+Latest Publisher: Amsterdam : Elsevier
+Description: v. : ill., ports.
+Language: Multiple languages
+ISSN: 0039-9140(Print); 1873-3573(Electronic); 0039-9140(Linking)
+Coden: TLNTA2
+LCCN: 58004774
+Electronic Links: http://www.sciencedirect.com/science/journal/00399140
+Fully Indexed In: MEDLINE: v74n1, Nov. 15, 2007-
+In: PubMed: v74n1, Nov. 15, 2007-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry Techniques, Analytical*
+Person As Subject: Kolthoff,Isaak Maurits
+Publication Type(s): Periodical
+Notes: Title also in Greek. "Kolthoff honour issue," Feb. 1964, honors Isaak Maurits
+Kolthoff. Also issued online. Title in Greek. Articles in English, French, or
+German, with summaries in the other two languages, and in Russian.
+Other ID: (DNLM)T01840000(s)(OCoLC)01767116
+NLM ID: 2984816R[Serial]
+
+52. Author(s): Society for Applied Spectroscopy.
+Title Abbreviation: Appl Spectrosc
+Title(s): Applied spectroscopy.
+Publication Start Year: 1951
+Publication End Year: 
+Frequency: Monthly, 1992-
+Country of Publication: United States
+Publisher: Plainfield, N. J., Society for Applied Spectroscopy.
+Latest Publisher: 2016- : Thousand Oaks, CA : Sage
+Description: v. illus., ports.
+Language: English
+ISSN: 0003-7028(Print); 1943-3530(Electronic); 0003-7028(Linking)
+Coden: APSPA4
+Electronic Links: https://www.osapublishing.org/as/home.cfm, https://journals.sagepub.com/home/asp
+In: PubMed: v57n1, Jan. 2003-; 
+Selectively Indexed in: MEDLINEv57n1, Jan. 2003-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Spectrum Analysis*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)A57825000(s)(OCoLC)01577663
+NLM ID: 0372406[Serial]
+
+53. Title Abbreviation: Anal Chim Acta
+Title(s): Analytica chimica acta.
+Publication Start Year: 1947
+Publication End Year: 
+Frequency: Fifty no. a year, 2002-
+Country of Publication: Netherlands
+Publisher: Amsterdam.
+Latest Publisher: Amsterdam : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0003-2670(Print); 1873-4324(Electronic); 0003-2670(Linking)
+Coden: ACACAM
+Electronic Links: https://www.sciencedirect.com/journal/analytica-chimica-acta
+Selectively Indexed in: MEDLINEv34n1,Jan. 1966-v96n2,Feb. 1, 1978; v581n1, Jan. 2, 2007-PubMedv34n1,Jan. 1966-v96n2,Feb. 1, 1978; v581n1, Jan. 2, 2007-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Chemistry Techniques, Analytical*
+Publication Type(s): Periodical
+Notes: Also available online. Articles in English, French or German, with summaries in
+all three languages. Complemented by (work): Analytica chimica acta: X 2590-1346 
+(DLC) 2020256186 (OCoLC)1125644869 (DNLM)101772417.
+Other ID: (DNLM)A29820000(s)(OCoLC)01716731
+NLM ID: 0370534[Serial]
+
+54. Author(s): American Chemical Society.
+Title Abbreviation: Anal Chem
+Title(s): Analytical chemistry.
+Publication Start Year: 1947
+Publication End Year: 
+Frequency: Twenty four no. a year
+Country of Publication: United States
+Publisher: Washington, American Chemical Society.
+Description: v. illus., ports.
+Language: English
+ISSN: 0003-2700(Print); 1520-6882(Electronic); 0003-2700(Linking)
+Coden: ANCHAM
+Electronic Links: http://pubs.acs.org/journals/ancham/index.html
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv37n11,Oct. 1965-PubMedv37n11,Oct. 1965-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry Techniques, Analytical*
+Publication Type(s): Periodical
+Notes: Includes 1949?- annual review issues (applications reviews and fundamental
+reviews in alternate years); 1964-65, Buyers guide (formerly issued as part of
+the review issues). Also issued online.
+Other ID: (DNLM)A29880000(s)(OCoLC)01481078
+NLM ID: 0370536[Serial]
+
+55. Author(s): Royal Society of Chemistry (Great Britain); Society for Analytical Chemistry.;
+Society of Public Analysts (Great Britain); Society of Public Analysts and Other 
+Analytical Chemists (Great Britain)
+Title Abbreviation: Analyst
+Title(s): The Analyst.
+Publication Start Year: 1876
+Publication End Year: 
+Frequency: Twenty four no. a year, 2011-
+Country of Publication: England
+Publisher: London : Chemical Society
+Latest Publisher: Cambridge : Royal Society of Chemistry
+Description: v. illus.
+Language: English
+ISSN: 0003-2654(Print); 1364-5528(Electronic); 0003-2654(Linking)
+Coden: ANALAO
+Electronic Links: http://www.rsc.org/analyst
+In: PubMed: v90n73, Aug. 1965-, OLDMEDLINE
+Selectively Indexed in: MEDLINEv90n73, Aug. 1965-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chemistry Techniques, Analytical*
+Publication Type(s): Periodical
+Notes: Vols. for 1876-<, June 1954-> include Proceedings of the society. Issued by:
+Society of Public Analysts, 1876-Sept. 1907; the Society of Public Analysts and
+Other Analytical Chemists, Oct. 1907-Dec. 1953; the Society for Analytical
+Chemistry, <June 1954-> ; Chemical Society, <June 1975-> ; Royal Chemical
+Society, <July 1981-> . Print issues ceased with v. 144 (2019). Issues for
+1876-78 have no vol. numbering, but constitute v. 1-3. Also issued online.
+Microfilm. v.1(1876)-17(1892). 4 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)A29805000(s)(OCoLC)01481074
+NLM ID: 0372652[Serial]
+

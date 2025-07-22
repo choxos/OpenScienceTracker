@@ -1,0 +1,2435 @@
+1. Title Abbreviation: Curr Protoc
+Title(s): Current protocols.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons, [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2691-1299(Electronic); 2691-1299(Linking)
+LCCN: 2020200082
+Electronic Links: https://currentprotocols.onlinelibrary.wiley.com/
+Fully Indexed In: MEDLINE: v1n1, Jan. 2021-
+In: PubMed: v1n1, Jan. 2021-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*
+Publication Type(s): Periodical
+Other ID: (OCoLC)1147703173
+NLM ID: 101773894[Serial]
+
+2. Author(s): Springer Nature (Firm),
+Title Abbreviation: Nat Comput Sci
+Title(s): Nature computational science.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [New York, N.Y.] : Springer Nature, [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2662-8457(Electronic); 2662-8457(Linking)
+LCCN: 2021225016
+Electronic Links: https://www.nature.com/natcomputsci
+Fully Indexed In: MEDLINE: v1n1, Jan. 2021-
+In: PubMed: v1n1, Jan. 2021-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computing Methodologies.*; Models, Theoretical; Science*; Technology
+Publication Type(s): Periodical
+Other ID: (OCoLC)1240120742
+NLM ID: 101775476[Serial]
+
+3. Title Abbreviation: STAR Protoc
+Title(s): STAR protocols.
+Publication Start Year: 2020
+Publication End Year: 
+Country of Publication: United States
+Publisher: [Cambridge, MA] : Cell Press, [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2666-1667(Electronic); 2666-1667(Linking)
+LCCN: 2020243192
+Electronic Links: https://www.sciencedirect.com/journal/star-protocols, https://pmc.ncbi.nlm.nih.gov/journals/?term=101769501
+Fully Indexed In: MEDLINE: v1n1, June 2020-
+In: PubMed: v1n1, June 2020-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Research/methods*; Clinical Laboratory Techniques*; Clinical Trial Protocols as Topic; Reproducibility of Results
+Publication Type(s): Periodical
+Other ID: (OCoLC)1159167791
+NLM ID: 101769501[Serial]
+
+4. Author(s): American Association for the Advancement of Science,
+Title Abbreviation: Sci Adv
+Title(s): Science advances.
+Publication Start Year: 2015
+Publication End Year: 
+Country of Publication: United States
+Publisher: Washington, DC : American Association for the Advancement of Science, [2015]-
+Description: 1 online resource
+Language: English
+ISSN: 2375-2548(Electronic); 2375-2548(Linking)
+LCCN: 2014203143
+Electronic Links: https://www.science.org/journal/sciadv, https://pmc.ncbi.nlm.nih.gov/journals/?term=101653440
+Fully Indexed In: MEDLINE: v2n1, Jan. 2016-
+In: PubMed: v1n1, Feb. 2015-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*
+Publication Type(s): Periodical
+Notes: Numbering from content page.
+Other ID: (OCoLC)892343396
+NLM ID: 101653440[Serial]
+
+5. Author(s): Zhongguo ke xue yuan,; Guo jia zi ran ke xue ji jin wei yuan hui (China),
+Title Abbreviation: Sci Bull (Beijing)
+Title(s): Science bulletin.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Semimonthly
+Country of Publication: Netherlands
+Publisher: Beijing : Berlin ; Heidelberg : Science China Press ; Springer-Verlag, 2015-
+Latest Publisher: 2017- : Amsterdam : Beijing : Elsevier B.V. ; Science China Press
+Description: volumes ; 26 cm.
+Language: English
+ISSN: 2095-9273(Print); 2095-9281(Electronic); 2095-9273(Linking)
+LCCN: 2016243048
+Electronic Links: https://www.sciencedirect.com/journal/science-bulletin
+Fully Indexed In: MEDLINE: v67n1, Jan. 2022-
+In: PubMed: v67n1, Jan. 2022-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v.61 (2016). Also issued online.
+Other ID: (OCoLC)925539521
+NLM ID: 101655530[Serial]
+
+6. Author(s): COSPAR,
+Title Abbreviation: Life Sci Space Res (Amst)
+Title(s): Life sciences in space research.
+Publication Start Year: 2014
+Publication End Year: 
+Frequency: Three times a year
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Ltd, [2014]-
+Language: English
+ISSN: 2214-5524(Print); 2214-5532(Electronic); 2214-5524(Linking)
+LCCN: 2015243338
+Electronic Links: http://www.sciencedirect.com/science/journal/22145524
+Fully Indexed In: MEDLINE: v4n1, Jan. 2015-
+In: PubMed: v4n1, Jan. 2015- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*; Ecological Systems, Closed; Extraterrestrial Environment; Radiation Effects
+Publication Type(s): Periodical
+Notes: Also issued online. Replaces the Life Sciences section of : Advances in space
+research 1879-1948 (DLC) 2002242075 (OCoLC)38492365.
+Other ID: (OCoLC)880497580
+NLM ID: 101632373[Serial]
+
+7. Title Abbreviation: Sci Data
+Title(s): Scientific data.
+Publication Start Year: 2014
+Publication End Year: 
+Country of Publication: England
+Publisher: London : Nature Publishing Group, 2014-
+Description: 1 online resource
+Language: English
+ISSN: 2052-4463(Electronic); 2052-4463(Linking)
+LCCN: 2014254717
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101640192, http://www.nature.com/sdata/
+Fully Indexed In: MEDLINE: v1, 2014-
+In: PubMed: v1, 2014-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Data Collection/methods; Data Mining; Information Storage and Retrieval*
+Publication Type(s): DatasetPeriodical
+Notes: Mode of access: World Wide Web.
+Other ID: (OCoLC)880900611
+NLM ID: 101640192[Serial]
+
+8. Title Abbreviation: F1000Res
+Title(s): F1000Research.
+Publication Start Year: 2012
+Publication End Year: 
+Country of Publication: England
+Publisher: London : F1000 Research Ltd
+Language: English
+ISSN: 2046-1402(Electronic); 2046-1402(Linking)
+LCCN: 2013243090
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101594320, http://f1000research.com/
+Fully Indexed In: MEDLINE: v7, 2018-
+In: PubMed: v1, 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Research*
+Publication Type(s): Periodical
+Notes: Title from home page (publisher's Web site, viewed on Feb. 5, 2013). Mode of
+access: World Wide Web.
+Other ID: (OCoLC)827778978
+NLM ID: 101594320[Serial]
+
+9. Author(s): Paleopathology Association,
+Title Abbreviation: Int J Paleopathol
+Title(s): International journal of paleopathology.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Four issues a year
+Country of Publication: Netherlands
+Publisher: [New York, NY] : Elsevier
+Latest Publisher: <Mar. 2013-> : Amsterdam : Elsevier
+Language: English
+ISSN: 1879-9817(Print); 1879-9825(Electronic); 1879-9817(Linking)
+LCCN: 2013207087
+Electronic Links: http://www.sciencedirect.com/science/journal/18799817
+Fully Indexed In: MEDLINE: v16, Mar. 2017-
+In: PubMed: v16, Mar. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mummies/pathology; Paleopathology*
+Publication Type(s): Periodical
+Notes: Official journal of the Paleopathology Association. Also issued online.
+Other ID: (OCoLC)853508384
+NLM ID: 101562474[Serial]
+
+10. Title Abbreviation: Sci Rep
+Title(s): Scientific reports.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Continuously updated
+Country of Publication: England
+Publisher: London : Nature Publishing Group, copyright 2011-
+Language: English
+ISSN: 2045-2322(Electronic); 2045-2322(Linking)
+LCCN: 2011250880
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101563288, http://www.nature.com/srep/index.html
+In: PubMed: v1, 2011-, PMC; 
+Selectively Indexed in: MEDLINEv1, 2011-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Natural Science Disciplines*
+Publication Type(s): Periodical
+Other ID: (OCoLC)732869387
+NLM ID: 101563288[Serial]
+
+11. Title Abbreviation: Exp Suppl
+Title(s): Experientia. Supplementum.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Basel : Springer Basel AG
+Language: English
+ISSN: 1664-431X(Print); 2504-3692(Electronic); 1664-431X(Linking)
+LCCN: 2021229622
+Electronic Links: https://www.springer.com/series/4822
+Fully Indexed In: MEDLINE: v101, 2012-
+In: PubMed: v101, 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medicine*; Science*
+Publication Type(s): Periodical
+Notes: Volume 102 has copyright date of 2010. Also issued online.
+Other ID: (OCoLC)1248766690
+NLM ID: 101738007[Serial]
+
+12. Author(s): Jāmiʻat al-Qāhirah.
+Title Abbreviation: J Adv Res
+Title(s): Journal of advanced research.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Six issues a year, 2013-
+Country of Publication: Egypt
+Publisher: [Giza, Egypt] : Cairo University, production and hosting by Elsevier B. V.
+Language: English
+ISSN: 2090-1224(Electronic); 2090-1232(Print); 2090-1224(Linking)
+LCCN: 2010263115
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-advanced-research, https://pmc.ncbi.nlm.nih.gov/journals/?term=101546952
+Fully Indexed In: MEDLINE: v27, Jan. 2021-
+In: PubMed: v4n1, Jan. 2013-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medicine*
+Publication Type(s): Periodical
+Notes: Official journal of Cairo University.
+Other ID: (OCoLC)558634796
+NLM ID: 101546952[Serial]
+
+13. Title Abbreviation: Nat Commun
+Title(s): Nature communications.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: [London] : Nature Pub. Group
+Language: English
+ISSN: 2041-1723(Electronic); 2041-1723(Linking)
+LCCN: 2010243380
+Electronic Links: http://www.nature.com/ncomms/index.html, https://pmc.ncbi.nlm.nih.gov/journals/?term=101528555
+Fully Indexed In: MEDLINE: v1, 2010-
+In: PubMed: v1, 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*
+Publication Type(s): Periodical
+Notes: Description based on: Apr. 2010; title from HTML header (publisher's Web site,
+viewed Apr. 22, 2010). Latest issue consulted: Apr. 2010 (viewed Apr. 22, 2010). 
+Mode of access: World Wide Web.
+Other ID: (OCoLC)614340895
+NLM ID: 101528555[Serial]
+
+14. Author(s): Society for Research Synthesis Methodology.
+Title Abbreviation: Res Synth Methods
+Title(s): Research synthesis methods.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Malden, MA : John Wiley & Sons, 2010-
+Latest Publisher: <Mar. 2014-> : Chichester : Wiley Blackwell
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1759-2879(Print); 1759-2887(Electronic); 1759-2879(Linking)
+LCCN: 2010208799
+Electronic Links: https://onlinelibrary.wiley.com/loi/17592887, https://www.cambridge.org/core/journals/research-synthesis-methods
+Fully Indexed In: MEDLINE: v6n1, Mar. 2015-
+In: PubMed: v6n1, Mar. 2015- ; selected citations only before this date, PMC
+Forthcoming; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Meta-Analysis as Topic; Research Design*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)635483614
+NLM ID: 101543738[Serial]
+
+15. Author(s): Zhongguo ke xue yuan.; Guo jia zi ran ke xue ji jin wei yuan hui (China)
+Title Abbreviation: Sci China Life Sci
+Title(s): Science China. Life sciences.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: China
+Publisher: Beijing : Science China Press, co-published with Springer
+Language: English
+ISSN: 1674-7305(Print); 1869-1889(Electronic); 1674-7305(Linking)
+LCCN: 2010243373
+Electronic Links: https://link.springer.com/journal/11427
+Fully Indexed In: MEDLINE: v53n1, Jan. 2010-
+In: PubMed: v53n1, Jan. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 53, No. 2 (Feb. 2010); title from cover. Latest issue 
+consulted: Vol. 53, No. 2 (Feb. 2010). Also issued online.
+Other ID: (OCoLC)614340925
+NLM ID: 101529880[Serial]
+
+16. Author(s): American Association for the Advancement of Science.
+Title Abbreviation: Sci Transl Med
+Title(s): Science translational medicine.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, DC : American Association for the Advancement of Science
+Language: English
+ISSN: 1946-6234(Print); 1946-6242(Electronic); 1946-6234(Linking)
+LCCN: 2009202156
+Electronic Links: https://www.science.org/journal/stm
+Fully Indexed In: MEDLINE: v1n1, Oct 7 2009-
+In: PubMed: v1n1, Oct 7 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Translational Research, Biomedical.*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, nos. 1-4 (Oct. 2009); title from cover. Latest
+issue consulted: Vol. 1, nos. 9-12 (Dec. 2009). Print issues ceased with v. 5
+(2013). Online version published on a weekly schedule. Also issued online.
+Other ID: (OCoLC)299570656
+NLM ID: 101505086[Serial]
+
+17. Author(s): American Association for the Advancement of Science.
+Title Abbreviation: Sci Signal
+Title(s): Science signaling.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Weekly
+Country of Publication: United States
+Publisher: Washington, D.C. : American Association for the Advancement of Science
+Language: English
+ISSN: 1937-9145(Electronic); 1945-0877(Print); 1945-0877(Linking)
+LCCN: 2007212895
+Electronic Links: https://www.science.org/journal/signaling
+Fully Indexed In: MEDLINE: v1n1, Jan. 2008-
+In: PubMed: v1n1, Jan. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Signal Transduction*
+Publication Type(s): PeriodicalReview
+Notes: Description based on first issue; title from journal home page (publisher's Web
+site, viewed Feb. 5, 2008). Latest issue consulted: Vol. 1, issue 4 (29 Jan.
+2008) (viewed Feb. 5, 2008). Mode of access: World Wide Web.
+Other ID: (OCoLC)185143142
+NLM ID: 101465400[Serial]
+
+18. Author(s): Gewina (Society); Constantijn Huygens Instituut voor Tekstedities en
+Intellectuele Geschiedenis.
+Title Abbreviation: Studium (Rotterdam)
+Title(s): Studium.
+Publication Start Year: 2008
+Publication End Year: 2019
+Frequency: Four no. a year
+Country of Publication: Netherlands
+Publisher: Rotterdam : Erasmus
+Language: Dutch, French
+ISSN: 1876-9055(Print); 1876-9055(Linking)
+LCCN: 2008234917
+Electronic Links: https://clockss.org/triggered-content/studium-tijdschrift-voor-wetenschaps-en-universiteitsgeschiedenis-revue-dhistoire-des-sciences-et-des-universites/
+Fully Indexed In: MEDLINE: v1n1 2008-v4n3, 2011
+In: PubMed: v1n1 2008-v4n3, 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science/history*; Universities/history
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Latest issue consulted: Vol. 
+1, 2 (2008). Also issued online In Dutch and French, with summaries in English.
+Complemented by (work): Journal for the history of knowledge. Complemented by
+(work): Gewina magazine.
+Other ID: (OCoLC)235029452
+NLM ID: 101491727[Serial]
+
+19. Author(s): American Society for Cell Biology.
+Title Abbreviation: CBE Life Sci Educ
+Title(s): CBE life sciences education.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Bethesda, MD : American Society for Cell Biology, c2006-
+Language: English
+ISSN: 1931-7913(Electronic); 1931-7913(Linking)
+LCCN: 2006243260
+Electronic Links: https://www.lifescied.org/loi/lse, https://pmc.ncbi.nlm.nih.gov/journals/?term=101269039
+Fully Indexed In: MEDLINE: v5n1, spring 2006-
+In: PubMed: v5n1, spring 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Biology/education*
+Publication Type(s): Periodical
+Notes: Called also: CBE-LSE. Title from issue contents screen (publisher's Web site,
+viewed Apr. 21, 2006). Mode of access: World Wide Web.
+Other ID: (OCoLC)67830557
+NLM ID: 101269039[Serial]
+
+20. Title Abbreviation: Nat Protoc
+Title(s): Nature protocols.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly, 2007-
+Country of Publication: England
+Publisher: London, UK : Nature Pub. Group, 2006-
+Language: English
+ISSN: 1750-2799(Electronic); 1754-2189(Print); 1750-2799(Linking)
+LCCN: 2006243648
+Electronic Links: https://www.nature.com/nprot/
+Fully Indexed In: MEDLINE: v1n1, 2006-; PubMed: v1n1, 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology/methods; Biomedical Research/methods; Clinical Laboratory Techniques*
+Publication Type(s): Periodical
+Notes: Title from issue contents screen (publisher's Web site, viewed Aug. 11, 2006).
+Latest issue consulted: Vol. 1, no. 2 (viewed Aug. 11, 2006). Print issues ceased
+with 2010? Issues not published for Vol. 1 nos. 8-12 (2006). Mode of access:
+World Wide Web.
+Other ID: (OCoLC)70276361
+NLM ID: 101284307[Serial]
+
+21. Author(s): Public Library of Science.
+Title Abbreviation: PLoS One
+Title(s): PloS one.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: San Francisco, CA : Public Library of Science
+Language: English
+ISSN: 1932-6203(Electronic); 1932-6203(Linking)
+LCCN: 2006214532
+Electronic Links: http://www.plosone.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101285081
+Fully Indexed In: MEDLINE: v1n1, 2006-
+In: PubMed: v1n1, 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Medicine*; Science
+Publication Type(s): Periodical
+Notes: Description based on vol. 1(1) (2006); title from journal home page (publisher's 
+Web site, viewed Apr. 8, 2008). Latest issue consulted: 4(6) (2009) (viewed June 
+12, 2009). Articles added consecutively to current issue. Content on clinical
+trials included also in: PLoS hub for clinical trials (DLC) 2008222319
+(OCoLC)228234657.
+Other ID: (OCoLC)70662135
+NLM ID: 101285081[Serial]
+
+22. Title Abbreviation: Nat Mater
+Title(s): Nature materials.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, UK : Nature Pub. Group, [2002]-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1476-1122(Print); 1476-4660(Electronic); 1476-1122(Linking)
+LCCN: 2003260101
+Electronic Links: http://www.nature.com/nmat/
+Selectively Indexed in: MEDLINEv1n1, Sept. 2002-PubMedv1n1, Sept. 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical and Dental Materials*; Manufactured Materials
+Notes: Title from cover. Latest issue consulted: Vol. 2, no. 1 (Jan. 2003). Also
+available to subscribers online via the World Wide Web.
+Other ID: (OCoLC)51211555
+NLM ID: 101155473[Serial]
+
+23. Author(s): American Association for the Advancement of Science.
+Title Abbreviation: Sci Aging Knowledge Environ
+Title(s): Science of aging knowledge environment : SAGE KE
+Publication Start Year: 2001
+Publication End Year: 2006
+Frequency: Weekly
+Country of Publication: United States
+Publisher: [Washington, DC] : American Association for the Advancement of Science,
+Language: English
+ISSN: 1539-6150(Electronic); 1539-6150(Linking)
+LCCN: 2002211488
+Electronic Links: http://sageke.sciencemag.org
+Fully Indexed In: MEDLINE: Oct. 3, 2001-June 28, 2006; PubMed: Oct. 3, 2001-June 28, 2006; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Aging*
+Publication Type(s): PeriodicalReview
+Notes: HTML source code title: AAAS SAGE KE. Description based on: Issue 20 (22 May
+2002); title from title screen (viewed May 24, 2002). Latest issue consulted:
+Issue 37 (17 Sept. 2003). Previous content stored as a searchable database.
+Electronic journal in hypertext. Mode of access: World Wide Web.
+Other ID: (OCoLC)49587819
+NLM ID: 101146039[Serial]
+
+24. Author(s): Zhejiang da xue.
+Title Abbreviation: J Zhejiang Univ Sci
+Title(s): Journal of Zhejiang University. Science
+Publication Start Year: 2000
+Publication End Year: 2004
+Frequency: Monthly, Jan. 2004-Dec. 2004
+Country of Publication: China
+Publisher: Hangzhou, P.R. China : Zhejiang University Press, 2000-2004.
+Description: 5 v. : ill.
+Language: English
+ISSN: 1009-3095(Print); 1009-3095(Linking)
+Coden: JZUSFR
+LCCN: 00248241
+Electronic Links: http://www.zju.edu.cn/jzus/, https://pmc.ncbi.nlm.nih.gov/journals/?term=100954270
+Fully Indexed In: MEDLINE: v4n1, Jan./Feb. 2003-v5n12, Dec. 2004; Index medicus
+In: PubMed: v4n1, Jan./Feb. 2003-v5n12, Dec. 2004, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Agriculture; Biological Science Disciplines; China; Engineering; Medicine; Research; Science*; Social Sciences
+Publication Type(s): Periodical
+Notes: Title from cover. Issues for Jan.-Mar. 2000- called also 2000/1- Only 5 issues
+published in 2002. Also issued online.
+Other ID: (OCoLC)44262990
+NLM ID: 100954270[Serial]
+
+25. Author(s): Society for Prevention Research.
+Title Abbreviation: Prev Sci
+Title(s): Prevention science : the official journal of the Society for Prevention Research.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, NY : Kluwer Academic/Plenum Publishers, c2000-
+Description: v. ; 28 cm.
+Language: English
+ISSN: 1389-4986(Print); 1573-6695(Electronic); 1389-4986(Linking)
+LCCN: 2001200281
+Electronic Links: https://link.springer.com/journal/11121
+Fully Indexed In: MEDLINE: v1n1, Mar. 2000-; PubMed: v1n1, Mar. 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Primary Prevention*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online.
+Other ID: (OCoLC)46479930
+NLM ID: 100894724[Serial]
+
+26. Title Abbreviation: ScientificWorldJournal
+Title(s): TheScientificWorldJournal.
+Publication Start Year: 2000
+Publication End Year: 
+Country of Publication: United States
+Publisher: Boynton Beach, FL : Scientific World, Inc., c2001-
+Latest Publisher: 2024- : [Hoboken, NJ] : Wiley
+Language: English
+ISSN: 1537-744X(Electronic); 2356-6140(Print); 1537-744X(Linking)
+Coden: THESAS
+LCCN: 2001215320
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101131163, https://onlinelibrary.wiley.com/journal/8086
+Fully Indexed In: MEDLINE: v1n1-2, 2000-; Index medicus
+In: PubMed: v1n1-2, 2000-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*; Environmental Medicine; Medicine
+Publication Type(s): Periodical
+Notes: Vols. for 2002- called: ScientificWorldJournal. Title from journal home page
+(viewed Dec. 5, 2001). Articles are added continuously and their pages in the
+volume are used as the issue numbers. Vol. 1 used as numbering for both 2000 and 
+2001. Text (electronic journal) Also issued in print. Mode of access: World Wide 
+Web.
+Other ID: (OCoLC)48386834
+NLM ID: 101131163[Serial]
+
+27. Author(s): American Association for the Advancement of Science.; Stanford University.
+Libraries.
+Title Abbreviation: Sci STKE
+Title(s): Science's STKE : signal transduction knowledge environment.
+Publication Start Year: 1999
+Publication End Year: 2007
+Frequency: Weekly
+Country of Publication: United States
+Publisher: Washington, D.C. : Stanford, CA : American Association for the Advancement of
+Science ; Stanford University Libraries, [1999-2007.
+Language: English
+ISSN: 1525-8882(Electronic); 1525-8882(Linking)
+LCCN: sn 99004329
+Electronic Links: http://stke.sciencemag.org/archive/
+Fully Indexed In: MEDLINE: Sept. 1999-Dec. 2007; PubMed: Sept. 1999-Dec. 2007; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Signal Transduction*
+Publication Type(s): PeriodicalReview
+Notes: Title from journal home page (viewed Apr. 23, 2001). Includes articles selected
+from various science journals. Final issue consulted. Articles are added to all
+sections of the site on a continuous basis. Some sections are archived quarterly.
+Mode of access: World Wide Web. From Science and Stanford University Libraries.
+Other ID: (OCoLC)41886998
+NLM ID: 100964423[Serial]
+
+28. Title Abbreviation: Early Sci Med
+Title(s): Early science and medicine.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Netherlands
+Publisher: Leiden [Netherlands] : E.J. Brill, c1996-
+Latest Publisher: Leiden : E J Brill
+Description: v.
+Language: English
+ISSN: 1383-7427(Print); 1573-3823(Electronic); 1383-7427(Linking)
+Electronic Links: https://brill.com/view/journals/esm/esm-overview.xml
+In: PubMed: v1n1, 1996-v22n1, Apr. 2017; 
+Selectively Indexed in: MEDLINEv1n1, 1996-v22n1, Apr. 2017
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History of Medicine; Science/history*; Technology/history
+Publication Type(s): Periodical
+Notes: Title from cover. "A journal for the study of science, technology and medicine in
+the pre-modern period." Also issued online.
+Other ID: (DNLM)SR0085767(s)(OCoLC)35037704
+NLM ID: 9610931[Serial]
+
+29. Author(s): Zhongguo ke xue yuan.
+Title Abbreviation: Sci China C Life Sci
+Title(s): Science in China. Series C, Life sciences/ Chinese Academy of Sciences.
+Publication Start Year: 1996
+Publication End Year: 2009
+Frequency: Bimonthly
+Country of Publication: China
+Publisher: Beijing, China : Langhorne, PA, USA : Science in China Press ; Gordon and Breach 
+Science Publishers, c1996-
+Latest Publisher: <2004->: Beijing, China ; Asheville, NC : Science in China Press, co published
+with Springer-Verlag
+Description: v. : ill.
+Language: English
+ISSN: 1006-9305(Print); 1862-2798(Electronic); 1006-9305(Linking)
+LCCN: sn 96039586
+Electronic Links: https://link.springer.com/journal/11427
+Fully Indexed In: MEDLINE: v39n1, Feb. 1996-v39n5, Oct. 1996; v47n1, Feb. 2004-v52n12, Dec. 2009; Index medicus
+In: PubMed: v39n1, Feb. 1996-v52n12, Dec. 2009; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biological Science Disciplines*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0089064(s)(OCoLC)35118059
+NLM ID: 9611809[Serial]
+
+30. Title Abbreviation: Neuere Med Wiss Quellen Stud
+Title(s): Neuere Medizin- und Wissenschaftsgeschichte.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Pfaffenweiler : Centaurus-Verlagsgesellschaft, 1995-
+Description: v.
+Language: German
+ISSN: 0949-2739(Print); 0949-2739(Linking)
+LCCN: sn97-40147
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History, Modern 1601-; Science/history
+Other ID: (DNLM)SR0088113(s)(OCoLC)36988658
+NLM ID: 9605423[Serial]
+
+31. Author(s): Casa de Oswaldo Cruz.
+Title Abbreviation: Hist Cienc Saude Manguinhos
+Title(s): História, ciências, saúde--Manguinhos.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Brazil
+Publisher: Rio de Janeiro, RJ, Brasil : Ministério da Saúde, Fundação Oswaldo Cruz, Casa de 
+Oswaldo Cruz, 1994-
+Latest Publisher: Rio De Janeiro : Casa De Oswaldo Cruz
+Description: v. : ill.
+Language: Portuguese, English
+ISSN: 0104-5970(Print); 1678-4758(Electronic); 0104-5970(Linking)
+LCCN: 94-833933
+Electronic Links: http://www.scielo.br/scielo.php?script=sci_serial&pid=0104-5970&lng=en&nrm=iso, https://pmc.ncbi.nlm.nih.gov/journals/?term=9513999
+In: PMC; 
+Selectively Indexed in: MEDLINEv1n1, 1994-PubMedv1n1, 1994-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: Brazil; History of Medicine*; Medicine*; Science*
+Publication Type(s): Periodical
+Notes: Title from cover. Articles published as they become available and compiled into
+annual volumes. Also issued online. Articles in Portuguese with abstracts in
+English, 1994- . Online version available in Portuguese with English summaries,
+1994-2007; Portuguese and English, 2008- . Search interfaces available in
+Portuguese, English and Spanish.
+Other ID: (DNLM)SR0085144(s)(OCoLC)32244569
+NLM ID: 9513999[Serial]
+
+32. Title Abbreviation: Life Support Biosph Sci
+Title(s): Life support & biosphere science : international journal of earth space.
+Publication Start Year: 1994
+Publication End Year: 2002
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Elmsford, N.Y. : Cognizant Communication Corp., c1994-c2002.
+Description: 8 v. : ill., ports.
+Language: English
+ISSN: 1069-9422(Print); 1069-9422(Linking)
+LCCN: 96660820, sn 93002191
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to space life sciences were indexed.
+MeSH: Aerospace Medicine; Ecology; Extraterrestrial Environment; Life Support Systems
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0079943(s)(OCoLC)28204943
+NLM ID: 9431217[Serial]
+
+33. Title Abbreviation: Complexity
+Title(s): Complexity.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, NY : Wiley & Sons, 1995-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1076-2787(Print); 1099-0526(Electronic); 1076-2787(Linking)
+Coden: COMPFS
+LCCN: 95641033, sn 94005113
+Electronic Links: Access not provided by NLM
+In: PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Citations are for articles where the manuscript was deposited in PubMed Central (PMC) in compliance with public access policies. For further information, see <a href="/pmc/about/authorms/" target="new">Author Manuscripts in PMC.</a>
+Notes: Title from cover. Also available via the World Wide Web (registration, username, 
+and password required).
+Other ID: (OCoLC)30446118(DNLM)SR0081651(s)
+Collection Status: Not in the NLM Collection
+NLM ID: 9888589[Serial]
+
+34. Author(s): Rossiĭskai︠a︡ akademii︠a︡ nauk.
+Title Abbreviation: Dokl Akad Nauk
+Title(s): Doklady Akademii nauk/ [Rossiĭskaia akademii nauk].
+Publication Start Year: 1992
+Publication End Year: 2019
+Frequency: Thirty six no. a year
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Izd-vo "Nauka" : 1992-
+Description: v. : ill.
+Language: Russian
+ISSN: 0869-5652(Print); 0869-5652(Linking)
+Coden: DAKNEQ
+Electronic Links: http://www.maik.ru/cgi-perl/journal.pl?lang=rus&name=dan
+Selectively Indexed in: MEDLINEv322n4, 1992-v369n6, Dec. 1999PubMedv322n4, 1992-v369n6, Dec. 1999Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Also issued online. In Russian; table of contents also in English.
+Other ID: (DNLM)SR0076138(s)(OCoLC)26002128
+NLM ID: 9301140[Serial]
+
+35. Author(s): Genootschap voor Geschiedenis der Geneeskunde, Wiskunde, Natuurwetenschappen en
+Techniek.
+Title Abbreviation: Gewina
+Title(s): Gewina.
+Publication Start Year: 1992
+Publication End Year: 2007
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Rotterdam : Erasmus Pub., 1992-[2007]
+Description: v. : ill. ; 24 cm.
+Language: Dutch, English
+ISSN: 0928-303X(Print); 0928-303X(Linking)
+LCCN: sn 93030895
+In: PubMed: v15n2, 1992-v30n4, 2007; 
+Selectively Indexed in: MEDLINEv15n2, 1992-v30n4, 2007
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History of Medicine*; Mathematics/history; Netherlands; Science/history; Technology/history
+Publication Type(s): Periodical
+Notes: Title from cover. Issued by the Genootschap voor Geschiedenis der Geneeskunde,
+Wiskunde, Natuurwetenschappen en Techniek (GeWiNa).
+Other ID: (OCoLC)26111629(DNLM)SR0073684(s)
+NLM ID: 9425368[Serial]
+
+36. Author(s): Institute of Physics (Great Britain); Science Museum (Great Britain)
+Title Abbreviation: Public Underst Sci
+Title(s): Public understanding of science.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Six issues a year
+Country of Publication: England
+Publisher: [Bristol] : Published by the Institute of Physics in association with the Science
+Museum, c1992-
+Latest Publisher: London : Sage
+Description: v. : ill.
+Language: English, French, Spanish
+ISSN: 0963-6625(Print); 1361-6609(Electronic); 0963-6625(Linking)
+Coden: PUNSEM
+Electronic Links: https://journals.sagepub.com/home/pus
+Selectively Indexed in: MEDLINEv4n2, Apr. 1995-PubMedv4n2, Apr. 1995-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: Science*; Technology*
+Publication Type(s): Periodical
+Notes: Title from cover. "An international journal of research in the public dimensions 
+of science and technology." Also issued online. Text in English; abstracts in
+French and Spanish.
+Other ID: (DNLM)SR0072833(s)(OCoLC)25512020
+NLM ID: 9306503[Serial]
+
+37. Author(s): American Institute of Physics.
+Title Abbreviation: Chaos
+Title(s): Chaos.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Woodbury, NY : American Institute of Physics, 1991-
+Latest Publisher: Melville, NY : American Institute of Physics
+Description: v. : ill. ; 29 cm.
+Language: English
+ISSN: 1054-1500(Print); 1089-7682(Electronic); 1054-1500(Linking)
+Coden: CHAOEH
+LCCN: 91657086, sn 90003393
+Electronic Links: https://pubs.aip.org/aip/cha
+Selectively Indexed in: MEDLINEv13n1, 2003-PubMedv13n1, 2003-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nonlinear Dynamics*
+Publication Type(s): Periodical
+Notes: Online version has title: Chaos online. Title from cover. Latest issue consulted:
+Vol. 12, no. 3 (Sept. 2002). Also issued online.
+Other ID: (OCoLC)22771698
+NLM ID: 100971574[Serial]
+
+38. Title Abbreviation: EXS
+Title(s): EXS.
+Publication Start Year: 1989
+Publication End Year: 2010
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Basel ; Boston : Birkhäuser Verlag, 1989-2010.
+Description: v. : ill.
+Language: English
+ISSN: 1023-294X(Print); 2504-3684(Electronic); 1023-294X(Linking)
+Coden: EXSEE7
+Electronic Links: https://link.springer.com/search?facet-series=%224822%22&facet-content-type=%22Book%22
+Selectively Indexed in: MEDLINE57, 1989-100, 2010PubMed57, 1989-100, 2010Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Science*
+Publication Type(s): Periodical
+Notes: Title from spine. Print issues ceased with v. 100 (2010). Numbering from spine.
+Also issued online.
+Other ID: (DNLM)SR0073356(s)(OCoLC)25388608
+NLM ID: 9204529[Serial]
+
+39. Author(s): Zhongguo ke xue yuan.
+Title Abbreviation: Sci China B
+Title(s): Science in China. Series B, Chemistry, life sciences & earth sciences.
+Publication Start Year: 1989
+Publication End Year: 1995
+Frequency: Monthly
+Country of Publication: China
+Publisher: Beijing, China : Chinese Academy of Sciences : Science Press ; Oxford, UK ;
+Elmsford, NY : Distributed by Pergamon Press, c1989-
+Description: 7 v. : ill.
+Language: English
+ISSN: 1001-652X(Print); 1001-652X(Linking)
+Coden: SCBSE5
+Selectively Indexed in: MEDLINEv32n1,Jan. 1989-v38n12,Dec. 1995PubMedv32n1,Jan. 1989-v38n12,Dec. 1995Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Chemistry*; Science*
+Publication Type(s): Periodical
+Notes: Title from cover. At head of title: Scientia sinica.
+Other ID: (OCoLC)19908874(DNLM)SR0065958(s)
+NLM ID: 8913082[Serial]
+
+40. Title Abbreviation: Sci Context
+Title(s): Science in context.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: England
+Publisher: Cambridge [Cambridgeshire] ; New York, NY : Cambridge University Press, c1987-
+Latest Publisher: Cambridge Eng : Cambridge University Press
+Description: v. : ill.
+Language: English
+ISSN: 0269-8897(Print); 0269-8897(Linking)
+Electronic Links: https://www.cambridge.org/core/journals/science-in-context
+Selectively Indexed in: MEDLINEv2n2, Autumn 1988-PubMedv2n2, Autumn 1988-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0061604(s)(OCoLC)16060175
+NLM ID: 8904113[Serial]
+
+41. Author(s): Istituto e museo di storia della scienza (Italy)
+Title Abbreviation: Nuncius
+Title(s): Nuncius/ Istituto e museo di storia della scienza.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: Netherlands
+Publisher: Firenze : L.S. Olschki, [1986-
+Latest Publisher: Leiden : Brill
+Description: v. : ill., ports.
+Language: English, Italian
+ISSN: 0394-7394(Print); 1825-3911(Electronic); 0394-7394(Linking)
+Electronic Links: https://brill.com/view/journals/nun/nun-overview.xml
+Selectively Indexed in: MEDLINEv1n2, 1986-v32n2, 2017PubMedv1n2, 1986-v32n2, 2017
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Review Literature as Topic*; Science/history*
+Publication Type(s): Periodical
+Notes: Articles in English or Italian; summaries in the other language.
+Other ID: (DNLM)SR0061833(s)(OCoLC)15586319
+NLM ID: 8807530[Serial]
+
+42. Title Abbreviation: Kos
+Title(s): KOS.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Italy
+Publisher: Milano : Franco Maria Ricci, [1984-
+Latest Publisher: Milano : Istituto Scientifico H. San Raffaele
+Description: v.
+Language: Italian
+ISSN: 0393-2095(Print); 0393-2095(Linking)
+Selectively Indexed in: MEDLINESelected citations onlyPubMedSelected citations only
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History of Medicine*; Medicine*; Natural History*; Science*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues for febbr. 1995?- called nuova serie, n. 113?- . Vols.
+for 1995?- also called anno 12?- . Published: Istituto scientifico H. San
+Raffaele, 1995?- .
+Other ID: (DNLM)K10850000(s)(OCoLC)10957282
+NLM ID: 9424952[Serial]
+
+43. Author(s): Canadian Science and Technology Historical Association.
+Title Abbreviation: Sci Can
+Title(s): Scientia canadensis.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Two no. a year
+Country of Publication: Canada
+Publisher: Thornhill, Ont. : HSTC Publications, c1984-
+Latest Publisher: Thornhill : Canadian Science and Technology Historical Association
+Description: v. : ill.
+Language: English, French
+ISSN: 0829-2507(Print); 1918-7750(Electronic); 0829-2507(Linking)
+Electronic Links: http://www.erudit.org/revue/scientia/2013/v36/n1/index.html
+Selectively Indexed in: MEDLINEv8n1, 1984-v33n2, 2010PubMedv8n1, 1984-v33n2, 2010
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Canada; History of Medicine*; Science/history*; Technology/history*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.35, 2012? Also issued online.
+Articles chiefly in English with some in French. Official journal of: the
+Canadian Science and Technology Historical Association, autumn-winter 1986?- .
+Other ID: (DNLM)SR0055132(s)(OCoLC)11305775
+NLM ID: 8709014[Serial]
+
+44. Author(s): Association for Politics and the Life Sciences (U.S.)
+Title Abbreviation: Politics Life Sci
+Title(s): Politics and the life sciences : the journal of the Association for Politics and 
+the Life Sciences.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: England
+Publisher: DeKalb, Ill. : The Association, [c1982]-
+Latest Publisher: Cambridge : Cambridge University Press
+Description: v. : ill.
+Language: English
+ISSN: 0730-9384(Print); 1471-5457(Electronic); 0730-9384(Linking)
+LCCN: 83640152, sn 82000903
+Electronic Links: https://www.cambridge.org/core/journals/politics-and-the-life-sciences
+Fully Indexed In: MEDLINE: v2n1, Aug. 1983-; PubMed: v2n1, Aug. 1983-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Bioethics; Index Medicus
+MeSH: Behavior*; Biology*; Politics*
+Publication Type(s): Periodical
+Notes: At head of title: PLS <Feb. 1992- >. Title from cover. Imprint varies. Vol. 10
+for 1991 has only 1 issue. Also issued online.
+Other ID: (DNLM)SR0056448(s)(OCoLC)08123994
+NLM ID: 8800535[Serial]
+
+45. Author(s): Zhongguo ke xue yuan.
+Title Abbreviation: Sci Sin B
+Title(s): Scientia Sinica. Series B, Chemical, biological, agricultural, medical & earth
+sciences/ Chung-kuo k'o hsüeh yüan, chu pan.
+Publication Start Year: 1982
+Publication End Year: 1988
+Frequency: Monthly
+Country of Publication: China
+Publisher: Beijing, China : Science Press, 1982-1988.
+Latest Publisher: Beijing : Academia Sinica
+Description: v. : ll.
+Language: English
+ISSN: 0253-5823(Print); 0253-5823(Linking)
+Coden: SSBSEF
+In: PubMed: v25n1, Jan. 1982-v31n12, Dec. 1988; 
+Selectively Indexed in: MEDLINEv25n1, Jan. 1982-v31n12, Dec. 1988Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Chemistry*; Science*
+Publication Type(s): Periodical
+Notes: Title from cover. At head of title: Chung-kuo k'o hsüeh. Vols. for Apr.
+1985-Dec. 1988, called also: Science in China. Articles in English.
+Other ID: (OCoLC)08269390(DNLM)S12891000(s)
+NLM ID: 8209875[Serial]
+
+46. Author(s): Académie des sciences (France)
+Title Abbreviation: C R Seances Acad Sci III
+Title(s): Comptes rendus des séances de l'Académie des sciences. Série III, Sciences de 
+la vie.
+Publication Start Year: 1981
+Publication End Year: 1983
+Frequency: Weekly
+Country of Publication: France
+Publisher: Paris : Gauthier-Villars, c1981-[1983]
+Latest Publisher: Montreuil : Gauthier Villars
+Description: 6 v. : ill.
+Language: French, English
+ISSN: 0249-6313(Print); 0249-6313(Linking)
+Coden: CRSEDA
+Selectively Indexed in: MEDLINEv293n1,Jul. 6, 1981-v297n13,Dec. 19, 1983PubMedv293n1,Jul. 6, 1981-v297n13,Dec. 19, 1983Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Medicine*; Zoology*
+Publication Type(s): Periodical
+Notes: Title from cover. Articles in French; summaries in English and French.
+Other ID: (DNLM)C35310000(s)(OCoLC)07293935
+NLM ID: 8108553[Serial]
+
+47. Author(s): Nippon Kagakushi Gakkai.
+Title Abbreviation: Hist Sci (Tokyo)
+Title(s): Historia scientiarum : international journal of the History of Science Society of
+Japan.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Three no. a year
+Country of Publication: Japan
+Publisher: Tokyo : The Society, 1980-
+Description: v. : ill.
+Language: English
+ISSN: 0285-4821(Print); 0285-4821(Linking)
+Coden: HISCDU
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to the history of medicine were indexed.
+MeSH: Science/history*
+Publication Type(s): Periodical
+Notes: Title from cover. Also continued consecutive numbering.
+Other ID: (DNLM)H14110000(s)(OCoLC)07066089
+NLM ID: 8201528[Serial]
+
+48. Author(s): Los Alamos Scientific Laboratory.; Los Alamos National Laboratory.
+Title Abbreviation: Los Alamos Sci
+Title(s): Los Alamos science/ Los Alamos Scientific Laboratory.
+Publication Start Year: 1980
+Publication End Year: 2006
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Los Alamos Nm : Los Alamos National Laboratory
+Description: v. : ill.
+Language: English
+SuDocs Number: E 1.96:
+ISSN: 0273-7116(Print); 0273-7116(Linking)
+Coden: LASCDI
+Electronic Links: https://la-science.lanl.gov/index.shtml
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to space life sciences were indexed.
+MeSH: Biological Science Disciplines*; Biotechnology*; Science*; Technology*
+Other Subject(s): Los Alamos Scientific Laboratory., Los Alamos National Laboratory.
+Publication Type(s): Periodical
+Notes: Title from cover. Distinctive title: Human genome project, 1992. Issue for summer
+1980 called also Premier issue. Also issued online. Vols for summer 1980-198
+issued by: Los Alamos Scientific Laboratory; winter/spring 1982?- by: Los Alamos 
+National Laboratory.
+Other ID: (DNLM)SR0077332(s)(OCoLC)06818444
+NLM ID: 9318072[Serial]
+
+49. Author(s): Biochemical Society (Great Britain); Medical Research Society (Great Britain);
+International Society of Hypertension.
+Title Abbreviation: Clin Sci (Lond)
+Title(s): Clinical science.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, Medical Research Society.
+Latest Publisher: London : Portland Press on behalf of the Medical Research Society and the
+Biochemical Society
+Description: v. ill.
+Language: English, English
+ISSN: 0143-5221(Print); 1470-8736(Electronic); 0143-5221(Linking)
+Coden: CSCIAE
+Electronic Links: https://portlandpress.com/clinsci
+Fully Indexed In: MEDLINE: v57n1, July 1979-; Index medicus
+In: PubMed: v57n1, July 1979-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Medicine*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 132 (2018). Sequentially numbered supplements
+accompany some vols. Supplements for 1979-1982 consist of the proceedings of the 
+6th-9th meeting of the International Society of Hypertension. Also issued online.
+Other ID: (OCoLC)04596879(DNLM)C26930000(s)
+NLM ID: 7905731[Serial]
+
+50. Author(s): Académie des sciences (France)
+Title Abbreviation: C R Seances Acad Sci D
+Title(s): Comptes rendus des séances de l'Académie des sciences. Série D, Sciences
+naturelles.
+Publication Start Year: 1979
+Publication End Year: 1980
+Country of Publication: France
+Publisher: Paris : Gauthier-Villars, [c1979-c1980]
+Description: 4 v. : ill.
+Language: French, English, French
+ISSN: 0567-655X(Print); 0567-655X(Linking)
+LCCN: 81642808
+Fully Indexed In: MEDLINE: v288n1,Jan. 8, 1979-v291n13, Dec. 15, 1980; PubMed: v288n1,Jan. 8, 1979-v291n13, Dec. 15, 1980; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Medicine
+Publication Type(s): Periodical
+Notes: Title from cover. Articles in French; summaries in English and French.
+Other ID: (OCoLC)06695974(DNLM)C35303000(s)
+NLM ID: 8108552[Serial]
+
+51. Author(s): Gesellschaft für Wissenschaftsgeschichte (Germany)
+Title Abbreviation: Ber Wiss
+Title(s): Berichte zur Wissenschaftsgeschichte.
+Publication Start Year: 1978
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: Wiesbaden, Akademische Verlagsgesellschaft Athenaion.
+Latest Publisher: 2002- : Weinheim : Wiley-VCH
+Description: v.
+Language: German
+ISSN: 0170-6233(Print); 1522-2365(Electronic); 0170-6233(Linking)
+Coden: BEWID8
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2365
+In: PubMed: v1n1-2, 1978-; 
+Selectively Indexed in: MEDLINEv1n1-2, 1978-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: History of Medicine*; Science/history*
+Publication Type(s): Periodical
+Notes: Also issued online. Organ of the Gesellschaft für Wissenschaftsgeschichte.
+Other ID: (DNLM)B06330000(s)(OCoLC)05149160
+NLM ID: 7909914[Serial]
+
+52. Author(s): Harvard University. Program on Science, Technology, and Public Policy.;
+Massachusetts Institute of Technology. Program in Science, Technology and
+Society.; John F. Kennedy School of Government.; Society for Social Studies of
+Science.
+Title Abbreviation: Sci Technol Human Values
+Title(s): Science, technology & human values.
+Publication Start Year: 1978
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Cambridge, Mass. : MIT Press, c1978-
+Description: v.
+Language: English
+ISSN: 0162-2439(Print); 0162-2439(Linking)
+LCCN: 82-642469
+Electronic Links: https://journals.sagepub.com/home/sth
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to bioethics were indexed.
+MeSH: Science; Social Values; Technology
+Publication Type(s): Periodical
+Notes: Title from cover. Published: New York : J. Wiley, 1983-1987; Newbury Park, Calif.
+: Sage Publications, 1988- ; Thousand Oaks, Calif. : Sage Publications, 1995?- . 
+Issue no. 28 (summer 1979)-no. 41 (fall 1982) called also: Vol. 4, no. 28-v. 7,
+no. 41. Issue no. 42 (winter 1983)-no. 60/61 (summer/fall 1987) called also: Vol.
+8, issue 1-v. 12, issues 3/4. Whole numbering discontinued with v. 13, no. 1 & 2 
+(winter & spring 1988). Also issued online. Vols. for 1978- issued by Harvard
+University, Program on Science, Technology, and Public Policy; winter 1980?-
+cosponsored by the Program in Science, Technology, and Society, Massachusetts
+Institute of Technology, and the John F. Kennedy School of Government, Harvard
+University; 1983?- published by John Wiley & Sons for the Program in Science,
+Technology, and Society, Massachusetts Institute of Technology, and the John F.
+Kennedy School of Government, Harvard University; winter & spring 1988- journal
+of the Society for Social Studies of Science.
+Other ID: (DNLM)S12500200(s)(OCoLC)04127609
+NLM ID: 9440757[Serial]
+
+53. Author(s): Nihon Gakushiin.
+Title Abbreviation: Proc Jpn Acad Ser B Phys Biol Sci
+Title(s): Proceedings of the Japan Academy. Series B, Physical and biological sciences.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Ten no. a year
+Country of Publication: Japan
+Publisher: Ueno Park, Tokyo : Japan Academy,
+Description: v. : ill.
+Language: English
+ISSN: 0386-2208(Print); 1349-2896(Electronic); 0386-2208(Linking)
+Coden: PJABDW
+Electronic Links: https://www.jstage.jst.go.jp/browse/pjab, https://pmc.ncbi.nlm.nih.gov/journals/?term=9318162
+Fully Indexed In: MEDLINE: v84n1, Jan. 2008-
+In: PubMed: v84n1, Jan. 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*; Science*
+Publication Type(s): Periodical
+Notes: Monthly (except July and Aug.). Description based on: Vol. 53, ser. B, no. 4
+(Sept. 1977); title from cover. Issued with: Proceedings of the Japan Academy.
+Series A. Mathematical sciences, 1993?- . Issues have continous pagination
+through both series A and B. Also issued online.
+Other ID: (DNLM)SR0058518(s)(OCoLC)03403778
+NLM ID: 9318162[Serial]
+
+54. Title Abbreviation: Ethics Sci Med
+Title(s): Ethics in science & medicine.
+Publication Start Year: 1975
+Publication End Year: 1980
+Country of Publication: England
+Publisher: Oxford, Elmsford, N. Y., Pergamon Press.
+Latest Publisher: Oxford : Pergamon Press
+Description: 6 v.
+Language: English
+ISSN: 0306-4581(Print); 0306-4581(Linking)
+Coden: ESMED9
+Fully Indexed In: MEDLINE: v2n1,May 1975-v7, 1980; PubMed: v2n1,May 1975-v7, 1980; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Ethics*; Medicine*; Science*
+Publication Type(s): Periodical
+Other ID: (DNLM)E14000000(s)(OCoLC)01629946
+NLM ID: 7510822[Serial]
+
+55. Author(s): Polskie Towarzystwo Farmaceutyczne.; Polskie Towarzystwo Lekarskie.
+Title Abbreviation: Pol Med Sci Hist Bull (1973)
+Title(s): Polish medical sciences and history bulletin.
+Publication Start Year: 1973
+Publication End Year: 1976
+Frequency: Bimonthly
+Country of Publication: Poland
+Publisher: [Warszawa, Polish Medical Publishers]
+Latest Publisher: Warszawa : Polish Medical Publishers
+Description: 4 v. ill.
+Language: English
+ISSN: 0301-0236(Print); 0301-0236(Linking)
+Coden: PMHBAH
+Fully Indexed In: MEDLINE: v15/1,Jan./Feb. 1973-v15/4n4,Oct./Dec. 1976; PubMed: v15/1,Jan./Feb. 1973-v15/4n4,Oct./Dec. 1976; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History of Medicine*; Medicine*; Poland
+Publication Type(s): AbstractsPeriodical
+Notes: Title varies slightly: Polish medical sciences and history bulletin and
+abstracts, Jan./Feb. 1973. Issued by the Polish Medical Association and the
+Polish Pharmaceutical Society.
+Other ID: (OCoLC)32557570(DNLM)P17880000(s)
+NLM ID: 0414140[Serial]
+
+56. Title Abbreviation: Sci Med Man
+Title(s): Science, medicine and man.
+Publication Start Year: 1973
+Publication End Year: 1974
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Oxford, Elmsford, N. Y., Pergamon Press.
+Latest Publisher: Oxford : Pergamon Press
+Description: 302 p. illus.
+Language: English, English
+ISSN: 0300-9955(Print); 0300-9955(Linking)
+Coden: SMMNBA
+LCCN: 73-643626
+Selectively Indexed in: MEDLINEv1n1,Apr. 1973-v1,Dec. 1974PubMedv1n1,Apr. 1973-v1,Dec. 1974Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Ethics*; Medicine*; Science*
+Publication Type(s): Periodical
+Other ID: (DNLM)S12040000(s)(OCoLC)01786778
+NLM ID: 7510997[Serial]
+
+57. Title Abbreviation: New Sci
+Title(s): New scientist.
+Publication Start Year: 1971
+Publication End Year: 
+Frequency: Weekly
+Country of Publication: England
+Publisher: [London : New Science Publications,
+Description: v. : ill. ; 29 cm.
+Language: English
+ISSN: 0262-4079(Print); 2059-5387(Electronic); 0262-4079(Linking)
+Coden: NWSCAL
+LCCN: 82644452, sc 82004294, sn 81006313
+Electronic Links: https://www.sciencedirect.com/journal/new-scientist
+Selectively Indexed in: MEDLINEv57n829: Jan. 18, 1973-v192n2574, Oct. 21-27, 2006PubMedv57n829: Jan. 18, 1973-v192n2574, Oct. 21-27, 2006
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to bioethics were indexed.
+MeSH: Science*; Technology
+Publication Type(s): Periodical
+Notes: Published by IPC Magazines, <May 25, 1991-> Description based on: Vol. 52, no.
+773 (Dec. 9, 1971); title from cover. Issue for Dec. 25, 1999/Jan. 1, 2000
+misnumbered as no. 2218, but constitutes no. 2218/2219. Also available online
+beginning in June 1998. Online version includes some Web-only material.
+Other ID: (OCoLC)02378350(DNLM)N15600000(s)
+NLM ID: 9815377[Serial]
+
+58. Title Abbreviation: Stud Hist Philos Sci
+Title(s): Studies in history and philosophy of science.
+Publication Start Year: 1970
+Publication End Year: 
+Frequency: Seven no. a year
+Country of Publication: England
+Publisher: London, Macmillan.
+Latest Publisher: Oxford : Pergamon Press
+Description: v. illus.
+Language: English
+ISSN: 0039-3681(Print); 0039-3681(Linking)
+Coden: SHPSB5
+LCCN: 70-21531
+Electronic Links: https://www.sciencedirect.com/journal/studies-in-history-and-philosophy-of-science-part-a
+In: PubMed: v1, Aug. 1970-; 
+Selectively Indexed in: MEDLINEv1, Aug. 1970-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: Science*; Science/history*
+Publication Type(s): Periodical
+Notes: Issues for <1999-> called <v. 30A-> to distinguish them from the companion
+publications: Studies in history and philosophy of modern physics; and: Studies
+in history and philosophy of biological and biomedical sciences, designated B and
+C respectively. Also issued online. Indexes: Vols. 1-19, 1970-88. 1 v.
+Other ID: (DNLM)S44260000(s)(OCoLC)01343146
+NLM ID: 1250602[Serial]
+
+59. Author(s): Société française d'histoire de la médecine.
+Title Abbreviation: Hist Sci Med
+Title(s): Histoire des sciences médicales.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: France
+Publisher: Asnières, France, Les Editions de médecine pratique.
+Latest Publisher: Asnieres : Editions De Medecine Pratique
+Description: v. ill., ports.
+Language: French
+ISSN: 0440-8888(Print); 0440-8888(Linking)
+Electronic Links: https://www.biusante.parisdescartes.fr/histoire/partenariats/revue-histoire-sciences-medicales.php
+Selectively Indexed in: MEDLINEJan./Mar. 1969-v50n4, Oct. 2016PubMedJan./Mar. 1969-v50n4, Oct. 2016
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History of Medicine*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2020. Also issued online. Official organ of the Société 
+française d'histoire de la médecine.
+Other ID: (DNLM)H13980000(s)(OCoLC)02432739
+NLM ID: 0225346[Serial]
+
+60. Author(s): Polska Akademia Nauk. Wydział VI--Nauk Medycznych.
+Title Abbreviation: Ann Med Sect Pol Acad Sci
+Title(s): Annals of the Medical Section of the Polish Academy of Sciences.
+Publication Start Year: 1966
+Publication End Year: 1976
+Frequency: Irregular
+Country of Publication: Poland
+Publisher: Warsaw, Polska Akademia Nauk, Wydział Nauk Medycznych [1966?]-1976.
+Latest Publisher: Warsaw : Polska Akademia Nauk, Wydzial Nauk Medycznych
+Description: 21 v. ill.
+Language: English
+ISSN: 0048-4733(Print); 0048-4733(Linking)
+Coden: ALMPBF
+Fully Indexed In: MEDLINE: v19n2, 1974-1976; PubMed: v19n2, 1974-1976; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*
+Publication Type(s): Periodical
+Other ID: (DNLM)A35115000(s)(OCoLC)50369002
+NLM ID: 7505203[Serial]
+
+61. Author(s): Académie des sciences (France)
+Title Abbreviation: C R Acad Hebd Seances Acad Sci D
+Title(s): Comptes rendus hebdomadaires des séances de l'Académie des sciences. Série D: 
+Sciences naturelles.
+Publication Start Year: 1966
+Publication End Year: 1978
+Frequency: Weekly
+Country of Publication: France
+Publisher: Paris, Gauthier-Villars.
+Latest Publisher: Paris : Gauthier Villars Editeur
+Description: v. ill.
+Language: French
+ISSN: 
+Coden: CHDDAT
+LCCN: 67052736, sn 78002198
+Selectively Indexed in: MEDLINEv262,Jan. 3, 1966-v287,Dec. 11/18, 1978PubMedv262,Jan. 3, 1966-v287,Dec. 11/18, 1978Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Medicine*
+Publication Type(s): Periodical
+Notes: Includes section with title: Vie academique, 1966-73 (issued separately as a
+supplement 1974- ).
+Other ID: (DNLM)C35140000(s)(OCoLC)01124701
+NLM ID: 7501107[Serial]
+
+62. Author(s): Science Service.
+Title Abbreviation: Sci News
+Title(s): Science news.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Twenty-three no. a year, 2018-
+Country of Publication: United States
+Publisher: Washington, Science Service.
+Latest Publisher: [Washington, D.C.] : Society for Science & The Public
+Description: v. illus., ports.
+Language: English
+ISSN: 0036-8423(Print); 1943-0930(Electronic); 0036-8423(Linking)
+Coden: SCNEBK
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1943-0930, https://www.sciencenews.org/
+In: PubMed: v113n9, Mar. 4, 1978-v118n1, Jul. 5, 1980; 
+Selectively Indexed in: MEDLINEv113n9, Mar. 4, 1978-v118n1, Jul. 5, 1980Hospital literature indexv113n9,  4, 1978-v118n1, Jul. 5, 1980
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): PeriodicalPopular Work
+Notes: Vol. 113, 1978 complete in 25 issues. Also issued online
+Other ID: (DNLM)S12060000(s)(OCoLC)02367617
+NLM ID: 0176400[Serial]
+
+63. Author(s): International Union of the History and Philosophy of Science. Division of History
+of Science.; Polska Akademia Nauk. Zakład Historii Nauki i Techniki.
+Title Abbreviation: Organon
+Title(s): Organon.
+Publication Start Year: 1964
+Publication End Year: 
+Frequency: Annual
+Country of Publication: Poland
+Publisher: Warszawa, Państwowe Wydawn. Naukowe.
+Description: no.
+Language: French
+ISSN: 0078-6500(Print); 0078-6500(Linking)
+Coden: ORNOA8
+LCCN: 65-51757
+Selectively Indexed in: MEDLINEv7, 1970-n47, 2015PubMedv7, 1970-n47, 2015
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science/history*; Technology/history*
+Publication Type(s): Periodical
+Notes: At head of title, 1964- Institut d'histoire de la science et de la technique
+auprès de l'Académie polonaise des sciences avec le concours de la Division
+d'histoire des sciences de l'Union internationale d'histoire et de philosophie
+des sciences. Articles in French, English, or Russian.
+Other ID: (DNLM)O10080000(s)(OCoLC)03022050
+NLM ID: 0117627[Serial]
+
+64. Author(s): British Society for the History of Science.
+Title Abbreviation: Br J Hist Sci
+Title(s): British journal for the history of science.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: Four no. a year, 1987-
+Country of Publication: England
+Publisher: London
+Latest Publisher: Cambridge : Cambridge University Press
+Description: v. illus., ports.
+Language: English
+ISSN: 0007-0874(Print); 1474-001X(Electronic); 0007-0874(Linking)
+Coden: BJHSAT
+Electronic Links: https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science
+Selectively Indexed in: MEDLINEv2n8, 1965-PubMedv2n8, 1965-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: Science/history*
+Notes: Place of publication varies. Issues for June 1962- called also no. 1- Also issued
+online. Official organ of the British Society for the History of Science, and
+supersedes its Bulletin. Indexes: Vols. 1 (1962)-30 (1997) as v. 30, pt. 4.
+Other ID: (OCoLC)01537266(DNLM)B34820000(s)
+NLM ID: 0144554[Serial]
+
+65. Title Abbreviation: Hist Sci
+Title(s): History of science.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: Quarterly, 1973-
+Country of Publication: United States
+Publisher: Cambridge, Eng. : Science History Publications
+Latest Publisher: 2014-: London : Sage
+Description: v.
+Language: English
+ISSN: 0073-2753(Print); 1753-8564(Electronic); 0073-2753(Linking)
+Coden: HISCAR
+Electronic Links: https://journals.sagepub.com/home/hos
+In: PubMed: Selected citations only; 
+Selectively Indexed in: MEDLINESelected citations only
+Current Indexing Status: Not currently indexed for MEDLINE. Citations are for articles where the manuscript was deposited in PubMed Central (PMC) in compliance with public access policies. For further information, see <a href="/pmc/about/authorms/" target="new">Author Manuscripts in PMC.</a>
+MeSH: History of Medicine*
+Publication Type(s): Periodical
+Notes: Issues for Mar. 1973- called also no. 11- . Also issued online.
+Other ID: (DNLM)H14300000(s)(OCoLC)00971471
+NLM ID: 17340520R[Serial]
+
+66. Author(s): Consiglio nazionale delle ricerche (Italy)
+Title Abbreviation: Ric Sci 2 Ser Pt 1 Riv
+Title(s): La Ricerca scientifica. 2. ser., pt.1: Rivista.
+Publication Start Year: 1961
+Publication End Year: 1965
+Country of Publication: Italy
+Publisher: Roma, Consiglio nazionale delle ricerche.
+Latest Publisher: Rome : Consiglio Nazionale Delle Ricerche
+Description: 5 v. in 7. illus., ports.
+Language: Italian
+ISSN: 0556-9672(Print); 0556-9672(Linking)
+Fully Indexed In: MEDLINE: v5, 1965; PubMed: v5, 1965; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Research*; Science*
+Publication Type(s): Periodical
+Notes: Called also anno 31-35.
+Other ID: (DNLM)R48590000(s)(OCoLC)50364677
+NLM ID: 0054202[Serial]
+
+67. Author(s): Consiglio nazionale delle ricerche (Italy)
+Title Abbreviation: Ric Sci 2 Ser Pt 2 Rend B
+Title(s): La Ricerca scientifica. 2. ser., pt. 2: Rendiconti. Sezione B: Biologica.
+Publication Start Year: 1961
+Publication End Year: 1965
+Country of Publication: Italy
+Publisher: Roma, Consiglio nazionale delle ricerche.
+Latest Publisher: Rome : Consiglio Nazionale Delle Ricerche
+Description: 6 v. illus.
+Language: Italian, English
+ISSN: 0556-9699(Print); 0556-9699(Linking)
+Coden: RSRBAT
+Fully Indexed In: MEDLINE: v6, 1965; PubMed: v6, 1965; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*
+Publication Type(s): Periodical
+Notes: Called also anno 31-35. Summaries in French, English, and German.
+Other ID: (DNLM)R48620000(s)(OCoLC)50364761
+NLM ID: 0054211[Serial]
+
+68. Author(s): New York Academy of Sciences.
+Title Abbreviation: Sciences (New York)
+Title(s): The Sciences.
+Publication Start Year: 1961
+Publication End Year: 2001
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, New York Academy of Sciences.
+Description: v. illus.
+Language: English
+ISSN: 0036-861X(Print); 0036-861X(Linking)
+Coden: SCNCAD
+Selectively Indexed in: MEDLINEv16n5, Sept.-Oct. 1976-v39n4, July-Aug. 1999PubMedv16n5, Sept.-Oct. 1976-v39n4, July-Aug. 1999
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to bioethics were indexed.
+MeSH: Science*
+Publication Type(s): Periodical
+Other ID: (DNLM)S12660000(s)(OCoLC)00856129
+NLM ID: 0404513[Serial]
+
+69. Title Abbreviation: Physis Riv Int Stor Sci
+Title(s): Physis; rivista internazionale di storia della scienza.
+Publication Start Year: 1959
+Publication End Year: 
+Frequency: Semiannual, 1999-
+Country of Publication: Italy
+Publisher: Firenze.
+Latest Publisher: Florence : Casa Editrice Leo S Olschki
+Description: v. illus.
+Language: Italian
+ISSN: 0031-9414(Print); 0031-9414(Linking)
+Coden: PYSSA3
+Selectively Indexed in: MEDLINEv11, 1969-v50n1-2, 2015PubMedv11, 1969-v50n1-2, 2015
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science/history*
+Notes: Subtitle varies. Vol. 27 complete in two numbers. Publication suspended
+1986-1990. Text in English, German, or Italian.
+Other ID: (DNLM)P15520000(s)(OCoLC)50379675
+NLM ID: 0076224[Serial]
+
+70. Author(s): Mezhduvedomstvennai︠a︡ komissii︠a︡ po problemam Severa (Soviet Union)
+Title Abbreviation: Probl Sev
+Title(s): Problemy Severa.
+Publication Start Year: 1958
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Russia (Federation)
+Publisher: Moskva.
+Latest Publisher: Moskva : Izdatelstvo Nauka
+Description: v. illus.
+Language: Russian
+ISSN: 0555-2982(Print); 0555-2982(Linking)
+Coden: PBYSA8
+Selectively Indexed in: MEDLINEv11, 1967-v21, 1983PubMedv11, 1967-v21, 1983Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Acclimatization*; Cold Climate*; Nutritional Physiological Phenomena*
+Publication Type(s): Periodical
+Notes: Vyp. 6 constitutes the proceedings of the Nauchnoe soveshchanie po problemam
+akklimatizatsii i pitaniia naseleniia na Severe. Issued by the Komissiia po
+problemam Severa Soveta po izucheniiu proizvoditel'nykh sil of the Akademiia nauk
+SSSR.
+Other ID: (DNLM)P27260000(s)(OCoLC)06108593
+Collection Status: Not in the NLM Collection
+NLM ID: 0401154[Serial]
+
+71. Author(s): Instytut Historii Nauki, Oświaty i Techniki (Polska Akademia Nauk); Polska
+Akademia Nauk. Komitet Historii Nauki.; Polska Akademia Nauk. Zakład Historii
+Nauki i Techniki.
+Title Abbreviation: Kwart Hist Nauki Tech
+Title(s): Kwartalnik historii nauki i techniki : Kwartal'nyĭ zhurnal istorii nauki i
+tekhniki -.
+Publication Start Year: 1956
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Poland
+Publisher: Warszawa Państwowe Wydawn. Naukowe.
+Description: v. : ill., ports.
+Language: Polish, English, Russian
+ISSN: 0023-589X(Print); 0023-589X(Linking)
+Coden: KHNTAB
+Electronic Links: https://ejournals.eu/czasopismo/kwartalnik-historii-nauki-i-techniki
+Selectively Indexed in: MEDLINEv77, 1970-v61n2, 2016PubMedv77, 1970-Jv61n2, 2016
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science/history*; Technology/history*
+Publication Type(s): Periodical
+Notes: Description based on: r. 11, nr. 1-2, 1966. Some numbers issued only in English
+with English title. Table of contents and some summaries in English and Russian. 
+Issued 1956-64? by the Komitet Historii Nauki of the Polska Akademia Nauk; 1964?-
+by the academy's Zakład Historii Nauki i Techniki; 197-?- by the academy's
+Instytut Historii Nauki, Oświaty i Techniki. Indexes: Rok 1 (1956)-r. 10 (1965),
+with r. 11.
+Other ID: (OCoLC)02263350(DNLM)K13760000(s)
+NLM ID: 0065346[Serial]
+
+72. Author(s): Zhongguo ke xue yuan.
+Title Abbreviation: Sci Sin
+Title(s): Scientia Sinica.
+Publication Start Year: 1954
+Publication End Year: 1981
+Frequency: Monthly
+Country of Publication: China
+Publisher: Peking, China : Academia Sinica, 1954-1981.
+Description: 22 v. : ill.
+Language: English
+ISSN: 0250-7870(Print); 0250-7870(Linking)
+Coden: CKKHBU
+In: PubMed: v14n6, Jun. 1965-v24n12, Dec. 1981, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv14n6, Jun. 1965-v24n12, Dec. 1981Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: On cover: Chung-kuo k'o hsüeh. Publication suspended: 1966-1972. Supplements
+accompany some vols. Articles in English.
+Other ID: (OCoLC)06494586(DNLM)S12880000(s)
+NLM ID: 8209876[Serial]
+
+73. Title Abbreviation: Experientia Suppl
+Title(s): Experientia. Supplementum.
+Publication Start Year: 1953
+Publication End Year: 1989
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Basel : Birkhauser Verlag
+Description: 56 v. ill.
+Language: English
+ISSN: 0071-335X(Print); 0071-335X(Linking)
+Coden: EXPSAU
+In: PubMed: v15, 1969-v56, 1989; 
+Selectively Indexed in: MEDLINEv15, 1969-v56, 1989Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Research*; Science*
+Publication Type(s): Periodical
+Other ID: (OCoLC)02063533(DNLM)E19220000(s)
+NLM ID: 0320043[Serial]
+
+74. Author(s): Ḥevrah le-toldot ha-refuʼah u-madʻe ha-ṭevaʻ be-Yiśraʼel.; Aḳademyah
+li-refuʼah bi-Yerushalayim.
+Title Abbreviation: Korot
+Title(s): Korot.
+Publication Start Year: 1952
+Publication End Year: 
+Frequency: Annual, 1994-
+Country of Publication: Israel
+Publisher: Yerushalayim : ha-Akademyah li-refuah,
+Latest Publisher: <2013-> : Jerusalem : Hebrew University Magnes Press
+Description: v. : ill. ; 22cm.
+Language: Hebrew, English
+ISSN: 0023-4109(Print); 0023-4109(Linking)
+Coden: KOROAV
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History of Medicine*; Science/history
+Publication Type(s): Periodical
+Notes: Description based on: Kerekh 4, hov. 1-2 (Kislev 727, i.e. Dec. 1966); title from
+cover. Vol. 4?- called also 16th year?- . In Hebrew, with summaries in English,
+1952- ; text in two sections, Hebrew and English, 197 - . Organ of the Israel
+Society of the History of Medicine.
+Other ID: (OCoLC)07602880(DNLM)K10760000(s)
+NLM ID: 2985207R[Serial]
+
+75. Author(s): Asociación Venezolana para el Avance de la Ciencia.
+Title Abbreviation: Acta Cient Venez
+Title(s): Acta científica venezolana.
+Publication Start Year: 1950
+Publication End Year: 2004
+Frequency: Six no. a year
+Country of Publication: Venezuela
+Publisher: [Caracas] Asociación Venezolana para el Avance de la Ciencia.
+Description: v. ill.
+Language: Spanish, English
+ISSN: 0001-5504(Print); 0001-5504(Linking)
+Coden: ACVEAU
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv16n3, 1965-v55n1, 2004PubMedv16n3, 1965-v55n1, 2004Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Supplements accompany some numbers Microfilm. v. 1 (1950)-3 (1952), v. 13
+(1962)-14 (1963) + Index v. 1 (1950)-2 (1952), v. 10 (1959)-13 (1962) + suppl. 1 
+(1963). 2 microfilm reels : negative ; 35 mm. Indexes: Vols. 1-2, 1950-51, with
+v. 2; Vols. 5-6, 1954-55, with v. 6; Vols. 10-13, 1959-62, with v. 13.
+Other ID: (DNLM)A04935000(s)(OCoLC)02109510
+NLM ID: 0070154[Serial]
+
+76. Author(s): Bŭlgarska akademii︠a︡ na naukiti︠e︡.
+Title Abbreviation: C R Acad Bulg Sci
+Title(s): Comptes rendus de l'Académie Bulgare des sciences : sciences mathématiques et
+naturelles.
+Publication Start Year: 1948
+Publication End Year: 
+Frequency: Monthly, 1950-
+Country of Publication: Bulgaria
+Publisher: Sofiia : Presses de l'Académie des Sciences, 1948-
+Latest Publisher: 1950- : Sofia : Bŭlgarska akademii︠a︡ na naukite
+Description: v. illus.
+Language: French, Bulgarian, English, German
+ISSN: 0366-8681(Print)
+Coden: DBANAD
+LCCN: 58025747, sn 92020659
+Electronic Links: http://www.proceedings.bas.bg/
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv18n4, 1965-v23n4, 1970,v26n1, 1973-v53n6, 2000PubMedv18n4, 1965-v23n4, 1970,v26n1, 1973-v53n6, 2000Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to space life sciences were indexed.
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Issues for 1950-1990 also have title in Russian: Doklady Bolgarskoĭ akademii
+nauk. Issues for 1991- also have title in Bulgarian: Dokladi na Bŭlgarskata
+akademii︠a︡ na naukite. Issues for <t. 59, no. 5 (2006)-> lack subtitle. Latest
+issue consulted: t. 59, no. 5 (2006). Also issued online. In Bulgarian, English, 
+French, and German, 1948-<1990>; in English, 1992- ; table of contents also in
+French.
+Other ID: (OCoLC)02250677(DNLM)D18660000(s)
+NLM ID: 7509180[Serial]
+
+77. Title Abbreviation: Experientia
+Title(s): Experientia.
+Publication Start Year: 1945
+Publication End Year: 1996
+Frequency: Monthly
+Country of Publication: Switzerland
+Publisher: Basel, Switzerland : Birkhäuser Verlag
+Description: 52 v. illus.
+Language: English, French, German, Italian
+ISSN: 0014-4754(Print); 0014-4754(Linking)
+Coden: EXPEAM
+In: PubMed: v21n1, Jan. 15, 1964-v52, Dec. 1996, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv21n1, Jan. 15, 1964-v52, Dec. 1996Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Microfilm. v. 24, pgs. 641-1296 (1968). 1 microfilm reel : negative ; 35 mm.
+Articles in English, German, or French, 1945- ; in English, 1982?- .
+Other ID: (DNLM)E19200000(s)(OCoLC)01327195
+NLM ID: 0376547[Serial]
+
+78. Author(s): Københavns universitet. Universitetsbiblioteket.
+Title Abbreviation: Acta Hist Sci Nat Med
+Title(s): Acta historica scientiarum naturalium et medicinalium.
+Publication Start Year: 1942
+Publication End Year: 2003
+Frequency: Irregular
+Country of Publication: Denmark
+Publisher: Copenhagen : Museum Tusculanum Press
+Description: v. illus., ports.
+Language: English
+ISSN: 0065-1311(Print); 0065-1311(Linking)
+Coden: AHSMA7
+LCCN: sn 85006200
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv22, 1970-v31, 1974; selected citations only after this datePubMedv22, 1970-v31, 1974; selected citations only after this dateIndex medicus
+Referenced in: Garrison-Morton (5th ed.) 6651
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History of Medicine*; Science/history*
+Notes: Issued in Danish, English, French, or German. Issued by the Bibliotheca
+Universitatis Hauniensis.
+Other ID: (DNLM)A05940000(s)(OCoLC)01460903
+NLM ID: 0416660[Serial]
+
+79. Author(s): Scientific Research Society of America.; Sigma Xi, the Scientific Research
+Society of North America.; Sigma Xi, the Scientific Research Society.
+Title Abbreviation: Am Sci
+Title(s): American scientist.
+Publication Start Year: 1942
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New Haven, Conn. : Sigma Xi, the Scientist Research Society
+Description: v. ill., ports.
+Language: English
+ISSN: 0003-0996(Print); 1545-2786(Electronic); 0003-0996(Linking)
+Coden: AMSCAC
+Electronic Links: http://www.americanscientist.org/
+In: PubMed: v53n4, Dec. 1965-v71n3, 1983, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv53n4, Dec. 1965-v71n3, 1983Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Research*; Science*
+Publication Type(s): Periodical
+Notes: Also issued online. Microfilm. 30N2-30N68,31-35 1942-1942,1943-1947. 3 microfilm 
+reels : negative ; 35 mm. Issued 1942-78 by the Society of the Sigma Xi, and,
+Apr. 1950-1973 by the Scientific Research Society of America; 1979- by the Sigma 
+Xi, the Scientific Research Society. Indexes: Vols. 34-61, 1946-73. 1 v.
+Other ID: (DNLM)A25830000(s)(OCoLC)01480717
+NLM ID: 0370514[Serial]
+
+80. Author(s): Imperial Chemical Industries, ltd.
+Title Abbreviation: Endeavour
+Title(s): Endeavour.
+Publication Start Year: 1942
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, Imperial Chemical Industries.
+Latest Publisher: Oxford : Pergamon Press
+Description: v. illus., ports.
+Language: English
+ISSN: 0160-9327(Print); 1873-1929(Electronic); 0160-9327(Linking)
+Coden: ENDEAS
+LCCN: 44005904, sc 85002228, sn 79009556
+Electronic Links: https://www.sciencedirect.com/journal/endeavour
+In: PubMed: Sept. 1965-, OLDMEDLINE; 
+Selectively Indexed in: MEDLINESept. 1965-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Published also in French, Spanish, and German editions, 1942 ; in Italian, Jan.
+1948- Also i ssued online.
+Other ID: (DNLM)E06860000(s)(OCoLC)01567873
+NLM ID: 0375037[Serial]
+
+81. Author(s): Nippon Kagakushi Gakkai.
+Title Abbreviation: Kagakushi Kenkyu
+Title(s): Kagakushi kenkyu. [Journal of the history of science, Japan.
+Publication Start Year: 1941
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Japan
+Publisher: Tokyo] Iwanami Shoten.
+Latest Publisher: Tokyo : Japan. Metereological Agency
+Description: v. illus., ports.
+Language: Japanese
+ISSN: 0022-7692(Print); 0022-7692(Linking)
+Selectively Indexed in: MEDLINEv9n94, Summer 1970-v55n278, July 2016PubMedv9n94, Summer 1970-v55n278, July 2016
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science/history*
+Publication Type(s): Periodical
+Notes: go 73-84, 1965-67, in go 84. Table of contents also in English. Issued by Nippon 
+Kagakushi Gakkai.
+Other ID: (OCoLC)01754939(DNLM)K00520000(s)
+NLM ID: 0326141[Serial]
+
+82. Author(s): British Association for the Advancement of Science.
+Title Abbreviation: Adv Sci
+Title(s): Advancement of science.
+Publication Start Year: 1939
+Publication End Year: 1971
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, New York, Published for the British Assn. for the Advancement of Science 
+by Academic Press [etc.]
+Latest Publisher: London : Academic Press
+Description: 39 v. ill.
+Language: English
+ISSN: 0001-866X(Print); 0001-866X(Linking)
+Coden: ADSCAH
+Fully Indexed In: MEDLINE: v22n100,Oct. 1965-v27n134,Jun. 1971; PubMed: v22n100,Oct. 1965-v27n134,Jun. 1971; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Microfilm. v.1(1939)-16(1960). 6 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)A12960000(s)(OCoLC)01461138
+NLM ID: 0370412[Serial]
+
+83. Title Abbreviation: Ann Sci
+Title(s): Annals of science.
+Publication Start Year: 1936
+Publication End Year: 
+Frequency: Quarterly, 1998-
+Country of Publication: England
+Publisher: London : Taylor & Francis
+Description: v. illus., ports.
+Language: English
+ISSN: 0003-3790(Print); 1464-505X(Electronic); 0003-3790(Linking)
+Coden: ANNSA8
+Electronic Links: http://www.tandfonline.com/loi/tasc20
+In: PubMed: v20n4, Dec. 1964-; 
+Selectively Indexed in: MEDLINEv20n4, Dec. 1964-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; History of Medicine (non-Index Medicus)
+MeSH: Science*; Science/history*
+Publication Type(s): Periodical
+Notes: Also issued online. Indexes: v. 1-25, 1936-69. 1 v; v. 26-43, 1970-86. 1 v.
+Other ID: (DNLM)A35475000(s)(OCoLC)01481407
+NLM ID: 0372361[Serial]
+
+84. Author(s): Rome,A; Sarton,George,1884-1956.
+Title Abbreviation: Osiris
+Title(s): Osiris.
+Publication Start Year: 1936
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Brugis, Belgium.
+Latest Publisher: Chicago Il : University Of Chicago Press For The History Of Science Society
+Description: v. illus., ports.
+Language: English
+ISSN: 0369-7827(Print); 0369-7827(Linking)
+Electronic Links: https://www.journals.uchicago.edu/toc/osiris/current
+Selectively Indexed in: MEDLINEv1, 1985-v31, 2016PubMedv1, 1985-v31, 2016
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science/history*
+Notes: Editors: 1936-54, G. Sarton; 1956- A. Rome and J. Mogenet. Imprint varies.
+Suspended publication 1940-1947 and 1969-1984. Also issued online Text in
+English, French, or German.
+Other ID: (OCoLC)01761551(DNLM)O12280000(s)
+NLM ID: 0057764[Serial]
+
+85. Title Abbreviation: Abh Gesch Med Naturwiss
+Title(s): Abhandlungen zur Geschichte der Medizin und der Naturwissenschaften.
+Publication Start Year: 1934
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin, Ebering.
+Latest Publisher: Husum : Matthieson Verlag
+Description: v. ill., ports.
+Language: German
+ISSN: 0174-870X(Print); 0174-870X(Linking)
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: History of Medicine*; Science/history
+Publication Type(s): Collected Work
+Notes: Microfilm. no. 1 (1936)-12 (1936), no. 31 (1939)-38 (1942). 2 microfilm reels :
+negative ; 35 mm.
+Other ID: (DNLM)A00739000(s)(OCoLC)01460551
+NLM ID: 14480310R[Serial]
+
+86. Author(s): Akademii︠a︡ nauk SSSR.
+Title Abbreviation: Dokl Akad Nauk SSSR
+Title(s): Doklady Akademii nauk SSSR.
+Publication Start Year: 1933
+Publication End Year: 1992
+Frequency: Thirty six no. a year
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Akademiia Nauk Sssr
+Description: 322 v. illus., ports.
+Language: Russian, English, French, German
+ISSN: 0002-3264(Print); 0002-3264(Linking)
+Coden: DANKAS
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv160n5,Feb. 11, 1965-v322n3, 1992PubMedv160n5,Feb. 11, 1965-v322n3, 1992Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Title also in French: Comptes rendus de l'Académie des sciences de l'URSS: nouv.
+sér., Oct. 1933-47? Volume numbers irregular: issues for 1933 have no volume
+numbering; issues for 1934 called t. 1. Tom 50 never published. Issues for
+1948?-54 called also novaia seriia. Articles in Russian, with translations or
+summaries and tables of contents in English, French, or German, Oct. 1933-35;
+tables of contents also in English, 1956-92. --Tom 1-100, 1933-55. 1 v. Indexes: 
+Tom 101-155, 1955-64. 1 v.
+Other ID: (DNLM)D18480000(s)(OCoLC)01478791
+NLM ID: 7505465[Serial]
+
+87. Title Abbreviation: Curr Sci
+Title(s): Current science.
+Publication Start Year: 1932
+Publication End Year: 
+Frequency: Semimonthly, <Mar. 20, 1979->
+Country of Publication: India
+Publisher: Bangalore, Current Science Association
+Latest Publisher: Bangalore : Indian Academy Of Sciences
+Description: v. illus., ports.
+Language: English
+ISSN: 0011-3891(Print); 0011-3891(Linking)
+Coden: CUSCAM
+LCCN: 44042917
+Electronic Links: https://www.currentscience.ac.in/about.php
+In: MEDLINE: v42n5, Mar. 5, 1973-v47n17, Sept. 5, 1978; selected citations only after
+this date, OLDMEDLINE; 
+Selectively Indexed in: PubMedv42n5, Mar. 5, 1973-v47n17, Sept. 5, 1978; selected citations only after this date
+Current Indexing Status: Not currently indexed for MEDLINE. Includes citations from print indexes prior to 1966.
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)C57300000(s)(OCoLC)01565678
+NLM ID: 0372620[Serial]
+
+88. Author(s): Consiglio nazionale delle ricerche (Italy)
+Title Abbreviation: Ric Sci
+Title(s): La Ricerca scientifica.
+Publication Start Year: 1931
+Publication End Year: 1976
+Frequency: Monthly
+Country of Publication: Italy
+Publisher: Roma, Consiglio nazionale delle ricerche
+Description: v. illus., ports.
+Language: Italian
+ISSN: 0035-5011(Print); 0035-5011(Linking)
+Coden: RISCAZ
+Fully Indexed In: MEDLINE: v36n3,Mar. 1966-v40n4, Jul./Aug. 1970; Index medicus
+In: PubMed: v36n3,Mar. 1966-v40n4, Jul./Aug. 1970, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Medicine*; Research*; Science*
+Publication Type(s): Periodical
+Notes: Issued 1961-65 as La Ricerca scientifica. 2. ser., pt. 1, Rivista and La Ricerca 
+scientifica. 2 ser. pt. 2, Rendiconti - Sezione A: Abiologica and Sezione B:
+Biologica. Cataloged separately in this Library. Title varies slightly.
+Publication suspended 1944-June 1945. Separately paged supplements accompany some
+numbers. Articles in Italian or English.
+Other ID: (DNLM)R48580000(s)(OCoLC)04893259
+NLM ID: 0054204[Serial]
+
+89. Author(s): Akademii︠a︡ nauk SSSR.
+Title Abbreviation: Vestn Akad Nauk SSSR
+Title(s): Vestnik Akademii nauk SSSR.
+Publication Start Year: 1931
+Publication End Year: 1992
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva.
+Latest Publisher: Moskva : Akademiia Nauk Sssr
+Description: v. illus., ports.
+Language: Russian
+ISSN: 0002-3442(Print); 0002-3442(Linking)
+Coden: VANSAC
+Fully Indexed In: MEDLINE: v35n8,Aug. 1965-v40n9,Sept. 1970; PubMed: v35n8,Aug. 1965-v40n9,Sept. 1970; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Ceased with 1992/1.
+Other ID: (DNLM)V04180000(s)(OCoLC)01141537
+NLM ID: 7501279[Serial]
+
+90. Author(s): Academia Brasileira de Ciências.
+Title Abbreviation: An Acad Bras Cienc
+Title(s): Anais da Academia Brasileira de Ciências.
+Publication Start Year: 1929
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Brazil
+Publisher: Rio De Janeiro : Academia Brasileira De Ciencias
+Description: v. illus.
+Language: English, Portuguese
+ISSN: 0001-3765(Print); 1678-2690(Electronic); 0001-3765(Linking)
+Coden: AABCAD
+LCCN: 35022697, sc 81003063, sn 78006875
+Electronic Links: http://www.scielo.br/scielo.php?script=sci_serial&pid=0001-3765&lng=en&nrm=iso
+In: PubMed: v42n2, Jun. 1970-, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv42n2, Jun. 1970-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Title varies slightly. Print issues ceased with 2021. Also issued online.
+Microfilm. v. 1 (1929)-22 (1950). 9 microfilm reels : negative ; 35 mm. Text in
+English or Portuguese. Online version available in English, Spanish and
+Portuguese, 2000- . Search interface available in English, Spanish and
+Portuguese.
+Other ID: (DNLM)A26715000(s)(OCoLC)01143768
+NLM ID: 7503280[Serial]
+
+91. Author(s): Institute of Physics (Great Britain); Institute of Physics and the Physical
+Society.; National Physical Laboratory (Great Britain)
+Title Abbreviation: J Sci Instrum
+Title(s): Journal of scientific instruments.
+Publication Start Year: 1923
+Publication End Year: 1969
+Country of Publication: England
+Publisher: London.
+Latest Publisher: London : Institute Of Physics And The Physical Society
+Description: 46 v. illus.
+Language: English
+ISSN: 0950-7671(Print); 0950-7671(Linking)
+Coden: JSINAY
+Fully Indexed In: MEDLINE: v42n9,Sept. 1965-ser.2,v2,Dec. 1969; PubMed: v42n9,Sept. 1965-ser.2,v2,Dec. 1969; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science/instrumentation*
+Publication Type(s): Periodical
+Notes: Issues for 1948-49 have title: Journal of scientific instruments and of physics
+in industry. Beginning with Jan. 1950, the physics in industry section was
+incorporated into the British journal of applied physics. A preliminary number
+was issued May, 1922. Called also, 1968-69, Journal of physics E. Issued
+1923-July 1966, by the Institute of Physics (with the cooperation of the National
+Physical Laboratory); Aug. 1966-Dec. 1969, by the Institute of Physics and The
+Physical Society.
+Other ID: (OCoLC)11580256(DNLM)J38090000(s)
+NLM ID: 1276761[Serial]
+
+92. Title Abbreviation: Sci Prog
+Title(s): Science progress.
+Publication Start Year: 1916
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Oxford, Blackwell Scientific Publications [etc.]
+Latest Publisher: <2019-> : [London] : SAGE Publications
+Description: v. illus., ports.
+Language: English
+ISSN: 0036-8504(Print); 2047-7163(Electronic); 0036-8504(Linking)
+Coden: SCPRAY
+Electronic Links: https://journals.sagepub.com/home/scia, https://pmc.ncbi.nlm.nih.gov/journals/?term=0411361
+In: PubMed: v53n210, Apr. 1965-, OLDMEDLINE, PMC; 
+Selectively Indexed in: MEDLINEv53n210, Apr. 1965-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Research*; Science*
+Publication Type(s): Periodical
+Notes: Issues for 1919-1993 have title: Science progress in the twentieth century.
+Publication suspended 1973. Also issued online. Microfilm. v. 11 (1916)-25
+(1931). 14 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)S12280000(s)(OCoLC)04295306
+NLM ID: 0411361[Serial]
+
+93. Author(s): National Academy of Sciences (U.S.); National Research Council (U.S.)., List of
+publications, 1916-1925.
+Title Abbreviation: Proc Natl Acad Sci U S A
+Title(s): Proceedings of the National Academy of Sciences of the United States of America.
+Publication Start Year: 1915
+Publication End Year: 
+Frequency: Weekly, 2004-
+Country of Publication: United States
+Publisher: Washington, DC : National Academy of Sciences
+Description: v. illus.
+Language: English
+ISSN: 0027-8424(Print); 1091-6490(Electronic); 0027-8424(Linking)
+Coden: PNASA6
+LCCN: 16010069
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=7505876, https://www.pnas.org/
+In: OLDMEDLINE, PMC; 
+Selectively Indexed in: MEDLINEv53n5,May 1965-PubMedv1,1915-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Vols. for <1999-> also called: PNAS. Not to be confused with another publication 
+with the same title covering Mar. 1863-Oct. 1894, issued in 3 pt.: pt. 1, 1877;
+pt. 2, 1884; pt. 3, 1895. Vol. 13, no. 1, pt. 2, includes Index (v. 1-10,
+1915-1924) to the Proceedings; List of other publications of the Academy from
+1863-1926; and List of publications of the National Research Council from
+1916-1925. Issues for 1980-1984 in two parts with consecutive page numbering:
+Physical sciences and Biological sciences. Some issues accompanied by supplements
+with distinctive titles. Also issued online. Microfilm. v. 1 (1915)-v.15 (1929) +
+index v. 1 (1915)-v.10 (1924) 7 microfilm reels : negative ; 35 mm. Indexes:
+Vols. 1-10, 1915-24, in v. 13 (Includes list of academy publications, 1863-1926, 
+and list of publications of the National Research Council, 1916-25); Author
+index: Vols. 1-50, 1914-63. 1 v.
+Other ID: (DNLM)P39620000(s)(OCoLC)01607201
+NLM ID: 7505876[Serial]
+
+94. Author(s): Kaiser Wilhelm-Gesellschaft zur Förderung der Wissenschaften.;
+Max-Planck-Gesellschaft zur Förderung der Wissenschaften.; Gesellschaft
+Deutscher Naturforscher und Ärzte.; Hermann von Helmholtz-Gemeinschaft Deutscher
+Forschungszentren.; Max-Planck-Gesellschaft zur Förderung der Wissenschaften.,
+Tätigkeitsbericht.
+Title Abbreviation: Naturwissenschaften
+Title(s): Die Naturwissenschaften.
+Publication Start Year: 1913
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Berlin : Springer Verlag
+Description: v. illus., ports.
+Language: German, English
+ISSN: 0028-1042(Print); 1432-1904(Electronic); 0028-1042(Linking)
+Coden: NATWAY
+LCCN: 14013764
+Electronic Links: https://link.springer.com/journal/114
+Fully Indexed In: MEDLINE: v52n12, Jun. 1965-; Index medicus
+In: PubMed: v52n12, Jun. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Jahrg. 1-15, 1913-27. 1 v. Jahrg. 16-20, 1928-32, in Jahrg. 20. Suspended
+1945-June 1946. Vols. 38-39, 41, and 43 contain: Max-Planck-Gesellschaft zur
+Förderung der Wissenschaften. Tätigkeitsbericht, vols. for 1948/51-1954/56.
+Accompanied by supplement: Mitteilungen, 1953- Also issued online. Vols. for
+<2005-> have text in English only. Organ of the Gesellschaft Deutscher
+Naturforscher und Ärtze, 1924-44, Apr. 1950-<66> and, 1948-<66> of
+Max-Planck-Gesellschaft zur Förderung der Wissenschaften (1922-44 of
+Kaiser-Wilhelm-Gesellschaft zur Förderung der Wissenschaften); and of Hermann
+von Helmholtz-Gemeinschaft Deutscher Forschungszentren, <2010-> . Published for
+Gesellschaft Deutscher Naturforscher und Ärtze and Max-Planck-Gesellschaft zur
+Förderung der Wissenschaften.
+Other ID: (DNLM)N07780000(s)(OCoLC)01759509
+NLM ID: 0400767[Serial]
+
+95. Author(s): Kansas Academy of Science.
+Title Abbreviation: Trans Kans Acad Sci
+Title(s): Transactions of the Kansas Academy of Science.
+Publication Start Year: 1903
+Publication End Year: 
+Frequency: Quarterly, 1944-
+Country of Publication: United States
+Publisher: Topeka, Kan. : W.Y. Morgan, 1903-
+Latest Publisher: Lawrence Ks : Kansas Academy Of Science
+Description: v. : ill. ; 23 cm.
+Language: English
+ISSN: 0022-8443(Print); 0022-8443(Linking)
+Coden: TSASAH
+LCCN: 12033006, sn 78005113
+Electronic Links: http://www.bioone.org/loi/tkas
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv68n1, 1965-v90n1,Apr. 1987PubMedv68n1, 1965-v90n1,Apr. 1987Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Other Subject(s): Kansas Academy of Science
+Publication Type(s): Periodical
+Notes: Also issued online. Microfilm. v. 18 (1901)-v.65 (1962), General Index
+(1901-1904), (1914-1921), Index v.1-65 (1868-1962). 17 microfilm reels : negative
+; 35 mm. Indexes: Vols. 1-65, 1872-1962, 1 v. (Includes index to the transactions
+issued under earlier titles).
+Other ID: (OCoLC)01280185(DNLM)T16960000(s)
+NLM ID: 7506117[Serial]
+
+96. Author(s): New York Academy of Sciences.
+Title Abbreviation: Trans N Y Acad Sci
+Title(s): Transactions of the New York Academy of Sciences.
+Publication Start Year: 1881
+Publication End Year: 1983
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York Ny : New York Academy Of Sciences
+Description: v. illus., ports.
+Language: English
+ISSN: 0028-7113(Print); 2164-0947(Electronic); 0028-7113(Linking)
+Coden: TNYAAE
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2164-0947
+In: PubMed: 27n8, Jun. 1965-v41,1983, OLDMEDLINE; 
+Selectively Indexed in: MEDLINE27n8, Jun. 1965-v41,1983Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Part of title on microfilm. Also issued online.
+Other ID: (DNLM)T17480000(s)(OCoLC)01760021
+NLM ID: 7506121[Serial]
+
+97. Author(s): American Association for the Advancement of Science.
+Title Abbreviation: Science
+Title(s): Science.
+Publication Start Year: 1880
+Publication End Year: 
+Frequency: Weekly (except last week in Dec.)
+Country of Publication: United States
+Publisher: New York, N.Y. : [s.n.] 1880-
+Latest Publisher: <Oct. 4, 1991- > : Washington, DC : American Association for the Advancement of
+Science
+Description: v. : ill. ; 26-32 cm.
+Language: English
+ISSN: 0036-8075(Print); 1095-9203(Electronic); 0036-8075(Linking)
+Coden: SCIEAS
+LCCN: 17024346
+Electronic Links: https://www.science.org/journal/science
+In: PubMed: v149n687, Aug. 27, 1965-, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv149n687, Aug. 27, 1965-Chemical abstractsIndex medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: "A weekly record of scientific progress." Published: Cambridge, Mass. : Science
+Company, Moses King, 1883- ; Lancaster, Pa. : Science Press, -1944; Lancaster,
+Pa. : American Association for the Advancement of Science, 1945- Since Jan. 1901 
+the official proceedings and most of the papers of the American Association for
+the Advancement of Science have been included in Science. Some issues accompanied
+by CD-ROM. None issued for Jan. 7, Jan. 28-Feb. 1882. Also issued online. Online 
+version contains the following titles: Science Magazine, Daily News, Science
+Signaling, Science Translational Medicine, SAGE KE and Science Careers.
+Microfilm. v.1 (1883)-v.23 (1894),new ser.: v.1 (1895)-v.111 (1950), v. 159
+(1968), v. 160 (1968), v. 161 (1968), v. 162 (1968), v. 162A supplement (1968),
+v.164 (1969)-v.174 (1971) 108 microfilm reels : negative ; 35 mm. Indexes: Index 
+in last issue of v., -1996; index only available in online version, 1997-
+Other ID: (DNLM)S11420000(s)(OCoLC)01644869
+NLM ID: 0404511[Serial]
+
+98. Author(s): New York Academy of Sciences.
+Title Abbreviation: Ann N Y Acad Sci
+Title(s): Annals of the New York Academy of Sciences.
+Publication Start Year: 1877
+Publication End Year: 
+Frequency: Approximately 28 vols. per year, 2006-
+Country of Publication: United States
+Publisher: New York, The Academy.
+Latest Publisher: 2006- : New York, NY : Malden, MA : New York Academy of Sciences ; Blackwell
+Description: v. ill.
+Language: English
+ISSN: 0077-8923(Print); 1749-6632(Electronic); 0077-8923(Linking)
+Coden: ANYAA9
+LCCN: 12037287, sn 80000082
+Electronic Links: https://nyaspubs.onlinelibrary.wiley.com/journal/17496632
+Fully Indexed In: MEDLINE: v114n2,Apr. 2, 1964-; Index medicus
+In: PubMed: v114n2,Apr. 2, 1964-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Some vols. issued out of chronological order. Beginning with v. 65- articles are 
+numbered separately within each vol. Records of meetings 1808-1916 in v. 11-27.
+Appendix to v. 15: The organizations of the New York Academy of Sciences. Also
+issued online. Microfilm. v. 1 (1879[i.e.1877])-v. 25 (1917), v. 26 (1915)-v. 46 
+(1947) 17 microfilm reels : negative ; 35 mm. Indexes: Vols. 79-250, 1960-74, in 
+v. 289; Vols. 240-303, 1975-77, in v. 331; Vols. 304-334, 1978-79, in v. 351.
+Indexes: Cumulative indexes issued biennially.
+Other ID: (DNLM)A35175000(s)(OCoLC)01306678
+NLM ID: 7506858[Serial]
+
+99. Title Abbreviation: Nature
+Title(s): Nature.
+Publication Start Year: 1869
+Publication End Year: 
+Frequency: Weekly
+Country of Publication: England
+Publisher: London, Macmillan Journals ltd.
+Latest Publisher: Basingstoke : Nature Publishing Group
+Description: v. illus., ports.
+Language: English
+ISSN: 0028-0836(Print); 1476-4687(Electronic); 0028-0836(Linking)
+Coden: NATUAS
+Electronic Links: http://www.nature.com/nature
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv205n976, Mar. 13, 1965-PubMedv205n976, Mar. 13, 1965-Index medicus
+Referenced in: NLM Hidden treasure p. 218 (April 1953 issue)
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Part of title on microfilm. Issued 1971-73 in three parts: Nature, Nature: New
+biology, and Nature: Physical science. The latter two are cataloged separately in
+this library. Supplements accompany many numbers. Also issued online. Microfilm. 
+v. 153 (1944 Jan-Jun), v. 218, no. 5136-5148 (1968), v. 220, no. 5162-5173
+(1968). 5 microfilm reels : negative ; 35 mm. Indexes: Vols. 229-234, 1971; Vols.
+235-240, 1972.
+Other ID: (OCoLC)01586310(DNLM)N07600000(s)
+NLM ID: 0410462[Serial]
+
+100. Author(s): American Society of Naturalists.; Essex Institute.; Peabody Academy of Science.
+Title Abbreviation: Am Nat
+Title(s): The American naturalist.
+Publication Start Year: 1867
+Publication End Year: 
+Frequency: Monthly, 1979-
+Country of Publication: United States
+Publisher: Salem, Mass. : Essex Institute
+Latest Publisher: Chicago, IL : University of Chicago Press
+Description: v. ill., ports.
+Language: English
+ISSN: 0003-0147(Print); 1537-5323(Electronic); 0003-0147(Linking)
+Coden: AMNTA4
+Electronic Links: http://www.journals.uchicago.edu/toc/an/current
+Fully Indexed In: MEDLINE: v161n1, Jan. 2003-; Index medicus
+In: PubMed: v161n1, Jan. 2003-, OLDMEDLINE
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Science*
+Publication Type(s): Periodical
+Notes: Also issued online. Issued Mar. 1867-Feb. 1868 by the Essex Institute; Mar.
+1868-Dec. 1950, by the Peabody Academy of Science; 1951- by the American Society 
+of Naturalists.
+Other ID: (DNLM)A25425000(s)(OCoLC)01480477
+NLM ID: 2984688R[Serial]
+
+101. Title Abbreviation: Sci Am
+Title(s): Scientific American.
+Publication Start Year: 1845
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, NY : Scientific American
+Description: v. illus. ports.
+Language: English
+ISSN: 0036-8733(Print); 0036-8733(Linking)
+Coden: SCAMAC
+LCCN: 04017574
+Electronic Links: https://www.scientificamerican.com/page/institutional-access/
+In: PubMed: v213n4, Oct. 1965-, OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv213n4, Oct. 1965-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Science*; Technology*
+Publication Type(s): Periodical
+Notes: Vol. 259. no. 4 (Oct. 1988) also reprinted with title: The science of AIDS. Vol. 
+268, no. 3 (Mar. 1993) misnumbered as v. 266, no. 3. Vol. 285, no. 2 (Aug. 2001) 
+misnumbered as v. 265, no. 2. Also issued online. Microfilm. v. 199 (1958), v.
+204, jan-jun (1961) 2 microfilm reels : negative ; 35 mm. Indexes: 1948-57. 1 v.
+Other ID: (DNLM)S13040000(s)(OCoLC)01775222
+NLM ID: 0404400[Serial]
+
+102. Author(s): Académie des sciences (France)
+Title Abbreviation: C R Hebd Seances Acad Sci
+Title(s): Comptes rendus hebdomadaires des séances de l'Académie des sciences.
+Publication Start Year: 1835
+Publication End Year: 1965
+Country of Publication: France
+Publisher: Paris.
+Latest Publisher: Paris : Académie des Sciences, Paris
+Description: 261 v. illus.
+Language: French
+ISSN: 0001-4036(Print); 0001-4036(Linking)
+Coden: COREAF
+LCCN: 17029111, sn 78002199
+Fully Indexed In: MEDLINE: v260n15,Apr. 12, 1965-v261, 1965; PubMed: v260n15,Apr. 12, 1965-v261, 1965; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Science*
+Publication Type(s): Periodical
+Notes: Microfilm. v.152 (1911),v.153 (1911),v.154 (1912),v.172 (1921)-v.176 (Jan-Mar
+1923),v.176 (Apr-Jun 1923),v.177 (1923)-v.178 (Jan-Jun 1924),v.179 (1924)-v.180
+(Jan-Jun 1925),v.181 (1925)-v.186 (Jan-Jun 1928),v.187 (1928)-v.192 (Jan-Jun
+1931). 30 microfilm reels : negative ; 35 mm. Indexes: Vols. 1 (1835)-31 (1850). 
+1 v.; Vols. 32 (1851)-61 (1865). 1 v.; Vols. 62 (1866)-91 (1880). 1 v.; Vols. 92 
+(1881)-121 (1895). 1 v.; Vols. 122 (1896)-151 (1910). 1 v.; Vols. 212 (1941)-241 
+(1955). 1 v.
+Other ID: (DNLM)C35100000(s)(OCoLC)01124612
+NLM ID: 7501108[Serial]
+

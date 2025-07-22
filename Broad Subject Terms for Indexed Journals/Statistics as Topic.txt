@@ -1,0 +1,1832 @@
+1. Author(s): American Physical Society,
+Title Abbreviation: Phys Rev E
+Title(s): Physical review. E.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Ridge, NY : American Physical Society, [2016]-
+Language: English
+ISSN: 2470-0045(Print); 2470-0053(Electronic); 2470-0061(Undetermined); 2470-0045(Linking)
+LCCN: 2015203980, 2015203981
+Electronic Links: http://journals.aps.org/pre
+Fully Indexed In: MEDLINE: v93n1, Jan. 2016-
+In: PubMed: v93n1, Jan. 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biophysical Phenomena; Nonlinear Dynamics; Physical Phenomena*
+Publication Type(s): Periodical
+Notes: "Covering statistical, nonlinear, biological, and soft matter physics". Each
+volume issued in two parts. Also issued online.
+Other ID: (OCoLC)932249200
+NLM ID: 101676019[Serial]
+
+2. Title Abbreviation: Big Data
+Title(s): Big data.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Bimonthly, 2020-
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc., 2013-
+Description: volumes : illustrations ; 28 cm
+Language: English
+ISSN: 2167-6461(Print); 2167-647X(Electronic); 2167-6461(Linking)
+LCCN: 2012202830
+Electronic Links: http://online.liebertpub.com/loi/BIG
+Fully Indexed In: MEDLINE: v4n1, Mar. 2016-
+In: PubMed: v4n1, Mar. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Access to Information; Data Mining*; Information Dissemination; Information Management
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)793201400
+NLM ID: 101631218[Serial]
+
+3. Title Abbreviation: Int J Numer Method Biomed Eng
+Title(s): International journal for numerical methods in biomedical engineering.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [Oxford, UK] : Wiley
+Language: English
+ISSN: 2040-7939(Print); 2040-7947(Electronic); 2040-7939(Linking)
+LCCN: 2010202241
+Electronic Links: https://onlinelibrary.wiley.com/journal/20407947
+Fully Indexed In: MEDLINE: v28n1, Jan. 2012-
+In: PubMed: v28n1, Jan. 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering/methods*; Mathematical Computing; Models, Theoretical
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)503545169
+NLM ID: 101530293[Serial]
+
+4. Author(s): Society for Research Synthesis Methodology.
+Title Abbreviation: Res Synth Methods
+Title(s): Research synthesis methods.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Malden, MA : John Wiley & Sons, 2010-
+Latest Publisher: <Mar. 2014-> : Chichester : Wiley Blackwell
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1759-2879(Print); 1759-2887(Electronic); 1759-2879(Linking)
+LCCN: 2010208799
+Electronic Links: https://onlinelibrary.wiley.com/loi/17592887, https://www.cambridge.org/core/journals/research-synthesis-methods
+Fully Indexed In: MEDLINE: v6n1, Mar. 2015-
+In: PubMed: v6n1, Mar. 2015- ; selected citations only before this date, PMC
+Forthcoming; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Meta-Analysis as Topic; Research Design*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)635483614
+NLM ID: 101543738[Serial]
+
+5. Author(s): Healthy People 2010 (Group); National Center for Health Statistics (U.S.)
+Title Abbreviation: Healthy People Stat Notes
+Title(s): Healthy people statistical notes/ Healthy People 2010.
+Publication Start Year: 2008
+Publication End Year: 2008
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, MD : U.S. Dept. of Health and Human Services, Centers for Disease
+Control and Prevention, National Center for Health Statistics, [2008-
+Language: English
+LCCN: 2008243904
+Electronic Links: http://www.cdc.gov/nchs/products/hp_pubs.htm#notes
+Fully Indexed In: MEDLINE: n26, Aug. 2008; PubMed: n26, Aug. 2008
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health services research are indexed.
+MeSH: Health Status Indicators*; Population Surveillance*; United States
+Publication Type(s): Statistics
+Notes: Each issue also has a distinctive title. Description based on first issue; title 
+from caption. Also issued online.
+Other ID: (OCoLC)261400346
+NLM ID: 101482652[Serial]
+
+6. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Natl Health Stat Report
+Title(s): National health statistics reports.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Centers for Disease
+Control and Prevention, National Center for Health Statistics, 2008-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 2164-8344(Print); 2332-8363(Electronic); 2164-8344(Linking)
+LCCN: 2008243825
+Electronic Links: http://www.cdc.gov/nchs/products/nhsr.htm
+Fully Indexed In: MEDLINE: n1, June 19, 2008-
+In: PubMed: n1, June 19, 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Health Administration (non-Index Medicus); Index Medicus
+MeSH: Health Surveys; United States; Vital Statistics*
+Publication Type(s): Statistics
+Notes: Each issue also has a distinctive title. Description based on first issue; title 
+from caption. Latest issue consulted: No. 6 (July 24, 2008). Also issued online.
+Other ID: (OCoLC)232995379
+NLM ID: 101479519[Serial]
+
+7. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: NCHS Data Brief
+Title(s): NCHS data brief.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Hyattsville, MD : National Center for Health Statistics
+Description: v.
+Language: English
+SuDocs Number: HE 20.6234:
+ISSN: 1941-4927(Print); 1941-4935(Electronic); 1941-4935(Linking)
+LCCN: 2008213044
+Electronic Links: http://www.cdc.gov/nchs/products/databriefs.htm
+Fully Indexed In: MEDLINE: n1, Nov. 2007-
+In: PubMed: n1, Nov. 2007-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Surveys; United States; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Description based on No. 1 (Nov. 2007); title from caption. Latest issue
+consulted: No. 15 (Mar. 2009). Each issue has also a theme title. Also issued
+online.
+Other ID: (OCoLC)193995876
+NLM ID: 101495625[Serial]
+
+8. Title Abbreviation: Int J Biostat
+Title(s): The international journal of biostatistics.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berkeley, CA : Berkeley Electronic Press, c2005-
+Latest Publisher: <2012-> : Berlin : Walter de Gruyter
+Language: English
+ISSN: 1557-4679(Electronic); 2194-573X(Print); 1557-4679(Linking)
+LCCN: 2005214239
+Electronic Links: http://www.degruyter.com/view/j/ijb?recentIssue=true
+Fully Indexed In: MEDLINE: v1n1, 2005-
+In: PubMed: v1n1, 2005-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry*
+Publication Type(s): Periodical
+Notes: Title from journal home page (publisher's Web site, viewed Aug. 22, 2005).
+"Articles are published as soon as they are ready." Latest issue consulted: Vol. 
+3, issue 1 (2007) (viewed Jan. 9, 2008). Also issued in print. Mode of access:
+World Wide Web.
+Other ID: (OCoLC)61310760
+NLM ID: 101313850[Serial]
+
+9. Title Abbreviation: Popul Health Metr
+Title(s): Population health metrics.
+Publication Start Year: 2003
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2003]-
+Language: English
+ISSN: 1478-7954(Electronic); 1478-7954(Linking)
+LCCN: 2003243272
+Electronic Links: https://pophealthmetrics.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101178411
+Fully Indexed In: MEDLINE: is v14, 2016-
+In: PubMed: v1n1, 2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry; Health Status Indicators*; Health Status
+Publication Type(s): Periodical
+Notes: Title from home page (viewed May 21, 2003). Latest issue consulted: Vol. 1, issue
+6 (2003) (viewed May 21, 2003). Articles added on a continuous basis. Each
+article constitutes a new issue. Mode of access: Internet.
+Other ID: (OCoLC)52384322
+NLM ID: 101178411[Serial]
+
+10. Author(s): Statisticians in the Pharmaceutical Industry (Organization)
+Title Abbreviation: Pharm Stat
+Title(s): Pharmaceutical statistics.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Quarterly, Jan./Mar. 2003-
+Country of Publication: England
+Publisher: Chichester, UK : Wiley, c2002-
+Description: v. : ill. ; 26 cm.
+Language: English
+ISSN: 1539-1604(Print); 1539-1612(Electronic); 1539-1604(Linking)
+LCCN: 2002211089
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1539-1612
+Fully Indexed In: MEDLINE: v5n1, Jan./Mar. 2006-; PubMed: v5n1, Jan./Mar. 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Drug Industry*; Statistics as Topic
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 3, no. 1 (Jan./Mar. 2004). Print
+issues ceased with v. 13 (2014). Also issued online. Journal of Statisticians in 
+the Pharmaceutical Industry.
+Other ID: (OCoLC)49296742
+NLM ID: 101201192[Serial]
+
+11. Title Abbreviation: Stat Appl Genet Mol Biol
+Title(s): Statistical applications in genetics and molecular biology.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: Berkeley, CA : Bepress, 2002-
+Latest Publisher: <2012-> : Berlin : Walter de Gruyter
+Language: English
+ISSN: 1544-6115(Electronic); 2194-6302(Print); 1544-6115(Linking)
+LCCN: 2003212268
+Electronic Links: http://www.degruyter.com/view/j/sagmb?recentIssue=true
+Fully Indexed In: MEDLINE: v5n1, 2006-
+In: PubMed: v5n1, 2006-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*; Molecular Biology; Statistics as Topic
+Publication Type(s): Periodical
+Notes: Title from cover p. (viewed Apr. 23, 2003). Latest issue consulted: Vol. 2, issue
+1 (2003). Articles added consecutively to current annual v. Electronic journal in
+HTML format. Also issued in print. Mode of access: Internet.
+Other ID: (OCoLC)52157137
+NLM ID: 101176023[Serial]
+
+12. Author(s): Healthy People 2010 (Group); National Center for Health Statistics (U.S.)
+Title Abbreviation: Healthy People 2010 Stat Notes
+Title(s): Healthy People 2010 statistical notes : from the Centers for Disease Control and 
+Prevention/National Center for Health Statistics.
+Publication Start Year: 2001
+Publication End Year: 2004
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Centers for Disease
+Control and Prevention, National Center for Health Statistics, [2001-
+Description: v. ; 28 cm.
+Language: English
+SuDocs Number: HE 20.6230:
+LCCN: 2001244506
+Electronic Links: http://www.cdc.gov/nchs/products/hp_pubs.htm
+Fully Indexed In: MEDLINE: n20, Jan. 2001-n25, Sept. 2004.; PubMed: n20, Jan. 2001-n25, Sept. 2004.
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health services research are indexed.
+MeSH: Health Status Indicators*; Health Status*; Population Surveillance*; United States
+Publication Type(s): Statistics
+Notes: Title from caption. Available also on World Wide Web in PDF format.
+Other ID: (OCoLC)45860006
+NLM ID: 101126643[Serial]
+
+13. Author(s): American Physical Society.; American Institute of Physics.
+Title Abbreviation: Phys Rev E Stat Nonlin Soft Matter Phys
+Title(s): Physical review. E, Statistical, nonlinear, and soft matter physics.
+Publication Start Year: 2001
+Publication End Year: 2015
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Melville, NY : Published by the American Physical Society through the American
+Institute of Physics, c2001-
+Latest Publisher: <Aug. 2015-> : Ridge, NY : American Physical Society
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1539-3755(Print); 1550-2376(Electronic); 1539-3755(Linking)
+Coden: PRESCM
+LCCN: 2001227060
+Electronic Links: http://journals.aps.org/pre
+Fully Indexed In: MEDLINE: v63n1, Jan. 2001-v92n6, Dec. 2015; Index medicus
+In: PubMed: v63n1, Jan. 2001-v92n6, Dec. 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biophysics; Nonlinear Dynamics; Physics*; Statistics as Topic
+Publication Type(s): Periodical
+Notes: Pt. 1 of each issue has subtitle: Soft matter and biological physics. Pt. 2 of
+each issue has subtitle: Chaos, hydrodynamics, plasmas, and related topics. Title
+from cover. Each month issued in two parts: 1. Soft matter and biological
+physics; and: 2. Chaos, hydrodynamics, plasmas, and related topics. Issues for
+3rd ser., v. 63, no. 1, pt. 1- appear as 3rd ser., v. 63, no. 1-1- Also issued
+online.
+Other ID: (OCoLC)45808357
+NLM ID: 101136452[Serial]
+
+14. Title Abbreviation: Biostatistics
+Title(s): Biostatistics.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Oxford : Oxford University Press
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1465-4644(Print); 1468-4357(Electronic); 1465-4644(Linking)
+LCCN: 2003243187
+Electronic Links: https://academic.oup.com/biostatistics
+Fully Indexed In: MEDLINE: v4n1, Jan. 2003-; PubMed: v4n1, Jan. 2003-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 3, no. 1 (Mar. 2002); title from cover. Latest issue
+consulted: Vol. 3, no. 3 (Sept. 2002). Available also online.
+Other ID: (OCoLC)44749133
+NLM ID: 100897327[Serial]
+
+15. Title Abbreviation: J Appl Meas
+Title(s): Journal of applied measurement.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: China (Republic : 1949- )
+Publisher: Gainesville, FL : Journal of Applied Measurement, c2000-
+Latest Publisher: [Taipei, Taiwan] : National Taiwan Normal University
+Description: v.
+Language: English
+ISSN: 1529-7713(Print); 1529-7713(Linking)
+LCCN: 00214746
+Fully Indexed In: MEDLINE: v1n1, 2000-; PubMed: v1n1, 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mathematics; Statistics as Topic; Weights and Measures*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 2 (2000); title from cover.
+Other ID: (OCoLC)43888528
+NLM ID: 101084377[Serial]
+
+16. Author(s): Great Britain. Office for National Statistics.; Great Britain. Government
+Statistical Service.
+Title Abbreviation: Health Stat Q
+Title(s): Health statistics quarterly/ Office for National Statistics.
+Publication Start Year: 1999
+Publication End Year: 2012
+Frequency: Four times a year
+Country of Publication: England
+Publisher: London : The Stationery Office, c1999-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1465-1645(Print); 2040-1574(Electronic); 1465-1645(Linking)
+LCCN: sn 99033106
+Electronic Links: http://www.ons.gov.uk/ons/publications/all-releases.html?definition=tcm%3A77-21560
+Fully Indexed In: MEDLINE: n21, spring 2004-n53, spring 2012; Index medicus
+In: PubMed: n21, spring 2004-n53, spring 2012; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Public Health/statistics & numerical data*; United Kingdom
+Publication Type(s): Statistics
+Notes: Title from cover. Also issued online. Issued also by the Government Statistical
+Service, <winter 1999->
+Other ID: (OCoLC)40921360
+NLM ID: 100886205[Serial]
+
+17. Author(s): Royal Society (Great Britain)
+Title Abbreviation: Philos Trans A Math Phys Eng Sci
+Title(s): Philosophical transactions. Series A, Mathematical, physical, and engineering
+sciences.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Twenty four no. a year, 2008-
+Country of Publication: England
+Publisher: London : The Royal Society, c1996-
+Description: v. : ill. ; 24 cm.
+Language: English
+ISSN: 1364-503X(Print); 1471-2962(Electronic); 1364-503X(Linking)
+Coden: PTMSFB
+LCCN: 97655039, sn 96047202
+Electronic Links: https://royalsocietypublishing.org/journal/rsta
+In: PubMed: v360n1790, Jan. 15, 2002-; 
+Selectively Indexed in: MEDLINEv360n1790, Jan. 15, 2002-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mathematics; Natural Science Disciplines*
+Publication Type(s): Periodical
+Notes: Vols. for 2005- have title: Philosophical transactions of the Royal Society. A,
+Mathematical, physical, and engineering sciences. "Research frontiers," <1997->
+Title from cover. Also issued online.
+Other ID: (OCoLC)34435526
+NLM ID: 101133385[Serial]
+
+18. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 20 Data Mortal
+Title(s): Vital and health statistics. Series 20, Data on mortality.
+Publication Start Year: 1996
+Publication End Year: 2007
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : National Center for Health Statistics, 1996-
+Description: volumes : illustrations ; 25 cm.
+Language: English
+ISSN: 2333-2352(Print); 2333-2344(Electronic); 2333-2352(Linking)
+LCCN: 2013274263
+Electronic Links: http://www.cdc.gov/nchs/products/pubs/pubd/series/ser.htm#sr20
+Fully Indexed In: MEDLINE: n29, June 1996-n32, March 2007; Index medicus
+In: PubMed: n29, June 1996-n32, March 2007; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Mortality*; Public Health; United States
+Publication Type(s): Statistics
+Notes: Also issued onine.
+Other ID: (OCoLC)30372220
+NLM ID: 101689180[Serial]
+
+19. Author(s): United States. Health Care Financing Administration. Office of Research and
+Demonstrations.; United States. Health Care Financing Administration. Office of
+Strategic Planning.; Centers for Medicare & Medicaid Services (U.S.). Office of
+Research, Development, and Information.
+Title Abbreviation: Health Care Financ Rev Stat Suppl
+Title(s): Health care financing review. Statistical supplement.
+Publication Start Year: 1995
+Publication End Year: 2005
+Frequency: Annual
+Country of Publication: United States
+Publisher: Baltimore, Md. : Pittsburgh, PA : U.S. Dept. of Health and Human Services, Health
+Care Financing Administration, Office of Research and Demonstrations ; Supt. of
+Docs. [distributor, 1995-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 22.18/2:, HE 22.512/2:
+ISSN: 1553-0930(Print); 1553-0930(Linking)
+LCCN: sn 95027318
+Fully Indexed In: MEDLINE: Feb.1995-2005; Hospital and health administration index: Feb. 1995-1999
+In: PubMed: Feb.1995-2005; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Care Costs*; Medicaid; Medicare; United States
+Publication Type(s): Statistics
+Notes: Period of coverage is cumulative: (Feb. 1995 issue covers through calendar year
+1992, Sept. 1995 issue covers through 1993, etc.). Issues for Sept. 1995- also
+called: 1995- . Vols. for 1998-2000 issued by: U.S. Dept. of Health and Human
+Services, Health Care Financing Administration, Office of Strategic Planning; by:
+U.S. Dept. of Health and Human Services, Centers for Medicare & Medicaid
+Services, Office of Research, Development, and Information, 2001-
+Other ID: (DNLM)SR0085342(s)(OCoLC)32457030
+NLM ID: 9617616[Serial]
+
+20. Title Abbreviation: Lifetime Data Anal
+Title(s): Lifetime data analysis.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Boston : Kluwer Academic Publishers, 1995-
+Latest Publisher: <2007->: Boston : Springer
+Description: v. ill.
+Language: English
+ISSN: 1380-7870(Print); 1572-9249(Electronic); 1380-7870(Linking)
+LCCN: sn 95050288
+Electronic Links: https://link.springer.com/journal/10985
+Fully Indexed In: MEDLINE: v1n1, 1995-; PubMed: v1n1, 1995-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Data Interpretation, Statistical*; Models, Statistical*
+Publication Type(s): Periodical
+Notes: "An international journal devoted to statistical methods and applications for
+time-to-event data." Also issued online.
+Other ID: (DNLM)SR0084943(s)(OCoLC)33940725
+NLM ID: 9516348[Serial]
+
+21. Title Abbreviation: Evol Comput
+Title(s): Evolutionary computation.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Cambridge, Mass. : MIT Press, c1993-
+Description: v. : ill.
+Language: English
+ISSN: 1063-6560(Print); 1530-9304(Electronic); 1063-6560(Linking)
+Coden: EOCMEO
+LCCN: 94648156, sn 92001265
+Electronic Links: http://www.mitpressjournals.org/loi/evco
+Fully Indexed In: MEDLINE: v5n1,spring 1997-; PubMed: v5n1,spring 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Evolution*; Mathematical Computing*; Models, Genetic*; Models, Theoretical*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 22 (2014). Also issued online.
+Other ID: (DNLM)SR0082407(s)(OCoLC)26104051
+NLM ID: 9513581[Serial]
+
+22. Author(s): United States. Social Security Administration.
+Title Abbreviation: Annu Stat Suppl Soc Secur Bull
+Title(s): Annual statistical supplement, ... to the Social security bulletin.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Washington, D.C. : U.S. Dept. of Health and Human Services, Social Security
+Administration : For sale by the Supt. of Docs., U.S. G.P.O.,
+Description: v. ;
+Language: English
+SuDocs Number: SSA 1.22/2:, HE 3.3/3:
+ISSN: 1553-0949(Print); 1553-0663(Electronic); 1553-0663(Linking)
+LCCN: sn 93028651
+Electronic Links: http://www.ssa.gov/policy/docs/statcomps/supplement/
+Fully Indexed In: MEDLINE: 1992-2017; PubMed: 1992-2017; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Social Security*; United States
+Publication Type(s): Statistics
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0088070(s)(OCoLC)28328831
+NLM ID: 9604640[Serial]
+
+23. Author(s): American Association for the Advancement of Science.; OCLC.
+Title Abbreviation: Online J Curr Clin Trials
+Title(s): The Online journal of current clinical trials.
+Publication Start Year: 1992
+Publication End Year: 1996
+Country of Publication: United States
+Publisher: Washington, DC : American Association for the Advancement of Science, 1992-[1996]
+Latest Publisher: S.L. : Chapman And Hall
+Language: English
+ISSN: 1059-2725(Electronic); 1059-2725(Linking)
+LCCN: sn 91003001
+Electronic Links: Electronic link no longer valid
+Fully Indexed In: MEDLINE: n1, 1992-n200-201, 1996; PubMed: n1, 1992-n200-201, 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Clinical Trials as Topic*
+Publication Type(s): Periodical
+Notes: Title from title screen. "Software and database services provided by OCLC Online 
+Computer Library Center, Incorporated, Dublin, Ohio." Issue numbering is
+continuous from vol. to vol. Index and table of contents updated with each issue.
+System requirements: IBM PC or compatible; 2 to 4MB RAM; DOS 3.3 and Microsoft
+Windows 3.0 to 3.1; EGA, VGA or SVGA graphics monitor, 2,400-9,600 BPS modem,
+laser or dot-matrix printer and a Windows printer driver or laser printer with
+1.5MB memory, optional mouse.
+Other ID: (OCoLC)24529831(DNLM)SR0072704(s)
+NLM ID: 9300367A[Serial]
+
+24. Title Abbreviation: Stat Methods Med Res
+Title(s): Statistical methods in medical research.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Monthly, 2018-
+Country of Publication: England
+Publisher: Sevenoaks, Kent, UK : Edward Arnold, c1992-
+Latest Publisher: London : SAGE Publications
+Description: v. : ill.
+Language: English
+ISSN: 0962-2802(Print); 1477-0334(Electronic); 0962-2802(Linking)
+Coden: SMMRFQ
+LCCN: 92640657, sn 92033453
+Electronic Links: https://journals.sagepub.com/home/smm
+Fully Indexed In: MEDLINE: v1n1, 1992-; Index medicus
+In: PubMed: v1n1, 1992-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Research*; Review Literature as Topic*; Statistics as Topic/methods*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0072174(s)(OCoLC)26266301
+NLM ID: 9212457[Serial]
+
+25. Author(s): Healthy People 2000 (Group); National Center for Health Statistics (U.S.);
+Centers for Disease Control (U.S.)
+Title Abbreviation: Healthy People 2000 Stat Notes
+Title(s): Healthy People 2000 statistical notes/ National Center for Health Statistics.
+Publication Start Year: 1991
+Publication End Year: 2000
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public Health
+Service, Centers for Disease Control, [1991-2000]
+Description: 19 v.
+Language: English
+SuDocs Number: HE 20.6230:
+LCCN: 92641979
+Electronic Links: http://www.cdc.gov/nchs/healthy_people/hp2000.htm
+Fully Indexed In: MEDLINE: n11,Feb. 1997-n19, Nov. 2000; PubMed: n11,Feb. 1997-n19, Nov. 2000
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health services research are indexed.
+MeSH: Health Status Indicators*; Population Surveillance*; Public Health*; United States
+Publication Type(s): Statistics
+Notes: Title from caption. Also issued online.
+Other ID: (DNLM)SR0073886(s)(OCoLC)25919717
+NLM ID: 9315564[Serial]
+
+26. Author(s): Healthy People 2000 (Group); National Center for Health Statistics (U.S.);
+Centers for Disease Control (U.S.)
+Title Abbreviation: Healthy People 2000 Stat Surveill
+Title(s): Healthy People 2000 statistics and surveillance/ National Center for Health
+Statistics.
+Publication Start Year: 1991
+Publication End Year: 1998
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public Health
+Service, Centers for Disease Control, [1991-
+Description: v.
+Language: English
+SuDocs Number: HE 20.7040:
+Electronic Links: http://www.cdc.gov/nchs/products/pubs/pubd/hp2k/statsurv/10-1.htm
+Fully Indexed In: MEDLINE: n9,Feb. 1998; PubMed: n9,Feb. 1998-
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Population Surveillance*; Public Health*; United States
+Publication Type(s): PeriodicalStatistics
+Notes: Title from caption. Some issues also available via Internet from the CDC web site
+(PDF file only).
+Other ID: (DNLM)SR0073887(s)(OCoLC)25729783
+NLM ID: 9315565[Serial]
+
+27. Title Abbreviation: J Biopharm Stat
+Title(s): Journal of biopharmaceutical statistics.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Four no. a year, <1999->
+Country of Publication: England
+Publisher: New York, N.Y. : Marcel Dekker, c1991-
+Latest Publisher: 2005- : Abingdon, Oxford : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1054-3406(Print); 1520-5711(Electronic); 1054-3406(Linking)
+Coden: JBSTEL
+LCCN: 91643713, sn 90003950
+Electronic Links: http://www.tandfonline.com/loi/lbps
+Fully Indexed In: MEDLINE: v1n1, 1991-; Index medicus
+In: PubMed: v1n1, 1991-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry*; Biopharmaceutics*; Pharmacokinetics*; Statistics as Topic/methods*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0069176(s)(OCoLC)22850869
+NLM ID: 9200436[Serial]
+
+28. Author(s): Canadian Centre for Health Information.
+Title Abbreviation: Health Rep
+Title(s): Health reports.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Canada
+Publisher: Ottawa : Statistics Canada, 1989-
+Description: v. : ill.
+Language: English
+ISSN: 0840-6529(Print); 1209-1367(Electronic); 0840-6529(Linking)
+LCCN: 90641403, ce 90079047
+Electronic Links: http://www.statcan.gc.ca/pub/82-003-x/4060784-eng.htm
+Fully Indexed In: MEDLINE: v1n1, 1989-; Index medicus
+In: PubMed: v1n1, 1989-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Canada; Public Health*; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Quarterly. "Catalogue 82-003". Print issues ceased with 2012. Numerous
+supplements. Also issued online. Text in English and French.
+Other ID: (DNLM)SR0067514(s)(OCoLC)21553949
+NLM ID: 9012854[Serial]
+
+29. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 21 Data Natal Marriage Divorce
+Title(s): Vital and health statistics. Series 21, Data on natality, marriage, and divorce.
+Publication Start Year: 1989
+Publication End Year: 2006
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public Health
+Service, Centers for Disease Control, National Center for Health Statistics,
+[1989]-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.6209:21
+ISSN: 1057-7629(Print); 2333-2379(Electronic); 1057-7629(Linking)
+LCCN: sn 91019081, 2003243330
+Electronic Links: http://www.cdc.gov/nchs/products/series/series21.htm
+Fully Indexed In: MEDLINE: n48, Oct. 1989- n57, May 2006; Index medicus
+In: PubMed: n48, Oct. 1989-n57, May 2006; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Birth Rate*; Divorce*; Marriage*; United States; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Issues no. 55-56 have Section title: Data from the National Vital Statistics
+System. Also issued online Produced by the National Center for Health Statistics.
+Other ID: (DNLM)SR0070681(s)(OCoLC)23266043
+NLM ID: 9105104[Serial]
+
+30. Author(s): Metropolitan Life Insurance Company.
+Title Abbreviation: Stat Bull Metrop Insur Co
+Title(s): Statistical bulletin : SB.
+Publication Start Year: 1984
+Publication End Year: 2000
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, N.Y. : Metropolitan Life Insurance Co., c1984-
+Description: v. : ill.
+Language: English
+ISSN: 0741-9767(Print); 0741-9767(Linking)
+Fully Indexed In: MEDLINE: v65n1,Jan.-Mar. 1984-v81n2, Apr.-June 2000; PubMed: v65n1,Jan.-Mar. 1984-v81n2, Apr.-June 2000; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Insurance, Life*; Life Expectancy*; Public Health*; United States; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0051250(s)(OCoLC)10269119
+NLM ID: 8410965[Serial]
+
+31. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 5
+Title(s): Vital & health statistics. Series 5, Comparative international vital and health
+statistics reports.
+Publication Start Year: 1984
+Publication End Year: 2003
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public Health
+Service, National Center for Health Statistics, 1984-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.6209:5/
+ISSN: 0892-8959(Print); 2333-2530(Electronic); 0892-8959(Linking)
+Electronic Links: http://www.cdc.gov/nchs/products/series/series05.htm
+Fully Indexed In: MEDLINE: n1, 1984-n11, June 2003; Index medicus
+In: PubMed: n1, 1984-n11, June 2003; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Public Health*; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Section title varies: International vital and health statistics reports no. 9-.
+Also issued online.
+Other ID: (DNLM)V08785000(s)(OCoLC)11120379
+NLM ID: 8406579[Serial]
+
+32. Author(s): Centers for Disease Control (U.S.); Centers for Disease Control (U.S.).
+Epidemiology Program Office.
+Title Abbreviation: MMWR CDC Surveill Summ
+Title(s): MMWR. CDC surveillance summaries : Morbidity and mortality weekly report. CDC
+surveillance summaries/ Centers for Disease Control.
+Publication Start Year: 1983
+Publication End Year: 2001
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Atlanta, Ga. : U.S. Dept. of Health and Human Services, Public Health Service,
+Centers for Disease Control, 1983-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.7009/2:
+ISSN: 1545-8636(Electronic)
+LCCN: 87-642207
+Electronic Links: http://www.cdc.gov/mmwr/mmwr_ss/ss_pvol.html
+Fully Indexed In: MEDLINE: v32n1SS,Feb. 1983-v50nSS-5, Dec. 7, 2001; Index medicus
+In: PubMed: v32n1SS,Feb. 1983-v50nSS-5, Dec. 7, 2001; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Disease Outbreaks*; Morbidity*; Mortality*; United States
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online Vols. for Aug. 1983- issued by the
+Epidemiology Program Office.
+Other ID: (DNLM)SR0050062(s)
+NLM ID: 8407977[Serial]
+
+33. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 3
+Title(s): Vital & health statistics. Series 3, Analytical and epidemiological studies/
+[U.S. Dept. of Health and Human Services, Public Health Service, National Center 
+for Health Statistics].
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public Health
+Service, National Center for Health Statistics
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.6209:3/
+ISSN: 0886-4691(Print); 2333-2433(Electronic); 0886-4691(Linking)
+Coden: VHSCA4
+LCCN: sf 88010013, sn 86000466
+Electronic Links: http://www.cdc.gov/nchs/products/series/series03.htm
+Fully Indexed In: MEDLINE: n26, Jan. 1989-; Index medicus
+In: PubMed: n26, Jan. 1989-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Surveys*; Public Health*; United States; Vital Statistics*
+Publication Type(s): Statistics
+Notes: No. 23- has section title: Analytic and epidemiological studies. No. 22,
+published out of chronological order in Mar. 1982, has section title: Analytical 
+studies. For no. 32, published Oct. 2001, section title appears only on p. [3] of
+cover. Also issued online.
+Other ID: (DNLM)V08765000(s)(OCoLC)10816303
+NLM ID: 8405154[Serial]
+
+34. Author(s): Metropolitan Life Foundation.
+Title Abbreviation: Stat Bull Metrop Life Found
+Title(s): Statistical bulletin/ Metropolitan Life Foundation.
+Publication Start Year: 1982
+Publication End Year: 1983
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [New York, NY] : The Foundation, [1982-1983].
+Latest Publisher: New York Ny : Metropolitan Life Foundation
+Description: 2 v. : ill.
+Language: English
+ISSN: 0736-4822(Print); 0736-4822(Linking)
+Fully Indexed In: MEDLINE: v63n2,Apr.-Jun. 1982-v64n1, Jan.-Jun. 1983; PubMed: v63n2,Apr.-Jun. 1982-v64n1, Jan.-Jun. 1983; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Insurance, Life*; Life Expectancy*; United States; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)S38630000(s)(OCoLC)08713447
+NLM ID: 8301711[Serial]
+
+35. Title Abbreviation: Stat Med
+Title(s): Statistics in medicine.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Twenty four no. a year
+Country of Publication: England
+Publisher: Chichester ; New York : Wiley, c1982-
+Description: v. : ill.
+Language: English, English
+ISSN: 0277-6715(Print); 1097-0258(Electronic); 0277-6715(Linking)
+Coden: SMEDDA
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0258
+Fully Indexed In: MEDLINE: v1n1, 1982-; PubMed: v1n1, 1982-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry*; Medicine*; Statistics as Topic*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)S40380000(s)(OCoLC)07625714
+NLM ID: 8215016[Serial]
+
+36. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 14 Data Natl Health Surv
+Title(s): Vital & health statistics. Series 14, Data from the national health survey.
+Publication Start Year: 1982
+Publication End Year: 1989
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : Washington, D.C. : U.S. Dept. of Health and Human Services,
+Public Health Service, National Center for Health Statistics ; For sale bythe
+Supt. of Docs., U.S. G.P.O., 1982-
+Description: v. : ill.
+Language: English
+SuDocs Number: HE 20.6209:14/
+ISSN: 
+Electronic Links: https://www.cdc.gov/nchs/products/series/series14.htm
+Fully Indexed In: MEDLINE: n27, 1982-n34, 1989; Index medicus
+In: PubMed: n27, 1982-n34, 1989; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Facilities*; Health Workforce*; United States
+Publication Type(s): Statistics
+Notes: Also issued online.
+Other ID: (DNLM)SR0064553(s)(OCoLC)09771052
+NLM ID: 8900574[Serial]
+
+37. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 14
+Title(s): Vital & health statistics. Series 14, Data from the national inventory of family 
+planning services.
+Publication Start Year: 1982
+Publication End Year: 1982
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Hyattsville, Md. : Washington, D.C. : U.S. Dept. of Health and Human Services,
+Public Health Service, Office of Health Research, Statistics, and Technology,
+National Center for Health Statistics ; For sale by the Supt. of Docs., U.S.
+G.P.O., 1982.
+Description: 1 v.
+Language: English
+Electronic Links: http://www.cdc.gov/nchs/products/series/series14.htm
+Fully Indexed In: MEDLINE: n26, 1982; Index medicus
+In: PubMed: n26, 1982; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Family Planning Services*; Health Services*; United States
+Publication Type(s): Statistics
+Notes: Also issued online.
+Other ID: (DNLM)SR0064600(s)(OCoLC)09770788
+NLM ID: 8900451[Serial]
+
+38. Author(s): Society for Risk Analysis.
+Title Abbreviation: Risk Anal
+Title(s): Risk analysis : an official publication of the Society for Risk Analysis.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York : Plenum Press, c1981-
+Latest Publisher: 2002- : Malden, MA : Blackwell Publishers
+Description: v. : ill.
+Language: English, English
+ISSN: 0272-4332(Print); 1539-6924(Electronic); 0272-4332(Linking)
+Coden: RIANDF
+Electronic Links: hhttps://onlinelibrary.wiley.com/journal/15396924
+In: PubMed: v5n1, 1985-; 
+Selectively Indexed in: MEDLINEv5n1, 1985-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Evaluation Studies as Topic*; Financial Management*; Probability*; Risk Management*; Risk*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)R49930000(s)(OCoLC)06842248
+NLM ID: 8109978[Serial]
+
+39. Author(s): Klingberg,Marcus A
+Title Abbreviation: Contrib Epidemiol Biostat
+Title(s): Contributions to epidemiology and biostatistics.
+Publication Start Year: 1979
+Publication End Year: 1995
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Latest Publisher: Basel : Karger
+Description: v.
+Language: English
+ISSN: 0377-3574(Print); 0377-3574(Linking)
+Coden: CEPBDV
+Fully Indexed In: MEDLINE: v7, 1995; PubMed: v7, 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Epidemiology*; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Editor: v. 1- M. A. Klingberg.
+Other ID: (DNLM)C47780000(s)(OCoLC)04633885
+NLM ID: 7807252[Serial]
+
+40. Author(s): World Health Organization.
+Title Abbreviation: World Health Stat Q
+Title(s): World health statistics quarterly. Rapport trimestriel de statistiques sanitaires
+mondiales.
+Publication Start Year: 1978
+Publication End Year: 1998
+Frequency: Four no. a year
+Country of Publication: Switzerland
+Publisher: Genève, World Health Organization.
+Language: English, French
+ISSN: 0379-8070(Print); 0379-8070(Linking)
+Coden: WHSQDQ
+Fully Indexed In: MEDLINE: v31n1,1978-v51n2/3/4, 1998; PubMed: v31n1,1978-v51n2/3/4, 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communicable Diseases/epidemiology*; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Text in English and French.
+Other ID: (OCoLC)04360123(DNLM)W09590000(s)
+NLM ID: 7900237[Serial]
+
+41. Author(s): Akademie der Wissenschaften der DDR. Zentralinstitut für Mathematik und
+Mechanik.; International Biometric Society.
+Title Abbreviation: Biom J
+Title(s): Biometrical journal. Biometrische Zeitschrift.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Six no. a year, <2004->
+Country of Publication: Germany
+Publisher: Weinheim, Wiley-VCH Verlag GmbH & Co. KGaA
+Latest Publisher: <2005-> : Weinheim : Wiley-VCH Verlag GmbH & Co. KGaA
+Description: v. ill.
+Language: English, German, English, Russian
+ISSN: 0323-3847(Print); 1521-4036(Electronic); 0323-3847(Linking)
+Coden: BIJODN
+LCCN: 78646433
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4036
+Fully Indexed In: MEDLINE: v47n1, Feb. 2005-
+In: PubMed: v47n1, Feb. 2005-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English or German; summaries in English with some
+in German or Russian. Issued by the Zentralinstitut für Mathematik und Mechanik
+der Akademie der Wissenschaften der DDR, 1977- ; edited in cooperation with: the 
+German and the Austro-Swiss Region of the International Biometric Society,
+<2005->
+Other ID: (DNLM)B18760000(s)(OCoLC)03271168
+NLM ID: 7708048[Serial]
+
+42. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 23
+Title(s): Vital and health statistics. Series 23, Data from the National Survey of Family
+Growth.
+Publication Start Year: 1977
+Publication End Year: 2011
+Frequency: Irregular
+Country of Publication: United States
+Publisher: [Hyattsville, Md.] : U.S. Dept. of Health, Education, and Welfare, Public Health 
+Service, Office of Health Research, Statistics, and Technology, National Center
+for Health Statistics ; Washington, D.C. : For sale by the Supt. of Docs., U.S.
+G.P.O.
+Description: v.
+Language: English
+ISSN: 0278-5234(Print); 2333-2417(Electronic); 0278-5234(Linking)
+Electronic Links: http://www.cdc.gov/nchs/products/series/series23.htm
+Fully Indexed In: MEDLINE: n2, Sept. 1979-n31, Oct. 2011; Index medicus
+In: PubMed: n2, Sept. 1979-n31, Oct. 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Family Characteristics*; Family Planning Services*; Population Growth*; United States
+Publication Type(s): Statistics
+Notes: Description based on: no. 6 (Feb. 1981); title from cover. Also issued online.
+Other ID: (OCoLC)03582966(DNLM)V08950000(s)
+NLM ID: 7901947[Serial]
+
+43. Author(s): United States. Health Resources Administration.; National Center for Health
+Statistics (U.S.)
+Title Abbreviation: Adv Data
+Title(s): Advance data.
+Publication Start Year: 1976
+Publication End Year: 2008
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Rockville, Md. : U.S. National Center for Health Statistics
+Description: v. ill.
+Language: English
+SuDocs Number: HE 20.6209/3:
+ISSN: 0147-3956(Print); 1933-3889(Electronic); 0147-3956(Linking)
+Coden: NADADR
+LCCN: 79643688
+Electronic Links: http://www.cdc.gov/nchs/products/pubs/pubd/ad/ad.htm
+Fully Indexed In: MEDLINE: n66, Mar. 2, 1981-n395 ,May 20,2008
+In: PubMed: n66, Mar. 2, 1981-n395, May 20,2008; 
+Selectively Indexed in: Hospital literature indexn66, Mar. 2, 1981-1994Hospital and health administration index1995-1999
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Surveys; Vital Statistics*
+Publication Type(s): Statistics
+Notes: Vols. for -Aug. 18, 1992 have title: Advance data from the Centers for Disease
+Control/National Center for Health Statistics. Vols. for Sept. 8, 1992-Nov. 12,
+1992 have title: Advance data from vital and health statistics of the Centers for
+Disease Control and Prevention/National Center for Health Statistics. Vols. for
+Dec. 1992 have title: Advance data from vital and health statistics of the
+Centers for Disease Control/National Center for Health Statistics. Vols. for
+<June 25, 2001-> have title: Advance data from vital and health statistics.
+Issues have also distinctive titles. Also issued online. Issued by the National
+Center for Health Statistics.
+Other ID: (OCoLC)02778178(DNLM)A12840000(s)
+NLM ID: 7703830[Serial]
+
+44. Author(s): National Institute of Mental Health (U.S.). Division of Biometry and
+Epidemiology. Survey and Reports Branch.
+Title Abbreviation: Ment Health Stat Note
+Title(s): Mental health statistical note.
+Publication Start Year: 1976
+Publication End Year: 1995
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Rockville, Md., U. S. Dept. of Health, Education and Welfare, Public Health
+Service, Alcohol, Drug Abuse and Mental Health Administration, National Institute
+of Mental Health, Division of Biometry and Epidemiology, Survey and Reports
+Branch.
+Description: no.
+Language: English
+SuDocs Number: HE 20.8116:
+ISSN: 0361-9311(Print); 0361-9311(Linking)
+Fully Indexed In: MEDLINE: n123,Jan. 1976-n.214,Mar. 1995; Index medicus
+In: PubMed: n123,Jan. 1976-n.214,Mar. 1995; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Mental Health Services*; United States
+Publication Type(s): Statistics
+Other ID: (DNLM)M30740000(s)(OCoLC)02134065
+NLM ID: 7605931[Serial]
+
+45. Author(s): National Center for Health Statistics (U.S.); United States. Bureau of Health
+Planning.
+Title Abbreviation: Stat Notes Health Plann
+Title(s): Statistical notes for health planners.
+Publication Start Year: 1976
+Publication End Year: 1981
+Country of Publication: United States
+Publisher: [Hyattsville, Md.] U. S. Dept. of Health, Education, and Welfare, Public Health
+Service, Office of Health Research, Statistics, and Technology.
+Language: English
+ISSN: 0147-278X(Print); 0147-278X(Linking)
+Selectively Indexed in: MEDLINEn1,Jul. 1976-n13, 1981PubMedn1,Jul. 1976-n13, 1981Hospital literature indexn1,Jul. 1976-n13, 1981
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Demography*; Health Planning*; Mortality*; Statistics as Topic*; United States
+Publication Type(s): PeriodicalStatistics
+Notes: Issued 1977?- as DHEW publication ; no. (PHS) 77-1237, etc. Issued by the
+National Center for Health Statistics and, Nov. 1979- by the Bureau of Health
+Planning.
+Other ID: (DNLM)S38830000(s)(OCoLC)03140994
+NLM ID: 8007965[Serial]
+
+46. Author(s): Canada. Health and Welfare Canada.; Laboratory Centre for Disease Control
+(Canada). Bureau of Epidemiology.
+Title Abbreviation: Can Dis Wkly Rep
+Title(s): Canada diseases weekly report = Rapport hebdomadaire des maladies au Canada.
+Publication Start Year: 1975
+Publication End Year: 1991
+Frequency: Weekly
+Country of Publication: Canada
+Publisher: [Ottawa, Ont.] : Health and Welfare Canada,
+Description: 17 v. : ill.
+Language: English, French
+ISSN: 0382-232X(Print); 0382-232X(Linking)
+Coden: CDWSE9
+Fully Indexed In: MEDLINE: v14n1, 1988-v17n39, Sept. 28, 1991; Index medicus
+In: PubMed: v14n1, 1988-v17n39, Sept. 28, 1991; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Canada; Communicable Disease Control*; Communicable Diseases*; Epidemiology*
+Publication Type(s): Periodical
+Notes: Has supplement: New facts of life. Description based on: Vol. 13-49 (Dec. 12,
+1987); title from caption. Supplements accompany some issues. In English and
+French. Issues for May 10, 1975- published by the: Bureau of Epidemiology,
+Laboratory Centre for Disease Control.
+Other ID: (DNLM)C03240000(s)(OCoLC)02248870
+NLM ID: 8903726[Serial]
+
+47. Author(s): Great Britain. Office of Population Censuses and Surveys.; Great Britain. Office 
+for National Statistics.
+Title Abbreviation: Popul Trends
+Title(s): Population trends.
+Publication Start Year: 1975
+Publication End Year: 2011
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, Govt. Statistical Service.
+Latest Publisher: London : England. Office of Population Censuses and Surveys
+Description: v. ill.
+Language: English
+ISSN: 0307-4463(Print); 2040-1590(Electronic); 0307-4463(Linking)
+Coden: POTRD6
+LCCN: 76640576, sn 97020641
+Electronic Links: http://www.ons.gov.uk/ons/search/index.html?newquery=population+trends
+Fully Indexed In: MEDLINE: 79,spring 1995-146, winter 2011; PubMed: 79,spring 1995-146, winter 2011; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Demography*; Population*; United Kingdom
+Publication Type(s): Periodical
+Notes: Journal of the Office of Population Censuses and Surveys. Latest issue consulted:
+No. 112 (summer 2003). Also issued online.
+Other ID: (DNLM)P19960000(s)(OCoLC)02246338
+NLM ID: 7608016[Serial]
+
+48. Author(s): European Society for Mathematical and Theoretical Biology.
+Title Abbreviation: J Math Biol
+Title(s): Journal of mathematical biology.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Monthly, 1998-
+Country of Publication: Germany
+Publisher: Wien, New York, Springer-Verlag.
+Latest Publisher: Berlin : Springer Verlag
+Description: v. illus.
+Language: English, English
+ISSN: 0303-6812(Print); 1432-1416(Electronic); 0303-6812(Linking)
+Coden: JMBLAJ
+LCCN: 74645888
+Electronic Links: https://link.springer.com/journal/285
+Fully Indexed In: MEDLINE: v3n1, Apr. 1976-; Index medicus
+In: PubMed: v3n1, Apr. 1976-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry*; Models, Biological*
+Publication Type(s): Periodical
+Notes: Also issued online. Official journal of the European Society for Mathematical and
+Theoretical Biology, <2008->
+Other ID: (DNLM)J28340000(s)(OCoLC)01794831
+NLM ID: 7502105[Serial]
+
+49. Author(s): Society for Mathematical Biology.
+Title Abbreviation: Bull Math Biol
+Title(s): Bulletin of mathematical biology.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Eight no. a year. 2006-
+Country of Publication: United States
+Publisher: New York, Pergamon Press.
+Latest Publisher: New York, NY : Springer
+Description: v. illus.
+Language: English
+ISSN: 0092-8240(Print); 1522-9602(Electronic); 0092-8240(Linking)
+Coden: BMTBAP
+LCCN: 75643459
+Electronic Links: https://link.springer.com/journal/11538
+Fully Indexed In: MEDLINE: v35n1,Jan./Feb. 1973-; Index medicus
+In: PubMed: v35n1,Jan./Feb. 1973-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Mathematics*
+Publication Type(s): Periodical
+Notes: Imprint varies. Also issued online. Official journal of the Society for
+Mathematical Biology.
+Other ID: (DNLM)B47620000(s)(OCoLC)02241208
+NLM ID: 0401404[Serial]
+
+50. Author(s): American Life Insurance Association. Medical Section.
+Title Abbreviation: Proc Annu Meet Med Sect Am Life Insur Assoc
+Title(s): Proceedings, the annual meeting of the Medical Section of the American Life
+Insurance Association.
+Publication Start Year: 1973
+Publication End Year: 1975
+Frequency: Annual
+Country of Publication: United States
+Publisher: Washington, American Life Insurance Assn.
+Latest Publisher: Washington Dc : American Life Insurance Association
+Description: 3 v. ill.
+Language: English
+ISSN: 0361-1752(Print); 0361-1752(Linking)
+Fully Indexed In: MEDLINE; PubMed; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Insurance, Life*; Medicine*
+Publication Type(s): Periodical
+Other ID: (OCoLC)49434615(DNLM)P30140000(s)
+NLM ID: 0432131[Serial]
+
+51. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 14 Data Natl Health Resour
+Title(s): Vital and health statistics. Series 14, Data on national health resources.
+Publication Start Year: 1968
+Publication End Year: 1981
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, D.C. : U.S. Dept. of Health, Education, and Welfare, Public Health
+Service, Health Services and Mental Health Administration ; Washington, D.C. :
+For sale by the Supt. of Docs., U.S. G.P.O., 1968-
+Description: 25 v.
+Language: English
+ISSN: 0083-1999(Print); 0083-1999(Linking)
+Coden: VHSNA3
+Electronic Links: http://www.cdc.gov/nchs/products/series/series14.htm
+Fully Indexed In: MEDLINE: n17, Oct. 1977-n25, 1981; Index medicus
+In: PubMed: n17, Oct. 1977-n25, 1981; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Facilities*; Health Workforce*; United States
+Publication Type(s): Statistics
+Notes: Issued 1968-1969 as Public Health Service publication, no. 1000-Ser. 14, no. 1,
+etc.; 1972-May 1973 as DHEW publication, no. (HSM) 72-1052, etc.; Aug. 1973- as
+DHEW publication, no. (HRA) 74-1805, etc.; 1978?-1980 as DHEW publication ; no.
+(PHS) 79-1813 etc.; 1981- as DHHS publication ; no. (PHS) 81-1819, etc. Section
+title varies frequently: Data from the national health survey. Also issued
+online. Vols. for 1972-1981 issued by the National Center for Health Statistics
+Other ID: (OCoLC)05114334(DNLM)V08880000(s)
+NLM ID: 0165703[Serial]
+
+52. Author(s): World Health Organization.
+Title Abbreviation: World Health Stat Rep
+Title(s): World health statistics report. Rapport de statistiques sanitaires mondiales.
+Publication Start Year: 1968
+Publication End Year: 1977
+Frequency: Monthly
+Country of Publication: Switzerland
+Publisher: Genève, World Health Organization.
+Latest Publisher: Geneve : World Health Organization
+Description: 10 v.
+Language: English, French
+ISSN: 0043-8510(Print); 0043-8510(Linking)
+Coden: WHSRAQ
+Fully Indexed In: MEDLINE: v29n1, 1976-v30, 1977; PubMed: v29n1, 1976-v30, 1977; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communicable Diseases/epidemiology*; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Text in English and French.
+Other ID: (OCoLC)01640608(DNLM)W09600000(s)
+NLM ID: 0161006[Serial]
+
+53. Title Abbreviation: Math Biosci
+Title(s): Mathematical biosciences.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Sixteen no. a year
+Country of Publication: United States
+Publisher: New York, American Elsevier.
+Description: v. illus.
+Language: English
+ISSN: 0025-5564(Print); 1879-3134(Electronic); 0025-5564(Linking)
+Coden: MABIAR
+LCCN: 68130147
+Electronic Links: https://www.sciencedirect.com/journal/mathematical-biosciences
+Fully Indexed In: MEDLINE: v93n1, 1989-; PubMed: v93n1, 1989-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry*; Mathematics*
+Publication Type(s): Periodical
+Notes: Also issued online. Indexes: Cumulative author index; --Vols. 1-22, 1967-74, in
+v. 22.
+Other ID: (DNLM)M07680000(s)(OCoLC)01681432
+NLM ID: 0103146[Serial]
+
+54. Author(s): Society of Multivariate Experimental Psychology.
+Title Abbreviation: Multivariate Behav Res
+Title(s): Multivariate behavioral research.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Six no. a year, 2009-
+Country of Publication: United States
+Publisher: Fort Worth, Tex. : Society of Multivariate Experimental Psychology
+Latest Publisher: <2009- > : Philadelphia, PA : Taylor & Francis Group
+Description: v.
+Language: English
+ISSN: 0027-3171(Print); 1532-7906(Electronic); 0027-3171(Linking)
+Coden: MVBRAV
+Electronic Links: http://www.tandfonline.com/loi/hmbr20
+Fully Indexed In: MEDLINE: v50n1, Jan-Feb 2015- ; Selected citations only before this date
+In: PubMed: v50n1, Jan-Feb 2015- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Behavior*; Psychology, Experimental*; Psychometrics*
+Publication Type(s): Periodical
+Notes: Also issued online. Issued by the Society of Multivariate Experimental
+Psychology.
+Other ID: (DNLM)M50760000(s)(OCoLC)01292018
+NLM ID: 0046052[Serial]
+
+55. Author(s): National Hospital Discharge Survey (U.S.); National Center for Health Statistics 
+(U.S.); National Health Survey (U.S.)
+Title Abbreviation: Vital Health Stat 13
+Title(s): Vital and health statistics. Series 13, Data from the National Health Survey.
+Publication Start Year: 1966
+Publication End Year: 2011
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, D.C. : U.S. Dept. of Health, Education, and Welfare, Public Health
+Service : For sale by the Supt. of Docs., U.S. G.P.O.
+Latest Publisher: <1985- > : Hyattsville, Md. : U.S. Dept. of Health and Human Services, Public
+Health Service, National Center for Health Statistics
+Description: no. ill.
+Language: English
+SuDocs Number: HE 20.6209:
+ISSN: 0083-2006(Print); 2333-0856(Electronic); 0083-2006(Linking)
+Coden: VHSMAY
+Electronic Links: http://www.cdc.gov/nchs/products/series/series13.htm
+Fully Indexed In: MEDLINE: n28, Jul. 1977-n169, April 2011; Index medicus
+In: PubMed: n28, Jul. 1977-n169, April 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Surveys*; Hospitalization*; United States
+Publication Type(s): Statistics
+Notes: Issue no. 1 (1966) has Section title: Data from the Hospital Discharge Survey.
+Issues no. 57-58 (Aug. 1981) have Section title: Data on health resources
+utilization. Issued 1966-Apr. 1971 as Public Health Service publication no.
+1000-Ser. 13-no. 1-7; Sept. 1971-May 1972 as DHEW publication no. (HSM) 72-1006, 
+etc.; Aug. 1973- as DHEW publication no. (HRA) 74-1765, etc. Also issued online.
+Other ID: (OCoLC)03976654(DNLM)V08860000(s)
+NLM ID: 0403032[Serial]
+
+56. Author(s): British Psychological Society.
+Title Abbreviation: Br J Math Stat Psychol
+Title(s): The British journal of mathematical and statistical psychology.
+Publication Start Year: 1965
+Publication End Year: 
+Frequency: Three no. a year, 2009-
+Country of Publication: England
+Publisher: London : British Psychological Society
+Latest Publisher: <2012-> : Chichester : Wiley-Blackwell
+Description: v. illus.
+Language: English
+ISSN: 0007-1102(Print); 2044-8317(Electronic); 0007-1102(Linking)
+Coden: BJMSAK
+LCCN: 50013756
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8317
+Fully Indexed In: MEDLINE: v19n1,May 1966-; Index medicus
+In: PubMed: v19n1,May 1966-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Psychology*
+Publication Type(s): Periodical
+Notes: Also issued online. Issued by the British Psychological Society.
+Other ID: (DNLM)B34900000(s)(OCoLC)06010380
+NLM ID: 0004047[Serial]
+
+57. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 4
+Title(s): Vital and health statistics. Ser. 4, Documents and committee reports.
+Publication Start Year: 1965
+Publication End Year: 2002
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville, Md. : Washington, DC : U.S. Dept. of Health and Human Services,
+Centers for Disease Control and Prevention, National Center for Health Statistics
+; For sale by U.S.G.P.O., Supt. of Docs.
+Description: v. illus.
+Language: English
+SuDocs Number: HE 20.6209:4/
+ISSN: 0083-2073(Print); 0083-2073(Linking)
+Coden: VHSDA7
+Electronic Links: http://www.cdc.gov/nchs/products/series.htm#sr4
+Fully Indexed In: MEDLINE: n18, Jan. 1978-n32, July 2002; PubMed: n18, Jan. 1978-n32, July 2002; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: United States; Vital Statistics*
+Notes: Also issued online.
+Other ID: (DNLM)V08780000(s)(OCoLC)01471658
+NLM ID: 0036665[Serial]
+
+58. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 20
+Title(s): Vital and health statistics. Series 20, Data from the National Vital Statistics
+System.
+Publication Start Year: 1965
+Publication End Year: 1996
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, D.C. : U.S. Dept. of Health, Education, and Welfare, Public Health
+Service : For sale by the Supt. of Docs., U.S. G.P.O., 1965-
+Latest Publisher: <1994- > : Hyattsville, MD : U.S. Department of Health and Human Services, Public
+Health Service, Centers for Disease Control and Prevention, National Center for
+Health Statistics
+Description: v. ill.
+Language: English
+SuDocs Number: HE 20.6209:
+ISSN: 0083-2022(Print); 2333-2298(Electronic); 0083-2022(Linking)
+Coden: VHSTAL
+Electronic Links: http://www.cdc.gov/nchs/products/series/series20.htm
+Fully Indexed In: MEDLINE: n28, Jan. 1996; PubMed: n28, Jan. 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: United States; Vital Statistics*
+Notes: Also issued online.
+Other ID: (DNLM)V08900000(s)(OCoLC)1768532
+NLM ID: 0044071[Serial]
+
+59. Author(s): Population Association of America.
+Title Abbreviation: Demography
+Title(s): Demography.
+Publication Start Year: 1964
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Washington, etc., Population Assn. of America.
+Latest Publisher: 2021- : Durham, NC : Duke University Press
+Description: v. illus.
+Language: English
+ISSN: 0070-3370(Print); 1533-7790(Electronic); 0070-3370(Linking)
+Coden: DMGYAH
+LCCN: 64009434
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0226703, https://link.springer.com/journal/13524, https://read.dukeupress.edu/demography
+Fully Indexed In: MEDLINE: v7n1, 1970-; Index medicus
+In: PubMed: v7n1, 1970-, PMC Inactive; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Demography*
+Publication Type(s): Periodical
+Notes: Also issued online. Some summaries in Spanish. Indexes: Vols. 1-5, 1964-68, with 
+v.5; Vols. 1-10, 1964-73. 1 v.
+Other ID: (DNLM)D03280000(s)(OCoLC)01566147
+NLM ID: 0226703[Serial]
+
+60. Author(s): National Center for Health Statistics (U.S.); National Health Survey (U.S.)
+Title Abbreviation: Vital Health Stat 11
+Title(s): Vital and health statistics. Series 11, Data from the National Health Survey.
+Publication Start Year: 1964
+Publication End Year: 2013
+Frequency: Irregular
+Country of Publication: United States
+Publisher: 1964-May 1970 : Washington, U.S. Dept. of Health, Education, and Welfare, Public 
+Health Service : For sale by the Supt. of Docs., U.S. G.P.O.
+Latest Publisher: Dec. 1988- : Hyattsville, Md. : U.S. Dept. of Health and Human Services, Centers 
+for Disease Control and Prevention, National Center for Health Statistics
+Description: v. ill.
+Language: English
+SuDocs Number: HE 20.6209:11/
+ISSN: 0083-1980(Print); 2333-0805(Electronic); 0083-1980(Linking)
+Coden: VHSKAS
+Electronic Links: http://www.cdc.gov/nchs/products/pubs/pubd/series/sr11/ser11.htm
+Fully Indexed In: MEDLINE: v11n158, Dec. 1976-n253, Aug. 2013; Index medicus
+In: PubMed: v11n158, Dec. 1976-n253, Aug. 2013; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Surveys*; United States; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Issues for <1982- > : have Section title: Data from the national health
+examination survey and the national health and nutrition examination survey. Also
+issued online.
+Other ID: (DNLM)V08820000(s)(OCoLC)01773549
+NLM ID: 0414007[Serial]
+
+61. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 21
+Title(s): Vital and health statistics. Series 21, Data from the National Vital Statistics
+System.
+Publication Start Year: 1964
+Publication End Year: 1989
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, D.C.: National Center for Health Statistics, 1964-1989.
+Latest Publisher: Rockville, Md. : U.S. National Center for Health Statistics
+Description: 47 v. ill.
+Language: English
+ISSN: 0083-2030(Print); 2333-2409(Electronic); 0083-2030(Linking)
+Coden: VHSUAO
+Electronic Links: http://www.cdc.gov/nchs/products/series.htm#sr21
+Fully Indexed In: MEDLINE: n3, July 1965-n47, June 1989; Index medicus
+In: PubMed: n3, July 1965-n47, June 1989; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: United States; Vital Statistics*
+Notes: Issued 1964- as Public Health Service publication, no. 1000, Ser. 21, no. 1- ;
+Aug. 1973?- as DHEW publication, no. (HRA); -1979 as DHHS publication, no. (PHS) 
+-89-1925. Also issued online.
+Other ID: (DNLM)V08920000(s)(OCoLC)01681291
+NLM ID: 0032510[Serial]
+
+62. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 3 Anal Stud
+Title(s): Vital and health statistics. Series 3, Analytical studies.
+Publication Start Year: 1964
+Publication End Year: 1981
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Hyattsville Md : U.S. Dept of Health and Human Services, Public Health Service,
+National Center for Health Statistics
+Description: 20 no. ill.
+Language: English
+ISSN: 0083-2065(Print); 0083-2065(Linking)
+Coden: VHSCA4
+LCCN: sn 79006288
+Electronic Links: http://www.cdc.gov/nchs/products/series/series03.htm
+Fully Indexed In: MEDLINE: n17, June 1979-n20, March1981; Index medicus
+In: PubMed: n17, June 1979-n20, March 1981; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Surveys*; Public Health*; United States; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Issued Mar. 1964-Sept. 1970 as Public Health Service publication no. 1000-Ser.
+3-no. 1-14; Jan. 1972-June 1979 as DHEW publication no. (HSM) 72-1030, etc.;
+Sept. 1980-Mar. 1981 as DHHS publication no. (PHS) 81-1402, etc. Also issued
+online.
+Other ID: (DNLM)V08760000(s)(OCoLC)01606178
+NLM ID: 0403031[Serial]
+
+63. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 1
+Title(s): Vital and health statistics. Ser. 1, Programs and collection procedures.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Washington, National Center for Health Statistics.
+Latest Publisher: Hyattsville, Md. : U.S. National Center for Health Statistics
+Description: v.
+Language: English
+SuDocs Number: HE 20.6209:1/
+ISSN: 0083-2014(Print); 2332-8401(Electronic); 0083-2014(Linking)
+Coden: VHSAAW
+Electronic Links: http://www.cdc.gov/nchs/products/pubs/pubd/series/sr01/ser1.htm
+Fully Indexed In: MEDLINE: v2, 1965-; PubMed: v2, 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Surveys*; United States; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)V08720000(s)(OCoLC)01590095
+NLM ID: 0414006[Serial]
+
+64. Author(s): National Center for Health Statistics (U.S.); National Health Survey (U.S.)
+Title Abbreviation: Vital Health Stat 10
+Title(s): Vital and health statistics. Series 10, Data from the National Health Survey.
+Publication Start Year: 1963
+Publication End Year: 2014
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Rockville, Md., U. S. Dept. of Health, Education and Welfare, Public Health
+Service, Health Resources Administration, National Center for Health Statistics; 
+Washington, for sale by the Supt. of Docs., U. S. Govt. Print. Off.
+Description: v. ill.
+Language: English
+SuDocs Number: HE 20.6209/4:
+ISSN: 0083-1972(Print); 2332-8428(Electronic); 0083-1972(Linking)
+Coden: VHSJAP
+Electronic Links: http://www.cdc.gov/nchs/products/series/series10.htm
+Fully Indexed In: MEDLINE: n113, Nov. 1977--n260, Feb. 2014; Index medicus
+In: PubMed: n113, Nov. 1977--n260, Feb. 2014, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Surveys*; Public Health*; United States; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Issued May 1963-June 1971 as Public Health Service publication, no. 1000, Ser.
+10, no. 1-63; Dec. 1971-Apr. 1973 as DHEW publication no. (HSM) 72-1029, etc.;
+Sept. 1973- as DHEW publication no. (HRA) 74-1510, etc. Also issued online.
+Other ID: (OCoLC)01967685(DNLM)V08800000(s)
+NLM ID: 7604043[Serial]
+
+65. Author(s): National Center for Health Statistics (U.S.)
+Title Abbreviation: Vital Health Stat 2
+Title(s): Vital and health statistics. Series 2, Data evaluation and methods research.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Rockville, Md., National Center for Health Statistics; for sale by the Supt. of
+Docs., U. S. Govt. Print. Off., Washington.
+Latest Publisher: Hyattsville, Md. : U.S. National Center for Health Statistics
+Description: no. illus.
+Language: English
+SuDocs Number: HE 20.6209:2/
+ISSN: 0083-2057(Print); 2333-0872(Electronic); 0083-2057(Linking)
+Electronic Links: http://www.cdc.gov/nchs/products/series/series02.htm
+Fully Indexed In: MEDLINE: n72,Nov. 1977-; PubMed: n72,Nov. 1977-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Health Surveys*; Public Health*; United States; Vital Statistics*
+Publication Type(s): PeriodicalStatistics
+Notes: Issued June 1963-July 1971 as Public Health Service publication, no. 1000 Ser. 2,
+no. 1-42; Aug, 1971- as DHEW publication no. (HSM) 72-1005, etc. Also available
+online.
+Other ID: (DNLM)V08740000(s)(OCoLC)01471638
+NLM ID: 0330122[Serial]
+
+66. Author(s): Centre de sociologie et de démographie médicales (France)
+Title Abbreviation: Cah Sociol Demogr Med
+Title(s): Cahiers de sociologie et de démographie médicales.
+Publication Start Year: 1961
+Publication End Year: 2010
+Frequency: Quarterly
+Country of Publication: France
+Publisher: Paris : Centre de sociologie et de démographie médicales
+Description: v. illus.
+Language: French, English
+ISSN: 0007-9995(Print); 0007-9995(Linking)
+Coden: CSDMAV
+Fully Indexed In: MEDLINE: v11n1, Jan.-Mar. 1971-v50n4, Oct.-Dec. 2010; Index medicus
+In: PubMed: v11n1, Jan.-Mar. 1971-v50n4, Oct.-Dec. 2010; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Demography*; Sociology*
+Publication Type(s): Periodical
+Notes: Front cover of Vol. 23, no. 1 (Jan.-Mar. 1983) misunmbered as v. 23, no. 5. Has
+occasional supplements. In French or English, with summary in the other language 
+Issues for <1989-> published by the Centre de sociologie et de démographie
+médicales.
+Other ID: (DNLM)C01760000(s)(OCoLC)03610075
+NLM ID: 0004455[Serial]
+
+67. Author(s): American Statistical Association. Biometrics Section.; Biometric Society.
+Title Abbreviation: Biometrics
+Title(s): Biometrics.
+Publication Start Year: 1945
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Alexandria Va : Biometric Society
+Latest Publisher: March 2024- : [Oxford] : Oxford University Press
+Description: v. illus.
+Language: English
+ISSN: 0006-341X(Print); 1541-0420(Electronic); 0006-341X(Linking)
+Coden: BIOMB6
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1541-0420, https://academic.oup.com/biometrics
+Fully Indexed In: MEDLINE: v21n3,Sept. 1965-; PubMed: v21n3,Sept. 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biometry*
+Publication Type(s): Periodical
+Notes: Issues for 1945-46 have title: Biometrics bulletin. Also issued online. Published
+by the American Statistical Association for its Biometrics Section, Feb.
+1945-June 1950; by the Biometric Society, Sept. 1950- Indexes: Vols. 1-10,
+1945-54, in v. 10.
+Other ID: (DNLM)B18780000(s)(OCoLC)01536457
+NLM ID: 0370625[Serial]
+
+68. Author(s): Rashevsky,Nicolas,1899-1972.
+Title Abbreviation: Bull Math Biophys
+Title(s): The Bulletin of mathematical biophysics.
+Publication Start Year: 1939
+Publication End Year: 1972
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Holland, Mich., Mathematical Biology, inc. [etc.]
+Latest Publisher: Chicago Il : Mathematical Biology
+Description: 34 v. illus., ports.
+Language: English
+ISSN: 0007-4985(Print); 0007-4985(Linking)
+Coden: BMBIAO
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv27n2,Jun. 1965-v34,Dec. 1972PubMedv27n2,Jun. 1965-v34,Dec. 1972Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biometry*; Biophysics*; Cell Biology*
+Publication Type(s): Periodical
+Notes: Edited by N. Rashevsky, Mar. 1939-Mar. 1972.
+Other ID: (DNLM)B47640000(s)(OCoLC)01537761
+NLM ID: 0402113[Serial]
+
+69. Author(s): League of Nations. Secretariat. Health Section.; United Nations. Economic and
+Social Council.; Interim Commission of the World Health Organization.; Interim
+Commission of the World Health Organization. Epidemiological Information
+Service.; Interim Commission of the World Health Organization. Sanitary
+Conventions and Quarantine Service.; World Health Organization. Sanitary
+Conventions and Quarantine Service.; World Health Organization. Sanitary
+Conventions and Quarantine Section.; World Health Organization. Quarantine
+Service.; World Health Organization. Section of International Quarantine.; World 
+Health Organization. International Quarantine.; World Health Organization.
+International Quarantine Service.; World Health Organization. Epidemiological
+Surveillance and Quarantine Service.; World Health Organization. Epidemiological 
+Surveillance and Quarantine Unit.; World Health Organization. Epidemiological
+Surveillance of Communicable Diseases.
+Title Abbreviation: Wkly Epidemiol Rec
+Title(s): Relevé épidémiologique hebdomadaire/ Section d'hygiène du Secrétariat de la 
+Société des Nations = Weekly epidemiological record / Health Section of the
+Secretariat of the League of Nations.
+Publication Start Year: 1928
+Publication End Year: 
+Frequency: Weekly
+Country of Publication: Switzerland
+Publisher: Genève : Health Section, Secretariat of the League of Nations
+Latest Publisher: 1947-: Geneva : World Health Organization
+Description: v. : ill., maps ; 30-38 cm.
+Language: English, French
+ISSN: 0049-8114(Print); 1996-8345(Electronic); 0049-8114(Linking)
+LCCN: 36007476, sn 85061378
+Electronic Links: http://www.who.int/wer/en/
+Fully Indexed In: MEDLINE: v65n1, 1990-v93n12, Mar. 2018; Index medicus
+In: PubMed: v65n1, 1990-v93n12, Mar. 2018; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communicable Diseases/epidemiology*; Epidemiology*; Quarantine.*; Vaccination*
+Notes: Called also in English: WER. Called also in French: REH. Order of titles and
+publishers vary. Description based on surrogate; title from caption. Latest issue
+consulted: 72. année, no 31 (1. août 1997). Issues for 1947 called also nouv.
+sér.; some no. issued combined; issues for <1946>-1948 have numbers: <R.H.
+1036>-R.H. 1192; 1947-1953 have numbers: R.E.H. 1-R.E.H. 365. Also issued online.
+Microfilm. v.3, no. 142 (1928)-v.3, no. 148 (1928), v.4, no.1(1929)-v.4,
+no.26(1929), v.4, no.28(1929)-v.4, no.52(1929), v.5(1930)-v. 10(1935). 4
+microfilm reels : negative ; 35 mm. English and French. Vols. for <Jan.
+1946>-Aug. 1946 issued by: Health Section of the Secretariat of the League of
+Nations; Sept.-Oct. 10, 1946 by: United Nations Economic and Social Council; Oct.
+17-Nov. 28, 1946 by: Interim Commission of the World Health Organization; Dec.
+1946-Mar. 17, 1948 by: Epidemiological Information Service of the Interim
+Commission of the World Health Organization; Mar. 24-July 28, 1948 by: Sanitary
+Conventions and Quarantine Service of the Interim Commission of the World Health 
+Organization; Aug. 4, 1948-Mar. 16, 1949 by: Sanitary Conventions and Quarantine 
+Service of the World Health Organization; Mar. 23, 1949-July 4, 1951 by: Sanitary
+Conventions and Quarantine Section of the World Health Organization; July 11,
+1951-Mar. 5, 1953 by: Quarantine Service, World Health Organization; Mar. 12,
+1953-Dec. 5, 1958 by: Section of International Quarantine, World Health
+Organization; Dec. 12, 1958-Nov. 1961 by: International Quarantine, World Health 
+Organization; Dec. 1961-Sept. 1968 by: International Quarantine Service, World
+Health Organization; Oct. 4-Oct. 11, 1968 by: Epidemiological Surveillance and
+Quarantine Service, World Health Organization. Vols. for Oct. 18-Feb. 5, 1971
+issued by: Epidemiological Surveillance and Quarantine Unit, World Health
+Organization; Feb. 12, 1971- by: Epidemiological Surveillance of Communicable
+Diseases, World Health Organization.
+Other ID: (OCoLC)04393595(DNLM)W01980000(s)
+NLM ID: 0240017[Serial]
+
+70. Author(s): Metropolitan Life Insurance Company.
+Title Abbreviation: Stat Bull Metropol Life Insur Co
+Title(s): Statistical bulletin/ Metropolitan Life Insurance Co.
+Publication Start Year: 1920
+Publication End Year: 1981
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [New York] : The Company, [1920-1982?]
+Latest Publisher: New York Ny : Metropolitan Life Insurance Company
+Description: 62 v. : ill.
+Language: English
+ISSN: 0026-1513(Print); 0026-1513(Linking)
+Coden: SMBLAG
+Fully Indexed In: MEDLINE: v46,Aug. 1965-v62n4,Oct.-Dec. 1981; PubMed: v46,Aug. 1965-v62n4,Oct.-Dec. 1981; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Insurance, Life*; Life Expectancy*; United States; Vital Statistics*
+Publication Type(s): Periodical
+Notes: Title from caption. Microfilm. v. 1 (1920)-10 (1929). 1 microfilm reel : negative
+; 35 mm. Indexes: Vols. 1-15, 1920-34, with v. 15; Vols. 16-25, 1935-44, with v. 
+25; Vols. 26-35, 1945-54. 1 v; Vols. 36--45, 1955-64, with v. 45.
+Other ID: (DNLM)S38640000(s)(OCoLC)01757228
+NLM ID: 7503677[Serial]
+
+71. Title Abbreviation: Biochem Z
+Title(s): Biochemische Zeitschrift.
+Publication Start Year: 1906
+Publication End Year: 1966
+Country of Publication: Germany
+Publisher: Berlin.
+Latest Publisher: Berlin : Springer
+Description: v. ill., ports.
+Language: German
+ISSN: 0366-0753(Print); 0366-0753(Linking)
+Coden: BIZEA2
+Fully Indexed In: MEDLINE: v342n1, 1965-v346, 1966; PubMed: v342n1, 1965-v346, 1966; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*
+Publication Type(s): Periodical
+Notes: Title from cover. "Beiträge zur chemischen Physiologie und Pathologie," 1906-23.
+Publication suspended Okt. 1944-Juni 1947. Microfilm. v.1(1906)-100(1919). 32
+microfilm reels : negative ; 35 mm. Indexes: Vol. 1 (1906)-30 (1911). 1 v.; Vol. 
+31 (1911)-60 (1914). 1 v.; Vol. 61 (1914)-90 (1918). 1 v.; Vol. 91 (1918)-120
+(1921). 1 v.; Vol. 121 (1921)-150 (1924). 1 v.; Vol. 151 (1924)-180 (1926). 1 v.;
+Vol. 181 (1927)-210 (1929). 1 v.; Vol. 211 (1929)-250 (1932). 1 v.; Vol. 251
+(1932)-280 (1935). 1 v.; Vol. 281 (1935)-300 (1939). 1 v.
+Other ID: (DNLM)B15140000(s)(OCoLC)01536395
+NLM ID: 15540070R[Serial]
+
+72. Author(s): University College, London. Biometrika Office.
+Title Abbreviation: Biometrika
+Title(s): Biometrika.
+Publication Start Year: 1901
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : University College London
+Latest Publisher: Oxford : Oxford University Press
+Description: v. illus., ports.
+Language: English
+ISSN: 0006-3444(Print); 1464-3510(Electronic); 0006-3444(Linking)
+Coden: BIOKAX
+LCCN: 25005151
+Electronic Links: https://academic.oup.com/biomet
+Fully Indexed In: MEDLINE: v52n3,Dec. 1965-v55n1,Mar. 1968; PubMed: v52n3,Dec. 1965-v55n1,Mar. 1968; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biometry*
+Publication Type(s): Periodical
+Notes: Supplements accompany some volumes. Also issued online. Microfilm. v. 1 (1901)-v.
+27 (1935) + Index v. 1 (1901)-v. 5 (1907). 13 microfilm reels : negative ; 35 mm.
+Issued by the Biometrika Office, University College, London. Indexes: Vols. 1-5, 
+1901/02-1906/07, with v. 6; Vols. 1-15, 1901/02-1923, with v. 16; Vols. 1-40,
+1901/02-1953. 1 v.
+Other ID: (DNLM)B18820000(s)(OCoLC)01536458
+NLM ID: 0413661[Serial]
+
+73. Author(s): United States. Health Care Financing Administration. Office of Research and
+Demonstrations.
+Title Abbreviation: Health Care Financ Rev Annu Suppl
+Title(s): Health care financing review. Annual supplement.
+Publication Start Year: 19uu
+Publication End Year: 1993
+Frequency: Annual
+Country of Publication: United States
+Publisher: Baltimore, Md. : U.S. Dept. of Health and Human Services, Health Care Financing
+Administration, Office of Research and Demonstrations,
+Description: v.
+Language: English
+SuDocs Number: HE 22.18:, HE 22.18/2:
+ISSN: 1057-9389(Print); 1057-9389(Linking)
+LCCN: sn86-41048
+Fully Indexed In: MEDLINE: 1984-1992; Hospital literature index: 1984-1992
+In: PubMed: 1984-1992
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Health Care Costs; Medicaid; Medicare; United States
+Publication Type(s): PeriodicalStatistics
+Notes: Description based on: 1984.
+Other ID: (DNLM)SR0090076(s)(OCoLC)14086106
+NLM ID: 9617613[Serial]
+

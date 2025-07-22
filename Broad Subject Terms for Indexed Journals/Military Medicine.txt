@@ -1,0 +1,707 @@
+1. Title Abbreviation: BMJ Mil Health
+Title(s): BMJ military health.
+Publication Start Year: 2020
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: [London] : BMJ Publishing Group Ltd., [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2633-3775(Electronic); 2633-3767(Print); 2633-3767(Linking)
+LCCN: 2021229654
+Electronic Links: https://militaryhealth.bmj.com
+Fully Indexed In: MEDLINE: v166n1, Feb. 2020-
+In: PubMed: v166n1, Feb. 2020-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Military Medicine*
+Publication Type(s): Periodical
+Other ID: (OCoLC)1152038607
+NLM ID: 101761581[Serial]
+
+2. Author(s): U.S. Army Medical Center of Excellence,; Borden Institute (U.S.),
+Title Abbreviation: Med J (Ft Sam Houst Tex)
+Title(s): The Medical journal/ US Army Medical Center of Excellence.
+Publication Start Year: 2020
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Fort Sam Houston, TX : Borden Institute : US Army Medical Center of Excellence,
+[2020]-
+Description: 1 online resource
+Language: English
+SuDocs Number: D 101.42/3:
+ISSN: 2694-3611(Electronic); 2694-3581(Print); 2694-3581(Linking)
+LCCN: 2020203272
+Electronic Links: https://medcoe.army.mil/the-medical-journal-archive
+Fully Indexed In: MEDLINE: July/Sept. 2020-
+In: PubMed: July/Sept. 2020-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Military Medicine*; United States
+Publication Type(s): Periodical
+Notes: "A professional publication of the MEDCoE community." Also issued in print.
+"Published quarterly for the Surgeon General by the Borden Institute, US Army
+MEDCoE ..."
+Other ID: (OCoLC)1200235839
+NLM ID: 101772861[Serial]
+
+3. Title Abbreviation: Health Secur
+Title(s): Health security.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc., [2015]-
+Language: English
+ISSN: 2326-5094(Print); 2326-5108(Electronic); 2326-5094(Linking)
+LCCN: 2013201050
+Electronic Links: http://online.liebertpub.com/loi/hs
+Fully Indexed In: MEDLINE: v13n1, Jan./Feb. 2015-
+In: PubMed: v13n1, Jan./Feb. 2015-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Warfare Agents; Communicable Diseases; Disasters; Disease Outbreaks*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)826868749
+NLM ID: 101654694[Serial]
+
+4. Title Abbreviation: Mil Med Res
+Title(s): Military Medical Research.
+Publication Start Year: 2014
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central, [2014]-
+Description: 1 online resource
+Language: English
+ISSN: 2054-9369(Electronic); 2095-7467(Print); 2054-9369(Linking)
+LCCN: 2014243611
+Electronic Links: https://mmrjournal.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101643181
+Fully Indexed In: MEDLINE: v3, 2016-
+In: PubMed: v1, 2014-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Military Medicine*
+Publication Type(s): Periodical
+Other ID: (OCoLC)889252466
+NLM ID: 101643181[Serial]
+
+5. Author(s): South Pacific Underwater Medicine Society.; European Underwater and Baromedical
+Society.
+Title Abbreviation: Diving Hyperb Med
+Title(s): Diving and hyperbaric medicine.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Australia
+Publisher: Melbourne : South Pacific Underwater Medicine Society, [2006]-
+Latest Publisher: <2014- > : Tai Tapu, Christchurch, New Zealand : South Pacific Underwater
+Medicine Society and the European Underwater and Baromedical Society
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1833-3516(Print); 2209-1491(Electronic); 1833-3516(Linking)
+LCCN: 2006265016
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101282742, https://www.dhmjournal.com/index.php?option=com_content&view=article&id=57&jMCfrCNf, https://www.dhmjournal.com/index.php
+Fully Indexed In: MEDLINE: v41n1, Mar. 2011-
+In: PubMed: v41n1, Mar. 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Diving; Hyperbaric Oxygenation; Submarine Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 47 (2017). Also issued online.
+Journal of the South Pacific Underwater Medicine Society, March 2006- , and the
+European Underwater and Baromedical Society, March 2008- .
+Other ID: (OCoLC)70050314
+NLM ID: 101282742[Serial]
+
+6. Title Abbreviation: Biosecur Bioterror
+Title(s): Biosecurity and bioterrorism : biodefense strategy, practice, and science.
+Publication Start Year: 2003
+Publication End Year: 2014
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, c2003-
+Description: v. : ill.
+Language: English
+ISSN: 1538-7135(Print); 1557-850X(Electronic); 1538-7135(Linking)
+LCCN: 2002213450
+Electronic Links: http://www.liebertonline.com/bsp
+Fully Indexed In: MEDLINE: v1n1, 2003-v12n6, 2014; PubMed: v1n1, 2003-v12n6, 2014; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biological Warfare; Bioterrorism/prevention & control*; Policy Making; Security Measures
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)48933505
+NLM ID: 101156085[Serial]
+
+7. Author(s): U.S. Special Operations Command.
+Title Abbreviation: J Spec Oper Med
+Title(s): Journal of special operations medicine : a peer reviewed journal for SOF medical 
+professionals.
+Publication Start Year: 200u
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: MacDill AFB, FL : [Washington, D.C. : U.S. Special Operations Command ; Supt. of 
+Docs., U.S. G.P.O., distributor]
+Latest Publisher: Spring 2011- : St. Petersburg, FL : Breakaway Media
+Description: v. : ill. ; 28 cm.
+Language: English
+SuDocs Number: D 1.109:
+ISSN: 1553-9768(Print); 1553-9768(Linking)
+LCCN: 2003230399
+Electronic Links: http://www.jsomonline.org/
+Fully Indexed In: MEDLINE: v9n1, Winter 2009-
+In: PubMed: v9n1, Winter 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Military Medicine*
+Publication Type(s): Periodical
+Notes: "Dedicated to the indomitable spirit & sacrifices of the SOF medic." Approved for
+CME credit. Description based on: Vol. 3, ed. 1, (winter 2003); title from cover.
+Latest issue consulted: Vol. 3, ed. 2 (spring 2003). Also issued online.
+Other ID: (OCoLC)52289129
+NLM ID: 101158402[Serial]
+
+8. Author(s): Instytut Medycyny Morskiej i Tropikalnej w Gdyni.; International Maritime Health 
+Association.
+Title Abbreviation: Int Marit Health
+Title(s): International maritime health.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Poland
+Publisher: Gdynia, Poland : Instytut Medycyny Morskiej i Tropikalnej w Gdyni : International
+Maritime Health Association, 1999-
+Latest Publisher: Gdańsk : Via Medica Media sp. zo.o. VM
+Description: v. : ill.
+Language: English
+ISSN: 1641-9251(Print); 2081-3252(Electronic); 1641-9251(Linking)
+LCCN: 00243403
+Electronic Links: https://journals.viamedica.pl/international_maritime_health
+Fully Indexed In: MEDLINE: v50n1/4, 1999-; Index medicus
+In: PubMed: v50n1/4, 1999-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Naval Medicine*; Tropical Medicine
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2011. Vol. 50 complete in one issue. Also issued online.
+Other ID: (OCoLC)44773944
+NLM ID: 100958373[Serial]
+
+9. Title Abbreviation: Med Confl Surviv
+Title(s): Medicine, conflict, and survival.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London : F. Cass, c1996-
+Description: v.
+Language: English
+ISSN: 1362-3699(Print); 1362-3699(Linking)
+Electronic Links: https://www.tandfonline.com/loi/fmcs20
+Fully Indexed In: MEDLINE: v12n1,Jan.-Mar. 1996-; PubMed: v12n1,Jan.-Mar. 1996-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Global Health*; Social Medicine*; Warfare*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0088258(s)(OCoLC)34574143
+NLM ID: 9612305[Serial]
+
+10. Author(s): U.S. Army Center for Health Promotion and Preventive Medicine.; Armed Forces
+Health Surveillance Center (U.S.)
+Title Abbreviation: MSMR
+Title(s): MSMR.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: <Apr. 1995>-Mar. 2007: Washington, DC : Army Medical Surveillance Activity
+Latest Publisher: Apr. 2007- : Silver Spring, MD : Armed Forces Health Surveillance Center
+Language: English
+ISSN: 2158-0111(Print); 2152-8217(Electronic); 2152-8217(Linking)
+LCCN: 2010201449
+Electronic Links: https://health.mil/Military-Health-Topics/Health-Readiness/AFHSD/Reports-and-Publications/Medical-Surveillance-Monthly-Report, https://pmc.ncbi.nlm.nih.gov/journals/?term=101548156
+Fully Indexed In: MEDLINE: v18n1, Jan. 2011-
+In: PubMed: v18n1, Jan. 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Military Personnel*; Morbidity*; Population Surveillance; United States; Wounds and Injuries/epidemiology
+Publication Type(s): PeriodicalStatistics
+Notes: "A publication of the Armed Forces Health Surveillance Center." Also issued
+online.
+Other ID: (OCoLC)671268376
+NLM ID: 101548156[Serial]
+
+11. Author(s): United States. Army Medical Department (1968- )
+Title Abbreviation: US Army Med Dep J
+Title(s): U.S. Army Medical Department journal.
+Publication Start Year: 1994
+Publication End Year: 2018
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Fort Sam Houston, Tex. : Army Medical Department
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1524-0436(Print); 1946-1968(Electronic); 1524-0436(Linking)
+LCCN: 98-642403, sn98-47420
+Electronic Links: http://purl.access.gpo.gov/GPO/LPS15202
+Fully Indexed In: MEDLINE: Jan./Mar. 2007-July/Dec. 2018
+In: PubMed: Jan./Mar. 2007-July/Dec. 2018; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine; Military Medicine*; United States
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Oct./Dec. 1998. Also issued online.
+Issued also to depository libraries in microfiche.
+Other ID: (OCoLC)32785416(DNLM)SR0089902(s)
+NLM ID: 9617037[Serial]
+
+12. Author(s): Undersea and Hyperbaric Medical Society.
+Title Abbreviation: Undersea Hyperb Med
+Title(s): Undersea & hyperbaric medicine : journal of the Undersea and Hyperbaric Medical
+Society, Inc.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Bimonthly, 2005-
+Country of Publication: United States
+Publisher: Bethesda, Md. : The Society, c1993-
+Latest Publisher: Bethesda, Md. : Undersea and Hyperbaric Medical Society
+Description: v. : ill.
+Language: English
+ISSN: 1066-2936(Print); 1066-2936(Linking)
+Coden: UHMEE7
+LCCN: 94641436, sn 92000493
+Electronic Links: https://www.uhms.org/publications/uhm-journal/download-uhm-journal-pdfs.html?jYh7AuP8
+Fully Indexed In: MEDLINE: v20n1, 1993-; PubMed: v20n1, 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Space Life Sciences
+MeSH: Diving*; Hyperbaric Oxygenation*; Naval Medicine*; Oxygen Inhalation Therapy*; Submarine Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online
+Other ID: (DNLM)SR0075682(s)(OCoLC)26915585
+NLM ID: 9312954[Serial]
+
+13. Author(s): American Psychological Association. Division of Military Psychology.
+Title Abbreviation: Mil Psychol
+Title(s): Military psychology : the official journal of the Division of Military
+Psychology, American Psychological Association.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Hillsdale, N.J : Lawrence Erlbaum Associates, c1989-
+Latest Publisher: Philadelphia, PA : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 0899-5605(Print); 1532-7876(Electronic); 0899-5605(Linking)
+Electronic Links: http://www.tandfonline.com/loi/hmlp, https://pmc.ncbi.nlm.nih.gov/journals/?term=8915802
+Fully Indexed In: MEDLINE: v35n1, 2023- ; selected citations only before this date
+In: PubMed: v32n1, 2020- ; selected citations only before this date, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Psychology, Military*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also available online.
+Other ID: (DNLM)SR0062457(s)(OCoLC)18143648
+NLM ID: 8915802[Serial]
+
+14. Author(s): Society for Traumatic Stress Studies.; International Society for Traumatic Stress
+Studies.
+Title Abbreviation: J Trauma Stress
+Title(s): Journal of traumatic stress.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Bimonthly, 2002-
+Country of Publication: United States
+Publisher: New York ; London : Plenum Press, c1988-
+Latest Publisher: 2005- : Hoboken, NJ : Wiley
+Description: v. : ill.
+Language: English
+ISSN: 0894-9867(Print); 1573-6598(Electronic); 0894-9867(Linking)
+Coden: JTSTEB
+LCCN: 88648218 $z sn 87001912
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1573-6598
+Fully Indexed In: MEDLINE: v7n1,Jan. 1994-; Index medicus
+In: PubMed: v7n1,Jan. 1994-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Stress Disorders, Post-Traumatic.*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of: the Society for
+Traumatic Stress Studies, 1988- ; International Society for Traumatic Stress
+Studies, <1998->
+Other ID: (DNLM)SR0061477(s)(OCoLC)16389067
+NLM ID: 8809259[Serial]
+
+15. Author(s): United States. Naval Medical Command.; United States. Navy. Medical Department
+Title Abbreviation: Navy Med
+Title(s): Navy medicine.
+Publication Start Year: 1987
+Publication End Year: 2013
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Washington, D.C. : Naval Medical Command ; For sale by the Supt. of Docs., U.S.
+G.P.O., [1987-
+Latest Publisher: Washington Dc : U.S. Navy, Bureau Of Medicine And Surgery
+Description: v. : ill., ports.
+Language: English
+SuDocs Number: D 206.7/ A:, D 206.7:
+ISSN: 0895-8211(Print); 0895-8211(Linking)
+LCCN: 98641820, sn 87020046
+Electronic Links: https://issuu.com/navymedicine/docs
+Selectively Indexed in: MEDLINEv78n6,Nov.-Dec. 1987-v88n5,Sep.-Oct. 1997PubMedv78n6,Nov.-Dec. 1987-v88n5,Sep.-Oct. 1997Index to dental literaturev78n6,Nov.-Dec. 1987-v88n5,Sep.-Oct. 1997
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Naval Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official publication of: the Navy Medical
+Department.
+Other ID: (DNLM)SR0060176(s)(OCoLC)15734740
+NLM ID: 8708694[Serial]
+
+16. Author(s): Medical Association for Prevention of War (Australia); Medical Association for
+Prevention of War (UK); Medical Campaign against Nuclear Weapons (Organization)
+Title Abbreviation: Med War
+Title(s): Medicine and war.
+Publication Start Year: 1985
+Publication End Year: 1995
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Chichester, Sussex : Wiley, c1985-c1995.
+Latest Publisher: London : Frank Cass Ltd
+Description: 11 v. : ill.
+Language: English
+ISSN: 0748-8009(Print); 0748-8009(Linking)
+Coden: MEWAE4
+Selectively Indexed in: MEDLINEv1n1,Jan.-Apr. 1985-v11n4,Oct.-Dec. 1995PubMedv1n1,Jan.-Apr. 1985-v11n4,Oct.-Dec. 1995Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Global Health*; Social Medicine*; Warfare*
+Publication Type(s): Periodical
+Notes: Title from cover. Published for the Medical Association for Prevention of War (UK
+and Australia) and: the Medical Campaign against Nuclear Weapons (UK).
+Other ID: (DNLM)SR0052491(s)(OCoLC)11011172
+NLM ID: 8508146[Serial]
+
+17. Author(s): Vojnomedicinska akademija (Yugoslavia)
+Title Abbreviation: God Vojnomed Akad
+Title(s): Godisnjak Vojnomedicinske akademije = Annual of the Military Medical Academy.
+Publication Start Year: 1984
+Publication End Year: 1989
+Frequency: Annual
+Country of Publication: Serbia
+Publisher: Beograd : Akademija, [1984?-1989?]
+Latest Publisher: Beograd : Gro Kultura
+Description: v. : ill., ports.
+Language: Croatian, English, French, Russian
+ISSN: 0352-664X(Print); 0352-664X(Linking)
+Fully Indexed In: MEDLINE: v26, 1984-v29, 1987; PubMed: v26, 1984-v29, 1987; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Military Medicine*; Yugoslavia
+Publication Type(s): Periodical
+Notes: Title from cover. Includes bibliographies of the Academy's publications and
+lectures. Articles in Serbo-Croatian; summaries in English, French, and Russian; 
+table of contents in all four languages.
+Other ID: (DNLM)SR0056732(s)(OCoLC)13753764
+NLM ID: 8606929[Serial]
+
+18. Author(s): Instytut Medycyny Morskiej i Tropikalnej w Gdyni.
+Title Abbreviation: Bull Inst Marit Trop Med Gdynia
+Title(s): Bulletin of the Institute of Maritime and Tropical Medicine in Gdynia.
+Publication Start Year: 1975
+Publication End Year: 1998
+Frequency: Quarterly
+Country of Publication: Poland
+Publisher: Warszawa, Państwowy Zakład Wydawnictw Lekarskich.
+Latest Publisher: Gdynia : Instytut Medycyny Morskiej I Tropikalnej
+Description: 24 v. ill., port.
+Language: English, Polish, Russian
+ISSN: 0324-8542(Print); 0324-8542(Linking)
+Coden: BIMGDE
+Fully Indexed In: MEDLINE: v26n1, 1975-v49n1/4, 1998; PubMed: v26n1, 1975-v49n1/4, 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Naval Medicine*; Tropical Medicine*
+Publication Type(s): Periodical
+Notes: Added titles in Polish and Russian: Biuletyn Instytutu Medycyny Morskiej i
+Tropikalnej w Gdyni ; Biulleten' Instituta morskoĭ i tropicheskoĭ meditsiny v
+Gdan'ske. Articles in English ; summaries in Polish and Russian ; tables of
+contents in all three languages.
+Other ID: (OCoLC)01950675(DNLM)B45520000(s)
+NLM ID: 7603275[Serial]
+
+19. Author(s): United States. Navy Department. Bureau of Medicine and Surgery.
+Title Abbreviation: US Navy Med
+Title(s): U. S. Navy medicine.
+Publication Start Year: 1970
+Publication End Year: 1987
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Washington, DC : Bureau of Medicine and Surgery.
+Description: 23 v. illus., ports.
+Language: English
+SuDocs Number: D 206.7/ A:
+ISSN: 0364-6807(Print); 0364-6807(Linking)
+In: PubMed: v52n12,Dec. 1968-v55n3,Sept. 1970-v78n1,Jan.-Feb. 1987; 
+Selectively Indexed in: MEDLINEv52n12,Dec. 1968-v55n3,Sept. 1970-v78n1,Jan.-Feb. 1987Index to dental literaturev52n12,Dec. 1968-v55n3,Sept. 1970-v78n1,Jan.-Feb. 1987
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Naval Medicine*
+Notes: NAVMED P-5088.
+Other ID: (DNLM)U05280000(s)(OCoLC)02631389
+NLM ID: 1253474[Serial]
+
+20. Author(s): Pomorski Uniwersytet Medyczny w Szczecinie.; Pomorska Akademia Medyczna im.
+Generała Karola Świerczewskiego w Szczecinie.
+Title Abbreviation: Ann Acad Med Stetin
+Title(s): Annales Academiae Medicae Stetinensis.
+Publication Start Year: 1963
+Publication End Year: 2014
+Frequency: Two no. a year, 2013-
+Country of Publication: Poland
+Publisher: Warszawa : Panstwowy Zaklad Wydawnictw Lekarskich
+Latest Publisher: <2014>: Szczecin : Pomorski Uniwersytet Medyczny w Szczecinie
+Description: v. illus.
+Language: Polish, English, Russian
+ISSN: 1427-440X(Print); 1427-440X(Linking)
+Coden: RPMKAA
+Electronic Links: https://www.pum.edu.pl/uczelnia/wydawnictwo/annales-academiae-medicae-stetinensis
+Fully Indexed In: MEDLINE: v11, 1965-v60, 2014; Index medicus
+In: PubMed: v11, 1965-v60, 2014, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Naval Medicine*; Tropical Medicine*
+Notes: Issues for <1991-> have also Polish title: Roczniki Pomorskiej Akademii Medycznej
+w Szczecinie. Also issued online. Summaries in Russian and English.
+Other ID: (DNLM)A31350000(s)(OCoLC)02267267
+NLM ID: 7506854[Serial]
+
+21. Author(s): France. Service de santé des armées. Centre de recherches.; France. Section
+technique de recherche et d'études des Services de santé des armées.;
+Association pour le développement et la diffusion de l'information militaire.
+Title Abbreviation: Rev Corps Sante Armees Terre Mer Air
+Title(s): Revue des corps de santé des armées terre, mer, air
+Publication Start Year: 1960
+Publication End Year: 1972
+Frequency: Bimonthly
+Country of Publication: France
+Publisher: Paris : Association pour le développement et la diffusion de l'information
+militaire
+Description: 13 v. illus.
+Language: French
+ISSN: 0399-3019(Print); 0399-3019(Linking)
+Coden: RCSRA4
+Fully Indexed In: MEDLINE: v5n1, Feb. 1964-v13n6, Dec. 1972; Index medicus
+In: PubMed: v5n1, Feb. 1964-v13n6, Dec. 1972, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Aerospace Medicine*; Military Medicine*; Naval Medicine*
+Publication Type(s): Periodical
+Notes: Issues for 1960-1961 have title: Revue des corps de santé des armées terre,
+mer, air, et du corps vétérinaire. Supplements accompany some issues. Issued
+Feb. 1960-Apr. 1961 by the Section technique de recherche et d'études des
+Services de santé des armées; June 1961-Dec. 1972 by the Centre de recherches
+du Service de santé des armées.
+Other ID: (DNLM)R42080000(s)(OCoLC)01792067
+NLM ID: 0360137[Serial]
+
+22. Author(s): Association of Military Surgeons of the United States.
+Title Abbreviation: Mil Med
+Title(s): Military medicine.
+Publication Start Year: 1955
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Washington, D.C. : Association of Military Surgeons, United States, 1955-
+Latest Publisher: 2018- : Oxford : Oxford University Press
+Description: v. : ill., ports.
+Language: English
+ISSN: 0026-4075(Print); 1930-613X(Electronic); 0026-4075(Linking)
+Coden: MMEDA9
+LCCN: 09019395
+Electronic Links: https://academic.oup.com/milmed
+Fully Indexed In: MEDLINE: v130n10, Oct. 1965-; Index medicus
+In: PubMed: v130n10, Oct. 1965- ; Selected citations only before this date,
+OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Military Medicine*
+Publication Type(s): Periodical
+Notes: Has supplement: Relevant and reasonable: the future of federal healthcare. Also
+issued online. Microfilm. v. 140 (1975)-v. 142 (1977). 3 microfilm reels :
+negative ; 35 mm. Official publication of the Association of Military Surgeons of
+the United States.
+Other ID: (DNLM)M36140000(s)(OCoLC)01641787
+NLM ID: 2984771R[Serial]
+
+23. Author(s): Argentina. Ejército. Comando de Sanidad.; Argentina. Dirección General de
+Sanidad.
+Title Abbreviation: Rev Sanid Milit Argent
+Title(s): Revista de la sanidad militar argentina.
+Publication Start Year: 1947
+Publication End Year: 2001
+Frequency: Semiannual
+Country of Publication: Argentina
+Publisher: Buenos Aires.
+Description: v. illus., ports.
+Language: Spanish
+ISSN: 0048-7716(Print); 0048-7716(Linking)
+Coden: RSMAAZ
+Fully Indexed In: MEDLINE: v63n3,Jul./Dec. 1964-v70n1, Jan./Jun. 1971; PubMed: v63n3,Jul./Dec. 1964-v70n1, Jan./Jun. 1971; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Military Medicine*
+Publication Type(s): Periodical
+Notes: Issued by the Dirección General de Sanidad, Feb. 1947-Dec. 1963; by the Comando 
+de Sanidad, Jan. 1964-
+Other ID: (DNLM)R39940000(s)(OCoLC)10191108
+NLM ID: 0411345[Serial]
+
+24. Author(s): Soviet Union. Raboche-Krestʹi︠a︡nskai︠a︡ Krasnai︠a︡ Armii︠a︡. Glavnoe
+voenno-sanitarnoe upravlenie.; Russia (Federation). Ministerstvo oborony.
+Title Abbreviation: Voen Med Zh
+Title(s): Voenno-medit︠s︡inskiĭ zhurnal.
+Publication Start Year: 1944
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Gos. izd-vo med. lit-ry
+Latest Publisher: Moskva : Krasnai︠a︡ zvezda
+Language: Russian
+ISSN: 0026-9050(Print); 0026-9050(Linking)
+Coden: VMEZA4
+LCCN: sn 86008906
+Electronic Links: https://journals.eco-vector.com/0026-9050/index
+Fully Indexed In: MEDLINE: v1,Jan. 1965-v338n4, Apr. 2017; PubMed: v1,Jan. 1965-v338n4, Apr. 2017; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Military Medicine*; USSR
+Publication Type(s): Periodical
+Notes: Imprint varies. Description based on: Mart 1945; title from title page. Latest
+issue consulted: T. 329, no. 5 (Maĭ 2008). Also issued online Microfilm. v. new 
+ser. no. 1-4, 7-8, 10 (1950/1951), new ser. no. 1-2 (1956), new ser. no. 1-12
+(1957)-no.1-12(1961). 7 microfilm reels : negative ; 35 mm. Vols. for <Mar.
+1945-> issued by: Glavnoe voenno-sanitarnoe upravlenie Krasnoĭ Armii; >May
+2008-> by: Ministerstvo oborony Rossiĭskoĭ federat︠s︡ii.
+Other ID: (OCoLC)1777892
+NLM ID: 2984871R[Serial]
+
+25. Author(s): Yugoslavia. Armija. Sanitetska uprava.; Vojnomedicinska akademija (Serbia)
+Title Abbreviation: Vojnosanit Pregl
+Title(s): Vojnosanitetski pregled.
+Publication Start Year: 1944
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Serbia
+Publisher: Beograd : Institut Vojnomedicinski Dokumentaciju
+Latest Publisher: <2013>- : Belgrade, Serbia : Military Medical Academy, INI
+Description: v. ill., ports.
+Language: English
+ISSN: 0042-8450(Print); 2406-0720(Electronic); 0042-8450(Linking)
+Coden: VSPRA9
+Electronic Links: http://doiserbia.nb.rs/journal.aspx?issn=0042-8450
+Fully Indexed In: MEDLINE: v22n5, May 1965-v74n1, Jan. 2017; Index medicus
+In: PubMed: v22n5, May 1965-v74n1, Jan. 2017, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Military Medicine*; Pharmacy*
+Publication Type(s): Periodical
+Notes: Issues for <2000>-v.60, no.1 (2003) have English title: Military medical and
+pharmaceutical journal of Yugoslavia. Issues for v.60, no.2 (2003)-v.63, no.7
+(2006) have English title: Military medical and pharmaceutical journal of Serbia 
+& Montenegro. Issues for v.63, no.7 (2006)- have English title: Military medical 
+and pharmaceutical journal of Serbia. Issues for Jan. 1946- have added title:
+Revue de médecine et pharmacie militaires (varies slightly); for Jan.
+1946-Nov./Dec. 1951: [in vernacular]; for Jan. 1960- [in vernacular]. Also issued
+online Text in Serbo-Croatian; table of contents and summaries in English,
+French, and Russian, <2012>; in English, with abstracts in English and Serbian,
+2013- . Issued by Sanitetska uprava of the Yugoslav Army.
+Other ID: (DNLM)V10580000(s)(OCoLC)01777893
+NLM ID: 21530700R[Serial]
+
+26. Author(s): Suomen lääkintäupseeriliitto.
+Title Abbreviation: Sotilaslaak Aikak
+Title(s): Sotilaslääketieteellinen aikakauslehti.
+Publication Start Year: 1926
+Publication End Year: 2003
+Frequency: Four to six no. a year
+Country of Publication: Finland
+Publisher: Helsinki.
+Latest Publisher: Helsinki : Suomen Laeaekintaeupseerilitto
+Description: v. : ill., ports.
+Language: Finnish, English
+ISSN: 0300-8797(Print); 0300-8797(Linking)
+Coden: SOAIAG
+Fully Indexed In: MEDLINE: v40n4, 1965-v46n4, 1971; PubMed: v40n4, 1965-v46n4, 1971; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Military Medicine*
+Publication Type(s): Periodical
+Notes: From Vol. 38 no. 1- , title also in Latin. Most articles have summary in English.
+From 2000- , articles in English. Issued by Suomen Lääkintäupseeriliitto.
+Other ID: (OCoLC)20926252(DNLM)S31320000(s)
+NLM ID: 2984855R[Serial]
+
+27. Author(s): Great Britain. Royal Naval Medical Service.; Royal Naval Medical School (Great
+Britain)
+Title Abbreviation: J R Nav Med Serv
+Title(s): Journal of the Royal Naval Medical Service.
+Publication Start Year: 1915
+Publication End Year: 
+Frequency: Quarterly <, Jan. 1931- >
+Country of Publication: England
+Publisher: Alverstoke : Royal Naval Medical Service
+Latest Publisher: <Oct. 1949- > : London : Staples Press
+Description: v. illus.
+Language: English
+ISSN: 0035-9033(Print); 0035-9033(Linking)
+Coden: JRNMAF
+Fully Indexed In: MEDLINE: v51n2, summer 1965-v103n1, Spring 2017; Index medicus
+In: PubMed: v51n2, summer 1965-v103n1, Spring 2017, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Naval Medicine*
+Publication Type(s): Periodical
+Notes: Vols. for <Oct. 1949- > edited by: Staff of the Royal Naval Medical School.
+Other ID: (DNLM)J37560000(s)(OCoLC)01064702
+NLM ID: 7503111[Serial]
+
+28. Author(s): Great Britain. Army. Royal Army Medical Corps.
+Title Abbreviation: J R Army Med Corps
+Title(s): Journal of the Royal Army Medical Corps.
+Publication Start Year: 1903
+Publication End Year: 2019
+Frequency: Three no. a year
+Country of Publication: England
+Publisher: London.
+Latest Publisher: London : Royal Army Medical Corps. Regimental Headquarters
+Description: v. illus.,ports.
+Language: English
+ISSN: 0035-8665(Print); 2052-0468(Electronic); 0035-8665(Linking)
+Coden: JRAMAI
+Electronic Links: http://jramc.bmj.com/
+Fully Indexed In: MEDLINE: 1980-v165n6, Dec. 2019; PubMed: 1980-v165n6, Dec. 2019; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Military Medicine*
+Publication Type(s): Periodical
+Notes: Also issued online. Microfilm. v. 1 (1903)-71 (1938) + Corps News (1906)-(1907), 
+(1912). 45 microfilm reels : negative ; 35 mm.
+Other ID: (DNLM)J37380000(s)(OCoLC)01029165
+NLM ID: 7505627[Serial]
+
+29. Author(s): Vojnomedicinska akademija (Yugoslavia)
+Title Abbreviation: Zb Vojnomed Akad
+Title(s): Zbornik.
+Publication Start Year: 1900
+Publication End Year: 1983
+Frequency: Annual
+Country of Publication: Serbia
+Publisher: Beograd, 19
+Latest Publisher: Belgrade : Vojnomedicinska Akademija
+Description: 25 v. illus.
+Language: Serbian
+ISSN: 0513-3696(Print); 0513-3696(Linking)
+Fully Indexed In: MEDLINE: 1974-v25, 1983; PubMed: 1974-v25, 1983; Index to dental literature: 1974-v25, 1983; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Military Medicine*; Yugoslavia
+Publication Type(s): Periodical
+Notes: Table of contents and section headings in English, French, and Russian, with
+summaries of articles in one of the three languages.
+Other ID: (DNLM)Z01580000(s)(OCoLC)49951802
+NLM ID: 0003044[Serial]
+

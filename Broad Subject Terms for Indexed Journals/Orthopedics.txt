@@ -1,0 +1,3282 @@
+1. Title Abbreviation: Orthopadie (Heidelb)
+Title(s): Die Orthopädie.
+Publication Start Year: 2022
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: [Heidelberg, Germany] : Springer Medizin, [2022]-
+Description: 1 online resource
+Language: German
+ISSN: 2731-7153(Electronic); 2731-7145(Print); 2731-7145(Linking)
+LCCN: 2022220961
+Electronic Links: https://www.springer.com/journal/132
+Fully Indexed In: MEDLINE: v51n6, June 2022-
+In: PubMed: v51n6, June 2022-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedic Procedures; Orthopedics*
+Publication Type(s): Periodical
+Notes: Some issues also have distinctive titles. Also issued in print. Text in German;
+abstracts in German and English.
+Other ID: (OCoLC)1334318350
+NLM ID: 9918384887206676[Serial]
+
+2. Author(s): Türkiye Eklem Hastalıkları Tedavi Vakfı,
+Title Abbreviation: Jt Dis Relat Surg
+Title(s): Joint diseases and related surgery.
+Publication Start Year: 2020
+Publication End Year: 
+Frequency: Three issues a year
+Country of Publication: Turkey
+Publisher: Ankara, Turkey : Turkish Joint Diseases Foundation, [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2687-4792(Electronic); 2687-4784(Print); 2687-4792(Linking)
+LCCN: 2020243092
+Electronic Links: https://www.jointdrs.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101764223
+Fully Indexed In: MEDLINE: v31n1, 2020-
+In: PubMed: v31n1, Apr. 2020-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Joint Diseases*; Joint Diseases/surgery; Orthopedic Procedures
+Publication Type(s): Periodical
+Notes: Print ceased in 2022. Also issued in print. Official publication of the Turkish
+Joint Diseases Foundation.
+Other ID: (OCoLC)1150994568
+NLM ID: 101764223[Serial]
+
+3. Author(s): American Academy of Orthopaedic Surgeons,
+Title Abbreviation: J Am Acad Orthop Surg Glob Res Rev
+Title(s): Journal of the American Academy of Orthopaedic Surgeons. Global research &
+reviews.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [Philadelphia, PA] : Wolters Kluwer Health, Inc., [2017]-
+Description: 1 online resource
+Language: English
+ISSN: 2474-7661(Electronic); 2474-7661(Linking)
+LCCN: 2016201386
+Electronic Links: https://journals.lww.com/jaaosglobal/Pages/currenttoc.aspx, https://pmc.ncbi.nlm.nih.gov/journals/?term=101724868
+Fully Indexed In: MEDLINE: v4n1, Jan. 2020-
+In: PubMed: v1n1, Mar. 2017-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Volume 1 complete with 9 issues.
+Other ID: (OCoLC)960973370
+NLM ID: 101724868[Serial]
+
+4. Title Abbreviation: Clin Spine Surg
+Title(s): Clinical spine surgery.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Ten issues a year
+Country of Publication: United States
+Publisher: Hagerstown, MD : Wolters Kluwer, [2016-]
+Language: English
+ISSN: 2380-0186(Print); 2380-0194(Electronic); 2380-0186(Linking)
+LCCN: 2015202332
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=01933606-000000000-00000
+Fully Indexed In: MEDLINE: v29n1, Feb. 2016-
+In: PubMed: v29n1, Feb. 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedic Procedures/methods*; Spinal Diseases/therapy; Spine/surgery*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)913516108
+NLM ID: 101675083[Serial]
+
+5. Author(s): International Society of Arthroscopy, Knee Surgery, and Orthopaedic Sports
+Medicine,
+Title Abbreviation: J ISAKOS
+Title(s): Journal of ISAKOS : joint disorders & orthopaedic sports medicine.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: [London] : BMJ, [2016]-
+Latest Publisher: 2022- : [London] : Elsevier
+Description: 1 online resource
+Language: English
+ISSN: 2059-7762(Electronic); 2059-7754(Print); 2059-7754(Linking)
+LCCN: 2019243017
+Electronic Links: https://jisakos.bmj.com/, https://www.sciencedirect.com/journal/journal-of-isakos
+Fully Indexed In: MEDLINE: v6n1, Jan. 2021-
+In: PubMed: v6n1, Jan. 2021- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Musculoskeletal Diseases*; Orthopedic Procedures; Sports Medicine
+Publication Type(s): Periodical
+Notes: Official journal of the International Society of Arthroscopy, Knee Surgery and
+Orthopaedic Sports Medicine.
+Other ID: (OCoLC)968922389
+NLM ID: 101680867[Serial]
+
+6. Author(s): British Editorial Society of Bone and Joint Surgery.
+Title Abbreviation: Bone Joint J
+Title(s): The bone & joint journal.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London : British Editorial Society of Bone & Joint Surgery
+Language: English
+ISSN: 2049-4394(Print); 2049-4408(Electronic); 2049-4394(Linking)
+LCCN: 2013243117
+Electronic Links: https://online.boneandjoint.org.uk/?journalCode=bjj
+Fully Indexed In: MEDLINE: v95Bn1, Jan. 2013-; Abridged index medicus
+In: PubMed: v95Bn1, Jan. 2013-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Bone Diseases*; Joint Diseases; Wounds and Injuries
+Publication Type(s): Periodical
+Notes: Also issued online. Official publication of: British Orthopaedic Association,
+Australian Orthopaedic Association, Canadian Orthopaedic Association, Canadian
+Orthopaedic Research Society, New Zealand Orthopaedic Association, South African 
+Orthopaedic Association, Irish Orthopaedic Association, European Federation of
+National Assocations of Orthopaedics and Traumatology, Sociedade Brasileria de
+Ortopedia e Traumatologia, British Orthopaedic Research Society, and: European
+Orthopaedic Research Society.
+Other ID: (OCoLC)826637441
+NLM ID: 101599229[Serial]
+
+7. Author(s): Sichuan da xue,; International Chinese Hard Tissue Society.
+Title Abbreviation: Bone Res
+Title(s): Bone research.
+Publication Start Year: 2013
+Publication End Year: 
+Country of Publication: China
+Publisher: Chengdu, Sichuan, P. R. China : Sichuan University Press
+Latest Publisher: 2014- : Chengdu, Sichuan, P. R. China : [New York] : West China School of
+Stomatology, Sichuan University ; co-published by Nature Publishing Group
+Language: English
+ISSN: 2095-4700(Print); 2095-6231(Electronic); 2095-4700(Linking)
+LCCN: 2013243492
+Electronic Links: http://www.nature.com/boneres/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101608652
+Fully Indexed In: MEDLINE: v11, 2023-
+In: PubMed: v1n1, Mar. 2013-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bone Diseases; Bone and Bones*
+Publication Type(s): Periodical
+Notes: Online issue, viewed Aug. 15, 2013 for May 2013 identified as June 2013. Also
+issued online.
+Other ID: (OCoLC)857281040
+NLM ID: 101608652[Serial]
+
+8. Author(s): NYU Langone Medical Center. Hospital for Joint Diseases,; NYU Langone Medical
+Center. Department of Orthopaedic Surgery; NYU Langone Medical Center. Department
+of Medicine. Division of Rheumatology,
+Title Abbreviation: Bull Hosp Jt Dis (2013)
+Title(s): Bulletin of the Hospital for Joint Diseases.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Andover, New Jersey : J. Michael Ryan Publishing, Inc., 2013-
+Language: English
+ISSN: 2328-4633(Print); 2328-5273(Electronic); 2328-4633(Linking)
+LCCN: 2013201812
+Electronic Links: http://hjdbulletin.org/
+Fully Indexed In: MEDLINE: v71n1, 2013-
+In: PubMed: v71n1, 2013-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Joint Diseases; Orthopedic Procedures*
+Publication Type(s): Periodical
+Notes: "A Journal of Orthopaedics, Rheumatology and Related Disciplines." "Official
+journal of the Hospital for Joint Diseases Departments of Orthopaedic Surgery and
+Rheumatology."
+Other ID: (OCoLC)840142941
+NLM ID: 101614130[Serial]
+
+9. Title Abbreviation: JBJS Rev
+Title(s): JBJS reviews.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Needham, MA : Journal of Bone and Joint Surgery, Inc., [2013]-
+Latest Publisher: 2016- : Philadelphia : Wolters Kluwer
+Description: 1 online resource
+Language: English
+ISSN: 2329-9185(Electronic); 2329-9185(Linking)
+LCCN: 2013203336
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=ovft&AN=01874474-000000000-00000
+Fully Indexed In: MEDLINE: v4n1, Jan. 2016-
+In: PubMed: v4n1, Jan. 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bone Diseases; Joint Diseases; Orthopedic Procedures*
+Publication Type(s): Periodical
+Other ID: (OCoLC)852154047
+NLM ID: 101674872[Serial]
+
+10. Author(s): Scoliosis Research Society (U.S.),
+Title Abbreviation: Spine Deform
+Title(s): Spine deformity.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: New York, N.Y. : Elsevier
+Latest Publisher: 2020- : London : Springer Nature
+Language: English
+ISSN: 2212-134X(Print); 2212-1358(Electronic); 2212-134X(Linking)
+LCCN: 2015243111
+Electronic Links: http://www.sciencedirect.com/science/journal/2212134X, https://link.springer.com/journal/43390
+Fully Indexed In: MEDLINE: v4n1, Jan. 2016-
+In: PubMed: v4n1, Jan. 2016- Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Spinal Diseases*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)905335215
+NLM ID: 101603979[Serial]
+
+11. Author(s): Polskie Towarzystwo Ortopedyczne i Traumatologiczne,
+Title Abbreviation: Pol Orthop Traumatol
+Title(s): Polish orthopedics and traumatology.
+Publication Start Year: 2012
+Publication End Year: 
+Country of Publication: United States
+Publisher: [Smithtown, NY] : International Scientific Literature, [2012]-
+Description: 1 online resource
+Language: English, Polish
+ISSN: 0009-479X(Electronic); 0009-479X(Linking)
+LCCN: 2014243334
+Electronic Links: http://polishorthopaedics.pl
+Fully Indexed In: MEDLINE: v77, Mar. 2012-v79, Aug. 2014
+In: PubMed: v77, Mar. 2012-v79, Aug. 2014; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedic Procedures*; Orthopedics; Wounds and Injuries
+Publication Type(s): Periodical
+Notes: Articles available in English or Polish. Search interface available in English
+and Polish.
+Other ID: (OCoLC)857116854
+NLM ID: 101593867[Serial]
+
+12. Title Abbreviation: JBJS Case Connect
+Title(s): JBJS case connector.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Needham, MA : Journal of Bone & Joint Surgery, Inc.
+Latest Publisher: 2016- : Philadelphia : Wolters Kluwer
+Language: English
+ISSN: 2160-3251(Electronic); 2160-3251(Linking)
+LCCN: 2011201916
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=ovft&AN=01709767-000000000-00000
+Fully Indexed In: MEDLINE: v7n1, Jan-Mar 2017-
+In: PubMed: v7n1, Jan-Mar 2017- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedic Procedures; Orthopedics*
+Publication Type(s): Periodical
+Notes: Mode of access: World Wide Web.
+Other ID: (OCoLC)706207211
+NLM ID: 101596828[Serial]
+
+13. Author(s): Australia New Zealand Orthopaedic Nurses Association.; Canadian Orthopaedic
+Nurses' Association.; RCN Society of Orthopaedic and Trauma Nursing.
+Title Abbreviation: Int J Orthop Trauma Nurs
+Title(s): International journal of orthopaedic and trauma nursing.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Oxford : Elsevier
+Language: English
+ISSN: 1878-1241(Print); 1878-1292(Electronic); 1878-1241(Linking)
+LCCN: 2010200087
+Electronic Links: http://www.sciencedirect.com/science/journal/18781241
+Fully Indexed In: MEDLINE: v19n1, Feb. 2015-
+In: PubMed: v19n1, Feb. 2015-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Nursing
+MeSH: Orthopedic Nursing*; Wounds and Injuries/nursing
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 14, no. 1 (Feb. 2010); title from cover. Latest issue 
+consulted: Vol. 14, no. 1 (Feb. 2010). Also issued online.
+Other ID: (OCoLC)551672526
+NLM ID: 101528681[Serial]
+
+14. Author(s): Istituto ortopedico Rizzoli (Bologna, Italy)
+Title Abbreviation: Musculoskelet Surg
+Title(s): Musculoskeletal surgery.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Three no. a year
+Country of Publication: Italy
+Publisher: Milano : Springer Verlag Italia
+Language: English
+ISSN: 2035-5106(Print); 2035-5114(Electronic); 2035-5114(Linking)
+LCCN: 2010243473
+Electronic Links: https://link.springer.com/journal/12306
+Fully Indexed In: MEDLINE: v94n1, May 2010-
+In: PubMed: v94n1, May 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Musculoskeletal Diseases/surgery*; Musculoskeletal System/surgery; Orthopedic Procedures
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 94, no. 1 (May 2010). Print issues ceased with v. 98
+(2014). Some issues have supplements. Also issued online.
+Other ID: (OCoLC)642309478
+NLM ID: 101498346[Serial]
+
+15. Author(s): International Cartilage Repair Society.
+Title Abbreviation: Cartilage
+Title(s): Cartilage.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Los Angeles : Sage
+Language: English
+ISSN: 1947-6035(Print); 1947-6043(Electronic); 1947-6035(Linking)
+LCCN: 2009202388
+Electronic Links: https://journals.sagepub.com/home/car, https://pmc.ncbi.nlm.nih.gov/journals/?term=101518378
+Fully Indexed In: MEDLINE: v8n1, Jan. 2017-
+In: PubMed: v1n1, Jan. 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cartilage*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 (Jan. 2010); title from cover. Latest issue
+consulted: Vol. 1, no. 1 (Jan. 2010). Also issued online.
+Other ID: (OCoLC)315863236
+NLM ID: 101518378[Serial]
+
+16. Author(s): Taehan Chŏnghyŏng Oekwa Hakhoe.
+Title Abbreviation: Clin Orthop Surg
+Title(s): Clinics in orthopedic surgery.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Korea (South)
+Publisher: Seoul : Korean Orthopaedic Association
+Language: English
+ISSN: 2005-291X(Print); 2005-4408(Electronic); 2005-291X(Linking)
+LCCN: 2009243411
+Electronic Links: http://www.ecios.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101505087
+Fully Indexed In: MEDLINE: v1n1, Mar. 2009-
+In: PubMed: v1n1, Mar. 2009-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedic Procedures*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 (Mar. 2009); title from cover. Latest issue
+consulted: Vol. 1, no. 2 (June 2009). Also issued online.
+Other ID: (OCoLC)416086481
+NLM ID: 101505087[Serial]
+
+17. Author(s): Zhonghua yi xue hui (China : 1949- ). Society of Orthopaedics.; Tianjin Shi
+Tianjin yi yuan.
+Title Abbreviation: Orthop Surg
+Title(s): Orthopaedic surgery.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Australia
+Publisher: Richmond, Vic. : Tianjin : Blackwell Pub. Asia ; Tianjin Hospital, 2009-
+Latest Publisher: 2013- : Richmond, Vic. Wiley on behalf of the Chinese Orthopedic Association
+Description: v. : ill. (some col.) ; 28 cm.
+Language: English
+ISSN: 1757-7853(Print); 1757-7861(Electronic); 1757-7853(Linking)
+LCCN: 2009243712
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1757-7861, https://pmc.ncbi.nlm.nih.gov/journals/?term=101501666
+Fully Indexed In: MEDLINE: v1n1, Feb. 2009-
+In: PubMed: v1n1, Feb. 2009-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedic Procedures*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, issue 1 (Feb. 2009); title from cover. Latest issue
+consulted: Vol. 1, issue 1 (Feb. 2009). Print issues ceased with v. 4 (2012) Also
+issued online.
+Other ID: (OCoLC)334222244
+NLM ID: 101501666[Serial]
+
+18. Author(s): Société française de chirurgie orthopédique et traumatologique.
+Title Abbreviation: Orthop Traumatol Surg Res
+Title(s): Orthopaedics & traumatology, surgery & research : OTSR.
+Edition: Electronic version.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: 8 issues a year
+Country of Publication: France
+Publisher: Issy les Moulineaus, France : Elsevier Masson SAS,
+Language: English
+ISSN: 1877-0568(Electronic); 1877-0568(Linking)
+LCCN: 2009243149
+Electronic Links: http://www.sciencedirect.com/science/journal/18770568
+Fully Indexed In: MEDLINE: v95n1, Feb. 2009-
+In: PubMed: v95n1, Feb. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: General Surgery*; Orthopedics; Traumatology
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 95, no. 1 (Feb. 2009); title from journal information 
+page (ScienceDirect website, viewed Mar. 3, 2009). Latest issue consulted: Vol.
+95, no. 1 (Feb. 2009) (Viewed Mar. 18, 2009). Assumes the volume numbering of:
+Revue de chirurgie orthopédique et réparatrice de l'appareil moteur. Articles in 
+PDF and Html format. System requirements: Adobe acrobat reader.
+Terms of Use: Access restricted.
+Other ID: (OCoLC)312647200
+NLM ID: 101494830[Serial]
+
+19. Title Abbreviation: Foot Ankle Spec
+Title(s): Foot & ankle specialist.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Thousand Oaks, CA : Sage Publications
+Language: English
+ISSN: 1938-6400(Print); 1938-7636(Electronic); 1938-6400(Linking)
+LCCN: 2007215006
+Electronic Links: https://journals.sagepub.com/home/fas
+Fully Indexed In: MEDLINE: v1n1, Feb. 2008-
+In: PubMed: v1n1, Feb. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ankle Injuries*; Foot Diseases*; Orthopedics*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Latest issue consulted: Vol. 
+1, issue 4 (Aug. 2008). Also issued online.
+Other ID: (OCoLC)143456568
+NLM ID: 101473598[Serial]
+
+20. Author(s): Society of Chiropodists and Podiatrists (Great Britain); Australasian Podiatry
+Council.
+Title Abbreviation: J Foot Ankle Res
+Title(s): Journal of foot and ankle research.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Updated irregularly as articles are accepted for publication
+Country of Publication: United States
+Publisher: London : BioMed Central, 2008-
+Latest Publisher: 2024- : [Hoboken, NJ] : Wiley
+Language: English
+ISSN: 1757-1146(Electronic); 1757-1146(Linking)
+LCCN: 2009250501
+Electronic Links: https://onlinelibrary.wiley.com/journal/17571146, https://jfootankleres.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101471610
+Fully Indexed In: MEDLINE: v9, 2016-
+In: PubMed: v1, 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ankle/surgery; Foot Deformities*; Foot Diseases; Foot Injuries; Foot/surgery
+Publication Type(s): Periodical
+Notes: Description based on 1:1 (28 July 2008); title from homepage (BioMed Central,
+viewed June 22, 2009). Volume numbering corresponds to a calendar year, and
+articles are numbered dequentially as they are published. Mode of access: World
+Wide Web.
+Other ID: (OCoLC)241580959
+NLM ID: 101471610[Serial]
+
+21. Author(s): Sociedad Española de Cirugía Ortopédica y Traumatología.
+Title Abbreviation: Rev Esp Cir Ortop Traumatol
+Title(s): Revista española de cirugía ortopédica y traumatología.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Spain
+Publisher: Barcelona : Elsevier Doyma
+Language: Spanish
+ISSN: 1888-4415(Print); 1988-8856(Electronic); 1888-4415(Linking)
+LCCN: 2008243733
+Electronic Links: http://www.sciencedirect.com/science/journal/18884415
+Fully Indexed In: MEDLINE: v56n1, Jan-Feb 2012-v61n6, Nov.-Dec. 2017;v66n1, Jan.-Feb. 2022-
+In: PubMed: v56n1, Jan-Feb 2012-v61n6, Nov.-Dec. 2017;v66n1, Jan.-Feb. 2022-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Orthopedic Procedures*; Wounds and Injuries
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 52, no. 2 (marzo/abr. 2008); title from cover. Also
+issued online. Text in Spanish with summaries and tables of contents in English. 
+English ed.: Revista española de cirugía ortopédica y traumatología. English 
+edition. eng 2173-576X (DLC) 2022229040 (OCoLC)643439964 (DNLM)101778596.
+Other ID: (OCoLC)241300237
+NLM ID: 101477399[Serial]
+
+22. Author(s): Sociedad Española de Cirugía Ortopédica y Traumatología.
+Title Abbreviation: Rev Esp Cir Ortop Traumatol (Engl Ed)
+Title(s): Revista española de cirugía ortopédica y traumatología.
+Edition: [English ed.].
+Publication Start Year: 2007
+Publication End Year: 2021
+Frequency: Bimonthly
+Country of Publication: Spain
+Publisher: Barcelona : Sociedad Española de Cirugaí Ortopéidca y Traumatología.
+Description: 1 online resource
+Language: Spanish, English
+ISSN: 2173-576X(Electronic); 2173-576X(Linking)
+LCCN: 2022229040
+Electronic Links: https://www.sciencedirect.com/science/journal/19888856
+Fully Indexed In: MEDLINE: v62n1, Jan-Feb 2018-v65n6, Nov.-Dec. 2021
+In: PubMed: v62n1, Jan-Feb 2018-v65n6, Nov.-Dec. 2021; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedic Procedures*; Wounds and Injuries
+Publication Type(s): Periodical
+Notes: Some providers have title: Revista española de cirugía ortopédica y
+traumatología (English Edition). Text in Spanish with summaries and tables of
+contents in English.
+Other ID: (OCoLC)643439964
+NLM ID: 101778596[Serial]
+
+23. Author(s): Deutsche Gesellschaft für Orthopädie und Orthopädische Chirurgie.
+Title Abbreviation: Z Orthop Unfall
+Title(s): Zeitschrift für Orthopädie und Unfallchirurgie.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Stuttgart : Georg Thieme Verlag
+Language: German
+ISSN: 1864-6697(Print); 1864-6743(Electronic); 1864-6697(Linking)
+LCCN: 2007247759
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000099
+Fully Indexed In: MEDLINE: v145n2, Mar./Apr. 2007-
+In: PubMed: v145n2, Mar./Apr. 2007-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Emergencies; Orthopedic Procedures*; Orthopedics
+Publication Type(s): Periodical
+Notes: Description based on: First issue; title from cover. Also issued online.
+Other ID: (OCoLC)152600930
+NLM ID: 101308227[Serial]
+
+24. Author(s): International Osteoporosis Foundation.; National Osteoporosis Foundation.
+Title Abbreviation: Arch Osteoporos
+Title(s): Archives of osteoporosis.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Annual
+Country of Publication: England
+Publisher: London : Springer, [2006]-
+Language: English
+ISSN: 1862-3514(Electronic); 1862-3522(Print)
+LCCN: 2008220480
+Electronic Links: https://link.springer.com/journal/11657
+Fully Indexed In: MEDLINE: v6, n1-2, 2011-
+In: PubMed: v6, n1-2, 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bone Diseases; Osteoporosis*
+Notes: Title from journal information screen (SpringerLink, viewed May 21, 2007). Latest
+issue consulted: Vol. 3, no. 1/2 (Dec. 2008) (viewed June 2, 2009). Also issued
+in print. Mode of access: World Wide Web. Joint initiative of the International
+Osteoporosis Foundation and the National Osteoporosis Foundation of the USA.
+Other ID: (OCoLC)132980566
+NLM ID: 101318988[Serial]
+
+25. Author(s): NYU Hospital for Joint Diseases.
+Title Abbreviation: Bull NYU Hosp Jt Dis
+Title(s): Bulletin of the NYU hospital for joint diseases.
+Publication Start Year: 2006
+Publication End Year: 2012
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Andover, NJ : J. Michael Ryan Pub., c2006-
+Description: v.
+Language: English
+ISSN: 1936-9719(Print); 1936-9727(Electronic); 1936-9719(Linking)
+Electronic Links: http://hjdbulletin.org/
+Fully Indexed In: MEDLINE: v64n1/2, 2006-v70n4, 2012
+In: PubMed: v64n1/2,2006-v70n4, 2012; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Joint Diseases*; Musculoskeletal Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover. Some issues combined. Also issued online.
+Other ID: (OCoLC)76839387
+NLM ID: 101300541[Serial]
+
+26. Author(s): American Association for Hand Surgery.
+Title Abbreviation: Hand (N Y)
+Title(s): Hand : official journal of the American Association for Hand Surgery.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: New York, N.Y. : Springer, c2006-
+Latest Publisher: 2016- : Thousand Oaks, CA : SAGE Publications
+Description: v. : ill.
+Language: English
+ISSN: 1558-9447(Print); 1558-9455(Electronic); 1558-9447(Linking)
+LCCN: 2005216113
+Electronic Links: https://journals.sagepub.com/home/han, https://pmc.ncbi.nlm.nih.gov/journals/?term=101264149
+Fully Indexed In: MEDLINE: v12n1, Mar. 2017-
+In: PubMed: v1n1, Jun. 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Hand/surgery*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)62296008
+NLM ID: 101264149[Serial]
+
+27. Author(s): Hua yi gu ke xue hui.
+Title Abbreviation: J Orthop Surg Res
+Title(s): Journal of orthopaedic surgery and research.
+Publication Start Year: 2006
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, 2006-
+Language: English
+ISSN: 1749-799X(Electronic); 1749-799X(Linking)
+LCCN: 2006243914
+Electronic Links: https://josr-online.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101265112
+Fully Indexed In: MEDLINE: v6, Jan. 2011-
+In: PubMed: v1, 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Musculoskeletal Diseases; Musculoskeletal System/injuries; Orthopedic Procedures*
+Publication Type(s): Periodical
+Notes: Title from PDF caption (publisher's Web site, viewed Oct. 16, 2006). Latest issue
+consulted: 1:8 (10 Oct. 2006) (viewed Oct. 16, 2006). Articles are added
+consecutively to the current annual v. Mode of access: World Wide Web. Official
+organ of the Chinese Speaking Orthopaedic Society.
+Other ID: (OCoLC)71838423
+NLM ID: 101265112[Serial]
+
+28. Title Abbreviation: Acta Orthop Suppl
+Title(s): Acta orthopaedica. Supplementum.
+Publication Start Year: 2005
+Publication End Year: 2015
+Frequency: Bimonthly
+Country of Publication: Sweden
+Publisher: [Stockholm] : Taylor & Francis, 2005-
+Description: v. : ill.
+Language: English
+ISSN: 1745-3690(Print); 1745-3704(Electronic); 1745-3690(Linking)
+LCCN: 2005243684
+Electronic Links: http://www.tandfonline.com/loi/iort20
+Fully Indexed In: MEDLINE: n315, Feb. 2005-n361, Aug. 2015; PubMed: n315, Feb. 2005-n361, Aug. 2015
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Online version called also: Acta orthopaedica. Supplement. Title from analytical 
+t.p. Issues also have distinctive titles. Latest issue consulted: no. 316 (Apr.
+2005). Also issued online.
+Other ID: (OCoLC)59552526
+NLM ID: 101244827[Serial]
+
+29. Author(s): Nordic Orthopedic Federation.
+Title Abbreviation: Acta Orthop
+Title(s): Acta orthopaedica.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Annual, 2022-
+Country of Publication: Sweden
+Publisher: Basingstoke, Hampshire, UK : Taylor & Francis, c2005-
+Latest Publisher: 2022- : Uppsala, Sweden : Medical Journals Sweden AB
+Description: v. : ill.
+Language: English
+ISSN: 1745-3674(Print); 1745-3682(Electronic); 1745-3674(Linking)
+LCCN: 2005243743
+Electronic Links: http://www.tandfonline.com/loi/iort20, https://actaorthop.org/actao/index, https://pmc.ncbi.nlm.nih.gov/journals/?term=101231512
+Fully Indexed In: MEDLINE: v76n1, Feb. 2005-; PubMed: v76n1, Feb. 2005-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 76, no. 2 (Apr. 2005). Called
+also: 05/1- As of 2021-, articles published as they are received and compiled
+into annual volumes. Also issued online. Official publication of the Nordic
+Orthopedic Federation.
+Other ID: (OCoLC)59553678
+NLM ID: 101231512[Serial]
+
+30. Author(s): Türkiye Eklem Hastalıkları Tedavi Vakfı.
+Title Abbreviation: Eklem Hastalik Cerrahisi
+Title(s): Eklem hastalıkları ve cerrahisi = Joint diseases & related surgery.
+Publication Start Year: 2005
+Publication End Year: 2019
+Frequency: Three no. a year
+Country of Publication: Turkey
+Publisher: Kavaklıdere, Ankara : Türkiye Eklem Hastalıkları Tedavi Vakfı
+Description: v. : ill.
+Language: Turkish, English
+ISSN: 1305-8282(Print); 1309-0313(Electronic)
+Electronic Links: http://www.tevak.org/?page=published
+Fully Indexed In: MEDLINE: v19n1, 2008-v30n3, 2019
+In: PubMed: v19n1, 2008-v30n3, 2019; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Joint Diseases*; Orthopedic Procedures
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 16, no. 2 (2005); title from cover. Latest issue
+consulted: Vol. 17, no. 1 (2006). Issues for <v. 16, no. 2-> called also <yıl
+2005, cilt 16, sayı 2-> = <Year 2005, vol. 16, no. 2-> Also issued online. In
+Turkish and English. Official publication of the Turkish Joint Diseases
+Foundation.
+Other ID: (OCoLC)76911751
+NLM ID: 101265191[Serial]
+
+31. Title Abbreviation: Head Face Med
+Title(s): Head & face medicine.
+Publication Start Year: 2005
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central, [2005]-
+Language: English
+ISSN: 1746-160X(Electronic); 1746-160X(Linking)
+LCCN: 2006243253
+Electronic Links: https://head-face-med.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101245792
+Fully Indexed In: MEDLINE: v1, 2005-
+In: PubMed: v1, 2005-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Dentistry; Index Medicus
+MeSH: Face/pathology; Head/pathology; Skull/pathology*
+Publication Type(s): Periodical
+Notes: Title from PDF caption (publisher Web site, viewed Sept. 29, 2005). Latest issue 
+consulted: 1:6 (1 Sept. 2005) (viewed Sept. 29, 2005). Articles are added
+consecutively to current annual v. Mode of access: World Wide Web.
+Other ID: (OCoLC)61396483
+NLM ID: 101245792[Serial]
+
+32. Title Abbreviation: Curr Osteoporos Rep
+Title(s): Current osteoporosis reports.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia, PA : Current Science, c2003-
+Description: v. : ill.
+Language: English
+ISSN: 1544-1873(Print); 1544-2241(Electronic); 1544-1873(Linking)
+LCCN: 2003212204
+Electronic Links: https://link.springer.com/journal/11914
+Fully Indexed In: MEDLINE: v1n1, June 2003-; PubMed: v1n1, June 2003-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Osteoporosis*
+Publication Type(s): PeriodicalReview
+Notes: Print issues ceased with v. 5, no. 4 (Dec. 2007) Also issued online.
+Other ID: (OCoLC)51939590
+NLM ID: 101176492[Serial]
+
+33. Author(s): Southern Orthopaedic Association.
+Title Abbreviation: J Surg Orthop Adv
+Title(s): Journal of surgical orthopaedic advances.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Towson, MD : Data Trace Pub. Co., c2003-
+Description: v.
+Language: English
+ISSN: 1548-825X(Print); 1548-825X(Linking)
+LCCN: 2004212154
+Electronic Links: http://www.jsoaonline.com/
+Fully Indexed In: MEDLINE: v12n4, winter 2003-; Index medicus
+In: PubMed: v12n4, winter 2003-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bone Diseases/therapy; Orthopedic Procedures/methods*; Orthopedics/methods
+Publication Type(s): Periodical
+Notes: Title from cover. Approved for CME credit. Also issued online. Official journal
+of the Southern Orthopaedic Association.
+Other ID: (OCoLC)54494454
+NLM ID: 101197881[Serial]
+
+34. Title Abbreviation: Musculoskeletal Care
+Title(s): Musculoskeletal care.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Four no. a year, 2004-
+Country of Publication: England
+Publisher: London : Whurr Publishers, 2003-
+Latest Publisher: [Hoboken] : John Wiley & Sons Ltd.
+Description: v.
+Language: English
+ISSN: 1478-2189(Print); 1557-0681(Electronic); 1478-2189(Linking)
+LCCN: 2003243561
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1557-0681
+Fully Indexed In: MEDLINE: v4n1, Mar. 2006-; PubMed: v4n1, Mar. 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Musculoskeletal Diseases/therapy*; Rheumatic Diseases/therapy
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 12 (2014). Also issued online.
+Other ID: (OCoLC)53286931
+NLM ID: 101181344[Serial]
+
+35. Author(s): Sociedad Mexicana de Ortopedia.
+Title Abbreviation: Acta Ortop Mex
+Title(s): Acta ortopédica mexicana.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Mexico
+Publisher: México, D.F. : Sociedad Mexicana de Ortopedia
+Description: v. : ill.
+Language: Spanish, English
+ISSN: 2306-4102(Print); 2306-4102(Linking)
+LCCN: 2003243607
+Electronic Links: https://www.actaortopedica.com.mx/index.php
+Fully Indexed In: MEDLINE: v21n1, Jan./Feb. 2007-
+In: PubMed: v21n1, Jan./Feb. 2007-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 17, no. 1 (enero/feb. 2003); title from cover. Latest 
+issue consulted: Vol. 17, no. 2 (marzo/abril 2003). Print issues ceased with
+2015(?). Also issued online. Articles in Spanish; summaries in English and
+Spanish. "Organo oficial de la Sociedad Mexicana de Ortopedia."
+Other ID: (OCoLC)53435821
+NLM ID: 101190312[Serial]
+
+36. Title Abbreviation: J Knee Surg
+Title(s): The journal of knee surgery.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Monthly, 2019-
+Country of Publication: Germany
+Publisher: Thorofare, N.J. : Slack, c2002-
+Latest Publisher: 2010- : Stuttgart : Thieme Medical
+Description: v. : ill.
+Language: English
+ISSN: 1538-8506(Print); 1938-2480(Electronic); 1538-8506(Linking)
+LCCN: 2002213469
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000161
+Fully Indexed In: MEDLINE: v15n1, winter 2002-; Index medicus
+In: PubMed: v15n1, winter 2002-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Knee/surgery*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)48982761
+NLM ID: 101137599[Serial]
+
+37. Title Abbreviation: J Spinal Disord Tech
+Title(s): Journal of spinal disorders & techniques.
+Publication Start Year: 2002
+Publication End Year: 2015
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Hagerstown, MD : Lippincott Williams & Wilkins, c2002-
+Description: v. : ill. ; 28cm.
+Language: English
+ISSN: 1536-0652(Print); 1539-2465(Electronic); 1536-0652(Linking)
+LCCN: 2001213431
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00024720-000000000-00000
+Fully Indexed In: MEDLINE: 15n1, Feb. 2002-v28n10, Dec. 2015; Index medicus
+In: PubMed: 15n1, Feb. 2002-v28n10, Dec. 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cordotomy/methods; Spinal Cord Diseases/therapy; Spinal Diseases/therapy*; Spinal Fusion/methods; Spine/surgery
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)47353004
+NLM ID: 101140323[Serial]
+
+38. Author(s): North American Spine Society.
+Title Abbreviation: Spine J
+Title(s): The spine journal : official journal of the North American Spine Society.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: New York, NY : Elsevier Science Inc., c2001-
+Description: v.
+Language: English
+ISSN: 1529-9430(Print); 1878-1632(Electronic); 1529-9430(Linking)
+LCCN: 00215177, 00214775
+Electronic Links: http://www.sciencedirect.com/science/journal/15299430
+Fully Indexed In: MEDLINE: v1n1, Jan./Feb. 2001-; PubMed: v1n1, Jan./Feb. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Spinal Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)43961140
+NLM ID: 101130732[Serial]
+
+39. Title Abbreviation: BMC Musculoskelet Disord
+Title(s): BMC musculoskeletal disorders.
+Publication Start Year: 2000
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2000-
+Language: English
+ISSN: 1471-2474(Electronic); 1471-2474(Linking)
+LCCN: 2002243108
+Electronic Links: https://bmcmusculoskeletdisord.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=100968565
+Fully Indexed In: MEDLINE: v1, 2000-; Index medicus
+In: PubMed: v1, 2000-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Musculoskeletal Diseases*
+Publication Type(s): Periodical
+Notes: Title from BioMed Central archive volume screen (viewed on Feb. 20, 2002).
+Articles are added consecutively to the current annual v. Text (electronic
+journal) in HTML and PDF formats. System requirements: Internet connectivity,
+World Wide Web browser, and Adobe Acrobat reader. Mode of access: Internet.
+Other ID: (OCoLC)46614483
+NLM ID: 100968565[Serial]
+
+40. Author(s): International Society of Musculoskeletal and Neuronal Interactions.
+Title Abbreviation: J Musculoskelet Neuronal Interact
+Title(s): Journal of musculoskeletal & neuronal interactions.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Greece
+Publisher: Kifissia, Greece : International Society of Musculoskeletal and Neuronal
+Interactions, 2000-
+Description: v.
+Language: English
+ISSN: 1108-7161(Print); 1108-7161(Linking)
+LCCN: 2001243063
+Electronic Links: http://www.ismni.org/jmni/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101084496
+Fully Indexed In: MEDLINE: v4n1, Mar. 2004-; Index medicus
+In: PubMed: v4n1, Mar. 2004-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bone Diseases, Metabolic; Musculoskeletal Diseases/physiopathology*Musculoskeletal Diseases/therapy; Neurosciences
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 8, no. 1 (2008)? Also issued
+online.
+Other ID: (OCoLC)46400871
+NLM ID: 101084496[Serial]
+
+41. Author(s): Società italiana di ortopedia e traumatologia.
+Title Abbreviation: J Orthop Traumatol
+Title(s): Journal of orthopaedics and traumatology : official journal of the Italian
+Society of Orthopaedics and Traumatology.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Three times a year
+Country of Publication: Italy
+Publisher: Milano, Italy : Springer-Verlag Italia,
+Description: v.
+Language: English
+ISSN: 1590-9921(Print); 1590-9999(Electronic); 1590-9921(Linking)
+Coden: JOTOBV
+LCCN: 2001243205
+Electronic Links: https://link.springer.com/journal/10195, https://pmc.ncbi.nlm.nih.gov/journals/?term=101090931
+Fully Indexed In: MEDLINE: v10n1, Mar. 2009-
+In: PubMed: v9, 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedic Procedures*; Orthopedics; Traumatology
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 2 (2000); title from cover. Print issues ceased
+v. 11, no. 4 (2010). Also available online.
+Other ID: (OCoLC)47658289
+NLM ID: 101090931[Serial]
+
+42. Title Abbreviation: Ortop Traumatol Rehabil
+Title(s): Ortopedia, traumatologia, rehabilitacja.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Six no. a year, 2002-
+Country of Publication: Poland
+Publisher: Warszawa : Medsport Press
+Description: v. : ill.
+Language: Polish, English
+ISSN: 1509-3492(Print); 2084-4336(Electronic); 1509-3492(Linking)
+Electronic Links: https://ortopedia.com.pl/resources/html/cms/MAINPAGE
+Fully Indexed In: MEDLINE: v9n1, Jan./Feb. 2007-
+In: PubMed: v1n1,Jan.-Feb. 1999-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Musculoskeletal Diseases; Musculoskeletal System/injuries; Orthopedic Procedures*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 6, no. 4 (2004); title from cover. Latest issue
+consulted: Vol. 7, no. 2 (2005). Also issued online. Chiefly in Polish with some 
+English- 2006; Polish and English in parallel columns with summaries and table of
+contents in both languages, 2007- . Search interface available in Polish and
+English.
+Other ID: (OCoLC)64593075
+NLM ID: 101240146[Serial]
+
+43. Author(s): International Society for Clinical Densitometry.
+Title Abbreviation: J Clin Densitom
+Title(s): Journal of clinical densitometry : the official journal of the International
+Society for Clinical Densitometry.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: Totowa, NJ : Humana Press, c1998-
+Description: v. : ill.
+Language: English
+ISSN: 1094-6950(Print); 1094-6950(Linking)
+Coden: JCDTFM
+LCCN: sn97-708
+Electronic Links: http://www.sciencedirect.com/science/journal/10946950
+Fully Indexed In: MEDLINE: v2n1, spring 1999-; PubMed: v2n1, spring 1999-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Absorptiometry, Photon; Bone Density; Osteoporosis/diagnosis
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0091956(s)(OCoLC)37313466
+NLM ID: 9808212[Serial]
+
+44. Title Abbreviation: Semin Musculoskelet Radiol
+Title(s): Seminars in musculoskeletal radiology.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Bimonthly, 2019-
+Country of Publication: United States
+Publisher: New York : Thieme, c1998-
+Description: v. : ill.
+Language: English
+ISSN: 1089-7860(Print); 1098-898X(Electronic); 1089-7860(Linking)
+Coden: SMRAFY
+LCCN: sn 96000662
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000070
+Fully Indexed In: MEDLINE: v4n1, 2000-; PubMed: v4n1, 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Athletic Injuries/diagnosis; Musculoskeletal Diseases/diagnosis
+Publication Type(s): Periodical
+Notes: Title from cover. Each volume has distinctive title. Also issued online.
+Other ID: (DNLM)SR0089488(s)(OCoLC)35133186
+NLM ID: 9717520[Serial]
+
+45. Title Abbreviation: Foot Ankle Clin
+Title(s): Foot and ankle clinics.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia : W.B. Saunders, c1996-
+Description: v. : ill.
+Language: English
+ISSN: 1083-7515(Print); 1558-1934(Electronic); 1083-7515(Linking)
+LCCN: sn 95005854
+Electronic Links: https://www.sciencedirect.com/journal/foot-and-ankle-clinics
+Fully Indexed In: MEDLINE: v5n1, Mar. 2000-; PubMed: v5n1, Mar. 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ankle Injuries*; Foot Diseases*; Foot Injuries*
+Publication Type(s): Periodical
+Notes: Each issue has also a distinctive title. Also issued online.
+Other ID: (DNLM)SR0085591(s)(OCoLC)32877539
+NLM ID: 9615073[Serial]
+
+46. Author(s): European Society of Foot and Ankle Surgeons.
+Title Abbreviation: Foot Ankle Surg
+Title(s): Foot and ankle surgery : official journal of the European Society of Foot and
+Ankle Surgeons.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Bimonthly, 2018-
+Country of Publication: France
+Publisher: Paris : Arnette Blackwell, c1996-
+Latest Publisher: [London] : Elsevier Ltd.
+Description: v. : ill.
+Language: English
+ISSN: 1268-7731(Print); 1460-9584(Electronic); 1268-7731(Linking)
+Electronic Links: https://www.sciencedirect.com/journal/foot-and-ankle-surgery
+Fully Indexed In: MEDLINE: v14n1, 2008-
+In: PubMed: v14n1, 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ankle/surgery*; Foot/surgery*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online 1998-
+Other ID: (DNLM)SR0088629(s)(OCoLC)36056324
+NLM ID: 9609647[Serial]
+
+47. Author(s): Nihon Seikei Geka Gakkai.
+Title Abbreviation: J Orthop Sci
+Title(s): Journal of orthopaedic science : official journal of the Japanese Orthopaedic
+Association.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Japan
+Publisher: Tokyo : Springer-Verlag Tokyo, c1996-
+Latest Publisher: 2016- : Tokyo : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0949-2658(Print); 1436-2023(Electronic); 0949-2658(Linking)
+Coden: JOSCF
+LCCN: sn 96039333
+Electronic Links: https://link.springer.com/journal/776, http://www.sciencedirect.com/science/journal/09492658
+Fully Indexed In: MEDLINE: v3n1, 1998-; Index medicus
+In: PubMed: v3n1, 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0085599(s)(OCoLC)34753655
+NLM ID: 9604934[Serial]
+
+48. Title Abbreviation: Am J Orthop (Belle Mead NJ)
+Title(s): The American journal of orthopedics.
+Publication Start Year: 1995
+Publication End Year: 2018
+Frequency: Twelve no. a year
+Country of Publication: United States
+Publisher: Belle Meade, N.J. : Excerpta Medica, Inc., c1994-
+Latest Publisher: <1997-2018> : Parsippany, NJ : Frontline Medical Communications
+Description: v. : ill.
+Language: English
+ISSN: 1078-4519(Print); 1934-3418(Electronic); 1078-4519(Linking)
+Coden: AJORFL
+LCCN: sn 94000979
+Electronic Links: https://www.mdedge.com/surgery/orthopedics
+Fully Indexed In: MEDLINE: v24n1, 1995-Dec. 2018; Index medicus
+In: PubMed: v24n1, 1995-Dec. 2018; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Title from cover. Some vols. have supplements. Also issued online.
+Other ID: (DNLM)SR0082049(s)(OCoLC)31091622
+NLM ID: 9502918[Serial]
+
+49. Author(s): Société d'orthopédie et de traumatologie de l'Est de la France.; Groupe
+d'étude pour la chirurgie osseuse.; European Bone and Joint Infection Society.
+Title Abbreviation: Eur J Orthop Surg Traumatol
+Title(s): European journal of orthopaedic surgery & traumatology : orthopédie
+traumatologie.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Eight no. a year, 2008-
+Country of Publication: France
+Publisher: Paris : Springer-Verlag France
+Description: v. : ill.
+Language: English, French
+ISSN: 1633-8065(Print); 1432-1068(Electronic); 1633-8065(Linking)
+LCCN: sn 96039091
+Electronic Links: https://link.springer.com/journal/590
+Fully Indexed In: MEDLINE: v23n1, Jan. 2013-
+In: PubMed: v23n1, Jan. 2013-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 24 (2014). Also issued online. Articles chiefly in
+English with some in French; summaries and table of contents in both languages.
+Official organ of Société d'orthopédie et de traumatologie de l'Est de la
+France (S.O.T.EST), Groupe d'étude pour la chirurgie osseuse (G.E.C.O.),
+European Bone and Joint Infection Society (E.B.J.I.S.).
+Other ID: (DNLM)SR0086388(s)(OCoLC)34261996
+NLM ID: 9518037[Serial]
+
+50. Author(s): Pan American League against Rheumatism.
+Title Abbreviation: J Clin Rheumatol
+Title(s): Journal of clinical rheumatology : practical reports on rheumatic &
+musculoskeletal diseases.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Eight no. a year, 2009-
+Country of Publication: United States
+Publisher: Baltimore, MD : Williams & Wilkins, c1995-
+Latest Publisher: Philadelphia, PA : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English
+ISSN: 1076-1608(Print); 1536-7355(Electronic); 1076-1608(Linking)
+Coden: JCRHFM
+LCCN: sn 94005093
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00124743-000000000-00000
+Fully Indexed In: MEDLINE: v11n1, Feb. 2005-; PubMed: v11n1, Feb. 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Musculoskeletal Diseases*; Rheumatic Diseases*
+Publication Type(s): Periodical
+Notes: At head of title, <Aug. 2002->: JCR. Title from cover. Place of publication
+varies. Also issued online. Vols. for <Aug. 2002-> are the official publication
+of PANLAR.
+Other ID: (DNLM)SR0081407(s)(OCoLC)30415935
+NLM ID: 9518034[Serial]
+
+51. Author(s): American Orthopaedic Foot and Ankle Society.
+Title Abbreviation: Foot Ankle Int
+Title(s): Foot & ankle international.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Baltimore, MD : Williams & Wilkins, c1994-
+Latest Publisher: 2013- : Thousand Oaks, CA : Sage Publications
+Description: v. : ill., ports
+Language: English
+ISSN: 1071-1007(Print); 1944-7876(Electronic); 1071-1007(Linking)
+Coden: FAINE4
+LCCN: sn 93002850
+Electronic Links: https://journals.sagepub.com/home/fai
+Fully Indexed In: MEDLINE: v15n1, Jan. 1994-; Index medicus
+In: PubMed: v15n1, Jan. 1994-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ankle Injuries*; Ankle*; Foot Injuries*; Foot*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of: American Orthopaedic
+Foot and Ankle Society.
+Other ID: (DNLM)SR0079016(s)(OCoLC)28552032
+NLM ID: 9433869[Serial]
+
+52. Title Abbreviation: Knee
+Title(s): The Knee.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Oxford, UK : Butterworth-Heinemann, c1994-
+Latest Publisher: [s.l.] : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0968-0160(Print); 1873-5800(Electronic); 0968-0160(Linking)
+Coden: KNEEF2
+LCCN: sn 94004416
+Electronic Links: https://www.sciencedirect.com/journal/the-knee
+Fully Indexed In: MEDLINE: v8n1, Mar. 2001-; PubMed: v8n1, Mar. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Knee Injuries/surgery; Knee Joint; Knee Prosthesis; Knee
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0077522(s)(OCoLC)30370397
+NLM ID: 9430798[Serial]
+
+53. Author(s): North American Society of Gait and Clinical Movement Analysis.; European Society 
+of Movement Analysis in Children.; Società italiana di analisi del movimento in 
+clinica.
+Title Abbreviation: Gait Posture
+Title(s): Gait & posture.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Bimonthly, 1997-
+Country of Publication: England
+Publisher: Oxford, UK : Butterworth-Heinemann, c1993-
+Latest Publisher: <2007->: Oxford, UK : Elsevier Sciencem
+Description: v. : ill., ports.
+Language: English
+ISSN: 0966-6362(Print); 1879-2219(Electronic); 0966-6362(Linking)
+Coden: GAPOFK
+LCCN: 93648823
+Electronic Links: https://www.sciencedirect.com/journal/gait-and-posture
+Fully Indexed In: MEDLINE: v9n1, Mar. 1999-; PubMed: v9n1, Mar. 1999-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Gait*; Locomotion*; Posture*; Walking*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online. Beginning in 1997, the
+official journal of: North American Society of Gait and Clinical Movement
+Analysis; and: European Society of Movement Analysis in Children; beginning in
+<1999>, also the official journal of: the Società italiana di analisi del
+movimento in clinica (SIAMOC).
+Other ID: (DNLM)SR0075065(s)(OCoLC)28387280
+NLM ID: 9416830[Serial]
+
+54. Author(s): American College of Foot and Ankle Surgeons.
+Title Abbreviation: J Foot Ankle Surg
+Title(s): The Journal of foot and ankle surgery : official publication of the American
+College of Foot and Ankle Surgeons.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Baltimore, MD : Williams & Wilkins, c1993-
+Latest Publisher: 2003- : Philadelphia : W.B. Saunders
+Description: v. : ill.
+Language: English
+ISSN: 1067-2516(Print); 1542-2224(Electronic); 1067-2516(Linking)
+Coden: JFSUEI
+Electronic Links: http://www.sciencedirect.com/science/journal/10672516
+Fully Indexed In: MEDLINE: v32n1,Jan./Feb. 1993-; PubMed: v32n1,Jan./Feb. 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ankle/surgery*; Foot/surgery*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also available online.
+Other ID: (DNLM)SR0076946(s)(OCoLC)27182191
+NLM ID: 9308427[Serial]
+
+55. Author(s): Western Pacific Orthopaedic Association.; Asia Pacific Orthopaedic Association.
+Title Abbreviation: J Orthop Surg (Hong Kong)
+Title(s): Journal of orthopaedic surgery.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Three no. a year, <2017- >
+Country of Publication: England
+Publisher: Hong Kong : Hong Kong University Press, c1993-
+Latest Publisher: 2017- : London : Sage Publications
+Description: v. : ill., ports.
+Language: English
+ISSN: 1022-5536(Print); 2309-4990(Electronic); 1022-5536(Linking)
+Coden: JOTSEC
+LCCN: sn 94043381
+Electronic Links: https://journals.sagepub.com/home/osj
+Fully Indexed In: MEDLINE: v10n1, June 2002-; Index medicus
+In: PubMed: v10n1, June 2002-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v.24, no. 3 (2016). Articles added consecutively to
+current annual volume. Also issued online. Official journal of the Western
+Pacific Orthopaedic Association, Apr. 1994-1999; Asia Pacific Orthopaedic
+Association, 2000- .
+Other ID: (DNLM)SR0079646(s)(OCoLC)30638153
+NLM ID: 9440382[Serial]
+
+56. Author(s): American Academy of Orthopaedic Surgeons.
+Title Abbreviation: J Am Acad Orthop Surg
+Title(s): The Journal of the American Academy of Orthopaedic Surgeons.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Monthly, Sept. 2005-
+Country of Publication: United States
+Publisher: Rosemont, IL : American Academy of Orthopaedic Surgeons, c1993-
+Latest Publisher: 2016- : Philadelphia : Wolters Kluwer
+Description: v. : ill.
+Language: English
+ISSN: 1067-151X(Print); 1940-5480(Electronic); 1067-151X(Linking)
+LCCN: sn 92006944
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00124635-000000000-00000
+Fully Indexed In: MEDLINE: v6n1, Jan./Feb. 1998-; Index medicus
+In: PubMed: v6n1, Jan./Feb. 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Joint Diseases*; Orthopedics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0078349(s)(OCoLC)27152602
+NLM ID: 9417468[Serial]
+
+57. Author(s): Osteoarthritis Research Society.
+Title Abbreviation: Osteoarthritis Cartilage
+Title(s): Osteoarthritis and cartilage/ OARS, Osteoarthritis Research Society.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Eight no. a year, 2001-
+Country of Publication: England
+Publisher: London : Published for the Society by Baillère Tindall, c1993-
+Latest Publisher: London : W.B. Saunders For The Osteoarthritis Research Society
+Description: v.
+Language: English
+ISSN: 1063-4584(Print); 1522-9653(Electronic); 1063-4584(Linking)
+LCCN: sn 92002993
+Electronic Links: http://www.sciencedirect.com/science/journal/10634584
+Fully Indexed In: MEDLINE: v1n1, 1993-; PubMed: v1n1, 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Osteoarthritis*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Place of publication varies. Also issued online.
+Official journal of the Osteoarthritis Research Society.
+Other ID: (DNLM)SR0075344(s)(OCoLC)26040908
+NLM ID: 9305697[Serial]
+
+58. Title Abbreviation: Sports Med Arthrosc Rev
+Title(s): Sports medicine and arthroscopy review.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, NY : Raven Press, c1993-
+Latest Publisher: <2015- > : Philadelphia, PA : Wolters Kluwer Health, Inc.
+Description: v. : ill.
+Language: English
+ISSN: 1062-8592(Print); 1538-1951(Electronic); 1062-8592(Linking)
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00132585-000000000-00000
+Fully Indexed In: MEDLINE: v14n1, Mar. 2006-
+In: PubMed: v14n1, Mar. 2006-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Arthroscopy*; Athletic Injuries*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Each issue has also a distinctive title. Also issued
+online.
+Other ID: (DNLM)SR0075358(s)(OCoLC)25771795
+NLM ID: 9315689[Serial]
+
+59. Author(s): Hospital for Joint Diseases (New York, N.Y. : 1992)
+Title Abbreviation: Bull Hosp Jt Dis
+Title(s): Bulletin/ Hospital for Joint Diseases.
+Publication Start Year: 1992
+Publication End Year: 2006
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, NY : Hospital for Joint Diseases, c1992-c2006.
+Description: 12 v. : ill., ports.
+Language: English
+ISSN: 0018-5647(Print); 0018-5647(Linking)
+Coden: BHJDEI
+Electronic Links: http://hjdbulletin.org/
+Fully Indexed In: MEDLINE: v52n1, 1992-v63n3/4, 2006; PubMed: v52n1, 1992-v63n3/4, 2006; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Joint Diseases*; Musculoskeletal Diseases*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0075646(s)(OCoLC)26884740
+NLM ID: 9215948[Serial]
+
+60. Author(s): European Spine Society.; European Spinal Deformities Society.; Cervical Spine
+Research Society. European Section.
+Title Abbreviation: Eur Spine J
+Title(s): European spine journal : official publication of the European Spine Society, the 
+European Spinal Deformity Society, and the European Section of the Cervical Spine
+Research Society.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Eight no. a year, 2004-
+Country of Publication: Germany
+Publisher: Heidelberg, Federal Republic of Germany : Springer-Verlag, c1992-
+Description: v. : ill.
+Language: English, French
+ISSN: 0940-6719(Print); 1432-0932(Electronic); 0940-6719(Linking)
+Coden: ESJOEP
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9301980, https://link.springer.com/journal/586
+Fully Indexed In: MEDLINE: v1n1, 1992-; Index medicus
+In: PubMed: v1n1, 1992-, PMC Inactive; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Spinal Diseases*; Spinal Diseases/surgery*
+Publication Type(s): Periodical
+Notes: Four issues per year. Title from cover. Also issued online. Articles in English; 
+summaries in English and French.
+Other ID: (DNLM)SR0072198(s)(OCoLC)27638222
+NLM ID: 9301980[Serial]
+
+61. Author(s): European Paediatric Orthopaedic Society.; Pediatric Orthopaedic Society of North 
+America.
+Title Abbreviation: J Pediatr Orthop B
+Title(s): Journal of pediatric orthopedics. Part B.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Quarterly, 1996-
+Country of Publication: United States
+Publisher: New York, NY : Raven Press, c1992-
+Latest Publisher: Philadelphia : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English
+ISSN: 1060-152X(Print); 1473-5865(Electronic); 1060-152X(Linking)
+Coden: JPOBFC
+LCCN: sn 91007848
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=01202412-000000000-00000
+Fully Indexed In: MEDLINE: v4n1, 1995-; Index medicus
+In: PubMed: v4n1, 1995-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Child; Infant; Orthopedics*
+Publication Type(s): Periodical
+Notes: Issues for <2001-> have title: Journal of pediatric orthopaedics. Part B. Title
+from cover. Companion to: Journal of pediatric orthopedics. Also issued online.
+Other ID: (DNLM)SR0072988(s)(OCoLC)24886124
+NLM ID: 9300904[Serial]
+
+62. Author(s): American Shoulder and Elbow Surgeons (Organization)
+Title Abbreviation: J Shoulder Elbow Surg
+Title(s): Journal of shoulder and elbow surgery/ American Shoulder and Elbow Surgeons ...
+[et al.].
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: St. Louis, MO : Mosby Yearbook, Inc., c1992-
+Latest Publisher: St. Louis, MO : Mosby
+Description: v. : ill.
+Language: English
+ISSN: 1058-2746(Print); 1532-6500(Electronic); 1058-2746(Linking)
+Coden: JSESBU
+LCCN: sn 91003421
+Electronic Links: http://www.sciencedirect.com/science/journal/10582746
+Fully Indexed In: MEDLINE: v4n1, 1995-; PubMed: v4n1, 1995-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Elbow/surgery*; Shoulder/surgery*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0071699(s)(OCoLC)24252465
+NLM ID: 9206499[Serial]
+
+63. Author(s): Southern Orthopaedic Association.
+Title Abbreviation: J South Orthop Assoc
+Title(s): Journal of the Southern Orthopaedic Association.
+Publication Start Year: 1992
+Publication End Year: 2003
+Frequency: Quarterly, 199 -
+Country of Publication: United States
+Publisher: Birmingham, Ala. : Southern Orthopaedic Association, c1992-c2003.
+Latest Publisher: <2003->: Baltimore, MD : Data Trace Publishing Co.
+Description: 12 v. : ill., ports.
+Language: English
+ISSN: 1059-1052(Print); 1059-1052(Linking)
+Fully Indexed In: MEDLINE: v4n1, spring 1995-v12n3, autumn 2003; Index medicus
+In: PubMed: v4n1, spring 1995-v12n3, autumn 2003; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bone Diseases/therapy*; Bone and Bones/injuries*; Orthopedics*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies.
+Other ID: (DNLM)SR0073266(s)(OCoLC)24479695
+NLM ID: 9211289[Serial]
+
+64. Author(s): Magyar Traumatológus Társaság.
+Title Abbreviation: Magy Traumatol Ortop Kezseb Plasztikai Seb
+Title(s): Magyar traumatológia, ortopédia, kézsebészet, plasztikai sebészet.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Hungary
+Publisher: Budapest : Kiadja a Magyar Traumatológus Társaság, a Magyar Ortopéd
+Társaság, a Magyar Kézsebész Táesaság és a MagyarPlasztikai Sebész
+Társaság, 1992-
+Latest Publisher: Budapest : Kiadja A Magyar Traumatologus Tarsasag, A Magyar Ortoped Tarsasag, A
+Magyar Kezsebesz Taeasag Es A Magyarplasztikai Sebesz Tarsasag
+Description: v. : ill., ports.
+Language: Hungarian, English
+ISSN: 
+Electronic Links: https://ojs.mtak.hu/index.php/matrokplaszt/issue/view/1435
+Fully Indexed In: MEDLINE: v35n3, 1992-v37n4, 1994; PubMed: v35n3, 1992-v37n4, 1994; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hand/surgery*; Orthopedics*; Surgery, Plastic*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Title from cover. Articles in Hungarian; summaries and table of contents in
+English and Hungarian.
+Other ID: (DNLM)SR0078139(s)(OCoLC)28711830
+NLM ID: 9313834[Serial]
+
+65. Title Abbreviation: Orthop Phys Ther Clin N Am
+Title(s): Orthopaedic physical therapy clinics of North America.
+Publication Start Year: 1992
+Publication End Year: 2002
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia : W.B. Saunders Co., c1992-
+Latest Publisher: Philadelphia Pa : Saunders
+Description: v. : ill., ports.
+Language: English
+ISSN: 1059-1516(Print); 1059-1516(Linking)
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to space life sciences were indexed.
+MeSH: Athletic Injuries/therapy*; Orthopedics*; Physical Therapy Modalities*
+Publication Type(s): Periodical
+Notes: Quarterly.
+Other ID: (DNLM)SR0073151(s)(OCoLC)24486704
+NLM ID: 9310814[Serial]
+
+66. Title Abbreviation: Foot (Edinb)
+Title(s): The Foot.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Scotland
+Publisher: Edinburgh ; New York : Churchill Livingstone, c1991-
+Description: v. : ill.
+Language: English
+ISSN: 0958-2592(Print); 1532-2963(Electronic); 0958-2592(Linking)
+Coden: FOOTEE
+Electronic Links: https://www.sciencedirect.com/journal/the-foot
+Fully Indexed In: MEDLINE: v18n2, Mar. 2008-
+In: PubMed: v18n2, Mar. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Foot Diseases*; Foot/surgery*
+Publication Type(s): Periodical
+Notes: Four issues per yr. Title from cover. Also issued online.
+Other ID: (DNLM)SR0069047(s)(OCoLC)23739283
+NLM ID: 9109564[Serial]
+
+67. Title Abbreviation: Hip Int
+Title(s): Hip international : the journal of clinical and experimental research on hip
+pathology and therapy.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Bimonthly, 2011-
+Country of Publication: United States
+Publisher: Milano, Italy : Wichtig, c1991-
+Latest Publisher: 2018- : Thousand Oaks, CA : SAGE Publishing
+Description: v. : ill.
+Language: English
+ISSN: 1120-7000(Print); 1724-6067(Electronic); 1120-7000(Linking)
+Coden: HIINFF
+Electronic Links: https://www.hip-int.com/, https://journals.sagepub.com/home/hpia
+Fully Indexed In: MEDLINE: v18n1, Jan./Mar. 2008-
+In: PubMed: v18n1, Jan./Mar. 2008-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Hip Joint*; Hip*; Hip/physiopathology*
+Publication Type(s): Periodical
+Notes: Some issues have supplements. Also issued online.
+Other ID: (DNLM)SR0072142(s)(OCoLC)25047278
+NLM ID: 9200413[Serial]
+
+68. Author(s): European Foundation for Osteoporosis.; National Osteoporosis Foundation.;
+International Osteoporosis Foundation.
+Title Abbreviation: Osteoporos Int
+Title(s): Osteoporosis international : a journal established as result of cooperation
+between the European Foundation for Osteoporosis and the National Osteoporosis
+Foundation of the USA.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Twelve no. a year, 2000-
+Country of Publication: England
+Publisher: London, UK : Springer International, c1990-
+Description: v. : ill.
+Language: English
+ISSN: 0937-941X(Print); 1433-2965(Electronic); 0937-941X(Linking)
+Coden: OSINEP
+LCCN: sn 90031413
+Electronic Links: https://link.springer.com/journal/198
+Fully Indexed In: MEDLINE: v1n1,Oct. 1990-; PubMed: v1n1,Oct. 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Osteoporosis*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Vols. for 1999- issued by International
+Osteoporosis Foundation and the National Osteoporosis Foundation of the USA.
+Other ID: (DNLM)SR0068468(s)(OCoLC)22815329
+NLM ID: 9100105[Serial]
+
+69. Title Abbreviation: Semin Arthroplasty
+Title(s): Seminars in arthroplasty.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia, PA : W.B. Saunders, 1990-
+Latest Publisher: [New York, NY] : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 1045-4527(Print); 1558-4437(Electronic); 1045-4527(Linking)
+Electronic Links: https://www.sciencedirect.com/journal/seminars-in-arthroplasty
+Fully Indexed In: MEDLINE: v1n1, 1990-v6n4, 1995; PubMed: v1n1, 1990-v6n4, 1995
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Arthroplasty*
+Publication Type(s): Periodical
+Notes: As of 2020- title appears as: Seminars in arthroplasty : JSES. Title from cover. 
+Each issue has also a distinctive title. Only two issues published in 1990. No
+issues published in 2019. Also issued online.
+Other ID: (DNLM)SR0068934(s)(OCoLC)20116321
+NLM ID: 9100390[Serial]
+
+70. Title Abbreviation: Arch Orthop Trauma Surg
+Title(s): Archives of orthopaedic and trauma surgery.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Twelve no. a year, 2008-
+Country of Publication: Germany
+Publisher: Berlin : Springer International, c1989-
+Latest Publisher: Berlin : Springer Verlag
+Description: v. : ill.
+Language: English
+ISSN: 0936-8051(Print); 1434-3916(Electronic); 0936-8051(Linking)
+Coden: AOTSEF
+LCCN: sn 90037141
+Electronic Links: https://link.springer.com/journal/402
+Fully Indexed In: MEDLINE: v108n1, 1989-; PubMed: v108n1, 1989-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*; Wounds and Injuries/surgery*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased in 2023. Also issued online.
+Other ID: (DNLM)SR0068765(s)(OCoLC)19945004
+NLM ID: 9011043[Serial]
+
+71. Title Abbreviation: Oper Orthop Traumatol
+Title(s): Operative Orthopädie und Traumatologie.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: München : Urban & Vogel, c1989-
+Latest Publisher: Berlin : Springer
+Description: v.
+Language: German, English
+ISSN: 0934-6694(Print); 1439-0981(Electronic); 0934-6694(Linking)
+Electronic Links: https://www.springer.com/journal/64
+Fully Indexed In: MEDLINE: v17n1, Feb. 2005-
+In: PubMed: v17n1, Feb. 2005-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Also issued online. In German; table of contents also in English.
+Other ID: (DNLM)SR0077244(s)(OCoLC)34677700
+NLM ID: 9604937[Serial]
+
+72. Title Abbreviation: Am J Knee Surg
+Title(s): The American journal of knee surgery.
+Publication Start Year: 1988
+Publication End Year: 2001
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Thorofare, N.J. : SLACK Inc., c1988-c2001.
+Description: 14 v. : ill.
+Language: English
+ISSN: 0899-7403(Print); 0899-7403(Linking)
+Fully Indexed In: MEDLINE: v8n1,winter 1995-v14n4,fall 2001; PubMed: v8n1,winter 1995-v14n4,fall 2001; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Knee/surgery*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0061745(s)(OCoLC)17886578
+NLM ID: 8804841[Serial]
+
+73. Title Abbreviation: J Spinal Disord
+Title(s): Journal of spinal disorders.
+Publication Start Year: 1988
+Publication End Year: 2001
+Frequency: Bimonthly, 1993-2001
+Country of Publication: United States
+Publisher: [New York, N.Y.] : Raven Press, c1988-c2001.
+Latest Publisher: Hagerstown, MD : Lippincott Williams & Wilkins
+Description: 14 v. : ill.
+Language: English
+ISSN: 0895-0385(Print); 0895-0385(Linking)
+Coden: JSDIEW
+LCCN: sn 87002277
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00002517-000000000-00000
+Fully Indexed In: MEDLINE: v1n1, 1988-v14n6, 2001; PubMed: v1n1, 1988-v14n6, 2001; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Spinal Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies: Hagerstown, MD : Lippincott Williams & Wilkins,
+-2001. Also issued online.
+Other ID: (DNLM)SR0060830(s)(OCoLC)16414201
+NLM ID: 8904842[Serial]
+
+74. Title Abbreviation: Vet Comp Orthop Traumatol
+Title(s): Veterinary and comparative orthopaedics and traumatology : V.C.O.T.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Six no. a year, 2009-
+Country of Publication: Germany
+Publisher: Stuttgart, West Germany : Schattauer, [c1988-c2018]
+Latest Publisher: 2018- : Stuttgart : Thieme
+Description: v. : ill.
+Language: English
+ISSN: 0932-0814(Print); 2567-6911(Electronic); 0932-0814(Linking)
+LCCN: sn 89036281
+Electronic Links: https://www.thieme-connect.de/products/ejournals/issue/eFirst/10.1055/s-00035023
+Fully Indexed In: MEDLINE: v18n1, 2005-
+In: PubMed: v18n1, 2005-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*; Orthopedics/veterinary*; Wounds and Injuries*; Wounds and Injuries/veterinary*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues for Jan. 25, 1988- called also v. 1, no. 1- . Also
+issued online.
+Other ID: (DNLM)SR0062059(s)(OCoLC)18203645
+NLM ID: 8906319[Serial]
+
+75. Title Abbreviation: J Orthop Trauma
+Title(s): Journal of orthopaedic trauma.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Ten no. a year, 2002-
+Country of Publication: United States
+Publisher: [New York, N.Y.] : Raven Press, [c1987-
+Latest Publisher: Hagerstown, MD : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English
+ISSN: 0890-5339(Print); 1531-2291(Electronic); 0890-5339(Linking)
+Coden: JORTE5
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00005131-000000000-00000
+Fully Indexed In: MEDLINE: v1n1, 1987-; PubMed: v1n1, 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*; Wounds and Injuries/therapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0057266(s)(OCoLC)14257379
+NLM ID: 8807705[Serial]
+
+76. Author(s): Gesellschaft für Orthopädisch-Traumatologische Sportmedizin.
+Title Abbreviation: Sportverletz Sportschaden
+Title(s): Sportverletzung Sportschaden : Organ der Gesellschaft für
+Orthopädisch-Traumatologische Sportmedizin.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : Thieme, [c1987-
+Latest Publisher: Stuttgart : Georg Thieme Verlag
+Description: v. : ill.
+Language: German, English
+ISSN: 0932-0555(Print); 1439-1236(Electronic); 0932-0555(Linking)
+Electronic Links: https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00000081
+Fully Indexed In: MEDLINE: v1n1, 1987-; PubMed: v1n1, 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Athletic Injuries*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Articles in German; summaries in English
+and German.
+Other ID: (DNLM)SR0060997(s)(OCoLC)19345945
+NLM ID: 8904133[Serial]
+
+77. Author(s): Zhongguo Zhong xi yi jie he xue hui.
+Title Abbreviation: Zhongguo Gu Shang
+Title(s): Zhongguo gu shang = China journal of orthopaedics and traumatology.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Monthly, <2001->
+Country of Publication: China
+Publisher: Beijing : Zhongguo Zhong yi yan jiu yuan gu shang ke yan jiu suo
+Latest Publisher: Beijing : "Zhongguo gu shang" bian ji bu
+Description: v. : ill.
+Language: Chinese, English, English
+ISSN: 1003-0034(Print); 1003-0034(Linking)
+Electronic Links: http://www.zggszz.com/
+Fully Indexed In: MEDLINE: v21n1, Jan. 2008-; PubMed: v21n1, Jan. 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bone and Bones/injuries*; Medicine, Chinese Traditional
+Publication Type(s): Periodical
+Notes: Description based on:Di 14 juan di 1 qi (2001 nian 1 yue); title from cover.
+Latest issue consulted: Di 17 juan di 8 qi (2004 nian 8 yue). Also issued online.
+Table of contents and abstracts also in English. Sponsored by Zhongguo Zhong xi
+yi jie he xue hui, Zhongguo Zhong yi yan jiu yuan.
+Other ID: (OCoLC)56770010(DNLM)SR0093487(s)
+NLM ID: 9815790[Serial]
+
+78. Author(s): International Conferences on Calcium Regulating Hormones, Inc.
+Title Abbreviation: Bone Miner
+Title(s): Bone and mineral.
+Publication Start Year: 1986
+Publication End Year: 1994
+Frequency: Twelve no. a year
+Country of Publication: Ireland
+Publisher: Amsterdam : Elsevier Science Publishers B.V., c1986-[1994]
+Latest Publisher: Limerick : Elsevier Scientific Publishers
+Description: v. : ill.
+Language: English
+ISSN: 0169-6009(Print); 0169-6009(Linking)
+Coden: BOMIET
+Electronic Links: http://www.sciencedirect.com/science/journal/01696009
+Fully Indexed In: MEDLINE: v1n1,Feb. 1986-v27n3,Dec. 1994; PubMed: v1n1,Feb. 1986-v27n3,Dec. 1994; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bone Diseases, Metabolic*; Bone and Bones/metabolism*; Minerals/metabolism*
+Publication Type(s): Periodical
+Notes: Also issued online. Official journal of: the International Conferences on Calcium
+Regulating Hormones, Inc.
+Other ID: (DNLM)SR0056285(s)(OCoLC)13502360
+NLM ID: 8610542[Serial]
+
+79. Title Abbreviation: J Arthroplasty
+Title(s): The Journal of arthroplasty.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Eight no. a year
+Country of Publication: United States
+Publisher: [New York, NY : Churchill Livingstone, c1986-
+Latest Publisher: New Brunswick, NJ : Taylor and Francis
+Description: v. : ill.
+Language: English
+ISSN: 0883-5403(Print); 1532-8406(Electronic); 0883-5403(Linking)
+Coden: JOAREG
+Electronic Links: http://www.sciencedirect.com/science/journal/08835403
+Fully Indexed In: MEDLINE: v1n1, 1986-; PubMed: v1n1, 1986-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Arthroplasty*
+Publication Type(s): Periodical
+Notes: Title from cover. Publisher varies: Transaction Periodicals, Vol. 1 (1986);
+Churchill Livingstone, Vol. 2 (1987)- . Also issued online.
+Other ID: (DNLM)SR0054476(s)(OCoLC)12148812
+NLM ID: 8703515[Serial]
+
+80. Author(s): American Society for Bone and Mineral Research.
+Title Abbreviation: J Bone Miner Res
+Title(s): Journal of bone and mineral research : the official journal of the American
+Society for Bone and Mineral Research.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Monthly, <Apr. 1990->
+Country of Publication: England
+Publisher: New York : Mary Ann Liebert, Inc., c1986-
+Latest Publisher: January 2024- : [Oxford] : Oxford University Press
+Description: v. : ill.
+Language: English
+ISSN: 0884-0431(Print); 1523-4681(Electronic); 0884-0431(Linking)
+Coden: JBMREJ
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1523-4681, https://academic.oup.com/jbmr
+Fully Indexed In: MEDLINE: v1n1,Feb. 1986-; PubMed: v1n1,Feb. 1986-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bone Diseases, Metabolic*; Bone and Bones/metabolism*; Minerals/metabolism*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0055851(s)(OCoLC)12298460
+NLM ID: 8610640[Serial]
+
+81. Author(s): Arthroscopy Association of North America.; International Arthroscopy
+Association.; International Society of Arthroscopy, Knee Surgery, and Orthopaedic
+Sports Medicine.
+Title Abbreviation: Arthroscopy
+Title(s): Arthroscopy : the journal of arthroscopic & related surgery : official
+publication of the Arthroscopy Association of North America and the International
+Arthroscopy Association.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Nine no. a year, 2001-
+Country of Publication: United States
+Publisher: [New York, N.Y.] : Raven Press, [c1985-
+Latest Publisher: Philadelphia, PA : W.B. Saunders Co.
+Description: v. : ill.
+Language: English
+ISSN: 0749-8063(Print); 1526-3231(Electronic); 0749-8063(Linking)
+Coden: ARTHE3
+LCCN: sn 84002197
+Electronic Links: http://www.sciencedirect.com/science/journal/07498063
+Fully Indexed In: MEDLINE: v1n1, 1985-; PubMed: v1n1, 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Arthroscopy*; Knee Joint/surgery
+Publication Type(s): Periodical
+Notes: Title from cover. Online issues for Oct. 1999- include a section called: Online
+short reports, which is not included in the print version. Supplements accompany 
+some vols. Also issued online. Official publication of the International Society 
+of Arthroscopy, Knee Surgery, and Orthopaedic Sports Medicine, 1996-
+Other ID: (DNLM)SR0052437(s)(OCoLC)11198618
+NLM ID: 8506498[Serial]
+
+82. Title Abbreviation: Bone
+Title(s): Bone.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Elmsford, NY : Pergamon Press, c1985-
+Latest Publisher: New York : Elsevier Science
+Description: v. : ill.
+Language: English
+ISSN: 8756-3282(Print); 1873-2763(Electronic); 1873-2763(Linking)
+Coden: BONEDL
+LCCN: 93642546, sn 84004007
+Electronic Links: https://www.sciencedirect.com/science/journal/87563282
+Fully Indexed In: MEDLINE: v6n1, 1985-; PubMed: v6n1, 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bone Diseases, Metabolic*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0053908(s)(OCoLC)11527159
+NLM ID: 8504048[Serial]
+
+83. Title Abbreviation: Hand Clin
+Title(s): Hand clinics.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia : W.B. Saunders, c1985-
+Description: v. : ill., ports.
+Language: English
+ISSN: 0749-0712(Print); 1558-1969(Electronic); 0749-0712(Linking)
+Coden: HACLE
+LCCN: sn 84006970
+Electronic Links: http://www.sciencedirect.com/science/journal/07490712
+Fully Indexed In: MEDLINE: v1n1, 1985-; PubMed: v1n1, 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Hand*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0054261(s)(OCoLC)11078527
+NLM ID: 8510415[Serial]
+
+84. Author(s): Bioelectric Repair and Growth Society.; Orthopaedic Research Society.
+Title Abbreviation: J Orthop Res
+Title(s): Journal of orthopaedic research : official publication of the Orthopaedic
+Research Society.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Bimonthly, 1989-
+Country of Publication: United States
+Publisher: New York, N.Y. : Raven Press, [c1983-
+Latest Publisher: 2006- : Hoboken, NJ : Wiley
+Description: v. : ill., ports.
+Language: English
+ISSN: 0736-0266(Print); 1554-527X(Electronic); 0736-0266(Linking)
+Coden: JOREDR
+LCCN: sn 82008603
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1554-527X
+Fully Indexed In: MEDLINE: v1n1, 1983-; PubMed: v1n1, 1983-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)J33365000(s)(OCoLC)09069401
+NLM ID: 8404726[Serial]
+
+85. Author(s): National Association of Orthopedic Nurses (U.S.); National Association of
+Orthopaedic Nurses (U.S.)
+Title Abbreviation: Orthop Nurs
+Title(s): Orthopedic nursing.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [Pitman, N.J.] : National Association of Orthopaedic Nurses
+Latest Publisher: Philadelphia : National Association of Orthopaedic Nurses
+Description: v. : ill., ports.
+Language: English
+ISSN: 0744-6020(Print); 1542-538X(Electronic); 0744-6020(Linking)
+LCCN: sc 82007309, sn 82002561
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00006416-000000000-00000
+Fully Indexed In: MEDLINE: Apr. 1981-; International nursing index: Apr. 1981-v18n2, Mar./Apr. 1999
+In: PubMed: Apr. 1981-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Nursing
+MeSH: Orthopedic Nursing*
+Publication Type(s): Periodical
+Notes: Issues for Jan.-Feb. 1983- have title: Orthopaedic nursing. Title from cover.
+Issue for 1981 contains proceedings of the National Association of Orthopedic
+Nursing Conference. Also issued online.
+Other ID: (OCoLC)08424301(DNLM)O10785000(s)
+NLM ID: 8409486[Serial]
+
+86. Author(s): Hospital for Joint Diseases Orthopaedic Institute (New York, N.Y.)
+Title Abbreviation: Bull Hosp Jt Dis Orthop Inst
+Title(s): Bulletin of the Hospital for Joint Diseases Orthopaedic Institute.
+Publication Start Year: 1981
+Publication End Year: 1991
+Frequency: Semiannual
+Country of Publication: United States
+Publisher: New York Ny : Hospital For Joint Diseases Orthopaedic Institute
+Description: 11 v. : ill.
+Language: English, English
+ISSN: 0883-9344(Print); 0883-9344(Linking)
+Coden: BHJIDW
+Fully Indexed In: MEDLINE: v41, 1981-v51n2,fall 1991; PubMed: v41, 1981-v51n2,fall 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Joint Diseases*; Orthopedics*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)B43890000(s)(OCoLC)08086850
+NLM ID: 8207779[Serial]
+
+87. Author(s): University of Iowa. Department of Orthopaedics.
+Title Abbreviation: Iowa Orthop J
+Title(s): The Iowa orthopaedic journal.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: [Iowa City, IA] : Residents and Faculty of the Dept. of Orthopaedics, University 
+of Iowa,
+Description: v. : ill., ports.
+Language: English
+ISSN: 1541-5457(Print); 1555-1377(Electronic); 1541-5457(Linking)
+LCCN: sn 89036314
+Electronic Links: https://www.medicine.uiowa.edu/orthopedics/education/iowa-orthopedic-journal, https://pmc.ncbi.nlm.nih.gov/journals/?term=8908272
+Fully Indexed In: MEDLINE: v15, 1995-; Index medicus
+In: PubMed: v1, 1981-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 8 (1988); title from cover. Print issues ceased with
+2016. Also issued online.
+Other ID: (DNLM)SR0063193(s)(OCoLC)19743819
+NLM ID: 8908272[Serial]
+
+88. Author(s): Pediatric Orthopaedic Society of North America.; European Paediatric Orthopaedic 
+Society.
+Title Abbreviation: J Pediatr Orthop
+Title(s): Journal of pediatric orthopedics.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Ten no. a year, 2018-
+Country of Publication: United States
+Publisher: New York Ny : Raven Press
+Latest Publisher: 2000- : Philadelphia : Lippincott Williams & Wilkins
+Description: v. : ill.
+Language: English, English
+ISSN: 0271-6798(Print); 1539-2570(Electronic); 0271-6798(Linking)
+Coden: JPORDO
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=01241398-000000000-00000
+Fully Indexed In: MEDLINE: v1n1, 1981-; Index medicus
+In: PubMed: v1n1, 1981-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Child; Infant; Orthopedics*
+Publication Type(s): Periodical
+Notes: Issues for May 1987- called: Journal of pediatric orthopaedics. Title from cover.
+Vol. 1, no. 1 also called "sample copy, inaugural issue." Also issued online.
+Issued by Pediatric Orthopaedic Society of North America and European Paediatric 
+Orthopaedic Society, 1988-
+Other ID: (DNLM)J33970000(s)(OCoLC)06681640
+NLM ID: 8109053[Serial]
+
+89. Author(s): American Orthopaedic Foot Society.; American Orthopaedic Foot and Ankle Society.
+Title Abbreviation: Foot Ankle
+Title(s): Foot & ankle.
+Publication Start Year: 1980
+Publication End Year: 1993
+Frequency: Nine no. a year, Jan. 1992-Dec. 1993.
+Country of Publication: United States
+Publisher: Baltimore, Md., Williams & Wilkins [etc.]
+Description: 14 v. ill., ports.
+Language: English, English
+ISSN: 0198-0211(Print); 0198-0211(Linking)
+Coden: FANKDJ
+LCCN: 81642437 $z sn 80011968
+Electronic Links: https://journals.sagepub.com/home/fai
+Fully Indexed In: MEDLINE: v1n1,Jul. 1980-v14n9, 1993; Index medicus
+In: PubMed: v1n1,Jul. 1980-v14n9, 1993; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Ankle Injuries*; Ankle*; Foot Diseases*; Foot/surgery*; Orthopedics*
+Publication Type(s): Periodical
+Notes: V. 12 in 3 no. Also issued online. Official journal of the American Orthopaedic
+Foot Society, 1980- ; of the American Orthopaedic Foot and Ankle Society,
+1984?-1993.
+Other ID: (DNLM)F10250000(s)(OCoLC)06182855
+NLM ID: 8010104[Serial]
+
+90. Title Abbreviation: Contemp Orthop
+Title(s): Contemporary orthopaedics.
+Publication Start Year: 1979
+Publication End Year: 1996
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [Redondo Beach, Calif. : Bobit Pub. Co.]
+Description: v. : ill., ports.
+Language: English, English
+ISSN: 0194-8458(Print); 0194-8458(Linking)
+Coden: CORTDT
+Selectively Indexed in: MEDLINEv1n1, Feb. 1979-v31n6, 1995PubMedv1n1, Feb. 1979-v31n6, 1995
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to health technology assessments are indexed.
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Description based on: v. 5, no. 2 (Aug. 1982); title from cover. Charter issue
+published in 1978.
+Other ID: (DNLM)C46845000(s)(OCoLC)05057206
+NLM ID: 8219527[Serial]
+
+91. Author(s): American Physical Therapy Association. Orthopaedic Section.; American Physical
+Therapy Association. Sports Medicine Section.
+Title Abbreviation: J Orthop Sports Phys Ther
+Title(s): The Journal of orthopaedic and sports physical therapy.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Alexandria, VA : Orthopaedic Section and Sports Physical Therapy Section of the
+American Physical Therapy Association.
+Latest Publisher: Washington, DC : Williams And Wilkins
+Description: v. ill., ports.
+Language: English
+ISSN: 0190-6011(Print); 1938-1344(Electronic); 0190-6011(Linking)
+Coden: JOSPDV
+LCCN: 79644045, sn 79002122
+Electronic Links: http://www.jospt.org/
+Fully Indexed In: MEDLINE: v17n1,Jan. 1993-; Index medicus
+In: PubMed: v17n1,Jan. 1993-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*; Physical Therapy Modalities*; Sports Medicine*
+Publication Type(s): Periodical
+Notes: Also issued online. Official publication of the Orthopaedic Section and the
+Sports Medicine Section of the American Physical Therapy Association.
+Other ID: (DNLM)J33370000(s)(OCoLC)04733348
+NLM ID: 7908150[Serial]
+
+92. Title Abbreviation: Arch Orthop Trauma Surg (1978)
+Title(s): Archives of orthopaedic and traumatic surgery. Archiv für orthopädische und
+Unfall-Chirurgie.
+Publication Start Year: 1978
+Publication End Year: 1988
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: München, Bergmann; New York, Springer-Verlag.
+Latest Publisher: Berlin : Springer Verlag
+Description: 17 v. ill.
+Language: English, German, English, German
+ISSN: 0344-8444(Print); 0344-8444(Linking)
+Coden: AOTSDE
+Fully Indexed In: MEDLINE: v91n1,Feb. 10, 1978-v107,Nov. 1988; PubMed: v91n1,Feb. 10, 1978-v107,Nov. 1988; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Articles in English or German; summaries and tables of contents in English and
+German.
+Other ID: (OCoLC)03820148(DNLM)A61785000(s)
+NLM ID: 7803037[Serial]
+
+93. Title Abbreviation: Metab Bone Dis Relat Res
+Title(s): Metabolic bone disease & related research.
+Publication Start Year: 1978
+Publication End Year: 1984
+Frequency: Bimonthly
+Country of Publication: France
+Publisher: New York [etc.] Pergamon [etc.]
+Latest Publisher: Paris : S.N.P.M.D. And Pergamon Press
+Description: 5 v. ill., ports.
+Language: English, English
+ISSN: 0221-8747(Print); 0221-8747(Linking)
+Coden: MBDRD6
+Electronic Links: http://www.sciencedirect.com/science/journal/02218747
+Fully Indexed In: MEDLINE: v3n1, 1980-v5, 1984; PubMed: v3n1, 1980-v5, 1984; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bone Diseases, Metabolic*
+Publication Type(s): Periodical
+Notes: Also issued online. Published 1978- in Paris by S.N.P.M.D.; 1982?-1984 by
+Pergamon and S.N.P.M.D.
+Other ID: (DNLM)M31840000(s)(OCoLC)04299691
+NLM ID: 7900146[Serial]
+
+94. Title Abbreviation: Orthopedics
+Title(s): Orthopedics.
+Publication Start Year: 1978
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Thorofare, N.J., Slack.
+Description: v. ill., ports.
+Language: English, English
+ISSN: 0147-7447(Print); 1938-2367(Electronic); 0147-7447(Linking)
+Coden: ORTHDK
+LCCN: 78648233
+Electronic Links: https://journals.healio.com/journal/ortho
+Fully Indexed In: MEDLINE: v1n1,Jan./Feb. 1978-v1n4,Jul./Aug. 1978; v8n1,Jan. 1985-; PubMed: v1n1,Jan./Feb. 1978-v1n4,Jul./Aug. 1978; v8n1,Jan. 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)O11080000(s)(OCoLC)04389249
+NLM ID: 7806107[Serial]
+
+95. Title Abbreviation: Aktuelle Probl Chir Orthop
+Title(s): Aktuelle Probleme in Chirurgie und Orthopädie.
+Publication Start Year: 1977
+Publication End Year: uuuu
+Frequency: Irregular
+Country of Publication: Switzerland
+Publisher: Bern, Huber.
+Description: v. ill.
+Language: German, German
+ISSN: 0378-8504(Print); 0378-8504(Linking)
+Fully Indexed In: MEDLINE: v1, 1977-v44, 1994; PubMed: v1, 1977-v44, 1994; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: General Surgery*; Orthopedics*
+Publication Type(s): Periodical
+Notes: Bd. 7-13 never published.
+Other ID: (DNLM)A19410000(s)(OCoLC)03291112
+NLM ID: 7705398[Serial]
+
+96. Author(s): Société internationale de chirurgie orthopédique et de traumatologie.
+Title Abbreviation: Int Orthop
+Title(s): International orthopaedics.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Monthly, 2011-
+Country of Publication: Germany
+Publisher: Berlin : Springer Verlag
+Description: v. ill.
+Language: English, French, English, French
+ISSN: 0341-2695(Print); 1432-5195(Electronic); 0341-2695(Linking)
+LCCN: sn 84006396
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=7705431, https://link.springer.com/journal/264
+Fully Indexed In: MEDLINE: v3n1, 1979-; Index medicus
+In: PubMed: v3n1, 1979-, PMC Inactive; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Also issued online. Articles in English or French with summaries in both
+languages. Official publication of the Société internationale de chirurgie
+orthopédique et de traumatologie.
+Other ID: (DNLM)I29220000(s)(OCoLC)03295014
+NLM ID: 7705431[Serial]
+
+97. Author(s): International Society for Prosthetics and Orthotics.; National Centre for
+Training and Education in Prosthetics and Orthotics.
+Title Abbreviation: Prosthet Orthot Int
+Title(s): Prosthetics and orthotics international.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Four no. a year, 2007-
+Country of Publication: France
+Publisher: Hellerup, Denmark, International Society for Prosthetics and Orthotics.
+Latest Publisher: 2021- : [Paris, France] : Wolters Kluwer
+Description: v. ill.
+Language: English, English
+ISSN: 0309-3646(Print); 1746-1553(Electronic); 0309-3646(Linking)
+Coden: POIND7
+LCCN: sc 79003541, sn 79004528
+Electronic Links: https://journals.sagepub.com/home/poi, https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=toc&SEARCH=00006479-900000000-00000.kc&LINKTYPE=asBody&LINKPOS=1&D=ovft
+Fully Indexed In: MEDLINE: v1n1,Apr. 1977-; PubMed: v1n1,Apr. 1977-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthotic Devices*; Prostheses and Implants*
+Publication Type(s): Periodical
+Notes: Journal of the International Society for Prosthetics and Orthotics. Produced by
+the National Centre for Training and Education in Prosthetics and Orthotics,
+Glasgow. Also issued online.
+Other ID: (DNLM)P50420000(s)(OCoLC)03486810
+NLM ID: 7707720[Serial]
+
+98. Author(s): International Skeletal Society.
+Title Abbreviation: Skeletal Radiol
+Title(s): Skeletal radiology.
+Publication Start Year: 1976
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer International.
+Latest Publisher: Berlin : Springer Verlag
+Description: v. ill.
+Language: English, English
+ISSN: 0364-2348(Print); 1432-2161(Electronic); 0364-2348(Linking)
+Coden: SKRADI
+Electronic Links: https://link.springer.com/journal/256
+Fully Indexed In: MEDLINE: v4n1, 1979-; PubMed: v4n1, 1979-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bone Diseases/diagnostic imaging*; Bone and Bones/diagnostic imaging*; Radiography*
+Publication Type(s): Periodical
+Notes: Journal of the International Skeletal Society. Also issued online.
+Other ID: (DNLM)S26940000(s)(OCoLC)02575772
+NLM ID: 7701953[Serial]
+
+99. Title Abbreviation: Spine (Phila Pa 1976)
+Title(s): Spine.
+Publication Start Year: 1976
+Publication End Year: 
+Frequency: Semimonthly
+Country of Publication: United States
+Publisher: Hagerstown, Md., Medical Dept., Harper & Row.
+Latest Publisher: Hagerstown, MD : Lippincott Williams & Wilkins
+Description: v. ill.
+Language: English, English
+ISSN: 0362-2436(Print); 1528-1159(Electronic); 0362-2436(Linking)
+Coden: SPINDD
+LCCN: 76646361
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00007632-000000000-00000
+Fully Indexed In: MEDLINE: v3n1, 1978-; PubMed: v3n1, 1978-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Spinal Diseases*; Spine*
+Publication Type(s): Periodical
+Notes: Has supplements. Also available online. Password required for access.
+Other ID: (DNLM)S35780000(s)(OCoLC)02589719
+NLM ID: 7610646[Serial]
+
+100. Author(s): Società italiana di ortopedia e traumatologia.
+Title Abbreviation: Ital J Orthop Traumatol Suppl
+Title(s): Italian journal of orthopaedics and traumatology. Supplementum.
+Publication Start Year: 1975
+Publication End Year: 1978
+Frequency: Annual
+Country of Publication: Italy
+Publisher: Bologna, Gaggi, 1975-[1978?]
+Latest Publisher: Bologna : Auto Gaggi
+Description: 4 v. ill.
+Language: English
+Fully Indexed In: MEDLINE: 2,Sept. 1976-3, 1977; PubMed: 2,Sept. 1976-3, 1977; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*; Wounds and Injuries*
+Publication Type(s): Congress
+Notes: Consists of the proceedings of the 60th-63rd? congress of the Italian Society of 
+Orthopaedics and Traumatology. Later vols. issued with vol. numbering dependent
+on the main title and shelved with the main title in NLM.
+Other ID: (DNLM)I41120000(s)(OCoLC)03986413
+NLM ID: 7801241[Serial]
+
+101. Author(s): Società italiana di ortopedia e traumatologia.
+Title Abbreviation: Ital J Orthop Traumatol
+Title(s): Italian journal of orthopaedics and traumatology.
+Publication Start Year: 1975
+Publication End Year: 1993
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Bologna, Gaggi.
+Description: volumes illustrations
+Language: English, English
+ISSN: 0390-5489(Print); 0390-5489(Linking)
+Coden: IJOTDB
+LCCN: sn 84006403
+Fully Indexed In: MEDLINE: v1n1,Apr. 1975-v19, 1993; PubMed: v1n1,Apr. 1975-v19, 1993; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Official publication of the Italian Society of Orthopaedics and Traumatology.
+Published also in an Italian edition. Numbered supplements accompany some vols., 
+1979?- . Official publication of the Italian Society of Orthopaedics and
+Traumatology.
+Other ID: (DNLM)I41100000(s)(OCoLC)01705976
+NLM ID: 7511480[Serial]
+
+102. Author(s): Orthopedic Nurses' Association (U.S.)
+Title Abbreviation: ONA J
+Title(s): ONA journal.
+Publication Start Year: 1974
+Publication End Year: 1979
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Thorofare, N.J., Slack.
+Latest Publisher: Thorofare Nj : Charles B Slack
+Description: v. illus.
+Language: English
+ISSN: 0098-4337(Print); 0098-4337(Linking)
+Fully Indexed In: MEDLINE: v1n2,Sept. 1974-v6,Dec. 1979; PubMed: v1n2,Sept. 1974-v6,Dec. 1979; International nursing index: v1n2,Sept. 1974-v6,Dec. 1979
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Official journal of the Orthopedic Nurses' Association.
+Other ID: (DNLM)O06600000(s)(OCoLC)01445899
+NLM ID: 7508036[Serial]
+
+103. Author(s): Hip Society (U.S.)
+Title Abbreviation: Hip
+Title(s): The Hip.
+Publication Start Year: 1973
+Publication End Year: 1987
+Frequency: Annual
+Country of Publication: United States
+Publisher: St. Louis, Mosby.
+Latest Publisher: St. Louis Mo : C V Mosby
+Description: v. illus.
+Language: English
+ISSN: 0095-7216(Print); 0095-7216(Linking)
+Fully Indexed In: MEDLINE: v1981-1987; PubMed: v1981-1987; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Hip Joint*; Hip Joint/surgery*; Hip*; Hip/surgery*
+Publication Type(s): Congress
+Notes: Consists of the proceedings of the 1st- open scientific meeting of the Hip
+Society.
+Other ID: (DNLM)H13300000(s)(OCoLC)01784382
+NLM ID: 7511195[Serial]
+
+104. Title Abbreviation: Orthop Rev
+Title(s): Orthopaedic review.
+Publication Start Year: 1972
+Publication End Year: 1994
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, McNamara Pub. Co.
+Latest Publisher: Lawrenceville Nj : Core Medical Journals
+Description: 23 v. illus.
+Language: English
+ISSN: 0094-6591(Print); 0094-6591(Linking)
+Coden: ORTRDG
+Fully Indexed In: MEDLINE: v15n1, 1986-v23, 1994; Index medicus
+In: PubMed: v15n1, 1986-v23, 1994; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Other ID: (DNLM)O10800000(s)(OCoLC)01026757
+NLM ID: 0431766[Serial]
+
+105. Title Abbreviation: Orthopade
+Title(s): Der Orthopäde.
+Publication Start Year: 1972
+Publication End Year: 2022
+Frequency: 12 no. a year, 1999-
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: v. illus.
+Language: German, English
+ISSN: 0085-4530(Print); 1433-0431(Electronic); 0085-4530(Linking)
+Coden: ORHPBG
+Electronic Links: https://link.springer.com/journal/132
+Fully Indexed In: MEDLINE: v8n1, 1979-v51n5, May 2022; Index medicus
+In: PubMed: v8n1, 1979-v51n5, May 2022; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Has supplements. Also issued online.
+Other ID: (DNLM)O10700000(s)(OCoLC)01714938
+NLM ID: 0331266[Serial]
+
+106. Title Abbreviation: Orthop Clin North Am
+Title(s): The Orthopedic clinics of North America.
+Publication Start Year: 1970
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Philadelphia, Saunders.
+Latest Publisher: Philadelphia, PA : W.B. Saunders
+Description: v. illus.
+Language: English
+ISSN: 0030-5898(Print); 1558-1373(Electronic); 0030-5898(Linking)
+Coden: OCLNAQ
+LCCN: sf 80000442, sn  78005038
+Electronic Links: https://www.sciencedirect.com/journal/orthopedic-clinics-of-north-america
+Fully Indexed In: MEDLINE: v1n2,Nov. 1970-; PubMed: v1n2,Nov. 1970-; Abridged index medicus; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)O11020000(s)(OCoLC)01761532
+NLM ID: 0254463[Serial]
+
+107. Author(s): Texas Orthopedic Association.
+Title Abbreviation: Am J Orthop Surg
+Title(s): The American journal of orthopedic surgery.
+Publication Start Year: 1968
+Publication End Year: 1970
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, A.J.O.S. [etc.]
+Description: 3 v. ill., ports.
+Language: English
+ISSN: 0065-9002(Print); 0065-9002(Linking)
+Coden: AORSAZ
+LCCN: sn 83005748
+Fully Indexed In: MEDLINE: v10n1, Jan. 1968-v12n2, Feb. 1970; Index medicus
+In: PubMed: v10n1, Jan. 1968-v12n2, Feb. 1970; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Official organ of the Texas Orthopedic Association, 1968-69.
+Other ID: (DNLM)A24585000(s)(OCoLC)01623779
+NLM ID: 7611912[Serial]
+
+108. Author(s): Hip Society (U.S.); Knee Society (U.S.); Association of Bone and Joint Surgeons.
+Title Abbreviation: Clin Orthop Relat Res
+Title(s): Clinical orthopaedics and related research.
+Publication Start Year: 1963
+Publication End Year: 
+Frequency: Monthly, <Aug. 1992- >
+Country of Publication: United States
+Publisher: Philadelphia : Lippincott,
+Latest Publisher: 2018- : [New York, NY] : Wolters Kluwer
+Description: v. : ill. ; 26 cm.
+Language: English
+ISSN: 0009-921X(Print); 1528-1132(Electronic); 0009-921X(Linking)
+Coden: CORTBR
+LCCN: 53007647, sn 83007038, sn 82007022
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00003086-000000000-00000, https://link.springer.com/journal/11999, https://pmc.ncbi.nlm.nih.gov/journals/?term=0075674
+Fully Indexed In: MEDLINE: v32,Jan.-Feb. 1964-; Abridged index medicus; Index medicus
+In: PubMed: v32,Jan.-Feb. 1964-, OLDMEDLINE, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 466, no. 1, 2008. Imprint varies. Vols. for Jan.
+2005- called v. 430- Available in microfilm & microfiche from University
+Microfilms. Also issued online. Sponsored: Association of Bone and Joint
+Surgeons; Hip Society, and: Knee Society, <Aug. 1992- > Indexes: No. 26-no. 36. 1
+v.; No. 37-no. 42 in no. 43; No. 43-no. 48 in no. 49.
+Other ID: (OCoLC)01554937(DNLM)C26240000(s)
+NLM ID: 0075674[Serial]
+
+109. Title Abbreviation: Curr Pract Orthop Surg
+Title(s): Current practice in orthopaedic surgery.
+Publication Start Year: 1963
+Publication End Year: 1979
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Saint Louis.
+Latest Publisher: St. Louis Mo : C V Mosby Co
+Description: v. ill.
+Language: English
+ISSN: 0070-203X(Print); 0070-203X(Linking)
+Coden: CPOSBG
+Fully Indexed In: MEDLINE: v3, 1966-1979; PubMed: v3, 1966-1979; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Other ID: (DNLM)C56720000(s)(OCoLC)01565664
+NLM ID: 16440080R[Serial]
+
+110. Author(s): Türk Ortopedi ve Travmatoloji Derneği.; Türk Ortopedi ve Travmatoloji Birliği
+Derneği.
+Title Abbreviation: Acta Orthop Traumatol Turc
+Title(s): Acta orthopaedica et traumatologica turcica.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: Bimonthly, 2014-
+Country of Publication: Turkey
+Publisher: İstanbul : Türk Ortopedi ve Travmatoloji Derneği
+Latest Publisher: <2020>-: [Ankara, Turkey] : Turkish Association of Orthopaedics and Traumatology 
+with publishing services by AVES
+Description: v. : ill.
+Language: Turkish, English
+ISSN: 1017-995X(Print); 2589-1294(Electronic); 1017-995X(Linking)
+LCCN: 2003243029
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9424806, http://www.aott.org.tr
+Fully Indexed In: MEDLINE: v36n1, 2002-; Index medicus
+In: PubMed: v36n1, 2002-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedic Procedures*; Orthopedics; Traumatology; Wounds and Injuries/therapy
+Publication Type(s): Periodical
+Notes: At head of title: AOTT 2010-. "Türk Ortopedi ve Travmatoloji Derneği yayın
+organıdır." Description based on: Cilt 24, no. 1 (1990); title from cover.
+Special English eds.: Vol. 41, no. 1-2, 2007. Also issued online. In Turkish,
+with summaries and table of contents in English -2009; in English, 2010-
+Other ID: (OCoLC)51460345
+NLM ID: 9424806[Serial]
+
+111. Author(s): Texas Orthopedic Association.
+Title Abbreviation: Am J Orthop
+Title(s): The American journal of orthopedics.
+Publication Start Year: 1960
+Publication End Year: 1967
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Houston Tx : Texas Orthopedic Association
+Description: 8 v. in. illus.
+Language: English
+ISSN: 0891-7507(Print); 0891-7507(Linking)
+Coden: AJOCA5
+Fully Indexed In: MEDLINE: v6n5, May 1964-v9n12, Dec. 1967; Index medicus
+In: PubMed: v6n5, May 1964-v9n12, Dec. 1967, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Official organ of the Texas Orthopedic Association, 1962-67.
+Other ID: (DNLM)A24600000(s)(OCoLC)01480169
+NLM ID: 0134543[Serial]
+
+112. Title Abbreviation: Beitr Orthop Traumatol
+Title(s): Beiträge zur Orthopädie und Traumatologie.
+Publication Start Year: 1960
+Publication End Year: 1990
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Berlin : V E B Verlag Volk Und Gesundheit
+Description: v. illus.
+Language: German
+ISSN: 0005-8149(Print); 0005-8149(Linking)
+Coden: BOTRAJ
+Fully Indexed In: MEDLINE: v12n6,Jun. 1965-v37, 1990; PubMed: v12n6,Jun. 1965-v37, 1990; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*; Wounds and Injuries*
+Publication Type(s): Periodical
+Other ID: (OCoLC)01715744(DNLM)B03530000(s)
+NLM ID: 0372503[Serial]
+
+113. Author(s): Országos Traumatológiai Intézet (Hungary)
+Title Abbreviation: Magy Traumatol Orthop Helyreallito Seb
+Title(s): Magyar traumatológia, orthopaedia és helyreállító sebészet.
+Publication Start Year: 1960
+Publication End Year: 1992
+Frequency: Quarterly
+Country of Publication: Hungary
+Publisher: Budapest.
+Latest Publisher: Budapest : Ifjusagi Lapkiado Vallalat
+Description: 33 v. illus.
+Language: Hungarian, English
+ISSN: 0025-0317(Print); 0025-0317(Linking)
+Coden: MTOHAI
+Fully Indexed In: MEDLINE: v15n1, 1972-v35n2, 1992; PubMed: v15n1, 1972-v35n2, 1992; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*; Surgery, Plastic*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Summaries and table of contents in Hungarian, Russian, German, and English, 1960-
+; in Hungarian and English, -1992. Issued by the Országos Traumatológiai
+Intézet.
+Other ID: (DNLM)M01700000(s)(OCoLC)14206967
+NLM ID: 0074071[Serial]
+
+114. Title Abbreviation: Orizz Ortop Odie Riabil
+Title(s): Orizzonti della ortopedia odierna e della riabilitazione.
+Publication Start Year: 1956
+Publication End Year: 1967
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Roma [1956-1967?]
+Latest Publisher: Rome : Ortopedia Odierna E Della Riabilitazione
+Description: v. illus.
+Language: Italian
+ISSN: 0030-5626(Print)
+Coden: OOORAZ
+Fully Indexed In: MEDLINE: v10n1,Jan.-Mar. 1965-1967; PubMed: v10n1,Jan.-Mar. 1965-1967; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*; Rehabilitation*
+Publication Type(s): Periodical
+Notes: Articles in Italian, with summaries in Italian, English, French, and German.
+Other ID: (DNLM)O10440000(s)(OCoLC)10772238
+NLM ID: 0401023[Serial]
+
+115. Author(s): Vsesoiuznoe nauchnoe obshchestvo travmatologov-ortopedov.; Soviet Union.
+Ministerstvo zdravookhranenii︠a︡.
+Title Abbreviation: Ortop Travmatol Protez
+Title(s): Ortopediia travmatologiia i protezirovanie.
+Publication Start Year: 1955
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Ukraine
+Publisher: Moskva, Gos. izd-vo med. lit-ry.
+Latest Publisher: Kharkiv, Ukraine : Orthopaedics, Traumatology and Prosthetics
+Description: v. ill., ports.
+Language: Ukrainian, English
+ISSN: 0030-5987(Print); 2518-1882(Electronic); 0030-5987(Linking)
+Coden: ORTPA7
+Electronic Links: http://otp-journal.com.ua/about
+Fully Indexed In: MEDLINE: v26n6, Jun. 1965-n12, Dec. 1991; Index medicus
+In: PubMed: v26n6, Jun. 1965-n12 ,Dec. 1991, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*; Prostheses and Implants*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Issues for <2014- > have also English title: Orthopaedics, traumatology and
+prosthetics. Vols. for 1956-Feb. 1969 called also 17-30. Also issued online
+Microfilm. v. 22 (1961)-v.30 (1969) 10 microfilm reels : negative ; 35 mm. Issued
+by the Ministerstvo zdravookhraniia Soiuza SSR, 1955- ; and the Vsesoiuznoe
+nauchnoe obshchestvo travmatologov-ortopedov (varies slightly), Mar. 1967- .
+Other ID: (DNLM)O11440000(s)(OCoLC)01604426
+NLM ID: 0376411[Serial]
+
+116. Author(s): National Research Council (U.S.). Advisory Committee on Artificial Limbs.;
+National Research Council (U.S.). Committee on Prosthetics Research and
+Development.; National Research Council (U.S.). Prosthetics Research Board.
+Title Abbreviation: Artif Limbs
+Title(s): Artificial limbs.
+Publication Start Year: 1954
+Publication End Year: 1972
+Frequency: Three no. a year
+Country of Publication: United States
+Publisher: Washington.
+Latest Publisher: Washington Dc : National Academy Of Sciences
+Description: v. illus., ports.
+Language: English
+ISSN: 0004-3729(Print); 0004-3729(Linking)
+Coden: ARLIAU
+Fully Indexed In: MEDLINE: v9n1,spring 1965-v16, 1972; PubMed: v9n1,spring 1965-v16, 1972; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Artificial Limbs*; Prostheses and Implants*
+Publication Type(s): Periodical
+Notes: Issues for Jan.-May 1954 have no vol. numbering but constitute v.1, no. 1-2.
+Publication suspended 1959-Mar. 1961. Issued Jan. 1954-Sept. 1955 by the Advisory
+Committee on Artificial Limbs of the National Research Council; spring
+1956-autumn 1958, by the Council's Prosthetics Research Board; Apr. 1961- by the 
+Council's Committee on Prosthetics Research and Development.
+Other ID: (DNLM)A68565000(s)(OCoLC)01514345
+NLM ID: 0370606[Serial]
+
+117. Title Abbreviation: Arch Putti Chir Organi Mov
+Title(s): Archivio "Putti" di chirurgia degli organi di movimento.
+Publication Start Year: 1951
+Publication End Year: 1993
+Frequency: Semiannual, 1989-
+Country of Publication: Italy
+Publisher: Firenze.
+Latest Publisher: Firenze : Edizioni Scientifiche Clinica Ortopedica Dell Universita Di Firenze
+Description: v. illus., ports.
+Language: Italian, English
+ISSN: 0066-670X(Print); 0066-670X(Linking)
+Coden: APCOBO
+Fully Indexed In: MEDLINE: v21, 1966-v39n2, 1991; PubMed: v21, 1966-v39n2, 1991; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Extremities/surgery*; Orthopedics*
+Publication Type(s): BibliographyCollected WorkPeriodical
+Notes: None published 1987-1988. Bibliografia (called Bibliografia di chirurgia degli
+organi di movimento in v. 1-2) accompanies each volume. Indexes: Vols. 1-30,
+1951-1980. 1 v.
+Other ID: (DNLM)A62970000(s)(OCoLC)01778635
+NLM ID: 0372453[Serial]
+
+118. Author(s): Société française de chirurgie orthopédique et traumatologique.; Société
+française d'orthopédie et de traumatologie.
+Title Abbreviation: Rev Chir Orthop Reparatrice Appar Mot
+Title(s): Revue de chirurgie orthopédique et réparatrice de l'appareil moteur.
+Publication Start Year: 1951
+Publication End Year: 2008
+Frequency: Eight no. a year
+Country of Publication: France
+Publisher: Paris, Masson.
+Latest Publisher: Paris : Elsevier Masson Editeur
+Description: v. illus.
+Language: French, English
+ISSN: 0035-1040(Print); 1776-2553(Electronic); 0035-1040(Linking)
+Coden: RCORAI
+LCCN: sn 82004670
+Electronic Links: http://www.sciencedirect.com/science/journal/00351040
+Fully Indexed In: MEDLINE: v51n3,Apr./May 1965-v94n8, Dec. 2008; Index medicus
+In: PubMed: v51n3,Apr./May 1965-v94n8, Dec. 2008, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: General Surgery*; Orthopedics*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Original papers also issued in English ed., 1987-1991 as: French journal of
+orthopaedic surgery; 1992- 1994 as: Journal of orthopaedic surgery. Monographic
+supplements accompany some issues. Supplement with title: Liste des membres
+(varies slightly) accompanies some vols. Also issued online. Official organ of
+the Société française d'orthopédie et de traumatologie, 1951-67; of the
+Société française de chirurgie orthopédique et traumatologique, 1968- and
+includes the reports of the society's annual meetings and its symposia.
+Other ID: (OCoLC)01764032(DNLM)R42000000(s)
+NLM ID: 1272427[Serial]
+
+119. Author(s): Ceskoslovenská spolec̆nost pro orthopedickou chirurgii a traumatologii.
+Title Abbreviation: Acta Chir Orthop Traumatol Cech
+Title(s): Acta chirurgiae orthopaedicae et traumatologiae Cechoslovaca.
+Publication Start Year: 1950
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Czech Republic
+Publisher: Praha, Avicenum,
+Latest Publisher: Praha : Scientia Medica
+Description: v. illus., ports.
+Language: Czech, English
+ISSN: 0001-5415(Print); 0001-5415(Linking)
+Coden: ACOTA7
+Electronic Links: http://www.achot.cz
+Fully Indexed In: MEDLINE: v32n3,Jun. 1965-v61n2, 1994; v68n1, 2001-; PubMed: v32n3,Jun. 1965-v61n2, 1994; v68n1, 2001-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Orthopedics*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Also issued online. Microfilm. v. 17, no. 2-10 (1950), v. 18 (1951)-30 (1963). 4 
+microfilm reels : negative ; 35 mm. Issued by the Ceskoslovenská spolec̆nost pro
+orthopedickou chirurgii a traumatologii.
+Other ID: (DNLM)A04740000(s)(OCoLC)06522609
+NLM ID: 0407123[Serial]
+
+120. Author(s): Società italiana di ortopedia e traumatologia.; Società piemontese, ligure,
+lombarda di ortopedia, traumatologia e chirurgia infantile.; Società
+piemontese-ligure-lombarda di ortopedia e traumatologia.
+Title Abbreviation: Minerva Ortop
+Title(s): Minerva ortopedica.
+Publication Start Year: 1950
+Publication End Year: 1986
+Frequency: Monthly
+Country of Publication: Italy
+Publisher: Torino.
+Latest Publisher: Turin : Minerva Medica
+Description: 37 v. : ill., ports.
+Language: Italian
+ISSN: 0026-4911(Print); 0026-4911(Linking)
+Coden: MIORA5
+Fully Indexed In: MEDLINE: v16n7,Jul.-Aug. 1965-v23n1, Jan. 1972; PubMed: v16n7,Jul.-Aug. 1965-v23n1, Jan. 1972; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*; Wounds and Injuries
+Publication Type(s): Periodical
+Notes: Subtitle varies. Official organ of the Società italiana di ortopedia e
+traumatologia, and bulletin of the Società piemontese-ligure-lombarda di
+ortopedia, traumatologia e chirurgia infantile., 1950- ; of the Societ
+̀piemontese-ligure-lombarda di ortopedia e traumatologia, -magg. 1986.
+Other ID: (DNLM)M37440000(s)(OCoLC)01606647
+NLM ID: 2984772R[Serial]
+
+121. Author(s): Clark,John M P(John Mounsten Pemberton); Platt,Harry,Sir,1886-1986.
+Title Abbreviation: Mod Trends Orthop
+Title(s): Modern trends in orthopaedics.
+Publication Start Year: 1950
+Publication End Year: 1972
+Frequency: Irregular
+Country of Publication: England
+Publisher: Washington [etc.]
+Latest Publisher: London : Butterworth
+Description: v. illus.
+Language: English
+ISSN: 0077-0159(Print)
+Coden: MTOPA8
+Fully Indexed In: MEDLINE: v5, 1972-v6, 1972; PubMed: v5, 1972-v6, 1972; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Series 1-2 issued as Modern trends series. Title varies slightly. Editor,
+1950-56: Sir Harry Platt; 1962- John M. P. Clark.
+Other ID: (DNLM)M42540000(s)(OCoLC)03990577
+NLM ID: 0035777[Serial]
+
+122. Title Abbreviation: Seikei Geka
+Title(s): Seikeigeka. Orthopedic surgery.
+Publication Start Year: 1950
+Publication End Year: 
+Frequency: Thirteen no. a year
+Country of Publication: Japan
+Publisher: Tōkyō : Nankōdō
+Description: v. illus., ports.
+Language: Japanese, English
+ISSN: 0030-5901(Print); 0030-5901(Linking)
+Coden: SEGEAW
+Fully Indexed In: MEDLINE: v16n5,Apr. 1965-v23n5,May 1972; PubMed: v16n5,Apr. 1965-v23n5,May 1972; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Issues for 1950-60 lack English title.
+Other ID: (OCoLC)13170934(DNLM)S16320000(s)
+NLM ID: 0413745[Serial]
+
+123. Title Abbreviation: Clin Ortop
+Title(s): La Clinica ortopedica.
+Publication Start Year: 1949
+Publication End Year: 1976
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Parma, Maccari.
+Latest Publisher: Parma : Universita Di Parma. Clinica Ortopedica
+Description: v. illus.
+Language: Italian
+ISSN: 0009-9023(Print); 0009-9023(Linking)
+Coden: COTPAO
+Fully Indexed In: MEDLINE: v23n1,Jan.-mar. 1972-1975-76; PubMed: v23n1,Jan.-mar. 1972-1975-76; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Other ID: (DNLM)C24420000(s)(OCoLC)10060786
+NLM ID: 0372601[Serial]
+
+124. Author(s): American Orthopaedic Association.
+Title Abbreviation: J Bone Joint Surg Am
+Title(s): The Journal of bone and joint surgery. American volume.
+Publication Start Year: 1948
+Publication End Year: 
+Frequency: Semimonthly, 2011-
+Country of Publication: United States
+Publisher: Boston, MA : Journal of Bone and Joint Surgery
+Description: v. illus.
+Language: English
+ISSN: 0021-9355(Print); 1535-1386(Electronic); 1058-2436(Undetermined); 0021-9355(Linking)
+Coden: JBJSA3
+LCCN: sc 79002786, sn 78000158
+Electronic Links: http://jbjs.org/, https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00004623-000000000-00000
+Fully Indexed In: MEDLINE: v47n7, Oct. 1965-; Abridged index medicus; Index medicus
+In: PubMed: v47n7, Oct. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Core clinical journals (AIM); Index Medicus
+MeSH: General Surgery*; Orthopedics*
+Publication Type(s): Periodical
+Notes: Vols. for <June 2009-> have additional title on cover: JB&JS. Supplements
+accompany some volumes, including video supplements on DVD. Also issued online.
+Also available, 1991- in an annual CD-ROM ed. under same title; and also with
+title: Journal of bone and joint surgery. American and British volulmes.
+Microfilm. v. 50 (1968)-53 (1971). 8 microfilm reels : negative ; 35 mm. Official
+publication of the American Orthopaedic Association and similar organizations.
+Indexes: Subject index: Vols. 30-39, 1948-57. (Indexes also British ed.) 1 v.;
+General index: Vols. 40-44, 1958-62. 1 v.
+Other ID: (DNLM)J14740000(s)(OCoLC)01754473
+NLM ID: 0014030[Serial]
+
+125. Author(s): British Editorial Society of Bone and Joint Surgery.; British Orthopaedic
+Association.
+Title Abbreviation: J Bone Joint Surg Br
+Title(s): The Journal of bone and joint surgery. British volume.
+Publication Start Year: 1948
+Publication End Year: 2012
+Frequency: Monthly, 2005-
+Country of Publication: England
+Publisher: London : Published for the British Editorial Society of Bone & Joint Surgery by
+Churchill Livingstone
+Latest Publisher: <1987>-2012: London : British Editorial Society of Bone and Joint Surgery
+Description: v. illus., ports.
+Language: English
+ISSN: 0301-620X(Print); 2044-5377(Electronic); 0968-7300(Undetermined); 0301-620X(Linking)
+Coden: JBSUAK
+LCCN: sc 79002785
+Electronic Links: https://boneandjoint.org.uk/journal/BJJ
+Fully Indexed In: MEDLINE: v47n4, Nov. 1965-v94n12, Dec. 2012; Abridged index medicus; Index medicus
+In: PubMed: v47n4, Nov. 1965-v94n12, Dec. 2012, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: General Surgery*; Orthopedics*
+Publication Type(s): Periodical
+Notes: For indexes, see American volume of same title. Issues for Jan. 1998- dropped
+British from title but include B in volume numbering. Vol. 30B, no. 1 called also
+old ser., v. 46B, no. 1. Also issued online. Official publication of the British 
+Orthopaedic Association and similar organizations.
+Other ID: (DNLM)J14760000(s)(OCoLC)01754474
+NLM ID: 0375355[Serial]
+
+126. Author(s): Société belge d'orthopédie, de traumatologie et de chirurgie de l'appareil
+moteur.
+Title Abbreviation: Acta Orthop Belg
+Title(s): Acta orthopaedica Belgica.
+Publication Start Year: 1946
+Publication End Year: 
+Frequency: Five no. a year, 2000-
+Country of Publication: Belgium
+Publisher: Bruxelles.
+Latest Publisher: Bruxelles : Acta Medica Belgica
+Description: v. ill.
+Language: French
+ISSN: 0001-6462(Print); 0001-6462(Linking)
+Coden: AOBEAF
+Electronic Links: http://www.actaorthopaedica.be
+Fully Indexed In: MEDLINE: v.31n3,May-Jun. 1965-; PubMed: v.31n3,May-Jun. 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Supplements accompany some issues. Also issued online. Microfilm. v. 12 (1946)-16
+(1950). 2 microfilm reels : negative ; 35 mm. Text in French; some summaries in
+Esperanto, German, English, Italian, Dutch, and Spanish. Official organ of the
+Société belge d'orthopédie, de traumatologie et de chirurgie de l'appareil
+moteur.
+Other ID: (DNLM)A07620000(s)(OCoLC)01779082
+NLM ID: 2985165R[Serial]
+
+127. Author(s): American Academy of Orthopaedic Surgeons.
+Title Abbreviation: Instr Course Lect
+Title(s): Instructional course lectures.
+Publication Start Year: 1943
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: St. Louis, Mosby [etc.]
+Latest Publisher: Park Ridge Il : American Academy Of Orthopaedic Surgeons
+Description: v. illus.
+Language: English
+ISSN: 0065-6895(Print); 0065-6895(Linking)
+Coden: ICLEAZ
+Fully Indexed In: MEDLINE: v30, 1981-; PubMed: v30, 1981-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Issues for 1943-47 lack series note and vol.
+numbering but constitute v. 1-4; each of these vols. has a distinctive title.
+Separate publication suspended 1962-69, during which time the lectures appeared
+as a separate section of the Journal of bone and joint surgery. Issued by the
+American Academy of Orthopaedic Surgeons. Indexes: Vols. 1-10, 1943-53, in v. 11.
+Other ID: (DNLM)I18180000(s)(OCoLC)01479261
+NLM ID: 7507149[Serial]
+
+128. Author(s): Deutsche Orthopädische Gesellschaft.; Deutsche Gesellschaft für Orthopädie und
+Traumatologie.; Deutsche Gesellschaft für Orthopädie und Orthopädische
+Chirirurgie.
+Title Abbreviation: Z Orthop Ihre Grenzgeb
+Title(s): Zeitschrift für Orthopädie und ihre Grenzgebiete.
+Publication Start Year: 1935
+Publication End Year: 2007
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Stuttgart, Enke.
+Latest Publisher: Stuttgart : Ferdinand Enke Verlag
+Description: 145 v. illus., ports.
+Language: German, English
+ISSN: 0044-3220(Print); 0044-3220(Linking)
+Coden: ZOIGAP
+LCCN: sn 82002687
+Electronic Links: http://www.thieme-connect.de/ejournals/toc/zfo/6040
+Fully Indexed In: MEDLINE: v99n2,Oct. 1964-v145n1, Jan./Feb. 2007; PubMed: v99n2,Oct. 1964-v145n1, Feb. 2007; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Gymnastics*; Orthopedics*; Physical Therapy Modalities*
+Publication Type(s): Periodical
+Notes: Also issued online. Microfilm. v.64 (1935/1936)-v. 76 (1946/1947). 5 microfilm
+reels : negative ; 35 mm. Official organ of the Deutsche Orthopädische
+Gesellschaft, 1913-1966; Deutsche Gesellschaft für Orthopädie und
+Traumatologie, 1967-2000; Deutsche Gesellschaft und orthopädische Chirirurgie,
+2001-. Indexes: Vol. 51-100, 1929-65 (Issued as Bücherei des Orthopäden, Bd. 2.
+Includes index to the earlier title).
+Other ID: (DNLM)Z04880000(s)(OCoLC)01606978
+NLM ID: 1256465[Serial]
+
+129. Title Abbreviation: Acta Orthop Scand Suppl
+Title(s): Acta orthopaedica Scandinavica. Supplementum.
+Publication Start Year: 1934
+Publication End Year: 2004
+Frequency: Six no. a year
+Country of Publication: Sweden
+Publisher: Copenhagen, Munksgaard, 1934-2004.
+Latest Publisher: Stockholm : Taylor & Francis
+Description: 314 no. illus.
+Language: English, French, German
+ISSN: 0300-8827(Print); 0300-8827(Linking)
+Coden: AOSUAC
+LCCN: sn 80013963
+Electronic Links: http://www.tandfonline.com/loi/iort20
+Fully Indexed In: MEDLINE: 118, 1969-314, 2004; PubMed: 118, 1969-314, 2004; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Called also: Acta orthopaedica Scandinavica. Supplement. Also issued online.
+Microfilm. no. 4 (1948)-7 (1950). 1 microfilm reel : negative ; 35 mm.
+Other ID: (DNLM)A07680000(s)(OCoLC)01714960
+NLM ID: 0370353[Serial]
+
+130. Title Abbreviation: Acta Orthop Scand
+Title(s): Acta orthopaedica Scandinavica.
+Publication Start Year: 1930
+Publication End Year: 2004
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: København.
+Latest Publisher: Basingstoke, Hampshire, UK : Taylor & Francis
+Description: v. illus., ports.
+Language: English
+ISSN: 0001-6470(Print); 0001-6470(Linking)
+Coden: AOSAAK
+LCCN: sn 80013968
+Electronic Links: http://www.tandfonline.com/loi/iort20
+Fully Indexed In: MEDLINE: v36n2, 1965-v75n6, Dec. 2004; PubMed: v36n2, 1965-v75n6, Dec. 2004; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online. Microfilm. v.1(1930)-v.11(1940) 
++ suppl.1(1934)-suppl.3(1939). 3 microfilm reels : negative ; 35 mm. Text in
+English, French, or German. Indexes: Vol. 1-10, 1 v.; v. 11-20, 1 v.; v. 21-30, 1
+v.; v. 31-40, 1 v.
+Other ID: (DNLM)A07665000(s)(OCoLC)01460952
+NLM ID: 0370352[Serial]
+
+131. Author(s): Polskie Towarzystwo Ortopedyczne.; Polskie Towarzystwo Ortopedyczne i
+Traumatologiczne.
+Title Abbreviation: Chir Narzadow Ruchu Ortop Pol
+Title(s): Chirurgia narzadów ruchu i ortopedia polska.
+Publication Start Year: 1928
+Publication End Year: 2011
+Frequency: Bimonthly
+Country of Publication: Poland
+Publisher: Warszawa : Panstwowy Zaklad Wydawnictw Lekarskich
+Description: v. ill., ports.
+Language: Polish, English
+ISSN: 
+Coden: CNROA4
+LCCN: sn 86009375
+Fully Indexed In: MEDLINE: v30n3, 1965-v76n6, 2011; Index medicus
+In: PubMed: v30n3, 1965-v76n6, 2011, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: General Surgery; Orthopedics*
+Publication Type(s): Periodical
+Notes: Summaries in French, German, Russian, or English. Organ of Polskie Towarzystwo
+Ortopedyczne, 1928-March? 1934; of Polskie Towarzystwo Ortopedyczne i
+Traumatologiczne, April? 1934- .
+Other ID: (DNLM)C19320000(s)(OCoLC)01778072
+NLM ID: 2985137R[Serial]
+
+132. Author(s): Nippon Seikeigeka Gakkai., Sokai enzetsu shoroku.
+Title Abbreviation: Nihon Seikeigeka Gakkai Zasshi
+Title(s): Nihon Seikeigeka Gakkai zasshi.
+Publication Start Year: 1926
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Japan
+Publisher: Tokyo : Japanese Orthopaedic Association
+Description: v. illus., ports.
+Language: Japanese, English
+ISSN: 0021-5325(Print); 0021-5325(Linking)
+Coden: NSGZA2
+Fully Indexed In: MEDLINE: v38n13, Mar. 1965-v46n2, Feb. 1972; v53n1, Jan. 1979-v71n12, Dec. 1997; Index medicus
+In: PubMed: v38n13, Mar. 1965-v46n2, Feb. 1972; v53n1, Jan. 1979-v71n12, Dec. 1997,
+OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Title also in German, v. 12-18: Zeitschrift der Japanischen
+Orthopädisch-Chirurgischen Gesellschaft; in English, v. 19?-34, no. 2: Journal
+of Japanese Orthopaedic Surgical Society; v. 34, no. 3- Journal of the Japanese
+Orthopaedic Association. Microfilm. v. 1 (1926)-25 (1952). 16 microfilm reels :
+negative ; 35 mm. Text in Japanese, with some articles and summaries in English
+or German. Contains the society's 1st-31st Sokai enzetsu shoroku [Abstracts of
+papers of the general meeting] with summaries in English for the 23d-26th
+meetings.
+Other ID: (OCoLC)06439996(DNLM)N26920000(s)
+NLM ID: 0413716[Serial]
+
+133. Author(s): Deutsche Gesellschaft für Unfallheilkunde, Versicherungs-, Versorgungs- und
+Verkehrsmedizin.; Deutsche Gesellschaft für Unfallheilkunde.
+Title Abbreviation: Arch Orthop Unfallchir
+Title(s): Archiv für orthopädische und Unfall-Chirurgie.
+Publication Start Year: 1918
+Publication End Year: 1977
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: München [etc.] Bergmann [etc.]
+Latest Publisher: Munich : J F Bergmann
+Description: 75 v. ill., ports.
+Language: English, French, German, English, French, German
+ISSN: 0003-9330(Print); 0003-9330(Linking)
+Coden: AOUNAZ
+Fully Indexed In: MEDLINE: v58n1, 1965-v90, 1977; PubMed: v58n1, 1965-v90, 1977; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*; Wounds and Injuries*
+Publication Type(s): Periodical
+Notes: Publication suspended Oct. 1944-Sept. 1949. Microfilm. v. 16 (1918)-33 (1933) +
+General Register v. 1 (1903)-25 (1928). 10 microfilm reels : negative ; 35 mm.
+Articles mainly in German with some in English or French; some summaries in
+German with some also in English (1966-77) and French (1966-71). Issued Feb.
+1950-1975 by the Deutsche Gesellschaft für Unfallheilkunde, Versicherungs-,
+Versorgungs- und Verkehrsmedizin; 1975-77 by the Deutsche Gesellschaft für
+Unfallheilkunde. Indexes: Bd. 1-25, 1903-27. 1 v. (Includes index to the journal 
+under its earlier title).
+Other ID: (DNLM)A60105000(s)(OCoLC)01481998
+NLM ID: 0002266[Serial]
+
+134. Title Abbreviation: Chir Organi Mov
+Title(s): La Chirurgia degli organi di movimento.
+Publication Start Year: 1917
+Publication End Year: 2009
+Frequency: Three no a year, 2008-
+Country of Publication: Italy
+Publisher: Bologna.
+Latest Publisher: Milano : Springer
+Description: v. illus., ports.
+Language: Italian, English
+ISSN: 0009-4749(Print); 1973-2538(Electronic); 0009-4749(Linking)
+Coden: CHOMA9
+LCCN: sn 86009311
+Electronic Links: https://link.springer.com/journal/12306
+Fully Indexed In: MEDLINE: v54n1, 1965-v93n3, 2009; Index medicus
+In: PubMed: v54n1, 1965-v93n3, 2009, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Issues for 2008-2009 have also English title: Musculoskeletal surgery. Latest
+issue consulted: Vol. 93, no. 3 (Dec. 2009). Publication suspended 1944-45;
+2006-2007. Also issued online. Some summaries in English, French, and German;
+text in English only 20008- . Indexes: Vols. 1-10, 1917-26, with v. 10.
+Other ID: (DNLM)C19340000(s)(OCoLC)01585608
+NLM ID: 0372573[Serial]
+
+135. Author(s): Küttner,Herman 1870-1932; Payr,Erwin,1871-1946.
+Title Abbreviation: Ergeb Chir Orthop
+Title(s): Ergebnisse der Chirurgie und Orthopädie.
+Publication Start Year: 1910
+Publication End Year: 1971
+Frequency: Annual
+Country of Publication: Germany
+Publisher: Berlin : Springer Verlag
+Description: 55 v. ill., ports.
+Language: German, German
+ISSN: 0300-8681(Print); 0300-8681(Linking)
+Coden: ERCOAD
+Fully Indexed In: MEDLINE: v47, 1965-v55, 1971; PubMed: v47, 1965-v55, 1971; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: General Surgery*; Orthopedics*
+Publication Type(s): Periodical
+Notes: Founded and for many years edited by E. Payr and H. Küttner. Microfilm. v. 1
+(1910)-44 (1962) + Index v. 1 (1910)-32 (1939). 38 microfilm reels : negative ;
+35 mm. Indexes: Vols. 1-25, 1910-32, in v. 25; Vols. 1-32, 1910-39. 1 v.
+Other ID: (DNLM)E11980000(s)(OCoLC)01568172
+NLM ID: 7611997[Serial]
+
+136. Author(s): Istituto ortopedico Gaetano Pini.; Istituto per la diffusione di opere
+scientifiche (Italy); Pio istituto dei rachitici.
+Title Abbreviation: Arch Ortop
+Title(s): Archivio di ortopedia.
+Publication Start Year: 1884
+Publication End Year: 1973
+Frequency: Bimonthly
+Country of Publication: Italy
+Publisher: Milano.
+Latest Publisher: Milan : Istituto Ortopedico G Pini
+Description: 86 v. illus.,ports.
+Language: Italian, English
+ISSN: 0004-0118(Print); 0004-0118(Linking)
+Coden: ARORA4
+Fully Indexed In: MEDLINE: v77n6, 1964-v83n1, 1970; PubMed: v77n6, 1964-v83n1, 1970; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Orthopedics*
+Publication Type(s): Periodical
+Notes: Publication suspended 1944-45. Supplements accompany some volumes. Microfilm. v. 
+1 (1884)-23 (1906). 9 microfilm reels : negative ; 35 mm. Some summaries in
+English, French, and German. Issued 1924-50 by the Pio istituto dei rachitici;
+1951-62 by the Istituto per la diffusione di opera scientifiche; 1963-73 by the
+Istituto ortopedico G. Pini. Indexes: Vols. 1-50, 1884-1934. 1 v.
+Other ID: (DNLM)A62835000(s)(OCoLC)01438144
+NLM ID: 7508491[Serial]
+

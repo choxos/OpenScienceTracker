@@ -1,0 +1,993 @@
+1. Author(s): International Society of Developmental Biologists,
+Title Abbreviation: Cells Dev
+Title(s): Cells & development.
+Publication Start Year: 2021
+Publication End Year: 
+Country of Publication: Netherlands
+Publisher: [Amsterdam] : Elsevier B.V., [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2667-2901(Electronic); 2667-291X(Print); 2667-2901(Linking)
+LCCN: 2021229608
+Electronic Links: https://www.journals.elsevier.com/cells-and-development
+Fully Indexed In: MEDLINE: v165, Mar. 2021-
+In: PubMed: v165, Mar. 2021-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Biology*; Developmental Biology
+Publication Type(s): Periodical
+Notes: Also issued in print. Official journal of the International Society of
+Developmental Biologists.
+Other ID: (OCoLC)1242439166
+NLM ID: 101775611[Serial]
+
+2. Author(s): Teratology Society,
+Title Abbreviation: Birth Defects Res
+Title(s): Birth defects research.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Twenty issues per year
+Country of Publication: United States
+Publisher: Hoboken, N.J. : John Wiley & Sons, Inc.
+Description: 1 online resource
+Language: English
+ISSN: 2472-1727(Electronic)
+LCCN: 2016200223
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2472-1727
+Fully Indexed In: MEDLINE: v109n1, Jan. 2017-
+In: PubMed: v109n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Congenital Abnormalities*; Teratology
+Publication Type(s): Periodical
+Other ID: (OCoLC)947953538
+NLM ID: 101701004[Serial]
+
+3. Author(s): International Society for Developmental Origins of Health and Disease.
+Title Abbreviation: J Dev Orig Health Dis
+Title(s): Journal of developmental origins of health and disease.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Cambridge : Cambridge University Press, 2010-
+Description: v.
+Language: English
+ISSN: 2040-1744(Print); 2040-1752(Electronic); 2040-1744(Linking)
+LCCN: 2010210977
+Electronic Links: https://www.cambridge.org/core/journals/journal-of-developmental-origins-of-health-and-disease#
+Fully Indexed In: MEDLINE: v5n1, 2014-
+In: PubMed: v5n1, 2014- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Developmental Biology*; Disease Susceptibility; Prenatal Exposure Delayed Effects
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 2 (2011). Vol. 1, issue 1 preceded by a suppl. called
+Vol. 1, suppl.1 (Nov. 2009). Also issued online.
+Other ID: (OCoLC)503445665
+NLM ID: 101517692[Serial]
+
+4. Author(s): Teratology Society.
+Title Abbreviation: Birth Defects Res C Embryo Today
+Title(s): Birth defects research. Part C, Embryo today : reviews.
+Publication Start Year: 2003
+Publication End Year: 2016
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Hoboken, NJ : Wiley-Liss, c2003-
+Latest Publisher: <Feb. 2015-> : Hoboken, NJ : Wiley Periodicals, Inc.
+Description: v. : ill.
+Language: English
+ISSN: 1542-975X(Print); 1542-9768(Electronic); 1542-975X(Linking)
+LCCN: 2002215642
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1542-9768
+Fully Indexed In: MEDLINE: v69n1, Feb. 2003-v108n4, Dec. 2016; Index medicus
+In: PubMed: v69n1, Feb. 2003-v108n4, Dec. 2016; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Embryo, Mammalian/abnormalities*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 99 (2013). Vols. are internumbered 
+with that of Birth defects research. Part A, Clinical and molecular teratology,
+and Birth defects research. Part B, Developmental and reproductive toxicology.
+Also issued online. Official publication of the Teratology Society.
+Other ID: (OCoLC)51261261
+NLM ID: 101167665[Serial]
+
+5. Title Abbreviation: BMC Dev Biol
+Title(s): BMC developmental biology.
+Publication Start Year: 2001
+Publication End Year: 2021
+Country of Publication: England
+Publisher: London : BioMed Central, [2001-2021]
+Language: English
+ISSN: 1471-213X(Electronic); 1471-213X(Linking)
+LCCN: 2002243067
+Electronic Links: https://bmcdevbiol.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=100966973
+Fully Indexed In: MEDLINE: v1n1, 2001-v21, 2021; Index medicus
+In: PubMed: v1n1, 2001-v21, 2021, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Developmental Biology*
+Publication Type(s): Periodical
+Notes: Title from BioMed Central archive volume screen (viewed on Feb. 14, 2002).
+Articles are added consecutively to the current annual v. Text (electronic
+journal) in HTML and PDF formats. Mode of access: Internet.
+Other ID: (OCoLC)45893894
+NLM ID: 100966973[Serial]
+
+6. Title Abbreviation: Dev Cell
+Title(s): Developmental cell.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Cambridge, Mass. : Cell Press, c2001-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1534-5807(Print); 1878-1551(Electronic); 1534-5807(Linking)
+LCCN: 2001214155
+Electronic Links: http://www.sciencedirect.com/science/journal/15345807
+Fully Indexed In: MEDLINE: v1n1, July 2001-; PubMed: v1n1, July 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cells*; Developmental Biology
+Publication Type(s): Periodical
+Notes: Title from cover. Some issues have also a theme title. Also issued online.
+Other ID: (OCoLC)46655943
+NLM ID: 101120028[Serial]
+
+7. Title Abbreviation: Dev Genes Evol
+Title(s): Development genes and evolution.
+Publication Start Year: 1996
+Publication End Year: 2024
+Frequency: Twelve no. a year, 2001
+Country of Publication: Germany
+Publisher: Berlin : Springer-Verlag, c1996-
+Description: v. : ill. (some col.)
+Language: English
+ISSN: 0949-944X(Print); 1432-041X(Electronic); 0949-944X(Linking)
+Coden: DGEVFT
+LCCN: sn 96031146
+Electronic Links: https://link.springer.com/journal/427
+Fully Indexed In: MEDLINE: v208n1, 1998-v234n2, Dec. 2024; Index medicus
+In: PubMed: v208n1, 1998-v234n2, Dec. 2024 ; Selected citations only before this date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Developmental Biology*; Embryology*; Genes*; Growth*
+Publication Type(s): Periodical
+Notes: Title from cover. Electronic supplementary materials to articles published in the
+print journal published on Springer-Verlag's server accessible via the World
+WideWeb. Also issued online.
+Other ID: (DNLM)SR0085793(s)(OCoLC)35182695
+NLM ID: 9613264[Serial]
+
+8. Title Abbreviation: Semin Cell Dev Biol
+Title(s): Seminars in cell & developmental biology.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: London, UK : Academic Press, c1996-
+Latest Publisher: London : Academic Press
+Description: v. : ill.
+Language: English
+ISSN: 1084-9521(Print); 1096-3634(Electronic); 1084-9521(Linking)
+Coden: SCDBFX
+LCCN: sn 95006276
+Electronic Links: http://www.sciencedirect.com/science/journal/10849521
+Fully Indexed In: MEDLINE: v9n1,Feb. 1998-; PubMed: v9n1,Feb. 1998-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cells*; Developmental Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. The latest table of contents and other information about this
+journal can be found on the electronic bulletin board BUBL, accessible through
+the Internet. Available also online.
+Other ID: (DNLM)SR0088319(s)(OCoLC)33227893
+NLM ID: 9607332[Serial]
+
+9. Author(s): European Society of Human Reproduction and Embryology.
+Title Abbreviation: Hum Reprod Update
+Title(s): Human reproduction update.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, UK : Published for the European Society of Human Reproduction and
+Embryology by Oxford University Press, c1995-
+Description: v. : ill.
+Language: English
+ISSN: 1355-4786(Print); 1460-2369(Electronic); 1355-4786(Linking)
+Coden: HRUPF8
+LCCN: 95657574, sn 95029131
+Electronic Links: https://academic.oup.com/humupd
+Fully Indexed In: MEDLINE: v1n1, 1995-; PubMed: v1n1, 1995-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Embryology*; Reproduction*
+Publication Type(s): Periodical
+Notes: Issued with a CD ROM which includes videos, teaching aids and other graphic
+materials in addition to the text of the paper copy. Also issued online.
+Other ID: (DNLM)SR0082410(s)(OCoLC)32055602
+NLM ID: 9507614[Serial]
+
+10. Title Abbreviation: Stem Cells
+Title(s): Stem cells.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Ten no. a year, 2005-
+Country of Publication: England
+Publisher: Dayton, OH : AlphaMed Press, c1993-
+Latest Publisher: 2022- : Oxford : Oxford University Press
+Description: v. : ill.
+Language: English
+ISSN: 1066-5099(Print); 1549-4918(Electronic); 1066-5099(Linking)
+Coden: STCEEJ
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1549-4918, https://academic.oup.com/stmcls
+Fully Indexed In: MEDLINE: v11n1, 1993-; Index medicus
+In: PubMed: v11n1, 1993-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Stem Cells*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0076026(s)(OCoLC)26971021
+NLM ID: 9304532[Serial]
+
+11. Title Abbreviation: Zygote
+Title(s): Zygote : the biology of gametes and early embryos.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly, 1999-
+Country of Publication: England
+Publisher: Cambridge ; New York, NY : Cambridge University Press, c1993-
+Description: v. : ill.
+Language: English
+ISSN: 0967-1994(Print); 1469-8730(Electronic); 0967-1994(Linking)
+LCCN: 93-658616, sn93-20302
+Electronic Links: https://www.cambridge.org/core/journals/zygote
+Fully Indexed In: MEDLINE: v1.1,Feb. 1993-; PubMed: v1.1,Feb. 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Embryonic Development*; Fetal Development*; Zygote*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 20, no. 4 (2012). Also available
+online.
+Other ID: (DNLM)SR0075709(s)(OCoLC)28037956
+NLM ID: 9309124[Serial]
+
+12. Title Abbreviation: Ital J Anat Embryol
+Title(s): Italian journal of anatomy and embryology = Archivio italiano di anatomia ed
+embriologia.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Firenze : Editrice Il Sedicesimo, 1992-
+Latest Publisher: Firenze : Editrice Il Sedicesimo
+Description: v. : ill.
+Language: English
+ISSN: 1122-6714(Print); 2038-5129(Electronic); 1122-6714(Linking)
+Coden: IEMBEF
+LCCN: sn96-15181
+Electronic Links: https://oajournals.fupress.net/index.php/ijae
+Fully Indexed In: MEDLINE: v100n1,Jan.Mar. 1995-v121n1, 2016; Index medicus
+In: PubMed: v100n1,Jan.Mar. 1995-v121n1, 2016; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Embryology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2022. Also issued online.
+Other ID: (DNLM)SR0089300(s)(OCoLC)27352572
+NLM ID: 9612303[Serial]
+
+13. Author(s): Company of Biologists.
+Title Abbreviation: Dev Suppl
+Title(s): Development. Supplement.
+Publication Start Year: 1990
+Publication End Year: 1994
+Frequency: Annual
+Country of Publication: England
+Publisher: Cambridge [England] : Company of Biologists, c1990-[1994]
+Latest Publisher: Cambridge Eng : Company Of Biologists
+Description: v. : ill.
+Language: English
+ISSN: 
+Coden: DESUED
+Selectively Indexed in: MEDLINE1990-1994PubMed1990-1994Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Developmental Biology*; Embryology*; Growth*
+Publication Type(s): Periodical
+Notes: Title from analytical t.p. One v. issued in 1990; v. for 1991- designated as
+1991, 1- . Supplements issued 19??-1989 were designated as supplements to the v. 
+of the main journal.
+Other ID: (DNLM)SR0072308(s)(OCoLC)24559381
+NLM ID: 9113706[Serial]
+
+14. Title Abbreviation: Mech Dev
+Title(s): Mechanisms of development.
+Publication Start Year: 1990
+Publication End Year: 2020
+Frequency: Twenty-four no. a year 2003-
+Country of Publication: Ireland
+Publisher: Shannon : Elsevier Scientific Publishers Ireland, c1991-
+Latest Publisher: Limerick : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0925-4773(Print); 1872-6356(Electronic); 0925-4773(Linking)
+Coden: MEDVE6
+LCCN: 92645804, sn 91025042
+Electronic Links: https://www.sciencedirect.com/journal/mechanisms-of-development
+Fully Indexed In: MEDLINE: v33, 1990-v164, Dec. 2020; PubMed: v33, 1990-v164, Dec. 2020; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Developmental Biology*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Also available online.
+Other ID: (DNLM)SR0069279(s)(OCoLC)22927690
+NLM ID: 9101218[Serial]
+
+15. Author(s): Academia de Stiinte Medicale.
+Title Abbreviation: Rom J Morphol Embryol
+Title(s): Romanian journal of morphology and embryology = Revue roumaine de morphologie et 
+embryologie.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucuresti, România : Editura Academiei Române, [1990-
+Description: v. : ill.
+Language: English
+ISSN: 1220-0522(Print); 2066-8279(Electronic); 1220-0522(Linking)
+Coden: RRMEEA
+LCCN: sn 92033020
+Electronic Links: http://www.rjme.ro, https://pmc.ncbi.nlm.nih.gov/journals/?term=9112454
+Fully Indexed In: MEDLINE: v36n2, 1990-; PubMed: v36n2, 1990-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Biology*; Embryology*; Pathology*
+Publication Type(s): Periodical
+Notes: Three times a year. Title from cover. Also issued online. In English or French.
+Issued by: Academia de Stiinte Medicale.
+Other ID: (DNLM)SR0072042(s)(OCoLC)23814167
+NLM ID: 9112454[Serial]
+
+16. Title Abbreviation: Int J Dev Biol
+Title(s): The International journal of developmental biology.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Spain
+Publisher: Vizcaya, Spain : University of the Basque Country Press, [1989-
+Description: v. : ill., ports.
+Language: English
+ISSN: 0214-6282(Print); 1696-3547(Electronic); 0214-6282(Linking)
+LCCN: 96648178, sn 89036558
+Electronic Links: http://www.ijdb.ehu.es
+Fully Indexed In: MEDLINE: v33n1,Mar. 1989-; Index medicus
+In: PubMed: v33n1,Mar. 1989-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Embryology*; Growth*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0065608(s)(OCoLC)20626707
+NLM ID: 8917470[Serial]
+
+17. Author(s): International Society of Developmental Biologists.
+Title Abbreviation: Cell Differ Dev
+Title(s): Cell differentiation and development : the official journal of the International 
+Society of Developmental Biologists.
+Publication Start Year: 1988
+Publication End Year: 1990
+Frequency: Monthly
+Country of Publication: Ireland
+Publisher: Shannon : Elsevier Scientific Publishers Ireland, c1988-
+Description: 8 v.
+Language: English
+ISSN: 0922-3371(Print); 0922-3371(Linking)
+Coden: CDDEE8
+Electronic Links: http://www.sciencedirect.com/science/journal/09223371
+Fully Indexed In: MEDLINE: v25n1,Sept. 1988-v32, 1990; PubMed: v25n1,Sept. 1988-v32, 1990; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Differentiation*; Cell Nucleus*; Morphogenesis*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0063624(s)(OCoLC)18574082
+NLM ID: 8811335[Serial]
+
+18. Author(s): Company of Biologists.
+Title Abbreviation: Development
+Title(s): Development.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Twenty four no. a year
+Country of Publication: England
+Publisher: [Cambridge] : Company of Biologists, [c1987-
+Latest Publisher: Cambridge Eng : Company Of Biologists Limited
+Description: v. : ill.
+Language: English
+ISSN: 0950-1991(Print); 1477-9129(Electronic); 0950-1991(Linking)
+Coden: DEVPED
+Electronic Links: https://dev.biologists.org/
+Fully Indexed In: MEDLINE: v99n1,Jan. 1987-; PubMed: v99n1,Jan. 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Embryology*; Growth*
+Publication Type(s): Periodical
+Notes: Title from cover. Has supplement: Development (Cambridge, England). Supplement,
+1990- . Print issues ceased with 2024. Supplements accompany some vols.
+19??-1989. Available also online.
+Other ID: (DNLM)SR0058569(s)(OCoLC)15088415
+NLM ID: 8701744[Serial]
+
+19. Author(s): Reproductive Toxicology Center (Washington, D.C.)
+Title Abbreviation: Reprod Toxicol
+Title(s): Reproductive toxicology.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Elmsford, N.Y., U.S.A. : Pergamon Press, c1987-
+Latest Publisher: Elmsford Ny : Pergamon In Cooperation With The Reproductive Toxicology Center
+Description: v. : ill.
+Language: English
+ISSN: 0890-6238(Print); 1873-1708(Electronic); 0890-6238(Linking)
+Coden: REPTED
+LCCN: sn 86011548
+Electronic Links: https://www.sciencedirect.com/journal/reproductive-toxicology
+Fully Indexed In: MEDLINE: v1n1, 1987-; PubMed: v1n1, 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Pollutants/adverse effects*; Reproduction/drug effects*; Toxicology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Published in cooperation with: the
+Reproductive Toxicology Center.
+Other ID: (DNLM)SR0060848(s)(OCoLC)14286647
+NLM ID: 8803591[Serial]
+
+20. Title Abbreviation: Dev Biol (N Y 1985)
+Title(s): Developmental biology.
+Publication Start Year: 1985
+Publication End Year: 1991
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York : Plenum Press, 1985-
+Description: v. : ill.
+Language: English
+Coden: DEBIAO
+Fully Indexed In: MEDLINE: v1, 1985-v7, 1991; Index medicus
+In: PubMed: v1, 1985-v7, 1991; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Growth*; Morphogenesis*
+Other ID: (DNLM)SR0057953(s)(OCoLC)13732674
+NLM ID: 8611888[Serial]
+
+21. Title Abbreviation: Int J Cell Cloning
+Title(s): International journal of cell cloning.
+Publication Start Year: 1983
+Publication End Year: 1992
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Dayton, OH : AlphaMed Press, c1983-c1992.
+Description: 10 v. : ill., ports.
+Language: English, English
+ISSN: 0737-1454(Print); 0737-1454(Linking)
+Coden: IJCCE3
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1549-4918
+Fully Indexed In: MEDLINE: v1n1, Apr. 1983-v10n6, Nov. 1992; Index medicus
+In: PubMed: v1n1, Apr. 1983-v1, Nov. 1992; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Differentiation*; Cell Division*; Clone Cells*; Hematopoietic Stem Cells*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)I26470000(s)(OCoLC)09328410
+NLM ID: 8308172[Serial]
+
+22. Author(s): Pathological Society of Great Britain and Ireland.
+Title Abbreviation: Diagn Histopathol
+Title(s): Diagnostic histopathology/ published in association with the Pathological Society
+of Great Britain and Ireland.
+Publication Start Year: 1981
+Publication End Year: 1983
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Chichester, Sussex ; New York : Wiley, c1981-[1983]
+Description: v. : ill.
+Language: English, English
+ISSN: 0272-7749(Print); 0272-7749(Linking)
+Coden: DIHIDH
+LCCN: sc 81005051, sn 80013785
+Fully Indexed In: MEDLINE: v4n1,Jan.-Mar. 1981-v6n4,Dec. 1983; PubMed: v4n1,Jan.-Mar. 1981-v6n4,Dec. 1983; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Histological Techniques*; Pathology*
+Publication Type(s): Periodical
+Notes: Title from cover. Published in association with the Pathological Society of Great
+Britain and Ireland.
+Other ID: (DNLM)D09568000(s)(OCoLC)6922413
+NLM ID: 8103005[Serial]
+
+23. Title Abbreviation: Placenta Suppl
+Title(s): Placenta. Supplement.
+Publication Start Year: 1981
+Publication End Year: 1982
+Frequency: Irregular
+Country of Publication: England
+Publisher: [London ; Philadelphia : Saunders]
+Description: v. : ill.
+Language: English
+ISSN: 0265-7023(Print); 0265-7023(Linking)
+Coden: PLSUDN
+LCCN: sn 86000387
+Fully Indexed In: MEDLINE: 3, 1981-1982; PubMed: 3, 1981-1982; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Placenta*
+Publication Type(s): Periodical
+Notes: Imprint varies: Eastbourne, East Sussex, UK ; New York, NY, USA : Praeger,
+<1982-> Description based on: 3, published 1981.
+Other ID: (OCoLC)09863238(DNLM)P16125020(s)
+NLM ID: 8306308[Serial]
+
+24. Author(s): "Halocynthia" Association.
+Title Abbreviation: Acta Embryol Morphol Exp (Halocynthia Assoc)
+Title(s): Acta embryologiae et morphologiae experimentalis.
+Publication Start Year: 1980
+Publication End Year: 1991
+Frequency: Three no. a year
+Country of Publication: Italy
+Publisher: [Palermo] : "Halocynthia" Association, 1980-
+Latest Publisher: Palermo : Halocynthia Association
+Description: v. : ill.
+Language: English, English
+ISSN: 0391-9706(Print); 0391-9706(Linking)
+Coden: AMEXDB
+Selectively Indexed in: MEDLINEv1n1,Apr. 1980-v4n2, 1983PubMedv1n1,Apr. 1980-v4n2, 1983Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Embryology*; Histology*
+Publication Type(s): Periodical
+Notes: Called new series in continuation of: Acta embryologiae experimentalis.
+Other ID: (DNLM)A05240000(s)(OCoLC)07302987
+NLM ID: 8108943[Serial]
+
+25. Title Abbreviation: Placenta
+Title(s): Placenta.
+Publication Start Year: 1980
+Publication End Year: 
+Frequency: Ten no. a year, 2001-
+Country of Publication: Netherlands
+Publisher: London W.B. Saunders.
+Latest Publisher: <2010- > : Amsterdam : Elsevier
+Description: v. ill.
+Language: English
+ISSN: 0143-4004(Print); 1532-3102(Electronic); 0143-4004(Linking)
+Coden: PLACDF
+LCCN: 80647588
+Electronic Links: http://www.sciencedirect.com/science/journal/01434004
+Fully Indexed In: MEDLINE: v1n1, Jan./Mar. 1980-; PubMed: v1n1, Jan./Mar. 1980-47; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Placenta*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)P16125000(s)(OCoLC)05312765
+NLM ID: 8006349[Serial]
+
+26. Title Abbreviation: J Dev Physiol
+Title(s): Journal of developmental physiology.
+Publication Start Year: 1979
+Publication End Year: 1993
+Frequency: Monthly
+Country of Publication: England
+Publisher: Oxford, Blackwell Scientific Publications.
+Latest Publisher: High Wycombe : Caxton Communications
+Description: 19 v. ill.
+Language: English, English
+ISSN: 0141-9846(Print); 0141-9846(Linking)
+Coden: JDPHDH
+Fully Indexed In: MEDLINE: v1n1, 1979-v19n6,Jun. 1993; PubMed: v1n1, 1979-v19n6,Jun. 1993; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Embryology; Perinatology; Physiology; Pregnancy
+Publication Type(s): Periodical
+Other ID: (DNLM)J18930000(s)(OCoLC)05152455
+NLM ID: 7910737[Serial]
+
+27. Title Abbreviation: Early Hum Dev
+Title(s): Early human development.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Ten no. a year 2000-
+Country of Publication: Ireland
+Publisher: Amsterdam, Elsevier/North-Holland.
+Latest Publisher: Limerick : Elsevier
+Description: v. ill.
+Language: English, English
+ISSN: 0378-3782(Print); 1872-6232(Electronic); 0378-3782(Linking)
+Coden: EHDEDN
+LCCN: 77644403
+Electronic Links: http://www.sciencedirect.com/science/journal/03783782
+Fully Indexed In: MEDLINE: v1, 1977-; PubMed: v1, 1977-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Child Development*; Neonatology*; Perinatology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)E00160000(s)(OCoLC)03173644
+NLM ID: 7708381[Serial]
+
+28. Author(s): Academia de Stiinte Medicale.; Academia Republicii Socialiste România.
+Title Abbreviation: Morphol Embryol (Bucur)
+Title(s): Morphologie et embryologie.
+Publication Start Year: 1975
+Publication End Year: 1990
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucureşti, Editura Academiei Republicii Socialiste România.
+Latest Publisher: Bucuresti : Editura Academiei Republicii Socialiste Romania
+Description: 16 v. illus.
+Language: English, French, English, French
+ISSN: 0377-5038(Print); 0377-5038(Linking)
+Coden: RMEMDQ
+LCCN: 75648730
+Fully Indexed In: MEDLINE: v21, 1975-v36n1, Jan.-Mar. 1990; Index medicus
+In: PubMed: v21, 1975-v36n1, Jan.-Mar. 1990; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Embryology*; Pathology*
+Publication Type(s): Periodical
+Notes: Added title in English: Morphology and embryology. Caption titles in French and
+English: Revue roumaine de morphologie, d'embryologie et de physiologie; Romanian
+journal of morphology, embryology and physiology. Articles and summaries in
+English or French. Issued by the Academia de Stiinţe Medicale.
+Other ID: (OCoLC)01749727(DNLM)M49100000(s)
+NLM ID: 7512183[Serial]
+
+29. Title Abbreviation: Anat Embryol (Berl)
+Title(s): Anatomy and embryology.
+Publication Start Year: 1974
+Publication End Year: 2006
+Frequency: Ten no. a year, <2005->2006
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag
+Description: v. : ill. 25 cm.
+Language: English, German, French, English, German, French
+ISSN: 0340-2061(Print); 1432-0568(Electronic); 0340-2061(Linking)
+Coden: ANEMDG
+LCCN: 82641640
+Electronic Links: https://link.springer.com/journal/429
+Fully Indexed In: MEDLINE: v146, 1974-v211n6, 2006; Index medicus
+In: PubMed: v146, 1974-v211n6, 2006; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Embryology*
+Publication Type(s): Periodical
+Notes: Final issue consulted. Also issued online. Articles in English, French, or
+German; summaries in one or two of those languages.
+Other ID: (DNLM)A30105000(s)(OCoLC)01342716
+NLM ID: 7505194[Serial]
+
+30. Title Abbreviation: Adv Anat Embryol Cell Biol
+Title(s): Advances in anatomy, embryology, and cell biology.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Latest Publisher: Berlin : Springer Verlag
+Description: v. illus.
+Language: English
+ISSN: 0301-5556(Print); 0301-5556(Linking)
+Coden: EAENA3
+Electronic Links: https://link.springer.com/bookseries/102
+Fully Indexed In: MEDLINE: v47n4, 1965-; PubMed: v47n4, 1965-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anatomy*; Cell Biology*; Embryology*
+Publication Type(s): Periodical
+Notes: Added titles: Ergebnisse der Anatomie und Entwicklungsgeschichte; Revues
+d'anatomie et de morphologie expérimentale. Also issued online. Articles in
+English, French, or German, with summaries in English.
+Other ID: (OCoLC)01787967(DNLM)A13005000(s)
+NLM ID: 0407712[Serial]
+
+31. Author(s): World Association of Veterinary Anatomists.
+Title Abbreviation: Anat Histol Embryol
+Title(s): Anatomia, histologia, embryologia.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Berlin, Parey.
+Latest Publisher: Berlin : Wiley-Blackwell
+Description: v. ill.
+Language: Multiple languages, English, English, Multiple languages
+ISSN: 0340-2096(Print); 1439-0264(Electronic); 0340-2096(Linking)
+Coden: AHEMA5
+LCCN: sc 84001835, sn 84010033
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0264
+Fully Indexed In: MEDLINE: v6n1,Mar. 1977-; Index medicus
+In: PubMed: v6n1,Mar. 1977-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anatomy, Comparative*; Anatomy, Veterinary*; Embryology*
+Publication Type(s): Periodical
+Notes: Journal of the World Association of Veterinary Anatomists. Also issued online.
+Articles in English, French, German, or Spanish with summaries in all four
+languages.
+Other ID: (DNLM)A30045000(s)(OCoLC)01372304
+NLM ID: 7704218[Serial]
+
+32. Title Abbreviation: Differentiation
+Title(s): Differentiation; research in biological diversity.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Ten no. a year
+Country of Publication: England
+Publisher: London, Macmillan Journals.
+Latest Publisher: London : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0301-4681(Print); 1432-0436(Electronic); 0301-4681(Linking)
+Coden: DFFNAW
+LCCN: 74648484
+Electronic Links: http://www.sciencedirect.com/science/journal/03014681
+Fully Indexed In: MEDLINE: v1n6, 1973-; PubMed: v1n6, 1973-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Differentiation*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online.
+Other ID: (OCoLC)02240102(DNLM)D10460000(s)
+NLM ID: 0401650[Serial]
+
+33. Title Abbreviation: Cell Differ
+Title(s): Cell differentiation.
+Publication Start Year: 1972
+Publication End Year: 1988
+Frequency: Nine no. a year
+Country of Publication: Ireland
+Publisher: Amsterdam, North-Holland Pub. Co.
+Latest Publisher: Shannon : Elsevier
+Description: 24 v. illus.
+Language: English
+ISSN: 0045-6039(Print); 0045-6039(Linking)
+Coden: CLDFAT
+Fully Indexed In: MEDLINE: v1n1,Apr. 1972-v24n3,Aug. 1988; PubMed: v1n1,Apr. 1972-v24n3,Aug. 1988; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Differentiation*; Cell Nucleus*
+Publication Type(s): Periodical
+Notes: Published in the Netherlands, Vols. 1-5 (1972-77); in Ireland, Vols. 6 (June,
+1977)- .
+Other ID: (DNLM)C10760000(s)(OCoLC)01639190
+NLM ID: 0342640[Serial]
+
+34. Author(s): Akademii︠a︡ nauk SSSR.
+Title Abbreviation: Ontogenez
+Title(s): Ontogenez.
+Publication Start Year: 1970
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Nauka
+Description: v. illus.
+Language: Russian, English
+ISSN: 0475-1450(Print); 0475-1450(Linking)
+Coden: ONGZAC
+Electronic Links: http://ontogenez.org/?show=content1
+Fully Indexed In: MEDLINE: v5n5, 1974-v48n2, Mar.-Apr. 2017; Index medicus
+In: PubMed: v5n5, 1974-v48n2, Mar.-Apr. 2017; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biological Evolution*
+Publication Type(s): Periodical
+Notes: Translated as: Soviet journal of developmental biology, 1970-1991; as: Ontogenes.
+English. Russian journal of developmental biology, 1992- . Also issued online.
+Issued by Akademiia nauk SSSR.
+Other ID: (DNLM)O07420000(s)(OCoLC)05298605
+NLM ID: 0341527[Serial]
+
+35. Author(s): Università di Roma. Istituto zoologico.
+Title Abbreviation: Acta Embryol Exp (Palermo)
+Title(s): Acta embryologiae experimentalis.
+Publication Start Year: 1969
+Publication End Year: 1979
+Frequency: Three no. a year
+Country of Publication: Italy
+Publisher: Palermo : Industria Grafica Nazionale, 1969-[1979].
+Latest Publisher: Palermo : Industria Grafica Nazionale
+Description: 11 v. : ill.
+Language: Multiple languages, English
+ISSN: 0065-1184(Print); 0065-1184(Linking)
+Coden: AEEXAH
+Fully Indexed In: MEDLINE: n1, 1969-n3, 1979; PubMed: n1, 1969-n3, 1979; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Embryology*; Histology*; Research*
+Publication Type(s): Periodical
+Notes: Journal edited in cooperation with the Zoological Institute, University of Rome
+and other similar institutes. Articles in English, French, German, or Italian.
+Other ID: (DNLM)A05235000(s)(OCoLC)03281268
+NLM ID: 0236000[Serial]
+
+36. Author(s): Nihon Hassei Seibutsu Gakkai.
+Title Abbreviation: Dev Growth Differ
+Title(s): Development, growth & differentiation.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Japan
+Publisher: Nagoya, Japanese Society of Developmental Biologists.
+Latest Publisher: Tokyo : Blackwell Publishing on behalf of the Japanese Society of Developmental
+Biologists
+Description: v. illus.
+Language: English
+ISSN: 0012-1592(Print); 1440-169X(Electronic); 0012-1592(Linking)
+Coden: DGDFA5
+LCCN: sn 83005629
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-169X
+Fully Indexed In: MEDLINE: v11n1,Jun. 1969-v12n1,Jun. 1970; v39n1,Feb. 1997-; Index medicus
+In: PubMed: v11n1,Jun. 1969-v12n1,Jun. 1970; v39n1,Feb. 1997-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Embryology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 56 (2014). Also issued online.
+Other ID: (DNLM)D07880000(s)(OCoLC)01566536
+NLM ID: 0356504[Serial]
+
+37. Title Abbreviation: Monogr Dev Biol
+Title(s): Monographs in developmental biology.
+Publication Start Year: 1969
+Publication End Year: 1992
+Frequency: Semiannual
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Latest Publisher: Basel : Karger
+Description: v. illus.
+Language: English
+ISSN: 0077-0825(Print); 0077-0825(Linking)
+Coden: MNDBA5
+Fully Indexed In: MEDLINE: v1, 1969-v24, 1992; PubMed: v1, 1969-v24, 1992; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Growth*
+Publication Type(s): Periodical
+Other ID: (DNLM)M46640000(s)(OCoLC)01770885
+NLM ID: 0207715[Serial]
+
+38. Title Abbreviation: Curr Top Dev Biol
+Title(s): Current topics in developmental biology.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Five issues yearly, <2003->
+Country of Publication: United States
+Publisher: New York, London, Academic Press.
+Latest Publisher: 2003- : New York Ny : Elsevier
+Description: v. ill.
+Language: English
+ISSN: 0070-2153(Print); 1557-8933(Electronic); 0070-2153(Linking)
+Coden: CTDBA5
+LCCN: 66-28604
+Electronic Links: https://www.sciencedirect.com/bookseries/current-topics-in-developmental-biology
+Fully Indexed In: MEDLINE: 3, 1968-; PubMed: 3, 1968-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)C57760000(s)(OCoLC)01424326
+NLM ID: 0163114[Serial]
+
+39. Title Abbreviation: Dev Biol
+Title(s): Developmental biology.
+Publication Start Year: 1959
+Publication End Year: 
+Frequency: Twenty four no. a year
+Country of Publication: United States
+Publisher: New York.
+Latest Publisher: San Diego, CA : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0012-1606(Print); 1095-564X(Electronic); 0012-1606(Linking)
+Coden: DEBIAO
+Electronic Links: http://www.sciencedirect.com/science/journal/00121606
+Fully Indexed In: MEDLINE: v6n1,Feb. 1963-; PubMed: v6n1,Feb. 1963-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Growth*
+Publication Type(s): Periodical
+Notes: Imprint varies. Also issued online.
+Other ID: (DNLM)D07940000(s)(OCoLC)01718504
+NLM ID: 0372762[Serial]
+
+40. Title Abbreviation: Arch Anat Histol Embryol
+Title(s): Archives d'anatomie, d'histologie et d'embryologie normales et expérimentales.
+Publication Start Year: 1956
+Publication End Year: 1994
+Country of Publication: France
+Publisher: Colmar : Editions Alsatia,
+Description: v. : ill. ; 25 cm.
+Language: French, English
+ISSN: 0249-5554(Print); 0249-5554(Linking)
+LCCN: sn 88000825
+Fully Indexed In: MEDLINE: v48n1, 1965-v75, 1993/94; PubMed: v48n1, 1965-v75, 1993/94; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Embryology; Histology
+Publication Type(s): Periodical
+Notes: Issues for <1991/1992- > have title: Archives d'anatomie, d'histologie &
+d'embryologie normales et expérimentales. Published: Mulhouse : Editions
+Alsatia, <1993- > Description based on surrogate of: T. 69 (1986).
+Other ID: (OCoLC)17745458(DNLM)A60510000(s)
+NLM ID: 0372423[Serial]
+
+41. Author(s): Company of Biologists.
+Title Abbreviation: J Embryol Exp Morphol
+Title(s): Journal of embryology and experimental morphology.
+Publication Start Year: 1953
+Publication End Year: 1986
+Frequency: Ten no. a year
+Country of Publication: England
+Publisher: Cambridge [Eng.], New York, Cambridge Univ. Press for the Company of Biologists
+Ltd. [etc.]
+Description: 98 v. ill.
+Language: English, French, German, English
+ISSN: 0022-0752(Print); 0022-0752(Linking)
+Coden: JEEMAF
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv13n3,Jun. 1965-v98,Nov. 1986PubMedv13n3,Jun. 1965-v98,Nov. 1986Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Embryology*
+Publication Type(s): Periodical
+Notes: Articles in English, French, or German; summaries in English.
+Other ID: (OCoLC)01696115(DNLM)J19860000(s)
+NLM ID: 7906439[Serial]
+
+42. Author(s): Soviet Union. Ministerstvo zdravookhranenii︠a︡.; Soviet Union. Narodnyĭ
+komissariat zdravookhranenii︠a︡.
+Title Abbreviation: Arkh Anat Gistol Embriol
+Title(s): Arkhiv anatomii, gistologii i émbriologii.
+Publication Start Year: 1931
+Publication End Year: 1991
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Leningrad [etc.]
+Latest Publisher: Leningrad : Izdatelstvo Meditsina
+Description: 92 v. illus., ports.
+Language: Russian, English
+ISSN: 0004-1947(Print); 0004-1947(Linking)
+Coden: AAGEAA
+Fully Indexed In: MEDLINE: v48n4,Apr. 1965-1991; PubMed: v48n4,Apr. 1965-1991; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Embryology*; Histology*
+Publication Type(s): Periodical
+Notes: Photocopy (negative) 1930, vyp. 3. Title also in French: Archives russes
+d'anatomie, d'histologie et d'embryologie, 1931-40. Publication suspended 1942-47
+and 1949-51. Issues for 1939-41 also numbered in the following series: A.
+Anatomiia, B. Gistologiia, C. TSitologiia. Translations or summaries in German,
+French, or English, 1931-41. Issued 1937-41 by Narodnyĭ komissariat
+zdravookhraneniia SSSR; 1952- by Ministerstvo zdravookhraneniia SSSR.
+Other ID: (DNLM)A65850000(s)(OCoLC)01514162
+NLM ID: 0370603[Serial]
+
+43. Author(s): Consiglio nazionale delle ricerche (Italy); Università di Firenze.
+Title Abbreviation: Arch Ital Anat Embriol
+Title(s): Archivio italiano di anatomia e di embriologia. Italian journal of anatomy and
+embryology.
+Publication Start Year: 1902
+Publication End Year: 1991
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Firenze.
+Latest Publisher: Firenze : Sansoni Edizioni Scientifiche
+Description: 96 v. ill., ports.
+Language: English, Italian, English
+ISSN: 0004-0223(Print); 0004-0223(Linking)
+Coden: AIAEA2
+In: OLDMEDLINE
+Selectively Indexed in: MEDLINEv70n2,Jun. 1965-v96,Oct.-Dec. 1991PubMedv70n2,Jun. 1965-v96,Oct.-Dec. 1991Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Embryology
+Publication Type(s): Periodical
+Notes: English title added in 1985. Supplements accompany some vols. Microfilm. v. 1
+(1902)-v. 47 (1942), v.53 (1948)-v. 54 (1949), v. 56 (1951)-v.67 (1962) + suppl. 
+18 (1922). 48 microfilm reels : negative ; 35 mm. In Italian with some summaries 
+in English, 1902?- ; in English and Italian, 1985?-1991. Issued under the
+auspices of the Consiglio nazionale delle ricerche, 1949- ; Universita degli
+studi di Firenze, 1986- .
+Other ID: (DNLM)A62520000(s)(OCoLC)01513921
+NLM ID: 2985162R[Serial]
+

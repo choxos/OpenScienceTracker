@@ -1,0 +1,491 @@
+1. Title Abbreviation: Tissue Barriers
+Title(s): Tissue barriers.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Four times a year
+Country of Publication: United States
+Publisher: [Austin, TX ] : Landes Bioscience
+Latest Publisher: Oct. 2014- : Abingdon, Oxfordshire, OX : Taylor & Francis
+Language: English
+ISSN: 2168-8370(Electronic); 2168-8362(Print); 2168-8362(Linking)
+LCCN: 2012200380
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101601065, http://www.tandfonline.com/loi/ktib20
+Fully Indexed In: MEDLINE: v4n1, Jan-Mar 2016-
+In: PubMed: v1, 2013-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Transport*; Tissues
+Publication Type(s): Periodical
+Other ID: (OCoLC)800704348
+NLM ID: 101601065[Serial]
+
+2. Author(s): International Academy of Cytology,; Italian Society of Urologic Pathology,
+Title Abbreviation: Anal Quant Cytopathol Histpathol
+Title(s): Analytical and quantitative cytopathology and histopathology.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: St. Louis, MO : Science Printers and Publishers, Inc. August 2012-
+Language: English
+ISSN: 2578-742X(Print); 2578-742X(Linking)
+LCCN: 2014243544
+Electronic Links: http://www.aqch.com/
+Fully Indexed In: MEDLINE: v34n4, Aug. 2012-v38n2, Apr. 2016
+In: PubMed: v34n4, Aug. 2012-v38n2, Apr. 2016; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Physiological Phenomena*; Cytodiagnosis; Pathology, Clinical/methods*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v.38, no. 6 (2016). Also issued online.
+Other ID: (OCoLC)889568736
+NLM ID: 101638882[Serial]
+
+3. Author(s): Tissue Engineering & Regenerative Medicine International Society.
+Title Abbreviation: Tissue Eng Part A
+Title(s): Tissue engineering. Part A.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc.
+Language: English
+ISSN: 1937-3341(Print); 1937-335X(Electronic); 1937-3341(Linking)
+LCCN: 2007213654
+Electronic Links: http://online.liebertpub.com/loi/tea
+Fully Indexed In: MEDLINE: v14n1, Jan. 2008-; PubMed: v14n1, Jan. 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials; Guided Tissue Regeneration; Tissue Engineering*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)156908427
+NLM ID: 101466659[Serial]
+
+4. Author(s): Tissue Engineering & Regenerative Medicine International Society.
+Title Abbreviation: Tissue Eng Part B Rev
+Title(s): Tissue engineering. Part B, Reviews.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc.
+Language: English
+ISSN: 1937-3368(Print); 1937-3376(Electronic); 1937-3368(Linking)
+LCCN: 2007213656
+Electronic Links: http://online.liebertpub.com/loi/teb
+Fully Indexed In: MEDLINE: v14n1, Mar. 2008-; PubMed: v14n1, Mar. 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Guided Tissue Regeneration; Research; Tissue Engineering*
+Publication Type(s): PeriodicalReview
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)156908452
+NLM ID: 101466660[Serial]
+
+5. Author(s): Tissue Engineering & Regenerative Medicine International Society.
+Title Abbreviation: Tissue Eng Part C Methods
+Title(s): Tissue engineering. Part C, Methods.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc.
+Language: English
+ISSN: 1937-3384(Print); 1937-3392(Electronic); 1937-3384(Linking)
+LCCN: 2007213658
+Electronic Links: http://online.liebertpub.com/loi/tec
+Fully Indexed In: MEDLINE: v14n1, Mar. 2008-; PubMed: v14n1, Mar. 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Guided Tissue Regeneration; Tissue Engineering/methods*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)156908473
+NLM ID: 101466663[Serial]
+
+6. Title Abbreviation: J Tissue Eng Regen Med
+Title(s): Journal of tissue engineering and regenerative medicine.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Chichester, West Sussex, UK : John Wiley & Sons
+Language: English
+ISSN: 1932-6254(Print); 1932-7005(Electronic); 1932-6254(Linking)
+LCCN: 2006214583
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-7005, https://www.hindawi.com/journals/jterm/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101308490
+Fully Indexed In: MEDLINE: v1n1, Jan./Feb. 2007-; PubMed: v1n1, Jan./Feb. 2007-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Regenerative Medicine*; Tissue Engineering*
+Publication Type(s): Periodical
+Notes: Description based on : Vol. 1, no. 4 (July-Aug. 2007); title from cover. Also
+issued online.
+Other ID: (OCoLC)70709168
+NLM ID: 101308490[Serial]
+
+7. Title Abbreviation: Organogenesis
+Title(s): Organogenesis.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Four times a year
+Country of Publication: United States
+Publisher: Georgetown, TX : Landes Bioscience
+Latest Publisher: 2015- : Philadelphia, PA : Taylor & Francis
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1547-6278(Print); 1555-8592(Electronic); 1547-6278(Linking)
+LCCN: 2003215636
+Electronic Links: http://www.tandfonline.com/toc/kogg20/current, https://pmc.ncbi.nlm.nih.gov/journals/?term=101253266
+Fully Indexed In: MEDLINE: v6n1, Jan-Mar 2010-
+In: PubMed: v1n1, Jul-Aug 2004-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Organogenesis*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, issue 2 (Oct./Nov./Dec. 2004); title from cover.
+Latest issue consulted: Vol. 4, issue 1 (Jan./Feb./Mar. 2008). Also issued
+online.
+Other ID: (OCoLC)53480530
+NLM ID: 101253266[Serial]
+
+8. Title Abbreviation: Cell Tissue Bank
+Title(s): Cell and tissue banking.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Netherlands
+Publisher: Dordrecht, the Netherlands : Kluwer Academic Publishers, c2000-
+Description: v.
+Language: English
+ISSN: 1389-9333(Print); 1573-6814(Electronic); 1389-9333(Linking)
+LCCN: 00243582
+Electronic Links: https://link.springer.com/journal/10561
+Fully Indexed In: MEDLINE: v5n1, 2004-; PubMed: v5n1, 2004-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Specimen Banks*; Cell Transplantation; Tissue Banks; Tissue Preservation; Tissue Transplantation
+Publication Type(s): Periodical
+Notes: "An international journal for banking, engineering & transplantation of cells and
+tissues." Also issued online. Published in association with American Association 
+of Tissue Banks ... et al.
+Other ID: (OCoLC)45633017
+NLM ID: 100965121[Serial]
+
+9. Author(s): Tissue Engineering & Regenerative Medicine International Society.
+Title Abbreviation: Tissue Eng
+Title(s): Tissue engineering.
+Publication Start Year: 1995
+Publication End Year: 2007
+Frequency: Bimonthly, 1999-
+Country of Publication: United States
+Publisher: New York, NY : Mary Ann Liebert, Inc., c1995-
+Description: v. : ill.
+Language: English
+ISSN: 1076-3279(Print); 1557-8690(Electronic); 1076-3279(Linking)
+Coden: TIENFP
+LCCN: sn 94005129
+Electronic Links: http://www.liebertonline.com/ten
+Fully Indexed In: MEDLINE: v4n1,spring 1998-v13n12, Dec. 2007; PubMed: v4n1,spring 1998-v13n12, Dec. 2007; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biocompatible Materials*; Biomedical Engineering*; Culture Techniques*
+Publication Type(s): Periodical
+Notes: Final issue consulted. Also issued online.
+Other ID: (DNLM)SR0081613(s)(OCoLC)30453761
+NLM ID: 9505538[Serial]
+
+10. Author(s): Nihon Kōsoshiki Kenkyū Gijutsu Gakkai.
+Title Abbreviation: Nihon Kososhiki Kenkyu Gijutsu Gakkai Zasshi
+Title(s): Nihon Kōsoshiki Kenkyū Gijutsu Gakkai zasshi = Journal of hard tissue biology. 
+biology.
+Publication Start Year: 1993
+Publication End Year: 1994
+Frequency: 2 no. a year, 1998-
+Country of Publication: Japan
+Publisher: Okayama-shi : Japanese Society of Hard Tissue Research & Technology, 1993-
+Description: v.
+Language: Japanese, English
+ISSN: 1340-5179(Print); 1340-5179(Linking)
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bone and Bones/physiopathology; Calcification, Physiologic; Dentin/pathology; Mouth Neoplasms
+Publication Type(s): Periodical
+Notes: Title from cover. Articles chiefly in Japanese with summaries in English.
+Other ID: (DNLM)SR0086599(s)(OCoLC)50380560
+NLM ID: 9614165[Serial]
+
+11. Author(s): Nihon Soshikigaku Kirokukai.
+Title Abbreviation: Arch Histol Cytol
+Title(s): Archives of histology and cytology.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Three no. a year, 2010/2011-
+Country of Publication: Japan
+Publisher: Niigata, Japan : Japan Society of Histological Documentation, c1988-
+Description: v. : ill.
+Language: English, English
+ISSN: 0914-9465(Print); 1349-1717(Electronic); 0914-9465(Linking)
+Coden: AHCYEZ
+Electronic Links: https://www.jstage.jst.go.jp/browse/aohc/
+Fully Indexed In: MEDLINE: v51n1, Mar. 1988-v73n3, 2010; Index medicus
+In: PubMed: v51n1, Mar. 1988-v73n3, 2010; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Histology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0062475(s)(OCoLC)18091878
+NLM ID: 8806082[Serial]
+
+12. Author(s): Consejería de Sanidad de la Comunidad Autónoma de Murcia (Spain); Sociedad
+Española de Histología e Ingeniería Tisular.
+Title Abbreviation: Histol Histopathol
+Title(s): Histology and histopathology.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: Spain
+Publisher: Murcia, Spain : Gutenberg, 1986-
+Latest Publisher: Murcia : Histology and Histopathology
+Description: v. : ill.
+Language: English
+ISSN: 0213-3911(Print); 1699-5848(Electronic); 0213-3911(Linking)
+Coden: HIHIES
+LCCN: sn 86003213
+Electronic Links: http://www.hh.um.es/index.html
+Fully Indexed In: MEDLINE: v1n1,Jan. 1986-; PubMed: v1n1,Jan. 1986-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Histology*; Pathology*
+Publication Type(s): Periodical
+Notes: Issues for <July 2005-> have subtitle: Cellular and molecular biology. Imprint
+varies. Title from cover. Print issues ceased with 2020. Also issued online.
+Vols. for 2006- are issued monthly online and cumulated quarterly in print.
+Supported by: Consejería de Sanidad de la Comunidad Autónoma de Murcia, Spain; 
+supported by Consejería de Sanidad de la Comunidad Autónoma de Murcia and
+Sociedad Española de Histología e Ingeniería Tisular, <2005->
+Other ID: (DNLM)SR0054104(s)(OCoLC)13918649
+NLM ID: 8609357[Serial]
+
+13. Author(s): American Society of Cytology.
+Title Abbreviation: Anal Quant Cytol Histol
+Title(s): Analytical and quantitative cytology and histology/ the International Academy of 
+Cytology [and] American Society of Cytology.
+Publication Start Year: 1985
+Publication End Year: 2012
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [St. Louis, MO : Science Printers and Publishers, c1985-
+Description: v. : ill.
+Language: English
+ISSN: 0884-6812(Linking)
+Coden: AQCHED
+LCCN: 87656009
+Electronic Links: http://www.aqch.com/
+Fully Indexed In: MEDLINE: v7n1, March 1985-v34n3, June 2012; Index medicus
+In: PubMed: v7n1, March 1985-v34n3, June 2012; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Histology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official periodical of: the International
+Academy of Cytology and the American Society of Cytology, <-2011>; International 
+Academy of Cytology and the Italian Society of Urologic Pathology, <2012>- .
+Other ID: (DNLM)SR0054577(s)(OCoLC)12009962
+NLM ID: 8506819[Serial]
+
+14. Author(s): National Society for Histotechnology.
+Title Abbreviation: J Histotechnol
+Title(s): Journal of histotechnology.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: [Downers Grove, IL : Mayo Publications]
+Latest Publisher: 2020- : Bedfordshire : Historical Metallurgy Society
+Description: v. ill., ports.
+Language: English
+ISSN: 0147-8885(Print); 2046-0236(Electronic); 0147-8885(Linking)
+Coden: JOHID
+LCCN: 78640984
+Electronic Links: http://www.tandfonline.com/loi/yhis20
+Fully Indexed In: MEDLINE: v42n1, 2019- ; Selected citations only before this date
+In: PubMed: v42n1, 2019- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Histological Techniques*
+Publication Type(s): Periodical
+Notes: Also issued online. Official publication of the National Society for
+Histotechnology.
+Other ID: (DNLM)J23050000(s)(OCoLC)03456694
+NLM ID: 8003807[Serial]
+
+15. Title Abbreviation: Cell Tissue Res
+Title(s): Cell and tissue research.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Description: v. illus.
+Language: English
+ISSN: 0302-766X(Print); 1432-0878(Electronic); 0302-766X(Linking)
+Coden: CTSRCS
+LCCN: 74644803
+Electronic Links: https://link.springer.com/journal/441
+Fully Indexed In: MEDLINE: v149n1, 1974-; Index medicus
+In: PubMed: v149n1, 1974-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Biology*; Histology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)C10880000(s)(OCoLC)01794057
+NLM ID: 0417625[Serial]
+
+16. Author(s): World Association of Veterinary Anatomists.
+Title Abbreviation: Anat Histol Embryol
+Title(s): Anatomia, histologia, embryologia.
+Publication Start Year: 1973
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Berlin, Parey.
+Latest Publisher: Berlin : Wiley-Blackwell
+Description: v. ill.
+Language: Multiple languages, English, English, Multiple languages
+ISSN: 0340-2096(Print); 1439-0264(Electronic); 0340-2096(Linking)
+Coden: AHEMA5
+LCCN: sc 84001835, sn 84010033
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0264
+Fully Indexed In: MEDLINE: v6n1,Mar. 1977-; Index medicus
+In: PubMed: v6n1,Mar. 1977-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anatomy, Comparative*; Anatomy, Veterinary*; Embryology*
+Publication Type(s): Periodical
+Notes: Journal of the World Association of Veterinary Anatomists. Also issued online.
+Articles in English, French, German, or Spanish with summaries in all four
+languages.
+Other ID: (DNLM)A30045000(s)(OCoLC)01372304
+NLM ID: 7704218[Serial]
+
+17. Title Abbreviation: Tissue Cell
+Title(s): Tissue & cell.
+Publication Start Year: 1969
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Scotland
+Publisher: Edinburgh, Oliver & Boyd.
+Latest Publisher: Edinburgh : Churchill Livingstone
+Description: v. illus.
+Language: English
+ISSN: 0040-8166(Print); 1532-3072(Electronic); 0040-8166(Linking)
+Coden: TICEBI
+Electronic Links: http://www.sciencedirect.com/science/journal/00408166
+Fully Indexed In: MEDLINE: v4n1, 1972-; PubMed: v4n1, 1972-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Biology*; Histology*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also issued online.
+Other ID: (DNLM)T11040000(s)(OCoLC)01681062
+NLM ID: 0214745[Serial]
+
+18. Title Abbreviation: Cell Tissue Kinet
+Title(s): Cell and tissue kinetics.
+Publication Start Year: 1968
+Publication End Year: 1990
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, Blackwell Scientific Publications.
+Latest Publisher: Oxford : Blackwell Scientific Publications
+Description: 23 v. illus., ports.
+Language: English
+ISSN: 0008-8730(Print); 0008-8730(Linking)
+Coden: CTKIAR
+Fully Indexed In: MEDLINE: v3n1,Jan. 1970-v23, 1990; PubMed: v3n1,Jan. 1970-v23, 1990; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Cell Division*
+Other Subject(s): Cell Kinetics Society., European Study Group for Cell Proliferation.,
+International Cell Cycle Society.
+Publication Type(s): Periodical
+Notes: Issues for Jan. 1982?-Nov. 1990 published for the Cell Kinetics Society and for
+the European Study Group for Cell Proliferation by Blackwell Scientific
+Publications; issues for Sept. 1983-Nov. 1990 also published for the
+International Cell Cycle Society.
+Other ID: (DNLM)C10860000(s)(OCoLC)01553622
+NLM ID: 0174107[Serial]
+
+19. Title Abbreviation: Arch Anat Histol Embryol
+Title(s): Archives d'anatomie, d'histologie et d'embryologie normales et expérimentales.
+Publication Start Year: 1956
+Publication End Year: 1994
+Country of Publication: France
+Publisher: Colmar : Editions Alsatia,
+Description: v. : ill. ; 25 cm.
+Language: French, English
+ISSN: 0249-5554(Print); 0249-5554(Linking)
+LCCN: sn 88000825
+Fully Indexed In: MEDLINE: v48n1, 1965-v75, 1993/94; PubMed: v48n1, 1965-v75, 1993/94; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Embryology; Histology
+Publication Type(s): Periodical
+Notes: Issues for <1991/1992- > have title: Archives d'anatomie, d'histologie &
+d'embryologie normales et expérimentales. Published: Mulhouse : Editions
+Alsatia, <1993- > Description based on surrogate of: T. 69 (1986).
+Other ID: (OCoLC)17745458(DNLM)A60510000(s)
+NLM ID: 0372423[Serial]
+
+20. Author(s): Nihon Soshikigaku Kirokukai.; Nippon Soshiki Kagakukai.
+Title Abbreviation: Arch Histol Jpn
+Title(s): Archivum histologicum Japonicum = Nihon soshikigaku kiroku.
+Publication Start Year: 1950
+Publication End Year: 1987
+Frequency: Five no. a year
+Country of Publication: Japan
+Publisher: Okayama, Nihon Soshikigaku Kirokukai.
+Latest Publisher: Niigata : Nihon Soshikigaku Kirokukai
+Description: 50 v. ill., ports.
+Language: English, English
+ISSN: 0004-0681(Print); 0004-0681(Linking)
+Coden: NSKIA5
+Electronic Links: https://www.jstage.jst.go.jp/browse/aohc1950
+Fully Indexed In: MEDLINE: v25n5, Jul. 1965-v50n5, Dec. 1987; Index medicus
+In: PubMed: v25n5, Jul. 1965-v50n5, Dec. 1987, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Histocytochemistry*; Histology*
+Publication Type(s): Periodical
+Notes: Also issued online. Text in English, French, German, or Japanese, with summaries 
+in Japanese or European languages. Table of contents also in Japanese. Official
+organ of Nippon Soshiki Kagakukai, Apr. 1959- Feb. 1968.
+Other ID: (OCoLC)01513973(DNLM)A65085000(s)
+NLM ID: 0146564[Serial]
+
+21. Author(s): Soviet Union. Ministerstvo zdravookhranenii︠a︡.; Soviet Union. Narodnyĭ
+komissariat zdravookhranenii︠a︡.
+Title Abbreviation: Arkh Anat Gistol Embriol
+Title(s): Arkhiv anatomii, gistologii i émbriologii.
+Publication Start Year: 1931
+Publication End Year: 1991
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Leningrad [etc.]
+Latest Publisher: Leningrad : Izdatelstvo Meditsina
+Description: 92 v. illus., ports.
+Language: Russian, English
+ISSN: 0004-1947(Print); 0004-1947(Linking)
+Coden: AAGEAA
+Fully Indexed In: MEDLINE: v48n4,Apr. 1965-1991; PubMed: v48n4,Apr. 1965-1991; Index medicus
+In: OLDMEDLINE
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anatomy*; Embryology*; Histology*
+Publication Type(s): Periodical
+Notes: Photocopy (negative) 1930, vyp. 3. Title also in French: Archives russes
+d'anatomie, d'histologie et d'embryologie, 1931-40. Publication suspended 1942-47
+and 1949-51. Issues for 1939-41 also numbered in the following series: A.
+Anatomiia, B. Gistologiia, C. TSitologiia. Translations or summaries in German,
+French, or English, 1931-41. Issued 1937-41 by Narodnyĭ komissariat
+zdravookhraneniia SSSR; 1952- by Ministerstvo zdravookhraneniia SSSR.
+Other ID: (DNLM)A65850000(s)(OCoLC)01514162
+NLM ID: 0370603[Serial]
+

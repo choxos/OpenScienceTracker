@@ -1,0 +1,791 @@
+---
+title: "Transparency indicators across the dentistry and oral health literature - Analysis"
+author: Eero Raittio, Ahmad Sofi-Mahmudi, Sergio E Uribe
+output:
+        html_document:
+        df_print: paged
+        
+---
+
+# Loading required packages
+
+```{r, message=FALSE, warning=FALSE}
+pacman::p_load(dplyr,
+               ggplot2,
+               knitr,
+               here,
+               tidyr,
+               europepmc,
+               lubridate,
+               ggpubr,
+               epiR,
+               gtsummary,
+               forcats,
+               nortest,
+               caret,
+               tibble,
+               ggrepel)
+```
+
+```{r setup, include=FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+# Loading the datasets
+First, set working directory to the folder that has all the datasets in it using setwd() function and then run the following code:
+```{r}
+opendata <- read.csv(here("data", "dental_transparency_opendata.csv"))
+```
+Adding and cleaning publisher and journal related information (journal impact factor) to the dataset:
+```{r}
+jif <- read.csv(here("data", "dental_transparency_journals.csv"))
+jif$scimago_publisher = ifelse( jif$scimago_publisher == "Elsevier Inc." | jif$scimago_publisher == "Elsevier BV"  |   jif$scimago_publisher == "Elsevier Ltd."| jif$scimago_publisher == "Elsevier USA" | jif$scimago_publisher == "Elsevier Science",  "Elsevier", ifelse(jif$scimago_publisher == "BioMed Central Ltd." | jif$scimago_publisher == "Springer Japan" |  jif$scimago_publisher == "Springer Verlag",   "Nature Publishing Group", ifelse(jif$scimago_publisher == "Sage Publications"  | jif$scimago_publisher == "SAGE Publications Ltd","SAGE Publications Inc.", ifelse(jif$scimago_publisher ==  "Wiley-Blackwell Publishing Ltd"  |jif$scimago_publisher ==  "Wiley-Blackwell"  | jif$scimago_publisher ==  "Blackwell Munksgaard","John Wiley & Sons Inc.",jif$scimago_publisher ))))
+
+opendata <- merge(x = opendata, y = jif[, c("abbreviation", "jif2020","scimago_publisher")], by.x = "journalTitle",by.y = "abbreviation",all.x = TRUE)
+```
+Data including non-OA articles
+```{r}
+db_all <- read.csv(here("data", "dental_transparency_db.csv"))
+
+alldata <- merge(x = db_all, 
+                  y = jif[, c("abbreviation", "jif2020","scimago_publisher")],
+                  by.x = "journalTitle",
+                  by.y = "abbreviation",
+                  all.x = TRUE)
+```
+
+
+# Results
+Number of all papers (open access and non open access), open-access papers and open-access percentage:
+```{r}
+kable(data.frame(hits_all = 329784, 
+           hits_oa = nrow(opendata),
+           oa_percentage = round((nrow(opendata)/329784)*100, 1)))
+```
+
+First, adding the real publication year and month to the datasets. The real publication year/month is the year/month the paper was first appear online stored in firstPublicationDate column.
+```{r}
+opendata <- opendata %>%
+  mutate(year_firstpub = year(
+    as.POSIXlt(firstPublicationDate, 
+               format = "%Y-%m-%d")),
+    month_firstpub = month(
+      as.POSIXlt(firstPublicationDate, 
+               format = "%Y-%m-%d")
+    )
+    )
+
+opendata <- opendata %>%
+        mutate(pubYear_modified = 
+                       ifelse(year_firstpub < 2000, "<2000",
+                     ifelse((year_firstpub >= 2000) & (year_firstpub < 2005), "2000-2004",
+                     ifelse((year_firstpub >= 2005) & (year_firstpub < 2010), "2005-2009",
+                     year_firstpub))))
+```
+
+
+Number of open access papers per year:
+```{r}
+opendata %>% select(pubYear_modified) %>% tbl_summary()
+```
+
+The number of journals in our dataset:
+```{r}
+length(table(opendata$journalTitle))
+```
+Top 10 journals with the highest number of articles in our dataset, from high to low:
+```{r}
+head(table(opendata$journalTitle) %>% as.data.frame() %>% arrange(desc(Freq)), 5)
+```
+
+The mean and the median of the number of citations to these references:
+```{r}
+kable(data.frame(Mean = round(mean(opendata$citedByCount),1),
+           SD = round(sd(opendata$citedByCount), 1),
+           Median = median(opendata$citedByCount),
+           IQR = IQR(opendata$citedByCount)
+           ))
+
+```
+
+Characteristics of the paper with the highest number of citations:
+```{r}
+kable(opendata[which.max(opendata$citedByCount),] %>% 
+  select(citedByCount, pmid,title, authorString, journalTitle, firstPublicationDate))
+```
+
+The number and percentage of papers with a conflict of interest (COI) disclosure:
+```{r}
+kable(data.frame(
+  number = length(opendata$is_coi_pred[opendata$is_coi_pred == TRUE]),
+           percentage = round(length(opendata$is_coi_pred[opendata$is_coi_pred == TRUE])/nrow(opendata)*100, 1)
+           ))
+```
+
+Confidence interval for COI:
+```{r}
+kable(round(epi.prev(pos = length(opendata$is_coi_pred[opendata$is_coi_pred == TRUE]),
+         tested = nrow(opendata),
+         se = 0.992,
+         sp = 0.995)$ap, 
+      1))
+```
+
+
+The number and percentage of papers with a funding disclosure:
+```{r}
+kable(data.frame(number = length(opendata$is_fund_pred[opendata$is_fund_pred == TRUE]),
+           percentage = round(length(opendata$is_fund_pred[opendata$is_fund_pred == TRUE])/nrow(opendata)*100, 1)
+           ))
+```
+
+Confidence interval for funding disclosure:
+```{r}
+kable(round(epi.prev(pos = length(opendata$is_fund_pred[opendata$is_fund_pred == TRUE]),
+         tested = nrow(opendata),
+         se = 0.997,
+         sp = 0.981)$ap, 
+      1))
+```
+
+The number and percentage of protocol registration:
+```{r}
+kable(data.frame(number = length(opendata$is_register_pred[opendata$is_register_pred == TRUE]),
+           percentage = round(length(opendata$is_register_pred[opendata$is_register_pred == TRUE])/nrow(opendata)*100, 1)
+           ))
+```
+
+Confidence interval for protocol registration:
+```{r}
+kable(round(epi.prev(pos = length(opendata$is_register_pred[opendata$is_register_pred == TRUE]),
+         tested = nrow(opendata),
+         se = 0.955,
+         sp = 0.997)$ap, 
+      1))
+```
+
+The number and percentage of papers that shared data:
+```{r}
+kable(data.frame(number = length(opendata$is_open_data[opendata$is_open_data == TRUE]),
+           percentage = round(length(opendata$is_open_data[opendata$is_open_data == TRUE])/nrow(opendata)*100, 1)
+           ))
+```
+
+Confidence interval for data sharing:
+```{r}
+kable(round(epi.prev(pos = length(opendata$is_open_data[opendata$is_open_data == TRUE]),
+         tested = nrow(opendata),
+         se = 0.758,
+         sp = 0.986)$ap, 
+      1))
+```
+
+
+The number and percentage of papers that shared code:
+```{r}
+kable(data.frame(number = length(opendata$is_open_code[opendata$is_open_code == TRUE]),
+           percentage = round(length(opendata$is_open_code[opendata$is_open_code == TRUE])/nrow(opendata)*100, 1)
+           ))
+```
+
+Confidence interval for sharing code:
+```{r}
+kable(round(epi.prev(pos = length(opendata$is_open_code[opendata$is_open_code == TRUE]),
+         tested = nrow(opendata),
+         se = 0.587,
+         sp = 0.997)$ap, 
+      1))
+```
+
+Sum of five indicators:
+```{r}
+opendata %>% mutate(sum = rowSums(opendata %>% select(is_coi_pred, is_register_pred, is_fund_pred, is_open_data, is_open_code))) %>% select(sum) %>% tbl_summary()
+```
+
+
+## Journal-related differences in transparency (Table 1)
+
+
+Five highest impact journals
+```{r}
+tapply(opendata$jif2020.x, opendata$journalTitle, max) %>% as.data.frame() %>% arrange(desc(.)) %>% head(5)
+opendata$jif2020c = ifelse(opendata$jif2020.x < 6.116,"Other",opendata$journalTitle)
+```
+
+Table
+```{r}
+set.seed(100)
+opendata %>% 
+  select(jif2020c,is_coi_pred,is_fund_pred,is_register_pred,is_open_data,is_open_code) %>%
+  tbl_summary(by=jif2020c, percent="column",
+              label = c(is_coi_pred ~ "COI disclosure", is_fund_pred ~ "Funding disclosure", is_register_pred ~ "Protocol registration", is_open_data ~ "Data sharing", is_open_code ~ "Code sharing")) %>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE)) %>%
+        as_flex_table() 
+```
+
+Table
+```{r}
+set.seed(100)
+opendata %>% 
+  select(journalTitle,is_coi_pred,is_fund_pred,is_register_pred,is_open_data,is_open_code) %>%
+        mutate(journalTitle = fct_lump(journalTitle,n=5)) %>%
+  tbl_summary(by=journalTitle, percent="column",
+              label = c(is_coi_pred ~ "COI disclosure", is_fund_pred ~ "Funding disclosure", is_register_pred ~ "Protocol registration", is_open_data ~ "Data sharing", is_open_code ~ "Code sharing")) %>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE)) %>%
+        as_flex_table() 
+```
+
+Code sharing for all journals and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+  select(journalTitle,is_open_code) %>%
+  tbl_summary(by=journalTitle, percent="row", sort = list(everything() ~ "frequency"))%>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE)) %>% 
+        as_flex_table()
+```
+
+Data sharing for all journals and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+  select(journalTitle,is_open_data) %>%
+  tbl_summary(by=journalTitle, percent="row", sort = list(everything() ~ "frequency"))%>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE))%>% 
+        as_flex_table()
+```
+
+Protocol registration for all journals and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+  select(journalTitle,is_register_pred) %>%
+  tbl_summary(by=journalTitle, percent="row", sort = list(everything() ~ "frequency"))%>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE)) %>% 
+        as_flex_table()
+```
+
+COI disclosure for all journals and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+  select(journalTitle,is_coi_pred) %>%
+  tbl_summary(by=journalTitle, percent="row", sort = list(everything() ~ "frequency"))%>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE))%>% 
+        as_flex_table()
+```
+
+Funding disclosure for all journals and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+  select(journalTitle,is_fund_pred) %>%
+  tbl_summary(by=journalTitle, percent="row", sort = list(everything() ~ "frequency"))%>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE))%>% 
+        as_flex_table()
+```
+
+Open access rates and cleaning publisher data
+```{r}
+alldata %>% 
+        select(journalTitle,isOpenAccess) %>%
+        tbl_summary(by=journalTitle, percent="column", sort = list(everything() ~ "frequency")) %>%
+        add_overall() %>%
+        as_flex_table() 
+```
+
+
+## Publisher-related differences in transparency (Table 2)
+
+Table
+```{r}
+set.seed(100)
+opendata %>% 
+  select(scimago_publisher.y,is_coi_pred,is_fund_pred,is_register_pred,is_open_data,is_open_code) %>%
+        mutate(scimago_publisher.y = fct_lump(scimago_publisher.y,n=6)) %>%
+  tbl_summary(by=scimago_publisher.y, percent="column",
+              label = c(is_coi_pred ~ "COI disclosure", is_fund_pred ~ "Funding disclosure", is_register_pred ~ "Protocol registration", is_open_data ~ "Data sharing", is_open_code ~ "Code sharing")) %>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE)) %>%
+        as_flex_table()
+```
+
+Code sharing for all publishers and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+select(scimago_publisher.y,is_open_code) %>%
+tbl_summary(by=scimago_publisher.y, percent="row", sort = list(everything() ~ "frequency"))%>%
+ add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE))%>% 
+        as_flex_table()
+```
+
+Data sharing for all publishers and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+select(scimago_publisher.y,is_open_data) %>%
+tbl_summary(by=scimago_publisher.y, percent="row", sort = list(everything() ~ "frequency"))%>%
+ add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE))%>% 
+        as_flex_table()
+```
+
+Protocol registeration in all publishers and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+select(scimago_publisher.y,is_register_pred) %>%
+tbl_summary(by=scimago_publisher.y, percent="row", sort = list(everything() ~ "frequency"))%>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE))%>% 
+        as_flex_table()
+```
+
+COI disclosure in all publishers and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+select(scimago_publisher.y,is_coi_pred) %>%
+tbl_summary(by=scimago_publisher.y, percent="row", sort = list(everything() ~ "frequency")) %>%
+  add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE))%>% 
+        as_flex_table()
+```
+ 
+Funding disclosure in all publishers and correct p-value for the table
+```{r}
+set.seed(100)
+opendata %>% 
+select(scimago_publisher.y,is_fund_pred) %>%
+tbl_summary(by=scimago_publisher.y, percent="row", sort = list(everything() ~ "frequency")) %>%
+add_p(test.args=all_tests("fisher.test") ~ list(simulate.p.value=TRUE))%>% 
+        as_flex_table()
+```
+
+```{r}
+alldata %>% 
+        select(scimago_publisher,isOpenAccess) %>%
+        filter(scimago_publisher ==  "Allen Press Inc."  | scimago_publisher ==  "American Cleft Palate Craniofacial Association" |
+ scimago_publisher ==  "American Dental Association" | scimago_publisher ==   "American Dental Education Association"     | scimago_publisher ==   "American Journal of Nursing Company" |scimago_publisher ==    "British Institute of Radiology" | scimago_publisher ==  "Churchill Livingstone" | scimago_publisher ==   "Dental Press Editora Ltda"  | scimago_publisher ==   "Elsevier" | scimago_publisher ==   "Faculdade de Odontologia de Bauru"  | scimago_publisher ==  "Informa Healthcare" |    scimago_publisher ==   "Japanese Association for Oral Biology" | scimago_publisher ==  "John Wiley & Sons Inc."|  scimago_publisher ==    "Kare Publishing" |scimago_publisher ==  "Lippincott Williams and Wilkins Ltd."| scimago_publisher == "Medicina Oral, Patologia Oral y Cirugia Bucal"  |scimago_publisher == "Mosby Inc." |  scimago_publisher ==   "Nature Publishing Group"  |
+ scimago_publisher ==  "Oxford University Press"  | scimago_publisher ==  "Quintessence Publishing Company" |scimago_publisher ==  "S. Karger AG" | scimago_publisher ==  "SAGE Publications Inc." | scimago_publisher ==  "Sichuan University Press"| scimago_publisher ==  "Thieme Medical Publishers Inc."| scimago_publisher ==  "Urban und Vogel"| scimago_publisher ==  "W.B. Saunders Ltd"| scimago_publisher ==  "Wolters Kluwer Medknow Publications") %>%
+        tbl_summary(by=scimago_publisher, percent="column", sort = list(everything() ~ "frequency")) %>%
+        add_overall() %>%
+        add_p() %>%
+        as_flex_table() 
+```
+
+
+## Journal Impact Factor (JIF) and citation count analyses (Table 3)
+
+Total number of papers published in journals with no JIF:
+```{r}
+sum(is.na(opendata$jif2020.x))
+```
+Normality of JIFs and citations
+```{r}
+hist(opendata$jif2020.x)
+hist(opendata$citedByCount)
+ad.test(opendata$jif2020.x)
+ad.test(opendata$citedByCount)
+```
+
+JIF and citations based on COI disclosure:
+```{r}
+kable(opendata %>% 
+  group_by(is_coi_pred) %>% 
+  summarise(Median = round(median(jif2020.x, na.rm = T), 1),
+            IQR = round(IQR(jif2020.x, na.rm = T), 2)))
+kable(opendata %>% 
+  group_by(is_coi_pred) %>% 
+  summarise(Median = round(median(citedByCount, na.rm = T), 1),
+            IQR = round(IQR(citedByCount, na.rm = T), 2)))
+```
+
+Data was not normally distributed, hence we will use unpaired two-samples Wilcoxon test.
+```{r}
+wilcox.test(jif2020.x~is_coi_pred, data = opendata, exact = FALSE)
+wilcox.test(citedByCount~is_coi_pred, data = opendata, exact = FALSE)
+```
+
+JIF and citations based on funding disclosure:
+```{r}
+kable(opendata %>% 
+  group_by(is_fund_pred) %>% 
+  summarise(Median = round(median(jif2020.x, na.rm = T), 1),
+            IQR = round(IQR(jif2020.x, na.rm = T), 2)))
+kable(opendata %>% 
+  group_by(is_fund_pred) %>% 
+  summarise(Median = round(median(citedByCount, na.rm = T), 1),
+            IQR = round(IQR(citedByCount, na.rm = T), 2)))
+```
+
+Data was not normally distributed, hence we will use unpaired two-samples Wilcoxon test.
+```{r}
+wilcox.test(jif2020.x~is_fund_pred, data = opendata, exact = FALSE)
+wilcox.test(citedByCount~is_fund_pred, data = opendata, exact = FALSE)
+```
+
+JIF and citations based on registration:
+```{r}
+kable(opendata %>% 
+  group_by(is_register_pred) %>% 
+  summarise(Median = round(median(jif2020.x, na.rm = T), 1),
+            IQR = round(IQR(jif2020.x, na.rm = T), 2)))
+kable(opendata %>% 
+  group_by(is_register_pred) %>% 
+  summarise(Median = round(median(citedByCount, na.rm = T), 1),
+            IQR = round(IQR(citedByCount, na.rm = T), 2)))
+```
+
+Data was not normally distributed, hence we will use unpaired two-samples Wilcoxon test.
+```{r}
+wilcox.test(jif2020.x~is_register_pred, data = opendata, exact = FALSE)
+wilcox.test(citedByCount~is_register_pred, data = opendata, exact = FALSE)
+```
+
+JIF and citations based on data sharing:
+```{r}
+kable(opendata %>% 
+  group_by(is_open_data) %>% 
+  summarise(Median = round(median(jif2020.x, na.rm = T), 1),
+            IQR = round(IQR(jif2020.x, na.rm = T), 2)))
+kable(opendata %>% 
+  group_by(is_open_data) %>% 
+  summarise(Median = round(median(citedByCount, na.rm = T), 1),
+            IQR = round(IQR(citedByCount, na.rm = T), 2)))
+```
+
+Data was not normally distributed, hence we will use unpaired two-samples Wilcoxon test.
+```{r}
+wilcox.test(jif2020.x~is_open_data, data = opendata, exact = FALSE)
+wilcox.test(citedByCount~is_open_data, data = opendata, exact = FALSE)
+```
+
+JIF and citations based on code sharing:
+```{r}
+kable(opendata %>% 
+  group_by(is_open_code) %>% 
+  summarise(Median = round(median(jif2020.x, na.rm = T), 1),
+            IQR = round(IQR(jif2020.x, na.rm = T), 2)))
+kable(opendata %>% 
+  group_by(is_open_code) %>% 
+  summarise(Median = round(median(citedByCount, na.rm = T), 1),
+            IQR = round(IQR(citedByCount, na.rm = T), 2)))
+```
+
+Data was not normally distributed, hence we will use unpaired two-samples Wilcoxon test.
+```{r}
+wilcox.test(jif2020.x~is_open_code, data = opendata, exact = FALSE)
+wilcox.test(citedByCount~is_open_code, data = opendata, exact = FALSE)
+```
+
+## Transparency practices by study type
+
+```{r}
+opendata %>% 
+  select(studytype,is_coi_pred,is_fund_pred,is_register_pred,is_open_data,is_open_code) %>%
+  tbl_summary(by=studytype, percent="column",
+              label = c(is_coi_pred ~ "COI disclosure", is_fund_pred ~ "Funding disclosure", is_register_pred ~ "Protocol registration", is_open_data ~ "Data sharing", is_open_code ~ "Code sharing")) %>%
+  add_p() %>%
+        as_flex_table() 
+        
+```
+
+## Figures
+
+### Yearly trend
+Now, drawing yearly trend for each indicator:
+
+```{r}
+proportions <- opendata %>%
+        summarise("COI Disclosure" = sum(is_coi_pred == TRUE),
+                  "Funding disclosure" = sum(is_fund_pred == TRUE),
+                  "Protocol registration" = sum(is_register_pred == TRUE),
+                  "Data sharing" = sum(is_open_data == TRUE),
+                  "Code sharing" = sum(is_open_code == TRUE)) %>%
+        t() %>%
+        as.data.frame() %>%
+        rownames_to_column(var = "indicator") %>%
+        mutate(percentage = round(V1/nrow(opendata)*100, 1))
+
+```
+
+```{r}
+indicator_by_year <- 
+        opendata %>% 
+        select(pubYear_modified,
+               is_coi_pred,
+               is_fund_pred,
+               is_register_pred,
+               is_open_data,
+               is_open_code) %>%
+        gather("indicator", "value", -pubYear_modified) %>%
+        count(pubYear_modified, indicator, value) %>%
+        mutate(indicator = recode(indicator,
+                                  is_coi_pred = "COI Disclosure",
+                                  is_fund_pred = "Funding disclosure",
+                                  is_register_pred = "Protocol registration",
+                                  is_open_data = "Data sharing",
+                                  is_open_code = "Code sharing")) %>%
+        complete(indicator, value, pubYear_modified, fill = list(n = 0)) %>%
+        group_by(pubYear_modified, indicator) %>% 
+        mutate(p = n / sum(n)) %>%
+        filter(value) %>%
+        ungroup()
+```
+
+
+
+### Figure 1A
+```{r}
+p1 <-  proportions %>%
+  ggplot() +
+  aes(
+    x = reorder(indicator, V1),
+    y = V1,
+    fill = indicator
+    
+  ) +
+  geom_col() +
+
+  coord_flip() +
+  xlab(NULL) +
+  labs(title = "A",
+       y = "Number of articles (log10 scale)") +
+  theme_minimal() +
+  theme(legend.position = "none",
+        panel.grid.major.y = element_blank()) +
+  scale_y_log10() + 
+  scale_fill_manual(values = c("red", viridis::viridis(6)))
+
+
+```
+
+
+### Figure 1B
+
+Prepare to keep just the last datam that will allow to use the ggrepel to plot the label at the end
+
+```{r}
+data_ends <- indicator_by_year %>%
+        filter(pubYear_modified == 2021)
+```
+
+
+Relabel the factor, collapsing the < 2000 2000 and 2004 2005
+
+```{r}
+indicator_by_year <- indicator_by_year %>% 
+        mutate(pubYear_modified = forcats::fct_collapse(pubYear_modified, 
+                                              "<2005" = c("<2000",
+                                                          "2000-2004")) )  %>% 
+  mutate(pubYear_modified - fct_drop(pubYear_modified))
+
+```
+
+Modify the yellow from the original viridis - plasma palette
+```{r}
+plasma_pal <- c("blue", viridis::plasma(n = 5))
+
+plasma_pal
+```
+
+```{r}
+p2 <- indicator_by_year %>%
+  ggplot() +
+  aes(
+    x = pubYear_modified,
+    y = p,
+    group = indicator,
+    color = indicator
+  ) +
+  geom_line() + 
+  labs(title = "B",
+       y = "Proportion of articles (%, log10 scale)",
+       x = "Year") +
+
+
+   geom_text_repel(
+    aes(label = indicator),
+    data = data_ends,
+    nudge_x = 2,
+    size = 3
+  ) +
+
+
+ scale_y_log10() +
+  theme_minimal() +
+  theme(legend.position = "none") + 
+  scale_color_manual(values = c("red", viridis::viridis(6)))+
+         theme(axis.text.x = element_text(angle = 25))
+```
+
+
+### Fig 1A + 1B
+```{r}
+figure2 <- ggarrange(p1, p2,
+                    ncol = 2, nrow = 1, 
+                    align = "hv", common.legend = F)
+
+
+```
+
+```{r}
+ggsave(here("figure","Figure_1_alternate.tiff") , 
+            width = 25, height = 15, units = "cm", dpi = 700, compression = "lzw")
+```
+
+```{r}
+rm(p1, p2, data_ends, plasma_pal )
+```
+
+
+
+
+# Discussion
+Proportion of open access articles in Pubmed, done 1st April 2022
+
+```{r}
+db <- epmc_search(
+  query = 
+    '(SRC:"MED") 
+    AND (LANG:"eng" OR LANG:"en" OR LANG:"us") 
+    AND (FIRST_PDATE:[1900-01-01 TO 2021-12-31])
+    AND ((IN_EPMC:y) OR (OPEN_ACCESS:y))
+    AND (PUB_TYPE:"Journal Article" OR PUB_TYPE:"research-article" OR PUB_TYPE:"rapid-communication" OR PUB_TYPE:"product-review")',
+  limit = 10, output = "parsed"
+)
+pubmed_oa_hits = 6294710
+
+db <- epmc_search(
+  query = 
+    '(SRC:"MED") 
+    AND (LANG:"eng" OR LANG:"en" OR LANG:"us") 
+    AND (FIRST_PDATE:[1900-01-01 TO 2021-12-31])
+    AND (PUB_TYPE:"Journal Article" OR PUB_TYPE:"research-article" OR PUB_TYPE:"rapid-communication" OR PUB_TYPE:"product-review")',
+  limit = 10, output = "parsed"
+)
+pubmed_total_hits = 26506490
+round(pubmed_oa_hits/pubmed_total_hits,2)
+```
+Proportion articles adhered to COI dislosure (for comparison to COVID-19 research)
+```{r}
+opendata %>% select(is_coi_pred,pubYear_modified) %>% tbl_cross(percent="column")
+```
+
+
+# Supplementary figure
+
+```{r}
+indicator_by_year <- indicator_by_year %>% 
+        mutate(pubYear_modified = forcats::fct_collapse(pubYear_modified, 
+                                              "<2005" = c("< 2000",
+                                                          "2000 - 2004")) )  %>% 
+  mutate(pubYear_modified - fct_drop(pubYear_modified))
+```
+
+
+Number of articles by year
+```{r}
+by_year <-
+  opendata %>%
+  mutate(pubYear_modified = forcats::fct_collapse(pubYear_modified,
+                                                  "<2005" = c("< 2000",
+                                                              "2000 - 2004")))  %>%
+  mutate(pubYear_modified - fct_drop(pubYear_modified)) %>% 
+count(pubYear_modified) %>%
+  complete(pubYear_modified, fill = list(n = 0)) %>%
+  group_by(pubYear_modified) %>%
+  ungroup()
+
+sf1 <-
+       by_year %>% 
+        ggplot() +
+        aes(x = pubYear_modified, 
+            y = n) +
+        geom_col() +
+        labs(y = "Number of articles", 
+             x = "Year") +
+        theme(panel.grid.minor = element_blank(),
+              axis.text.x = element_text(angle = 45, vjust = 0.9, hjust=1)
+              ) + 
+  theme_minimal()
+sf1
+              
+```
+```{r}
+ggsave(here("figure", "Figure_sf1_alternate.tiff") , 
+            width = 9, height = 5, units = "in", dpi = 700,compression = "lzw")
+```
+
+
+Statistical significance tests over years
+```{r}
+fisher.test(opendata$is_coi_pred, opendata$pubYear_modified,simulate.p.value = T)
+fisher.test(opendata$is_fund_pred, opendata$pubYear_modified,simulate.p.value = T)
+fisher.test(opendata$is_register_pred, opendata$pubYear_modified,simulate.p.value = T)
+fisher.test(opendata$is_open_data, opendata$pubYear_modified,simulate.p.value = T)
+fisher.test(opendata$is_open_code, opendata$pubYear_modified,simulate.p.value = T)
+```
+
+# Validation
+
+Comparison of algorithm-based and manual study type categorization. Random sample of 100 articles.
+```{r}
+papertype_sample_valid <- read.csv2(here("data", "papertype_sample_valid.csv"))
+table(papertype_sample_valid$predicted,papertype_sample_valid$true)
+```
+
+
+Validation sample of transparency practice identification in 49 random articles. Data preparation.
+```{r}
+validation_data = read.csv(here("data","dental_transparency_article_sample.csv"))
+validation_data = validation_data  %>% mutate(true_coi =
+case_when( is_coi_pred ==FALSE & disc_coi ==TRUE ~ TRUE,
+is_coi_pred ==TRUE & disc_coi ==TRUE ~ FALSE,
+is_coi_pred ==TRUE & disc_coi ==FALSE ~ TRUE,
+is_coi_pred ==FALSE & disc_coi ==FALSE ~ FALSE))
+validation_data = validation_data  %>% mutate(true_fund = 
+case_when( is_fund_pred ==FALSE & disc_fund ==TRUE ~ TRUE,
+is_fund_pred ==TRUE & disc_fund ==TRUE ~ FALSE,
+is_fund_pred ==TRUE & disc_fund ==FALSE ~ TRUE,
+is_fund_pred ==FALSE & disc_fund ==FALSE ~ FALSE))
+validation_data = validation_data   %>% mutate(true_reg = 
+case_when( is_register_pred ==FALSE & disc_register ==TRUE ~ TRUE,
+is_register_pred ==TRUE & disc_register ==TRUE ~ FALSE,
+is_register_pred ==TRUE & disc_register ==FALSE ~ TRUE,
+is_register_pred ==FALSE & disc_register ==FALSE ~ FALSE))
+validation_data = validation_data  %>% mutate(true_data = 
+case_when( is_open_data ==FALSE & disc_data ==TRUE ~ TRUE,
+is_open_data ==TRUE & disc_data ==TRUE ~ FALSE,
+is_open_data ==TRUE & disc_data ==FALSE ~ TRUE,
+is_open_data ==FALSE & disc_data ==FALSE ~ FALSE))
+validation_data = validation_data   %>% mutate(true_code = 
+case_when( is_open_code ==FALSE & disc_code ==TRUE ~ TRUE,
+is_open_code ==TRUE & disc_code ==TRUE ~ FALSE,
+is_open_code ==TRUE & disc_code ==FALSE ~ TRUE,
+is_open_code ==FALSE & disc_code ==FALSE ~ FALSE))
+```
+
+Confusion matrix.
+```{r}
+validation_data %>% select(is_coi_pred,true_coi) %>% table()
+validation_data %>% select(is_fund_pred,true_fund) %>% table()
+validation_data %>% select(is_register_pred,true_reg) %>% table()
+validation_data %>% select(is_open_data,true_data) %>% table()
+validation_data %>% select(is_open_code,true_code) %>% table()
+```
+
+Calculation of specificity and sensitivity.
+```{r}
+validation_data %>% select(is_coi_pred,true_coi) %>% table() %>% sensitivity()
+validation_data %>% select(is_coi_pred,true_coi) %>% table() %>% specificity()
+validation_data %>% select(is_fund_pred,true_fund) %>% table() %>% sensitivity()
+validation_data %>% select(is_fund_pred,true_fund) %>% table() %>% specificity()
+validation_data %>% select(is_register_pred,true_reg) %>% table() %>% sensitivity()
+validation_data %>% select(is_register_pred,true_reg) %>% table() %>% specificity()
+validation_data %>% select(is_open_data,true_data) %>% table() %>% sensitivity()
+validation_data %>% select(is_open_data,true_data) %>% table() %>% specificity()
+validation_data %>% select(is_open_code,true_code) %>% table() %>% sensitivity()
+validation_data %>% select(is_open_code,true_code) %>% table() %>% specificity()
+```
+
+
+

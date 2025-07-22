@@ -1,0 +1,3313 @@
+1. Title Abbreviation: BMC Genom Data
+Title(s): BMC genomic data.
+Publication Start Year: 2021
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2730-6844(Electronic); 2730-6844(Linking)
+LCCN: 2021229575
+Electronic Links: https://bmcgenomdata.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101775394
+Fully Indexed In: MEDLINE: v22, 2021-
+In: PubMed: v22, 2021-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Databases, Genetic; Genomics*
+Publication Type(s): Periodical
+Other ID: (OCoLC)1237745239
+NLM ID: 101775394[Serial]
+
+2. Title Abbreviation: Cell Genom
+Title(s): Cell genomics.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [New York] : Elsevier, Inc., [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2666-979X(Electronic); 2666-979X(Linking)
+LCCN: 2022204302
+Electronic Links: https://www.sciencedirect.com/journal/cell-genomics, https://pmc.ncbi.nlm.nih.gov/journals/?term=9918284260106676
+Fully Indexed In: MEDLINE: v1n1, Oct. 2021-
+In: PubMed: v1n1, Oct. 2021-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Physiological Phenomena*; Genomics*
+Publication Type(s): Periodical
+Notes: Articles available as published and compiled in monthly volumes.
+Other ID: (OCoLC)1283924465
+NLM ID: 9918284260106676[Serial]
+
+3. Title Abbreviation: WIREs Mech Dis
+Title(s): WIREs mechanisms of disease.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: [Hoboken, NJ] : John Wiley & Sons, Inc., [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2692-9368(Electronic); 2692-9368(Linking)
+LCCN: 2020204465
+Electronic Links: https://wires.onlinelibrary.wiley.com/journal/26929368
+Fully Indexed In: MEDLINE: v13n1, Jan-Feb 2021-
+In: PubMed: v13n1, Jan-Feb 2021-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Disease*; Medicine; Systems Biology
+Publication Type(s): Periodical
+Other ID: (OCoLC)1164696052
+NLM ID: 9918227353306676[Serial]
+
+4. Author(s): American Society of Human Genetics,
+Title Abbreviation: HGG Adv
+Title(s): HGG advances.
+Publication Start Year: 2020
+Publication End Year: 
+Country of Publication: United States
+Publisher: New York : Elsevier Inc., [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2666-2477(Electronic); 2666-2477(Linking)
+LCCN: 2021229629
+Electronic Links: https://www.sciencedirect.com/journal/human-genetics-and-genomics-advances, https://pmc.ncbi.nlm.nih.gov/journals/?term=101772885
+Fully Indexed In: MEDLINE: v4n1, Jan. 2023-
+In: PubMed: v1n1, Oct. 2020-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetic Phenomena*; Genetic Research*; Genomics
+Publication Type(s): Periodical
+Other ID: (OCoLC)1229878626
+NLM ID: 101772885[Serial]
+
+5. Title Abbreviation: NAR Genom Bioinform
+Title(s): NAR genomics and bioinformatics.
+Publication Start Year: 2019
+Publication End Year: 
+Country of Publication: England
+Publisher: [Oxford] : Oxford University Press, [2019]-
+Description: 1 online resource.
+Language: English
+ISSN: 2631-9268(Electronic); 2631-9268(Linking)
+LCCN: 2020243123
+Electronic Links: https://academic.oup.com/nargab, https://pmc.ncbi.nlm.nih.gov/journals/?term=101756213
+Fully Indexed In: MEDLINE: v6n1, Mar. 2024-
+In: PubMed: v1n1, Apr. 2019-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology*; Genomics
+Publication Type(s): Periodical
+Notes: Complemented by (work): Nucleic acids research 0305-1048 (DLC) 74641038
+(OCoLC)1791693 (DNLM)0411011.
+Other ID: (OCoLC)1096486266
+NLM ID: 101756213[Serial]
+
+6. Title Abbreviation: Lifestyle Genom
+Title(s): Lifestyle genomics.
+Publication Start Year: 2018
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Switzerland
+Publisher: Basel : S. Karger AG, [2018]-
+Description: 1 online resource
+Language: English
+ISSN: 2504-3188(Electronic); 2504-3161(Print); 2504-3161(Linking)
+LCCN: 2018243312
+Electronic Links: https://www.karger.com/Journal/Home/232009
+Fully Indexed In: MEDLINE: v11n1, Oct. 2018-
+In: PubMed: v11n1, Oct. 2018-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genomics*; Health Behavior; Life Style
+Publication Type(s): Periodical
+Notes: Also issued in print.
+Other ID: (OCoLC)1019874964
+NLM ID: 101716139[Serial]
+
+7. Title Abbreviation: Biochim Biophys Acta Gene Regul Mech
+Title(s): Biochimica et biophysica acta. Gene regulatory mechanisms.
+Publication Start Year: 2017
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier,
+Language: English
+ISSN: 1876-4320(Electronic); 1874-9399(Print); 1874-9399(Linking)
+LCCN: 2008249023
+Electronic Links: http://www.sciencedirect.com/science/journal/18749399
+Fully Indexed In: MEDLINE: v1860n1, Jan. 2017-
+In: PubMed: v1860n1, Jan. 2017-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genes, Regulator*
+Publication Type(s): Periodical
+Notes: Biochimica et biophysica acta was published according to a volume numbering
+scheme that embraced all sections of the journal through 2016. In 2017, each
+journal section began with its own numbering scheme. Through 2016, all topical
+sections of Biochimica et biophysica acta share numbering: Bioenergetics;
+Biomembranes; Gene regulatory mechanisms (formerly Gene structure and
+expression); General subjects; Molecular and cell biology of lipids (formerly
+Lipids and lipid metabolism); Molecular basis of disease; Molecular cell
+research; Proteins and proteomics (formerly Protein structure and molecular
+enzymology); Biomembranes (formerly Reviews on biomembranes); and: Reviews on
+cancer.
+Other ID: (OCoLC)192075226
+NLM ID: 101731723[Serial]
+
+8. Title Abbreviation: Curr Protoc Plant Biol
+Title(s): Current protocols in plant biology.
+Publication Start Year: 2016
+Publication End Year: 2020
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons, Inc., [2016]-[2020]
+Description: 1 online resource
+Language: English
+ISSN: 2379-8068(Electronic); 2379-8068(Linking)
+LCCN: 2015202123
+Electronic Links: http://onlinelibrary.wiley.com/book/10.1002/9781119077367
+Fully Indexed In: MEDLINE: v2n1, 2017-v5n4, Dec. 2020
+In: PubMed: v2n1, 2017-v5n4, Dec. 2020 ; Selected citations only before this date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Botany; Plants*
+Publication Type(s): Laboratory ManualPeriodical
+Other ID: (OCoLC)911404011
+NLM ID: 101685882[Serial]
+
+9. Author(s): Society for General Microbiology,; Microbiology Society,
+Title Abbreviation: Microb Genom
+Title(s): Microbial genomics.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [London] : Society for General Microbiology, [2015]-
+Latest Publisher: Oct. 2015- : [London] : Microbiology Society
+Description: 1 online resource
+Language: English
+ISSN: 2057-5858(Electronic); 2057-5858(Linking)
+LCCN: 2015243491
+Electronic Links: http://mgen.microbiologyresearch.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101671820
+Fully Indexed In: MEDLINE: v2n1, Jan. 2016-
+In: PubMed: v1n1, July 2015-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genome, Microbial; Genomics*
+Publication Type(s): Periodical
+Notes: Numbering from contents page.
+Other ID: (OCoLC)915087449
+NLM ID: 101671820[Serial]
+
+10. Title Abbreviation: Nat Plants
+Title(s): Nature plants.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [London, UK] : Nature Publishing Group, a division of Macmillan Publishers
+Limited, [2015]-
+Description: 1 online resource
+Language: English
+ISSN: 2055-0278(Electronic); 2055-0278(Linking)
+LCCN: 2015251103
+Electronic Links: http://www.nature.com/nplants
+Fully Indexed In: MEDLINE: v2n1, Jan. 2016-
+In: PubMed: v2n1, Jan. 2016-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Plants*
+Publication Type(s): Periodical
+Other ID: (OCoLC)901004440
+NLM ID: 101651677[Serial]
+
+11. Title Abbreviation: Recent Adv DNA Gene Seq
+Title(s): Recent advances in DNA & gene sequences.
+Publication Start Year: 2014
+Publication End Year: 2015
+Frequency: Two no. a year
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science, [2014]-
+Language: English
+ISSN: 2352-0922(Print); 2352-0930(Electronic)
+LCCN: 2015243005
+Electronic Links: http://www.eurekaselect.com/node/123092
+Fully Indexed In: MEDLINE: v8n1, 2014-v9n1, 2015
+In: PubMed: v8n1, 2014-v9n1, 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Base Sequence*; Patents as Topic*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)899733789
+NLM ID: 101648465[Serial]
+
+12. Title Abbreviation: Annu Rev Anim Biosci
+Title(s): Annual review of animal biosciences.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, California : Annual Reviews, [2013]-
+Description: volumes
+Language: English
+ISSN: 2165-8102(Print); 2165-8110(Electronic); 2165-8102(Linking)
+LCCN: 2012201122, 2012955502
+Electronic Links: https://www.annualreviews.org/loi/animal
+Fully Indexed In: MEDLINE: v2, 2014-
+In: PubMed: v2, 2014-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animal Diseases; Animal Population Groups*; Genetic Phenomena; Veterinary Medicine
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)775335667
+NLM ID: 101614024[Serial]
+
+13. Title Abbreviation: Microbiome
+Title(s): Microbiome.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London: BioMed Central, 2013-
+Language: English
+ISSN: 2049-2618(Electronic); 2049-2618(Linking)
+LCCN: 2013254501
+Electronic Links: https://microbiomejournal.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101615147
+Fully Indexed In: MEDLINE: v3, 2015-
+In: PubMed: v1, 2013-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Microbiology*; Microbiological Phenomena*
+Publication Type(s): Periodical
+Notes: Mode of access: world Wide Web. Complemented by (work): Environmental microbiome 
+2524-6372 (OCoLC)1097250323 (DNLM)101768168.
+Other ID: (OCoLC)823519440
+NLM ID: 101615147[Serial]
+
+14. Title Abbreviation: Gigascience
+Title(s): GigaScience.
+Publication Start Year: 2012
+Publication End Year: 
+Country of Publication: United States
+Publisher: London : BioMed Central
+Latest Publisher: 2017- : New York : Oxford University Press
+Language: English
+ISSN: 2047-217X(Electronic); 2047-217X(Linking)
+LCCN: 2013243152
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101596872, https://academic.oup.com/gigascience
+Fully Indexed In: MEDLINE: v4, 2015-
+In: PubMed: v1, 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Information Storage and Retrieval; Medical Informatics*
+Publication Type(s): Periodical
+Notes: Articles added on an individual basis as accepted.
+Other ID: (OCoLC)803040739
+NLM ID: 101596872[Serial]
+
+15. Title Abbreviation: New Bioeth
+Title(s): The New bioethics : a multidisciplinary journal of biotechnology and the body.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Quarterly, 2019-
+Country of Publication: England
+Publisher: Leeds, UK : Maney Publishing, 2013-
+Latest Publisher: 2016- : Abingdon : Taylor & Francis
+Description: volumes ; 25 cm
+Language: English
+ISSN: 2050-2877(Print); 2050-2885(Electronic); 2050-2877(Linking)
+LCCN: 2013228081
+Electronic Links: http://www.tandfonline.com/loi/ynbi20
+Fully Indexed In: MEDLINE: v18n1, May 2012-
+In: PubMed: v18n1, May 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Bioethics; Index Medicus
+MeSH: Bioethical Issues; Genetic Phenomena; Reproduction*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)865786143
+NLM ID: 101627814[Serial]
+
+16. Title Abbreviation: Curr Protoc Mouse Biol
+Title(s): Current protocols in mouse biology.
+Publication Start Year: 2011
+Publication End Year: 2020
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons
+Language: English
+ISSN: 2161-2617(Electronic); 2161-2617(Linking)
+LCCN: 2011200658
+Electronic Links: http://onlinelibrary.wiley.com/book/10.1002/9780470942390
+Fully Indexed In: MEDLINE: v4n1, 2014-v10n4, Dec. 2020
+In: PubMed: v4n1, 2014-v10n4, Dec. 2020 ; selected citations only before this date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animals, Laboratory; Mice*; Research
+Other ID: (OCoLC)720033467
+NLM ID: 101560384[Serial]
+
+17. Author(s): Genetics Society of America.
+Title Abbreviation: G3 (Bethesda)
+Title(s): G3 : genes - genomes - genetics.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Bethesda, MD : Genetics Society of America, 2011-
+Latest Publisher: 2021- : [Oxford] : Oxford University Press
+Language: English
+ISSN: 2160-1836(Electronic); 2160-1836(Linking)
+LCCN: 2011200039
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101566598, https://academic.oup.com/g3journal
+Fully Indexed In: MEDLINE: v1, 2011-
+In: PubMed: v1, 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genes; Genetics*; Genomics
+Publication Type(s): Periodical
+Other ID: (OCoLC)704284671
+NLM ID: 101566598[Serial]
+
+18. Title Abbreviation: Brief Funct Genomics
+Title(s): Briefings in functional genomics.
+Publication Start Year: 2010
+Publication End Year: 
+Frequency: Six issues per year
+Country of Publication: England
+Publisher: Oxford : Oxford University Press
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 2041-2649(Print); 2041-2657(Electronic); 2041-2649(Linking)
+LCCN: 2010243299
+Electronic Links: https://academic.oup.com/bfg
+Fully Indexed In: MEDLINE: v9n1, Jan. 2010-
+In: PubMed: v9n1, Jan. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genome; Genomics*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 9, no. 1 (Jan. 2010); title from cover. Latest issue
+consulted: Vol. 9, no. 1 (Jan. 2010). Also issued online.
+Other ID: (OCoLC)526657992
+NLM ID: 101528229[Serial]
+
+19. Title Abbreviation: Mol Autism
+Title(s): Molecular autism.
+Publication Start Year: 2010
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central
+Language: English
+ISSN: 2040-2392(Electronic)
+LCCN: 2010247756
+Electronic Links: https://molecularautism.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101534222
+Fully Indexed In: MEDLINE: v7, 2016-
+In: PubMed: v1, 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Autistic Disorder*
+Publication Type(s): Periodical
+Other ID: (OCoLC)526673687
+NLM ID: 101534222[Serial]
+
+20. Title Abbreviation: Epigenomics
+Title(s): Epigenomics.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Sixteen issues a year, 2019-
+Country of Publication: England
+Publisher: London : Future Medicine, 2009-
+Latest Publisher: 2024- : [Milton Park, Oxfordshire] : Taylor & Francis
+Language: English
+ISSN: 1750-1911(Print); 1750-192X(Electronic); 1750-192X(Linking)
+LCCN: 2010243268
+Electronic Links: https://www.tandfonline.com/journals/iepi20, https://pmc.ncbi.nlm.nih.gov/journals/?term=101519720
+Fully Indexed In: MEDLINE: v1n1, Oct. 2009-
+In: PubMed: v1n1, Oct. 2009-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Epigenesis, Genetic*; Genomics
+Publication Type(s): PeriodicalReview
+Notes: Latest issue consulted: Vol. 2, no. 1 (Feb. 2010). Volume 1 complete with two
+issues. Also issued online.
+Other ID: (OCoLC)502260012
+NLM ID: 101519720[Serial]
+
+21. Author(s): Molecular Diversity Preservation International.
+Title Abbreviation: Genes (Basel)
+Title(s): Genes.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Basel : MDPI
+Language: English
+ISSN: 2073-4425(Electronic); 2073-4425(Linking)
+LCCN: 2011243179
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101551097, http://www.mdpi.com/journal/genes
+Fully Indexed In: MEDLINE: v10n1, Jan. 2019-
+In: PubMed: v1, 2010-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genes; Genetic Phenomena; Genomics*
+Publication Type(s): Periodical
+Notes: Title from journal home page (viewed Jan. 13, 2011). Some articles in v. 2010
+published electronically in 2009. Mode of access: World Wide Web.
+Other ID: (OCoLC)641194299
+NLM ID: 101551097[Serial]
+
+22. Title Abbreviation: Genet Test Mol Biomarkers
+Title(s): Genetic testing and molecular biomarkers.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Monthly, 2011-
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc.
+Description: v.
+Language: English
+ISSN: 1945-0265(Print); 1945-0257(Electronic); 1945-0257(Linking)
+LCCN: 2008212853
+Electronic Links: https://www.liebertpub.com/loi/gtmb
+Fully Indexed In: MEDLINE: v13n1, 2009-
+In: PubMed: v13n1, 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomarkers; Genetic Diseases, Inborn; Genetic Testing*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 13, no. 1 (Feb. 2009); title from cover. Latest issue 
+consulted: Vol. 13, no. 2 (Apr. 2009). Also issued online.
+Other ID: (OCoLC)244486920
+NLM ID: 101494210[Serial]
+
+23. Title Abbreviation: Epigenetics Chromatin
+Title(s): Epigenetics & chromatin.
+Publication Start Year: 2008
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central
+Language: English
+ISSN: 1756-8935(Electronic); 1756-8935(Linking)
+LCCN: 2008247801
+Electronic Links: https://epigeneticsandchromatin.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101471619
+Fully Indexed In: MEDLINE: v9, 2016-
+In: PubMed: v1, 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chromatin/genetics; Epigenesis, Genetic*
+Publication Type(s): Periodical
+Notes: Description based on: 1:1 (27 October 2008); title from journal home page
+(publisher's Web site, viewed Oct. 27, 2008).
+Other ID: (OCoLC)263688252
+NLM ID: 101471619[Serial]
+
+24. Author(s): Han'guk Yujŏn Hakhoe.
+Title Abbreviation: Genes Genomics
+Title(s): Genes & genomics.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Korea (South)
+Publisher: Seoul : The Korean Society of Genetics, 2008-
+Language: English
+ISSN: 1976-9571(Print); 2092-9293(Electronic); 1976-9571(Linking)
+LCCN: 2008243816
+Electronic Links: https://link.springer.com/journal/13258
+Fully Indexed In: MEDLINE: v40n1, Jan. 2018-
+In: PubMed: v40n1, Jan. 2018-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genes*; Genomics*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Print issues ceased with
+v.37, no. 12 (2015). Also issued online.
+Other ID: (OCoLC)245527620
+NLM ID: 101481027[Serial]
+
+25. Title Abbreviation: Genet Res (Camb)
+Title(s): Genetics research.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Cambridge ; New York : Cambridge University Press, c2008-
+Latest Publisher: 2024- : [Oxford, England] : John Wiley & Sons, Ltd.
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 0016-6723(Print); 1469-5073(Electronic); 0016-6723(Linking)
+LCCN: 2009254003
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101550220, https://www.cambridge.org/core/journals/genetics-research, https://onlinelibrary.wiley.com/journal/gr, https://preview.hindawi.com/journals/gr/
+Fully Indexed In: MEDLINE: v90n1,Feb. 2008-
+In: PubMed: v90n1,Feb. 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 90, issue 1 (Feb. 2008); title from cover. Latest
+issue consulted: Vol. 91, issue 2 (April 2009). Print issues ceased with v. 94
+(2012). Also issued online.
+Other ID: (OCoLC)239614039
+NLM ID: 101550220[Serial]
+
+26. Author(s): International Society of Nutrigenetics/Nutrigenomics.
+Title Abbreviation: J Nutrigenet Nutrigenomics
+Title(s): Journal of nutrigenetics and nutrigenomics.
+Publication Start Year: 2008
+Publication End Year: 2018
+Frequency: Six no. a year
+Country of Publication: Switzerland
+Publisher: Basel : Karger
+Language: English
+ISSN: 1661-6499(Print); 1661-6758(Electronic); 1661-6499(Linking)
+LCCN: 2008243496
+Electronic Links: http://www.karger.com/Journal/Home/232009
+Fully Indexed In: MEDLINE: v1n1-2, 2008-v10n5-6, 2018
+In: PubMed: v1n1-2, 2008-v10n5-6, 2018; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Nutrigenomics*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)228137038
+NLM ID: 101299758[Serial]
+
+27. Title Abbreviation: Mar Genomics
+Title(s): Marine genomics.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier, 2008-
+Language: English
+ISSN: 1874-7787(Print); 1876-7478(Electronic); 1874-7787(Linking)
+LCCN: 2008243992
+Electronic Links: http://www.sciencedirect.com/science/journal/18747787
+Fully Indexed In: MEDLINE: v4n1, Mar. 2011-
+In: PubMed: v4n1, Mar. 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genomics*; Marine Biology*
+Publication Type(s): Periodical
+Notes: Title from title page. Latest issue consulted: Vol. 1, issue 2 (June 2008). Also 
+issued online.
+Other ID: (OCoLC)267010731
+NLM ID: 101475200[Serial]
+
+28. Author(s): Crop Science Society of America.
+Title Abbreviation: Plant Genome
+Title(s): The plant genome.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Three times a year, 2008-
+Country of Publication: United States
+Publisher: Madison, WI : Crop Science Society of America
+Language: English
+ISSN: 1940-3372(Electronic); 1940-3372(Linking)
+LCCN: 2007213377
+Electronic Links: https://acsess.onlinelibrary.wiley.com/journal/19403372
+Fully Indexed In: MEDLINE: v9n1, Mar. 2016-
+In: PubMed: v9n1, Mar. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genome, Plant*
+Publication Type(s): Periodical
+Notes: Nov. 2006-Mar. 2008 issued as a supplement to: Crop science 0011-183X (DLC)
+64000886 (OCoLC)1565498 (DNLM)100955697.
+Other ID: (OCoLC)173686096
+NLM ID: 101273919[Serial]
+
+29. Author(s): International Society for Forensic Genetics.
+Title Abbreviation: Forensic Sci Int Genet
+Title(s): Forensic science international. Genetics.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Five no. a year, 2009-
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier
+Language: English
+ISSN: 1872-4973(Print); 1878-0326(Electronic); 1872-4973(Linking)
+LCCN: 2008209627
+Electronic Links: http://www.sciencedirect.com/science/journal/18724973
+Fully Indexed In: MEDLINE: v1n1, Mar. 2007-; PubMed: v1n1, Mar. 2007-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Forensic Genetics*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from title page. Latest issue consulted: 
+Vol. 1, issue 3/4 (Dec. 2007). Also issued online.
+Other ID: (OCoLC)228304159
+NLM ID: 101317016[Serial]
+
+30. Title Abbreviation: J Exp Zool A Ecol Genet Physiol
+Title(s): Journal of experimental zoology. Part A, Ecological genetics and physiology.
+Publication Start Year: 2007
+Publication End Year: 2017
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons, Inc.
+Description: v.
+Language: English
+ISSN: 1932-5223(Print); 1932-5231(Electronic); 1932-5223(Linking)
+LCCN: 2006214524
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-5231
+Fully Indexed In: MEDLINE: v307An1, Jan. 1, 2007-v325n10, Dec. 2016
+In: PubMed: v307An1, Jan. 1, 2007-v325n10, Dec. 2016; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animal Population Groups/physiology; Zoology*
+Publication Type(s): Periodical
+Notes: Sequentially numbered with Journal of experimental zoology. Part B, Molecular and
+developmental evolution. Also issued online.
+Other ID: (OCoLC)70638227
+NLM ID: 101297745[Serial]
+
+31. Author(s): Zhongguo yi chuan xue hui.; Zhongguo ke xue yuan.
+Title Abbreviation: J Genet Genomics
+Title(s): Journal of genetics and genomics = Yi chuan xue bao.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: China
+Publisher: Beijing : Orlando, FL : Science press ; Elsevier
+Language: English, Chinese, Chinese
+ISSN: 1673-8527(Print); 1673-8527(Linking)
+Electronic Links: http://www.sciencedirect.com/science/journal/16738527
+Fully Indexed In: MEDLINE: v34n1, Jan. 2007-; PubMed: v34n1, Jan. 2007-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*; Genomics
+Publication Type(s): Periodical
+Notes: Description based on vol. 34, no. 1; title from cover. Also issued online. In
+English; abstracts and table of contents also in Chinese. Sponsored by the
+Genetics Society of China; Institute of Genetics and Developmental Biology,
+Chinese Academy of Sciences.
+Other ID: (OCoLC)122572422
+NLM ID: 101304616[Serial]
+
+32. Title Abbreviation: Recent Pat DNA Gene Seq
+Title(s): Recent patents on DNA & gene sequences.
+Publication Start Year: 2007
+Publication End Year: 2013
+Frequency: Three no. a year
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U. A. E. : Bentham Science Publishers, 2007-
+Language: English
+ISSN: 1872-2156(Print); 2212-3431(Electronic); 1872-2156(Linking)
+LCCN: 2007243206
+Electronic Links: http://www.eurekaselect.com/651/journal/recent-patents-dna-amp-gene-sequences
+Fully Indexed In: MEDLINE: v1n1, Feb. 2007-v7n3, Dec. 2013
+In: PubMed: v1n1, Feb. 2007-v7n3, Dec. 2013; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Base Sequence*; Patents as Topic*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)73690005
+NLM ID: 101299745[Serial]
+
+33. Title Abbreviation: Comp Biochem Physiol Part D Genomics Proteomics
+Title(s): Comparative biochemistry and physiology. Part D, Genomics & proteomics.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier, 2006-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1744-117X(Print); 1878-0407(Electronic); 1744-117X(Linking)
+LCCN: 2006205930
+Electronic Links: http://www.sciencedirect.com/science/journal/1744117X
+Fully Indexed In: MEDLINE: v5n1, Mar. 2010-
+In: PubMed: v5n1, Mar. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genomics*; Proteomics
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 1D, no. 2 (June 2006). Also issued
+online.
+Other ID: (OCoLC)66144507
+NLM ID: 101270611[Serial]
+
+34. Author(s): Epigenetics Society.; DNA Methylation Society.
+Title Abbreviation: Epigenetics
+Title(s): Epigenetics.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: United States
+Publisher: Georgetown, Tex. : Landes Bioscience, c2006-
+Latest Publisher: 2015- : Philadelphia, PA : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1559-2294(Print); 1559-2308(Electronic); 1559-2294(Linking)
+LCCN: 2005215942
+Electronic Links: http://www.tandfonline.com/toc/kepi20/current, https://pmc.ncbi.nlm.nih.gov/journals/?term=101265293
+Fully Indexed In: MEDLINE: v1n1, Jan.-Feb. 2006-
+In: PubMed: v1n1, Jan.-Feb. 2006-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: DNA Methylation; Epigenesis, Genetic*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the DNA Methylation
+Society, Jan./Feb. 2006-May/Jun. 2006; of the Epigenetics Society, Jul./Aug.
+2006-
+Other ID: (OCoLC)62511425
+NLM ID: 101265293[Serial]
+
+35. Title Abbreviation: Genome Dyn
+Title(s): Genome dynamics.
+Publication Start Year: 2006
+Publication End Year: 2012
+Country of Publication: Switzerland
+Publisher: Basel ; New York : S. Karger , 2006-
+Description: v. : ill. ; 25 cm.
+Language: English
+ISSN: 1660-9263(Print); 1662-3797(Electronic); 1660-9263(Linking)
+LCCN: 2008243664
+Electronic Links: http://www.karger.com/BookSeries/Home/231528
+Fully Indexed In: MEDLINE: v1, 2006-v7, 2012; PubMed: v1, 2006-v7, 2012
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics; Genome*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)67555264
+NLM ID: 101319425[Serial]
+
+36. Author(s): British Society for Histocompatibility and Immunogenetics.
+Title Abbreviation: Int J Immunogenet
+Title(s): International journal of immunogenetics.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, UK : Blackwell Pub., c2005-
+Description: v.
+Language: English
+ISSN: 1744-3121(Print); 1744-313X(Electronic); 1744-3121(Linking)
+LCCN: 2005243193
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-313X
+Fully Indexed In: MEDLINE: v32n1, Feb. 2005-; PubMed: v32n1, Feb. 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Immunogenetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official journal of the British Society for
+Histocompatibility and Immunogenetics.
+Other ID: (OCoLC)57682036
+NLM ID: 101232337[Serial]
+
+37. Title Abbreviation: PLoS Genet
+Title(s): PLoS genetics.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: San Francisco, CA : Public Library of Science, c2005-
+Description: v. : ill.
+Language: English
+ISSN: 1553-7390(Print); 1553-7404(Electronic); 1553-7390(Linking)
+LCCN: 2004216451
+Electronic Links: https://journals.plos.org/plosgenetics/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101239074
+Fully Indexed In: MEDLINE: v1n1, July 2005-; PubMed: v1n1, July 2005-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.4, no.1 (2008). Also issued online.
+Other ID: (OCoLC)57175564
+NLM ID: 101239074[Serial]
+
+38. Author(s): Beijing ji yin zu yan jiu suo.; Zhongguo ke xue yuan.; Zhongguo yi chuan xue hui.
+Title Abbreviation: Genomics Proteomics Bioinformatics
+Title(s): Genomics, proteomics & bioinformatics.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Bimonthly, 2011-
+Country of Publication: England
+Publisher: Beijing, China : Science Press and Elsevier
+Latest Publisher: 2024- : [Oxford] : Oxford University Press on behalf of Beijing Institute of
+Genomics, Chinese Academy of Sciences and China National Center for
+Bioinformation and Genetics Society of China
+Description: v. : ill. ; 29 cm.
+Language: English
+ISSN: 1672-0229(Print); 2210-3244(Electronic); 1672-0229(Linking)
+LCCN: 2004243786
+Electronic Links: https://academic.oup.com/gpb/, http://www.sciencedirect.com/science/journal/16720229, https://pmc.ncbi.nlm.nih.gov/journals/?term=101197608
+Fully Indexed In: MEDLINE: v1n1, Feb. 2003-; Index medicus
+In: PubMed: v1n1, Feb. 2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Computational Biology; Genomics*; Proteomics
+Publication Type(s): Periodical
+Notes: Issues for Mar. 2010- also called: GPB. Description based on: Vol. 1, no. 3 (Aug.
+2003); title from cover. Also issued online.
+Other ID: (OCoLC)56080394
+NLM ID: 101197608[Serial]
+
+39. Title Abbreviation: Hum Genomics
+Title(s): Human genomics.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Quarterly, 2008-
+Country of Publication: England
+Publisher: London : Henry Stewart Publications, c2003-
+Latest Publisher: 2012- : London : BioMed Central
+Description: v. : ill.
+Language: English
+ISSN: 1473-9542(Print); 1479-7364(Electronic); 1473-9542(Linking)
+LCCN: 2004243322
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101202210, https://humgenomics.biomedcentral.com/
+Fully Indexed In: MEDLINE: v1n1, Nov. 2003-; Index medicus
+In: PubMed: v1n1, Nov. 2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetic Research; Genomics*; Pharmacogenetics
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 1, no. 6 (Nov. 2004). Also issued
+online.
+Other ID: (OCoLC)55056357
+NLM ID: 101202210[Serial]
+
+40. Title Abbreviation: Brief Funct Genomic Proteomic
+Title(s): Briefings in functional genomics & proteomics.
+Publication Start Year: 2002
+Publication End Year: 2009
+Frequency: Six no. a year, 2008-
+Country of Publication: England
+Publisher: London : Henry Stewart Publications, [2002-
+Latest Publisher: Oxford : Oxford University Press
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1473-9550(Print); 1477-4062(Electronic); 1473-9550(Linking)
+LCCN: 2002243504
+Electronic Links: https://academic.oup.com/bfg
+Fully Indexed In: MEDLINE: v1n1, Feb. 2002-v8n6, Nov. 2009; PubMed: v1n1, Feb. 2002-v8n6, Nov. 2009; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genome*; Genomics; Proteome*; Proteomics; Research
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)49990043
+NLM ID: 101150306[Serial]
+
+41. Title Abbreviation: Cytogenet Genome Res
+Title(s): Cytogenetic and genome research.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Sixteen no. a year
+Country of Publication: Switzerland
+Publisher: Basel ; New York : S. Karger, c2002-
+Description: v. : col. ill. ; 28 cm.
+Language: English
+ISSN: 1424-8581(Print); 1424-859X(Electronic); 1424-8581(Linking)
+LCCN: 2002260266
+Electronic Links: http://www.karger.com/Journal/Home/224037
+Fully Indexed In: MEDLINE: v96n1-4, 2002-; PubMed: v96n1-4, 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cytogenetics*; Genomics
+Publication Type(s): Periodical
+Notes: Title from cover. Each vol. consists of 4 numbers; 4 vols. per year. Also
+available online.
+Other ID: (OCoLC)50698625
+NLM ID: 101142708[Serial]
+
+42. Author(s): International Behavioural and Neural Genetics Society.
+Title Abbreviation: Genes Brain Behav
+Title(s): Genes, brain, and behavior.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Eight no. a year, 2005-
+Country of Publication: England
+Publisher: Oxford : Munksgaard, c2002-
+Description: v. : ill.
+Language: English
+ISSN: 1601-1848(Print); 1601-183X(Electronic); 1601-183X(Linking)
+LCCN: 2002243177
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1601-183X, https://pmc.ncbi.nlm.nih.gov/journals/?term=101129617
+Fully Indexed In: MEDLINE: v1n1,Jan. 2002-; PubMed: v1n1,Jan. 2002-; Index medicus
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics, Behavioral*; Mental Disorders/genetics; Nervous System Diseases/genetics
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2013. Also issued online. Official
+publication of the International Behavioural and Neural Genetics Society.
+Other ID: (OCoLC)49524930
+NLM ID: 101129617[Serial]
+
+43. Author(s): Fundação de Pesquisas Científicas de Ribeirão Preto.
+Title Abbreviation: Genet Mol Res
+Title(s): Genetics and molecular research : GMR.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Brazil
+Publisher: [Ribeirao Preto, SP Brazil] : FUNPEC, 2002-
+Language: English
+ISSN: 1676-5680(Electronic); 1676-5680(Linking)
+Coden: GGMRBI
+LCCN: 2003220031
+Electronic Links: https://www.geneticsmr.com/browse/journal-archive
+Fully Indexed In: MEDLINE: v1n1, 2002-v16n3 2017; Index medicus
+In: PubMed: v1n1, 2002-v16n3 2017; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Evolution, Molecular; Genetics*; Molecular Biology
+Publication Type(s): Periodical
+Notes: Title from title screen (viewed June 13, 2002). Latest issue consulted: 2, 1
+(2003) (viewed Feb. 20, 2003). Articles are added to the current issue as soon as
+they are accepted. Electronic journal available in HTML and PDF file formats.
+Also issued online. System requirements: Adobe Acrobat reader. Mode of access:
+World Wide Web.
+Other ID: (OCoLC)49991921
+NLM ID: 101169387[Serial]
+
+44. Author(s): CSIRO (Australia); Australian Academy of Science.
+Title Abbreviation: Invertebr Syst
+Title(s): Invertebrate systematics.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Monthly, 2022-
+Country of Publication: Australia
+Publisher: Collingwood, Vic., Australia : CSIRO Pub. in cooperation with Commonwealth
+Scientific and Industrial Research Organisation and Australian Academy of
+Science, 2002-
+Description: 1 online resource
+Language: English
+ISSN: 1447-2600(Electronic); 1445-5226(Print); 1445-5226(Linking)
+LCCN: 2002233118
+Electronic Links: https://www.publish.csiro.au/is
+Fully Indexed In: MEDLINE: v38n1, Jan. 2024-
+In: PubMed: v38n1, Jan. 2024-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Invertebrates/classification*
+Publication Type(s): Periodical
+Notes: Also issued in print.
+Other ID: (OCoLC)50150601
+NLM ID: 101136361[Serial]
+
+45. Title Abbreviation: Stat Appl Genet Mol Biol
+Title(s): Statistical applications in genetics and molecular biology.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: Berkeley, CA : Bepress, 2002-
+Latest Publisher: <2012-> : Berlin : Walter de Gruyter
+Language: English
+ISSN: 1544-6115(Electronic); 2194-6302(Print); 1544-6115(Linking)
+LCCN: 2003212268
+Electronic Links: http://www.degruyter.com/view/j/sagmb?recentIssue=true
+Fully Indexed In: MEDLINE: v5n1, 2006-
+In: PubMed: v5n1, 2006-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*; Molecular Biology; Statistics as Topic
+Publication Type(s): Periodical
+Notes: Title from cover p. (viewed Apr. 23, 2003). Latest issue consulted: Vol. 2, issue
+1 (2003). Articles added consecutively to current annual v. Electronic journal in
+HTML format. Also issued in print. Mode of access: Internet.
+Other ID: (OCoLC)52157137
+NLM ID: 101176023[Serial]
+
+46. Title Abbreviation: Cloning Stem Cells
+Title(s): Cloning and stem cells.
+Publication Start Year: 2001
+Publication End Year: 2009
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., c2001-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1536-2302(Print); 1557-7457(Electronic); 1536-2302(Linking)
+LCCN: 2001211763
+Electronic Links: http://www.liebertonline.com/clo
+Fully Indexed In: MEDLINE: v3n3, 2001-v11n4, 2009; PubMed: v3n3, 2001-v11n4, 2009; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology; Cloning, Molecular; Cloning, Organism*; Genetic Techniques; Stem Cells
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 11, no. 4 (2009). Also issued
+online.
+Other ID: (OCoLC)47644130
+NLM ID: 101125444[Serial]
+
+47. Author(s): Haines,Jonathan L,1957-
+Title Abbreviation: Curr Protoc Hum Genet
+Title(s): Current protocols in human genetics/ editorial board, Jonathan L. Haines ... [et 
+al.].
+Publication Start Year: 2001
+Publication End Year: 2020
+Frequency: Updated every three months
+Country of Publication: United States
+Publisher: New York : John Wiley, 2001-2020.
+Language: English
+ISSN: 1934-8258(Electronic); 1934-8266(Print); 1934-8258(Linking)
+LCCN: 2008215481
+Electronic Links: http://onlinelibrary.wiley.com/book/10.1002/0471142905
+Fully Indexed In: MEDLINE: 2001-v108n1, Dec. 2020; PubMed: 2001-v108n1, Dec. 2020
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetic Techniques*
+Notes: Title from home page (viewed May 27, 2007). Kept up to date by supplements.
+Includes bibliographical references. Also issued in print and CD-ROM formats.
+Other ID: (OCoLC)48262539
+NLM ID: 101287858[Electronic Resource]
+
+48. Author(s): International Conference on Genome Informatics.; Japanese Society for
+Bioinformatics.
+Title Abbreviation: Genome Inform
+Title(s): Genome informatics.
+Publication Start Year: 2001
+Publication End Year: 2011
+Frequency: Two no. a year, 2004-
+Country of Publication: Japan
+Publisher: Tokyo : Universal Academy Press, c2001-
+Description: v. : ill.
+Language: English
+ISSN: 0919-9454(Print); 0919-9454(Linking)
+LCCN: 2007249000
+Electronic Links: http://www.jsbi.org/en/journal1/
+Fully Indexed In: MEDLINE: n12, 2001-n14, 2003; v15n1, 2004-v25n1, 2011; Index medicus
+In: PubMed: n12, 2001-n14, 2003; v15n1, 2004-v25n1, 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genomics*
+Publication Type(s): CongressPeriodical
+Notes: Latest issue consulted: Vol. 16, no. 2 (2005). Also issued online. Issued by:
+Japanese Society for Bioinformatics.
+Other ID: (OCoLC)77523432
+NLM ID: 101280573[Serial]
+
+49. Title Abbreviation: Infect Genet Evol
+Title(s): Infection, genetics and evolution : journal of molecular epidemiology and
+evolutionary genetics in infectious diseases.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Eight no. a year, 2010-
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier Science, c2001-
+Description: v. : ill.
+Language: English
+ISSN: 1567-1348(Print); 1567-7257(Electronic); 1567-1348(Linking)
+LCCN: 2001243317
+Electronic Links: http://www.sciencedirect.com/science/journal/15671348
+Fully Indexed In: MEDLINE: v1n1,July 2001-; PubMed: v1n1,July 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communicable Diseases/epidemiology*Communicable Diseases/genetics; Evolution, Molecular; Molecular Epidemiology
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)48132747
+NLM ID: 101084138[Serial]
+
+50. Title Abbreviation: Mol Genet Genomics
+Title(s): Molecular genetics and genomics : MGG.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Berlin : Springer-Verlag, c2001-
+Description: v. : ill.
+Language: English
+ISSN: 1617-4615(Print); 1617-4623(Electronic); 1617-4623(Linking)
+Electronic Links: https://link.springer.com/journal/438
+Fully Indexed In: MEDLINE: v265n1, Mar. 2001-; PubMed: v265n1, Mar. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genomics; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online.
+Other ID: (OCoLC)46767139
+NLM ID: 101093320[Serial]
+
+51. Title Abbreviation: Annu Rev Genomics Hum Genet
+Title(s): Annual review of genomics and human genetics.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, CA : Annual Reviews, c2000-
+Description: v. : ill. ; 24 cm.
+Language: English
+ISSN: 1527-8204(Print); 1545-293X(Electronic); 1527-8204(Linking)
+Coden: ARGHC4
+LCCN: sn 99009629
+Electronic Links: http://www.annualreviews.org/loi/genom
+Fully Indexed In: MEDLINE: v1, 2000-; PubMed: v1, 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chromosome Mapping; Genetics, Medical; Genome*
+Notes: Also issued online.
+Other ID: (OCoLC)43033948
+NLM ID: 100911346[Serial]
+
+52. Title Abbreviation: BMC Genomics
+Title(s): BMC genomics.
+Publication Start Year: 2000
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2000-
+Language: English
+ISSN: 1471-2164(Electronic); 1471-2164(Linking)
+LCCN: 2002243071
+Electronic Links: https://bmcgenomics.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=100965258
+Fully Indexed In: MEDLINE: v1n1, 2000-; Index medicus
+In: PubMed: v1, 2000-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Base Sequence; Chromosome Mapping; Genetic Techniques; Genomics*; Sequence Analysis, DNA
+Publication Type(s): Periodical
+Notes: Title from BioMed Central archive volume screen (viewed on Feb. 14, 2002).
+Articles added consecutively to the current annual v. Text (electronic journal)
+available in PDF and HTML format. System requirements: Internet connectivity and 
+World Wide Web browser. Mode of access: Internet.
+Other ID: (OCoLC)45259143
+NLM ID: 100965258[Serial]
+
+53. Title Abbreviation: Funct Integr Genomics
+Title(s): Functional & integrative genomics.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Berlin : Springer, c2000-
+Description: v. : ill.
+Language: English
+ISSN: 1438-793X(Print); 1438-7948(Electronic); 1438-793X(Linking)
+Coden: FIGUBY
+LCCN: 00253095
+Electronic Links: https://link.springer.com/journal/10142
+Fully Indexed In: MEDLINE: v1n1, May 2000-; PubMed: v1n1, May 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chromosome Mapping; Genetic Techniques; Genome*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 14 (2014). Also issued online.
+Other ID: (OCoLC)44272173
+NLM ID: 100939343[Serial]
+
+54. Title Abbreviation: Genome Biol
+Title(s): Genome biology.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London : Genome Biology Ltd., c2000-
+Latest Publisher: London, UK : BioMed Central Ltd
+Description: v. : ill.
+Language: English
+ISSN: 1474-7596(Print); 1474-760X(Electronic); 1474-7596(Linking)
+LCCN: 00243520
+Electronic Links: https://genomebiology.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=100960660
+Fully Indexed In: MEDLINE: v1n1, 2000-; Index medicus
+In: PubMed: v1n1, 2000-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Genetics; Genome
+Publication Type(s): Periodical
+Notes: Issues for 2000-vol. 2, no no. 2 (2001) have title: Genomebiology.com. Title from
+cover. Print issues ceased with v. 7:suppl.1 (2007). Also issued online.
+Other ID: (OCoLC)45320094
+NLM ID: 100960660[Serial]
+
+55. Title Abbreviation: J Struct Funct Genomics
+Title(s): Journal of structural and functional genomics.
+Publication Start Year: 2000
+Publication End Year: 2016
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Dordrecht ; Boston : Kluwer Academic Publishers, c2001-2016
+Description: v. : ill.
+Language: English
+ISSN: 1345-711X(Print); 1570-0267(Electronic); 1345-711X(Linking)
+Coden: JSFGAW
+LCCN: 2001243413
+Electronic Links: https://link.springer.com/journal/10969
+Fully Indexed In: MEDLINE: v1n1, 2000-v17n4, Dec. 2016; PubMed: v1n1, 2000-v17n4, Dec. 2016; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genes; Genomics*; Molecular Biology
+Publication Type(s): Periodical
+Notes: The papers published in v. 1, no. 1 were first published online in 2000 and
+should be cited as v. 1, no. 1 (2000) and not as 2001 as has been incorrectly
+printed in the print copy issue, per erratum from Publisher, Aug. 2001. Vol. 1
+complete in one issue. Vol. 2, no. 4 (2002) never published. Also issued online.
+Other ID: (OCoLC)48510229
+NLM ID: 101128185[Serial]
+
+56. Title Abbreviation: Nat Rev Genet
+Title(s): Nature reviews. Genetics.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, UK : Nature Pub. Group, [2000-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1471-0056(Print); 1471-0064(Electronic); 1471-0056(Linking)
+Coden: NRGAAM
+LCCN: 2001229989
+Electronic Links: http://www.nature.com/nrg/
+Fully Indexed In: MEDLINE: v1n1, Oct. 2000-; PubMed: v1n1, Oct. 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Available also by subscription via the World Wide Web.
+Other ID: (OCoLC)45426000
+NLM ID: 100962779[Serial]
+
+57. Title Abbreviation: Rev Immunogenet
+Title(s): Reviews in immunogenetics.
+Publication Start Year: 1999
+Publication End Year: 2000
+Frequency: Quarterly
+Country of Publication: Denmark
+Publisher: Copenhagen : Munksgaard, c1999-
+Description: v. : ill.
+Language: English
+ISSN: 1398-1714(Print); 1398-1714(Linking)
+Coden: RVIMF9
+LCCN: 00-243064
+Fully Indexed In: MEDLINE: v1n1, 1999-v2n4, 2000; PubMed: v1n1, 1999-v2n4, 2000; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Immunogenetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Three issues published in 1999. Table of contents also
+available online.
+Other ID: (OCoLC)43523917
+NLM ID: 100883703[Serial]
+
+58. Author(s): European Bioethical Research.
+Title Abbreviation: Hum Reprod Genet Ethics
+Title(s): Human reproduction and genetic ethics.
+Publication Start Year: 1998
+Publication End Year: 2011
+Frequency: Two no. a year
+Country of Publication: England
+Publisher: Edinburgh, Scotland : European Bioethical Research
+Latest Publisher: <2010>-Nov. 2011 : South Yorkshire : Equinox Publishing Ltd.
+Description: v. : ill.
+Language: English
+ISSN: 1028-7825(Print); 2043-0469(Electronic); 1028-7825(Linking)
+LCCN: sn98-53321
+Fully Indexed In: MEDLINE: v4n1, 1998-v17n2, Nov. 2011
+In: PubMed: v4n1, 1998-v17n2, Nov. 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bioethics; Genetics; Reproduction*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0093247(s)(OCoLC)40178382
+NLM ID: 9815992[Serial]
+
+59. Author(s): International Society for Twin Studies.
+Title Abbreviation: Twin Res
+Title(s): Twin research : the official journal of the International Society for Twin
+Studies.
+Publication Start Year: 1998
+Publication End Year: 2004
+Frequency: Bimonthly, 2001-
+Country of Publication: Australia
+Publisher: Houndsmills, Basingstoke, Hampshire, UK : Stockton, c1998-c2004.
+Latest Publisher: <2001->: Bowen Hills, Qld. : Australian Academic Press
+Description: 7 v.
+Language: English
+ISSN: 1369-0523(Print); 1369-0523(Linking)
+LCCN: sn 99040999
+Electronic Links: https://www.cambridge.org/core/journals/twin-research-and-human-genetics/all-issues
+Fully Indexed In: MEDLINE: v1n1,May 1998-v7n6, Dec. 2004; PubMed: v1n1,May 1998-v7n6, Dec. 2004; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Multiple Birth Offspring; Twins*
+Publication Type(s): PeriodicalTwin Study
+Notes: Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0093290(s)(OCoLC)39318242
+NLM ID: 9815819[Serial]
+
+60. Title Abbreviation: Genet Test
+Title(s): Genetic testing.
+Publication Start Year: 1997
+Publication End Year: 2008
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., c1997-
+Description: v. : ill.
+Language: English
+ISSN: 1090-6576(Print); 1557-7473(Electronic); 1090-6576(Linking)
+LCCN: sn96-2475
+Electronic Links: http://www.liebertonline.com/gte
+Fully Indexed In: MEDLINE: v1n1, summer 1997-v12n4, Dec. 2008; PubMed: v1n1, summer 1997-v12n4, Dec. 2008; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetic Counseling; Genetic Diseases, Inborn/diagnosis; Genetic Techniques; Genetic Testing
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0089844(s)(OCoLC)35396685
+NLM ID: 9802546[Serial]
+
+61. Title Abbreviation: Mutat Res Genet Toxicol Environ Mutagen
+Title(s): Mutation research. Genetic toxicology and environmental mutagenesis.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Semimonthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier, 1997-
+Description: v. : ill. ; 27 cm.
+Language: English
+ISSN: 1383-5718(Print); 1879-3592(Electronic); 1383-5718(Linking)
+Coden: MRGMFI
+LCCN: 2007212060
+Electronic Links: https://www.sciencedirect.com/journal/mutation-research-genetic-toxicology-and-environmental-mutagenesis
+Fully Indexed In: MEDLINE: v759, Jan. 1 2014-
+In: PubMed: v759, Jan. 1 2014-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Environmental Monitoring; Mutagenesis*; Toxicogenetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Published: Oxford, England, Dec. 2006- ; Amsterdam <2009-> Vol.
+numbering was part of a sequence which included all sections of the journal with 
+the common title: Mutation research. Beginning with 2012 each section has its own
+numbering. Also issued online.
+Other ID: (OCoLC)36846384
+NLM ID: 101632149[Serial]
+
+62. Title Abbreviation: Mutat Res Rev Mutat Res
+Title(s): Mutation research. Reviews in mutation research.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science B.V., c1997-
+Description: v. : ill. ; 26 cm.
+Language: English
+ISSN: 1383-5742(Print); 1388-2139(Electronic); 1383-5742(Linking)
+Coden: MRRRFK
+Electronic Links: http://www.sciencedirect.com/science/journal/13835742
+Fully Indexed In: MEDLINE: v759, Jan.-Mar. 2014-
+In: PubMed: v759, Jan.-Mar. 2014-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genome, Human; Mutation*
+Publication Type(s): Periodical
+Notes: Vol. numbering was part of a sequence which included all sections of the journal 
+with the common title: Mutation research. Beginning with 2012 each section has
+its own numbering. Also issued online.
+Other ID: (OCoLC)36932473
+NLM ID: 101632211[Serial]
+
+63. Title Abbreviation: Neurogenetics
+Title(s): Neurogenetics.
+Publication Start Year: 1997
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Oxford, UK : Oxford University Press, c1997-
+Latest Publisher: <2002->: [New York, N.Y.?] : Springer-Verlag
+Description: v.
+Language: English
+ISSN: 1364-6745(Print); 1364-6753(Electronic); 1364-6745(Linking)
+LCCN: sn97-40174
+Electronic Links: https://link.springer.com/journal/10048
+Fully Indexed In: MEDLINE: v1n1, May 1997-; PubMed: v1n1, May 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nervous System Diseases/genetics; Nervous System Physiological Phenomena
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also available online
+Other ID: (DNLM)SR0089351(s)(OCoLC)37360267
+NLM ID: 9709714[Serial]
+
+64. Title Abbreviation: Fungal Genet Biol
+Title(s): Fungal genetics and biology : FG & B.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Twelve no. a year, 2004-
+Country of Publication: United States
+Publisher: Orlando, FL : Academic Press, c1996-
+Description: v. : ill.
+Language: English
+ISSN: 1087-1845(Print); 1096-0937(Electronic); 1087-1845(Linking)
+Coden: FGBIFV
+Electronic Links: http://www.sciencedirect.com/science/journal/10871845
+Fully Indexed In: MEDLINE: v20n1,Mar. 1996-; PubMed: v20n1,Mar. 1996-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology*; Fungi/genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0088223(s)(OCoLC)34233326
+NLM ID: 9607601[Serial]
+
+65. Author(s): European Bioethical Research.
+Title Abbreviation: Eur J Genet Soc
+Title(s): European journal of genetics in society : an ethical approach to genetics.
+Publication Start Year: 1995
+Publication End Year: 1997
+Frequency: Two no. a year
+Country of Publication: Scotland
+Publisher: Edinburgh, Scotland : European Bioethical Research, [1995-1997]
+Description: 3 v.
+Language: English
+ISSN: 1023-9022(Print); 1023-9022(Linking)
+Selectively Indexed in: MEDLINEv1n1, 1999-v3n2,1997PubMedv1n1, 1999-v3n2,1997
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to bioethics were indexed.
+MeSH: Ethics; Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0085154(s)(OCoLC)34166640
+NLM ID: 9517856[Serial]
+
+66. Title Abbreviation: Genome Res
+Title(s): Genome research.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Cold Spring Harbor, N.Y. : Cold Spring Harbor Laboratory Press, c1995-
+Description: v. : ill.
+Language: English
+ISSN: 1088-9051(Print); 1549-5469(Electronic); 1088-9051(Linking)
+Coden: GEREFS
+LCCN: sn 95029259
+Electronic Links: https://genome.cshlp.org, https://pmc.ncbi.nlm.nih.gov/journals/?term=9518021
+Fully Indexed In: MEDLINE: v5n1,Aug. 1995-; Index medicus
+In: PubMed: v5n1,Aug. 1995-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genomics*
+Publication Type(s): Periodical
+Notes: Vol. 5, 1995 complete in 5 issues. Also issued online.
+Other ID: (DNLM)SR0084535(s)(OCoLC)33123409
+NLM ID: 9518021[Serial]
+
+67. Title Abbreviation: Genome Sci Technol
+Title(s): Genome science & technology.
+Publication Start Year: 1995
+Publication End Year: 1996
+Frequency: Semiannual
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., c1995-c1996.
+Description: 1 v. : ill.
+Language: English
+ISSN: 1070-2830(Print); 1070-2830(Linking)
+Coden: GSTEFY
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to bioethics were indexed.
+MeSH: Genetic Techniques*; Genome*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0078402(s)(OCoLC)28317228
+NLM ID: 9516721[Serial]
+
+68. Author(s): Instytut Genetyki Roślin PAN.
+Title Abbreviation: J Appl Genet
+Title(s): Journal of applied genetics.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Four no. a year
+Country of Publication: England
+Publisher: Poznań, Poland : Institute of Plant Genetics, Polish Academy of Sciences, 1995-
+Latest Publisher: 2011- : Cheshire, United Kingdom : Springer
+Description: v. : ill.
+Language: English
+ISSN: 1234-1983(Print); 2190-3883(Electronic); 1234-1983(Linking)
+Coden: JAGEFC
+LCCN: sn 95026522
+Electronic Links: https://link.springer.com/journal/13353
+Fully Indexed In: MEDLINE: v43n1, 2002-; Index medicus
+In: PubMed: v43n1, 2002-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Breeding*; Genetics*; Plants/genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0085240(s)(OCoLC)32934191
+NLM ID: 9514582[Serial]
+
+69. Author(s): Kazusa Dī Enu Ē Kenkyūjo.
+Title Abbreviation: DNA Res
+Title(s): DNA research : an international journal for rapid publication of reports on genes
+and genomes.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: England
+Publisher: Tokyo, Japan : Kazusa DNA Research Institute ; Universal Academy Press [1994-
+Latest Publisher: 2006- : Oxford : Oxford University Press
+Description: v. : ill.
+Language: English
+ISSN: 1340-2838(Print); 1756-1663(Electronic); 1340-2838(Linking)
+Coden: DARSE8
+LCCN: sn 94038370
+Electronic Links: https://academic.oup.com/dnaresearch, https://pmc.ncbi.nlm.nih.gov/journals/?term=9423827
+Fully Indexed In: MEDLINE: v1n1, 1994-; Index medicus
+In: PubMed: v1n1, 1994-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genes; Genome; Sequence Analysis, DNA
+Publication Type(s): Periodical
+Notes: Title from cover. Imprint varies. Also issued online.
+Other ID: (DNLM)SR0080606(s)(OCoLC)30467755
+NLM ID: 9423827[Serial]
+
+70. Author(s): Cátedra Interuniversitaria Fundación BBVA-Diputación Foral de Bizkaia de
+Derecho y Genoma Humano; Universidad de Deusto. Cátedra de Derecho y Genoma
+Humano.; Fundación Banco Bilbao Vizcaya.; Vizcaya (Spain). Diputación Foral.;
+Universidad del País Vasco.
+Title Abbreviation: Rev Derecho Genoma Hum
+Title(s): Revista de derecho y genoma humano = Law and the human genome review/ Cátedra de
+Derecho y Genoma Humano/Fundación BBV-Diputación Foral de Bizkaia.
+Publication Start Year: 1994
+Publication End Year: 
+Country of Publication: Spain
+Publisher: Bilbao : Universidad de Deusto, 1994-
+Latest Publisher: 2017-: Madrid : Dykinson, S. L.
+Description: v. ; 22 cm.
+Language: Spanish, English
+ISSN: 1134-7198(Print); 1134-7198(Linking)
+LCCN: 95655682
+Electronic Links: http://www.catedraderechoygenomahumano.es/revista.asp, https://www.dykinson.com/revistas/revista-de-derecho-y-genoma-humano-genetica-biotecnologia-y-medicina-avanzada/
+Fully Indexed In: MEDLINE: n8,Jan.-June 1998-Jn43, July-Dec. 2015; Index medicus
+In: PubMed: n8,Jan.-June 1998-n43, July-Dec. 2015; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bioethics; Genetic Engineering; Genetics, Medical; Genome, Human*
+Publication Type(s): LegislationPeriodical
+Notes: Issues from 2017- have Spanish subtitle: Genética, Biotecnología y Medicina
+Avanzada. Issues from 2017- have English subtitle: Genetics, Biotechnology and
+Advanced Medicine. Print issues ceased with v. 45 (2017). Also issued online. In 
+Spanish, 1994-1997; Spanish and English, 1998- .
+Other ID: (OCoLC)33230361
+NLM ID: 101558644[Serial]
+
+71. Title Abbreviation: Russ J Genet
+Title(s): Russian journal of genetics.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Moscow, Russia : New York : MAIK Nauka/Interperiodica Pub. ; Distributed by
+Plenum/Consultants Bureau, c1994-
+Latest Publisher: 1999- : New York, NY : Kluwer Academic/Plenum Publishers
+Description: v. : ill.
+Language: English, Russian
+ISSN: 1022-7954(Print); 1608-3369(Electronic); 1022-7954(Linking)
+Coden: RJGEEQ
+LCCN: 94646544, sn 94029405
+Electronic Links: https://link.springer.com/journal/11177
+In: PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Citations are for articles where the manuscript was deposited in PubMed Central (PMC) in compliance with public access policies. For further information, see <a href="/pmc/about/authorms/" target="new">Author Manuscripts in PMC.</a>
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0081646(s)(OCoLC)30655476
+NLM ID: 9436969[Serial]
+
+72. Title Abbreviation: Transgenics
+Title(s): Transgenics : biological analysis through DNA transfer.
+Publication Start Year: 1994
+Publication End Year: 2005
+Frequency: Four no. a year, <2002->
+Country of Publication: United States
+Publisher: Grey, Switzerland : Langhorne, PA : Harwood Academic Publishers ; Distributed by 
+International Publishers Distributor,
+Latest Publisher: 2002- : Philadelphia, PA : Old City Publishing
+Description: v. : ill.
+Language: English
+ISSN: 1023-6171(Print); 1607-8586(Electronic); 1023-6171(Linking)
+Coden: TADTEF
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animals, Genetically Modified*; Biological Assay*; Gene Transfer Techniques*; Mutagenesis*; Recombination, Genetic*; Transformation, Genetic*
+Publication Type(s): Periodical
+Notes: Suspended during 2000 and 2002. Vol. 4, no. 3, 2005 incorrectly numberd Vol. 4,
+no. 3 2007.
+Other ID: (DNLM)SR0080330(s)(OCoLC)31431337
+NLM ID: 9503961[Serial]
+
+73. Author(s): Society for Study of Mammalian Evolution.
+Title Abbreviation: J Mamm Evol
+Title(s): Journal of mammalian evolution.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York ; London : Plenum Press, c1993-
+Latest Publisher: 1999- : New York, NY : Kluwer Academic/Plenum Publishers
+Description: v. : ill.
+Language: English
+ISSN: 1064-7554(Print); 1573-7055(Electronic); 1064-7554(Linking)
+Coden: JMEVEY
+Electronic Links: https://link.springer.com/journal/10914
+In: PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Citations are for articles where the manuscript was deposited in PubMed Central (PMC) in compliance with public access policies. For further information, see <a href="/pmc/about/authorms/" target="new">Author Manuscripts in PMC.</a>
+MeSH: Biological Evolution*; Mammals*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Also issued online. Official journal of the Society 
+for Study of Mammalian Evolution.
+Other ID: (DNLM)SR0075387(s)(OCoLC)26391434
+NLM ID: 9312477[Serial]
+
+74. Title Abbreviation: Mol Cell Differ
+Title(s): Molecular and cellular differentiation.
+Publication Start Year: 1993
+Publication End Year: 1996
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Boca Raton : CRC Press, c1993-[1996]
+Description: v. : ill.
+Language: English
+ISSN: 1065-3074(Print); 1065-3074(Linking)
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Differentiation*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Quarterly.
+Other ID: (DNLM)SR0074748(s)(OCoLC)26570093
+NLM ID: 9310778[Serial]
+
+75. Author(s): Rossiĭskai︠a︡ akademii︠a︡ nauk.
+Title Abbreviation: Radiats Biol Radioecol
+Title(s): Radiatsionnaia biologiia, radioecologiia/ Rossiĭskaia akademiia nauk.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Nauka, 1993-
+Description: v. : ill.
+Language: Russian, English
+ISSN: 0869-8031(Print); 0869-8031(Linking)
+Electronic Links: http://www.rad-bio.ru/
+Fully Indexed In: MEDLINE: v33n4,Jul-Aug. 1993-v57n1, Jan. 2017; Index medicus
+In: PubMed: v33n4,Jul-Aug. 1993-v57n1, Jan. 2017; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiation Effects*; Radioactive Pollutants*; Radiobiology*
+Publication Type(s): Periodical
+Notes: Bimonthly. T. 33, vyp. 4- also numbered t. 33, vyp 1- . Also issued online.
+Summaries and table of contents in English.
+Other ID: (DNLM)SR0078868(s)(OCoLC)29254243
+NLM ID: 9317212[Serial]
+
+76. Title Abbreviation: Transgene
+Title(s): Transgene : biological analysis through DNA transfer.
+Publication Start Year: 1993
+Publication End Year: 1993
+Frequency: Six no. a year
+Country of Publication: Switzerland
+Publisher: Yverdon, Switzerland : Harwood Academic Publishers, [1993]
+Description: 1 v. : ill.
+Language: English
+ISSN: 1068-3283(Print); 1068-3283(Linking)
+Coden: TBATE7
+LCCN: 93003815
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Animals, Genetically Modified*; Biological Assay*; Gene Transfer Techniques*; Mutagenesis, Insertional.*; Recombination, Genetic*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0077523(s)(OCoLC)27656608
+NLM ID: 9414471[Serial]
+
+77. Author(s): International Working Group on Preimplantation Genetics.
+Title Abbreviation: J Assist Reprod Genet
+Title(s): Journal of assisted reproduction and genetics.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Ten no. a year
+Country of Publication: Netherlands
+Publisher: New York : Plenum Press, c1992-
+Latest Publisher: <2004- >: Amsterdam : Springer
+Description: v. : ill.
+Language: English
+ISSN: 1058-0468(Print); 1573-7330(Electronic); 1058-0468(Linking)
+Coden: JARGE4
+LCCN: 92643392, sn 91000766
+Electronic Links: https://link.springer.com/journal/10815, https://pmc.ncbi.nlm.nih.gov/journals/?term=9206495
+Fully Indexed In: MEDLINE: v9n1, 1992-; Index medicus
+In: PubMed: v9n1, 1992-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Embryo Transfer*; Fertilization in Vitro*; Genetics*; Reproductive Techniques*
+Publication Type(s): Periodical
+Notes: Bimonthly. Title from cover. Imprint varies. Also issued online. Published in
+association with the International Working Group on Preimplantation Genetics.
+Other ID: (DNLM)SR0073469(s)(OCoLC)24202972
+NLM ID: 9206495[Serial]
+
+78. Title Abbreviation: Microb Releases
+Title(s): Microbial releases : viruses, bacteria, fungi.
+Publication Start Year: 1992
+Publication End Year: 1994
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: Berlin : Springer-Verlag, c1992-
+Description: 2 v. : ill.
+Language: English
+ISSN: 0940-9653(Print); 0940-9653(Linking)
+Coden: MRELE4
+Selectively Indexed in: MEDLINE1/1,Jun. 1992-2/4,Jul. 1994PubMed1/1,Jun. 1992-2/4,Jul. 1994Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Containment of Biohazards*; Environmental Exposure*; Environmental Microbiology*; Genetic Engineering*; Genetics, Microbial*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0072312(s)(OCoLC)27264196
+NLM ID: 9301294[Serial]
+
+79. Title Abbreviation: Curr Opin Genet Dev
+Title(s): Current opinion in genetics & development.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: London, UK : Current Biology, c1991-
+Latest Publisher: London : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0959-437X(Print); 1879-0380(Electronic); 0959-437X(Linking)
+Coden: COGDET
+LCCN: 91658570
+Electronic Links: https://www.sciencedirect.com/journal/current-opinion-in-genetics-and-development
+Fully Indexed In: MEDLINE: v1n1,Jun. 1991-; PubMed: v1n1,Jun. 1991-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Developmental Biology*; Genetics*
+Publication Type(s): BibliographyPeriodical
+Notes: Bimonthly. Includes a section called: Bibliography of the current world
+literature. Vol. 1 consists of 4 issues. Also issued online.
+Other ID: (DNLM)SR0068027(s)(OCoLC)24242182
+NLM ID: 9111375[Serial]
+
+80. Author(s): British Society for Histocompatibility and Immunogenetics.
+Title Abbreviation: Eur J Immunogenet
+Title(s): European journal of immunogenetics : official journal of the British Society for 
+Histocompatibility and Immunogenetics.
+Publication Start Year: 1991
+Publication End Year: 2004
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford : Blackwell Scientific Publications, c1991-c2004.
+Description: v. : ill.
+Language: English
+ISSN: 0960-7420(Print); 1365-2370(Electronic); 0960-7420(Linking)
+Coden: EJOIE3
+LCCN: 91643108, sn 91034770
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-313X
+Fully Indexed In: MEDLINE: v18n1/2, Feb./Apr.1991-v31n6, Dec. 2004; PubMed: v18n1/2, Feb./Apr.1991-v31n6, Dec. 2004; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Immunogenetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0070138(s)(OCoLC)23535118
+NLM ID: 9106962[Serial]
+
+81. Author(s): Council of Scientific Research Integration (India)
+Title Abbreviation: Life Sci Adv Genet
+Title(s): Life science advances. Genetics : a journal of the Council of Scientific Research
+Integration.
+Publication Start Year: 1991
+Publication End Year: 199u
+Frequency: Quarterly
+Country of Publication: India
+Publisher: Trivandrum, India : Compilers International
+Description: v.
+Language: English
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 11, no. 1, published 1992; title from cover.
+Other ID: (DNLM)SR0077259(s)(OCoLC)30775966
+NLM ID: 9430799[Serial]
+
+82. Author(s): International Mammalian Genome Society.
+Title Abbreviation: Mamm Genome
+Title(s): Mammalian genome : official journal of the International Mammalian Genome
+Society.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Monthly, 1992-
+Country of Publication: United States
+Publisher: New York, NY, USA : Springer International, c1991-
+Latest Publisher: New York, NY : Springer-Verlag
+Description: v. : ill.
+Language: English
+ISSN: 0938-8990(Print); 1432-1777(Electronic); 0938-8990(Linking)
+Coden: MAMGEC
+LCCN: 91649240, sn 90003854
+Electronic Links: https://link.springer.com/journal/335
+Fully Indexed In: MEDLINE: v1n1, 1991-; PubMed: v1n1, 1991-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genome, Human*; Genomic Library*; Mammals*; Mice/genetics*
+Other Subject(s): International Mammalian Genome Society.
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0069338(s)(OCoLC)22379127
+NLM ID: 9100916[Serial]
+
+83. Author(s): Workshop on Genome Informatics.; Japanese Society for Bioinformatics.
+Title Abbreviation: Genome Inform Ser Workshop Genome Inform
+Title(s): Genome informatics.
+Publication Start Year: 199u
+Publication End Year: 2000
+Frequency: Annual
+Country of Publication: Japan
+Publisher: Tokyo : Universal Academy Press, -c2000.
+Description: v. : ill.
+Language: English, Japanese
+ISSN: 
+Coden: GINSE9
+LCCN: sn 98039060
+Electronic Links: https://www.jstage.jst.go.jp/browse/gi/list/-char/ja
+Fully Indexed In: MEDLINE: n11, 2000; Index medicus
+In: PubMed: n11, 2000; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computational Biology; Genomics*
+Publication Type(s): Congress
+Notes: Also issued online. English and Japanese. Vols. for -2000 issued by: Japanese
+Society for Bioinformatics.
+Other ID: (DNLM)SR0084331(s)(OCoLC)38255606
+NLM ID: 9717234[Serial]
+
+84. Title Abbreviation: Psychiatr Genet
+Title(s): Psychiatric genetics.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Six no. a year, 2008-
+Country of Publication: England
+Publisher: London : Clinical Neuroscience Publishers ; Colchester, Essex, UK : Distributed
+by Portland Press, [1990-
+Latest Publisher: London : Lippincott Williams & Wilkins
+Description: v.: ill.
+Language: English
+ISSN: 0955-8829(Print); 1473-5873(Electronic); 0955-8829(Linking)
+Electronic Links: https://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=yrovft&AN=00041444-000000000-00000
+Fully Indexed In: MEDLINE: v4n1,spring 1994-; PubMed: v4n1,spring 1994-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Brain/abnormalities*; Genetics*; Genetics, Behavioral*; Mental Disorders/genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 1 consists of one issue. Also available online.
+Other ID: (DNLM)SR0066388(s)(OCoLC)23835780
+NLM ID: 9106748[Serial]
+
+85. Author(s): Institut national de la recherche agronomique (France); Centre national de la
+recherche scientifique (France)
+Title Abbreviation: Genet Sel Evol
+Title(s): Genetics, selection, evolution : GSE.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Bimonthly, 1991-
+Country of Publication: France
+Publisher: Paris : Elsevier, c1989-
+Latest Publisher: London : BioMed Central
+Description: v. : ill.
+Language: English, French, English, French
+ISSN: 0999-193X(Print); 1297-9686(Electronic); 0999-193X(Linking)
+Coden: GSEVE9
+Electronic Links: https://gsejournal.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=9114088
+Fully Indexed In: MEDLINE: v33n1, Jan./Feb. 2001-; Index medicus
+In: PubMed: v21n1, Jan. 1989-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animals, Domestic*; Genetics*; Selection, Genetic*
+Publication Type(s): Periodical
+Notes: Print ceased with vol. 40, no. 5 (Dec. 2008). Also issued online. Text in English
+or French with summaries in both languages. Issued under the patronage of INRA
+and CNRS.
+Other ID: (DNLM)SR0070931(s)(OCoLC)19963483
+NLM ID: 9114088[Serial]
+
+86. Title Abbreviation: Cytotechnology
+Title(s): Cytotechnology.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Nine no. a year, 1991-
+Country of Publication: United States
+Publisher: Dordrecht ; Boston : Martinus Nijhoff Publishers, c1988-
+Latest Publisher: <July 1988- > : Hingham, MA : Kluwer Academic Publishers
+Description: v. : ill.
+Language: English
+ISSN: 0920-9069(Print); 1573-0778(Electronic); 0920-9069(Linking)
+Coden: CYTOER
+LCCN: sn 88026784
+Electronic Links: https://link.springer.com/journal/10616, https://pmc.ncbi.nlm.nih.gov/journals/?term=8807027
+In: PubMed: v3n1, Jan. 1990-, PMC; 
+Selectively Indexed in: MEDLINEv3n1, Jan. 1990-v26n3, 1998
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biotechnology*; Cells, Cultured*; Cytological Techniques*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0060925(s)(OCoLC)17645742
+NLM ID: 8807027[Serial]
+
+87. Author(s): National Research Council Canada.; Genetics Society of Canada.; Canadian Science 
+Publishing.
+Title Abbreviation: Genome
+Title(s): Genome/ National Research Council Canada = Génome / Conseil national de
+recherches Canada.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Monthly, 2006-
+Country of Publication: Canada
+Publisher: Ottawa, Canada : National Research Council of Canada, c1987-
+Latest Publisher: 2011- : Ottawa, ON : Canadian Science Publishing
+Description: v. : ill.
+Language: English, French
+ISSN: 0831-2796(Print); 1480-3321(Electronic); 0831-2796(Linking)
+Coden: GENOE3
+LCCN: 87658142, cn 88079038
+Electronic Links: http://www.nrcresearchpress.com/journal/gen
+Fully Indexed In: MEDLINE: v29n1, Feb, 1987-; Index medicus
+In: PubMed: v29n1, Feb, 1987-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2022. Also issued online. Articles in 
+English; summaries in English and French. "The Genetics Society of Canada has
+chosen Genome as its principal medium for the publication of scientific
+papers."--Feb. 1987, p. v.
+Other ID: (DNLM)SR0058053(s)(OCoLC)15354799
+NLM ID: 8704544[Serial]
+
+88. Title Abbreviation: Genomics
+Title(s): Genomics.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Twelve no. a year 2002-
+Country of Publication: United States
+Publisher: San Diego : Academic Press, [c1987-
+Description: v. : ill.
+Language: English
+ISSN: 0888-7543(Print); 1089-8646(Electronic); 0888-7543(Linking)
+Coden: GNMCEP
+Electronic Links: http://www.sciencedirect.com/science/journal/08887543
+Fully Indexed In: MEDLINE: v1n1, 1987-; PubMed: v1n1, 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Base Sequence*; Chromosome Mapping*; Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online.
+Other ID: (DNLM)SR0058184(s)(OCoLC)13716294
+NLM ID: 8800135[Serial]
+
+89. Author(s): International Society for Animal Blood Group Research.; International Society for
+Animal Genetics.
+Title Abbreviation: Anim Genet
+Title(s): Animal genetics.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Bimonthly, <1992->
+Country of Publication: England
+Publisher: Oxford, England : Published by Blackwell Scientific Publications for the
+International Society for Animal Blood Group Research, c1986-
+Latest Publisher: Oxford, England : Wiley-Blackwell
+Description: v. : ill.
+Language: English
+ISSN: 0268-9146(Print); 1365-2052(Electronic); 0268-9146(Linking)
+Coden: ANGEE3
+LCCN: sf 93095318, sn 86029609
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2052
+Fully Indexed In: MEDLINE: v17n1, 1986-; Index medicus
+In: PubMed: v17n1, 1986-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animals*; Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 46 (2014) Some vols. accompanied by
+supplements. Also issued online. Official journal of: International Society for
+Animal Genetics, <2010->
+Other ID: (DNLM)SR0056566(s)(OCoLC)13459823
+NLM ID: 8605704[Serial]
+
+90. Title Abbreviation: J Anim Breed Genet
+Title(s): Journal of animal breeding and genetics = Zeitschrift für Tierzüchtung und
+Züchtungsbiologie.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Six no. a year, <1998->
+Country of Publication: Germany
+Publisher: Hamburg : P. Parey, c1985-
+Latest Publisher: 1994- : Berlin : Blackwell
+Description: v. : ill. ; 25-26 cm.
+Language: English, German
+ISSN: 0931-2668(Print); 1439-0388(Electronic); 0931-2668(Linking)
+LCCN: sn 99015067
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0388
+Fully Indexed In: MEDLINE: v122n1, Feb. 2005-; PubMed: v122n1, Feb. 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animals, Domestic/genetics; Breeding*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 122, no. 3 (June 2005). Issues for
+2001- lack German title. Imprint varies. Supplements accompany some vols. Also
+issued online. In English and German.
+Other ID: (OCoLC)40931600
+NLM ID: 100955807[Serial]
+
+91. Author(s): Willi Hennig Society.
+Title Abbreviation: Cladistics
+Title(s): Cladistics : the international journal of the Willi Hennig Society.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Bimonthly, 2002-
+Country of Publication: United States
+Publisher: London : Published for the Willi Hennig Society by Academic Press
+Latest Publisher: <2014-> : Hoboken, NJ : John Wiley & Sons
+Description: 1 online resource
+Language: English
+ISSN: 1096-0031(Electronic); 0748-3007(Print); 0748-3007(Linking)
+LCCN: sn 97001921
+Electronic Links: https://onlinelibrary.wiley.com/journal/10960031
+Fully Indexed In: MEDLINE: v37n1, Feb. 2021- ; Selected citations only before this date
+In: PubMed: v37n1, Feb. 2021- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology/classification*; Statistics as Topic
+Publication Type(s): Periodical
+Notes: Also issued in print. Mode of access: World Wide Web.
+Other ID: (OCoLC)36934880(DNLM)SR0052650(s)
+NLM ID: 9881057[Serial]
+
+92. Title Abbreviation: Genet Soc Gen Psychol Monogr
+Title(s): Genetic, social, and general psychology monographs.
+Publication Start Year: 1985
+Publication End Year: 2006
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Washington, DC : Heldref Publications, c1985-
+Description: v. : ill.
+Language: English
+ISSN: 8756-7547(Print); 1940-5286(Electronic); 1940-5286(Linking)
+Coden: GSGMEQ
+LCCN: 85647127, sn 85000493
+Electronic Links: http://www.tandfonline.com/loi/vzpm
+Fully Indexed In: MEDLINE: v111n1,Feb. 1985-v132n4,Nov. 2006; Index medicus
+In: PubMed: v111n1,Feb. 1985-v132n4,Nov. 2006; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*; Psychology*; Psychology, Social*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0054943(s)(OCoLC)11659641
+NLM ID: 8508368[Serial]
+
+93. Title Abbreviation: Trends Genet
+Title(s): Trends in genetics : TIG.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [Amsterdam, The Netherlands : Elsevier Science Publishers B.V., c1985-
+Latest Publisher: Cambridge : Elsevier Trends Journals
+Description: v. : ill.
+Language: English
+ISSN: 0168-9525(Print); 0168-9525(Linking)
+Coden: TRGEE2
+Electronic Links: https://www.sciencedirect.com/journal/trends-in-genetics
+Fully Indexed In: MEDLINE: v4n1, 1988-; PubMed: v4n1, 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Issue for Dec. 1999 has title: Trends in cell biology/Trends in biochemical
+sciences/Trends in genetics joint millennium issue. Title from cover. Vol. 15,
+no. 12 (Dec. 1999) published as a joint issue with Trends in cell biology (Vol.
+9, no. 12) and Trends in biochemical sciences (Vol. 24, no. 12), and called the
+"Millennium issue". Also issued online.
+Other ID: (DNLM)SR0052529(s)(OCoLC)11747206
+NLM ID: 8507085[Serial]
+
+94. Title Abbreviation: Exp Clin Immunogenet
+Title(s): Experimental and clinical immunogenetics.
+Publication Start Year: 1984
+Publication End Year: 2002
+Frequency: Four no. a year
+Country of Publication: Switzerland
+Publisher: Basel ; New York : Karger, [c1984-
+Description: v. : ill.
+Language: English
+ISSN: 0254-9670(Print); 0254-9670(Linking)
+Coden: ECIME4
+Electronic Links: http://www.karger.com/Journal/Home/224237
+Fully Indexed In: MEDLINE: v1n1, 1984-v18n4, 2001; PubMed: v1n1, 1984-v18n4, 2001; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Immunogenetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)E19347000(s)(OCoLC)10902421
+NLM ID: 8411714[Serial]
+
+95. Author(s): Committee for Responsible Genetics.; Council for Responsible Genetics.
+Title Abbreviation: Genewatch
+Title(s): Genewatch : a bulletin of the Committee for Responsible Genetics.
+Publication Start Year: 1984
+Publication End Year: 2018
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Boston, MA : The Committee,
+Latest Publisher: Boston Ma : Council For Responsible Genetics (Crg)
+Description: v. : ill.
+Language: English
+ISSN: 0740-9737(Print); 2155-7721(Electronic); 0740-9737(Linking)
+LCCN: sn83-2935
+Electronic Links: https://issuu.com/genewatchmagazine
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to bioethics were indexed.
+MeSH: Biotechnology*; Genetic Engineering*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 2, no. 1 (1985); title from caption. Print issues
+ceased with v. 27, no. 3 (2014) Also issued online. Vol. 6, nos. 2-3?- published 
+by Council for Responsible Genetics.
+Other ID: (DNLM)SR0068568(s)(OCoLC)10063547
+NLM ID: 9426048[Serial]
+
+96. Title Abbreviation: Oxf Surv Eukaryot Genes
+Title(s): Oxford surveys on eukaryotic genes.
+Publication Start Year: 1984
+Publication End Year: 1991
+Frequency: Annual
+Country of Publication: England
+Publisher: Oxford ; New York : Oxford University Press, c1984-
+Description: v. : ill.
+Language: English
+ISSN: 0265-0738(Print); 0265-0738(Linking)
+Coden: OSEGEI
+Fully Indexed In: MEDLINE: v1n1, 1984-v7, 1991; PubMed: v1n1, 1984-v7, 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cytogenetics*; Eukaryotic Cells*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0061129(s)(OCoLC)11871795
+NLM ID: 8813988[Serial]
+
+97. Title Abbreviation: J Mol Appl Genet
+Title(s): Journal of molecular and applied genetics.
+Publication Start Year: 1981
+Publication End Year: 1985
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, N.Y. : Raven Press, [c1981-1985]
+Description: v. : ill.
+Language: English, English
+ISSN: 0271-6801(Print); 0271-6801(Linking)
+Coden: JMAGD2
+Fully Indexed In: MEDLINE: v1n1, 1981-v3n1, 1985; PubMed: v1n1, 1981-v3n1, 1985; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cytogenetics*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)J30310000(s)(OCoLC)06680328
+NLM ID: 8109497[Serial]
+
+98. Author(s): Los Alamos Scientific Laboratory.; Los Alamos National Laboratory.
+Title Abbreviation: Los Alamos Sci
+Title(s): Los Alamos science/ Los Alamos Scientific Laboratory.
+Publication Start Year: 1980
+Publication End Year: 2006
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Los Alamos Nm : Los Alamos National Laboratory
+Description: v. : ill.
+Language: English
+SuDocs Number: E 1.96:
+ISSN: 0273-7116(Print); 0273-7116(Linking)
+Coden: LASCDI
+Electronic Links: https://la-science.lanl.gov/index.shtml
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to space life sciences were indexed.
+MeSH: Biological Science Disciplines*; Biotechnology*; Science*; Technology*
+Other Subject(s): Los Alamos Scientific Laboratory., Los Alamos National Laboratory.
+Publication Type(s): Periodical
+Notes: Title from cover. Distinctive title: Human genome project, 1992. Issue for summer
+1980 called also Premier issue. Also issued online. Vols for summer 1980-198
+issued by: Los Alamos Scientific Laboratory; winter/spring 1982?- by: Los Alamos 
+National Laboratory.
+Other ID: (DNLM)SR0077332(s)(OCoLC)06818444
+NLM ID: 9318072[Serial]
+
+99. Title Abbreviation: Curr Genet
+Title(s): Current genetics.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Twelve no. a year, 2008-
+Country of Publication: United States
+Publisher: [New York] Springer International.
+Latest Publisher: New York Ny : Springer International
+Description: v. ill.
+Language: English
+ISSN: 0172-8083(Print); 1432-0983(Electronic); 0172-8083(Linking)
+Coden: CUGED5
+LCCN: 83641368, sc 81006001, sn 81000083
+Electronic Links: https://link.springer.com/journal/294
+Fully Indexed In: MEDLINE: v9n2, 1985-; PubMed: v9n2, 1985-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)C55690000(s)(OCoLC)06203326
+NLM ID: 8004904[Serial]
+
+100. Title Abbreviation: Dev Genet
+Title(s): Developmental genetics.
+Publication Start Year: 1979
+Publication End Year: 1999
+Frequency: Eight no. a year, 1995-
+Country of Publication: United States
+Publisher: New York, Liss.
+Latest Publisher: New York Ny : Wiley-Liss
+Description: 25 v. ill.
+Language: English, English
+ISSN: 0192-253X(Print); 0192-253X(Linking)
+Coden: DGNTDW
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1526-968X/issues
+Selectively Indexed in: MEDLINEv6n3, 1986-v25n4, 1999PubMedv6n3, 1986-v25n4, 1999Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Differentiation*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Vol. 24, no. 1/2 (1999) was reprinted in a corrected version. Also issued online.
+Other ID: (DNLM)D08010000(s)(OCoLC)05002659
+NLM ID: 7909963[Serial]
+
+101. Author(s): Hollaender,Alexander,1898-1986.; Setlow,Jane K
+Title Abbreviation: Genet Eng (N Y)
+Title(s): Genetic engineering.
+Publication Start Year: 1979
+Publication End Year: 2007
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York, Plenum Press.
+Description: v. ill.
+Language: English
+ISSN: 0196-3716(Print); 0196-3716(Linking)
+Coden: GENGDC
+Electronic Links: http://www.springer.com/series/6010
+Fully Indexed In: MEDLINE: v20, 1998-v28, 2007; Index medicus
+In: PubMed: v20, 1998-v28, 2007; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetic Engineering*
+Notes: Editors: v.1- J. K. Setlow and A. Hollaender. Also issued online.
+Other ID: (DNLM)G04560000(s)(OCoLC)05271667
+NLM ID: 7907340[Serial]
+
+102. Author(s): Zhongguo yi chuan xue hui.
+Title Abbreviation: Yi Chuan
+Title(s): Yi chuan = Hereditas/ Zhongguo yi chuan xue hui bian ji.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: China
+Publisher: Beijing : Ke xue chu ban she,
+Description: v. : ill.
+Language: Chinese, English
+ISSN: 0253-9772(Print); 0253-9772(Linking)
+Coden: ICHUDW
+Electronic Links: http://www.chinagene.cn/CN/0253-9772/home.shtml
+Fully Indexed In: MEDLINE: v26n1, Jan. 2004-; PubMed: v26n1, Jan. 2004-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Description based on: 1985, 1; title from cover. Also issued online. In Chinese
+with abstracts and table of contents also in English.
+Other ID: (DNLM)SR0068515(s)(OCoLC)05337861
+NLM ID: 9436478[Serial]
+
+103. Title Abbreviation: Plasmid
+Title(s): Plasmid.
+Publication Start Year: 1977
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, Academic Press.
+Description: v. ill.
+Language: English
+ISSN: 0147-619X(Print); 1095-9890(Electronic); 0147-619X(Linking)
+Coden: PLSMDX
+Electronic Links: http://www.sciencedirect.com/science/journal/0147619X
+Fully Indexed In: MEDLINE: v1n1,Nov. 1977-; PubMed: v1n1,Nov. 1977-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Extrachromosomal Inheritance*; Plasmids*; Translocation, Genetic*
+Publication Type(s): Periodical
+Notes: Available also online.
+Other ID: (DNLM)P16660000(s)(OCoLC)03510004
+NLM ID: 7802221[Serial]
+
+104. Title Abbreviation: Somatic Cell Genet
+Title(s): Somatic cell genetics.
+Publication Start Year: 1975
+Publication End Year: 1983
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, Plenum Press.
+Latest Publisher: New York Ny : Plenum
+Description: 9 v. ill.
+Language: English, English
+ISSN: 0098-0366(Print); 0098-0366(Linking)
+Coden: SCGTDW
+Fully Indexed In: MEDLINE: v1n1,Jan. 1975-v9, 1983; PubMed: v1n1,Jan. 1975-v9, 1983; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cytogenetics*; Hybrid Cells*
+Publication Type(s): Periodical
+Other ID: (DNLM)S30860000(s)(OCoLC)02241637
+NLM ID: 7506054[Serial]
+
+105. Title Abbreviation: Immunogenetics
+Title(s): Immunogenetics.
+Publication Start Year: 1974
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, NY : Springer Verlag,
+Description: v. illus.
+Language: English
+ISSN: 0093-7711(Print); 1432-1211(Electronic); 0093-7711(Linking)
+Coden: IMNGBK
+LCCN: 74643380
+Electronic Links: https://link.springer.com/journal/251
+Fully Indexed In: MEDLINE: v10n1, 1980-; Index medicus
+In: PubMed: v10n1, 1980-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Immunogenetics*
+Publication Type(s): Periodical
+Notes: Vol. 1, no. 1, Feb. 1974, called Sample issue. Also issued online.
+Other ID: (DNLM)I06040000(s)(OCoLC)01793392
+NLM ID: 0420404[Serial]
+
+106. Title Abbreviation: J Immunogenet
+Title(s): Journal of immunogenetics.
+Publication Start Year: 1974
+Publication End Year: 1990
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, Blackwell Scientific Publications.
+Description: 17 v. illus.
+Language: English
+ISSN: 0305-1811(Print); 0305-1811(Linking)
+Coden: JIMGAV
+LCCN: 74644863
+Fully Indexed In: MEDLINE: v1n1,Jan. 1974-v17, 1990; PubMed: v1n1,Jan. 1974-v17, 1990; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Immunogenetics*
+Publication Type(s): Periodical
+Other ID: (DNLM)J23700000(s)(OCoLC)01794099
+NLM ID: 0425125[Serial]
+
+107. Author(s): Zhongguo ke xue yuan. Yi chuan yan jiu suo. Yi chuan xue bao bian ji wei yuan
+hui.
+Title Abbreviation: Yi Chuan Xue Bao
+Title(s): Yi chuan xue bao = Acta genetica Sinica.
+Publication Start Year: 1974
+Publication End Year: 2006
+Frequency: Monthly, 2000-2006
+Country of Publication: China
+Publisher: Beijing : Ke xue chu ban she.
+Latest Publisher: Beijing : Ke xue chu ban she
+Description: 33 v. ill.
+Language: Chinese, English
+ISSN: 0379-4172(Print); 0379-4172(Linking)
+Coden: ICHPCG
+Fully Indexed In: MEDLINE: v15n1, 1988-v33n12, Dec. 2006; PubMed: v15n1, 1988-v33n12, Dec. 2006; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Articles in Chinese; summaries and table of contents in English. Issued by
+Zhongguo ke xue yuan, Yi chuan yan jiu suo, Yi chuan xue bao bian ji wei yuan
+hui.
+Other ID: (OCoLC)01797639(DNLM)I00045000(s)
+NLM ID: 7900784[Serial]
+
+108. Author(s): Biochemical Society (Great Britain); Medical Research Society (Great Britain)
+Title Abbreviation: Clin Sci Mol Med
+Title(s): Clinical science and molecular medicine.
+Publication Start Year: 1973
+Publication End Year: 1978
+Frequency: Monthly
+Country of Publication: England
+Publisher: London : Medical Research Society ; Biochemical Society
+Description: 11 v. ill.
+Language: English
+ISSN: 0301-0538(Print); 0301-0538(Linking)
+Coden: CSMMCA
+Electronic Links: https://portlandpress.com/clinsci
+Fully Indexed In: MEDLINE: v45n3, Sept. 1973-v55, Dec. 1978; Index medicus
+In: PubMed: v45n3, Sept. 1973-v55, Dec. 1978; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Medicine*
+Publication Type(s): Periodical
+Notes: Supplements accompany some vols. Also issued online. Issued by the Medical
+Research Society and the Biochemical Society.
+Other ID: (DNLM)C26940000(s)(OCoLC)01778091
+NLM ID: 0367540[Serial]
+
+109. Title Abbreviation: Cytogenet Cell Genet
+Title(s): Cytogenetics and cell genetics.
+Publication Start Year: 1973
+Publication End Year: 2001
+Frequency: Sixteen no. a year, <-2001>
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Latest Publisher: Basel : Karger
+Description: 84 v. : ill.
+Language: English
+ISSN: 0301-0171(Print); 0301-0171(Linking)
+Coden: CGCGBR
+LCCN: 73644001
+Electronic Links: http://www.karger.com/CGR
+Fully Indexed In: MEDLINE: v12n1, 1973-v95n3-4, 2001.; PubMed: v12n1, 1973-v95n3-4, 2001.; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cytogenetics*
+Publication Type(s): Periodical
+Notes: Each vol. consists of 4 numbers; 4 vols. per year, <-2001> Also issued online.
+Other ID: (DNLM)C58880000(s)(OCoLC)01787030
+NLM ID: 0367735[Serial]
+
+110. Author(s): Julius Klaus-Stiftung für Genetik und Sozialanthropologie.
+Title Abbreviation: Arch Genet (Zur)
+Title(s): Archiv für Genetik.
+Publication Start Year: 1972
+Publication End Year: 1979
+Frequency: Three no. a year
+Country of Publication: Switzerland
+Publisher: Zürich, Art. Institut Orell Füssli AG.
+Latest Publisher: Zurich : Orell Fussli
+Description: v. illus.
+Language: German
+ISSN: 0300-984X(Print); 0300-984X(Linking)
+Coden: AGNKA3
+Fully Indexed In: MEDLINE: v45n1, 1972-v52, 1979; PubMed: v45n1, 1972-v52, 1979; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cytogenetics*; Genetics*
+Publication Type(s): Periodical
+Notes: Text in English, German, or French, with summaries in English. Issued by the
+Julius Klaus-Stiftung für Genetik und Sozialanthropologie.
+Other ID: (DNLM)A59700000(s)(OCoLC)01777674
+NLM ID: 0333473[Serial]
+
+111. Title Abbreviation: Behav Genet
+Title(s): Behavior genetics.
+Publication Start Year: 1970
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Westport, Conn., Greenwood Periodicals.
+Latest Publisher: 1999- : New York : Kluwer Academic/Plenum Publishers
+Description: v. illus.
+Language: English
+ISSN: 0001-8244(Print); 1573-3297(Electronic); 0001-8244(Linking)
+Coden: BHGNAT
+LCCN: sc 78000748
+Electronic Links: https://link.springer.com/journal/10519
+Fully Indexed In: MEDLINE: v1n1, Feb. 1970-; Index medicus
+In: PubMed: v1n1, Feb. 1970-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics, Behavioral*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)B02040000(s)(OCoLC)01519335
+NLM ID: 0251711[Serial]
+
+112. Author(s): Institut national de la recherche agronomique (France)
+Title Abbreviation: Ann Genet Sel Anim
+Title(s): Annales de génétique et de sélection animale.
+Publication Start Year: 1969
+Publication End Year: 1982
+Frequency: Quarterly
+Country of Publication: France
+Publisher: Paris : Institut National De La Recherche Agronomique
+Description: 14 v. illus.
+Language: French
+ISSN: 0003-4002(Print); 0003-4002(Linking)
+Coden: AGQSA8
+LCCN: sf 82004033, sn 80014100
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0257341
+Fully Indexed In: MEDLINE: v6n1,1974-v7n4,1975
+In: PubMed: v1,1969-v14n4,1982, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to reproduction were indexed.
+MeSH: Animals, Domestic*; Genetics*; Selection, Genetic*
+Publication Type(s): Periodical
+Other ID: (DNLM)A32055000(s)(OCoLC)01642288
+NLM ID: 0257341[Serial]
+
+113. Author(s): American Philosophical Society. Library.
+Title Abbreviation: Mendel Newsl
+Title(s): The Mendel newsletter; archival resources for the history of genetics & allied
+sciences.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: United States
+Publisher: [Philadelphia] Library of the American Philosophical Society
+Description: no.
+Language: English
+ISSN: 0025-9241(Print)
+Coden: MNDNA7
+Electronic Links: http://www.amphilsoc.org/library/mendel
+Selectively Indexed in: MEDLINEn6, Dec. 1970-n.s. v16, Dec. 2007PubMedn6, Dec. 1970- n.s. v16, Dec. 2007
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics/history*
+Notes: Print issues ceased with new series no. 16(2007). Publication suspended, 1988-90 
+Also issued online.
+Other ID: (DNLM)M29880000(s)(OCoLC)02448523
+NLM ID: 0202216[Serial]
+
+114. Title Abbreviation: Theor Appl Genet
+Title(s): TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Sixteen no. a year, <1995->
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer
+Description: v. illus., ports.
+Language: German, English
+ISSN: 0040-5752(Print); 1432-2242(Electronic); 0040-5752(Linking)
+Coden: THAGA6
+Electronic Links: https://link.springer.com/journal/122
+Fully Indexed In: MEDLINE: v106n1, Dec. 2002-; PubMed: v106n1, Dec. 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Issues for <Jan. 2002-> have subtitle: International journal of plant breeding
+research. Also issued online. Text in German with summaries in English.
+Other ID: (DNLM)T07960000(s)(OCoLC)04624238
+NLM ID: 0145600[Serial]
+
+115. Author(s): Roman,Herschel L
+Title Abbreviation: Annu Rev Genet
+Title(s): Annual review of genetics.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Annual
+Country of Publication: United States
+Publisher: Palo Alto, Calif., Annual Reviews, inc.
+Latest Publisher: Palo Alto Ca : Annual Reviews
+Description: v. illus.
+Language: English
+ISSN: 0066-4197(Print); 1545-2948(Electronic); 0066-4197(Linking)
+Coden: ARVGB
+LCCN: 67-29891
+Electronic Links: http://www.annualreviews.org/loi/genet
+Fully Indexed In: MEDLINE: v4, 1970-; PubMed: v4, 1970-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Editor: 1967- H. L. Roman. Also issued online.
+Other ID: (DNLM)A54105000(s)(OCoLC)01481501
+NLM ID: 0117605[Serial]
+
+116. Title Abbreviation: Mol Gen Genet
+Title(s): Molecular & general genetics : MGG.
+Publication Start Year: 1967
+Publication End Year: 2001
+Frequency: Twelve no. a year
+Country of Publication: Germany
+Publisher: Berlin ; New York Springer-Verlag [1967-
+Description: 166 v. ill., ports.
+Language: English, German, English
+ISSN: 0026-8925(Print); 0026-8925(Linking)
+Coden: MGGEAE
+Fully Indexed In: MEDLINE: v99n1, 1967-v264n6, 2001; PubMed: v99n1, 1967-v264n6, 2001; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Articles in English or German; summaries in English.
+Other ID: (OCoLC)01758517(DNLM)M43340000(s)
+NLM ID: 0125036[Serial]
+
+117. Author(s): Akademii︠a︡ nauk Ukraïnsʹkoï RSR. Viddil biokhimiï, biofizyky ta fiziolohiï.;
+Akademii︠a︡ nauk Ukraïnsʹkoï RSR. Viddil zahalʹnoï biolohiï.
+Title Abbreviation: Tsitol Genet
+Title(s): T︠S︡itologii︠a︡ i genetika.
+Publication Start Year: 1967
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Ukraine
+Publisher: Kiev.
+Latest Publisher: Kiev : Izdatelstvo Naukova Dumka
+Description: v. illus.
+Language: Russian, English
+ISSN: 0564-3783(Print); 0564-3783(Linking)
+Coden: TGANAK
+Electronic Links: https://cytgen.com/ru/CytoGen/index.htm
+Fully Indexed In: MEDLINE: v8n1,Jan./Feb. 1974-v51n2, Mar.-Apr. 2017; PubMed: v8n1,Jan./Feb. 1974-v51n2, Mar.-Apr. 2017; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cytogenetics*
+Publication Type(s): Periodical
+Notes: At head of title, 1967- Akademiia nauk Ukrainskoĭ SSR. Otdelenie obshcheĭ
+biologii i Otdelenie biokhimii, biofiziki i fiziologii. Also issued online Added 
+title page, table of contents, and summaries in English.
+Other ID: (DNLM)T26920000(s)(OCoLC)10161225
+NLM ID: 0101671[Serial]
+
+118. Author(s): Akademii︠a︡ nauk SSSR.
+Title Abbreviation: Genetika
+Title(s): Genetika.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Izdatelstvo Nauka
+Description: v. illus., ports.
+Language: Russian, English
+ISSN: 0016-6758(Print); 0016-6758(Linking)
+Coden: GNKAA5
+Electronic Links: https://www.libnauka.ru/journal/genetika, https://sciencejournals.ru/journal/genrus/
+Fully Indexed In: MEDLINE: v13n1, 1977-v53n2, 2017; Index medicus
+In: PubMed: v13n1, 1977-v53n2, 2017; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Also issued online. Added table of contents and summaries in English. Issued
+1965- by the Akademiia nauk SSSR.
+Other ID: (DNLM)G04800000(s)(OCoLC)03066093
+NLM ID: 0047354[Serial]
+
+119. Author(s): Beckman,Lars,1928-; Hauge,M
+Title Abbreviation: Monogr Hum Genet
+Title(s): Monographs in human genetics.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Biennial
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Description: v. ill.
+Language: English
+ISSN: 0077-0876(Print); 0077-0876(Linking)
+Coden: MOHGAD
+LCCN: 66009196
+Fully Indexed In: MEDLINE: v1, 1966-v10, 1978; PubMed: v1, 1966-v10, 1978; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics, Medical*
+Publication Type(s): Periodical
+Notes: Editors: v. 1- L. Beckman and M. Hauge. Ceased with Vol. 14 (1992). Resumed with 
+Vol. 15 (2007).
+Other ID: (DNLM)M46760000(s)(OCoLC)01777788
+NLM ID: 7600568[Serial]
+
+120. Author(s): Consultants Bureau.
+Title Abbreviation: Sov Genet
+Title(s): Soviet genetics.
+Publication Start Year: 1966
+Publication End Year: 1993
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New York, Consultants Bureau
+Description: 28 volumes illustrations 28 cm
+Language: English, Russian
+ISSN: 0038-5409(Print); 0038-5409(Linking)
+Coden: SOGEBZ
+LCCN: sf 77000272
+In: PubMed: v6n10, Oct. 1970-v9n2, Dec. 1, 1974; 
+Selectively Indexed in: MEDLINEv6n10, Oct. 1970-v9n2, Dec. 1, 1974Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Retains volume numbering of the original. Translated from Russian.
+Other ID: (OCoLC)01587761(DNLM)S33320000(s)
+NLM ID: 0063413[Serial]
+
+121. Author(s): Eugenics Society (London, England)
+Title Abbreviation: Eugen Soc Symp
+Title(s): Eugenics Society symposia.
+Publication Start Year: 1964
+Publication End Year: 1968
+Frequency: Annual
+Country of Publication: Scotland
+Publisher: Edinburgh, Oliver & Boyd.
+Latest Publisher: Edinburgh : Oliver And Boyd
+Description: 4 v. ill.
+Language: English
+ISSN: 0071-223X(Print); 0071-223X(Linking)
+Coden: EUSSBP
+Fully Indexed In: MEDLINE: v4, 1967; PubMed: v4, 1967; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Eugenics*
+Publication Type(s): Periodical
+Notes: Proceedings of later symposia published in Journal of biosocial science.
+Supplement.
+Other ID: (DNLM)E14820000(s)(OCoLC)02260887
+NLM ID: 7507110[Serial]
+
+122. Title Abbreviation: Humangenetik
+Title(s): Humangenetik.
+Publication Start Year: 1964
+Publication End Year: 1975
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin, New York, Springer-Verlag.
+Latest Publisher: Berlin : Springer Verlag
+Description: 30 v. ill.
+Language: English, German, French, English, German
+ISSN: 0018-7348(Print); 0018-7348(Linking)
+Coden: HUMAA7
+Electronic Links: https://link.springer.com/journal/439
+Fully Indexed In: MEDLINE: v1n2, 1960-v30, 1975; PubMed: v1n2, 1960-v30, 1975; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics, Medical*
+Publication Type(s): Periodical
+Notes: Added titles in English and French: Human genetics; Génétique humaine. Also
+issued online. Articles in English, French, or German; summaries in English with 
+some also in German.
+Other ID: (OCoLC)01752396(DNLM)H22620000(s)
+NLM ID: 7607154[Serial]
+
+123. Title Abbreviation: Mutat Res
+Title(s): Mutation research.
+Publication Start Year: 1964
+Publication End Year: 
+Frequency: Monthly, 2014-
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier, [1964-
+Description: v. ill.
+Language: English
+ISSN: 0027-5107(Print); 1873-135X(Electronic); 0027-5107(Linking)
+Coden: MUREAV
+LCCN: 64009436, sn 79006342
+Electronic Links: https://www.sciencedirect.com/journal/mutation-research-dna-repair, https://www.sciencedirect.com/journal/mutation-research-dna-repair-reports, https://www.sciencedirect.com/journal/mutation-research-dnaging, https://www.sciencedirect.com/journal/mutation-research-environmental-mutagenesis-and-related-subjects, https://www.sciencedirect.com/journal/mutation-research-fundamental-and-molecular-mechanisms-of-mutagenesis, https://www.sciencedirect.com/journal/mutation-research-genetic-toxicology, https://www.sciencedirect.com/journal/mutation-research-genetic-toxicology-and-environmental-mutagenesis, https://www.sciencedirect.com/journal/mutation-research-letters, https://www.sciencedirect.com/journal/mutation-research-mutation-research-genomics, https://www.sciencedirect.com/journal/mutation-research-reviews-in-genetic-toxicology, https://www.sciencedirect.com/journal/mutation-research-reviews-in-mutation-research
+Fully Indexed In: MEDLINE: v2n1, Feb. 1965-; Index medicus
+In: PubMed: v2n1, Feb. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Chromosome Aberrations*; Mutation*
+Publication Type(s): Periodical
+Notes: Issues for 2012- have title: Mutation research. Fundamental and molecular
+mechanisms of mutagenesis. Has separately titled sections: DNA repair,
+<1973-2001>; Mutation research letters, <1981-1995->; Fundamental and molecular
+mechanisms of mutagenesis, <1988->; Environmental mutagenesis and related
+subjects including methodology, <1991-1996>; DNAging: genetic instability and
+aging, <1989-1996->; Reviews in genetic toxicology, <1975-1996->; Genetic
+toxicology testing (called Genetic toxicology, May 1994- ), <1991-1996>; Mutation
+research genomics, <1997-2001>; Reviews in mutation research, <1997->; Genetic
+toxicology and environmental mutagenesis, <1997->; all in a single numbering
+sequence. Beginning with 2012 each section has its own numbering. Published 1973-
+with vol. numbering not in chronological sequence. Vol. 462, no. 2-3 (Apr. 2000) 
+was defective. It was reprinted subsequently with p. 395-428 added. Also issued
+online. Each section has its own site.
+Other ID: (OCoLC)01590350(DNLM)M51460000(s)
+NLM ID: 0400763[Serial]
+
+124. Title Abbreviation: Cytogenetics
+Title(s): Cytogenetics.
+Publication Start Year: 1962
+Publication End Year: 1972
+Frequency: Bimonthly
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Latest Publisher: Basel : Karger
+Description: 11 v. illus.
+Language: English
+ISSN: 0011-4537(Print); 0011-4537(Linking)
+Coden: CYTGAX
+Fully Indexed In: MEDLINE: v4n4, 1965-v11, 1972; PubMed: v4n4, 1965-v11, 1972; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cytogenetics*
+Publication Type(s): Periodical
+Other ID: (DNLM)C58860000(s)(OCoLC)01565748
+NLM ID: 0367734[Serial]
+
+125. Author(s): Leningradskiĭ gosudarstvennyĭ universitet imeni A.A. Zhdanova.
+Title Abbreviation: Issled Genet
+Title(s): Issledovaniia po genetike.
+Publication Start Year: 1961
+Publication End Year: 1979
+Country of Publication: Russia (Federation)
+Publisher: Leningrad Leningrad. Universitet
+Description: v. ill.
+Language: Russian, English
+ISSN: 0578-9508(Print); 0578-9508(Linking)
+Coden: ISGEAK
+Fully Indexed In: MEDLINE: v3, 1969; PubMed: v3, 1969; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Added table of contents and summaries in English. Issued by Leningradskiĭ
+universitet.
+Other ID: (DNLM)I40640000(s)(OCoLC)07031057
+NLM ID: 17710500R[Serial]
+
+126. Author(s): Akademii︠a︡ nauk SSSR.; Rossiĭskai︠a︡ akademii︠a︡ nauk.
+Title Abbreviation: Radiobiologiia
+Title(s): Radiobiologiia.
+Publication Start Year: 1961
+Publication End Year: 1993
+Frequency: Bimonthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva, Izd-vo Akademiia nauk SSSR.
+Latest Publisher: Moskva : Izdatelstvo Nauka
+Description: 33 v. illus.
+Language: Russian, English
+ISSN: 0033-8192(Print); 0033-8192(Linking)
+Coden: RADOA8
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv5n1, 1965-v33n3,May-Jun. 1993PubMedv5n1, 1965-v33n3,May-Jun. 1993Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Radiation Effects*; Radiation Genetics*
+Publication Type(s): Periodical
+Notes: Table of contents in Russian and English, 1961- Issued by: Akademiia nauk SSSR,
+1961- ; RossiR̆ossiĭskaia akademiia nauk, 19 -1993.
+Other ID: (DNLM)R00980000(s)(OCoLC)02384176
+NLM ID: 0401251[Serial]
+
+127. Title Abbreviation: Genet Res
+Title(s): Genetical research.
+Publication Start Year: 1960
+Publication End Year: 2007
+Frequency: Bimonthly, <Aug. 1974->
+Country of Publication: England
+Publisher: London ; New York : Cambridge University Press, 1960-
+Description: v. illus.
+Language: English
+ISSN: 0016-6723(Linking)
+Coden: GENRA8
+LCCN: 63023747, 63002374, 2008240165
+Electronic Links: https://www.cambridge.org/core/journals/genetics-research
+Fully Indexed In: MEDLINE: v6n3,Nov. 1965-v89n5/6,Oct./Dec. 2007; Index medicus
+In: PubMed: v6n3,Nov. 1965-v89n5/6,Oct./Dec. 2007, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)G04680000(s)(OCoLC)02113809
+NLM ID: 0370741[Serial]
+
+128. Author(s): Genetics Society of Canada.; National Research Council Canada.
+Title Abbreviation: Can J Genet Cytol
+Title(s): Canadian journal of genetics and cytology. Journal canadien de génétique et de 
+cytologie.
+Publication Start Year: 1959
+Publication End Year: 1986
+Frequency: Bimonthly
+Country of Publication: Canada
+Publisher: Ottawa.
+Latest Publisher: Ottawa : Genetics Society Of Canada
+Description: 28 v. illus.
+Language: English, French
+ISSN: 0008-4093(Print); 0008-4093(Linking)
+Coden: CNJGA8
+LCCN: cn 79310911
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv7n3,Sept. 1965-v28n6,Dec. 1986PubMedv7n3,Sept. 1965-v28n6,Dec. 1986Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Biology*; Genetics*
+Publication Type(s): Periodical
+Notes: Issued 1959-1982 by the Genetics Society of Canada; 1983-1986 by the National
+Research Council Canada.
+Other ID: (OCoLC)01553143(DNLM)C04120000(s)
+NLM ID: 0372706[Serial]
+
+129. Title Abbreviation: Z Vererbungsl
+Title(s): Zeitschrift für Vererbungslehre.
+Publication Start Year: 1958
+Publication End Year: 1966
+Frequency: Quarterly
+Country of Publication: Germany
+Publisher: Berlin : Springer
+Description: 10 v. in illus.
+Language: German
+ISSN: 0372-8609(Print); 0372-8609(Linking)
+Coden: ZEVBA5
+Fully Indexed In: MEDLINE: v96n3,Jul. 19, 1963-v98, 1966; PubMed: v96n3,Jul. 19, 1963-v98, 1966; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Articles in German or English.
+Other ID: (DNLM)Z06060000(s)(OCoLC)02269852
+NLM ID: 0125052[Serial]
+
+130. Author(s): American Eugenics Society.
+Title Abbreviation: Eugen Q
+Title(s): Eugenics quarterly.
+Publication Start Year: 1954
+Publication End Year: 1968
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Chicago Il : University Of Chicago Press
+Description: 15 v. illus., ports.
+Language: English
+ISSN: 0097-2762(Print); 0097-2762(Linking)
+Coden: EUGQAQ
+LCCN: 58034868
+Fully Indexed In: MEDLINE: v12n3, Sept. 1965-v15, Dec. 1968; Index medicus
+In: PubMed: v12n3, Sept. 1965-v15 Dec. 1968, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Demography*; Ecology*; Genetics, Medical*
+Publication Type(s): Periodical
+Notes: Microfilm. 1 microfilm reel : negative ; 35 mm. Issued by the American Eugenics
+Society.
+Other ID: (DNLM)E14780000(s)(OCoLC)01607682
+NLM ID: 0205544[Serial]
+
+131. Title Abbreviation: J Genet Psychol
+Title(s): The Journal of genetic psychology.
+Publication Start Year: 1954
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Provincetown, Mass. : Journal Press
+Latest Publisher: 2010- : Philadelphia : Psychology Press
+Description: v. ill.
+Language: English
+ISSN: 0022-1325(Print); 1940-0896(Electronic); 0022-1325(Linking)
+Coden: JGPYAI
+LCCN: 06012252, sn 83007019
+Electronic Links: https://www.tandfonline.com/loi/vgnt20
+Fully Indexed In: MEDLINE: v107pt1,Sept. 1965-; Index medicus
+In: PubMed: v107pt1,Sept. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Ethology*; Psychology, Child*; Psychology, Comparative*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)J22040000(s)(OCoLC)01639282
+NLM ID: 2985112R[Serial]
+
+132. Author(s): Radiation Research Society (U.S.)
+Title Abbreviation: Radiat Res
+Title(s): Radiation research.
+Publication Start Year: 1954
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Charlottesville, VA : Kluge Carden Jennnings Pub. Co.
+Latest Publisher: Bozeman, MT : Radiation Research Society
+Description: v. illus.
+Language: English
+ISSN: 0033-7587(Print); 1938-5404(Electronic); 0033-7587(Linking)
+Coden: RAREAE
+LCCN: 54012148
+Electronic Links: http://www.bioone.org/loi/rare
+Fully Indexed In: MEDLINE: v26n1,Sept. 1965-; Index medicus
+In: PubMed: v26n1,Sept. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Space Life Sciences
+MeSH: Radiation*; Research*
+Publication Type(s): Periodical
+Notes: Also issued online. Official organ of the Radiation Research Society. Indexes:
+Vol. 1-32, 1954-67. v. 1.
+Other ID: (DNLM)R00680000(s)(OCoLC)01763361
+NLM ID: 0401245[Serial]
+
+133. Author(s): Università di Milano. Istituto di anatomia e istologia patologica.; Università 
+di Pavia. Istituto di anatomia e istologia patologica.
+Title Abbreviation: Folia Hered Pathol (Milano)
+Title(s): Folia hereditaria et pathologica.
+Publication Start Year: 1951
+Publication End Year: 1986
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Milan [etc.]
+Latest Publisher: Milan : Folia Hereditaria Et Pathologica
+Description: v. illus.
+Language: Italian
+ISSN: 0015-5578(Print); 0015-5578(Linking)
+Coden: FOHPAV
+Fully Indexed In: MEDLINE: v14n2,Apr. 1965-v19n2,Apr. 1970; PubMed: v14n2,Apr. 1965-v19n2,Apr. 1970; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetic Diseases, Inborn*; Genetics, Medical*
+Publication Type(s): Periodical
+Notes: Summaries in Italian and English. Issued 1951-55 by Istituto di anatomia e
+istologia patologica dell'Università di Pavia; 1956- by Istituto di anatomia e
+istologia patologica dell'Università di Milano.
+Other ID: (DNLM)F08360000(s)(OCoLC)01623936
+NLM ID: 0417432[Serial]
+
+134. Title Abbreviation: Acta Genet Stat Med
+Title(s): Acta genetica et statistica medica.
+Publication Start Year: 1948
+Publication End Year: 1968
+Country of Publication: Switzerland
+Publisher: Basel, Karger.
+Description: 18 v. illus.
+Language: English
+ISSN: 0567-7440(Print); 0567-7440(Linking)
+Coden: AGSMAY
+Fully Indexed In: MEDLINE: v15n3, 1965-v18n1, 1968; PubMed: v15n3, 1965-v18n1, 1968; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*; Statistics as Topic*
+Publication Type(s): Periodical
+Notes: Some issues have monographic supplements. Articles in English, French or German.
+Other ID: (DNLM)A05580000(s)(OCoLC)01779067
+NLM ID: 0200600[Serial]
+
+135. Title Abbreviation: Heredity (Edinb)
+Title(s): Heredity.
+Publication Start Year: 1947
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, Oliver and Boyd.
+Latest Publisher: <2003->: London : Nature Publishing Group
+Description: v. illus.
+Language: English
+ISSN: 0018-067X(Print); 1365-2540(Electronic); 0018-067X(Linking)
+Coden: HDTYAT
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0373007, http://www.nature.com/hdy
+Fully Indexed In: MEDLINE: v20n3,Aug. 1965-; PubMed: v20n3,Aug. 1965-; Index medicus
+In: OLDMEDLINE, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Some volumes accompanied by monographic supplements. Imprint varies. Also issued 
+online.
+Other ID: (DNLM)H11560000(s)(OCoLC)01752017
+NLM ID: 0373007[Serial]
+
+136. Title Abbreviation: Z Tierzuecht Zuechtungsbiol
+Title(s): Zeitschrift für Tierzüchtung und Züchtungsbiologie : Organ der
+Reichsarbeitsgemeinschaft Tierzucht im Forschungsdienst.
+Publication Start Year: 1938
+Publication End Year: 1985
+Frequency: Five no. a year
+Country of Publication: Germany
+Publisher: Berlin : Parey
+Latest Publisher: Hamburg : Parey
+Description: 62 v. illus., ports.
+Language: German, English
+ISSN: 0044-3581(Print); 0044-3581(Linking)
+Coden: ZTZBAS
+LCCN: 47038763
+Selectively Indexed in: MEDLINEv91n1-2, June 1974-v93n2, Sept. 1976PubMedv91n1-2, June 1974-v93n2, Sept. 1976
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to population demographics/reproductive health were indexed.
+MeSH: Breeding*; Genetics*
+Publication Type(s): Periodical
+Notes: Issues for <1960>-1985 have added English title: Journal of animal breeding and
+genetics. Imprint varies. Published: Hamburg, <1960-78> Suspended 1944-Apr. 1949.
+In German and English.
+Other ID: (OCoLC)08405606(DNLM)Z05880000(s)
+Collection Status: Not in the NLM Collection
+NLM ID: 0107652[Serial]
+
+137. Title Abbreviation: Genet Psychol Monogr
+Title(s): Genetic psychology monographs.
+Publication Start Year: 1926
+Publication End Year: 1984
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Washington, DC [etc.] Heldref Publications [etc.]
+Latest Publisher: Provincetown Ma : Journal Press
+Description: 110 v. ill.
+Language: English
+ISSN: 0016-6677(Print); 0016-6677(Linking)
+Coden: GPMOA3
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv72n2,Nov. 1965-v110,Nov. 1984PubMedv72n2,Nov. 1965-v110,Nov. 1984Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*; Psychology*
+Publication Type(s): Periodical
+Other ID: (DNLM)G04580000(s)(OCoLC)01440765
+NLM ID: 0370737[Serial]
+
+138. Author(s): Julius Klaus-Stiftung für Vererbungsforschung, Sozialanthropologie und
+Rassenhygiene.; Jahresbericht der Schweizerischen Gesellschaft für
+Vererbungsforshung.
+Title Abbreviation: Arch Julius Klaus Stift Vererbungsforsch Sozialanthropol Rassenhyg
+Title(s): Archiv der Julius Klaus-Stiftung für Vererbungsforschung, Sozialanthropologie
+und Rassenhygiene.
+Publication Start Year: 1925
+Publication End Year: 1969
+Country of Publication: Switzerland
+Publisher: Zürich, Art. Institut Orell Füssli AG [etc.]
+Latest Publisher: Zurich : Art. Institut Orell Fussli Ag
+Description: 44 v. illus.,ports.
+Language: German, French
+ISSN: 0003-8881(Print); 0003-8881(Linking)
+Coden: AJKSAX
+Fully Indexed In: MEDLINE: v38n1, 1971-v43/44, 1968/69; PubMed: v38n1, 1971-v43/44, 1968/69; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anthropology*; Ethnology*; Genetics*; Sociology*
+Publication Type(s): Periodical
+Notes: Continued in 1972 by Archiv für Genetik. Issues for 1941-69 include the
+Jahresbericht der Schweizerischen Gesellschaft für Vererbungsforschung. Called
+also Schriften der Julius Klaus-Stiftung für Vererbungsforschung,
+Sozialanthropologie und Rassenhygiene. Serie A. Some articles in French. Indexes:
+Vols. 1-20, 1925-45, in v. 20; Vols. 21-30, 1946-55, in v. 30; Vols. 31-40,
+1956-65, in v. 40.
+Other ID: (OCoLC)01183516(DNLM)A59820000(s)
+NLM ID: 7502525[Serial]
+
+139. Author(s): Nihon Iden Gakkai.
+Title Abbreviation: Jpn J Genet
+Title(s): Idengaku zasshi.
+Publication Start Year: 1921
+Publication End Year: 1995
+Frequency: Bimonthly, Oct. 1961-1995
+Country of Publication: Japan
+Publisher: Tōkyō-shi : Nihon Iden Gakkai, Taishō 10 [1921]-1995.
+Description: 70 v. : ill. ; 26 cm.
+Language: Japanese, English, German
+ISSN: 0021-504X(Print); 1880-5787(Electronic); 0021-504X(Linking)
+Coden: IDZAAW
+LCCN: 94659529, sn 86009206, sn 93038027
+Electronic Links: http://www.journalarchive.jst.go.jp/english/jnltop_en.php?cdjournal=ggs1921, https://www.jstage.jst.go.jp/browse/jjg/
+Selectively Indexed in: MEDLINEv63n1,Feb. 1988-v70n6,Dec. 1995PubMedv63n1,Feb. 1988-v70n6,Dec. 1995Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues for <Jan. 1961>-Dec. 1995 have English title: The
+Japanese journal of genetics; beginning with <Apr. 1993>-Dec. 1995 issue, the
+English and Japanese titles appear on separate pages. Abstracts of papers
+contained in volumes 1-3 inserted at beginning of volume 3. Some issues published
+in combined form. Supplements accompany some numbers. Also issued online. Text in
+Japanese, English or German. Chiefly in Japanese with some English; summaries and
+table of contents also in English Indexes: Vol. 1 (1921)-30 (1955), 1 v.
+Other ID: (OCoLC)01713580(DNLM)SR0075930(s)
+NLM ID: 9301272[Serial]
+
+140. Author(s): Larsson,Robert; Müntzing,Arne,1903-1984.; Mendelian Society of Lund.;
+Scandinavian Association of Geneticists.
+Title Abbreviation: Hereditas
+Title(s): Hereditas.
+Publication Start Year: 1920
+Publication End Year: 
+Frequency: Six no. a year, 1990-
+Country of Publication: England
+Publisher: Lund : Mendelska sällskapet.
+Latest Publisher: Oct. 2015- : London : BioMed Central Ltd.
+Description: v. illus., ports.
+Language: English
+ISSN: 0018-0661(Print); 1601-5223(Electronic); 0018-0661(Linking)
+Coden: HEREAY
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0374654, http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1601-5223, https://hereditasjournal.biomedcentral.com/
+Fully Indexed In: MEDLINE: v52n3, 1965-; Index medicus
+In: PubMed: v52n3, 1965-, PMC, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetic Phenomena*; Genomics*
+Publication Type(s): Periodical
+Notes: Editors: 1920-54, R. Larsson; 1955- A. Müntzing. Bd. 48:3 contains membership
+list of the Nordisk Genetikerforening. Print issues ceased with v. 141, no. 3
+(Dec. 2004). No issues published January-September 2015. Also issued online.
+Microfilm. v. 1 (1920)-20 (1935). 5 microfilm reels : negative ; 35 mm. Articles 
+in English, French, or German, with some summaries in English - <1998>; in
+English, <1999- >.
+Other ID: (DNLM)H11540000(s)(OCoLC)01752016
+NLM ID: 0374654[Serial]
+
+141. Title Abbreviation: Genetica
+Title(s): Genetica.
+Publication Start Year: 1919
+Publication End Year: 
+Frequency: 9 no. a year
+Country of Publication: Netherlands
+Publisher: s'-Gravenhage.
+Latest Publisher: Dordrecht : Kluwer Academic
+Description: v. illus.
+Language: English, English
+ISSN: 0016-6707(Print); 1573-6857(Electronic); 0016-6707(Linking)
+Coden: GENEA3
+LCCN: 23013908, sn 88015798
+Electronic Links: https://link.springer.com/journal/10709
+Fully Indexed In: MEDLINE: v35n4, 1964-v43n4, 1972; v75n1, 1987-; PubMed: v35n4, 1964-v43n4, 1972; v75n1, 1987-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Biology*; Genetics*
+Publication Type(s): Periodical
+Notes: Publication suspended 1944-46. Also issued online. Text in English, Dutch,
+French, or German.
+Other ID: (DNLM)G04600000(s)(OCoLC)01570586
+NLM ID: 0370740[Serial]
+
+142. Author(s): Genetics Society of America.
+Title Abbreviation: Genetics
+Title(s): Genetics.
+Publication Start Year: 1916
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Austin, Tex. [etc.]
+Latest Publisher: 2021- : [Oxford] : Oxford University Press
+Description: v. illus., ports.
+Language: English
+ISSN: 0016-6731(Print); 1943-2631(Electronic); 0016-6731(Linking)
+Coden: GENTAE
+Electronic Links: https://academic.oup.com/genetics, https://pmc.ncbi.nlm.nih.gov/journals/?term=0374636
+Fully Indexed In: MEDLINE: v52n1,Jul. 1965-; Index medicus
+In: PubMed: v52n1,Jul. 1965-, OLDMEDLINE, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): DirectoryPeriodical
+Notes: One issue a year includes the Proceedings, directory, and program of the Genetics
+Society of America, 1963- Print issues ceased with v. 183, no. 4 (Dec. 2009).
+Supplements accompany some numbers. Available also online. Issued by the Genetics
+Society of America, 1963-
+Other ID: (DNLM)G04700000(s)(OCoLC)01570590
+NLM ID: 0374636[Serial]
+
+143. Author(s): American Genetic Association.
+Title Abbreviation: J Hered
+Title(s): The Journal of heredity.
+Publication Start Year: 1914
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Baltimore [etc.] American Genetic Assn.
+Latest Publisher: New York, NY : Oxford University Press For The American Genetic Association
+Description: v. illus., ports.
+Language: English
+ISSN: 0022-1503(Print); 1465-7333(Electronic); 0022-1503(Linking)
+Coden: JOHEA8
+Electronic Links: https://academic.oup.com/jhered
+Fully Indexed In: MEDLINE: v56n4,Jul.-Aug. 1965-; PubMed: v56n4,Jul.-Aug. 1965-; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Place of publication varies. Also available online.
+Other ID: (DNLM)J22760000(s)(OCoLC)01724935
+NLM ID: 0375373[Serial]
+
+144. Author(s): Indian Academy of Sciences.
+Title Abbreviation: J Genet
+Title(s): Journal of genetics.
+Publication Start Year: 1910
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: India
+Publisher: London : Chicago : Cambridge University Press ; University of Chicago Press,
+Latest Publisher: 2007- : New Delhi : Springer India in co-publication with Indian Academy of
+Sciences
+Description: v. ill.
+Language: English
+ISSN: 0022-1333(Print); 0973-7731(Electronic); 0022-1333(Linking)
+Coden: JOGNAU
+LCCN: sg16-22, sf82-7042
+Electronic Links: http://www.ias.ac.in/jgenet/, https://link.springer.com/journal/12041
+Fully Indexed In: MEDLINE: v80n1, Apr. 2001-; Index medicus
+In: PubMed: v80n1, Apr. 2001-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 30, no. 1 (Jan. 1935); title from cover. Suspended
+1977-1984. Also issued online. Indexes: Vols. 1 (1910)-12 (1922) with v. 12; v.
+13 (1923)-24 (1931) with v. 24; v. 25 (1932)-36 (1938) with v. 36.
+Other ID: (OCoLC)01643134
+NLM ID: 2985113R[Serial]
+
+145. Author(s): Eugenics Education Society (Great Britain); Eugenics Society (London, England)
+Title Abbreviation: Eugen Rev
+Title(s): The Eugenics review.
+Publication Start Year: 1909
+Publication End Year: 1968
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, Oliver and Boyd.
+Description: 60 v. in 55. illus., ports.
+Language: English
+Coden: EUREAB
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=0215413
+Fully Indexed In: MEDLINE: v56n1,Apr, 1964-V60,Dec. 1968; PubMed: v56n1,Apr, 1964-V60,Dec. 1968; Index medicus
+In: OLDMEDLINE, PMC
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Eugenics*
+Publication Type(s): Periodical
+Notes: Issues for Apr. 1928-Dec. 1968 called also new ser., v.1-41. Also issued online. 
+Microfilm. v. 1 (1909)-30 (1939). 9 microfilm reels : negative ; 35 mm. Issued
+Apr. 1909-1926? by the Eugenics Education Society; 1927?-60 by the Eugenics
+Society.
+Other ID: (DNLM)E14800000(s)(OCoLC)01568371
+NLM ID: 0215413[Serial]
+

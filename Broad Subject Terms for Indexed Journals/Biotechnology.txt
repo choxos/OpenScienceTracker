@@ -1,0 +1,3164 @@
+1. Title Abbreviation: Adv Biol (Weinh)
+Title(s): Advanced biology.
+Publication Start Year: 2021
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH GmbH, [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2701-0198(Electronic); 2701-0198(Linking)
+LCCN: 2021229574
+Electronic Links: https://onlinelibrary.wiley.com/journal/23667478
+Fully Indexed In: MEDLINE: v5n1, Jan. 2021-
+In: PubMed: v5n1, Jan. 2021-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Science Disciplines*
+Publication Type(s): Periodical
+Other ID: (OCoLC)1237745064
+NLM ID: 101775319[Serial]
+
+2. Title Abbreviation: Microb Physiol
+Title(s): Microbial physiology.
+Publication Start Year: 2020
+Publication End Year: 
+Country of Publication: Switzerland
+Publisher: Basel : Karger, [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2673-1673(Electronic); 2673-1665(Print); 2673-1665(Linking)
+LCCN: 2021229679
+Electronic Links: https://www.karger.com/Jo1urnal/Home/22839
+Fully Indexed In: MEDLINE: v30n1-6, 2020-
+In: PubMed: v30n1-6, 2020-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microbiological Phenomena*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2019.
+Other ID: (OCoLC)1181792339
+NLM ID: 101758692[Serial]
+
+3. Author(s): American Chemical Society,
+Title Abbreviation: ACS Appl Bio Mater
+Title(s): ACS applied bio materials.
+Publication Start Year: 2018
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, DC : ACS Publications, [2018]-
+Description: 1 online resource
+Language: English
+ISSN: 2576-6422(Electronic); 2576-6422(Linking)
+LCCN: 2018201157
+Electronic Links: https://pubs.acs.org/journal/aabmcb
+Fully Indexed In: MEDLINE: v4n1, Jan. 2021-
+In: PubMed: v4n1, Jan. 2021- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*
+Publication Type(s): Periodical
+Notes: Articles published as they become available and compiled into monthly issues.
+Other ID: (OCoLC)1020494649
+NLM ID: 101729147[Serial]
+
+4. Title Abbreviation: Adv Biosyst
+Title(s): Advanced biosystems.
+Publication Start Year: 2017
+Publication End Year: 2020
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim, Germany : Wiley-VCH Verlag GmbH & Co., [2017]-[2020]
+Description: 1 online resource
+Language: English
+ISSN: 2366-7478(Electronic); 2366-7478(Linking)
+LCCN: 2017243308
+Electronic Links: https://onlinelibrary.wiley.com/journal/23667478
+Fully Indexed In: MEDLINE: v4n1, Jan. 2020-v4n12, Dec. 2020
+In: PubMed: v4n1, Jan. 2020-v4n12, Dec. 2020 ; selected citations only before this
+date; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biological Science Disciplines*
+Publication Type(s): Periodical
+Notes: Some numbers issued in combined form.
+Other ID: (OCoLC)974042598
+NLM ID: 101711718[Serial]
+
+5. Author(s): American Chemical Society,
+Title Abbreviation: ACS Sens
+Title(s): ACS sensors.
+Publication Start Year: 2016
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, DC : American Chemical Society, [2016]-
+Description: 1 online resource
+Language: English
+ISSN: 2379-3694(Electronic); 2379-3694(Linking)
+LCCN: 2015200467
+Electronic Links: http://pubs.acs.org/journal/ascefj
+Fully Indexed In: MEDLINE: v2n1, Jan. 2017-
+In: PubMed: v2n1, Jan. 2017- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biosensing Techniques*
+Publication Type(s): Periodical
+Notes: Numbering from table of contents page.
+Other ID: (OCoLC)909899145
+NLM ID: 101669031[Serial]
+
+6. Title Abbreviation: ACS Biomater Sci Eng
+Title(s): ACS biomaterials science & engineering.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, DC : American Chemical Society, [2015]-
+Description: 1 online resource
+Language: English
+ISSN: 2373-9878(Electronic); 2373-9878(Linking)
+LCCN: 2014203260
+Electronic Links: http://pubs.acs.org/journal/abseba
+Fully Indexed In: MEDLINE: v6n1, Jan. 2020-
+In: PubMed: v6n1, Jan. 2020- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*; Bioengineering*
+Publication Type(s): Periodical
+Other ID: (OCoLC)883743949
+NLM ID: 101654670[Serial]
+
+7. Title Abbreviation: Artif Cells Nanomed Biotechnol
+Title(s): Artificial cells, nanomedicine, and biotechnology.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: London : Informa Healthcare, [2013]-
+Latest Publisher: 2015- : Abingdon, Oxford : Taylor & Francis
+Language: English
+ISSN: 2169-1401(Print); 2169-141X(Electronic); 2169-1401(Linking)
+LCCN: 2012203241
+Electronic Links: https://www.tandfonline.com/loi/ianb20
+Fully Indexed In: MEDLINE: v41n1, Feb. 2013-
+In: PubMed: v41n1, Feb. 2013-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*; Biotechnology; Nanotechnology
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 41 (2013). Also issued online.
+Other ID: (OCoLC)805700476
+NLM ID: 101594777[Serial]
+
+8. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: J Mater Chem B
+Title(s): Journal of materials chemistry. B.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Forty-eight no. a year
+Country of Publication: England
+Publisher: Cambridge : Royal Society of Chemistry
+Language: English
+ISSN: 2050-750X(Print); 2050-7518(Electronic); 2050-750X(Linking)
+Coden: JMCBDV
+LCCN: 2013243172
+Electronic Links: http://pubs.rsc.org/en/journals/journalissues/tb#
+Fully Indexed In: MEDLINE: v7n1, Jan. 2019-
+In: PubMed: v7n1, Jan. 2019- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*; Nanostructures; Nanotechnology
+Publication Type(s): Periodical
+Notes: Also on cover: Materials for biology and medicine. Print issues ceased with v. 7 
+(2019). Also issued online.
+Other ID: (OCoLC)835932194
+NLM ID: 101598493[Serial]
+
+9. Title Abbreviation: ACS Synth Biol
+Title(s): ACS synthetic biology.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, D.C. : American Chemical Society, c2012-
+Language: English
+ISSN: 2161-5063(Electronic); 2161-5063(Linking)
+LCCN: 2011202785
+Electronic Links: http://pubs.acs.org/journal/asbcd6
+Fully Indexed In: MEDLINE: v1n1, Jan. 2012-
+In: PubMed: v1n1, Jan. 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genetic Engineering; Synthetic Biology*
+Publication Type(s): Periodical
+Other ID: (OCoLC)725876736
+NLM ID: 101575075[Serial]
+
+10. Title Abbreviation: Bioengineered
+Title(s): Bioengineered.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Austin : Landes Bioscience
+Latest Publisher: 2015- : Philadelphia, PA : Taylor & Francis
+Language: English
+ISSN: 2165-5979(Print); 2165-5987(Electronic); 2165-5979(Linking)
+LCCN: 2012200045
+Electronic Links: http://www.tandfonline.com/toc/kbie20/current, https://pmc.ncbi.nlm.nih.gov/journals/?term=101581063
+Fully Indexed In: MEDLINE: v3n4, July/Aug. 2012-
+In: PubMed: v3n4, July/Aug. 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bioengineering*; DNA, Recombinant; Genetic Engineering
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)773711960
+NLM ID: 101581063[Serial]
+
+11. Title Abbreviation: Biomed Res Int
+Title(s): BioMed research international.
+Publication Start Year: 2012
+Publication End Year: 
+Country of Publication: United States
+Publisher: New York, NY : Hindawi Pub. Co.
+Latest Publisher: 2024- : [Hoboken, NJ] : Wiley
+Language: English
+ISSN: 2314-6141(Electronic); 2314-6133(Print)
+LCCN: 2013243114
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101600173, https://onlinelibrary.wiley.com/journal/2738
+Fully Indexed In: MEDLINE: v2013, 2013-
+In: PubMed: v2013, 2013-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Research*; Biotechnology
+Publication Type(s): Periodical
+Notes: Articles added consectively to current annual volume. Some articles in v. 2013
+published electronically in 2012.
+Other ID: (OCoLC)825938566
+NLM ID: 101600173[Serial]
+
+12. Title Abbreviation: GM Crops Food
+Title(s): GM crops & food.
+Publication Start Year: 2012
+Publication End Year: 
+Country of Publication: United States
+Publisher: Austin, Tex. : Landes Bioscience
+Latest Publisher: 2015- : Philadelphia, PA : Taylor & Francis
+Language: English
+ISSN: 2164-5698(Print); 2164-5701(Electronic); 2164-5698(Linking)
+LCCN: 2011202530
+Electronic Links: http://www.tandfonline.com/toc/kgmc20/current, https://pmc.ncbi.nlm.nih.gov/journals/?term=101572655
+Fully Indexed In: MEDLINE: v3n1, Jan. 2012-
+In: PubMed: v3n1, Jan. 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Food Industry; Food, Genetically Modified; Plants, Genetically Modified*
+Publication Type(s): Periodical
+Notes: "Biotechnology in agriculture and the food chain." Also issued online.
+Other ID: (OCoLC)759863751
+NLM ID: 101572655[Serial]
+
+13. Title Abbreviation: Biomatter
+Title(s): Biomatter.
+Publication Start Year: 2011
+Publication End Year: 2016
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Austin, TX : Landes Bioscience
+Latest Publisher: 2015- : Philadelphia, PA : Taylor & Francis
+Language: English
+ISSN: 2159-2527(Print); 2159-2535(Electronic); 2159-2527(Linking)
+LCCN: 2010203821
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101564974, https://www.tandfonline.com/toc/kbim20/current
+Fully Indexed In: MEDLINE: v1n1, July-Aug-Sept. 2011-v6n1, 2016
+In: PubMed: v1n1, July-Aug-Sept. 2011-v6n1, 2016, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biocompatible Materials*; Biomimetic Materials
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 2, no. 4 (2012). Vol. 1 complete in two issues. Also 
+issued online.
+Other ID: (OCoLC)694183416
+NLM ID: 101564974[Serial]
+
+14. Author(s): Multidisciplinary Digital Publishing Institute.
+Title Abbreviation: Biosensors (Basel)
+Title(s): Biosensors.
+Publication Start Year: 2011
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Switzerland
+Publisher: Basel, Switzerland : MDPI Pub.
+Language: English
+ISSN: 2079-6374(Electronic); 2079-6374(Linking)
+Coden: BIOSHU
+LCCN: 2012261188
+Electronic Links: http://www.mdpi.com/journal/biosensors, https://pmc.ncbi.nlm.nih.gov/journals/?term=101609191
+Fully Indexed In: MEDLINE: v4n1, March 2014-
+In: PubMed: v1n1, March 2011-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biosensing Techniques*
+Publication Type(s): Periodical
+Other ID: (OCoLC)796728300
+NLM ID: 101609191[Serial]
+
+15. Title Abbreviation: Bioeng Bugs
+Title(s): Bioengineered bugs.
+Publication Start Year: 2010
+Publication End Year: 2012
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Austin, Tex. : Landes Bioscience
+Language: English
+ISSN: 1949-1018(Print); 1949-1026(Electronic); 1949-1018(Linking)
+LCCN: 2009203201
+Electronic Links: http://www.tandfonline.com/toc/kbie20/current
+Fully Indexed In: MEDLINE: v1n1, Jan/Feb 2010-v3n3, May/June 2012
+In: PubMed: v1n1, Jan/Feb 2010-v3n3, May/June 2012; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bioengineering*; DNA, Recombinant; Genetic Engineering
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)401343649
+NLM ID: 101525147[Serial]
+
+16. Author(s): American Chemical Society.
+Title Abbreviation: ACS Appl Mater Interfaces
+Title(s): ACS applied materials & interfaces.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, D.C. : American Chemical Society
+Language: English
+ISSN: 1944-8244(Print); 1944-8252(Electronic); 1944-8244(Linking)
+LCCN: 2008201974
+Electronic Links: http://pubs.acs.org/loi/aamick
+In: PubMed: v1n1, Jan. 2009-; 
+Selectively Indexed in: MEDLINEv1n1, Jan. 2009-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials; Chemical Phenomena*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 1 (Jan. 2009); title from cover. Also issued
+online.
+Other ID: (OCoLC)238703087
+NLM ID: 101504991[Serial]
+
+17. Title Abbreviation: Biofabrication
+Title(s): Biofabrication.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Bristol : IOP Pub., 2009-
+Description: v. : ill. ; 29 cm.
+Language: English
+ISSN: 1758-5082(Print); 1758-5090(Electronic); 1758-5082(Linking)
+LCCN: 2010243394
+Electronic Links: http://iopscience.iop.org/journal/1758-5090
+Fully Indexed In: MEDLINE: v1n1, Mar. 2009-
+In: PubMed: v1n1, Mar. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bioengineering; Biomedical Engineering*; Tissue Engineering
+Publication Type(s): Periodical
+Notes: Latest issue consulted: Vol. 1, no. 1 (Mar. 2009). Print issues ceased with 2014.
+Also issued online.
+Other ID: (OCoLC)500685943
+NLM ID: 101521964[Serial]
+
+18. Author(s): International Society for Biological and Environmental Repositories.
+Title Abbreviation: Biopreserv Biobank
+Title(s): Biopreservation and biobanking.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Six no. a year, 2012-
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert
+Language: English
+ISSN: 1947-5535(Print); 1947-5543(Electronic); 1947-5543(Linking)
+LCCN: 2009202338
+Electronic Links: http://online.liebertpub.com/loi/bio
+Fully Indexed In: MEDLINE: v12n1, Feb. 2014-
+In: PubMed: v12n1, Feb. 2014- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Preservation, Biological*; Tissue Banks
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 6, no. 4 (2008); title from cover. Latest issue
+consulted: Vol. 6, no. 4 (2008). Also issued online.
+Other ID: (OCoLC)313373680
+NLM ID: 101507284[Serial]
+
+19. Author(s): Tissue Engineering & Regenerative Medicine International Society.
+Title Abbreviation: Tissue Eng Part A
+Title(s): Tissue engineering. Part A.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc.
+Language: English
+ISSN: 1937-3341(Print); 1937-335X(Electronic); 1937-3341(Linking)
+LCCN: 2007213654
+Electronic Links: http://online.liebertpub.com/loi/tea
+Fully Indexed In: MEDLINE: v14n1, Jan. 2008-; PubMed: v14n1, Jan. 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials; Guided Tissue Regeneration; Tissue Engineering*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)156908427
+NLM ID: 101466659[Serial]
+
+20. Author(s): Tissue Engineering & Regenerative Medicine International Society.
+Title Abbreviation: Tissue Eng Part B Rev
+Title(s): Tissue engineering. Part B, Reviews.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc.
+Language: English
+ISSN: 1937-3368(Print); 1937-3376(Electronic); 1937-3368(Linking)
+LCCN: 2007213656
+Electronic Links: http://online.liebertpub.com/loi/teb
+Fully Indexed In: MEDLINE: v14n1, Mar. 2008-; PubMed: v14n1, Mar. 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Guided Tissue Regeneration; Research; Tissue Engineering*
+Publication Type(s): PeriodicalReview
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)156908452
+NLM ID: 101466660[Serial]
+
+21. Author(s): Tissue Engineering & Regenerative Medicine International Society.
+Title Abbreviation: Tissue Eng Part C Methods
+Title(s): Tissue engineering. Part C, Methods.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New Rochelle, NY : Mary Ann Liebert, Inc.
+Language: English
+ISSN: 1937-3384(Print); 1937-3392(Electronic); 1937-3384(Linking)
+LCCN: 2007213658
+Electronic Links: http://online.liebertpub.com/loi/tec
+Fully Indexed In: MEDLINE: v14n1, Mar. 2008-; PubMed: v14n1, Mar. 2008-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Guided Tissue Regeneration; Tissue Engineering/methods*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Also issued online.
+Other ID: (OCoLC)156908473
+NLM ID: 101466663[Serial]
+
+22. Title Abbreviation: Wiley Interdiscip Rev Nanomed Nanobiotechnol
+Title(s): Wiley interdisciplinary reviews. Nanomedicine and nanobiotechnology.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Hoboken, NJ : John Wiley & Sons
+Language: English
+ISSN: 1939-5116(Print); 1939-0041(Electronic); 1939-0041(Linking)
+LCCN: 2007216045
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0041
+Fully Indexed In: MEDLINE: v1n1, Jan./Feb. 2009-
+In: PubMed: v1n1, Jan./Feb. 2009-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Nanomedicine*; Nanotechnology
+Publication Type(s): PeriodicalReview
+Notes: Description based on: Vol. 1, no. 1 (Jan./Feb. 2009).; title from cover. Latest
+issue consulted: Vol. 1, no. 4 (July/Aug. 2009). Print issues ceased with v. 1,
+no. 4 (2011). Also issued online.
+Other ID: (OCoLC)164586455
+NLM ID: 101508311[Serial]
+
+23. Author(s): IEEE Circuits and Systems Society.; IEEE Engineering in Medicine and Biology
+Society.; Institute of Electrical and Electronics Engineers.
+Title Abbreviation: IEEE Trans Biomed Circuits Syst
+Title(s): IEEE transactions on biomedical circuits and systems.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Six no. a year, 2009-
+Country of Publication: United States
+Publisher: New York, NY : IEEE, c2007-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1932-4545(Print); 1940-9990(Electronic); 1932-4545(Linking)
+LCCN: 2006213426
+Electronic Links: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4156126
+Fully Indexed In: MEDLINE: v6n1, Feb. 2012-
+In: PubMed: v6n1, Feb. 2012- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bionics; Electronics, Medical*
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from cover. Print issues ceased with
+2024. Also issued online.
+Other ID: (OCoLC)70261562
+NLM ID: 101312520[Serial]
+
+24. Author(s): Institution of Engineering and Technology.
+Title Abbreviation: IET Nanobiotechnol
+Title(s): IET nanobiotechnology/ IET.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Nine issues a year, 2019-
+Country of Publication: United States
+Publisher: Stevenage, Herts, UK : Institution of Engineering and Technology, c2007-
+Latest Publisher: 2024- : [Hoboken, NJ] : Wiley
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1751-8741(Print); 1751-875X(Electronic); 1751-8741(Linking)
+LCCN: 2007251101
+Electronic Links: http://digital-library.theiet.org/content/journals/iet-nbt, https://ietresearch.onlinelibrary.wiley.com/journal/ietnbt, https://pmc.ncbi.nlm.nih.gov/journals/?term=101303205
+Fully Indexed In: MEDLINE: v1n1, Feb. 2007-; PubMed: v1n1, Feb. 2007-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2020. Also issued online; subscription
+required for full-text online access.
+Other ID: (OCoLC)86085276
+NLM ID: 101303205[Serial]
+
+25. Title Abbreviation: J Tissue Eng Regen Med
+Title(s): Journal of tissue engineering and regenerative medicine.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Chichester, West Sussex, UK : John Wiley & Sons
+Language: English
+ISSN: 1932-6254(Print); 1932-7005(Electronic); 1932-6254(Linking)
+LCCN: 2006214583
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-7005, https://www.hindawi.com/journals/jterm/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101308490
+Fully Indexed In: MEDLINE: v1n1, Jan./Feb. 2007-; PubMed: v1n1, Jan./Feb. 2007-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Regenerative Medicine*; Tissue Engineering*
+Publication Type(s): Periodical
+Notes: Description based on : Vol. 1, no. 4 (July-Aug. 2007); title from cover. Also
+issued online.
+Other ID: (OCoLC)70709168
+NLM ID: 101308490[Serial]
+
+26. Author(s): Society for Applied Microbiology.
+Title Abbreviation: Microb Biotechnol
+Title(s): Microbial biotechnology.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Oxford : Blackwell, c2008-
+Latest Publisher: Hoboken, NJ : Wiley-Blackwell
+Language: English
+ISSN: 1751-7915(Electronic); 1751-7915(Linking)
+LCCN: 2008244037
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101316335, http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-7915
+Fully Indexed In: MEDLINE: v1n1, Jan. 2008-
+In: PubMed: v1n1, Jan. 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*; Microbiology
+Publication Type(s): Periodical
+Notes: Description based on first issue; title from home page (publisher's Web site,
+viewed Dec. 2, 2008). Published jointly with the Society for Applied
+Microbiology. Some articles in v. 2008 published electronically in 2007.
+Other ID: (OCoLC)229135858
+NLM ID: 101316335[Serial]
+
+27. Title Abbreviation: Recent Pat Biotechnol
+Title(s): Recent patents on biotechnology.
+Publication Start Year: 2007
+Publication End Year: 
+Frequency: Four no. a year, 2018-
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science Publishers, 2007-
+Language: English
+ISSN: 1872-2083(Print); 2212-4012(Electronic); 1872-2083(Linking)
+LCCN: 2007205072
+Electronic Links: http://www.eurekaselect.com/650/journal/recent-patents-biotechnology
+Fully Indexed In: MEDLINE: v1n1, Jan. 2007-
+In: PubMed: v1n1, Jan. 2007-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*; Patents as Topic
+Publication Type(s): Periodical
+Notes: Description based on Vol. 1, no. 3 (Nov. 2007); title from cover. Also issued
+online.
+Other ID: (OCoLC)73689969
+NLM ID: 101309942[Serial]
+
+28. Author(s): American Vacuum Society.
+Title Abbreviation: Biointerphases
+Title(s): Biointerphases.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [New York, N.Y.] : AVS, c2006-
+Latest Publisher: 2014 : Melville, NY : AIP Publishing
+Language: English
+ISSN: 1559-4106(Electronic); 1934-8630(Print); 1559-4106(Linking)
+LCCN: 2006212031
+Electronic Links: https://pubs.aip.org/avs/bip
+Fully Indexed In: MEDLINE: v5n1, Mar. 2010-
+In: PubMed: v5n1, Mar. 2010-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*
+Publication Type(s): Periodical
+Notes: Called also: Biointerphases journal. Title from issue contents screen
+(publisher's Web site, viewed May 1, 2006). Print issues ceased with 2011. Mode
+of access: World Wide Web.
+Other ID: (OCoLC)63164305
+NLM ID: 101275679[Serial]
+
+29. Title Abbreviation: Biotechnol J
+Title(s): Biotechnology journal.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Weinheim : Wiley-VCH Verlag, c2006-
+Description: v.
+Language: English
+ISSN: 1860-6768(Print); 1860-7314(Electronic); 1860-6768(Linking)
+LCCN: 2006205072
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-7314
+Fully Indexed In: MEDLINE: v1n1, Jan. 2006-; PubMed: v1n1, Jan. 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2013. Vols. for 2006- called also:
+2006/1- . Also issued online.
+Other ID: (OCoLC)65430629
+NLM ID: 101265833[Serial]
+
+30. Title Abbreviation: Regen Med
+Title(s): Regenerative medicine.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Monthly, 2019-
+Country of Publication: England
+Publisher: London, UK : Future Medicine Ltd., c2006-
+Latest Publisher: 2024- : [Milton Park, Oxfordshire] : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1746-0751(Print); 1746-076X(Electronic); 1746-0751(Linking)
+LCCN: 2006244077
+Electronic Links: https://www.tandfonline.com/journals/irme20, https://pmc.ncbi.nlm.nih.gov/journals/?term=101278116
+Fully Indexed In: MEDLINE: v1n1, Jan. 2006-; PubMed: v1n1, Jan. 2006-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Regenerative Medicine*; Stem Cells
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)71284572
+NLM ID: 101278116[Serial]
+
+31. Author(s): American Academy of Nanomedicine.
+Title Abbreviation: Nanomedicine
+Title(s): Nanomedicine : nanotechnology, biology, and medicine.
+Publication Start Year: 2005
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, NY : Elsevier, c2005-
+Description: v. : ill.
+Language: English
+ISSN: 1549-9634(Print); 1549-9642(Electronic); 1549-9634(Linking)
+LCCN: 2004212272
+Electronic Links: http://www.sciencedirect.com/science/journal/15499634
+Fully Indexed In: MEDLINE: v1n1, Mar. 2005-; PubMed: v1n1, Mar. 2005-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology; Nanostructures; Nanotechnology*
+Publication Type(s): Periodical
+Notes: "The official journal of the American Academy of Nanomedicine." Print issues
+ceased with v. 3 (2007)? Also issued online.
+Other ID: (OCoLC)54953022
+NLM ID: 101233142[Serial]
+
+32. Title Abbreviation: Organogenesis
+Title(s): Organogenesis.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Four times a year
+Country of Publication: United States
+Publisher: Georgetown, TX : Landes Bioscience
+Latest Publisher: 2015- : Philadelphia, PA : Taylor & Francis
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1547-6278(Print); 1555-8592(Electronic); 1547-6278(Linking)
+LCCN: 2003215636
+Electronic Links: http://www.tandfonline.com/toc/kogg20/current, https://pmc.ncbi.nlm.nih.gov/journals/?term=101253266
+Fully Indexed In: MEDLINE: v6n1, Jan-Mar 2010-
+In: PubMed: v1n1, Jul-Aug 2004-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Organogenesis*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, issue 2 (Oct./Nov./Dec. 2004); title from cover.
+Latest issue consulted: Vol. 4, issue 1 (Jan./Feb./Mar. 2008). Also issued
+online.
+Other ID: (OCoLC)53480530
+NLM ID: 101253266[Serial]
+
+33. Author(s): Oxford University Press.
+Title Abbreviation: Protein Eng Des Sel
+Title(s): Protein engineering, design & selection : PEDS.
+Publication Start Year: 2004
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Oxford, UK : Oxford University Press, c2003-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1741-0126(Print); 1741-0134(Electronic); 1741-0126(Linking)
+Coden: PEDSBR
+LCCN: 2004243106
+Electronic Links: https://academic.oup.com/peds
+Fully Indexed In: MEDLINE: v17n1, Jan. 2004-; PubMed: v17n1, Jan. 2004-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Protein Engineering*
+Publication Type(s): Periodical
+Notes: Title from cover. Also available online.
+Other ID: (OCoLC)54101200
+NLM ID: 101186484[Serial]
+
+34. Author(s): Institution of Electrical Engineers.
+Title Abbreviation: IEE Proc Nanobiotechnol
+Title(s): IEE proceedings. Nanobiotechnology.
+Publication Start Year: 2003
+Publication End Year: 2006
+Frequency: Bimonthly, 2004-
+Country of Publication: England
+Publisher: Stevenage, U.K. : Institution of Electrical Engineers, c2003-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1478-1581(Print); 1740-9748(Electronic); 1478-1581(Linking)
+Coden: IPNEAY
+LCCN: 2003242118
+Fully Indexed In: MEDLINE: v152n1, Feb. 2005-v153n6, Dec. 2006; PubMed: v152n1, Feb. 2005-v153n6, Dec. 2006
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology; Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (OCoLC)52592472
+NLM ID: 101188789[Serial]
+
+35. Title Abbreviation: J Nanobiotechnology
+Title(s): Journal of nanobiotechnology.
+Publication Start Year: 2003
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, 2003-
+Language: English
+ISSN: 1477-3155(Electronic); 1477-3155(Linking)
+LCCN: 2003243100
+Electronic Links: https://jnanobiotechnology.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101152208
+Fully Indexed In: MEDLINE: v9, Jan. 2011-
+In: PubMed: v1n1,2003-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title on title bar: JN. Title from home page (viewed Feb. 11, 2003). Individual
+articles are numbered with volume and article number, e.g., 1:1. Mode of access: 
+Internet.
+Other ID: (OCoLC)51762317
+NLM ID: 101152208[Serial]
+
+36. Title Abbreviation: Plant Biotechnol J
+Title(s): Plant biotechnology journal.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: [Oxford] : Blackwell Pub., c2003-
+Latest Publisher: 2014- : Oxford Wiley on behalf of the Society for Experimental Biology,
+Association of Applied Biologists
+Description: v. : ill. (some col.) ; 30 cm.
+Language: English
+ISSN: 1467-7644(Print); 1467-7652(Electronic); 1467-7644(Linking)
+LCCN: 2003200656
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-7652, https://pmc.ncbi.nlm.nih.gov/journals/?term=101201889
+Fully Indexed In: MEDLINE: v4n1, Jan. 2006-; PubMed: v4n1, Jan. 2006-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*; Plants
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 2, no. 1 (Jan. 2004). Print issues
+ceased v. 10, no. 8 (2012). Also issued online.
+Other ID: (OCoLC)52242672
+NLM ID: 101201889[Serial]
+
+37. Author(s): Institute of Electrical and Electronics Engineers.; IEEE Engineering in Medicine 
+and Biology Society.
+Title Abbreviation: IEEE Trans Nanobioscience
+Title(s): IEEE transactions on nanobioscience.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Piscataway, NJ : Institute of Electrical and Electronics Engineers, c2002-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1536-1241(Print); 1558-2639(Electronic); 1536-1241(Linking)
+Coden: ITMCEL
+LCCN: 2001211739
+Electronic Links: http://ieeexplore.ieee.org/servlet/opac?punumber=7728
+Fully Indexed In: MEDLINE: v1n1, Mar. 2002-; Index medicus
+In: PubMed: v1n1, Mar. 2002-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering; Computational Biology; Nanotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 2, no. 1 (Mar. 2003). Print issues
+ceased with v.15 (2016). Also issued online. A publication of the IEEE
+Engineering in Medicine and Biology Society and 5 other IEEE societies or
+councils.
+Other ID: (OCoLC)47360509
+NLM ID: 101152869[Serial]
+
+38. Title Abbreviation: Bioprocess Biosyst Eng
+Title(s): Bioprocess and biosystems engineering.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Germany
+Publisher: Berlin, Germany : Springer-Verlag, 2001-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1615-7591(Print); 1615-7605(Electronic); 1615-7591(Linking)
+LCCN: 2001261173
+Electronic Links: https://link.springer.com/journal/449
+Fully Indexed In: MEDLINE: v25n1, Apr. 2002-; PubMed: v25n1, Apr. 2002-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Products/analysis*; Biomedical Engineering; Biotechnology
+Publication Type(s): Periodical
+Notes: Title from cover. Two v. issued per year, 6 issues per v. Also issued online.
+Other ID: (OCoLC)48044883
+NLM ID: 101088505[Serial]
+
+39. Title Abbreviation: BMC Biotechnol
+Title(s): BMC biotechnology.
+Publication Start Year: 2001
+Publication End Year: 
+Country of Publication: England
+Publisher: [London] : BioMed Central, 2001-
+Language: English
+ISSN: 1472-6750(Electronic); 1472-6750(Linking)
+LCCN: 2001243451
+Electronic Links: https://bmcbiotechnol.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101088663
+Fully Indexed In: MEDLINE: v1, 2001-; Index medicus
+In: PubMed: v1, 2001-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*
+Publication Type(s): Periodical
+Notes: Title from BioMed Central archive screen (viewed Dec. 17, 2001). Articles added
+consecutively to the current annual v. Mode of access: Internet.
+Other ID: (OCoLC)47653524
+NLM ID: 101088663[Serial]
+
+40. Title Abbreviation: J Biomed Biotechnol
+Title(s): Journal of biomedicine & biotechnology.
+Publication Start Year: 2001
+Publication End Year: 2012
+Country of Publication: United States
+Publisher: Akron, Ohio : Hindawi Pub. Corp., [2001-
+Latest Publisher: 2006- : Cairo : Hindawi Pub. Corp.
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1110-7251(Electronic); 1110-7243(Print); 1110-7243(Linking)
+Coden: JBBOAJ
+LCCN: 2001242209
+Electronic Links: http://www.hindawi.com/journals/jbb/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101135740
+Fully Indexed In: MEDLINE: v2008n1, 2008-v2012, 2012
+In: PubMed: v2008n1, 2008-v2012, 2012, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biology; Biotechnology; Medicine*
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 2012 (2012) (viewed Mar. 6, 2013).
+Published: Cuyahoga Falls, OH, v. 2, no. 1 (2001)- Each issue also has a
+distinctive title, 2006- . Beginning in 2006, volume numbering corrresponds to a 
+calendar year; articles are provided with Hindawi ID numbers but no specific
+publication date is indicated other than volume and year. Also issued in print.
+Other ID: (OCoLC)48512954
+NLM ID: 101135740[Serial]
+
+41. Author(s): Royal Society of Chemistry (Great Britain)
+Title Abbreviation: Lab Chip
+Title(s): Lab on a chip.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Twenty-four no. a year, 2009-
+Country of Publication: England
+Publisher: Cambridge, UK : Royal Society of Chemistry, c2001-
+Description: v. : ill. ; 30 cm.
+Language: English
+ISSN: 1473-0197(Print); 1473-0189(Electronic); 1473-0189(Linking)
+Coden: LCAHAM
+LCCN: 2001257026
+Electronic Links: http://www.rsc.org/is/journals/current/loc/locpub.htm
+Selectively Indexed in: MEDLINEv1n1,Sept. 2001-PubMedv1n1,Sept. 2001-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Microchemistry; Miniaturization; Nanotechnology*
+Publication Type(s): Periodical
+Notes: "Miniaturisation for chemistry and biology." Print issues ceased with v. 19
+(2019). Also issued online.
+Other ID: (OCoLC)48200889
+NLM ID: 101128948[Serial]
+
+42. Title Abbreviation: Microb Cell Fact
+Title(s): Microbial cell factories.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Annual
+Country of Publication: England
+Publisher: London : BioMed Central, [2002-
+Language: English
+ISSN: 1475-2859(Electronic); 1475-2859(Linking)
+LCCN: 2002252927
+Electronic Links: https://microbialcellfactories.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101139812
+Fully Indexed In: MEDLINE: v8n1, 2009-
+In: PubMed: v1n1,2002-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Cell Culture Techniques/statistics & numerical data; Cells/microbiology*; Genetics, Microbial; Recombinant Proteins
+Notes: Title from BioMed Central archive volume screen (viewed Aug. 16, 2002). Articles 
+are added consecutively to the current annual volume. Text (electronic journal)
+available in HTML and PDF formats. System requirements: Adobe Acrobat Reader.
+Mode of access: Internet.
+Other ID: (OCoLC)49659655
+NLM ID: 101139812[Serial]
+
+43. Author(s): Molecular Diversity Preservation International.
+Title Abbreviation: Sensors (Basel)
+Title(s): Sensors.
+Publication Start Year: 2001
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Switzerland
+Publisher: Basel, Switzerland : MDPI, c2000-
+Language: English
+ISSN: 1424-8220(Electronic); 1424-8220(Linking)
+Coden: SENSC9
+LCCN: 2002242115
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101204366, http://www.mdpi.com/journal/sensors
+In: PubMed: v10n1, June 2010-, PMC; 
+Selectively Indexed in: MEDLINEv10n1, June 2010-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biosensing Techniques*
+Publication Type(s): Periodical
+Notes: HTML title bar title: Sensor. Title from tables of contents page (viewed Aug. 14,
+2002). Mode of access: World Wide Web.
+Other ID: (OCoLC)47250782
+NLM ID: 101204366[Serial]
+
+44. Title Abbreviation: BMC Genet
+Title(s): BMC genetics.
+Publication Start Year: 2000
+Publication End Year: 2020
+Country of Publication: England
+Publisher: London : BioMed Central, [2000-
+Language: English
+ISSN: 1471-2156(Electronic); 1471-2156(Linking)
+Coden: BGMEDS
+LCCN: 2002243070
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=100966978, https://link.springer.com/journal/12863
+Fully Indexed In: MEDLINE: v1, 2000-v21, 2020; Index medicus
+In: PubMed: v1, 2000-v21, 2020, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetic Techniques*; Genetics*
+Publication Type(s): Periodical
+Notes: Title from BioMed Central archive volume screen (viewed on Feb. 14, 2002).
+Articles are added consecutively to the current annual v. Text (electronic
+journal) available in PDF and HTML format. System requirements: Internet
+connectivity and World Wide Web browser. Mode of access: Internet.
+Other ID: (OCoLC)45245773
+NLM ID: 100966978[Serial]
+
+45. Title Abbreviation: Curr Pharm Biotechnol
+Title(s): Current pharmaceutical biotechnology.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Monthly, 2011-
+Country of Publication: Netherlands
+Publisher: Hilversum, Netherlands ; Boca Raton, FL : Bentham Science Publishers, c2000-
+Description: v.
+Language: English
+ISSN: 1389-2010(Print); 1873-4316(Electronic); 1389-2010(Linking)
+Coden: CPBUBP
+LCCN: 00243488
+Electronic Links: http://www.eurekaselect.com/607/journal/current-pharmaceutical-biotechnology
+Fully Indexed In: MEDLINE: v1n1, July 2000-; Index medicus
+In: PubMed: v1n1, July 2000-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biological Products*; Biotechnology; Drug Therapy
+Publication Type(s): PeriodicalReview
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)45201710
+NLM ID: 100960530[Serial]
+
+46. Title Abbreviation: J Mol Microbiol Biotechnol
+Title(s): Journal of molecular microbiology and biotechnology.
+Publication Start Year: 1999
+Publication End Year: 2019
+Frequency: 8 no. a year, 2003-
+Country of Publication: Switzerland
+Publisher: Wymonham, Norfolk, UK : Horizon Scientific Press, c1999-
+Latest Publisher: 2003- : Basel ; New York : Karger
+Description: v. : ill.
+Language: English
+ISSN: 1464-1801(Print); 1660-2412(Electronic); 1464-1801(Linking)
+LCCN: 00-243130
+Electronic Links: http://www.karger.com/Journal/Home/228391
+Fully Indexed In: MEDLINE: v1n1, Aug. 1999-v29n1-6, July 2020; PubMed: v1n1, Aug. 1999-v29n1-6, July 2020; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Microbiology*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (OCoLC)43544222
+NLM ID: 100892561[Serial]
+
+47. Author(s): European Society for Marine Biotechnology.; Marin Baiotekunorojī Kenkyūkai
+(Japan); Pan American Marine Biotechnology Association.
+Title Abbreviation: Mar Biotechnol (NY)
+Title(s): Marine biotechnology.
+Publication Start Year: 1999
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, NY : Springer-Verlag New York Inc., c1999-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1436-2228(Print); 1436-2236(Electronic); 1436-2228(Linking)
+LCCN: sn 99038104
+Electronic Links: https://link.springer.com/journal/10126
+Fully Indexed In: MEDLINE: v5n1,Jan./Feb. 2003-; PubMed: v5n1,Jan./Feb. 2003-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*; Marine Biology*; Molecular Biology
+Publication Type(s): Periodical
+Notes: Title from cover. Latest issue consulted: Vol. 5, no. 1 (Jan./Feb. 2003). Also
+issued online. Official journal of: European Society for Marine Biotechnology,
+and: Japanese Society of Marine Biotechnology; v. for <Jan. 2003-> are also the
+official journal of Pan American Marine Biotechnology Association.
+Other ID: (OCoLC)41260523
+NLM ID: 100892712[Serial]
+
+48. Author(s): Association of Biomolecular Resource Facilities.
+Title Abbreviation: J Biomol Tech
+Title(s): Journal of biomolecular techniques : JBT.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Santa Fe, NM : Association of Biomolecular Resource Facilities
+Description: v. : ill.
+Language: English
+ISSN: 1524-0215(Print); 1943-4731(Electronic); 1524-0215(Linking)
+LCCN: sn 99008357
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=100888641, http://jbt.abrf.org/
+Fully Indexed In: MEDLINE: v14n1,Mar. 2003-; Index medicus
+In: PubMed: v10, 1999-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Molecular Biology/methods*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 19, no. 1 (Feb. 2009) Description based on: Vol. 13, 
+issue 1 (Mar. 2002); title from cover. Also issued online. Official publication
+of the Association of Biomolecular Resource Facilities.
+Other ID: (OCoLC)40901840
+NLM ID: 100888641[Serial]
+
+49. Title Abbreviation: Fold Des
+Title(s): Folding & design.
+Publication Start Year: 1996
+Publication End Year: 1998
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: London ; San Francisco, CA : Current Biology, c1996-c1999.
+Latest Publisher: 1996-1998: London : Current Biology
+Description: 3 v. : ill.
+Language: English
+ISSN: 1359-0278(Print); 1359-0278(Linking)
+Coden: FODEFH
+LCCN: 96642396, sn 96039378
+Electronic Links: http://journals.bmn.com/
+Fully Indexed In: MEDLINE: v1n1, 1996-v3n6, 1998; PubMed: v1n1, 1996-v3n6, 1998; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Protein Engineering*; Protein Folding*; Proteins/analysis*
+Publication Type(s): Periodical
+Notes: Also available on the Internet. Individual articles are published via the
+Internet shortly after they are accepted, and before the issue in which they
+appear is printed.
+Other ID: (DNLM)SR0086394(s)(OCoLC)34497231
+NLM ID: 9604387[Serial]
+
+50. Author(s): Nihon Iden Gakkai.
+Title Abbreviation: Genes Genet Syst
+Title(s): Genes & genetic systems.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Japan
+Publisher: Mishima, Shizuoka, Japan : Genetics Society of Japan, 1996-
+Description: v. : ill.
+Language: English
+ISSN: 1341-7568(Print); 1880-5779(Electronic); 1341-7568(Linking)
+Coden: GGSYF5
+Electronic Links: https://www.jstage.jst.go.jp/browse/ggs
+Fully Indexed In: MEDLINE: v71n1,Feb. 1996-; Index medicus
+In: PubMed: v71n1,Feb. 1996-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Genes*; Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Supplements, primarily in Japanese, accompany some issues. Also
+issued online. Official journal of the Genetics Society of Japan.
+Other ID: (DNLM)SR0086761(s)(OCoLC)34770172
+NLM ID: 9607822[Serial]
+
+51. Author(s): Society for Industrial Microbiology (U.S.)
+Title Abbreviation: J Ind Microbiol Biotechnol
+Title(s): Journal of industrial microbiology & biotechnology.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Germany
+Publisher: Houndmills, Basingstoke, Hampshire, UK : Published by Stockton Press on behalf of
+the Society for Industrial Microbiology, c1996-
+Latest Publisher: 2021- : [Oxford] : Oxford University Press
+Description: v. : ill.
+Language: English
+ISSN: 1367-5435(Print); 1476-5535(Electronic); 1367-5435(Linking)
+Coden: JIMBFL
+LCCN: sn97-50111
+Electronic Links: https://link.springer.com/journal/10295, https://academic.oup.com/jimb, https://pmc.ncbi.nlm.nih.gov/journals/?term=9705544
+Fully Indexed In: MEDLINE: v17n3-4, Sept.-Oct. 1996-v20n2, Feb. 1998; v26n1-2, Jan.-Feb. 2001-; Index medicus
+In: PubMed: v17n3-4, Sept.-Oct. 1996-v20n2, Feb. 1998; v26n1-2, Jan.-Feb. 2001-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Industrial Microbiology
+Publication Type(s): Periodical
+Notes: Title from cover. Some no. issued in combined form. Also issued online.
+Other ID: (DNLM)SR0090812(s)(OCoLC)36152461
+NLM ID: 9705544[Serial]
+
+52. Title Abbreviation: Microb Comp Genomics
+Title(s): Microbial & comparative genomics.
+Publication Start Year: 1996
+Publication End Year: 2000
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., c1996-c2000.
+Description: 5 v. : ill.
+Language: English
+ISSN: 1090-6592(Print); 1090-6592(Linking)
+Coden: MCGEFP
+Electronic Links: http://www.liebertonline.com/omi
+Fully Indexed In: MEDLINE: v1n3, 1996-v5n4, 2000; PubMed: v1n3, 1996-v5n4, 2000; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Base Sequence*; Chromosome Mapping*; Genome*; Sequence Analysis, DNA*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0089913(s)(OCoLC)35396705
+NLM ID: 9616596[Serial]
+
+53. Author(s): Nature Publishing Company.
+Title Abbreviation: Nat Biotechnol
+Title(s): Nature biotechnology.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Thirteen no. a year
+Country of Publication: United States
+Publisher: New York, NY : Nature Pub. Co., [1996-
+Latest Publisher: New York Ny : Nature America Publishing
+Description: v. : ill.
+Language: English
+ISSN: 1087-0156(Print); 1546-1696(Electronic); 1087-0156(Linking)
+Coden: NABIF9
+Electronic Links: http://www.nature.com/nbt/
+Fully Indexed In: MEDLINE: v14n3,Mar. 1996-; PubMed: v14n3,Mar. 1996-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0085420(s)(OCoLC)34160925
+NLM ID: 9604648[Serial]
+
+54. Title Abbreviation: Prep Biochem Biotechnol
+Title(s): Preparative biochemistry & biotechnology.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: New York, NY : Marcel Dekker, c1996-
+Latest Publisher: <2005-> : Abingdon, Oxford : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1082-6068(Print); 1532-2297(Electronic); 1082-6068(Linking)
+Coden: PBBIF4
+LCCN: sn 95004848
+Electronic Links: http://www.tandfonline.com/loi/lpbb
+Fully Indexed In: MEDLINE: v26n1, Feb. 1996-; Index medicus
+In: PubMed: v26n1, Feb. 1996-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry/methods*; Biotechnology/methods*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0084633(s)(OCoLC)32501541
+NLM ID: 9607037[Serial]
+
+55. Title Abbreviation: Biotechnol Annu Rev
+Title(s): Biotechnology annual review.
+Publication Start Year: 1995
+Publication End Year: 2008
+Frequency: Annual
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, c1995-
+Description: v. : ill.
+Language: English
+ISSN: 1387-2656(Print); 1875-5208(Electronic); 1387-2656(Linking)
+Coden: BAREFD
+Fully Indexed In: MEDLINE: v4, 1998-v14, 2008; PubMed: v4, 1998-v14, 2008; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Genetic Engineering*; Recombinant Proteins*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0088404(s)(OCoLC)34326588
+NLM ID: 9616443[Serial]
+
+56. Title Abbreviation: Genet Anal
+Title(s): Genetic analysis : biomolecular engineering.
+Publication Start Year: 1995
+Publication End Year: 1999
+Frequency: Six no. a year
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, 1995-c1999.
+Description: 4 v. : ill.
+Language: English
+ISSN: 
+Coden: GATAE
+LCCN: 96648224, sn 95015466
+Electronic Links: http://www.sciencedirect.com/science/journal/10503862
+Fully Indexed In: MEDLINE: v12n1,Mar. 1995-v15,n6,Dec. 1999; PubMed: v12n1,Mar. 1995-v15,n6,Dec. 1999; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Genetic Engineering*; Genetic Techniques*
+Publication Type(s): Periodical
+Notes: Available also by subscription via the World Wide Web.
+Other ID: (DNLM)SR0084362(s)(OCoLC)33138897
+NLM ID: 9509403[Serial]
+
+57. Author(s): International Society for Plant Molecular Biology.
+Title Abbreviation: Mol Breed
+Title(s): Molecular breeding : new strategies in plant improvement.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: 6 no. a year, 1997-
+Country of Publication: Netherlands
+Publisher: Dordrecht ; Boston : Kluwer Academic Publishers, c1995-
+Latest Publisher: Dordrecht : Kluwer Academic Publishers
+Description: v. : ill.
+Language: English
+ISSN: 1380-3743(Print); 1572-9788(Electronic); 1380-3743(Linking)
+LCCN: sn 95038831
+Electronic Links: https://link.springer.com/journal/11032, https://pmc.ncbi.nlm.nih.gov/journals/?term=9506703
+In: PubMed: v41n1, Jan. 2021-, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Breeding/methods*; Genetic Engineering*; Molecular Biology*; Plants, Genetically Modified*
+Publication Type(s): Periodical
+Notes: Also issued online. Issued by: International Society for Plant Molecular Biology.
+Other ID: (DNLM)SR0082119(s)(OCoLC)32828148
+NLM ID: 9506703[Serial]
+
+58. Author(s): Tissue Engineering & Regenerative Medicine International Society.
+Title Abbreviation: Tissue Eng
+Title(s): Tissue engineering.
+Publication Start Year: 1995
+Publication End Year: 2007
+Frequency: Bimonthly, 1999-
+Country of Publication: United States
+Publisher: New York, NY : Mary Ann Liebert, Inc., c1995-
+Description: v. : ill.
+Language: English
+ISSN: 1076-3279(Print); 1557-8690(Electronic); 1076-3279(Linking)
+Coden: TIENFP
+LCCN: sn 94005129
+Electronic Links: http://www.liebertonline.com/ten
+Fully Indexed In: MEDLINE: v4n1,spring 1998-v13n12, Dec. 2007; PubMed: v4n1,spring 1998-v13n12, Dec. 2007; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biocompatible Materials*; Biomedical Engineering*; Culture Techniques*
+Publication Type(s): Periodical
+Notes: Final issue consulted. Also issued online.
+Other ID: (DNLM)SR0081613(s)(OCoLC)30453761
+NLM ID: 9505538[Serial]
+
+59. Author(s): International Society for Artificial Cells and Immobilization Biotechnology.
+Title Abbreviation: Artif Cells Blood Substit Immobil Biotechnol
+Title(s): Artificial cells, blood substitutes, and immobilization biotechnology.
+Publication Start Year: 1994
+Publication End Year: 2012
+Frequency: Six no. a year, 2006-
+Country of Publication: England
+Publisher: New York : M. Dekker, [1994-
+Latest Publisher: London : Informa Healthcare
+Description: v. ill.
+Language: English
+ISSN: 1073-1199(Print); 1532-4184(Electronic); 1073-1199(Linking)
+Coden: ABSBE4
+LCCN: sn 93005601
+Electronic Links: http://www.tandfonline.com/loi/ianb19
+Fully Indexed In: MEDLINE: v22n1, 1994-v40n6, Dec. 2012; Index medicus
+In: PubMed: v22n1, 1994-v40n6, Dec. 2012; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biocompatible Materials*; Biological Products*; Biotechnology*; Blood Substitutes*
+Publication Type(s): Periodical
+Notes: Issues for Feb. 2003- have title: Artificial cells, blood substitutes, and
+biotechnology. Also issued online. Issued by International Society for Artificial
+Cells and Immobilization Biotechnology.
+Other ID: (DNLM)SR0079008(s)(OCoLC)29333477
+NLM ID: 9431307[Serial]
+
+60. Title Abbreviation: Mol Biotechnol
+Title(s): Molecular biotechnology.
+Publication Start Year: 1994
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: Switzerland
+Publisher: Totowa, NJ : Humana Press, c1994-
+Latest Publisher: [Cham] : Springer
+Description: v. : ill.
+Language: English
+ISSN: 1073-6085(Print); 1559-0305(Electronic); 1073-6085(Linking)
+Coden: MLBOEO
+LCCN: sn 93002050
+Electronic Links: https://link.springer.com/journal/12033
+Fully Indexed In: MEDLINE: v1n1, Feb. 1994-; Index medicus
+In: PubMed: v1n1, Feb. 1994-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology; Molecular Biology/methods
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with 2013. Also issued online.
+Other ID: (DNLM)SR0078694(s)(OCoLC)29487200
+NLM ID: 9423533[Serial]
+
+61. Author(s): Malaysian Society for Molecular Biology & Biotechnology.; National Working Group 
+on Biotechnology (Malaysia); Universiti Putra Malaysia.
+Title Abbreviation: Asia Pac J Mol Biol Biotechnol
+Title(s): Asia-Pacific journal of molecular biology and biotechnology.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Semiannual
+Country of Publication: Malaysia
+Publisher: Kuala Lumpur, Malaysia : Malaysian Society for Molecular Biology & Biotechnology 
+[and] the National Working Group on Biotechnology, [1993-
+Latest Publisher: <2000->: [Selangor, Malaysia] : Universiti Putra Malaysia Press for Malaysian
+Society for Molecular Biology and Biotechnology
+Description: v. : ill.
+Language: English
+ISSN: 0128-7451(Electronic); 2672-7277(Print); 0128-7451(Linking)
+LCCN: sn 95038069
+Electronic Links: http://www.msmbb.my/index.php/archive-issues
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online.
+Other ID: (DNLM)SR0081924(s)(OCoLC)31828080
+NLM ID: 9501020[Serial]
+
+62. Author(s): International Conference on Intelligent Systems for Molecular Biology.
+Title Abbreviation: Proc Int Conf Intell Syst Mol Biol
+Title(s): Proceedings/ ... International Conference on Intelligent Systems for Molecular
+Biology ; ISMB.
+Publication Start Year: 1993
+Publication End Year: 2000
+Frequency: Annual
+Country of Publication: United States
+Publisher: Menlo Park, Calif. : AAAI Press, c1993-
+Description: v. : ill.
+Language: English
+ISSN: 1553-0833(Print); 1553-0833(Linking)
+LCCN: 96655090
+Fully Indexed In: MEDLINE: v1, 1993-v8, 2000; PubMed: v1, 1993-v8, 2000; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Expert Systems*; Molecular Biology*
+Publication Type(s): Congress
+Other ID: (DNLM)SR0082710(s)(OCoLC)34094202
+NLM ID: 9509125[Serial]
+
+63. Title Abbreviation: Structure
+Title(s): Structure.
+Publication Start Year: 1993
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: London : Current Biology, c1993-
+Latest Publisher: 2000- : Cambridge, Mass. : Cell Press
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 0969-2126(Print); 1878-4186(Electronic); 0969-2126(Linking)
+Coden: STRUE6
+LCCN: 95645738, sn 93003324
+Electronic Links: http://www.sciencedirect.com/science/journal/09692126
+Fully Indexed In: MEDLINE: v1n1, Sept. 15, 1993-; PubMed: v1n1, Sept. 15, 1993-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cells/ultrastructure; Molecular Biology; Molecular Sequence Data; Molecular Structure*; Protein Conformation; Protein Engineering; Protein Folding
+Publication Type(s): Periodical
+Notes: Title varies for 1999-2000: Structure with Folding & design. "Form and function
+in modern biology." Published: Oxford : Elsevier Science, Dec. 1999-Sept. 2000;
+Cambridge, Mass. : Cell Press, Oct. 2000- Title from cover. Latest issue
+consulted: Vol. 10, no. 7 (July 2002). Vol. 1 complete in four issues. Also
+issued online.
+Other ID: (OCoLC)28867361
+NLM ID: 101087697[Serial]
+
+64. Author(s): Nihon Nōgei Kagakkai.
+Title Abbreviation: Biosci Biotechnol Biochem
+Title(s): Bioscience, biotechnology, and biochemistry.
+Publication Start Year: 1992
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Tokyo, Japan : Japan Society for Bioscience, Biotechnology, and Agrochemistry,
+c1992-
+Latest Publisher: 2021- : Oxford : Oxford University Press
+Description: v. : ill.
+Language: English
+ISSN: 0916-8451(Print); 1347-6947(Electronic); 0916-8451(Linking)
+Coden: BBBIEJ
+Electronic Links: http://www.tandfonline.com/loi/tbbb20, https://academic.oup.com/bbb
+Fully Indexed In: MEDLINE: v56n1, 1992-; Index medicus
+In: PubMed: v56n1, 1992-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biological Science Disciplines*; Biotechnology*
+Publication Type(s): Periodical
+Notes: Monthly. Title from cover. Also issued online.
+Other ID: (DNLM)SR0073164(s)(OCoLC)25516229
+NLM ID: 9205717[Serial]
+
+65. Title Abbreviation: Microb Releases
+Title(s): Microbial releases : viruses, bacteria, fungi.
+Publication Start Year: 1992
+Publication End Year: 1994
+Frequency: Four no. a year
+Country of Publication: Germany
+Publisher: Berlin : Springer-Verlag, c1992-
+Description: 2 v. : ill.
+Language: English
+ISSN: 0940-9653(Print); 0940-9653(Linking)
+Coden: MRELE4
+Selectively Indexed in: MEDLINE1/1,Jun. 1992-2/4,Jul. 1994PubMed1/1,Jun. 1992-2/4,Jul. 1994Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Containment of Biohazards*; Environmental Exposure*; Environmental Microbiology*; Genetic Engineering*; Genetics, Microbial*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0072312(s)(OCoLC)27264196
+NLM ID: 9301294[Serial]
+
+66. Title Abbreviation: Pharm Biotechnol
+Title(s): Pharmaceutical biotechnology.
+Publication Start Year: 1992
+Publication End Year: 2002
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York : Plenum Press, c1992-
+Description: v. : ill.
+Language: English
+ISSN: 1078-0467(Print); 1078-0467(Linking)
+Coden: PHBIEB
+Fully Indexed In: MEDLINE: v5, 1993-v14, 2002; PubMed: v5, 1993-v14, 2002; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Technology, Pharmaceutical*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0075506(s)(OCoLC)28382862
+NLM ID: 9310302[Serial]
+
+67. Author(s): Australian Biotechnology Association.
+Title Abbreviation: Australas Biotechnol
+Title(s): Australasian biotechnology.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Australia
+Publisher: Clayton, Victoria, Australia : Australian Biotechnology Association, c1991-
+Description: v. : ill., ports.
+Language: English
+ISSN: 1036-7128(Print); 1036-7128(Linking)
+Coden: AUBIE5
+Electronic Links: https://australasianbiotechnology.partica.online
+Selectively Indexed in: MEDLINEv1n1, Aug. 1991-v8n1, Jan.-Feb. 1998PubMedv1n1, Aug. 1991-v8n1, Jan.-Feb. 1998
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biotechnology*; Genetic Engineering*
+Publication Type(s): Periodical
+Notes: Bimonthly. Title from cover. Jan./Feb. 1999 issue not published. Also issued
+online. Official journal of Australian Biotechnology Association.
+Other ID: (DNLM)SR0072306(s)(OCoLC)24626190
+NLM ID: 9113681[Serial]
+
+68. Title Abbreviation: Biomed Mater Eng
+Title(s): Bio-medical materials and engineering.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Six no. a year, 1996-
+Country of Publication: United States
+Publisher: New York : Pergamon Press, c1991-
+Latest Publisher: 2025- : [Thousand Oaks, CA] : SAGE Publications
+Description: v. : ill.
+Language: English
+ISSN: 0959-2989(Print); 1878-3619(Electronic); 0959-2989(Linking)
+Coden: BMENEO
+LCCN: 91649265, sn 91001382
+Electronic Links: https://journals.sagepub.com/home/BME, http://content.iospress.com/journals/bio-medical-materials-and-engineering
+Fully Indexed In: MEDLINE: v1n1, 1991-; PubMed: v1n1, 1991-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biocompatible Materials*; Biomedical Engineering*; Biotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0068289(s)(OCoLC)23264275
+NLM ID: 9104021[Serial]
+
+69. Author(s): Hanʼguk Sanŏp Misaengmul Hakhoe.; Han'guk Misaengmul, Saengmyŏng Konghakhoe.
+Title Abbreviation: J Microbiol Biotechnol
+Title(s): Journal of microbiology and biotechnology.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Monthly (Jan. 2006)-
+Country of Publication: Korea (South)
+Publisher: Seoul : Korean Society for Applied Microbiology, 1991-2001.
+Latest Publisher: 2002- : Seoul : Korean Society for Microbiology and Biotechnology
+Description: v. : ill.
+Language: English
+ISSN: 1017-7825(Print); 1738-8872(Electronic); 1017-7825(Linking)
+Coden: JOMBES
+LCCN: sn 93015386
+Electronic Links: http://jmb.or.kr/, https://pmc.ncbi.nlm.nih.gov/journals/?term=9431852
+Fully Indexed In: MEDLINE: v17n1, Jan. 2007-; PubMed: v17n1, Jan. 2007-
+In: PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*; Microbiology*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 3 (Oct. 1991); title from cover. Also issued
+online. Official English language publication of Korean Society for Applied
+Microbiology.
+Other ID: (DNLM)SR0079937(s)(OCoLC)27919305
+NLM ID: 9431852[Serial]
+
+70. Title Abbreviation: Mol Mar Biol Biotechnol
+Title(s): Molecular marine biology and biotechnology.
+Publication Start Year: 1991
+Publication End Year: 1998
+Frequency: Four no. a year, 1995-1998
+Country of Publication: United States
+Publisher: Cambridge, MA : Blackwell Scientific Publications, c1991-c1998.
+Latest Publisher: -1998: New York : Springer-Verlag
+Description: 7 v. : ill.
+Language: English
+ISSN: 1053-6426(Print); 1053-6426(Linking)
+Coden: MMBBEQ
+LCCN: 92-648941, sn90-1725
+Selectively Indexed in: MEDLINEv1n1,Sept. 1991-v7n4,Dec. 1998PubMedv1n1,Sept. 1991-v7n4,Dec. 1998Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology; Marine Biology*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (OCoLC)22600878(DNLM)SR0069955(s)
+NLM ID: 9205135[Serial]
+
+71. Title Abbreviation: Anim Biotechnol
+Title(s): Animal biotechnology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Bimonthly, 2019-
+Country of Publication: England
+Publisher: New York, N.Y. : Marcel Dekker, c1990-
+Latest Publisher: 2005- : Abingdon, Oxford : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1049-5398(Print); 1532-2378(Electronic); 1049-5398(Linking)
+Coden: ANBTEN
+LCCN: 90660277, sn 90005136
+Electronic Links: http://www.tandfonline.com/loi/labt20
+Fully Indexed In: MEDLINE: v9n1, 1998-; Index medicus
+In: PubMed: v9n1, 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Animals, Domestic/genetics*; Animals, Genetically Modified*; Biotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0066508(s)(OCoLC)21248361
+NLM ID: 9011409[Serial]
+
+72. Title Abbreviation: Biosens Bioelectron
+Title(s): Biosensors & bioelectronics.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Semimonthly, 2018-
+Country of Publication: England
+Publisher: [Barking, Essex, England] : Elsevier Applied Science, 1989-
+Latest Publisher: Oxford : Elsevier Advanced Technology
+Description: v. : ill.
+Language: English
+ISSN: 0956-5663(Print); 1873-4235(Electronic); 0956-5663(Linking)
+Coden: BBIOE4
+LCCN: 97641485, sn 90031052
+Electronic Links: https://www.sciencedirect.com/journal/biosensors-and-bioelectronics
+Fully Indexed In: MEDLINE: v5n1, 1990-; PubMed: v5n1, 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry/methods*; Biosensing Techniques*; Biotechnology*; Electronics, Medical*
+Publication Type(s): AbstractsPeriodical
+Notes: Includes a section called: SUBIS bibliography on biosensors and bioelectronics.
+Six issues a year. Issued 1990- . Also i ssued online. Complemented by (work):
+Biosensors & bioelectronics: X 2590-1370 (DLC) 2020256195 (OCoLC)1102595321
+(DNLM)101769237.
+Other ID: (DNLM)SR0067129(s)(OCoLC)20767981
+NLM ID: 9001289[Serial]
+
+73. Title Abbreviation: Bioseparation
+Title(s): Bioseparation.
+Publication Start Year: 1990
+Publication End Year: 2001
+Frequency: Six no. a year
+Country of Publication: Netherlands
+Publisher: Dordrecht ; Boston : Kluwer Academic Publishers, c1990-
+Description: v. : ill.
+Language: English
+ISSN: 0923-179X(Print); 0923-179X(Linking)
+Coden: BISPE4
+Fully Indexed In: MEDLINE: v1n1, May 1990-v10n6, 2001; PubMed: v1n1, May 1990-v10n6, 2001; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Six no. per year.
+Other ID: (DNLM)SR0066121(s)(OCoLC)21993425
+NLM ID: 9011423[Serial]
+
+74. Title Abbreviation: Crit Rev Eukaryot Gene Expr
+Title(s): Critical reviews in eukaryotic gene expression.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Boca Raton, FL : CRC Press, 1990-
+Latest Publisher: <2000- > : Reading, CT : Begell House
+Description: v. : ill.
+Language: English
+ISSN: 1045-4403(Print); 1045-4403(Linking)
+Coden: CRGEEJ
+LCCN: 90657467, sn 89000048
+Electronic Links: http://www.begellhouse.com/journals/critical-reviews-in-eukaryotic-gene-expression.html
+Fully Indexed In: MEDLINE: v1n1, 1990-; Index medicus
+In: PubMed: v1n1, 1990-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cells*; Eukaryotic Cells*; Gene Expression Regulation*
+Publication Type(s): PeriodicalReview
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0066700(s)(OCoLC)20114919
+NLM ID: 9007261[Serial]
+
+75. Title Abbreviation: Curr Opin Biotechnol
+Title(s): Current opinion in biotechnology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: London : Current Biology, c1990-
+Latest Publisher: London : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 0958-1669(Print); 1879-0429(Electronic); 0958-1669(Linking)
+Coden: CUOBE3
+LCCN: 91659045, sn 90031458
+Electronic Links: http://www.sciencedirect.com/science/journal/09581669
+Fully Indexed In: MEDLINE: v6n1, 1995-; Index medicus
+In: PubMed: v6n1, 1995-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*
+Publication Type(s): BibliographyPeriodical
+Notes: Title from cover. Includes bibliography of the current world literature. Also
+issued online.
+Other ID: (DNLM)SR0065966(s)(OCoLC)22926384
+NLM ID: 9100492[Serial]
+
+76. Title Abbreviation: Genet Anal Tech Appl
+Title(s): Genetic analysis, techniques and applications.
+Publication Start Year: 1990
+Publication End Year: 1994
+Frequency: Six no. a year
+Country of Publication: Netherlands
+Publisher: New York, NY : Elsevier, c1990-c1994.
+Latest Publisher: Amsterdam : Elsevier
+Description: 5 v. : ill.
+Language: English
+ISSN: 1050-3862(Print); 1050-3862(Linking)
+Coden: GATAEV
+LCCN: 91641163
+Fully Indexed In: MEDLINE: v7n1,Feb. 1990-v11n5-6,Oct.-Dec. 1994; PubMed: v7n1,Feb. 1990-v11n5-6,Oct.-Dec. 1994; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Cloning, Molecular/methods*; Genetic Techniques*; Nucleic Acids/analysis*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0067709(s)(OCoLC)21144189
+NLM ID: 9004550[Serial]
+
+77. Author(s): Unesco.; International Union of Microbiological Societies.; MIRCEN (Organization)
+Title Abbreviation: World J Microbiol Biotechnol
+Title(s): World journal of microbiology & biotechnology.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: 9 no. a year, 2000-
+Country of Publication: Germany
+Publisher: Oxford, OX, UK : Published by Rapid Communications of Oxford Ltd in association
+with UNESCO and in collaboration with the International Union of Microbiological 
+Societies, c1990-
+Latest Publisher: 2005- : Berlin : Springer
+Description: v. : ill.
+Language: English, French
+ISSN: 0959-3993(Print); 1573-0972(Electronic); 0959-3993(Linking)
+Coden: WJMBEY
+LCCN: 90660309, sn 90031304
+Electronic Links: https://link.springer.com/journal/11274
+Fully Indexed In: MEDLINE: v28n1, Jan. 2012-
+In: PubMed: v28n1, Jan. 2012-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*; Microbiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 31, no. 12 (2015). Also issued
+online. Articles in English; summaries in English and French. Official journal
+of: the MIRCEN Network.
+Other ID: (OCoLC)22201215(DNLM)SR0068526(s)
+NLM ID: 9012472[Serial]
+
+78. Title Abbreviation: Biotechnol Ther
+Title(s): Biotechnology therapeutics.
+Publication Start Year: 1989
+Publication End Year: 1995
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: New York, N.Y. : M. Dekker, c1989-
+Latest Publisher: New York Ny : Marcel Dekker
+Description: v. : ill.
+Language: English
+ISSN: 0898-2848(Print); 0898-2848(Linking)
+Coden: BITHEJ
+Fully Indexed In: MEDLINE: v1n1, 1989-v5, 1995; PubMed: v1n1, 1989-v5, 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Therapeutics*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0064627(s)(OCoLC)17777976
+NLM ID: 8918082[Serial]
+
+79. Author(s): American Society for Cell Biology.
+Title Abbreviation: Cell Regul
+Title(s): Cell regulation.
+Publication Start Year: 1989
+Publication End Year: 1991
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Bethesda, Md. : American Society for Cell Biology, c1989-c1991.
+Description: 2 v. : ill.
+Language: English
+ISSN: 1044-2030(Print); 1044-2030(Linking)
+Coden: CELREQ
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=9005331
+Fully Indexed In: MEDLINE: v1n1,Nov. 1989-v2n12,Dec. 1991; Index medicus
+In: PubMed: v1n1,Nov. 1989-v2n12,Dec. 1991, PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cell Physiological Phenomena*; Gene Expression Regulation*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Monthly. Title from cover. Dec. 1989 not published; vol. 1 complete in 13 issues.
+Issued also online.
+Other ID: (DNLM)SR0065616(s)(OCoLC)19721034
+NLM ID: 9005331[Serial]
+
+80. Title Abbreviation: New Biol
+Title(s): The New biologist.
+Publication Start Year: 1989
+Publication End Year: 1992
+Frequency: Monthly
+Country of Publication: United States
+Publisher: [Philadelphia, PA] : W.B. Saunders, [1989-1992]
+Description: 4 v. : ill.
+Language: English
+ISSN: 1043-4674(Print); 1043-4674(Linking)
+Coden: NEBIE2
+Fully Indexed In: MEDLINE: v1n1,Oct. 1989-v4n5, May 1992; PubMed: v1n1,Oct. 1989-v4n5, May 1992; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 1 complete in three issues.
+Other ID: (DNLM)SR0065658(s)(OCoLC)19481072
+NLM ID: 9000976[Serial]
+
+81. Title Abbreviation: Prog Growth Factor Res
+Title(s): Progress in growth factor research.
+Publication Start Year: 1989
+Publication End Year: 1995
+Frequency: Four no. a year
+Country of Publication: England
+Publisher: Oxford ; New York : Pergamon, c1989-
+Latest Publisher: Oxford : Pergamon Press
+Description: 6 v. : ill.
+Language: English
+ISSN: 0955-2235(Print); 0955-2235(Linking)
+Coden: PGFREH
+Electronic Links: http://www.sciencedirect.com/science/journal/09552235
+Fully Indexed In: MEDLINE: v1n1, 1989-v6n4, 1995; PubMed: v1n1, 1989-v6n4, 1995; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Growth Substances*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0063588(s)(OCoLC)17962661
+NLM ID: 8912757[Serial]
+
+82. Title Abbreviation: Biotechnol Focus
+Title(s): Biotechnology focus.
+Publication Start Year: 1988
+Publication End Year: 1992
+Frequency: Annual
+Country of Publication: Austria
+Publisher: Munich : Hanser Publishers ; New York : distributed in the United States of
+America by Oxford University Press, c1988-[1992]
+Latest Publisher: Vienna : Hanser
+Description: v. : ill.
+Language: English, German
+ISSN: 0935-1043(Print); 0935-1043(Linking)
+Selectively Indexed in: MEDLINEPubMed
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biotechnology*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0065482(s)(OCoLC)18909919
+NLM ID: 9200334[Serial]
+
+83. Title Abbreviation: Chin J Biotechnol
+Title(s): Chinese journal of biotechnology.
+Publication Start Year: 1988
+Publication End Year: 1999
+Frequency: Four no. a year
+Country of Publication: United States
+Publisher: New York : Allerton Press, c1989-
+Description: v. : ill.
+Language: English, Chinese
+ISSN: 1042-749X(Print); 1042-749X(Linking)
+Fully Indexed In: MEDLINE: v4n1, 1988-v15n4, 1999; PubMed: v4n1, 1988-v15n4, 1999; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biotechnology*; Genetic Techniques*
+Publication Type(s): Periodical
+Notes: Semiannual, 1989?- ; four no a year, 1990?- . Carries the numbering of the
+journal from which selections are taken; issues for v. 4- called also: 1988- .
+Other ID: (DNLM)SR0065673(s)(OCoLC)19127715
+NLM ID: 9100855[Serial]
+
+84. Title Abbreviation: Pept Res
+Title(s): Peptide research.
+Publication Start Year: 1988
+Publication End Year: 1996
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: [Natick, MA, USA : Eaton Pub., c1988-c1996.
+Latest Publisher: Natick Ma : Eaton Publishing
+Description: 9 v. : ill.
+Language: English
+ISSN: 1040-5704(Print); 1040-5704(Linking)
+Coden: PEREEO
+Fully Indexed In: MEDLINE: v1n1,Sept./Oct. 1988-v9n6,Nov./Dec. 1996; PubMed: v1n1,Sept./Oct. 1988-v9n6,Nov./Dec. 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Peptides*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0064459(s)(OCoLC)18182228
+NLM ID: 8913494[Serial]
+
+85. Author(s): Southern Association of Agricultural Scientists. Biochemistry and Biotechnology.
+Title Abbreviation: SAAS Bull Biochem Biotechnol
+Title(s): SAAS bulletin, biochemistry and biotechnology.
+Publication Start Year: 1988
+Publication End Year: 2005
+Frequency: Annual
+Country of Publication: United States
+Publisher: [Cookeville, TN? : Biochemistry and Biotechnology, Southern Association of
+Agricultural Scientists, 1988-
+Description: v. : ill.
+Language: English
+ISSN: 1052-6781(Print); 1052-6781(Linking)
+Coden: SBBBEF
+Selectively Indexed in: MEDLINEPubMed
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biochemistry*; Biotechnology*
+Publication Type(s): Congress
+Notes: Consists of papers presented in the Biochemistry and Biotechnology section at the
+meeting of the Southern Association of Agricultural Scientists.
+Other ID: (DNLM)SR0062672(s)(OCoLC)19500840
+NLM ID: 8917120[Serial]
+
+86. Author(s): Australian Biotechnology Association.
+Title Abbreviation: Aust J Biotechnol
+Title(s): Australian journal of biotechnology.
+Publication Start Year: 1987
+Publication End Year: 1991
+Frequency: Quarterly
+Country of Publication: Australia
+Publisher: Adelaide : Published by Australian Industrial Publishers for the Australian
+Biotechnology Association, c1987-c1991
+Latest Publisher: Adelaide : Australian Industrial Publishers For The Australian Biotechnology
+Association
+Description: 5 v. : ill., ports.
+Language: English
+ISSN: 0819-3355(Print); 0819-3355(Linking)
+Coden: AJBIEU
+Selectively Indexed in: MEDLINEPubMed
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biotechnology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0061904(s)(OCoLC)18713618
+NLM ID: 8811037[Serial]
+
+87. Title Abbreviation: Biomater Artif Cells Artif Organs
+Title(s): Biomaterials, artificial cells, and artificial organs.
+Publication Start Year: 1987
+Publication End Year: 1991
+Frequency: Five no. a year
+Country of Publication: United States
+Publisher: New York, N.Y. : Marcel Dekker, c1987-c1991.
+Description: 4 v. : ill.
+Language: English
+ISSN: 0890-5533(Print); 0890-5533(Linking)
+Coden: BACOEZ
+Electronic Links: http://www.tandfonline.com/loi/ianb20
+Fully Indexed In: MEDLINE: v15n1, 1987-v18n5, 1991; Index medicus
+In: PubMed: v15n1, 1987-v18n5, 1991; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Artificial Organs*; Biocompatible Materials*; Biotechnology*; Membranes, Artificial*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0060682(s)(OCoLC)14264306
+NLM ID: 8802605[Serial]
+
+88. Title Abbreviation: Cytotechnology
+Title(s): Cytotechnology.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Nine no. a year, 1991-
+Country of Publication: United States
+Publisher: Dordrecht ; Boston : Martinus Nijhoff Publishers, c1988-
+Latest Publisher: <July 1988- > : Hingham, MA : Kluwer Academic Publishers
+Description: v. : ill.
+Language: English
+ISSN: 0920-9069(Print); 1573-0778(Electronic); 0920-9069(Linking)
+Coden: CYTOER
+LCCN: sn 88026784
+Electronic Links: https://link.springer.com/journal/10616, https://pmc.ncbi.nlm.nih.gov/journals/?term=8807027
+In: PubMed: v3n1, Jan. 1990-, PMC; 
+Selectively Indexed in: MEDLINEv3n1, Jan. 1990-v26n3, 1998
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biotechnology*; Cells, Cultured*; Cytological Techniques*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0060925(s)(OCoLC)17645742
+NLM ID: 8807027[Serial]
+
+89. Title Abbreviation: Mol Cell Probes
+Title(s): Molecular and cellular probes.
+Publication Start Year: 1987
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: England
+Publisher: London ; New York : Academic Press, c1987-
+Description: v. : ill.
+Language: English
+ISSN: 0890-8508(Print); 1096-1194(Electronic); 0890-8508(Linking)
+Coden: MCPRE6
+Electronic Links: http://www.sciencedirect.com/science/journal/08908508
+Fully Indexed In: MEDLINE: v1n1, 1987-; PubMed: v1n1, 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cell Biology*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. numbering from back cover. Available also online.
+Other ID: (DNLM)SR0058308(s)(OCoLC)14402545
+NLM ID: 8709751[Serial]
+
+90. Title Abbreviation: Protein Seq Data Anal
+Title(s): Protein sequences & data analysis.
+Publication Start Year: 1987
+Publication End Year: 1993
+Frequency: Bimonthly
+Country of Publication: Germany
+Publisher: [Berlin ; New York] : Springer International, c1987-
+Latest Publisher: Berlin : Springer International
+Description: v. : ill.
+Language: English
+ISSN: 0931-9506(Print); 0931-9506(Linking)
+Coden: PSDAE6
+Fully Indexed In: MEDLINE: v1n1,Aug. 1987-1993; PubMed: v1n1,Aug. 1987-1993; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Amino Acid Sequence*; Peptides*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)SR0057627(s)(OCoLC)16973948
+NLM ID: 8800894[Serial]
+
+91. Title Abbreviation: Bioprocess Technol
+Title(s): Bioprocess technology.
+Publication Start Year: 1986
+Publication End Year: 1999
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York : Dekker, c1986-
+Latest Publisher: New York Ny : Marcel Dekker
+Description: v.
+Language: English
+ISSN: 0888-7470(Print); 0888-7470(Linking)
+Coden: BPTEEP
+Selectively Indexed in: MEDLINEv5, 1990-v22, 1995PubMedv5, 1990-v22, 1995
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biomedical Engineering*; Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Vol. 8 lacks date, but was published in 1990.
+Other ID: (DNLM)SR0055743(s)(OCoLC)13104397
+NLM ID: 8601086[Serial]
+
+92. Author(s): International Union of Biochemistry.
+Title Abbreviation: Biotechnol Appl Biochem
+Title(s): Biotechnology and applied biochemistry.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Bimonthly, 2011-
+Country of Publication: United States
+Publisher: San Diego : Academic Press, [cl986]-
+Latest Publisher: Jan. 2011- : Malden : Wiley-Blackwell
+Description: v. : ill.
+Language: English
+ISSN: 0885-4513(Print); 1470-8744(Electronic); 0885-4513(Linking)
+Coden: BABIEC
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1470-8744
+Fully Indexed In: MEDLINE: v8n1,Feb. 1986-; PubMed: v8n1,Feb. 1986-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Genetic Techniques*; Microbiological Techniques*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also available online. Published
+for: the International Union of Biochemistry.
+Other ID: (DNLM)SR0057517(s)(OCoLC)12644720
+NLM ID: 8609465[Serial]
+
+93. Author(s): Society of Chemical Industry (Great Britain)
+Title Abbreviation: J Chem Technol Biotechnol
+Title(s): Journal of chemical technology and biotechnology.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Oxford [Oxfordshire] : Published for the Society of Chemical Industry by
+Blackwell Scientific Publications, c1986-
+Latest Publisher: Chichester Sussex : Published For The Society Of Chemical Industry By Wiley And
+Sons Ltd
+Description: v. : ill.
+Language: English
+ISSN: 0268-2575(Print); 1097-4660(Electronic); 0268-2575(Linking)
+Coden: JCTBD
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4660
+In: PubMed: v47n3, 1990-v72n1, 1998; selected citations only after this date; 
+Selectively Indexed in: MEDLINEv47n3, 1990-v72n1, 1998
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biotechnology*; Chemical Engineering*; Chemical Industry*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0058496(s)(OCoLC)13284377
+NLM ID: 8711102[Serial]
+
+94. Author(s): Society for Industrial Microbiology (U.S.)
+Title Abbreviation: J Ind Microbiol
+Title(s): Journal of industrial microbiology.
+Publication Start Year: 1986
+Publication End Year: 1996
+Frequency: Monthly
+Country of Publication: England
+Publisher: Amsterdam, the Netherlands : Published by Elsevier Science Publishers on behalf
+of the Society for Industrial Microbiology, c1986-c1996.
+Latest Publisher: 1993- : Basingstoke : Macmillan Press on Behalf of The Society for Industrial
+Microbiology
+Description: 17 v. : ill.
+Language: English
+ISSN: 0169-4146(Print); 0169-4146(Linking)
+Coden: JIMIE7
+Selectively Indexed in: MEDLINEPubMed
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Microbiological Techniques*; Microbiology*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0054823(s)(OCoLC)13509063
+NLM ID: 8610887[Serial]
+
+95. Author(s): European Laser Association.
+Title Abbreviation: Lasers Med Sci
+Title(s): Lasers in medical science.
+Publication Start Year: 1986
+Publication End Year: 
+Frequency: Six no. a year, 2009-
+Country of Publication: England
+Publisher: London : Baillière Tindall, c1986-
+Latest Publisher: London : Springer
+Description: v. : ill.
+Language: English
+ISSN: 0268-8921(Print); 1435-604X(Electronic); 0268-8921(Linking)
+Coden: LMSCEZ
+LCCN: sn 87012150
+Electronic Links: https://link.springer.com/journal/10103
+Fully Indexed In: MEDLINE: v16n1, 2001-; PubMed: v16n1, 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Lasers*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Also issued online. Official
+journal of: the European Laser Association.
+Other ID: (DNLM)SR0055908(s)(OCoLC)13165306
+NLM ID: 8611515[Serial]
+
+96. Title Abbreviation: Protein Eng
+Title(s): Protein engineering.
+Publication Start Year: 1986
+Publication End Year: 2003
+Frequency: Monthly
+Country of Publication: England
+Publisher: Oxford [Oxfordshire] ; Washington, DC : IRL Press, [c1986-c2003]
+Latest Publisher: Oxford : Oxford University Press
+Description: v. : ill.
+Language: English
+ISSN: 0269-2139(Print); 1460-213X(Electronic); 0269-2139(Linking)
+Coden: PRENE9
+LCCN: 87654079
+Electronic Links: https://academic.oup.com/peds
+Fully Indexed In: MEDLINE: v1n1, 1986-v16n12, Dec. 2003; PubMed: v1n1, 1986-v16n12, Dec. 2003; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetic Engineering*; Protein Conformation*; Proteins/genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0058757(s)(OCoLC)15234798
+NLM ID: 8801484[Serial]
+
+97. Author(s): Soviet Union. Ministerstvo medit︠s︡inskoĭ promyshlennosti.; Soviet Union.
+Ministerstvo medit︠s︡inskoĭ i mikrobiologicheskoĭ promyshlennosti.
+Title Abbreviation: Antibiot Med Biotekhnol
+Title(s): Antibiotiki i meditsinskaia biotekhnologiia = Antibiotics and medical
+biotechnology/ Ministerstvo meditsinskoĭ promyshlennosti SSSR.
+Publication Start Year: 1985
+Publication End Year: 1987
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Meditsina, c1985-c1987.
+Latest Publisher: Moskva : Izdatelstvo Meditsina
+Description: 3 v. : ill.
+Language: Russian, English
+ISSN: 0233-7525(Print); 0233-7525(Linking)
+Coden: AMBIEH
+Selectively Indexed in: MEDLINEv30n1,Jan. 1985-v32n12,Dec. 1987PubMedv30n1,Jan. 1985-v32n12,Dec. 1987Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*; Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Articles in Russian; summaries in English; table of contents in both languages.
+Vols. for Jan 1986?-Dec. 1987 issued by Ministerstvo meditsinskoĭ i
+mikrobiologicheskoĭ promyshlennosti SSSR.
+Other ID: (DNLM)SR0053537(s)(OCoLC)11828967
+NLM ID: 8502784[Serial]
+
+98. Title Abbreviation: Biosensors
+Title(s): Biosensors.
+Publication Start Year: 1985
+Publication End Year: 1989
+Frequency: Six no. a year
+Country of Publication: England
+Publisher: Barking, Essex : Elsevier Applied Science Publishers, c1985-c1989.
+Latest Publisher: Barking : Elsevier Applied Science Publishers
+Description: 4 v. : ill.
+Language: English
+ISSN: 0265-928X(Print); 0265-928X(Linking)
+Coden: BISSED
+Selectively Indexed in: MEDLINEv1n1, 1985-v4n6, 1989PubMedv1n1, 1985-v4n6, 1989Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Engineering*; Electronics, Medical*; Environmental Monitoring*; Monitoring, Physiologic*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0053536(s)(OCoLC)11882549
+NLM ID: 8601088[Serial]
+
+99. Author(s): American Institute of Chemical Engineers.; Society for Biological Engineering;
+American Institute of Chemical Engineers. Food, Pharmaceutical, and
+Bioengineering Division.; American Chemical Society.
+Title Abbreviation: Biotechnol Prog
+Title(s): Biotechnology progress.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Bimonthly, 1990-
+Country of Publication: United States
+Publisher: [New York, N.Y. : American Institute of Chemical Engineers, c1985-
+Latest Publisher: <2010-> : Hoboken, NJ : Wiley-Blackwell
+Description: v. : ill.
+Language: English
+ISSN: 8756-7938(Print); 1520-6033(Electronic); 1520-6033(Linking)
+Coden: BIPRET
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1021/(ISSN)1520-6033
+Fully Indexed In: MEDLINE: v14n2, Mar.-Apr. 1998-; Index medicus
+In: PubMed: v14n2, Mar.-Apr. 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Food Technology*; Technology, Pharmaceutical*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 30, no. 6 (Dec. 2014). Also issued 
+online. Vols. for 1985-1989 issued by the Food, Pharmaceutical, and
+Bioengineering Division of AIChE; 1990- cosponsored by the American Chemical
+Society and the American Institute of Chemical Engineers. Official publication
+of: the American Institute of Chemical Engineers, <2010->
+Other ID: (DNLM)SR0052255(s)(OCoLC)11666713
+NLM ID: 8506292[Serial]
+
+100. Author(s): Zhongguo wei sheng wu xue hui.; Guo jia ke wei sheng wu gong cheng kai fa zhong
+xin (China)
+Title Abbreviation: Sheng Wu Gong Cheng Xue Bao
+Title(s): Sheng wu gong cheng xue bao = Chinese journal of biotechnology.
+Publication Start Year: 1985
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: China
+Publisher: Beijing : Ke xue chu ban she,
+Description: v. : ill.
+Language: Chinese, English
+ISSN: 1000-3061(Print); 1872-2075(Electronic); 1000-3061(Linking)
+Coden: SGXUED
+LCCN: 92-645036, sn 90-1447
+Electronic Links: https://cjb.ijournals.cn/cjbcn/home
+Fully Indexed In: MEDLINE: v16n1, Jan. 2000-; PubMed: v16n1, Jan. 2000-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biotechnology*
+Publication Type(s): Periodical
+Notes: Description based on: Di 1 juan di 3 qi (1985 nian 8 yue [Aug. 1985]); title from
+cover. Also issued online. Text in Chinese; summaries in English. Issued by:
+Zhongguo wei sheng wu xue hui, Guo jia ke wei sheng wu gong cheng kai fa zhong
+xin.
+Other ID: (DNLM)SR0057638(s)(OCoLC)21722531
+NLM ID: 9426463[Serial]
+
+101. Title Abbreviation: Appl Microbiol Biotechnol
+Title(s): Applied microbiology and biotechnology.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Eighteen no. a year, 2002-
+Country of Publication: Germany
+Publisher: Berlin ; New York : Springer International, c1984-
+Description: v. : ill.
+Language: English
+ISSN: 0175-7598(Print); 1432-0614(Electronic); 0175-7598(Linking)
+Coden: AMBIDG
+LCCN: 84643093, sn 84001133
+Electronic Links: https://link.springer.com/journal/253
+Fully Indexed In: MEDLINE: v49n4, Apr. 1998-; Index medicus
+In: PubMed: v49n4, Apr. 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology*; Microbiology*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)A57695000(s)(OCoLC)10397249
+NLM ID: 8406612[Serial]
+
+102. Title Abbreviation: Biotechnol Genet Eng Rev
+Title(s): Biotechnology & genetic engineering reviews.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: Annual
+Country of Publication: England
+Publisher: Newcastle upon Tyne : Intercept, 1984-
+Latest Publisher: <2014- > : Abingdon : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 0264-8725(Print); 2046-5556(Electronic); 0264-8725(Linking)
+Coden: BGERES
+Electronic Links: http://www.tandfonline.com/loi/tbgr20
+Fully Indexed In: MEDLINE: v1, 1984-; Index medicus
+In: PubMed: v1, 1984-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Environmental Microbiology*; Genetic Engineering*; Microbiological Techniques*; Technology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)SR0054055(s)(OCoLC)10604639
+NLM ID: 8510274[Serial]
+
+103. Title Abbreviation: Gene Anal Tech
+Title(s): Gene analysis techniques.
+Publication Start Year: 1984
+Publication End Year: 1989
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: New York, NY : Elsevier Science Pub. Co., c1984-c1989.
+Latest Publisher: New York Ny : Elsevier Science Publishing
+Description: 6 v. : ill.
+Language: English
+ISSN: 0735-0651(Print); 0735-0651(Linking)
+Coden: GANTDN
+Fully Indexed In: MEDLINE: v4n1, 1987-v6n6,Nov./Dec. 1989; PubMed: v4n1, 1987-v6n6,Nov./Dec. 1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cloning, Molecular/methods*; Genetic Techniques*; Nucleic Acids/analysis*
+Publication Type(s): Periodical
+Notes: Title from caption.
+Other ID: (DNLM)G03755000(s)(OCoLC)08859726
+NLM ID: 8408118[Serial]
+
+104. Author(s): Committee for Responsible Genetics.; Council for Responsible Genetics.
+Title Abbreviation: Genewatch
+Title(s): Genewatch : a bulletin of the Committee for Responsible Genetics.
+Publication Start Year: 1984
+Publication End Year: 2018
+Frequency: Six no. a year
+Country of Publication: United States
+Publisher: Boston, MA : The Committee,
+Latest Publisher: Boston Ma : Council For Responsible Genetics (Crg)
+Description: v. : ill.
+Language: English
+ISSN: 0740-9737(Print); 2155-7721(Electronic); 0740-9737(Linking)
+LCCN: sn83-2935
+Electronic Links: https://issuu.com/genewatchmagazine
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to bioethics were indexed.
+MeSH: Biotechnology*; Genetic Engineering*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 2, no. 1 (1985); title from caption. Print issues
+ceased with v. 27, no. 3 (2014) Also issued online. Vol. 6, nos. 2-3?- published 
+by Council for Responsible Genetics.
+Other ID: (DNLM)SR0068568(s)(OCoLC)10063547
+NLM ID: 9426048[Serial]
+
+105. Title Abbreviation: J Biotechnol
+Title(s): Journal of biotechnology.
+Publication Start Year: 1984
+Publication End Year: 
+Frequency: 24 no. a year, <1999->
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science Publishers, c1984-
+Description: v. : ill.
+Language: English
+ISSN: 0168-1656(Print); 1873-4863(Electronic); 0168-1656(Linking)
+Coden: JBITD4
+LCCN: sn 84012185
+Electronic Links: https://www.sciencedirect.com/journal/journal-of-biotechnology
+Fully Indexed In: MEDLINE: v13, 1990-; PubMed: v13, 1990-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Technology*
+Publication Type(s): Periodical
+Notes: One vol. each year for 1999-2001 called: Reviews in molecular biotechnology. Vol.
+12, no. 3/4, 1989 omitted pages 326-330. These pages appear in the errata in vol.
+13, no. 1, 1990 with the rest of the article. Also issued online.
+Other ID: (OCoLC)10884769(DNLM)J14685000(s)
+NLM ID: 8411927[Serial]
+
+106. Title Abbreviation: Oxf Surv Eukaryot Genes
+Title(s): Oxford surveys on eukaryotic genes.
+Publication Start Year: 1984
+Publication End Year: 1991
+Frequency: Annual
+Country of Publication: England
+Publisher: Oxford ; New York : Oxford University Press, c1984-
+Description: v. : ill.
+Language: English
+ISSN: 0265-0738(Print); 0265-0738(Linking)
+Coden: OSEGEI
+Fully Indexed In: MEDLINE: v1n1, 1984-v7, 1991; PubMed: v1n1, 1984-v7, 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Cytogenetics*; Eukaryotic Cells*
+Publication Type(s): Periodical
+Other ID: (DNLM)SR0061129(s)(OCoLC)11871795
+NLM ID: 8813988[Serial]
+
+107. Author(s): Fiechter,A
+Title Abbreviation: Adv Biochem Eng Biotechnol
+Title(s): Advances in biochemical engineering/biotechnology.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Berlin ; New York : Springer-Verlag, [1983-
+Latest Publisher: Heidelberg : Springer Verlag
+Description: v. : ill.
+Language: English, English
+ISSN: 0724-6145(Print); 1616-8542(Electronic); 0724-6145(Linking)
+Coden: ABEBDZ
+LCCN: 83643438, 2004102412, 2004109334, 2004110174, 2005933540
+Electronic Links: https://link.springer.com/bookseries/10
+Fully Indexed In: MEDLINE: v26, 1983-; Index medicus
+In: PubMed: v26, 1983-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Chemical Engineering*; Microbiology*; Technology*
+Publication Type(s): Periodical
+Notes: Editor: A. Fiechter. Also issued online. Indexes: Vols. 1 (1971)-26 (1983) in v. 
+26 (Includes index to Advances in biochemical engineering).
+Other ID: (DNLM)A13205000(s)(OCoLC)09397594
+NLM ID: 8307733[Serial]
+
+108. Author(s): Mizrahi,A; Wezel,A L van
+Title Abbreviation: Adv Biotechnol Processes
+Title(s): Advances in biotechnological processes.
+Publication Start Year: 1983
+Publication End Year: 1990
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York : Alan R. Liss, c1983-[1990]
+Latest Publisher: New York Ny : Wiley-Liss
+Description: v. : ill.
+Language: English
+ISSN: 0736-2293(Print); 0736-2293(Linking)
+Coden: ABIPDT
+Selectively Indexed in: MEDLINEv3, 1984-v14, 1990PubMedv3, 1984-v14, 1990Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biomedical Engineering*; Microbiology*
+Publication Type(s): Periodical
+Notes: Editors: Avshalom Mizrahi and Antonius L. van Wezel.
+Other ID: (DNLM)A13360000(s)(OCoLC)09090999
+NLM ID: 8305187[Serial]
+
+109. Title Abbreviation: Am Biotechnol Lab
+Title(s): American biotechnology laboratory.
+Publication Start Year: 1983
+Publication End Year: 2010
+Frequency: Thirteen no. a year
+Country of Publication: United States
+Publisher: [Fairfield, Conn. : International Scientific Communications, c1983-
+Description: v. : ill.
+Language: English
+ISSN: 0749-3223(Print); 0749-3223(Linking)
+Coden: ABLAEY
+LCCN: sf 93094920, sc 84001775
+In: PubMed: v8n1, Jan. 1990-v14n7, Jun. 1996; 
+Selectively Indexed in: MEDLINEv8n1, Jan. 1990-v14n7, Jun. 1996
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biotechnology*; Equipment and Supplies*; Laboratories*
+Publication Type(s): Periodical
+Notes: Title from cover. Vols. for Jan. 1988?- called also v. 6, no. 1?- .
+Other ID: (DNLM)SR0059513(s)(OCoLC)10900538
+NLM ID: 8804377[Serial]
+
+110. Title Abbreviation: Biotechnology (N Y)
+Title(s): Bio/technology.
+Publication Start Year: 1983
+Publication End Year: 1996
+Frequency: Thirteen no. a year
+Country of Publication: United States
+Publisher: [New York, N.Y.] : Nature Pub. Co., [c1983]-1996.
+Description: 14 v. : ill., ports.
+Language: English
+ISSN: 0733-222X(Print); 0733-222X(Linking)
+Coden: BTCHDA
+Electronic Links: https://www.nature.com/nbt/
+Selectively Indexed in: MEDLINEv3, Sep 1985-v14n2, Feb. 1996PubMedv3, Sep 1985-v14n2, Feb. 1996
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to space life sciences were indexed.
+MeSH: Biotechnology*; Genetic Engineering*
+Publication Type(s): Periodical
+Notes: Title from cover. Vol. 1, no. 1 preceded by an issue called: Complimentary
+charter issue. Also issued online.
+Other ID: (DNLM)B19835000(s)(OCoLC)08549852
+NLM ID: 8309273[Serial]
+
+111. Title Abbreviation: Biotechniques
+Title(s): BioTechniques.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [Natick, MA : Eaton Pub. Co., c1983-
+Latest Publisher: 2024- : [Milton Park, Oxfordshire] : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 0736-6205(Print); 1940-9818(Electronic); 0736-6205(Linking)
+Coden: BTNQDO
+LCCN: sn 83001617, sc 84007413
+Electronic Links: https://www.biotechniques.com, https://www.tandfonline.com/journals/ibtn20
+Fully Indexed In: MEDLINE: v6n1, 1988-; PubMed: v6n1, 1988-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Technology*; Clinical Laboratory Techniques*; Research*
+Publication Type(s): Periodical
+Notes: Title from cover. Place of publication varies. Print issues ceased with v. 69
+(2020). Vol. 44 no. 5 (Apr. 2008) also called: Vol. 44 Supplement (Apr. 2008).
+Beginning with Vol. 9, no. 5 (Nov. 1990)- includes quarterly section:
+Biochromatography, previously published as a separate publication. Also issued
+online.
+Other ID: (DNLM)B19825000(s)(OCoLC)09171046
+NLM ID: 8306785[Serial]
+
+112. Title Abbreviation: Biotechnol Adv
+Title(s): Biotechnology advances.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: 8 no. a year, 1999-
+Country of Publication: England
+Publisher: Oxford ; New York : Pergamon Press, c1983-
+Latest Publisher: Oxford : Elsevier Science
+Description: v. : ill.
+Language: English, English
+ISSN: 0734-9750(Print); 1873-1899(Electronic); 0734-9750(Linking)
+Coden: BIADDD
+LCCN: 84640936, sn 82007008
+Electronic Links: https://www.sciencedirect.com/journal/biotechnology-advances
+Fully Indexed In: MEDLINE: v21n1,Mar. 2003-; PubMed: v21n1,Mar. 2003-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry/methods*; Biomedical Engineering*; Patents as Topic*; Technology*
+Publication Type(s): AbstractsPatentPeriodical
+Notes: Title from cover. Place of publication varies. Also i ssued online.
+Other ID: (DNLM)B19837000(s)(OCoLC)08838531
+NLM ID: 8403708[Serial]
+
+113. Title Abbreviation: Crit Rev Biotechnol
+Title(s): Critical reviews in biotechnology.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Boca Raton, Fla. : CRC Press, c1983-
+Latest Publisher: London : Informa Healthcare
+Description: v. : ill.
+Language: English
+ISSN: 0738-8551(Print); 1549-7801(Electronic); 0738-8551(Linking)
+Coden: CRBTE5
+Electronic Links: http://www.tandfonline.com/loi/ibty20
+Fully Indexed In: MEDLINE: v6n1, 1987-; PubMed: v6n1, 1987-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biomedical Engineering*; Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 28 (2008). Also issued online.
+Other ID: (DNLM)SR0052322(s)(OCoLC)09660505
+NLM ID: 8505177[Serial]
+
+114. Author(s): Molecular Graphics Society.
+Title Abbreviation: J Mol Graph
+Title(s): Journal of molecular graphics.
+Publication Start Year: 1983
+Publication End Year: 1996
+Frequency: Bimonthly
+Country of Publication: United States
+Publisher: Guildford : Butterworth Scientific Ltd., c1983-c1996.
+Latest Publisher: Stoneham Ma : Butterworth-Heinemann In Association With The Molecular Graphics
+Society
+Description: 14 v. : ill.
+Language: English
+ISSN: 0263-7855(Print); 0263-7855(Linking)
+Coden: JMCEF8
+Electronic Links: http://sciencedirect.com/science/journal/10933263
+Fully Indexed In: MEDLINE: v7n1,Mar. 1989-v14n6,Dec. 1996; PubMed: v7n1,Mar. 1989-v14n6,Dec. 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Computer Graphics*; Electronic Data Processing*; Molecular Structure*
+Publication Type(s): Periodical
+Notes: Title from cover. Published: Stoneham, MA : Butterworths, 1987?- ; New York :
+Elsevier, -1996. Place of publication varies. Also available online. Published in
+association with: Molecular Graphics Society.
+Other ID: (DNLM)SR0052859(s)(OCoLC)09492250
+NLM ID: 9014762[Serial]
+
+115. Title Abbreviation: Mol Biol Med
+Title(s): Molecular biology & medicine.
+Publication Start Year: 1983
+Publication End Year: 1991
+Frequency: Six no. a year
+Country of Publication: England
+Publisher: London ; New York : Academic Press, 1983-[1991]
+Latest Publisher: London : Academic Press
+Description: v. : ill.
+Language: English, English
+ISSN: 0735-1313(Print); 0735-1313(Linking)
+Coden: MBIMDG
+Fully Indexed In: MEDLINE: v1n1, 1983-v8n2,Apr. 1991; PubMed: v1n1, 1983-v8n2,Apr. 1991; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Medicine*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Title from cover.
+Other ID: (DNLM)M43250000(s)(OCoLC)08873044
+NLM ID: 8403879[Serial]
+
+116. Title Abbreviation: Trends Biotechnol
+Title(s): Trends in biotechnology.
+Publication Start Year: 1983
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [Amsterdam, Netherlands : Elsevier Science Publishers B.V. (Biomedical Division),
+c1983-
+Latest Publisher: Barking : Elsevier Science Publishers
+Description: v. : ill.
+Language: English, English
+ISSN: 0167-7799(Print); 1879-3096(Electronic); 0167-7799(Linking)
+Coden: TRBIDM
+Electronic Links: https://www.sciencedirect.com/journal/trends-in-biotechnology
+Fully Indexed In: MEDLINE: v8n1, Dec. 1990-v16n4, Apr. 1998; v16n5, May 1998-; Index medicus
+In: PubMed: v8n1, Dec. 1990-v16n4, Apr. 1998; v16n5 May 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry/methods*; Biomedical Engineering/trends*; Technology/trends*
+Publication Type(s): Periodical
+Notes: Caption title. Also issued online.
+Other ID: (DNLM)T20270000(s)(OCoLC)09897803
+NLM ID: 8310903[Serial]
+
+117. Author(s): Davies,Julian E
+Title Abbreviation: Biotechnology
+Title(s): Biotechnology.
+Publication Start Year: 1982
+Publication End Year: 1995
+Frequency: Irregular
+Country of Publication: United States
+Publisher: [Reading, Mass. : Addison-Wesley, Advanced Book Program/World Science Division]
+Latest Publisher: Stoneham Ma : Butterworth-Heinemann
+Description: v. : ill.
+Language: English
+ISSN: 0740-7378(Print); 0740-7378(Linking)
+Coden: BTGYDD
+Selectively Indexed in: MEDLINEv10, 1988-v28, 1995PubMedv10, 1988-v28, 1995Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*; Biomedical Engineering*
+Publication Type(s): Periodical
+Notes: Editor: Julian E. Davies. Description based on: 2, published 1983, title from
+editorial page.
+Other ID: (OCoLC)09270123(DNLM)B19833000(s)
+NLM ID: 8300602[Serial]
+
+118. Author(s): European Molecular Biology Organization.
+Title Abbreviation: EMBO J
+Title(s): The EMBO journal.
+Publication Start Year: 1982
+Publication End Year: 
+Frequency: Semimonthly, 1994-
+Country of Publication: England
+Publisher: Eynsham, Oxford, England : Published for the European Molecular Biology
+Organization by IRL Press, [c1982-
+Latest Publisher: 2024- : [London] : Nature Publishing Group
+Description: v. : ill.
+Language: English, English
+ISSN: 0261-4189(Print); 1460-2075(Electronic); 0261-4189(Linking)
+Coden: EMJ0DG
+LCCN: 82643856, sc 82006936
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=8208664, http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1460-2075, https://www.embopress.org/journal/14602075
+Fully Indexed In: MEDLINE: v1n1, 1982-; Index medicus
+In: PubMed: v1n1, 1982-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Molecular Biology*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 34, no. 4 (2015). Also issued
+online.
+Other ID: (DNLM)E05755000(s)(OCoLC)08335096
+NLM ID: 8208664[Serial]
+
+119. Title Abbreviation: Appl Biochem Biotechnol
+Title(s): Applied biochemistry and biotechnology.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Twenty-four no. a year, 200?-
+Country of Publication: United States
+Publisher: Clifton, N.J. : Humana Press, c1981-
+Description: v. ill.
+Language: English, English
+ISSN: 0273-2289(Print); 1559-0291(Electronic); 0273-2289(Linking)
+Coden: ABIBDL
+Electronic Links: https://link.springer.com/journal/12010
+Fully Indexed In: MEDLINE: v8n1, 1983-; Index medicus
+In: PubMed: v8n1, 1983-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biomedical Engineering*
+Publication Type(s): Periodical
+Notes: Issues for Jan. 1994- have title: Part A, Enzyme engineering and biotechnology.
+Title from cover. Also issued online.
+Other ID: (DNLM)A57560000(s)(OCoLC)07033031
+NLM ID: 8208561[Serial]
+
+120. Title Abbreviation: DNA
+Title(s): DNA.
+Publication Start Year: 1981
+Publication End Year: 1989
+Frequency: Ten no. a year
+Country of Publication: United States
+Publisher: New York : M.A. Liebert, [c1981]-c1989.
+Latest Publisher: New York Ny : Mary Ann Liebert
+Description: 8 v. : ill.
+Language: English, English
+ISSN: 0198-0238(Print); 0198-0238(Linking)
+Coden: DNAADR
+Electronic Links: http://www.liebertonline.com/dna
+Fully Indexed In: MEDLINE: v1n1, 1981-v8n10,Dec. 1989; PubMed: v1n1, 1981-v8n10,Dec. 1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: DNA, Recombinant*; Genetic Techniques*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)06177540(DNLM)D17135000(s)
+NLM ID: 8302432[Serial]
+
+121. Author(s): Chirikjian,Jack G
+Title Abbreviation: Gene Amplif Anal
+Title(s): Gene amplification and analysis.
+Publication Start Year: 1981
+Publication End Year: 1987
+Frequency: Irregular
+Country of Publication: United States
+Publisher: New York : Elsevier/North-Holland, c1981-[1987]
+Latest Publisher: New York Ny : Elsevier/north-Holland
+Description: v. : ill.
+Language: English
+ISSN: 0275-2778(Print); 0275-2778(Linking)
+Coden: GAAND8
+Fully Indexed In: MEDLINE: v1, 1981-v5, 1987; PubMed: v1, 1981-v5, 1987; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Gene Amplification*; Genetics*; Molecular Biology*
+Publication Type(s): Periodical
+Notes: Editor: Jack. G. Chirikjian.
+Other ID: (DNLM)G03750000(s)(OCoLC)07113249
+NLM ID: 8101596[Serial]
+
+122. Author(s): Williamson,R(Robert)
+Title Abbreviation: Genet Eng
+Title(s): Genetic engineering.
+Publication Start Year: 1981
+Publication End Year: 1988
+Frequency: Irregular
+Country of Publication: England
+Publisher: London ; New York : Academic Press, 1981-[1988]
+Latest Publisher: London : Academic Press
+Description: v. : ill.
+Language: English
+ISSN: 0887-8307(Print); 0887-8307(Linking)
+Coden: GEENEN
+Selectively Indexed in: MEDLINE7, 1988PubMed7, 1988Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: DNA, Recombinant*; Genetic Engineering*
+Publication Type(s): Periodical
+Notes: Editor: Robert Williamson.
+Other ID: (DNLM)G04565000(s)(OCoLC)07515222
+NLM ID: 8302443[Serial]
+
+123. Author(s): Los Alamos Scientific Laboratory.; Los Alamos National Laboratory.
+Title Abbreviation: Los Alamos Sci
+Title(s): Los Alamos science/ Los Alamos Scientific Laboratory.
+Publication Start Year: 1980
+Publication End Year: 2006
+Frequency: Irregular
+Country of Publication: United States
+Publisher: Los Alamos Nm : Los Alamos National Laboratory
+Description: v. : ill.
+Language: English
+SuDocs Number: E 1.96:
+ISSN: 0273-7116(Print); 0273-7116(Linking)
+Coden: LASCDI
+Electronic Links: https://la-science.lanl.gov/index.shtml
+In: MEDLINE: Selected citations only, PubMed: Selected citations only; 
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to space life sciences were indexed.
+MeSH: Biological Science Disciplines*; Biotechnology*; Science*; Technology*
+Other Subject(s): Los Alamos Scientific Laboratory., Los Alamos National Laboratory.
+Publication Type(s): Periodical
+Notes: Title from cover. Distinctive title: Human genome project, 1992. Issue for summer
+1980 called also Premier issue. Also issued online. Vols for summer 1980-198
+issued by: Los Alamos Scientific Laboratory; winter/spring 1982?- by: Los Alamos 
+National Laboratory.
+Other ID: (DNLM)SR0077332(s)(OCoLC)06818444
+NLM ID: 9318072[Serial]
+
+124. Title Abbreviation: Biotechnol Lett
+Title(s): Biotechnology letters.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Biweekly, <Jan. 2000->
+Country of Publication: Netherlands
+Publisher: [Kew, Eng., Science and Technology Letters]
+Latest Publisher: 1999- : Dordrecht : Kluwer Academic Publishers
+Description: v. ill.
+Language: English
+ISSN: 0141-5492(Print); 1573-6776(Electronic); 0141-5492(Linking)
+Coden: BILED3
+LCCN: 80648600, sn 80012372
+Electronic Links: https://link.springer.com/journal/10529
+Fully Indexed In: MEDLINE: v25n1, Jan. 2003-; Index medicus
+In: PubMed: v25n1, Jan. 2003-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biomedical Engineering*; Microbiology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)B19865000(s)(OCoLC)05026728
+NLM ID: 8008051[Serial]
+
+125. Title Abbreviation: Enzyme Microb Technol
+Title(s): Enzyme and microbial technology.
+Publication Start Year: 1979
+Publication End Year: 
+Frequency: Monthly, 2002-
+Country of Publication: United States
+Publisher: [Guildford, Eng.] IPC Science and Technology Press.
+Latest Publisher: New York, NY : Elsevier
+Description: v. ill.
+Language: English
+ISSN: 0141-0229(Print); 1879-0909(Electronic); 0141-0229(Linking)
+Coden: EMTED2
+LCCN: 80640780, sn 79000879
+Electronic Links: https://www.sciencedirect.com/journal/enzyme-and-microbial-technology
+Fully Indexed In: MEDLINE: v48n1, Jan. 5 2011-
+In: PubMed: v48n1, Jan. 5 2011-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Enzymes*; Microbiological Techniques*; Microbiology*; Technology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)E10810000(s)(OCoLC)04815338
+NLM ID: 8003761[Serial]
+
+126. Author(s): Hollaender,Alexander,1898-1986.; Setlow,Jane K
+Title Abbreviation: Genet Eng (N Y)
+Title(s): Genetic engineering.
+Publication Start Year: 1979
+Publication End Year: 2007
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York, Plenum Press.
+Description: v. ill.
+Language: English
+ISSN: 0196-3716(Print); 0196-3716(Linking)
+Coden: GENGDC
+Electronic Links: http://www.springer.com/series/6010
+Fully Indexed In: MEDLINE: v20, 1998-v28, 2007; Index medicus
+In: PubMed: v20, 1998-v28, 2007; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetic Engineering*
+Notes: Editors: v.1- J. K. Setlow and A. Hollaender. Also issued online.
+Other ID: (DNLM)G04560000(s)(OCoLC)05271667
+NLM ID: 7907340[Serial]
+
+127. Author(s): Symposium on Nucleic Acids Chemistry.
+Title Abbreviation: Nucleic Acids Symp Ser
+Title(s): Nucleic acids symposium series.
+Publication Start Year: 1979
+Publication End Year: 2000
+Frequency: Two no. a year
+Country of Publication: England
+Publisher: [London] ; Information Retrieval Ltd., c1979-c2000.
+Latest Publisher: London : Oxford University Press
+Description: 49 no. : ill.
+Language: English
+ISSN: 0261-3166(Print); 0261-3166(Linking)
+Coden: NACSD8
+LCCN: sf 85003075
+Electronic Links: http://nass.oxfordjournals.org/
+Fully Indexed In: MEDLINE: v6, 1979-v44, 2000; PubMed: v6, 1979-v44, 2000; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Nucleic Acids*
+Publication Type(s): Congress
+Notes: Published: Oxford ; New York : IRL Press at Oxford University Press, <1991-> Also
+issued online. Some vols. contain papers presented at the Symposium on Nucleic
+Acids Chemistry.
+Other ID: (OCoLC)06724047(DNLM)N33790000(s)
+NLM ID: 8007206[Serial]
+
+128. Author(s): National Institute of General Medical Sciences (U.S.). Office of Recombinant DNA 
+Activities.; National Institutes of Health (U.S.)
+Title Abbreviation: Recomb DNA Tech Bull
+Title(s): Recombinant DNA technical bulletin.
+Publication Start Year: 1977
+Publication End Year: 1993
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: [Bethesda, Md.] U. S. Dept. of Health, Education, and Welfare, Public Health
+Service, National Institutes of Health
+Description: v.
+Language: English
+SuDocs Number: HE 20.3460:
+ISSN: 0196-0229(Print); 0196-0229(Linking)
+Coden: RDTBD5
+Fully Indexed In: MEDLINE: v4n1,Aug. 1981-v13n4,Dec. 1990; PubMed: v4n1,Aug. 1981-v13n4,Dec. 1990; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: DNA, Recombinant*
+Publication Type(s): Periodical
+Notes: Prepared by the Office of Recombinant DNA Activities, National Institute of
+General Medical Sciences.
+Other ID: (DNLM)R07120000(s)(OCoLC)03559885
+NLM ID: 7807151[Serial]
+
+129. Author(s): Carlsberg laboratoriet.
+Title Abbreviation: Carlsberg Res Commun
+Title(s): Carlsberg research communications.
+Publication Start Year: 1976
+Publication End Year: 1989
+Frequency: Six no. a year
+Country of Publication: Denmark
+Publisher: Copenhagen, Carlsberg Laboratory; Berlin, New York, distributed by
+Springer-Verlag.
+Latest Publisher: Copenhagen : Springer Verlag
+Description: v. ill.
+Language: English, English
+ISSN: 0105-1938(Print); 0105-1938(Linking)
+Coden: CRCODS
+Selectively Indexed in: MEDLINEv53n1, 1988-v54, 1989PubMedv53n1, 1988-v54, 1989Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biochemistry*
+Publication Type(s): Periodical
+Other ID: (DNLM)C08060000(s)(OCoLC)03065342
+NLM ID: 7703861[Serial]
+
+130. Author(s): Perkins,F T(Francis Theodore); Regamey,R H(Robert Henri); International
+Association of Biological Standardization.
+Title Abbreviation: J Biol Stand
+Title(s): Journal of biological standardization.
+Publication Start Year: 1973
+Publication End Year: 1989
+Frequency: Quarterly
+Country of Publication: England
+Publisher: London, Published for the International Assn. of Biological Standardization by
+Academic Press.
+Latest Publisher: London : Academic Press
+Description: 17 v. illus.
+Language: English
+ISSN: 0092-1157(Print); 0092-1157(Linking)
+Coden: JBSTBI
+Fully Indexed In: MEDLINE: v2n1,Jan. 1974-v17n4,Oct. 1989; PubMed: v2n1,Jan. 1974-v17n4,Oct. 1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biology*; Pharmaceutical Preparations/standards*; Vaccines/standards*
+Publication Type(s): Periodical
+Notes: Vols. for 1973- published in New York. Editors: 1973- F. T. Perkins and R. H.
+Regamey.
+Other ID: (DNLM)J14500000(s)(OCoLC)01789012
+NLM ID: 0400335[Serial]
+
+131. Author(s): Hanʼguk Sanŏp Misaengmul Hakhoe.
+Title Abbreviation: Sanop Misaengmul Hakhoe Chi
+Title(s): Sanŏp Misaengmul Hakhoe chi.
+Publication Start Year: 1973
+Publication End Year: 2001
+Frequency: Quarterly
+Country of Publication: Korea (South)
+Publisher: Sŏul Tʻŭkpyŏlsi : Hanʼguk Sanŏp Misaengmul Hakhoe chi, -2001.
+Latest Publisher: Seoul : Hanguk Sanop Misaengmul Hakhoe
+Description: v. : ill.
+Language: English, Korean, English
+ISSN: 0257-2389(Print); 0257-2389(Linking)
+Coden: SMHAE
+Electronic Links: http://www.kormb.or.kr/home/kor/journal/START.asp?globalmenu=12&localmenu=1
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Engineering*; Microbiology*
+Publication Type(s): Periodical
+Notes: Issues for <1995-> have also English title: Korean journal of applied
+microbiology and biotechnology. Description based on: Che 9-kwŏn che 3-ho (1981.
+9); title from cover. Also available online. Articles in English or Korean;
+summaries in both languages.
+Other ID: (DNLM)SR0050132(s)(OCoLC)08897511
+NLM ID: 8508463[Serial]
+
+132. Title Abbreviation: Int J Pept Protein Res
+Title(s): International journal of peptide and protein research.
+Publication Start Year: 1972
+Publication End Year: 1996
+Frequency: Monthly, <Mar. 1984>-96
+Country of Publication: Denmark
+Publisher: Copenhagen, Munksgaard.
+Latest Publisher: Copenhagen : Munksgaard International Publishers
+Description: 45 v. ill.
+Language: English
+ISSN: 0367-8377(Print); 0367-8377(Linking)
+Coden: IJPPC3
+Fully Indexed In: MEDLINE: v4n2, 1972-v48n6, 1996; PubMed: v4n2, 1972-v48n6, 1996; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Peptides*; Proteins*
+Publication Type(s): Periodical
+Other ID: (DNLM)I27680000(s)(OCoLC)01607810
+NLM ID: 0330420[Serial]
+
+133. Author(s): Hakkō Kenkyūjo (Osaka, Japan)
+Title Abbreviation: Res Commun Inst Ferment
+Title(s): Research communications - Institute for Fermentation, Osaka.
+Publication Start Year: 1971
+Publication End Year: 2001
+Frequency: Annual
+Country of Publication: Japan
+Publisher: Osaka.
+Latest Publisher: Osaka : Hakko Kenkyusho
+Description: no. illus.
+Language: English
+ISSN: 0073-8751(Print); 0073-8751(Linking)
+Coden: IFMRBX
+Selectively Indexed in: MEDLINEn15,1990-n18, 1997PubMedn15,1990-n18, 1997
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Microbiology*
+Publication Type(s): Periodical
+Notes: Title also in Japanese: Hakko Kenkyusho kenkyu hokoku.
+Other ID: (OCoLC)01329079(DNLM)R23360000(s)
+NLM ID: 7502667[Serial]
+
+134. Title Abbreviation: Biotechnol Bioeng Symp
+Title(s): Biotechnology and bioengineering symposium.
+Publication Start Year: 1967
+Publication End Year: 1986
+Frequency: Annual
+Country of Publication: United States
+Publisher: New York, Interscience Publishers.
+Latest Publisher: New York Ny : Wiley Interscience
+Description: no. illus.
+Language: English
+ISSN: 0572-6565(Print); 0572-6565(Linking)
+Coden: BIBSBR
+LCCN: sn 78002212
+Selectively Indexed in: MEDLINE1973-n10, 1980PubMed1973-n10, 1980Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Biomedical Engineering*; Technology*
+Publication Type(s): Congress
+Other ID: (DNLM)B19860000(s)(OCoLC)01000288
+NLM ID: 1302775[Serial]
+
+135. Title Abbreviation: Mikrochim Acta
+Title(s): Mikrochimica acta.
+Publication Start Year: 1966
+Publication End Year: 
+Frequency: Twelve no. a year
+Country of Publication: Austria
+Publisher: Wien ; New York : Springer-Verlag.
+Description: v. ill., ports.
+Language: English, French, German, English, French, German
+ISSN: 0026-3672(Print); 1436-5073(Electronic); 0026-3672(Linking)
+Coden: MIACAQ
+Electronic Links: https://link.springer.com/journal/604
+In: PubMed: n1-2, 1966-n5-6, July 1977; v185n1, Jan. 2018-; 
+Selectively Indexed in: MEDLINEn1-2, 1966-n5-6, July 1977; v185n1, Jan. 2018-Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Chemistry Techniques, Analytical*; Microchemistry*
+Publication Type(s): Periodical
+Notes: Issues for Aug. 2000- have title: Microchimica acta. Also issued online. Articles
+mainly in English with some in French or German; summaries in English and German 
+and some in French.
+Other ID: (DNLM)M35680000(s)(OCoLC)01778788
+NLM ID: 7808782[Serial]
+
+136. Title Abbreviation: Biotechnol Bioeng
+Title(s): Biotechnology and bioengineering.
+Publication Start Year: 1962
+Publication End Year: 
+Frequency: 28 no. a year
+Country of Publication: United States
+Publisher: New York, Wiley.
+Latest Publisher: <2005->: Hoboken, NJ : Wiley
+Description: v. ill.
+Language: English
+ISSN: 0006-3592(Print); 1097-0290(Electronic); 0006-3592(Linking)
+Coden: BIBIAU
+LCCN: a 61005662, sc 78002085, sn 78004263
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0290
+Fully Indexed In: MEDLINE: v11n1, Jan. 1969-v23n2, 1981,v57n1, Jan. 5, 1998-; Index medicus
+In: PubMed: v11n1, Jan. 1969-v23n2, 1981,v57n1, Jan. 5, 1998-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Biochemistry*; Biotechnology*; Microbiology*
+Publication Type(s): Periodical
+Notes: Vols. for 1998- include section: Combinatorial chemistry. Title varies slightly. 
+Vol. with title Combinatorial chemistry is published out of sequence. Supplements
+accompany some vols. Also issued online.
+Other ID: (DNLM)B19840000(s)(OCoLC)01224461
+NLM ID: 7502021[Serial]
+
+137. Author(s): Nihon Nōgei Kagakkai.
+Title Abbreviation: Agric Biol Chem
+Title(s): Agricultural and biological chemistry.
+Publication Start Year: 1961
+Publication End Year: 1991
+Frequency: Monthly
+Country of Publication: Japan
+Publisher: Tokyo, Agricultural Chemical Society of Japan.
+Description: 31 v. : ill.
+Language: English
+ISSN: 0002-1369(Print); 1881-1280(Electronic); 0002-1369(Linking)
+Coden: ABCHA6
+Electronic Links: http://www.journalarchive.jst.go.jp/english/jnltop_en.php?cdjournal=bbb1961
+Selectively Indexed in: MEDLINEv54n1, Jan. 1990-v55n12, Dec. 1991PubMedv54n1, Jan. 1990-v55n12, Dec. 1991
+Current Indexing Status: Not currently indexed for MEDLINE. Only articles related to biotechnology were indexed.
+MeSH: Biochemistry*; Chemistry, Agricultural*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)A17580000(s)(OCoLC)05458841
+NLM ID: 0370452[Serial]
+
+138. Author(s): Hockenhull,D J D
+Title Abbreviation: Prog Ind Microbiol
+Title(s): Progress in industrial microbiology.
+Publication Start Year: 1959
+Publication End Year: 
+Frequency: Irregular
+Country of Publication: Netherlands
+Publisher: Edinburgh, Churchill Livingstone; distributed in the U. S. by Longman, New York
+[etc.]
+Latest Publisher: Amsterdam : Elsevier
+Description: v. illus.
+Language: English
+ISSN: 0079-6352(Print); 0079-6352(Linking)
+Coden: PIMRAS
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEPubMed
+Current Indexing Status: Not currently indexed for MEDLINE. Includes citations from print indexes prior to 1966.
+MeSH: Biomedical Technology*; Microbiology*
+Publication Type(s): Periodical
+Notes: Editor: D. J. D. Hockenhull. Imprint varies, v. 14- .
+Other ID: (DNLM)P47960000(s)(OCoLC)01762953
+NLM ID: 7513447[Serial]
+
+139. Author(s): Nihon Iden Gakkai.
+Title Abbreviation: Jpn J Genet
+Title(s): Idengaku zasshi.
+Publication Start Year: 1921
+Publication End Year: 1995
+Frequency: Bimonthly, Oct. 1961-1995
+Country of Publication: Japan
+Publisher: Tōkyō-shi : Nihon Iden Gakkai, Taishō 10 [1921]-1995.
+Description: 70 v. : ill. ; 26 cm.
+Language: Japanese, English, German
+ISSN: 0021-504X(Print); 1880-5787(Electronic); 0021-504X(Linking)
+Coden: IDZAAW
+LCCN: 94659529, sn 86009206, sn 93038027
+Electronic Links: http://www.journalarchive.jst.go.jp/english/jnltop_en.php?cdjournal=ggs1921, https://www.jstage.jst.go.jp/browse/jjg/
+Selectively Indexed in: MEDLINEv63n1,Feb. 1988-v70n6,Dec. 1995PubMedv63n1,Feb. 1988-v70n6,Dec. 1995Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Genetics*
+Publication Type(s): Periodical
+Notes: Title from cover. Issues for <Jan. 1961>-Dec. 1995 have English title: The
+Japanese journal of genetics; beginning with <Apr. 1993>-Dec. 1995 issue, the
+English and Japanese titles appear on separate pages. Abstracts of papers
+contained in volumes 1-3 inserted at beginning of volume 3. Some issues published
+in combined form. Supplements accompany some numbers. Also issued online. Text in
+Japanese, English or German. Chiefly in Japanese with some English; summaries and
+table of contents also in English Indexes: Vol. 1 (1921)-30 (1955), 1 v.
+Other ID: (OCoLC)01713580(DNLM)SR0075930(s)
+NLM ID: 9301272[Serial]
+

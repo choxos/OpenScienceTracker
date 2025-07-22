@@ -1,0 +1,557 @@
+1. Title Abbreviation: Lancet Microbe
+Title(s): The Lancet. Microbe.
+Publication Start Year: 2020
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: [Oxford] : Elsevier Ltd., [2020]-
+Description: 1 online resource
+Language: English
+ISSN: 2666-5247(Electronic); 2666-5247(Linking)
+LCCN: 2020243232
+Electronic Links: https://www.sciencedirect.com/journal/the-lancet-microbe
+Fully Indexed In: MEDLINE: v1n1, May 2020-
+In: PubMed: v1n1, May 2020-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Microbiological Phenomena*; Microbiological Techniques
+Publication Type(s): Periodical
+Other ID: (OCoLC)1152068376
+NLM ID: 101769019[Serial]
+
+2. Author(s): International Society of Chemotherapy for Infection and Cancer,; Quan qiu hua ren
+lin chuang wei sheng wu ji gan ran zheng xue hui,; Asia-Pacific Society of
+Clinical Microbiology and Infection,
+Title Abbreviation: J Glob Antimicrob Resist
+Title(s): Journal of global antimicrobial resistance.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Published by Elsevier Ltd. on behalf of International Society of
+Chemotherapy for Infection and Cancer
+Description: volumes : illustrations ; cm
+Language: English
+ISSN: 2213-7165(Print); 2213-7173(Electronic); 2213-7165(Linking)
+LCCN: 2013205252
+Electronic Links: http://www.sciencedirect.com/science/journal/22137165
+Fully Indexed In: MEDLINE: v4, Mar. 2016-
+In: PubMed: v4, Mar. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Drug Resistance*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 7 (2016). March 2013 issue also called: Volume 1/1
+(2013). June 2013 issue called: Volume 1, issue 2. Also issued online.
+Other ID: (OCoLC)847688508
+NLM ID: 101622459[Serial]
+
+3. Author(s): Asian-African Society of Mycobacteriology,
+Title Abbreviation: Int J Mycobacteriol
+Title(s): International journal of mycobacteriology.
+Publication Start Year: 2012
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: India
+Publisher: Amsterdam : Elsevier, [2012]-
+Latest Publisher: <2017>- : Mumbai, Maharashtra, India : Medknow
+Language: English
+ISSN: 2212-5531(Print); 2212-554X(Electronic); 2212-5531(Linking)
+LCCN: 2012204157
+Electronic Links: http://www.ijmyco.org/, https://journals.lww.com/ijmy/Pages/default.aspx
+Fully Indexed In: MEDLINE: v4n1, Mar. 2015-
+In: PubMed: v4n1, Mar. 2015- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Mycobacterium Infections*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 5 (2016). Also issued online. Official journal of the
+Asian-African Society of Mycobacteriology.
+Other ID: (OCoLC)810273877
+NLM ID: 101615660[Serial]
+
+4. Author(s): International Endotoxin & Innate Immunity Society.
+Title Abbreviation: Innate Immun
+Title(s): Innate immunity.
+Publication Start Year: 2008
+Publication End Year: 
+Frequency: 6 issues a year, 2008-
+Country of Publication: United States
+Publisher: Los Angeles : Sage Publications, c2008-
+Description: v. : ill. ; 28 cm.
+Language: English
+ISSN: 1753-4259(Print); 1753-4267(Electronic); 1753-4259(Linking)
+LCCN: 2008233328
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101469670, https://journals.sagepub.com/home/ini
+Fully Indexed In: MEDLINE: 14n1, Feb. 2008-
+In: PubMed: v14n1, Feb. 2008-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Endotoxins; Immunity, Innate*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)213273438
+NLM ID: 101469670[Serial]
+
+5. Title Abbreviation: Harmful Algae
+Title(s): Harmful algae.
+Publication Start Year: 2002
+Publication End Year: 
+Frequency: Ten no. a year, 2014-
+Country of Publication: Netherlands
+Publisher: Amsterdam ; New York : Elsevier, c2002-
+Description: v. : ill. (some col.), maps ; 27 cm.
+Language: English
+ISSN: 1568-9883(Print); 1878-1470(Electronic); 1568-9883(Linking)
+LCCN: 2003205280
+Electronic Links: http://www.sciencedirect.com/science/journal/15689883
+Fully Indexed In: MEDLINE: v51, Jan. 2016-
+In: PubMed: v51, Jan. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Cyanobacteria; Harmful Algal Bloom; Microalgae*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (OCoLC)51442686
+NLM ID: 101128968[Serial]
+
+6. Author(s): Surgical Infection Society (U.S.); Surgical Infection Society--Europe.
+Title Abbreviation: Surg Infect (Larchmt)
+Title(s): Surgical infections.
+Publication Start Year: 2000
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Larchmont, NY : Mary Ann Liebert, Inc., c1999-
+Description: v. : ill.
+Language: English
+ISSN: 1096-2964(Print); 1557-8674(Electronic); 1096-2964(Linking)
+Coden: SIUNAL
+LCCN: sn 97001051
+Electronic Links: http://online.liebertpub.com/loi/sur
+Fully Indexed In: MEDLINE: v1n1, spring 2000-; Index medicus
+In: PubMed: v1n1, spring 2000-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Infection Control/methods; Surgical Wound Infection*
+Publication Type(s): Periodical
+Notes: Title from cover. Alsoissued online. Official journal of Surgical Infection
+Society and Surgical Infection Society--Europe. Complemented by (work): Surgical 
+infections case reports 2469-4037 (DLC) 2015203875 (OCoLC) 928963337
+(DNLM)101699331.
+Other ID: (DNLM)SR0092174(s)(OCoLC)37759292
+NLM ID: 9815642[Serial]
+
+7. Title Abbreviation: Helicobacter
+Title(s): Helicobacter.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Bimonthly, 2002-
+Country of Publication: England
+Publisher: Malden, MA : Wiley-Blackwell, c1996-
+Latest Publisher: Oxford : Wiley-Blackwell
+Description: v. : ill.
+Language: English
+ISSN: 1083-4389(Print); 1523-5378(Electronic); 1083-4389(Linking)
+Electronic Links: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1523-5378
+Fully Indexed In: MEDLINE: v1n1,Mar. 1996-; Index medicus
+In: PubMed: v1n1,Mar. 1996-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Helicobacter Infections*; Helicobacter*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v. 15, no. 6 (2010) Also issued
+online.
+Other ID: (DNLM)SR0085597(s)(OCoLC)32811147
+NLM ID: 9605411[Serial]
+
+8. Author(s): International Endotoxin Society.; International Endotoxin & Innate Immunity
+Society.
+Title Abbreviation: J Endotoxin Res
+Title(s): Journal of endotoxin research.
+Publication Start Year: 1994
+Publication End Year: 2007
+Frequency: Six no. a year, 1995-
+Country of Publication: United States
+Publisher: Edinburgh ; New York : Churchill Livingstone, c1994-
+Latest Publisher: Los Angeles : Sage Publications
+Description: v. ill.
+Language: English
+ISSN: 0968-0519(Print); 1743-2839(Electronic); 0968-0519(Linking)
+Coden: JENREB
+LCCN: sn 94038642
+Electronic Links: https://journals.sagepub.com/home/ini
+Fully Indexed In: MEDLINE: v6n1, 2000-v13n6, 2007; PubMed: v6n1, 2000-v13n6, 2007; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Endotoxins*
+Publication Type(s): Periodical
+Notes: Imprint varies. Title from cover. Issues for Mar. 1994- include section: Recent
+literature on endotoxin research. Final issue consulted. Vol. for 1998 called
+Vol. 15? Also issued online.
+Other ID: (DNLM)SR0078937(s)(OCoLC)30775970
+NLM ID: 9433350[Serial]
+
+9. Author(s): Uniunea Societăților de Științe Medicale.; Societatea Română de
+Microbiologie.
+Title Abbreviation: Bacteriol Virusol Parazitol Epidemiol
+Title(s): Bacteriologia, virusologia, parazitologia, epidemiologia/ Uniunea Societătilor
+de Stiinte Medicale din România.
+Publication Start Year: 1990
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucuresti : Editura Medicala, 1990-
+Description: v. : ill.
+Language: Romanian, English, Russian
+ISSN: 1220-3696(Print); 1220-3696(Linking)
+Fully Indexed In: MEDLINE: v35n2, Apr.-Jun. 1990- v56n1, 2011; Index medicus
+In: PubMed: v35n2, Apr.-Jun. 1990- v56n1, 2011; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteriology*; Epidemiology*; Parasitology*; Virology*
+Publication Type(s): Periodical
+Notes: Quarterly. Title from cover. Articles in Romanian; some summaries in English,
+Romanian, and Russian, 1990; summaries in English, 1991- ; tables of contents in 
+English, Romanian, and Russian, 1990 and in English, French and Romanian, 1991- .
+Journal of: Societatea Româna de Microbiologie, 1991- .
+Other ID: (OCoLC)24498798(DNLM)SR0073306(s)
+NLM ID: 9204448[Serial]
+
+10. Title Abbreviation: Zentralbl Bakteriol
+Title(s): Zentralblatt für Bakteriologie : international journal of medical microbiology.
+Publication Start Year: 1989
+Publication End Year: 2000
+Frequency: Eight no. a year
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : Gustav Fischer, 1989-c1999.
+Latest Publisher: Stuttgart : Gustav Fischer
+Description: 19 v. : ill.
+Language: English, German
+ISSN: 0934-8840(Print); 0934-8840(Linking)
+Coden: ZEBAE8
+LCCN: 90643752
+Fully Indexed In: MEDLINE: v270n1,May 1989-v289n8,Jan. 2000.; PubMed: v270n1,May 1989-v289n8,Jan. 2000.; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacterial Infections*; Communicable Diseases/microbiology*; Parasitic Diseases*; Viruses*
+Publication Type(s): Periodical
+Notes: Vols. for Apr. 1991- have subtitle: International journal of medical
+microbiology, virology, parasitology, and infectious diseases. Title from cover. 
+Published: Jena, Germany : Urban & Fischer, 19 -1999. Four issues per volume.
+Articles in English; summaries also in German, 1989-Jan. 1994.
+Other ID: (OCoLC)19959116(DNLM)SR0073224(s)
+NLM ID: 9203851[Serial]
+
+11. Title Abbreviation: Zentralbl Bakteriol Mikrobiol Hyg A
+Title(s): Zentralblatt für Bakteriologie, Mikrobiologie, und Hygiene. Series A, Medical
+microbiology, infectious diseases, virology, parasitology.
+Publication Start Year: 1983
+Publication End Year: 1989
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Stuttgart ; New York : G. Fischer, c1983- [c1989]
+Latest Publisher: Stuttgart : Gustav Fischer Verlag
+Description: 15 v. : ill.
+Language: English, German
+ISSN: 0176-6724(Print); 0176-6724(Linking)
+Coden: ZBMPEJ
+Fully Indexed In: MEDLINE: v256n1,Nov. 1983-v270n4,Mar. 1989; PubMed: v256n1,Nov. 1983-v270n4,Mar. 1989; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communicable Diseases*
+Publication Type(s): Periodical
+Notes: Title from cover. Articles in English or German ; summaries in both languages.
+Other ID: (DNLM)Z06619000(s)(OCoLC)10642688
+NLM ID: 8403032[Serial]
+
+12. Title Abbreviation: Zentralbl Bakteriol Naturwiss
+Title(s): Zentralblatt für Bakteriologie, Parasitenkunde, Infektionskrankheiten und
+Hygiene. Zweite naturwissenschaftliche Abteilung: Mikrobiologie der
+Landwirtschaft der Technologie und des Umweltschutzes.
+Publication Start Year: 1978
+Publication End Year: 1981
+Frequency: Irregular
+Country of Publication: Germany
+Publisher: Jena : Fischer, 1978-1981.
+Latest Publisher: Jena : Fischer
+Description: 4 v. : ill.
+Language: English, German, English, German
+ISSN: 0323-6056(Print); 0323-6056(Linking)
+Coden: ZBPUDE
+Selectively Indexed in: MEDLINEv133n1, 1978-v136n8, 1981PubMedv133n1, 1978-v136n8, 1981Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Agriculture*; Bacteriology*; Environmental Pollution*; Microbiology*; Plants*
+Publication Type(s): Periodical
+Notes: Title from cover. Articles in English or German with summaries in both languages.
+Other ID: (DNLM)Z06710000(s)(OCoLC)05226267
+NLM ID: 8000422[Serial]
+
+13. Author(s): Ospedale Maria Vittoria di Torino.
+Title Abbreviation: G Batteriol Virol Immunol
+Title(s): Giornale di batteriologia, virologia ed immunologia.
+Publication Start Year: 1974
+Publication End Year: 1994
+Frequency: Monthly
+Country of Publication: Italy
+Publisher: Torino, Ospedale Maria Vittoria.
+Latest Publisher: Torino : Ospedale Maria Vittoria
+Description: v. illus.
+Language: English, Italian, English, Italian
+ISSN: 0390-5462(Print); 0390-5462(Linking)
+Coden: GBVID3
+Fully Indexed In: MEDLINE: v1n1-6,Jan./Jun. 1974-v86, 1994; PubMed: v1n1-6,Jan./Jun. 1974-v86, 1994; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Bacteriology*; Virology*
+Publication Type(s): Periodical
+Notes: Articles in Italian or English, with summaries in both languages.
+Other ID: (DNLM)G08280000(s)(OCoLC)01650241
+NLM ID: 7510850[Serial]
+
+14. Author(s): Societatea de Bacteriologie, Virusologie, Parazitologie, Epidemiologie.
+Title Abbreviation: Rev Ig Bacteriol Virusol Parazitol Epidemiol Pneumoftiziol Bacteriol Virusol
+Parazitol Epidemiol
+Title(s): Revista de igienă, bacteriologie, virusologie, parazitologie, epidemiologie,
+pneumoftiziologie. Bacteriologia, virusologia, parazitologia, epidemiologia.
+Publication Start Year: 1974
+Publication End Year: 1990
+Frequency: Quarterly
+Country of Publication: Romania
+Publisher: Bucureşti.
+Latest Publisher: Bucuresti : Uniunea Societatealor De Stiinte Medicale
+Description: 17 v. illus.
+Language: Romanian, English, Multiple languages
+ISSN: 0376-4494(Print); 0376-4494(Linking)
+Coden: BVPEDC
+Fully Indexed In: MEDLINE: v19n4, Jul./Sept. 1974-1990; Index medicus
+In: PubMed: v19n4, Jul./Sept. 1974-1990; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteriology*; Epidemiology*; Parasitology*; Virology*
+Publication Type(s): Periodical
+Notes: Journal of the Societătea de Bacteriologie, Virusologie, Parazitologie,
+Epidemiologie. Title varies slightly. Articles in Romanian; tables of contents
+and summaries in English, French, German, Romanian, and Russian.
+Other ID: (OCoLC)01168398(DNLM)R35260000(s)
+NLM ID: 7508738[Serial]
+
+15. Author(s): Ospedale Maria Vittoria di Torino.
+Title Abbreviation: G Batteriol Virol Immunol Microbiol
+Title(s): Giornale di batteriologia, virologia ed immunologia ed annali dell'Ospedale Maria
+Vittoria di Torino. Parte 1: Sezione microbiologica.
+Publication Start Year: 1971
+Publication End Year: 1973
+Frequency: Semiannual
+Country of Publication: Italy
+Publisher: Torino, Ospedale Maria Vittoria.
+Latest Publisher: Torino : Ospedale Maria Vittoria
+Description: 3 v. illus.
+Language: English, Italian, English, Italian
+ISSN: 0301-1453(Print); 0301-1453(Linking)
+Coden: GBVMAC
+Fully Indexed In: MEDLINE: v65n1,Jan. 1972-v66,Aug./Dec. 1973; PubMed: v65n1,Jan. 1972-v66,Aug./Dec. 1973; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Bacteriology*; Virology*
+Publication Type(s): Periodical
+Notes: Articles in Italian or English, with summaries in both languages.
+Other ID: (DNLM)G08320000(s)(OCoLC)01650266
+NLM ID: 7510848[Serial]
+
+16. Author(s): Ospedale Maria Vittoria di Torino.
+Title Abbreviation: G Batteriol Virol Immunol Clin
+Title(s): Giornale di batteriologia, virologia ed immunologia ed annali dell'Ospedale Maria
+Vittoria di Torino. Parte 2: Sezione clinica.
+Publication Start Year: 1971
+Publication End Year: 1973
+Frequency: Semiannual
+Country of Publication: Italy
+Publisher: Torino, Ospedale Maria Vittoria.
+Description: 3 v. illus.,ports.
+Language: Italian
+ISSN: 0301-1445(Print); 0301-1445(Linking)
+Coden: GBVCAG
+Fully Indexed In: MEDLINE: v15n1,Jan./Aug. 1972; PubMed: v15n1,Jan./Aug. 1972; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Bacteriology*; Virology*
+Publication Type(s): Periodical
+Notes: Called also Annali dell'Ospedale Maria Vittoria di Torino and also numbered v.
+14-16.
+Other ID: (OCoLC)01650277(DNLM)G08340000(s)
+NLM ID: 7510849[Serial]
+
+17. Author(s): Society for Applied Bacteriology.
+Title Abbreviation: Soc Appl Bacteriol Symp Ser
+Title(s): Society for Applied Bacteriology symposium series.
+Publication Start Year: 1971
+Publication End Year: 1997
+Frequency: Annual
+Country of Publication: England
+Publisher: Oxford [etc.] New York [etc.] Blackwell Scientific [etc.] 1971-c1997.
+Latest Publisher: -1997: Oxford : Blackwell Scientific Publications
+Description: v. illus.
+Language: English
+ISSN: 0300-9610(Print); 0300-9610(Linking)
+Coden: SBTSAG
+LCCN: sn 80013474
+Selectively Indexed in: MEDLINEv1, 1971-v, 26 1997.PubMedv1, 1971-v, 26 1997.Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Microbiology*
+Publication Type(s): Congress
+Notes: Papers of the society's previous symposia published in the Journal of applied
+bacteriology. Published by Academic Press, 1971-1981? Vols. for <1986-1996> also 
+designated as supplements to: Journal of applied bacteriology; vol. for 1997 also
+designated as supplement to: Journal of applied microbiology.
+Other ID: (DNLM)S29700000(s)(OCoLC)05217578
+NLM ID: 0330732[Serial]
+
+18. Author(s): International Leprosy Association.; Leonard Wood Memorial (American Leprosy
+Foundation)
+Title Abbreviation: Int J Lepr Other Mycobact Dis
+Title(s): International journal of leprosy and other mycobacterial diseases : official
+organ of the International Leprosy Association.
+Publication Start Year: 1966
+Publication End Year: 2005
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: Washington, D.C. : The Association, [1966-
+Latest Publisher: Lawrence Ks : Allen Press
+Description: v. : ill.
+Language: English
+ISSN: 0148-916X(Print); 1544-581X(Electronic); 0148-916X(Linking)
+LCCN: sc 79004122, sn 78000935
+Electronic Links: http://www.leprosy-ila.org/leprosyjournal/index.php
+Fully Indexed In: MEDLINE: v34n1,Jan.-Mar. 1966-v73n4, Dec. 2005; PubMed: v34n1,Jan.-Mar. 1966-v73n4, Dec. 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Leprosy*
+Publication Type(s): Periodical
+Notes: Title from cover. Suppls. accompany some vols. Place of publication varies. Also 
+issued online. Published with the aid of the Leonard Wood Memorial (American
+Leprosy Foundation).
+Other ID: (DNLM)SR0053035(s)(OCoLC)03398651
+NLM ID: 8505819[Serial]
+
+19. Author(s): International Association of Microbiological Societies. Judicial Commission.;
+International Association of Microbiological Societies. International Committee
+on Nomenclature of Bacteria.; Society for General Microbiology.
+Title Abbreviation: Int J Syst Bacteriol
+Title(s): International journal of systematic bacteriology.
+Publication Start Year: 1966
+Publication End Year: 1999
+Frequency: Quarterly
+Country of Publication: England
+Publisher: Ames, Iowa : Iowa State University Press, [1966]-c1999.
+Latest Publisher: 1998-1999: Reading, UK : Society for General Microbiology
+Description: 34 v.
+Language: English
+ISSN: 0020-7713(Print); 0020-7713(Linking)
+Coden: IJSBA8
+Electronic Links: http://ijs.microbiologyresearch.org/content/journal/ijsem
+Selectively Indexed in: MEDLINEv40n1, Jan. 1990-v49n4, Oct. 1999PubMedv40n1, Jan. 1990-v49n4, Oct. 1999Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteria/classification*; Bacteriology*
+Publication Type(s): Periodical
+Notes: Also issued online. Official organ of the Judicial Commission of the
+International Association of Microbiological Societies and of the International
+Committee on Bacteriological Nomenclature.
+Other ID: (DNLM)I28220000(s)(OCoLC)01643282
+NLM ID: 0042143[Serial]
+
+20. Author(s): Ospedale Maria Vittoria di Torino.
+Title Abbreviation: G Batteriol Virol Immunol Ann Osp Maria Vittor Torino
+Title(s): Giornale di batteriologia, virologia, ed immunologia ed annali dell'Ospedale
+Maria Vittoria di Torino.
+Publication Start Year: 1958
+Publication End Year: 1970
+Frequency: Five no. a year
+Country of Publication: Italy
+Publisher: Torino, Ospedale Maria Vittoria.
+Latest Publisher: Turin : Ospedale Maria Vittoria Di Torino
+Description: 13 v. illus.
+Language: Italian
+ISSN: 0017-0267(Print); 0017-0267(Linking)
+Coden: GBVIAY
+Fully Indexed In: MEDLINE: v58n1,Jan./Feb. 1965-v63,Nov./Dec. 1970; PubMed: v58n1,Jan./Feb. 1965-v63,Nov./Dec. 1970; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Allergy and Immunology*; Bacteriology*; Virology*
+Publication Type(s): Periodical
+Notes: Some summaries also in English, French, or German. Continued by a publication
+with the same title issued in two parts: Sezione microbiologica and Sezione
+clinica. Issue for Nov./Dec. 1970 called also Parte 2: Sezione clinica.
+Other ID: (DNLM)G08300000(s)(OCoLC)06811048
+NLM ID: 0365561[Serial]
+
+21. Author(s): Society for Applied Bacteriology.
+Title Abbreviation: J Appl Bacteriol
+Title(s): The Journal of applied bacteriology.
+Publication Start Year: 1954
+Publication End Year: 1996
+Frequency: Monthly
+Country of Publication: England
+Publisher: Oxford : Blackwell Scientific Publications
+Description: 65 v. illus.
+Language: English
+ISSN: 0021-8847(Print); 0021-8847(Linking)
+Coden: JABAA4
+LCCN: sf 76000237
+In: OLDMEDLINE; 
+Selectively Indexed in: MEDLINEv28n2,Aug. 1965-v81,Dec. 1996PubMedv28n2,Aug. 1965-v81,Dec. 1996Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Bacteriology
+Publication Type(s): Periodical
+Notes: Published by: Academic Press, 1954-1981. Published in 2 v. per annum, Nov. 1989?-
+. Supplements accompany some vol. Published for the Society for Applied
+Bacteriology.
+Other ID: (DNLM)J12760000(s)(OCoLC)01226743
+NLM ID: 7503050[Serial]
+
+22. Author(s): Nihon Saikingaku Zasshikai.; Nihon Saikin Gakkai.
+Title Abbreviation: Nihon Saikingaku Zasshi
+Title(s): Nihon saikingaku zasshi. Japanese journal of bacteriology.
+Publication Start Year: 1944
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Japan
+Publisher: Tōkyō-to : Nihon Saikingaku Zasshi Kai, 1944-
+Latest Publisher: <July 1949-> : Tōkyō-to : Nihon Saikin Gakkai
+Description: v. : ill.
+Language: Japanese, English
+ISSN: 0021-4930(Print); 1882-4110(Electronic); 0021-4930(Linking)
+Coden: NSKZAM
+Electronic Links: https://www.jstage.jst.go.jp/browse/jsb/
+Fully Indexed In: MEDLINE: v20n6,Jun. 1965-; Index medicus
+In: PubMed: v20n6,Jun. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bacteriology*
+Publication Type(s): Periodical
+Notes: Issues for 1944-june 1950 have title in Japanese only. Print issues ceased with
+v.70, no. 1 (Feb. 2015). Publication suspended Sept. 1944-Feb. 1947. Also issued 
+online. Microfilm. v. 1 (1944)-20 (1965). 14 microfilm reels : negative ; 35 mm. 
+Table of contents in English, 1951- .
+Other ID: (OCoLC)02274141(DNLM)N26740000(s)
+NLM ID: 2984804R[Serial]
+
+23. Author(s): American Society for Microbiology.; Society of American Bacteriologists.
+Title Abbreviation: J Bacteriol
+Title(s): Journal of bacteriology.
+Publication Start Year: 1916
+Publication End Year: 
+Frequency: Semimonthly, 1991-
+Country of Publication: United States
+Publisher: Washington, DC : American Society for Microbiology
+Description: v. ill., ports.
+Language: English
+ISSN: 0021-9193(Print); 1098-5530(Electronic); 0021-9193(Linking)
+Coden: JOBAAY
+LCCN: sg 16000091
+Electronic Links: https://jb.asm.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=2985120R
+Fully Indexed In: MEDLINE: v87n5, May 1964-; Index medicus
+In: PubMed: v87n5, May 1964-, OLDMEDLINE, PMC
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Bacteriology*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 197 (2015) Also issued online. Microfilm.
+v.1(1916)-40(1940) + Index v.1(1916)-30(1935). 16 microfilm reels : negative ; 35
+mm. Official organ of the Society of American Bacteriologists, later the American
+Society for Microbiology. Indexes: Vol. 1-30, 1916-35. 1 v; Vol. 65-80, 1953-60. 
+1 v.
+Other ID: (DNLM)J13840000(s)(OCoLC)01800435
+NLM ID: 2985120R[Serial]
+

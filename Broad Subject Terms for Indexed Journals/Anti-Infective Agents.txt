@@ -1,0 +1,711 @@
+1. Title Abbreviation: Recent Adv Antiinfect Drug Discov
+Title(s): Recent advances in anti-infective drug discovery.
+Publication Start Year: 2021
+Publication End Year: 
+Country of Publication: United Arab Emirates
+Publisher: [Saif Zone, Sharjah, U.A.E.] ; [San Francisco, CA] : Bentham Science, [2021]-
+Description: 1 online resource
+Language: English
+ISSN: 2772-4352(Electronic); 2772-4344(Print); 2772-4344(Linking)
+LCCN: 2022229068
+Electronic Links: https://www.eurekaselect.com/191858/journal/recent-advances-anti-infective-drug-discovery
+Fully Indexed In: MEDLINE: v16n1, 2021-
+In: PubMed: v16n1, 2021-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anti-Infective Agents*; Communicable Diseases/drug therapy; Drug Discovery; Patents as Topic
+Publication Type(s): Periodical
+Notes: Also issued in print.
+Other ID: (OCoLC)1255122677
+NLM ID: 9918266300206676[Serial]
+
+2. Author(s): American Chemical Society,
+Title Abbreviation: ACS Infect Dis
+Title(s): ACS infectious diseases.
+Publication Start Year: 2015
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, DC : ACS Publications, [2015]-
+Description: 1 online resource
+Language: English
+ISSN: 2373-8227(Electronic); 2373-8227(Linking)
+LCCN: 2014203218
+Electronic Links: http://pubs.acs.org/journal/aidcbc
+In: PubMed: v2n1, Jan. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communicable Diseases*
+Publication Type(s): Periodical
+Notes: Numbering from PDF cover.
+Other ID: (OCoLC)882906571
+NLM ID: 101654580[Serial]
+
+3. Author(s): International Society of Chemotherapy for Infection and Cancer,; Quan qiu hua ren
+lin chuang wei sheng wu ji gan ran zheng xue hui,; Asia-Pacific Society of
+Clinical Microbiology and Infection,
+Title Abbreviation: J Glob Antimicrob Resist
+Title(s): Journal of global antimicrobial resistance.
+Publication Start Year: 2013
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Amsterdam : Published by Elsevier Ltd. on behalf of International Society of
+Chemotherapy for Infection and Cancer
+Description: volumes : illustrations ; cm
+Language: English
+ISSN: 2213-7165(Print); 2213-7173(Electronic); 2213-7165(Linking)
+LCCN: 2013205252
+Electronic Links: http://www.sciencedirect.com/science/journal/22137165
+Fully Indexed In: MEDLINE: v4, Mar. 2016-
+In: PubMed: v4, Mar. 2016- ; Selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Drug Resistance*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 7 (2016). March 2013 issue also called: Volume 1/1
+(2013). June 2013 issue called: Volume 1, issue 2. Also issued online.
+Other ID: (OCoLC)847688508
+NLM ID: 101622459[Serial]
+
+4. Title Abbreviation: Antimicrob Resist Infect Control
+Title(s): Antimicrobial resistance and infection control.
+Publication Start Year: 2012
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central
+Language: English
+ISSN: 2047-2994(Electronic); 2047-2994(Linking)
+LCCN: 2012243486
+Electronic Links: https://pmc.ncbi.nlm.nih.gov/journals/?term=101585411, https://aricjournal.biomedcentral.com/
+Fully Indexed In: MEDLINE: v6, 2017-
+In: PubMed: v1, 2012-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communicable Disease Control; Drug Resistance, Microbial*; Infection Control
+Other ID: (OCoLC)781439518
+NLM ID: 101585411[Serial]
+
+5. Title Abbreviation: Probiotics Antimicrob Proteins
+Title(s): Probiotics and antimicrobial proteins.
+Publication Start Year: 2009
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: United States
+Publisher: New York, NY. : Springer
+Language: English
+ISSN: 1867-1306(Print); 1867-1314(Electronic); 1867-1306(Linking)
+LCCN: 2010205655
+Electronic Links: https://link.springer.com/journal/12602
+Fully Indexed In: MEDLINE: v6n1, Mar. 2014-
+In: PubMed: v6n1, Mar. 2014- ; selected citations only before this date; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anti-Bacterial Agents; Probiotics*
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 1, no. 2 (Dec. 2009); title from cover. Latest issue
+consulted: Vol. 1, no. 2 (Dec. 2009). Print issues ceased with v. 2, no. 2
+(2010). Also issued online.
+Other ID: (OCoLC)528805648
+NLM ID: 101484100[Serial]
+
+6. Title Abbreviation: Infect Disord Drug Targets
+Title(s): Infectious disorders drug targets.
+Publication Start Year: 2006
+Publication End Year: 
+Frequency: Quarterly, 2019-
+Country of Publication: United Arab Emirates
+Publisher: Saif Zone, Sharjah, U.A.E. : Bentham Science Publishers, [2006]-
+Description: v.
+Language: English
+ISSN: 1871-5265(Print); 2212-3989(Electronic); 1871-5265(Linking)
+LCCN: 2006243376
+Electronic Links: http://www.eurekaselect.com/631/journal/infectious-disorders-drug-targets
+Fully Indexed In: MEDLINE: v6n1, Mar. 2006-; PubMed: v6n1, Mar. 2006-
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Communicable Diseases/drug therapy*; Drug Delivery Systems; Drug Design
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)69393242
+NLM ID: 101269158[Serial]
+
+7. Title Abbreviation: Recent Pat Antiinfect Drug Discov
+Title(s): Recent patents on anti-infective drug discovery.
+Publication Start Year: 2006
+Publication End Year: 2020
+Frequency: Three times a year, 2018-
+Country of Publication: Netherlands
+Publisher: Saif Zone, Sharjah, U.A.E. ; San Francisco, CA : Bentham Science Publishers,
+2006-2020.
+Description: volumes : illustrations ; 28 cm
+Language: English
+ISSN: 1574-891X(Print); 1574-891X(Linking)
+LCCN: 2006243141
+Electronic Links: http://www.ingentaconnect.com/content/ben/pri, http://www.eurekaselect.com/626/journal/recent-patents-anti-infective-drug-discovery
+Fully Indexed In: MEDLINE: v1n1, Jan. 2006-v15n2, 2020
+In: PubMed: v1n1, Jan. 2006-v15n2, 2020; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Infective Agents*; Communicable Diseases/drug therapy; Patents as Topic
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)64768953
+NLM ID: 101266084[Serial]
+
+8. Title Abbreviation: Expert Rev Anti Infect Ther
+Title(s): Expert review of anti-infective therapy.
+Publication Start Year: 2003
+Publication End Year: 
+Frequency: Monthly, 2010-
+Country of Publication: England
+Publisher: London : Future Drugs Ltd.
+Latest Publisher: 2015- : Abingdon, Oxford : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1478-7210(Print); 1744-8336(Electronic); 1478-7210(Linking)
+LCCN: 2004243346
+Electronic Links: http://www.tandfonline.com/loi/ierz20
+Fully Indexed In: MEDLINE: v1n1, June 2003-; Index medicus
+In: PubMed: v1n1, June 2003-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus; Index Medicus
+MeSH: Bacterial Infections/therapy; Infection Control; Infections/therapy*; Parasitic Diseases/therapy; Virus Diseases/therapy
+Publication Type(s): PeriodicalReview
+Notes: Description based on: Vol. 2, no. 2 (Apr. 2004); title from cover. Supplements
+accompany some vols. Also issued online.
+Other ID: (OCoLC)55227674
+NLM ID: 101181284[Serial]
+
+9. Title Abbreviation: Curr Drug Targets Infect Disord
+Title(s): Current drug targets. Infectious disorders.
+Publication Start Year: 2001
+Publication End Year: 2005
+Frequency: Quarterly, 2002-2005
+Country of Publication: Netherlands
+Publisher: Hilversum, Netherlands ; Boca Raton, FL : Bentham Science Publishers, 2001-c
+2005.
+Description: 5 v.
+Language: English
+ISSN: 1568-0053(Print); 1568-0053(Linking)
+Coden: CDTIAS
+LCCN: 2001243434
+Fully Indexed In: MEDLINE: v1n1, May 2001-v5n4, Dec. 2005; PubMed: v1n1, May 2001-v5n4, Dec. 2005; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Communicable Diseases/drug therapy*; Drug Delivery Systems; Drug Design
+Publication Type(s): PeriodicalReview
+Notes: Title from cover.
+Other ID: (OCoLC)48623859
+NLM ID: 101128002[Serial]
+
+10. Title Abbreviation: Drug Resist Updat
+Title(s): Drug resistance updates : reviews and commentaries in antimicrobial and
+anticancer chemotherapy.
+Publication Start Year: 1998
+Publication End Year: 
+Frequency: Six no. a year
+Country of Publication: Scotland
+Publisher: Edinburgh ; Philadelphia : Churchill Livingstone, c1998-
+Description: v. : ill.
+Language: English
+ISSN: 1368-7646(Print); 1532-2084(Electronic); 1368-7646(Linking)
+Coden: DRUPFW
+LCCN: 98-643727
+Electronic Links: https://www.sciencedirect.com/journal/drug-resistance-updates
+Fully Indexed In: MEDLINE: v4n1, Feb. 2001-; PubMed: v4n1, Feb. 2001-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anti-Infective Agents*; Antineoplastic Agents*; Communicable Diseases/drug therapy; Drug Resistance*; Neoplasms/drug therapy
+Publication Type(s): PeriodicalReview
+Notes: Title from cover. Also issued online.
+Other ID: (OCoLC)40157204(DNLM)SR0093111(s)
+NLM ID: 9815369[Serial]
+
+11. Author(s): International Society for Antiviral Research.
+Title Abbreviation: Antivir Ther
+Title(s): Antiviral therapy.
+Publication Start Year: 1996
+Publication End Year: 
+Frequency: Eight no. a year, 2005-
+Country of Publication: England
+Publisher: London : International Medical Press
+Latest Publisher: [London] : SAGE Publications
+Description: v. : ill.
+Language: English
+ISSN: 1359-6535(Print); 2040-2058(Electronic); 1359-6535(Linking)
+LCCN: sn 99039880
+Electronic Links: https://journals.sagepub.com/home/avt
+Fully Indexed In: MEDLINE: v1n1,1996-; PubMed: v1n1,1996-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Antiviral Agents/therapeutic use*; Virus Diseases/therapy; Viruses/drug effects
+Publication Type(s): Periodical
+Notes: Description based on: Vol. 3, no. 4 (1998); title from cover. Supplements
+accompany some v. Also issued online. Official publication of the International
+Society for Antiviral Research.
+Other ID: (DNLM)SR0091683(s)(OCoLC)42889502
+NLM ID: 9815705[Serial]
+
+12. Author(s): Nihon Kagaku Ryōhō Gakkai.; Nihon Kansenshō Gakkai.
+Title Abbreviation: J Infect Chemother
+Title(s): Journal of infection and chemotherapy : official journal of the Japan Society of 
+Chemotherapy.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Quarterly
+Country of Publication: Netherlands
+Publisher: Tokyo : New York : Published for the Society by Churchill Livingstone, c1995-
+Latest Publisher: 2014- : Amsterdam : Elsevier
+Description: v. : ill.
+Language: English
+ISSN: 1341-321X(Print); 1437-7780(Electronic); 1341-321X(Linking)
+Coden: JICHFN
+Electronic Links: http://www.sciencedirect.com/science/journal/1341321X/
+Fully Indexed In: MEDLINE: v6n1, Mar. 2000-; Index medicus
+In: PubMed: v6n1, Mar. 2000-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Drug Therapy*; Infections/therapy*
+Publication Type(s): Periodical
+Notes: Also issued online. Issues for June 2000- are also the official publication of
+the Japanese Association for Infectious Diseases.
+Other ID: (DNLM)SR0084169(s)(OCoLC)35226590
+NLM ID: 9608375[Serial]
+
+13. Title Abbreviation: Microb Drug Resist
+Title(s): Microbial drug resistance : MDR : mechanisms, epidemiology, and disease.
+Publication Start Year: 1995
+Publication End Year: 
+Frequency: Ten no. a year, 2018-
+Country of Publication: United States
+Publisher: Larchmont, N.Y. : Mary Ann Liebert, c1995-
+Description: v. : ill.
+Language: English
+ISSN: 1076-6294(Print); 1931-8448(Electronic); 1076-6294(Linking)
+Coden: MDREFJ
+LCCN: sn 94001187
+Electronic Links: http://online.liebertpub.com/loi/mdr
+Fully Indexed In: MEDLINE: v3n1,spring 1997-; PubMed: v3n1,spring 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Drug Resistance, Microbial*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online.
+Other ID: (DNLM)SR0081614(s)(OCoLC)30567641
+NLM ID: 9508567[Serial]
+
+14. Author(s): International Society of Chemotherapy.
+Title Abbreviation: Int J Antimicrob Agents
+Title(s): International journal of antimicrobial agents.
+Publication Start Year: 1991
+Publication End Year: 
+Frequency: Twelve no. a year, 2001-
+Country of Publication: Netherlands
+Publisher: Amsterdam : Elsevier Science Publishers, c1991-
+Description: v. : ill.
+Language: English
+ISSN: 0924-8579(Print); 1872-7913(Electronic); 0924-8579(Linking)
+Coden: IAAGEA
+LCCN: sn 91033487
+Electronic Links: https://www.sciencedirect.com/journal/international-journal-of-antimicrobial-agents
+Fully Indexed In: MEDLINE: v9n3, Jan. 1997-; PubMed: v9n3, Jan. 1997-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anti-Bacterial Agents*; Anti-Infective Agents*
+Publication Type(s): Periodical
+Notes: Six issues per year. Print issues ceased with v. 48, no. 6 (2016). Called also:
+Vol. 1, no. 1- . Has supplements. Also available online. Issued by: International
+Society of Chemotherapy.
+Other ID: (DNLM)SR0068819(s)(OCoLC)24466890
+NLM ID: 9111860[Serial]
+
+15. Title Abbreviation: Antivir Chem Chemother
+Title(s): Antiviral chemistry & chemotherapy.
+Publication Start Year: 1990
+Publication End Year: 2023
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Oxford, UK ; Boston : Blackwell Scientific Publications, c1990-2023.
+Latest Publisher: 2015-2023 : London : Sage Publications
+Description: v. : ill.
+Language: English
+ISSN: 0956-3202(Print); 2040-2066(Electronic); 0956-3202(Linking)
+Coden: ACCHEH
+Electronic Links: https://journals.sagepub.com/home/avc, https://pmc.ncbi.nlm.nih.gov/journals/?term=9009212
+Fully Indexed In: MEDLINE: v9n1,Jan. 1998-v31, Jan.-Dec. 2023; PubMed: v9n1,Jan. 1998-v31, Jan.-Dec. 2023; Index medicus
+In: PMC; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Antiviral Agents*; Virus Diseases/drug therapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Print issues ceased with v.19, no. 6 (2009). Vol. 19, no. 4
+include ISAR News, Vol. 18, no. 2. Also issued online.
+Other ID: (DNLM)SR0065847(s)(OCoLC)20073994
+NLM ID: 9009212[Serial]
+
+16. Author(s): Mediterranean Society of Chemotherapy.; Mediterranean Society of Therapy.;
+Società italiana di chemioterapia.
+Title Abbreviation: J Chemother
+Title(s): Journal of chemotherapy.
+Publication Start Year: 1989
+Publication End Year: 
+Frequency: Bimonthly
+Country of Publication: England
+Publisher: Firenze : Edizioni riviste scientifiche, [1989-
+Latest Publisher: 2016- : Abingdon : Taylor & Francis
+Description: v. : ill.
+Language: English
+ISSN: 1120-009X(Print); 1973-9478(Electronic); 1120-009X(Linking)
+Coden: JCHEEU
+LCCN: sn 89036256
+Electronic Links: http://www.tandfonline.com/loi/yjoc20
+Fully Indexed In: MEDLINE: v1n1, 1989-; Index medicus
+In: PubMed: v1n1, 1989-; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anti-Infective Agents*; Drug Therapy*
+Publication Type(s): Periodical
+Notes: Title from cover. Also issued online. Official organ of: the Mediterranean
+Society of Chemotherapy. Official journal of: the Mediterranean Society of
+Therapy. Published under the auspices of the Italian Society of Chemotherapy.
+Other ID: (DNLM)SR0064562(s)(OCoLC)19584658
+NLM ID: 8907348[Serial]
+
+17. Author(s): Soviet Union. Ministerstvo medit︠s︡inskoĭ i mikrobiologicheskoĭ
+promyshlennosti.; Russia (Federation). Ministerstvo zdravookhranenii︠a︡.;
+Gosudarstvennyĭ nauchnyĭ t︠s︡entr po antibiotikam (Russia (Federation))
+Title Abbreviation: Antibiot Khimioter
+Title(s): Antibiotiki i khimioterapii︠a︡ = Antibiotics and chemoterapy [sic]/ Ministerstvo 
+meditsinskoĭ i mikrobiologicheskoĭ promyshlennosti SSSR.
+Publication Start Year: 1988
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Meditsina, c1988-
+Latest Publisher: Moskva : Izdatelstvo Meditsina
+Description: v. : ill.
+Language: Russian, English
+ISSN: 0235-2990(Print); 0235-2990(Linking)
+Coden: ANKHEW
+Electronic Links: https://www.antibiotics-chemotherapy.ru/jour
+Fully Indexed In: MEDLINE: v33n1,Jan. 1988-v61, Aug. 2016; Index medicus
+In: PubMed: v33n1,Jan. 1988-Jv61, Aug. 2016; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*; Anti-Bacterial Agents/therapeutic use*
+Publication Type(s): Periodical
+Notes: Published: Media sfera, <1999-> T. 41, 2 (1996) in misnumbered on cover as T. 40,
+2 (1996). Also issued online Articles in Russian; summaries in English; table of 
+contents in both languages. Issued by: Ministerstvo zdravookhranenii︠a︡
+Rossiĭskoĭ Federat︠s︡ii and: Gosudarstvennyĭ nauchnyĭ t︠s︡entr po
+antibiotikam, <1999->
+Other ID: (DNLM)SR0061894(s)(OCoLC)17863283
+NLM ID: 8803688[Serial]
+
+18. Author(s): Soviet Union. Ministerstvo medit︠s︡inskoĭ promyshlennosti.; Soviet Union.
+Ministerstvo medit︠s︡inskoĭ i mikrobiologicheskoĭ promyshlennosti.
+Title Abbreviation: Antibiot Med Biotekhnol
+Title(s): Antibiotiki i meditsinskaia biotekhnologiia = Antibiotics and medical
+biotechnology/ Ministerstvo meditsinskoĭ promyshlennosti SSSR.
+Publication Start Year: 1985
+Publication End Year: 1987
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva : Meditsina, c1985-c1987.
+Latest Publisher: Moskva : Izdatelstvo Meditsina
+Description: 3 v. : ill.
+Language: Russian, English
+ISSN: 0233-7525(Print); 0233-7525(Linking)
+Coden: AMBIEH
+Selectively Indexed in: MEDLINEv30n1,Jan. 1985-v32n12,Dec. 1987PubMedv30n1,Jan. 1985-v32n12,Dec. 1987Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*; Biomedical Technology*
+Publication Type(s): Periodical
+Notes: Articles in Russian; summaries in English; table of contents in both languages.
+Vols. for Jan 1986?-Dec. 1987 issued by Ministerstvo meditsinskoĭ i
+mikrobiologicheskoĭ promyshlennosti SSSR.
+Other ID: (DNLM)SR0053537(s)(OCoLC)11828967
+NLM ID: 8502784[Serial]
+
+19. Title Abbreviation: Antiviral Res
+Title(s): Antiviral research.
+Publication Start Year: 1981
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: Netherlands
+Publisher: [Amsterdam ; New York : Elsevier/North-Holland Biomedical Press, c1981-
+Latest Publisher: Amsterdam : Elsevier
+Description: v. : ill.
+Language: English, English
+ISSN: 0166-3542(Print); 1872-9096(Electronic); 0166-3542(Linking)
+Coden: ARSRDR
+LCCN: sc 82003274
+Electronic Links: http://www.sciencedirect.com/science/journal/01663542
+Fully Indexed In: MEDLINE: v1n2,Jun. 1981-; PubMed: v1n2,Jun. 1981-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Antiviral Agents*; Virus Diseases/immunology*
+Publication Type(s): Periodical
+Notes: Also issued online.
+Other ID: (DNLM)A55961000(s)(OCoLC)07603702
+NLM ID: 8109699[Serial]
+
+20. Author(s): British Society for Antimicrobial Chemotherapy.
+Title Abbreviation: J Antimicrob Chemother
+Title(s): The Journal of antimicrobial chemotherapy.
+Publication Start Year: 1975
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: London, New York, Academic Press.
+Latest Publisher: 1997- : London : Oxford University Press
+Description: v. illus.
+Language: English, English
+ISSN: 0305-7453(Print); 1460-2091(Electronic); 0305-7453(Linking)
+Coden: JACHDX
+Electronic Links: https://academic.oup.com/jac
+Fully Indexed In: MEDLINE: v1n1,Mar. 1975-; PubMed: v1n1,Mar. 1975-; Index medicus
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anti-Infective Agents/therapeutic use*; Drug Therapy*
+Publication Type(s): Periodical
+Notes: Published for the British Society for Antimicrobial Chemotherapy. Supplements
+accompany some vols. Also available online.
+Other ID: (DNLM)J12680000(s)(OCoLC)01343768
+NLM ID: 7513617[Serial]
+
+21. Title Abbreviation: Quad Antibiot
+Title(s): Quaderni di antibiotica.
+Publication Start Year: 1975
+Publication End Year: 1975
+Frequency: Irregular
+Country of Publication: Italy
+Publisher: [Roma? s.n.]
+Latest Publisher: Roma : s.n.]
+Description: v. ill.
+Language: English, Italian
+Fully Indexed In: MEDLINE: Jun. 1975; PubMed: Jun. 1975; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*
+Publication Type(s): CongressPeriodical
+Notes: Text in English and Italian.
+Other ID: (OCoLC)04650881(DNLM)A55690000(s)
+NLM ID: 7807998[Serial]
+
+22. Author(s): American Society for Microbiology.
+Title Abbreviation: Antimicrob Agents Chemother
+Title(s): Antimicrobial agents and chemotherapy.
+Publication Start Year: 1972
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: United States
+Publisher: Washington, American Society for Microbiology
+Description: v. ill.
+Language: English
+ISSN: 0066-4804(Print); 1098-6596(Electronic); 0066-4804(Linking)
+Coden: AMACCQ
+LCCN: 72621133
+Electronic Links: https://aac.asm.org/, https://pmc.ncbi.nlm.nih.gov/journals/?term=0315061
+Fully Indexed In: MEDLINE: v1, 1972-; Index medicus
+In: PubMed: v1, 1972-, PMC; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anti-Bacterial Agents*; Antiviral Agents*; Drug Therapy*
+Publication Type(s): Periodical
+Notes: Print issues ceased with v. 58 (2014). Also issued online.
+Other ID: (DNLM)A55830000(s)(OCoLC)01778594
+NLM ID: 0315061[Serial]
+
+23. Title Abbreviation: Antibiot Chemother (1971)
+Title(s): Antibiotics and chemotherapy.
+Publication Start Year: 1971
+Publication End Year: 2000
+Frequency: Annual
+Country of Publication: Switzerland
+Publisher: Basel, New York, Karger.
+Description: v. illus.
+Language: English
+ISSN: 0066-4758(Print); 1662-2863(Electronic); 0066-4758(Linking)
+Coden: ANBCB3
+LCCN: 72625343, sn 78006872
+Electronic Links: http://www.karger.com/anche
+Fully Indexed In: MEDLINE: v17, 1971-v50, 2000; Index medicus
+In: PubMed: v17, 1971-v50, 2000; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*; Drug Therapy*
+Other ID: (DNLM)A55725000(s)(OCoLC)01344164
+NLM ID: 1305576[Serial]
+
+24. Author(s): Nihon Kōseibusshitsu Gakujutsu Kyōgikai.
+Title Abbreviation: Jpn J Antibiot
+Title(s): The Japanese journal of antibiotics.
+Publication Start Year: 1968
+Publication End Year: 
+Frequency: Six no. a year 2002-
+Country of Publication: Japan
+Publisher: Tokyo, Japan Antibiotics Research Assn.
+Description: v. illus.
+Language: Japanese
+ISSN: 0368-2781(Print); 2186-5477(Electronic); 0368-2781(Linking)
+Coden: JJANAX
+Electronic Links: http://www.antibiotics.or.jp/jara/jara-top.htm
+Fully Indexed In: MEDLINE: v21n1, Feb. 1968-v69n6, Dec. 2016; Index medicus
+In: PubMed: v21n1, Feb. 1968-v69n6, Dec. 2016; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*
+Publication Type(s): Periodical
+Notes: Print issues ceased with 2020. Also issued online. Text in Japanese.
+Other ID: (DNLM)J04120000(s)(OCoLC)01714965
+NLM ID: 0154402[Serial]
+
+25. Author(s): Universidade Federal de Pernambuco. Instituto de Antibióticos.
+Title Abbreviation: Rev Inst Antibiot (Recife)
+Title(s): Revista do Instituto de Antibióticos, Universidade Federal de Pernambuco.
+Publication Start Year: 1966
+Publication End Year: 1988
+Frequency: Two no. a year
+Country of Publication: Brazil
+Publisher: Recife.
+Latest Publisher: Recife : Instituto De Antibioticos
+Description: v. illus.
+Language: Portuguese, English, German
+ISSN: 0080-0228(Print); 0080-0228(Linking)
+Coden: RATRAT
+Fully Indexed In: MEDLINE: v8n1,Dec. 1968-v14n1-2,Dec. 1974; PubMed: v8n1,Dec. 1968-v14n1-2,Dec. 1974; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*
+Publication Type(s): Periodical
+Notes: Summaries in English and German.
+Other ID: (DNLM)R35400000(s)(OCoLC)35274857
+NLM ID: 7507483[Serial]
+
+26. Title Abbreviation: Antibiotica
+Title(s): Antibiotica.
+Publication Start Year: 1963
+Publication End Year: 1975
+Frequency: Quarterly
+Country of Publication: Italy
+Publisher: Roma.
+Latest Publisher: Roma : Universita Di Roma. Istituto Di Microbiologia
+Description: v.
+Language: English
+ISSN: 0003-5629(Print); 0003-5629(Linking)
+Coden: ATIBA8
+Fully Indexed In: MEDLINE: v3n2,Jun. 1965-v13, 1975; PubMed: v3n2,Jun. 1965-v13, 1975; Index medicus
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*
+Publication Type(s): Periodical
+Notes: Text in Italian and English.
+Other ID: (DNLM)A55665000(s)(OCoLC)05802911
+NLM ID: 0400642[Serial]
+
+27. Author(s): Hindustan Antibiotics Limited.
+Title Abbreviation: Hindustan Antibiot Bull
+Title(s): Hindustan antibiotics bulletin.
+Publication Start Year: 1958
+Publication End Year: 2009
+Frequency: Four no. a year
+Country of Publication: India
+Publisher: Pimpri, India, Hindustan Antibiotics (Private) ltd.
+Latest Publisher: Pimpri : Dr M J Thirumalachar
+Description: v. ill.
+Language: English
+ISSN: 0018-1935(Print); 0018-1935(Linking)
+Coden: HINAAU
+LCCN: sa 63000288
+Fully Indexed In: MEDLINE: v7n3, Feb. 1965-v51, 2009; Index medicus
+In: PubMed: v7n3, Feb. 1965-v51, 2009, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*
+Publication Type(s): Periodical
+Other ID: (DNLM)H13240000(s)(OCoLC)01641662
+NLM ID: 2985097R[Serial]
+
+28. Author(s): Soviet Union. Ministerstvo zdravookhranenii︠a︡.
+Title Abbreviation: Antibiotiki
+Title(s): Antibiotiki.
+Publication Start Year: 1956
+Publication End Year: 1984
+Frequency: Monthly
+Country of Publication: Russia (Federation)
+Publisher: Moskva.
+Latest Publisher: Moskva : Izdatelstvo Meditsina
+Description: 29 v. illus.
+Language: Russian, French
+ISSN: 0003-5637(Print); 0003-5637(Linking)
+Coden: ANTBAL
+Fully Indexed In: MEDLINE: v10n6,Jun. 1965-v29n12,Dec. 1984; PubMed: v10n6,Jun. 1965-v29n12,Dec. 1984; Index medicus
+In: OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*
+Publication Type(s): Periodical
+Notes: Summaries in French. Issued by Ministerstvo zdravookhraneniia SSSR.
+Other ID: (DNLM)A55785000(s)(OCoLC)05222651
+NLM ID: 0375020[Serial]
+
+29. Author(s): Nihon Kōseibusshitsu Gakujutsu Kyōgikai.
+Title Abbreviation: J Antibiot B
+Title(s): The Journal of antibiotics. Ser. B.
+Publication Start Year: 1953
+Publication End Year: 1967
+Frequency: Bimonthly
+Country of Publication: Japan
+Publisher: Tokyo : Japan Antibiotics Research Association
+Description: 15 v. illus.
+Language: Japanese
+ISSN: 0447-8991(Print); 2186-5469(Electronic); 0447-8991(Linking)
+Electronic Links: https://www.jstage.jst.go.jp/browse/antibiotics1953b/-char/ja/
+Fully Indexed In: MEDLINE: v18n5, Oct. 1965-v20, 1967; Index medicus
+In: PubMed: v18n5, Oct. 1965-v20, 1967, OLDMEDLINE; 
+Current Indexing Status: Not currently indexed for MEDLINE. 
+MeSH: Anti-Bacterial Agents*
+Publication Type(s): Periodical
+Notes: Also issued online. Text in Japanese.
+Other ID: (DNLM)J12665000(s)(OCoLC)01778527
+NLM ID: 0154411[Serial]
+
+30. Author(s): Nihon Kōseibusshitsu Gakujutsu Kyōgikai.
+Title Abbreviation: J Antibiot (Tokyo)
+Title(s): The Journal of antibiotics.
+Publication Start Year: 1953
+Publication End Year: 
+Frequency: Monthly
+Country of Publication: England
+Publisher: Tokyo, Japan Antibiotics Research Assn.
+Latest Publisher: 2009- : London : Nature Publishing Group
+Description: v. illus.
+Language: English, English
+ISSN: 0021-8820(Print); 1881-1469(Electronic); 0021-8820(Linking)
+Coden: JANTAJ
+Electronic Links: http://www.nature.com/ja/
+Fully Indexed In: MEDLINE: v18n4, Jul. 1965-; Index medicus
+In: PubMed: v18n4, Jul. 1965-, OLDMEDLINE; 
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anti-Bacterial Agents*
+Publication Type(s): Periodical
+Notes: Supplements accompany some numbers. Also issued online. Issued Feb. 1953-1967
+with title: The Journal of antibiotics. Ser. A.
+Other ID: (DNLM)J12660000(s)(OCoLC)01642415
+NLM ID: 0151115[Serial]
+
+31. Title Abbreviation: Ann Clin Microbiol Antimicrob
+Title(s): Annals of clinical microbiology and antimicrobials.
+Publication Start Year: 19uu
+Publication End Year: 
+Country of Publication: England
+Publisher: London : BioMed Central, [2002]-
+Language: English
+ISSN: 1476-0711(Electronic); 1476-0711(Linking)
+LCCN: 2003244904
+Electronic Links: https://ann-clinmicrob.biomedcentral.com/, https://pmc.ncbi.nlm.nih.gov/journals/?term=101152152
+Fully Indexed In: MEDLINE: v4, 2005-
+In: PubMed: v1n1, 2002-, PMC
+Current Indexing Status: Currently indexed for MEDLINE. 
+Current Subset: Index Medicus
+MeSH: Anti-Infective Agents/therapeutic use; Communicable Diseases/drug therapy*; Microbiological Techniques
+Publication Type(s): Periodical
+Notes: Source code title: ACMA. Title from home page (viewed Jan. 3, 2003). Individual
+articles are numbered with volume and article number, on BioMed Central, e.g.,
+1:1; with volume, issue, and article number on PubMed Central, e.g., 1(1):1. Mode
+of access: World Wide Web (HTML and PDF formats).
+Other ID: (OCoLC)51164619
+NLM ID: 101152152[Serial]
+
