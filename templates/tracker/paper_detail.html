@@ -178,7 +178,11 @@
                         <div class="col-md-6">
                             {% if paper.broad_subject_category %}
                             <p class="mb-2"><strong>Subject Category:</strong> 
-                                <span class="badge bg-primary">{{ paper.broad_subject_category }}</span>
+                                <a href="{% url 'tracker:paper_list' %}?category={{ paper.broad_subject_category|urlencode }}" 
+                                   class="badge bg-primary text-decoration-none" 
+                                   title="View all papers in {{ paper.broad_subject_category }}">
+                                    {{ paper.broad_subject_category }}
+                                </a>
                             </p>
                             {% endif %}
                             <p class="mb-2"><strong>Available in Europe PMC:</strong> 
