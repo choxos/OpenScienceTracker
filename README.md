@@ -223,10 +223,11 @@ Based on the validated rtransparent package (Serghiou et al., 2021):
 The OST supports importing large medical transparency datasets with journal matching:
 
 ### 📥 Import Process
-1. **Place dataset:** Save `medicaltransparency_opendata.csv` in `papers/` directory
-2. **Test import:** Run `python test_medical_import.py` to validate data structure
-3. **Full import:** Run `python import_medical_transparency_data.py` for complete import
-4. **Monitor progress:** Real-time statistics and progress tracking
+1. **Download dataset:** Available on OSF at [https://osf.io/zbc6p/files/osfstorage/66113e60c0539424e0b4d499](https://osf.io/zbc6p/files/osfstorage/66113e60c0539424e0b4d499)
+2. **Place dataset:** Save `medicaltransparency_opendata.csv` in `papers/` directory
+3. **Test import:** Run `python test_medical_import.py` to validate data structure
+4. **Full import:** Run `python import_medical_transparency_data.py` for complete import
+5. **Monitor progress:** Real-time statistics and progress tracking
 
 ### 🔗 Journal Matching Strategy
 - **ISSN matching:** Primary method using electronic, print, and linking ISSNs

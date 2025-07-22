@@ -76,6 +76,7 @@ coverage.xml
 .ipynb_checkpoints
 
 # Large data files (too big for GitHub)
+# Medical transparency data available at: https://osf.io/zbc6p/files/osfstorage/66113e60c0539424e0b4d499
 papers/medicaltransparency_opendata.csv
 papers/*_opendata.csv
 papers/*.csv.gz

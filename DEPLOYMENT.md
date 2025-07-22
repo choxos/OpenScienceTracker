@@ -13,7 +13,7 @@ Set these environment variables in your Railway project:
 
 ```bash
 # Required
-SECRET_KEY=your-super-secret-key-here-change-this
+SECRET_KEY=!t8()9=h3v37))_8b2ih__h79e+uolpynme@(w(j50n2_7(ze#
 DEBUG=False
 
 # Database (automatically set by Railway PostgreSQL service)
@@ -66,6 +66,17 @@ After successful deployment:
    
    # Then upload railway_data/ folder and run:
    python import_data_to_railway.py
+   ```
+   
+   **Option C: Import from Original Data Sources**
+   ```bash
+   # Download medical transparency data from OSF:
+   # https://osf.io/zbc6p/files/osfstorage/66113e60c0539424e0b4d499
+   # Save as papers/medicaltransparency_opendata.csv
+   
+   # Run the import scripts:
+   python import_all_journals.py
+   python import_medical_transparency_data.py
    ```
 
 ### 5. **Health Check**
