@@ -2,6 +2,15 @@
 
 A comprehensive web application for tracking transparency indicators across biomedical literature, built on the validated **rtransparent** methodology.
 
+## 👨‍💼 Author
+
+**Ahmad Sofi-Mahmudi**
+- 📧 [ahmad.pub@gmail.com](mailto:ahmad.pub@gmail.com)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=gTWPaFYAAAAJ&hl=en)
+- 💼 [LinkedIn](https://www.linkedin.com/in/asofimahmudi)
+- 💻 [GitHub](https://github.com/choxos)
+- 🐦 [X (Twitter)](https://x.com/ASofiMahmudi)
+
 ## 🌟 Overview
 
 The Open Science Tracker (OST) promotes transparency and reproducibility in biomedical research by systematically tracking 7 key transparency indicators across scientific publications. Built specifically for meta-researchers studying open science practices, OST provides a robust platform for analyzing research transparency trends.
@@ -230,9 +239,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 For questions, suggestions, or collaboration opportunities:
-- **Email**: [your-email@institution.edu]
-- **Research Profile**: [Your ORCID/ResearchGate profile]
-- **Institution**: [Your Institution]
+- **Email**: [ahmad.pub@gmail.com](mailto:ahmad.pub@gmail.com)
+- **Research Profile**: [Google Scholar](https://scholar.google.com/citations?user=gTWPaFYAAAAJ&hl=en)
+- **GitHub**: [choxos](https://github.com/choxos)
+- **LinkedIn**: [Ahmad Sofi-Mahmudi](https://www.linkedin.com/in/asofimahmudi)
+- **X (Twitter)**: [@ASofiMahmudi](https://x.com/ASofiMahmudi)
 
 ## 🙏 Acknowledgments
 
