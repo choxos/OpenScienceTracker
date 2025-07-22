@@ -1,0 +1,574 @@
+{% extends 'tracker/base.html' %}
+{% load static %}
+
+{% block title %}Papers - Open Science Tracker{% endblock %}
+
+{% block extra_head %}
+<style>
+    .filter-section {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 2rem;
+        margin-bottom: 2rem;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+    
+    .paper-card {
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        transition: all 0.3s ease;
+        margin-bottom: 1.5rem;
+        overflow: hidden;
+    }
+    
+    .paper-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+    }
+    
+    .paper-header {
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        padding: 1.5rem;
+        border-bottom: 1px solid #dee2e6;
+    }
+    
+    .paper-title {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: #2c3e50;
+        margin-bottom: 0.5rem;
+        line-height: 1.4;
+    }
+    
+    .paper-title a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .paper-title a:hover {
+        color: #3498db;
+    }
+    
+    .paper-meta {
+        color: #6c757d;
+        font-size: 0.9rem;
+    }
+    
+    .transparency-badge {
+        display: inline-block;
+        padding: 0.25rem 0.5rem;
+        font-size: 0.75rem;
+        font-weight: 600;
+        border-radius: 20px;
+        margin: 0.1rem;
+        text-align: center;
+        min-width: 80px;
+    }
+    
+    .transparency-yes {
+        background-color: #d4edda;
+        color: #155724;
+        border: 1px solid #c3e6cb;
+    }
+    
+    .transparency-no {
+        background-color: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+    }
+    
+    .transparency-score {
+        font-size: 1.5rem;
+        font-weight: bold;
+        padding: 0.75rem;
+        border-radius: 50%;
+        text-align: center;
+        width: 60px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+    }
+    
+    .score-excellent {
+        background: linear-gradient(135deg, #28a745, #20c997);
+        color: white;
+    }
+    
+    .score-good {
+        background: linear-gradient(135deg, #ffc107, #fd7e14);
+        color: white;
+    }
+    
+    .score-poor {
+        background: linear-gradient(135deg, #dc3545, #e83e8c);
+        color: white;
+    }
+    
+    .category-badge {
+        background: linear-gradient(135deg, #007bff, #6610f2);
+        color: white;
+        padding: 0.4rem 0.8rem;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: 500;
+        display: inline-block;
+        margin-bottom: 0.5rem;
+    }
+    
+    .paper-stats {
+        background: #f8f9fa;
+        padding: 1rem;
+        border-radius: 10px;
+        margin: 1rem 0;
+    }
+    
+    .availability-badge {
+        font-size: 0.7rem;
+        padding: 0.2rem 0.5rem;
+        margin: 0.1rem;
+        border-radius: 10px;
+    }
+    
+    .form-control:focus, .form-select:focus {
+        border-color: #667eea;
+        box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.25);
+    }
+    
+    .btn-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border: none;
+        padding: 0.5rem 1.5rem;
+        border-radius: 25px;
+    }
+    
+    .btn-outline-primary {
+        color: #667eea;
+        border-color: #667eea;
+        border-radius: 25px;
+    }
+    
+    .btn-outline-primary:hover {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border-color: #667eea;
+    }
+    
+    .pagination {
+        justify-content: center;
+        margin-top: 2rem;
+    }
+    
+    .page-link {
+        border-radius: 20px;
+        margin: 0 0.2rem;
+        border: none;
+        color: #667eea;
+    }
+    
+    .page-item.active .page-link {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border: none;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <!-- Header -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h1 class="h2 mb-2">
+                        <i class="fas fa-file-alt me-3"></i>
+                        Research Papers
+                    </h1>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
+                            <li class="breadcrumb-item active">Papers</li>
+                        </ol>
+                    </nav>
+                </div>
+                <div>
+                    <a href="{% url 'tracker:statistics' %}" class="btn btn-outline-primary me-2">
+                        <i class="fas fa-chart-bar me-1"></i> Statistics
+                    </a>
+                    <a href="{% url 'tracker:journal_list' %}" class="btn btn-outline-primary">
+                        <i class="fas fa-book me-1"></i> Journals
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Search and Filters -->
+    <div class="filter-section">
+        <h4 class="mb-3">
+            <i class="fas fa-search me-2"></i>
+            Search & Filter Papers
+        </h4>
+        <form method="get" class="row g-3">
+            <!-- Search -->
+            <div class="col-md-4">
+                <label for="q" class="form-label">Search Papers</label>
+                <input type="text" class="form-control" id="q" name="q" 
+                       value="{{ request.GET.q }}" 
+                       placeholder="Title, authors, PMID, DOI...">
+            </div>
+            
+            <!-- Journal -->
+            <div class="col-md-3">
+                <label for="journal" class="form-label">Journal</label>
+                <select class="form-select" id="journal" name="journal">
+                    <option value="">All Journals</option>
+                    {% for journal in available_journals %}
+                    <option value="{{ journal.id }}" {% if request.GET.journal == journal.id|stringformat:"s" %}selected{% endif %}>
+                        {{ journal.title_abbreviation }}
+                    </option>
+                    {% endfor %}
+                </select>
+            </div>
+            
+            <!-- Subject Category -->
+            <div class="col-md-3">
+                <label for="category" class="form-label">Subject Category</label>
+                <select class="form-select" id="category" name="category">
+                    <option value="">All Categories</option>
+                    {% for category in available_categories %}
+                    <option value="{{ category }}" {% if request.GET.category == category %}selected{% endif %}>
+                        {{ category }}
+                    </option>
+                    {% endfor %}
+                </select>
+            </div>
+            
+            <!-- Year -->
+            <div class="col-md-2">
+                <label for="year" class="form-label">Year</label>
+                <select class="form-select" id="year" name="year">
+                    <option value="">All Years</option>
+                    {% for year in available_years %}
+                    <option value="{{ year }}" {% if request.GET.year == year|stringformat:"s" %}selected{% endif %}>
+                        {{ year }}
+                    </option>
+                    {% endfor %}
+                </select>
+            </div>
+            
+            <!-- Transparency Indicators -->
+            <div class="col-12">
+                <label class="form-label">Transparency Indicators</label>
+                <div class="row g-2">
+                    <div class="col-md-2">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="open_data" name="indicators" value="open_data"
+                                   {% if 'open_data' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                            <label class="form-check-label" for="open_data">
+                                📊 Data Sharing
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="open_code" name="indicators" value="open_code"
+                                   {% if 'open_code' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                            <label class="form-check-label" for="open_code">
+                                💻 Code Sharing
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="coi_disclosure" name="indicators" value="coi_disclosure"
+                                   {% if 'coi_disclosure' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                            <label class="form-check-label" for="coi_disclosure">
+                                ⚖️ COI Disclosure
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="funding" name="indicators" value="funding"
+                                   {% if 'funding' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                            <label class="form-check-label" for="funding">
+                                💰 Funding
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="registration" name="indicators" value="registration"
+                                   {% if 'registration' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                            <label class="form-check-label" for="registration">
+                                📝 Registration
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="open_access" name="indicators" value="open_access"
+                                   {% if 'open_access' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                            <label class="form-check-label" for="open_access">
+                                🔓 Open Access
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Sort and Submit -->
+            <div class="col-md-3">
+                <label for="order_by" class="form-label">Sort by</label>
+                <select class="form-select" id="order_by" name="order_by">
+                    <option value="-pub_year" {% if request.GET.order_by == "-pub_year" %}selected{% endif %}>Newest First</option>
+                    <option value="pub_year" {% if request.GET.order_by == "pub_year" %}selected{% endif %}>Oldest First</option>
+                    <option value="-transparency_score" {% if request.GET.order_by == "-transparency_score" %}selected{% endif %}>Highest Score</option>
+                    <option value="transparency_score" {% if request.GET.order_by == "transparency_score" %}selected{% endif %}>Lowest Score</option>
+                    <option value="title" {% if request.GET.order_by == "title" %}selected{% endif %}>Title A-Z</option>
+                    <option value="journal__title_abbreviation" {% if request.GET.order_by == "journal__title_abbreviation" %}selected{% endif %}>Journal A-Z</option>
+                </select>
+            </div>
+            
+            <div class="col-md-9 d-flex align-items-end">
+                <button type="submit" class="btn btn-primary me-2">
+                    <i class="fas fa-search me-1"></i> Search
+                </button>
+                <a href="{% url 'tracker:paper_list' %}" class="btn btn-outline-light">
+                    <i class="fas fa-times me-1"></i> Clear
+                </a>
+            </div>
+        </form>
+    </div>
+
+    <!-- Results Summary -->
+    <div class="row mb-3">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    {% if page_obj %}
+                        <p class="text-muted mb-0">
+                            Showing {{ page_obj.start_index }}-{{ page_obj.end_index }} of {{ page_obj.paginator.count }} papers
+                            {% if request.GET.q %}
+                                for "<strong>{{ request.GET.q }}</strong>"
+                            {% endif %}
+                        </p>
+                    {% endif %}
+                </div>
+                <div>
+                    <a href="{% url 'tracker:paper_export' %}?{{ request.GET.urlencode }}" class="btn btn-outline-primary btn-sm">
+                        <i class="fas fa-download me-1"></i> Export Results
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Paper Cards -->
+    <div class="row">
+        {% for paper in papers %}
+        <div class="col-12">
+            <div class="paper-card">
+                <div class="paper-header">
+                    <div class="row align-items-start">
+                        <div class="col-md-8">
+                            <h5 class="paper-title">
+                                <a href="{% url 'tracker:paper_detail' paper.pmid %}">
+                                    {{ paper.title }}
+                                </a>
+                            </h5>
+                            <div class="paper-meta">
+                                <div class="mb-2">
+                                    <strong>Authors:</strong> {{ paper.author_string|truncatechars:100 }}
+                                </div>
+                                <div class="mb-2">
+                                    <strong>Journal:</strong> 
+                                    <a href="{% url 'tracker:journal_detail' paper.journal.pk %}" class="text-decoration-none">
+                                        {{ paper.journal.title_abbreviation }}
+                                    </a>
+                                    {% if paper.journal_volume %}
+                                        • Vol. {{ paper.journal_volume }}
+                                    {% endif %}
+                                    {% if paper.issue %}
+                                        ({{ paper.issue }})
+                                    {% endif %}
+                                    {% if paper.page_info %}
+                                        • pp. {{ paper.page_info }}
+                                    {% endif %}
+                                </div>
+                                <div class="mb-2">
+                                    <strong>Year:</strong> {{ paper.pub_year }}
+                                    {% if paper.first_publication_date %}
+                                        • <strong>Published:</strong> {{ paper.first_publication_date }}
+                                    {% endif %}
+                                    {% if paper.pub_type %}
+                                        • <strong>Type:</strong> {{ paper.pub_type|truncatechars:30 }}
+                                    {% endif %}
+                                </div>
+                                {% if paper.broad_subject_category %}
+                                <div class="mb-2">
+                                    <span class="category-badge">{{ paper.broad_subject_category }}</span>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="text-center">
+                                <!-- Transparency Score -->
+                                <div class="transparency-score 
+                                    {% if paper.transparency_score >= 6 %}score-excellent
+                                    {% elif paper.transparency_score >= 4 %}score-good
+                                    {% else %}score-poor{% endif %}">
+                                    {{ paper.transparency_score }}/8
+                                </div>
+                                <div class="text-muted small mt-2">Transparency Score</div>
+                                
+                                <!-- Availability Badges -->
+                                <div class="mt-3">
+                                    {% if paper.is_open_access %}
+                                        <span class="badge bg-success availability-badge">Open Access</span>
+                                    {% endif %}
+                                    {% if paper.in_epmc %}
+                                        <span class="badge bg-info availability-badge">Europe PMC</span>
+                                    {% endif %}
+                                    {% if paper.in_pmc %}
+                                        <span class="badge bg-info availability-badge">PMC</span>
+                                    {% endif %}
+                                    {% if paper.has_pdf %}
+                                        <span class="badge bg-secondary availability-badge">PDF</span>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card-body">
+                    <!-- Transparency Indicators -->
+                    <div class="row g-2">
+                        <div class="col-md-2">
+                            <span class="transparency-badge {% if paper.is_open_data %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_open_data %}check{% else %}times{% endif %}"></i> Data
+                            </span>
+                        </div>
+                        <div class="col-md-2">
+                            <span class="transparency-badge {% if paper.is_open_code %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_open_code %}check{% else %}times{% endif %}"></i> Code
+                            </span>
+                        </div>
+                        <div class="col-md-2">
+                            <span class="transparency-badge {% if paper.is_coi_pred %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_coi_pred %}check{% else %}times{% endif %}"></i> COI
+                            </span>
+                        </div>
+                        <div class="col-md-2">
+                            <span class="transparency-badge {% if paper.is_fund_pred %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_fund_pred %}check{% else %}times{% endif %}"></i> Funding
+                            </span>
+                        </div>
+                        <div class="col-md-2">
+                            <span class="transparency-badge {% if paper.is_register_pred %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_register_pred %}check{% else %}times{% endif %}"></i> Register
+                            </span>
+                        </div>
+                        <div class="col-md-2">
+                            <span class="transparency-badge {% if paper.is_open_access %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_open_access %}unlock-alt{% else %}lock{% endif %}"></i> Access
+                            </span>
+                        </div>
+                    </div>
+                    
+                    <!-- Paper Actions -->
+                    <div class="mt-3 text-end">
+                        <a href="{% url 'tracker:paper_detail' paper.pmid %}" class="btn btn-primary btn-sm">
+                            <i class="fas fa-eye me-1"></i> View Details
+                        </a>
+                        {% if paper.doi %}
+                        <a href="https://doi.org/{{ paper.doi }}" target="_blank" class="btn btn-outline-primary btn-sm">
+                            <i class="fas fa-external-link-alt me-1"></i> DOI
+                        </a>
+                        {% endif %}
+                        {% if paper.pmcid %}
+                        <a href="https://pmc.ncbi.nlm.nih.gov/articles/{{ paper.pmcid }}/" target="_blank" class="btn btn-outline-primary btn-sm">
+                            <i class="fas fa-external-link-alt me-1"></i> PMC
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% empty %}
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body text-center py-5">
+                    <i class="fas fa-search fa-3x text-muted mb-3"></i>
+                    <h4 class="text-muted">No Papers Found</h4>
+                    <p class="text-muted">
+                        {% if request.GET.q %}
+                            No papers match your search criteria. Try adjusting your filters or search terms.
+                        {% else %}
+                            No papers are available in the database yet.
+                        {% endif %}
+                    </p>
+                    <a href="{% url 'tracker:paper_list' %}" class="btn btn-primary">
+                        <i class="fas fa-refresh me-1"></i> View All Papers
+                    </a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Pagination -->
+    {% if page_obj %}
+    <div class="row">
+        <div class="col-12">
+            <nav aria-label="Papers pagination">
+                <ul class="pagination">
+                    {% if page_obj.has_previous %}
+                        <li class="page-item">
+                            <a class="page-link" href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page=1">
+                                <i class="fas fa-angle-double-left"></i>
+                            </a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ page_obj.previous_page_number }}">
+                                <i class="fas fa-angle-left"></i>
+                            </a>
+                        </li>
+                    {% endif %}
+
+                    {% for num in page_obj.paginator.page_range %}
+                        {% if page_obj.number == num %}
+                            <li class="page-item active">
+                                <span class="page-link">{{ num }}</span>
+                            </li>
+                        {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'3' %}
+                            <li class="page-item">
+                                <a class="page-link" href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ num }}">{{ num }}</a>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+
+                    {% if page_obj.has_next %}
+                        <li class="page-item">
+                            <a class="page-link" href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ page_obj.next_page_number }}">
+                                <i class="fas fa-angle-right"></i>
+                            </a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ page_obj.paginator.num_pages }}">
+                                <i class="fas fa-angle-double-right"></i>
+                            </a>
+                        </li>
+                    {% endif %}
+                </ul>
+            </nav>
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %} 

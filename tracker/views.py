@@ -103,13 +103,25 @@ class PaperListView(ListView):
         queryset = Paper.objects.select_related('journal').all()
         
         # Filter by search query
-        search_query = self.request.GET.get('search')
-        if search_query:
+        q = self.request.GET.get('q')
+        if q:
             queryset = queryset.filter(
-                Q(title__icontains=search_query) |
-                Q(author_string__icontains=search_query) |
-                Q(journal_title__icontains=search_query)
+                Q(title__icontains=q) |
+                Q(author_string__icontains=q) |
+                Q(journal_title__icontains=q) |
+                Q(pmid__icontains=q) |
+                Q(doi__icontains=q)
             )
+        
+        # Filter by journal
+        journal = self.request.GET.get('journal')
+        if journal:
+            queryset = queryset.filter(journal_id=journal)
+        
+        # Filter by subject category
+        category = self.request.GET.get('category')
+        if category:
+            queryset = queryset.filter(broad_subject_category=category)
         
         # Filter by year
         year = self.request.GET.get('year')
@@ -117,12 +129,19 @@ class PaperListView(ListView):
             queryset = queryset.filter(pub_year=year)
         
         # Filter by transparency indicators
-        if self.request.GET.get('data_sharing'):
+        indicators = self.request.GET.getlist('indicators')
+        if 'open_data' in indicators:
             queryset = queryset.filter(is_open_data=True)
-        if self.request.GET.get('code_sharing'):
+        if 'open_code' in indicators:
             queryset = queryset.filter(is_open_code=True)
-        if self.request.GET.get('coi_disclosure'):
+        if 'coi_disclosure' in indicators:
             queryset = queryset.filter(is_coi_pred=True)
+        if 'funding' in indicators:
+            queryset = queryset.filter(is_fund_pred=True)
+        if 'registration' in indicators:
+            queryset = queryset.filter(is_register_pred=True)
+        if 'open_access' in indicators:
+            queryset = queryset.filter(is_open_access=True)
         
         # Ordering
         order_by = self.request.GET.get('order_by', '-pub_year')
@@ -136,6 +155,10 @@ class PaperListView(ListView):
         context['available_years'] = Paper.objects.values_list(
             'pub_year', flat=True
         ).distinct().order_by('-pub_year')
+        context['available_journals'] = Journal.objects.all().order_by('title_abbreviation')
+        context['available_categories'] = Paper.objects.exclude(
+            broad_subject_category__isnull=True
+        ).values_list('broad_subject_category', flat=True).distinct().order_by('broad_subject_category')
         return context
 
 class PaperDetailView(DetailView):
