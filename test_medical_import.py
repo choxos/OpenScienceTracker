@@ -89,8 +89,8 @@ def test_medical_data():
         for i, col in enumerate(sample_df.columns, 1):
             print(f"   {i:2d}. {col}")
         
-        # Check required columns
-        required_cols = ['pmid', 'title', 'journalTitle', 'pubYear', 'authorString']
+        # Check required columns (pubYear is optional, we can use firstPublicationDate)
+        required_cols = ['pmid', 'title', 'journalTitle', 'authorString']
         optional_cols = ['pmcid', 'doi', 'journalIssn', 'issue', 'journalVolume', 'pageInfo', 
                         'pubType', 'isOpenAccess', 'inEPMC', 'inPMC', 'hasPDF', 'firstPublicationDate']
         transparency_cols = ['is_open_data', 'is_open_code', 'is_coi_pred', 'is_fund_pred', 'is_register_pred']

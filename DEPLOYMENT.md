@@ -1,14 +1,23 @@
 # 🚀 Railway Deployment Guide for Open Science Tracker
 
-## Quick Deploy to Railway
+## Quick Deploy to Railway with PostgreSQL Database
 
-### 1. **Environment Variables**
+### 1. **Create Railway Project with PostgreSQL**
+1. Go to [Railway.app](https://railway.app)
+2. Create new project
+3. Add PostgreSQL database service
+4. Connect your GitHub repository
+
+### 2. **Environment Variables**
 Set these environment variables in your Railway project:
 
 ```bash
 # Required
 SECRET_KEY=your-super-secret-key-here-change-this
 DEBUG=False
+
+# Database (automatically set by Railway PostgreSQL service)
+DATABASE_URL=postgresql://user:pass@host:port/dbname
 
 # Optional (defaults work for most cases)
 ALLOWED_HOSTS=*.railway.app,.railway.app,yourdomain.com
@@ -41,10 +50,22 @@ After successful deployment:
    python manage.py createsuperuser
    ```
 
-2. **Import Data** (if needed):
+2. **Import OST Data** (includes medical + dental transparency data):
+   
+   **Option A: Import from GitHub Release** (Recommended)
    ```bash
-   python import_dental_data_fixed.py
-   python import_europe_pmc_data.py
+   # Download data files from GitHub releases
+   python import_data_to_railway.py
+   ```
+   
+   **Option B: Import from Local Export**
+   If you have exported data locally:
+   ```bash
+   # First export data locally:
+   python export_data_for_railway.py
+   
+   # Then upload railway_data/ folder and run:
+   python import_data_to_railway.py
    ```
 
 ### 5. **Health Check**

@@ -266,7 +266,7 @@
                     <div class="col-md-2">
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" id="open_data" name="indicators" value="open_data"
-                                   {% if 'open_data' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                                   {% if 'open_data' in selected_indicators %}checked{% endif %}>
                             <label class="form-check-label" for="open_data">
                                 📊 Data Sharing
                             </label>
@@ -275,7 +275,7 @@
                     <div class="col-md-2">
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" id="open_code" name="indicators" value="open_code"
-                                   {% if 'open_code' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                                   {% if 'open_code' in selected_indicators %}checked{% endif %}>
                             <label class="form-check-label" for="open_code">
                                 💻 Code Sharing
                             </label>
@@ -284,7 +284,7 @@
                     <div class="col-md-2">
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" id="coi_disclosure" name="indicators" value="coi_disclosure"
-                                   {% if 'coi_disclosure' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                                   {% if 'coi_disclosure' in selected_indicators %}checked{% endif %}>
                             <label class="form-check-label" for="coi_disclosure">
                                 ⚖️ COI Disclosure
                             </label>
@@ -293,7 +293,7 @@
                     <div class="col-md-2">
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" id="funding" name="indicators" value="funding"
-                                   {% if 'funding' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                                   {% if 'funding' in selected_indicators %}checked{% endif %}>
                             <label class="form-check-label" for="funding">
                                 💰 Funding
                             </label>
@@ -302,7 +302,7 @@
                     <div class="col-md-2">
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" id="registration" name="indicators" value="registration"
-                                   {% if 'registration' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                                   {% if 'registration' in selected_indicators %}checked{% endif %}>
                             <label class="form-check-label" for="registration">
                                 📝 Registration
                             </label>
@@ -311,7 +311,7 @@
                     <div class="col-md-2">
                         <div class="form-check">
                             <input class="form-check-input" type="checkbox" id="open_access" name="indicators" value="open_access"
-                                   {% if 'open_access' in request.GET.getlist:'indicators' %}checked{% endif %}>
+                                   {% if 'open_access' in selected_indicators %}checked{% endif %}>
                             <label class="form-check-label" for="open_access">
                                 🔓 Open Access
                             </label>
@@ -359,7 +359,7 @@
                     {% endif %}
                 </div>
                 <div>
-                    <a href="{% url 'tracker:paper_export' %}?{{ request.GET.urlencode }}" class="btn btn-outline-primary btn-sm">
+                    <a href="{% url 'tracker:export_data' %}?{{ request.GET.urlencode }}" class="btn btn-outline-primary btn-sm">
                         <i class="fas fa-download me-1"></i> Export Results
                     </a>
                 </div>

@@ -82,6 +82,7 @@ papers/*.csv.gz
 papers/*.tsv.gz
 *.csv.bz2
 *.tsv.bz2
+railway_data/
 
 # pyenv
 .python-version

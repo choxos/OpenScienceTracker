@@ -34,6 +34,7 @@ OST tracks the following evidence-based transparency indicators:
 
 ### 📋 Comprehensive Database
 - **10,659+ dental research papers** with transparency assessments
+- **Ready for medical transparency data** (2.69 GB dataset with journal matching)
 - **885+ dental and orthodontic journals** with complete metadata
 - **11,790+ total journals** from NLM Broad Subject Terms
 - Integration with existing rtransparent analyses
@@ -216,6 +217,35 @@ Based on the validated rtransparent package (Serghiou et al., 2021):
 - **Natural language processing** for indicator detection
 - **Validated algorithms** with >94% accuracy
 - **Standardized scoring** across publications
+
+## 🏥 Medical Data Import
+
+The OST supports importing large medical transparency datasets with journal matching:
+
+### 📥 Import Process
+1. **Place dataset:** Save `medicaltransparency_opendata.csv` in `papers/` directory
+2. **Test import:** Run `python test_medical_import.py` to validate data structure
+3. **Full import:** Run `python import_medical_transparency_data.py` for complete import
+4. **Monitor progress:** Real-time statistics and progress tracking
+
+### 🔗 Journal Matching Strategy
+- **ISSN matching:** Primary method using electronic, print, and linking ISSNs
+- **Name matching:** Fallback using exact and partial journal title matching
+- **Subject categorization:** Automatic assignment based on NLM Broad Subject Terms
+- **Only matched papers:** Papers without journal matches are skipped
+
+### ⚡ Performance Features
+- **Chunked processing:** Handles large files (2.69 GB+) without memory issues
+- **Progress tracking:** Real-time statistics per chunk (10,000 rows each)
+- **Duplicate detection:** Automatic PMID-based duplicate handling
+- **Transaction safety:** Database integrity with atomic operations
+- **Memory management:** Efficient processing for large datasets
+
+### 📊 Expected Results
+- **Journal match rate:** Typically 60-80% based on ISSN/name availability
+- **Processing speed:** ~2-5 minutes per 10,000 records
+- **Subject categories:** Automatic categorization across all medical fields
+- **Full integration:** Seamless addition to existing OST database
 
 ## 📚 Research Foundation
 

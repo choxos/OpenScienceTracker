@@ -9,3 +9,5 @@ six==1.17.0
 sqlparse==0.5.3
 tzdata==2025.2
 whitenoise==6.8.2
+psycopg2-binary==2.9.9
+dj-database-url==2.3.0

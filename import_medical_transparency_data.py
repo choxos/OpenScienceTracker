@@ -100,15 +100,20 @@ def find_matching_journal(journal_title, journal_issn):
     """Find a matching journal in the database by ISSN or name"""
     journal = None
     
-    # First try ISSN matching (most reliable)
+    # First try ISSN matching (most reliable) - handle multiple ISSNs
     if journal_issn:
         issn_clean = clean_text_field(journal_issn)
         if issn_clean:
-            journal = Journal.objects.filter(
-                Q(issn_electronic=issn_clean) |
-                Q(issn_print=issn_clean) |
-                Q(issn_linking=issn_clean)
-            ).first()
+            # Split multiple ISSNs by semicolon
+            issn_list = [issn.strip() for issn in issn_clean.split(';') if issn.strip()]
+            for issn in issn_list:
+                journal = Journal.objects.filter(
+                    Q(issn_electronic=issn) |
+                    Q(issn_print=issn) |
+                    Q(issn_linking=issn)
+                ).first()
+                if journal:
+                    break
     
     # If no ISSN match, try journal name matching
     if not journal and journal_title:
@@ -183,7 +188,20 @@ def process_chunk(chunk_df, chunk_num, total_chunks):
                 continue
             
             author_string = clean_text_field(row.get('authorString')) or 'Unknown'
+            
+            # Try to get publication year from firstPublicationDate or pubYear
             pub_year = clean_pub_year(row.get('pubYear'))
+            if not pub_year:
+                # Try to extract year from firstPublicationDate
+                first_pub_date = clean_text_field(row.get('firstPublicationDate'))
+                if first_pub_date:
+                    try:
+                        from datetime import datetime
+                        date_obj = datetime.strptime(first_pub_date, '%Y-%m-%d')
+                        pub_year = date_obj.year
+                    except:
+                        pass
+                        
             if not pub_year:
                 invalid_papers += 1
                 continue

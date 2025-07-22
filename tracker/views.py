@@ -159,6 +159,10 @@ class PaperListView(ListView):
         context['available_categories'] = Paper.objects.exclude(
             broad_subject_category__isnull=True
         ).values_list('broad_subject_category', flat=True).distinct().order_by('broad_subject_category')
+        
+        # Add selected indicators for template checkbox state
+        context['selected_indicators'] = self.request.GET.getlist('indicators')
+        
         return context
 
 class PaperDetailView(DetailView):
