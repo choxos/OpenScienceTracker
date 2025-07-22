@@ -44,6 +44,10 @@ class HomeView(TemplateView):
                                      max(papers.count(), 1)) * 100
         context['coi_disclosure_pct'] = (papers.filter(is_coi_pred=True).count() / 
                                        max(papers.count(), 1)) * 100
+        context['funding_disclosure_pct'] = (papers.filter(is_fund_pred=True).count() / 
+                                           max(papers.count(), 1)) * 100
+        context['protocol_registration_pct'] = (papers.filter(is_register_pred=True).count() / 
+                                               max(papers.count(), 1)) * 100
         
         # Recent papers
         context['recent_papers'] = papers.order_by('-created_at')[:5]
