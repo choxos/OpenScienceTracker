@@ -1,0 +1,342 @@
+{% extends 'tracker/base.html' %}
+{% load static %}
+
+{% block title %}{{ paper.title|truncatechars:60 }} - OST{% endblock %}
+
+{% block extra_head %}
+<style>
+    .transparency-badge {
+        display: inline-block;
+        padding: 0.25rem 0.5rem;
+        margin: 0.125rem;
+        border-radius: 0.375rem;
+        font-size: 0.875rem;
+        font-weight: 500;
+    }
+    .transparency-yes {
+        background-color: #d1f2eb;
+        color: #0f5132;
+        border: 1px solid #a3e3c7;
+    }
+    .transparency-no {
+        background-color: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f1aeb5;
+    }
+    .transparency-unknown {
+        background-color: #fff3cd;
+        color: #856404;
+        border: 1px solid #ffecb5;
+    }
+    .transparency-score {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+    .score-excellent { color: #198754; }
+    .score-good { color: #fd7e14; }
+    .score-poor { color: #dc3545; }
+    .paper-meta {
+        background-color: #f8f9fa;
+        border-radius: 0.375rem;
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+    .related-paper {
+        border-left: 3px solid #0d6efd;
+        padding-left: 1rem;
+        margin-bottom: 1rem;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <!-- Breadcrumb -->
+            <nav aria-label="breadcrumb" class="mb-3">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
+                    <li class="breadcrumb-item"><a href="{% url 'tracker:paper_list' %}">Papers</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">PMID: {{ paper.pmid }}</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- Main Content -->
+        <div class="col-lg-8">
+            <!-- Paper Title and Basic Info -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h1 class="card-title h3 mb-3">{{ paper.title }}</h1>
+                    
+                    <div class="paper-meta">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p class="mb-2">
+                                    <strong>Authors:</strong><br>
+                                    {{ paper.author_string }}
+                                </p>
+                                <p class="mb-2">
+                                    <strong>Journal:</strong><br>
+                                    <a href="{% url 'tracker:journal_detail' paper.journal.pk %}" class="text-decoration-none">
+                                        {{ paper.journal.title_full }}
+                                    </a>
+                                </p>
+                            </div>
+                            <div class="col-md-6">
+                                <p class="mb-2">
+                                    <strong>Publication Year:</strong> {{ paper.pub_year }}
+                                </p>
+                                {% if paper.doi %}
+                                <p class="mb-2">
+                                    <strong>DOI:</strong><br>
+                                    <a href="https://doi.org/{{ paper.doi }}" target="_blank" class="text-decoration-none">
+                                        {{ paper.doi }} <i class="fas fa-external-link-alt fa-sm"></i>
+                                    </a>
+                                </p>
+                                {% endif %}
+                                <p class="mb-2">
+                                    <strong>PMID:</strong>
+                                    <a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/" target="_blank" class="text-decoration-none">
+                                        {{ paper.pmid }} <i class="fas fa-external-link-alt fa-sm"></i>
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Quick Actions -->
+                    <div class="d-flex flex-wrap gap-2 mt-3">
+                        <a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/" target="_blank" class="btn btn-outline-primary btn-sm">
+                            <i class="fas fa-external-link-alt"></i> View on PubMed
+                        </a>
+                        {% if paper.doi %}
+                        <a href="https://doi.org/{{ paper.doi }}" target="_blank" class="btn btn-outline-success btn-sm">
+                            <i class="fas fa-external-link-alt"></i> View Publisher
+                        </a>
+                        {% endif %}
+                        <button class="btn btn-outline-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#citationModal">
+                            <i class="fas fa-quote-left"></i> Cite Paper
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Journal Information -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="fas fa-book"></i> Journal Information</h5>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p class="mb-2"><strong>Full Title:</strong> {{ paper.journal.title_full }}</p>
+                            <p class="mb-2"><strong>Abbreviation:</strong> {{ paper.journal.title_abbreviation|default:"N/A" }}</p>
+                            <p class="mb-2"><strong>Country:</strong> {{ paper.journal.country|default:"N/A" }}</p>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="mb-2"><strong>Publisher:</strong> {{ paper.journal.publisher|default:"N/A" }}</p>
+                            <p class="mb-2"><strong>Language:</strong> {{ paper.journal.language|default:"N/A" }}</p>
+                            {% if paper.jif2020 %}
+                            <p class="mb-2"><strong>Impact Factor (2020):</strong> {{ paper.jif2020 }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% if paper.journal.broad_subject_terms %}
+                    <p class="mb-0">
+                        <strong>Subject Terms:</strong>
+                        <span class="badge bg-secondary me-1">{{ paper.journal.broad_subject_terms }}</span>
+                    </p>
+                    {% endif %}
+                </div>
+            </div>
+
+            <!-- Related Papers -->
+            {% if related_papers %}
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="fas fa-link"></i> Related Papers from Same Journal</h5>
+                </div>
+                <div class="card-body">
+                    {% for related in related_papers %}
+                    <div class="related-paper">
+                        <h6 class="mb-1">
+                            <a href="{% url 'tracker:paper_detail' related.pmid %}" class="text-decoration-none">
+                                {{ related.title|truncatechars:100 }}
+                            </a>
+                        </h6>
+                        <small class="text-muted">
+                            {{ related.author_string|truncatechars:80 }} ({{ related.pub_year }})
+                            - Transparency Score: {{ related.transparency_score }}/7
+                        </small>
+                    </div>
+                    {% endfor %}
+                    <div class="mt-3">
+                        <a href="{% url 'tracker:paper_list' %}?journal={{ paper.journal.pk }}" class="btn btn-sm btn-outline-primary">
+                            View All Papers from This Journal
+                        </a>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- Sidebar -->
+        <div class="col-lg-4">
+            <!-- Transparency Score -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="fas fa-chart-line"></i> Transparency Score</h5>
+                </div>
+                <div class="card-body text-center">
+                    <div class="transparency-score 
+                        {% if paper.transparency_score >= 5 %}score-excellent
+                        {% elif paper.transparency_score >= 3 %}score-good
+                        {% else %}score-poor{% endif %}">
+                        {{ paper.transparency_score }}/7
+                    </div>
+                    <div class="text-muted">
+                        {{ paper.transparency_score_pct|floatformat:1 }}% Transparent
+                    </div>
+                    <div class="mt-3">
+                        <div class="progress" style="height: 10px;">
+                            <div class="progress-bar 
+                                {% if paper.transparency_score >= 5 %}bg-success
+                                {% elif paper.transparency_score >= 3 %}bg-warning
+                                {% else %}bg-danger{% endif %}" 
+                                role="progressbar" 
+                                style="width: {{ paper.transparency_score_pct }}%"
+                                aria-valuenow="{{ paper.transparency_score_pct }}" 
+                                aria-valuemin="0" 
+                                aria-valuemax="100">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Transparency Indicators -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="fas fa-check-circle"></i> Transparency Indicators</h5>
+                </div>
+                <div class="card-body">
+                    <!-- Core 5 Indicators -->
+                    <h6 class="text-muted mb-3">Core Indicators</h6>
+                    
+                    <div class="mb-2">
+                        <span class="transparency-badge {% if paper.is_open_data %}transparency-yes{% else %}transparency-no{% endif %}">
+                            <i class="fas fa-{% if paper.is_open_data %}check{% else %}times{% endif %}"></i> Data Sharing
+                        </span>
+                    </div>
+                    
+                    <div class="mb-2">
+                        <span class="transparency-badge {% if paper.is_open_code %}transparency-yes{% else %}transparency-no{% endif %}">
+                            <i class="fas fa-{% if paper.is_open_code %}check{% else %}times{% endif %}"></i> Code Sharing
+                        </span>
+                    </div>
+                    
+                    <div class="mb-2">
+                        <span class="transparency-badge {% if paper.is_coi_pred %}transparency-yes{% else %}transparency-no{% endif %}">
+                            <i class="fas fa-{% if paper.is_coi_pred %}check{% else %}times{% endif %}"></i> COI Disclosure
+                        </span>
+                    </div>
+                    
+                    <div class="mb-2">
+                        <span class="transparency-badge {% if paper.is_fund_pred %}transparency-yes{% else %}transparency-no{% endif %}">
+                            <i class="fas fa-{% if paper.is_fund_pred %}check{% else %}times{% endif %}"></i> Funding Disclosure
+                        </span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <span class="transparency-badge {% if paper.is_register_pred %}transparency-yes{% else %}transparency-no{% endif %}">
+                            <i class="fas fa-{% if paper.is_register_pred %}check{% else %}times{% endif %}"></i> Protocol Registration
+                        </span>
+                    </div>
+
+                    <!-- Additional Indicators -->
+                    <h6 class="text-muted mb-3">Additional Indicators</h6>
+                    
+                    <div class="mb-2">
+                        <span class="transparency-badge 
+                            {% if paper.is_replication == True %}transparency-yes
+                            {% elif paper.is_replication == False %}transparency-no
+                            {% else %}transparency-unknown{% endif %}">
+                            <i class="fas fa-{% if paper.is_replication == True %}check{% elif paper.is_replication == False %}times{% else %}question{% endif %}"></i> 
+                            Replication
+                        </span>
+                    </div>
+                    
+                    <div class="mb-2">
+                        <span class="transparency-badge 
+                            {% if paper.is_novelty == True %}transparency-yes
+                            {% elif paper.is_novelty == False %}transparency-no
+                            {% else %}transparency-unknown{% endif %}">
+                            <i class="fas fa-{% if paper.is_novelty == True %}check{% elif paper.is_novelty == False %}times{% else %}question{% endif %}"></i> 
+                            Novelty Statement
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Assessment Information -->
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="fas fa-info-circle"></i> Assessment Info</h5>
+                </div>
+                <div class="card-body">
+                    <p class="mb-2"><strong>Tool:</strong> {{ paper.assessment_tool }}</p>
+                    <p class="mb-2"><strong>OST Version:</strong> {{ paper.ost_version }}</p>
+                    {% if paper.assessment_date %}
+                    <p class="mb-2"><strong>Assessed:</strong> {{ paper.assessment_date|date:"M d, Y" }}</p>
+                    {% endif %}
+                    <p class="mb-0"><strong>Last Updated:</strong> {{ paper.updated_at|date:"M d, Y" }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Citation Modal -->
+<div class="modal fade" id="citationModal" tabindex="-1" aria-labelledby="citationModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="citationModalLabel">Citation Information</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                                 <div class="mb-3">
+                    <label class="form-label"><strong>APA Format:</strong></label>
+                    <div class="form-control-plaintext border p-2 bg-light" style="font-family: 'Courier New', monospace; font-size: 0.9em;">
+                        {{ paper.author_string|truncatechars:50 }}. ({{ paper.pub_year }}). {{ paper.title }} <em>{{ paper.journal.title_full }}</em>. 
+                        {% if paper.doi %}https://doi.org/{{ paper.doi }}{% else %}PMID: {{ paper.pmid }}{% endif %}
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label"><strong>BibTeX:</strong></label>
+                    <div class="form-control-plaintext border p-2 bg-light" style="font-family: 'Courier New', monospace; font-size: 0.9em;">
+@article{paper{{ paper.pmid }},
+  title={ {{ paper.title }} },
+  author={ {{ paper.author_string }} },
+  journal={ {{ paper.journal.title_full }} },
+  year={ {{ paper.pub_year }} },
+{% if paper.doi %}  doi={ {{ paper.doi }} },{% endif %}
+  pmid={ {{ paper.pmid }} }
+}
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" onclick="navigator.clipboard.writeText(document.querySelector('#citationModal .bg-light').textContent)">
+                    <i class="fas fa-copy"></i> Copy APA Citation
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 
