@@ -77,6 +77,11 @@ coverage.xml
 
 # Large data files (too big for GitHub)
 papers/medicaltransparency_opendata.csv
+papers/*_opendata.csv
+papers/*.csv.gz
+papers/*.tsv.gz
+*.csv.bz2
+*.tsv.bz2
 
 # pyenv
 .python-version
