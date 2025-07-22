@@ -27,7 +27,6 @@ urlpatterns = [
     # Authentication URLs
     path('accounts/login/', auth_views.LoginView.as_view(template_name='registration/login.html'), name='login'),
     path('accounts/logout/', auth_views.LogoutView.as_view(), name='logout'),
-    path('accounts/signup/', include('tracker.urls')),  # Will handle signup in tracker app
     path('accounts/password_change/', auth_views.PasswordChangeView.as_view(), name='password_change'),
     path('accounts/password_change/done/', auth_views.PasswordChangeDoneView.as_view(), name='password_change_done'),
     path('accounts/password_reset/', auth_views.PasswordResetView.as_view(), name='password_reset'),

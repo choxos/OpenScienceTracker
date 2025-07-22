@@ -584,3 +584,20 @@ class JournalSearchView(TemplateView):
             'country', flat=True
         ).distinct().order_by('country')
         return context
+
+
+def health_check(request):
+    """Health check endpoint for Railway deployment monitoring"""
+    try:
+        # Simple database connectivity test
+        paper_count = Paper.objects.count()
+        return JsonResponse({
+            'status': 'healthy',
+            'papers': paper_count,
+            'version': '1.0'
+        })
+    except Exception as e:
+        return JsonResponse({
+            'status': 'unhealthy',
+            'error': str(e)
+        }, status=500)

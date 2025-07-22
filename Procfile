@@ -1,0 +1,1 @@
+web: gunicorn ost_web.wsgi --log-file - 

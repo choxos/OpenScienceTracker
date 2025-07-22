@@ -41,4 +41,7 @@ urlpatterns = [
     # Data management (admin only)
     path('admin/import-data/', views.ImportDataView.as_view(), name='import_data'),
     path('admin/update-trends/', views.UpdateTrendsView.as_view(), name='update_trends'),
+    
+    # Health check for deployment monitoring
+    path('health/', views.health_check, name='health_check'),
 ] 
