@@ -1,0 +1,280 @@
+{% extends 'tracker/base.html' %}
+{% load static %}
+
+{% block title %}Login - Open Science Tracker{% endblock %}
+
+{% block extra_head %}
+<style>
+    .login-container {
+        min-height: 80vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .login-card {
+        max-width: 400px;
+        width: 100%;
+        padding: 2rem;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        background: white;
+        border: 1px solid #e3e6f0;
+    }
+    .login-header {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    .login-logo {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 1rem;
+        font-size: 2rem;
+    }
+    .form-floating {
+        margin-bottom: 1rem;
+    }
+    .btn-login {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border: none;
+        padding: 0.75rem;
+        font-weight: 600;
+        border-radius: 10px;
+        transition: transform 0.2s;
+    }
+    .btn-login:hover {
+        transform: translateY(-2px);
+        background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+    }
+    .social-divider {
+        text-align: center;
+        margin: 1.5rem 0;
+        position: relative;
+    }
+    .social-divider::before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background: #e3e6f0;
+    }
+    .social-divider span {
+        background: white;
+        padding: 0 1rem;
+        color: #6c757d;
+        font-size: 0.875rem;
+    }
+    .signup-link {
+        text-align: center;
+        margin-top: 1.5rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid #e3e6f0;
+    }
+    .features-list {
+        background: #f8f9fa;
+        border-radius: 10px;
+        padding: 1.5rem;
+        margin-top: 2rem;
+    }
+    .feature-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0.75rem;
+    }
+    .feature-item:last-child {
+        margin-bottom: 0;
+    }
+    .feature-icon {
+        width: 30px;
+        height: 30px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 0.75rem;
+        font-size: 0.875rem;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 login-container">
+            <div class="login-card">
+                <div class="login-header">
+                    <div class="login-logo">
+                        <i class="fas fa-microscope"></i>
+                    </div>
+                    <h2 class="h4 mb-2">Welcome Back</h2>
+                    <p class="text-muted mb-0">Sign in to your Open Science Tracker account</p>
+                </div>
+
+                {% if form.errors %}
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    <i class="fas fa-exclamation-triangle me-2"></i>
+                    {% for field, errors in form.errors.items %}
+                        {% for error in errors %}
+                            {{ error }}<br>
+                        {% endfor %}
+                    {% endfor %}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+                {% endif %}
+
+                {% if messages %}
+                {% for message in messages %}
+                <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+                    <i class="fas fa-info-circle me-2"></i>
+                    {{ message }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+                {% endfor %}
+                {% endif %}
+
+                <form method="post">
+                    {% csrf_token %}
+                    
+                    <div class="form-floating">
+                        <input type="text" 
+                               class="form-control" 
+                               id="id_username" 
+                               name="username" 
+                               placeholder="Username"
+                               value="{{ form.username.value|default:'' }}"
+                               required>
+                        <label for="id_username">
+                            <i class="fas fa-user me-2"></i>Username
+                        </label>
+                    </div>
+
+                    <div class="form-floating">
+                        <input type="password" 
+                               class="form-control" 
+                               id="id_password" 
+                               name="password" 
+                               placeholder="Password"
+                               required>
+                        <label for="id_password">
+                            <i class="fas fa-lock me-2"></i>Password
+                        </label>
+                    </div>
+
+                    <div class="form-check mb-3">
+                        <input class="form-check-input" type="checkbox" id="remember_me" name="remember_me">
+                        <label class="form-check-label" for="remember_me">
+                            Remember me
+                        </label>
+                    </div>
+
+                    <button type="submit" class="btn btn-login btn-primary w-100">
+                        <i class="fas fa-sign-in-alt me-2"></i>
+                        Sign In
+                    </button>
+                </form>
+
+                <div class="social-divider">
+                    <span>or</span>
+                </div>
+
+                <div class="d-grid gap-2">
+                    <a href="#" class="btn btn-outline-secondary disabled">
+                        <i class="fab fa-google me-2"></i>
+                        Continue with Google (Coming Soon)
+                    </a>
+                    <a href="#" class="btn btn-outline-secondary disabled">
+                        <i class="fab fa-github me-2"></i>
+                        Continue with GitHub (Coming Soon)
+                    </a>
+                </div>
+
+                <div class="signup-link">
+                    <p class="mb-0">
+                        Don't have an account? 
+                        <a href="{% url 'tracker:signup' %}" class="text-decoration-none fw-semibold">
+                            Create one here
+                        </a>
+                    </p>
+                    <p class="mt-2 mb-0">
+                        <a href="#" class="text-muted text-decoration-none small">
+                            Forgot your password?
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 d-none d-md-flex align-items-center justify-content-center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh;">
+            <div class="text-white text-center px-4">
+                <h1 class="display-5 fw-bold mb-4">
+                    <i class="fas fa-atom me-3"></i>
+                    Open Science Tracker
+                </h1>
+                <p class="lead mb-4">
+                    Promoting transparency and reproducibility in biomedical research through comprehensive tracking of open science indicators.
+                </p>
+
+                <div class="features-list">
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <div>
+                            <strong>Transparency Analytics</strong><br>
+                            <small class="text-muted">Track 7 key transparency indicators across scientific literature</small>
+                        </div>
+                    </div>
+                    
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-database"></i>
+                        </div>
+                        <div>
+                            <strong>Comprehensive Database</strong><br>
+                            <small class="text-muted">10,000+ papers and 800+ journals analyzed</small>
+                        </div>
+                    </div>
+                    
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-search"></i>
+                        </div>
+                        <div>
+                            <strong>Advanced Search</strong><br>
+                            <small class="text-muted">Filter and analyze by transparency indicators</small>
+                        </div>
+                    </div>
+                    
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-users"></i>
+                        </div>
+                        <div>
+                            <strong>Research Community</strong><br>
+                            <small class="text-muted">Connect with open science advocates</small>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mt-4">
+                    <p class="mb-2">
+                        <strong>Built on validated methodology</strong>
+                    </p>
+                    <p class="small">
+                        Based on the rtransparent package and peer-reviewed research in open science practices.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 

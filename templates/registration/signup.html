@@ -1,0 +1,314 @@
+{% extends 'tracker/base.html' %}
+{% load static %}
+
+{% block title %}Sign Up - Open Science Tracker{% endblock %}
+
+{% block extra_head %}
+<style>
+    .signup-container {
+        min-height: 80vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem 0;
+    }
+    .signup-card {
+        max-width: 450px;
+        width: 100%;
+        padding: 2rem;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        background: white;
+        border: 1px solid #e3e6f0;
+    }
+    .signup-header {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    .signup-logo {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 1rem;
+        font-size: 2rem;
+    }
+    .form-floating {
+        margin-bottom: 1rem;
+    }
+    .btn-signup {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border: none;
+        padding: 0.75rem;
+        font-weight: 600;
+        border-radius: 10px;
+        transition: transform 0.2s;
+    }
+    .btn-signup:hover {
+        transform: translateY(-2px);
+        background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+    }
+    .login-link {
+        text-align: center;
+        margin-top: 1.5rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid #e3e6f0;
+    }
+    .password-requirements {
+        background: #f8f9fa;
+        border-radius: 8px;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        font-size: 0.875rem;
+    }
+    .requirement-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0.25rem;
+    }
+    .requirement-item:last-child {
+        margin-bottom: 0;
+    }
+    .requirement-icon {
+        width: 16px;
+        margin-right: 0.5rem;
+    }
+    .terms-notice {
+        background: #e3f2fd;
+        border-left: 4px solid #2196f3;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        border-radius: 0 8px 8px 0;
+        font-size: 0.875rem;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 signup-container">
+            <div class="signup-card">
+                <div class="signup-header">
+                    <div class="signup-logo">
+                        <i class="fas fa-microscope"></i>
+                    </div>
+                    <h2 class="h4 mb-2">Join Open Science Tracker</h2>
+                    <p class="text-muted mb-0">Create your account to start tracking transparency in research</p>
+                </div>
+
+                {% if form.errors %}
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    <i class="fas fa-exclamation-triangle me-2"></i>
+                    <strong>Please correct the following errors:</strong><br>
+                    {% for field, errors in form.errors.items %}
+                        <strong>{{ field|title }}:</strong>
+                        {% for error in errors %}
+                            {{ error }}<br>
+                        {% endfor %}
+                    {% endfor %}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+                {% endif %}
+
+                {% if messages %}
+                {% for message in messages %}
+                <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+                    <i class="fas fa-info-circle me-2"></i>
+                    {{ message }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+                {% endfor %}
+                {% endif %}
+
+                <form method="post">
+                    {% csrf_token %}
+                    
+                    <div class="form-floating">
+                        <input type="text" 
+                               class="form-control" 
+                               id="id_username" 
+                               name="username" 
+                               placeholder="Username"
+                               value="{{ form.username.value|default:'' }}"
+                               required>
+                        <label for="id_username">
+                            <i class="fas fa-user me-2"></i>Username
+                        </label>
+                        <div class="form-text">Choose a unique username (letters, numbers, and @/./+/-/_ only)</div>
+                    </div>
+
+                    <div class="form-floating">
+                        <input type="email" 
+                               class="form-control" 
+                               id="id_email" 
+                               name="email" 
+                               placeholder="Email"
+                               value="{{ form.email.value|default:'' }}"
+                               required>
+                        <label for="id_email">
+                            <i class="fas fa-envelope me-2"></i>Email Address
+                        </label>
+                    </div>
+
+                    <div class="form-floating">
+                        <input type="text" 
+                               class="form-control" 
+                               id="id_first_name" 
+                               name="first_name" 
+                               placeholder="First Name"
+                               value="{{ form.first_name.value|default:'' }}">
+                        <label for="id_first_name">
+                            <i class="fas fa-user-circle me-2"></i>First Name (Optional)
+                        </label>
+                    </div>
+
+                    <div class="form-floating">
+                        <input type="text" 
+                               class="form-control" 
+                               id="id_last_name" 
+                               name="last_name" 
+                               placeholder="Last Name"
+                               value="{{ form.last_name.value|default:'' }}">
+                        <label for="id_last_name">
+                            <i class="fas fa-user-circle me-2"></i>Last Name (Optional)
+                        </label>
+                    </div>
+
+                    <div class="password-requirements">
+                        <h6 class="mb-2">
+                            <i class="fas fa-shield-alt me-2"></i>Password Requirements
+                        </h6>
+                        <div class="requirement-item">
+                            <i class="fas fa-check-circle text-success requirement-icon"></i>
+                            At least 8 characters long
+                        </div>
+                        <div class="requirement-item">
+                            <i class="fas fa-check-circle text-success requirement-icon"></i>
+                            Cannot be too similar to your username
+                        </div>
+                        <div class="requirement-item">
+                            <i class="fas fa-check-circle text-success requirement-icon"></i>
+                            Cannot be a commonly used password
+                        </div>
+                        <div class="requirement-item">
+                            <i class="fas fa-check-circle text-success requirement-icon"></i>
+                            Cannot be entirely numeric
+                        </div>
+                    </div>
+
+                    <div class="form-floating">
+                        <input type="password" 
+                               class="form-control" 
+                               id="id_password1" 
+                               name="password1" 
+                               placeholder="Password"
+                               required>
+                        <label for="id_password1">
+                            <i class="fas fa-lock me-2"></i>Password
+                        </label>
+                    </div>
+
+                    <div class="form-floating">
+                        <input type="password" 
+                               class="form-control" 
+                               id="id_password2" 
+                               name="password2" 
+                               placeholder="Confirm Password"
+                               required>
+                        <label for="id_password2">
+                            <i class="fas fa-lock me-2"></i>Confirm Password
+                        </label>
+                    </div>
+
+                    <div class="terms-notice">
+                        <i class="fas fa-info-circle me-2"></i>
+                        By creating an account, you agree to our Terms of Service and Privacy Policy. 
+                        Your data will be used to provide access to transparency analytics and research insights.
+                    </div>
+
+                    <button type="submit" class="btn btn-signup btn-primary w-100">
+                        <i class="fas fa-user-plus me-2"></i>
+                        Create Account
+                    </button>
+                </form>
+
+                <div class="login-link">
+                    <p class="mb-0">
+                        Already have an account? 
+                        <a href="{% url 'login' %}" class="text-decoration-none fw-semibold">
+                            Sign in here
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 d-none d-md-flex align-items-center justify-content-center" style="background: linear-gradient(135deg, #28a745 0%, #20c997 100%); min-height: 100vh;">
+            <div class="text-white text-center px-4">
+                <h1 class="display-5 fw-bold mb-4">
+                    <i class="fas fa-rocket me-3"></i>
+                    Start Your Journey
+                </h1>
+                <p class="lead mb-4">
+                    Join researchers worldwide in promoting transparency and reproducibility in scientific research.
+                </p>
+
+                <div class="row text-center mb-4">
+                    <div class="col-4">
+                        <div class="h2 fw-bold">10K+</div>
+                        <div class="small">Papers Analyzed</div>
+                    </div>
+                    <div class="col-4">
+                        <div class="h2 fw-bold">800+</div>
+                        <div class="small">Journals Covered</div>
+                    </div>
+                    <div class="col-4">
+                        <div class="h2 fw-bold">7</div>
+                        <div class="small">Transparency Indicators</div>
+                    </div>
+                </div>
+
+                <div class="bg-white bg-opacity-10 rounded p-3 mb-4">
+                    <h5 class="mb-3">What you'll get:</h5>
+                    <div class="text-start">
+                        <div class="mb-2">
+                            <i class="fas fa-check-circle me-2"></i>
+                            Access to comprehensive transparency analytics
+                        </div>
+                        <div class="mb-2">
+                            <i class="fas fa-check-circle me-2"></i>
+                            Advanced search and filtering capabilities
+                        </div>
+                        <div class="mb-2">
+                            <i class="fas fa-check-circle me-2"></i>
+                            Personalized research field tracking
+                        </div>
+                        <div class="mb-2">
+                            <i class="fas fa-check-circle me-2"></i>
+                            Export data for your own research
+                        </div>
+                        <div class="mb-0">
+                            <i class="fas fa-check-circle me-2"></i>
+                            Connect with the open science community
+                        </div>
+                    </div>
+                </div>
+
+                <div class="small">
+                    <p class="mb-1">
+                        <strong>Free to use • No credit card required</strong>
+                    </p>
+                    <p class="mb-0 opacity-75">
+                        Built by researchers, for researchers
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 
