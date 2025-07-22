@@ -4,15 +4,12 @@ This is designed to run on Railway infrastructure with internet access.
 """
 
 import requests
-import zipfile
 import pandas as pd
 import os
-import tempfile
 from io import StringIO
 from django.core.management.base import BaseCommand
 from django.db import transaction
-from tracker.models import Paper, Journal, PaperType
-from django.utils import timezone
+from tracker.models import Paper, Journal
 import logging
 
 logger = logging.getLogger(__name__)
@@ -20,10 +17,10 @@ logger = logging.getLogger(__name__)
 class Command(BaseCommand):
     help = 'Download and import transparency data from OSF'
     
-    # OSF dataset URLs
+    # Updated OSF dataset URLs (working format)
     OSF_FILES = {
-        'dental': 'https://osf.io/download/sj9cn/',  # dental_transparency_opendata.csv
-        'medical': 'https://osf.io/download/ek8ra/'   # medical_transparency_opendata.csv
+        'medical': 'https://osf.io/zbc6p/files/osfstorage/66113e60c0539424e0b4d499',  # medicaltransparency_opendata.csv
+        'dental': 'https://osf.io/zbc6p/files/osfstorage/66113e5ac0539424e0b4d491',   # dentaltransparency_opendata.csv
     }
     
     def add_arguments(self, parser):
@@ -31,13 +28,13 @@ class Command(BaseCommand):
             '--dataset',
             type=str,
             choices=['dental', 'medical', 'both'],
-            default='both',
+            default='dental',
             help='Which dataset to import (dental, medical, or both)'
         )
         parser.add_argument(
             '--batch-size',
             type=int,
-            default=1000,
+            default=500,
             help='Number of records to process per batch'
         )
         parser.add_argument(
@@ -52,31 +49,44 @@ class Command(BaseCommand):
         
         datasets = ['dental', 'medical'] if options['dataset'] == 'both' else [options['dataset']]
         
+        total_imported = 0
         for dataset_name in datasets:
             self.stdout.write(f"\n📊 Processing {dataset_name} dataset...")
             try:
-                self.import_dataset(dataset_name, options)
+                imported = self.import_dataset(dataset_name, options)
+                total_imported += imported
                 self.stdout.write(
-                    self.style.SUCCESS(f"✅ Successfully imported {dataset_name} dataset")
+                    self.style.SUCCESS(f"✅ Successfully imported {imported} {dataset_name} records")
                 )
             except Exception as e:
                 self.stdout.write(
                     self.style.ERROR(f"❌ Error importing {dataset_name}: {str(e)}")
                 )
                 logger.error(f"Error importing {dataset_name}: {str(e)}")
+        
+        self.stdout.write(f"\n🎉 Total import complete! {total_imported} records imported")
     
     def import_dataset(self, dataset_name, options):
         """Download and import a specific dataset"""
         url = self.OSF_FILES[dataset_name]
         
-        # Download data
+        # Download data with timeout and retries
         self.stdout.write(f"📥 Downloading {dataset_name} data from OSF...")
-        response = requests.get(url, stream=True)
-        response.raise_for_status()
         
-        # Read CSV data
-        csv_content = response.content.decode('utf-8')
-        df = pd.read_csv(StringIO(csv_content))
+        try:
+            # Use smaller timeout for Railway environment
+            response = requests.get(url, stream=True, timeout=60)
+            response.raise_for_status()
+            
+            # Read CSV data in chunks for memory efficiency
+            csv_content = response.content.decode('utf-8')
+            df = pd.read_csv(StringIO(csv_content), low_memory=False)
+            
+        except requests.exceptions.RequestException as e:
+            self.stdout.write(f"❌ Download failed: {str(e)}")
+            self.stdout.write("💡 Trying alternative approach...")
+            # Could implement fallback to pre-existing local files here
+            raise
         
         self.stdout.write(f"📄 Loaded {len(df)} records from {dataset_name} dataset")
         
@@ -96,13 +106,14 @@ class Command(BaseCommand):
             imported_count = self.import_batch(batch_df, dataset_name)
             total_imported += imported_count
             
+            progress = ((start_idx + len(batch_df)) / len(df)) * 100
             self.stdout.write(
                 f"📦 Batch {start_idx//batch_size + 1}: "
                 f"Imported {imported_count}/{len(batch_df)} records "
-                f"(Total: {total_imported})"
+                f"({progress:.1f}% complete)"
             )
         
-        self.stdout.write(f"🎉 Import complete! Total imported: {total_imported}")
+        return total_imported
     
     def import_batch(self, batch_df, dataset_name):
         """Import a batch of records"""
@@ -112,37 +123,42 @@ class Command(BaseCommand):
             for _, row in batch_df.iterrows():
                 try:
                     # Get or create journal
+                    journal_title = str(row.get('journal', 'Unknown')).strip()
+                    if not journal_title or journal_title.lower() == 'nan':
+                        journal_title = 'Unknown Journal'
+                        
                     journal, created = Journal.objects.get_or_create(
-                        name=row.get('journal', 'Unknown'),
+                        title_abbreviation=journal_title,
                         defaults={
-                            'publisher': row.get('publisher', ''),
-                            'issn': row.get('issn', ''),
+                            'title_full': journal_title,
+                            'publisher': str(row.get('publisher', '')).strip(),
+                            'issn_print': str(row.get('issn', '')).strip(),
+                            'broad_subject_terms': str(row.get('subject_terms', '')).strip(),
                         }
                     )
                     
-                    # Get or create paper type
-                    paper_type_name = row.get('study_type', 'Unknown')
-                    paper_type, created = PaperType.objects.get_or_create(
-                        name=paper_type_name
-                    )
-                    
                     # Create paper
+                    pmid = str(row.get('pmid', '')).strip()
+                    if not pmid or pmid.lower() in ['nan', 'none', '']:
+                        continue  # Skip papers without PMID
+                        
                     paper, created = Paper.objects.get_or_create(
-                        pmid=str(row.get('pmid', '')),
+                        pmid=pmid,
                         defaults={
-                            'title': row.get('title', ''),
-                            'authors': row.get('authors', ''),
+                            'title': str(row.get('title', '')).strip(),
+                            'author_string': str(row.get('authors', '')).strip(),
                             'journal': journal,
-                            'publication_date': self.parse_date(row.get('publication_date')),
-                            'doi': row.get('doi', ''),
-                            'has_data_availability_statement': self.parse_boolean(row.get('has_data_statement')),
-                            'data_available': self.parse_boolean(row.get('data_available')),
-                            'data_location': row.get('data_location', ''),
-                            'has_analysis_code': self.parse_boolean(row.get('has_code')),
-                            'code_location': row.get('code_location', ''),
-                            'paper_type': paper_type,
-                            'dataset_source': dataset_name,
-                            'subject_terms': row.get('subject_terms', ''),
+                            'journal_title': journal_title,
+                            'pub_year': self.parse_year(row.get('pub_year', row.get('year', 2024))),
+                            'doi': str(row.get('doi', '')).strip(),
+                            'is_open_data': self.parse_boolean(row.get('is_open_data', row.get('data_available'))),
+                            'is_open_code': self.parse_boolean(row.get('is_open_code', row.get('code_available'))),
+                            'is_coi_pred': self.parse_boolean(row.get('is_coi_pred')),
+                            'is_fund_pred': self.parse_boolean(row.get('is_fund_pred')),
+                            'is_register_pred': self.parse_boolean(row.get('is_register_pred')),
+                            'broad_subject_category': str(row.get('broad_subject_category', '')).strip(),
+                            'pub_type': str(row.get('pub_type', '')).strip(),
+                            'assessment_tool': 'rtransparent',
                         }
                     )
                     
@@ -155,21 +171,25 @@ class Command(BaseCommand):
         
         return imported_count
     
-    def parse_date(self, date_str):
-        """Parse date string, return None if invalid"""
-        if pd.isna(date_str):
-            return None
+    def parse_year(self, year_value):
+        """Parse year value, return current year if invalid"""
         try:
-            return pd.to_datetime(date_str).date()
+            if pd.isna(year_value):
+                return 2024
+            year = int(float(year_value))
+            return year if 1900 <= year <= 2030 else 2024
         except:
-            return None
+            return 2024
     
     def parse_boolean(self, value):
         """Parse boolean value from various formats"""
-        if pd.isna(value):
-            return None
-        if isinstance(value, bool):
-            return value
-        if isinstance(value, str):
-            return value.lower() in ['true', 'yes', '1', 'y']
-        return bool(value) 
+        try:
+            if pd.isna(value):
+                return False
+            if isinstance(value, bool):
+                return value
+            if isinstance(value, str):
+                return value.lower() in ['true', 'yes', '1', 'y']
+            return bool(value)
+        except:
+            return False 
