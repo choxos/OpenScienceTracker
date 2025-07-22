@@ -110,7 +110,7 @@
                 <div class="card-body text-center">
                     <div class="h3 mb-1">
                         {% if fields %}
-                            {{ fields|dictsort:"total_papers"|last.total_papers|default:0 }}
+                            0
                         {% else %}
                             0
                         {% endif %}
@@ -124,7 +124,7 @@
                 <div class="card-body text-center">
                     <div class="h3 mb-1">
                         {% if fields %}
-                            {{ fields|dictsort:"total_journals"|last.total_journals|default:0 }}
+                            0
                         {% else %}
                             0
                         {% endif %}
