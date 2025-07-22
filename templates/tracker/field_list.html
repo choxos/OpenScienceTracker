@@ -1,0 +1,311 @@
+{% extends 'tracker/base.html' %}
+{% load static %}
+
+{% block title %}Research Fields - Open Science Tracker{% endblock %}
+
+{% block extra_head %}
+<style>
+    .field-card {
+        transition: transform 0.2s, box-shadow 0.2s;
+        border: 1px solid #e3e6f0;
+        border-radius: 10px;
+        margin-bottom: 1.5rem;
+    }
+    .field-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    }
+    .field-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 10px 10px 0 0;
+        padding: 1.5rem;
+    }
+    .field-stats {
+        display: flex;
+        justify-content: space-around;
+        padding: 1rem;
+        background-color: #f8f9fa;
+        border-radius: 0 0 10px 10px;
+    }
+    .stat-item {
+        text-align: center;
+    }
+    .stat-number {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #495057;
+    }
+    .stat-label {
+        font-size: 0.875rem;
+        color: #6c757d;
+    }
+    .parent-field-badge {
+        background-color: rgba(255,255,255,0.2);
+        color: white;
+        padding: 0.25rem 0.5rem;
+        border-radius: 15px;
+        font-size: 0.75rem;
+        margin-bottom: 0.5rem;
+        display: inline-block;
+    }
+    .transparency-meter {
+        height: 6px;
+        background-color: rgba(255,255,255,0.3);
+        border-radius: 3px;
+        overflow: hidden;
+        margin-top: 0.5rem;
+    }
+    .transparency-bar {
+        height: 100%;
+        background-color: #28a745;
+        transition: width 0.3s ease;
+    }
+    .no-fields-container {
+        text-align: center;
+        padding: 4rem 2rem;
+        color: #6c757d;
+    }
+    .hierarchy-indicator {
+        border-left: 3px solid #007bff;
+        margin-left: 1rem;
+        padding-left: 1rem;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <!-- Header -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="h2 mb-3">
+                <i class="fas fa-atom me-2"></i>
+                Research Fields
+            </h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Research Fields</li>
+                </ol>
+            </nav>
+            <p class="text-muted">
+                Explore research disciplines and their transparency metrics across scientific literature.
+            </p>
+        </div>
+    </div>
+
+    <!-- Summary Statistics -->
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="card bg-primary text-white">
+                <div class="card-body text-center">
+                    <div class="h3 mb-1">{{ fields.count }}</div>
+                    <small>Research Fields</small>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card bg-success text-white">
+                <div class="card-body text-center">
+                    <div class="h3 mb-1">
+                        {% if fields %}
+                            {{ fields|dictsort:"total_papers"|last.total_papers|default:0 }}
+                        {% else %}
+                            0
+                        {% endif %}
+                    </div>
+                    <small>Max Papers in Field</small>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card bg-info text-white">
+                <div class="card-body text-center">
+                    <div class="h3 mb-1">
+                        {% if fields %}
+                            {{ fields|dictsort:"total_journals"|last.total_journals|default:0 }}
+                        {% else %}
+                            0
+                        {% endif %}
+                    </div>
+                    <small>Max Journals in Field</small>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card bg-warning text-white">
+                <div class="card-body text-center">
+                    <div class="h3 mb-1">
+                        {% if fields %}
+                            {{ fields|length|add:"-1"|add:1 }}
+                        {% else %}
+                            0
+                        {% endif %}
+                    </div>
+                    <small>Active Disciplines</small>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Research Fields List -->
+    {% if fields %}
+    <div class="row">
+        {% for field in fields %}
+        <div class="col-lg-6 col-xl-4">
+            <div class="field-card">
+                <!-- Field Header -->
+                <div class="field-header">
+                    {% if field.parent_field %}
+                    <div class="parent-field-badge">
+                        <i class="fas fa-arrow-up me-1"></i>
+                        {{ field.parent_field.name }}
+                    </div>
+                    {% endif %}
+                    
+                    <h5 class="mb-2">
+                        <a href="{% url 'tracker:field_detail' field.pk %}" class="text-white text-decoration-none">
+                            {{ field.name }}
+                        </a>
+                    </h5>
+                    
+                    {% if field.description %}
+                    <p class="mb-2 small">{{ field.description|truncatechars:120 }}</p>
+                    {% else %}
+                    <p class="mb-2 small text-white-50">No description available</p>
+                    {% endif %}
+                    
+                    <!-- Transparency Score Meter -->
+                    <div class="d-flex justify-content-between align-items-center">
+                        <small>Transparency Score</small>
+                        <strong>{{ field.avg_transparency_score|floatformat:1 }}/7</strong>
+                    </div>
+                    <div class="transparency-meter">
+                        <div class="transparency-bar" style="width: {% widthratio field.avg_transparency_score 7 100 %}%"></div>
+                    </div>
+                </div>
+
+                <!-- Field Statistics -->
+                <div class="field-stats">
+                    <div class="stat-item">
+                        <div class="stat-number">{{ field.total_papers|default:0 }}</div>
+                        <div class="stat-label">Papers</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">{{ field.total_journals|default:0 }}</div>
+                        <div class="stat-label">Journals</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">
+                            {% if field.avg_transparency_score >= 5 %}
+                                <i class="fas fa-star text-success"></i>
+                            {% elif field.avg_transparency_score >= 3 %}
+                                <i class="fas fa-star-half-alt text-warning"></i>
+                            {% else %}
+                                <i class="far fa-star text-danger"></i>
+                            {% endif %}
+                        </div>
+                        <div class="stat-label">
+                            {% if field.avg_transparency_score >= 5 %}
+                                Excellent
+                            {% elif field.avg_transparency_score >= 3 %}
+                                Good
+                            {% else %}
+                                Needs Work
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Field Actions -->
+                <div class="card-body pt-0">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <a href="{% url 'tracker:field_detail' field.pk %}" class="btn btn-sm btn-outline-primary">
+                            <i class="fas fa-eye me-1"></i> View Details
+                        </a>
+                        <a href="{% url 'tracker:statistics' %}?field={{ field.name }}" class="btn btn-sm btn-outline-success">
+                            <i class="fas fa-chart-bar me-1"></i> Statistics
+                        </a>
+                    </div>
+                    
+                    <!-- Show sub-fields if any -->
+                    {% if field.researchfield_set.exists %}
+                    <div class="hierarchy-indicator mt-3">
+                        <h6 class="text-muted mb-2">Sub-fields:</h6>
+                        {% for subfield in field.researchfield_set.all|slice:":3" %}
+                        <a href="{% url 'tracker:field_detail' subfield.pk %}" class="badge bg-light text-dark me-1 mb-1 text-decoration-none">
+                            {{ subfield.name }}
+                        </a>
+                        {% endfor %}
+                        {% if field.researchfield_set.count > 3 %}
+                        <span class="badge bg-secondary">+{{ field.researchfield_set.count|add:"-3" }} more</span>
+                        {% endif %}
+                    </div>
+                    {% endif %}
+                    
+                    <!-- Show parent sub-fields at same level -->
+                    {% if field.parent_field %}
+                    {% with field.parent_field.researchfield_set.all as siblings %}
+                    {% if siblings.count > 1 %}
+                    <div class="mt-3">
+                        <h6 class="text-muted mb-2">Related fields:</h6>
+                        {% for sibling in siblings|slice:":3" %}
+                        {% if sibling != field %}
+                        <a href="{% url 'tracker:field_detail' sibling.pk %}" class="badge bg-light text-dark me-1 mb-1 text-decoration-none">
+                            {{ sibling.name }}
+                        </a>
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                    {% endwith %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- View More / Load More -->
+    <div class="row mt-4">
+        <div class="col-12 text-center">
+            <div class="card bg-light">
+                <div class="card-body">
+                    <h5 class="card-title">Explore More</h5>
+                    <p class="card-text">
+                        Discover transparency trends and detailed analytics for each research field.
+                    </p>
+                    <div class="d-flex justify-content-center gap-3">
+                        <a href="{% url 'tracker:statistics' %}" class="btn btn-primary">
+                            <i class="fas fa-chart-line me-1"></i> View Global Statistics
+                        </a>
+                        <a href="{% url 'tracker:trends' %}" class="btn btn-outline-primary">
+                            <i class="fas fa-trending-up me-1"></i> Transparency Trends
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% else %}
+    <!-- No Fields State -->
+    <div class="no-fields-container">
+        <i class="fas fa-atom fa-4x mb-4"></i>
+        <h3>No Research Fields Available</h3>
+        <p class="mb-4">
+            Research fields haven't been set up yet. This typically happens when field data is imported along with papers and journals.
+        </p>
+        <div class="d-flex justify-content-center gap-3">
+            <a href="{% url 'tracker:statistics' %}" class="btn btn-primary">
+                <i class="fas fa-chart-bar me-1"></i> View Statistics
+            </a>
+            <a href="{% url 'tracker:home' %}" class="btn btn-outline-secondary">
+                <i class="fas fa-home me-1"></i> Back to Home
+            </a>
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %} 
