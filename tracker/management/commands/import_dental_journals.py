@@ -17,6 +17,12 @@ class Command(BaseCommand):
         )
 
     def handle(self, *args, **options):
+        # Only run in Railway environment
+        import os
+        if not os.environ.get('RAILWAY_ENVIRONMENT'):
+            self.stdout.write(self.style.WARNING('⚠️  Not in Railway environment. Skipping dental journals import.'))
+            return
+            
         self.stdout.write(self.style.SUCCESS('🦷 Importing Dental Journals to Railway Database'))
         self.stdout.write('=' * 60)
         
