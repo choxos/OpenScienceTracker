@@ -517,6 +517,84 @@ class ResearchFieldDetailView(DetailView):
     model = ResearchField
     template_name = 'tracker/field_detail.html'
     context_object_name = 'field'
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        field = self.object
+        
+        # Get papers with this exact subject category
+        papers_exact = Paper.objects.filter(broad_subject_category=field.name)
+        
+        # Get papers from journals that contain this subject term
+        papers_from_journals = Paper.objects.filter(
+            journal__broad_subject_terms__icontains=field.name
+        ).select_related('journal')
+        
+        # Use the larger set (exact matches or journal-based)
+        if papers_exact.count() >= papers_from_journals.count():
+            field_papers = papers_exact.select_related('journal')
+        else:
+            field_papers = papers_from_journals
+        
+        # Recent papers (last 10, ordered by publication year)
+        context['recent_papers'] = field_papers.order_by('-pub_year', '-created_at')[:10]
+        
+        # Top journals by paper count in this field
+        journals_in_field = Journal.objects.filter(
+            broad_subject_terms__icontains=field.name
+        ).annotate(
+            papers_count=Count('papers', filter=Q(papers__broad_subject_category=field.name)),
+            avg_transparency=Avg('papers__transparency_score', filter=Q(papers__broad_subject_category=field.name))
+        ).filter(papers_count__gt=0).order_by('-papers_count')[:10]
+        
+        context['top_journals'] = journals_in_field
+        
+        # Transparency trends and statistics
+        if field_papers.exists():
+            total_papers = field_papers.count()
+            
+            context['transparency_stats'] = {
+                'total_papers': total_papers,
+                'data_sharing_pct': round((field_papers.filter(is_open_data=True).count() / total_papers) * 100, 1),
+                'code_sharing_pct': round((field_papers.filter(is_open_code=True).count() / total_papers) * 100, 1),
+                'coi_disclosure_pct': round((field_papers.filter(is_coi_pred=True).count() / total_papers) * 100, 1),
+                'funding_disclosure_pct': round((field_papers.filter(is_fund_pred=True).count() / total_papers) * 100, 1),
+                'protocol_registration_pct': round((field_papers.filter(is_register_pred=True).count() / total_papers) * 100, 1),
+                'open_access_pct': round((field_papers.filter(is_open_access=True).count() / total_papers) * 100, 1),
+                'avg_transparency_score': field_papers.aggregate(avg=Avg('transparency_score'))['avg'] or 0,
+            }
+            
+            # Year-wise transparency trends (last 5 years)
+            from django.utils import timezone
+            current_year = timezone.now().year
+            
+            yearly_trends = []
+            for year in range(current_year - 4, current_year + 1):
+                year_papers = field_papers.filter(pub_year=year)
+                if year_papers.exists():
+                    yearly_trends.append({
+                        'year': year,
+                        'papers_count': year_papers.count(),
+                        'avg_transparency': year_papers.aggregate(avg=Avg('transparency_score'))['avg'] or 0,
+                        'data_sharing_pct': round((year_papers.filter(is_open_data=True).count() / year_papers.count()) * 100, 1),
+                        'open_access_pct': round((year_papers.filter(is_open_access=True).count() / year_papers.count()) * 100, 1),
+                    })
+            
+            context['yearly_trends'] = yearly_trends
+        else:
+            context['transparency_stats'] = {
+                'total_papers': 0,
+                'data_sharing_pct': 0,
+                'code_sharing_pct': 0,
+                'coi_disclosure_pct': 0,
+                'funding_disclosure_pct': 0,
+                'protocol_registration_pct': 0,
+                'open_access_pct': 0,
+                'avg_transparency_score': 0,
+            }
+            context['yearly_trends'] = []
+        
+        return context
 
 class TrendsView(TemplateView):
     """Trends analysis page"""
