@@ -40,4 +40,4 @@ jobs:
           from tracker.models import Journal, Paper
           print(f\"📚 Journals: {Journal.objects.count():,}\")
           print(f\"📄 Papers: {Paper.objects.count():,}\")
-          "' 
+          "'
