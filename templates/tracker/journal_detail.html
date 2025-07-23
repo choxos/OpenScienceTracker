@@ -19,13 +19,10 @@
     .stat-card:hover {
         transform: translateY(-2px);
     }
-    .transparency-badge {
-        font-size: 0.8em;
-        padding: 0.25rem 0.5rem;
-    }
     .paper-card {
         border-left: 4px solid #007bff;
         transition: all 0.2s;
+        margin-bottom: 1rem;
     }
     .paper-card:hover {
         border-left-color: #28a745;
@@ -119,75 +116,6 @@
     </div>
     {% endif %}
 
-    <!-- Journal Statistics -->
-    <div class="row mb-4">
-        <div class="col-md-3 col-sm-6 mb-3">
-            <div class="card stat-card border-0 shadow h-100">
-                <div class="card-body text-center">
-                    <div class="text-success mb-2">
-                        <i class="fas fa-chart-line fa-2x"></i>
-                    </div>
-                    <h4 class="text-success">{{ journal.papers.count }}</h4>
-                    <p class="mb-0">Total Papers</p>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-md-3 col-sm-6 mb-3">
-            <div class="card stat-card border-0 shadow h-100">
-                <div class="card-body text-center">
-                    <div class="text-info mb-2">
-                        <i class="fas fa-calendar fa-2x"></i>
-                    </div>
-                    <h4 class="text-info">
-                        {% if journal.papers.exists %}
-                            {{ journal.papers.aggregate.year_range.min }} - {{ journal.papers.aggregate.year_range.max }}
-                        {% else %}
-                            N/A
-                        {% endif %}
-                    </h4>
-                    <p class="mb-0">Year Range</p>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-md-3 col-sm-6 mb-3">
-            <div class="card stat-card border-0 shadow h-100">
-                <div class="card-body text-center">
-                    <div class="text-warning mb-2">
-                        <i class="fas fa-star fa-2x"></i>
-                    </div>
-                    <h4 class="text-warning">
-                        {% if journal.papers.exists %}
-                            {{ journal.papers.aggregate.avg_transparency_score.transparency_score__avg|floatformat:1|default:"0.0" }}
-                        {% else %}
-                            N/A
-                        {% endif %}
-                    </h4>
-                    <p class="mb-0">Avg Transparency</p>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-md-3 col-sm-6 mb-3">
-            <div class="card stat-card border-0 shadow h-100">
-                <div class="card-body text-center">
-                    <div class="text-danger mb-2">
-                        <i class="fas fa-database fa-2x"></i>
-                    </div>
-                    <h4 class="text-danger">
-                        {% if journal.papers.exists %}
-                            {{ journal.papers.filter.is_open_data=True.count }}
-                        {% else %}
-                            0
-                        {% endif %}
-                    </h4>
-                    <p class="mb-0">Open Data Papers</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- Recent Papers -->
     <div class="row">
         <div class="col-12">
@@ -208,7 +136,7 @@
                 <div class="card-body">
                     {% if journal.papers.exists %}
                         {% for paper in journal.papers.all|slice:":10" %}
-                        <div class="paper-card p-3 mb-3 border rounded">
+                        <div class="paper-card p-3 border rounded">
                             <div class="d-flex justify-content-between align-items-start">
                                 <div class="flex-grow-1">
                                     <h5 class="mb-2">
@@ -236,14 +164,13 @@
                                     </div>
                                 </div>
                                 <div class="text-end">
-                                    <span class="badge transparency-badge {% if paper.transparency_score >= 5 %}bg-success{% elif paper.transparency_score >= 3 %}bg-warning{% else %}bg-secondary{% endif %}">
+                                    <span class="badge {% if paper.transparency_score >= 5 %}bg-success{% elif paper.transparency_score >= 3 %}bg-warning{% else %}bg-secondary{% endif %}">
                                         {{ paper.transparency_score }}/7
                                     </span>
                                 </div>
                             </div>
                             
                             <!-- Transparency Indicators -->
-                            {% if paper.is_open_data or paper.is_open_code or paper.is_coi_pred or paper.is_fund_pred %}
                             <div class="mt-2">
                                 {% if paper.is_open_data %}
                                 <span class="badge bg-success me-1"><i class="fas fa-database me-1"></i>Data</span>
@@ -258,7 +185,6 @@
                                 <span class="badge bg-primary me-1"><i class="fas fa-money-bill-wave me-1"></i>Funding</span>
                                 {% endif %}
                             </div>
-                            {% endif %}
                         </div>
                         {% endfor %}
                     {% else %}
