@@ -33,10 +33,13 @@ class Command(BaseCommand):
             df = df.fillna('')
             
             # Handle numeric fields properly
-            numeric_fields = ['jif2020', 'citedByCount', 'year_firstpub', 'month_firstpub', 'transparency_score']
+            numeric_fields = ['jif2020', 'citedByCount', 'year_firstpub', 'month_firstpub', 'transparency_score', 'transparency_score_pct']
             for col in numeric_fields:
                 if col in df.columns:
                     df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
+                else:
+                    # Add missing numeric fields with 0 default
+                    df[col] = 0
             
             # Handle date fields
             if 'firstPublicationDate' in df.columns:
@@ -98,6 +101,7 @@ class Command(BaseCommand):
                 'is_replication': 'is_replication',
                 'is_novelty': 'is_novelty',
                 'transparency_score': 'transparency_score',
+                'transparency_score_pct': 'transparency_score_pct',
                 'disc_data': 'disc_data',
                 'disc_code': 'disc_code', 
                 'disc_coi': 'disc_coi',
