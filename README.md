@@ -226,7 +226,7 @@ The OST supports importing large medical transparency datasets with journal matc
 1. **Download dataset:** Available on OSF at [https://osf.io/zbc6p/files/osfstorage/66113e60c0539424e0b4d499](https://osf.io/zbc6p/files/osfstorage/66113e60c0539424e0b4d499)
 2. **Place dataset:** Save `medicaltransparency_opendata.csv` in `papers/` directory
 3. **Test import:** Run `python test_medical_import.py` to validate data structure
-4. **Full import:** Run `python import_medical_transparency_data.py` for complete import
+4. **Full import:** Run `python manage.py import_medical_papers_bulk` for complete import with progress tracking
 5. **Monitor progress:** Real-time statistics and progress tracking
 
 ### 🔗 Journal Matching Strategy

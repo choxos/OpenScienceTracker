@@ -66,7 +66,7 @@ echo "Time: $(date)"
 
 # Configuration
 PROJECT_DIR="/var/www/ost"
-SERVICE_NAME="xeradb-ost"
+SERVICE_NAME="ost"
 BACKUP_DIR="/var/www/backups/auto-deploy"
 
 # Create backup directory
@@ -164,10 +164,10 @@ ls -la deploy-ost.sh
 
 ```bash
 # Allow xeradb user to restart services without password
-echo "xeradb ALL=(ALL) NOPASSWD: /bin/systemctl restart xeradb-ost, /bin/systemctl status xeradb-ost, /bin/systemctl is-active xeradb-ost, /bin/journalctl" | sudo tee /etc/sudoers.d/xeradb-deploy
+echo "xeradb ALL=(ALL) NOPASSWD: /bin/systemctl restart ost, /bin/systemctl status ost, /bin/systemctl is-active ost, /bin/journalctl" | sudo tee /etc/sudoers.d/xeradb-deploy
 
 # Test sudo permissions
-sudo systemctl status xeradb-ost
+sudo systemctl status ost
 ```
 
 ## 📋 Step 4: Create GitHub Actions Workflow
