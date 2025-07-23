@@ -1,6 +1,7 @@
 from django.db import models
 from django.contrib.auth.models import User
 from django.core.validators import MinValueValidator, MaxValueValidator
+from postgres_copy import CopyManager
 
 class Journal(models.Model):
     """Model representing a scientific journal"""
@@ -37,6 +38,9 @@ class Journal(models.Model):
     # Additional metadata
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    
+    # Add CopyManager for fast CSV imports
+    objects = CopyManager()
     
     class Meta:
         ordering = ['title_abbreviation']
