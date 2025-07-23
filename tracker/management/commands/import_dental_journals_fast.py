@@ -62,15 +62,17 @@ class Command(BaseCommand):
             csv_buffer.seek(0)
             
             # Use PostgreSQL COPY for ultra-fast bulk insert
-            with transaction.atomic():
-                # Map CSV columns to model fields
-                mapping = dict(zip(range(len(column_order)), column_order))
-                
-                Journal.objects.from_csv(
-                    csv_buffer,
-                    mapping=mapping,
-                    delimiter='\t'
-                )
+            # No transaction.atomic() - django-postgres-copy manages its own transactions
+            # Map CSV columns to model fields
+            mapping = dict(zip(range(len(column_order)), column_order))
+            
+            Journal.objects.from_csv(
+                csv_buffer,
+                mapping=mapping,
+                delimiter='\t',
+                drop_constraints=False,  # Keep constraints for data integrity
+                drop_indexes=False       # Keep indexes for performance
+            )
             
             # Report results
             total_journals = Journal.objects.count()
