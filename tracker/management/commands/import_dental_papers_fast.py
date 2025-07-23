@@ -70,6 +70,14 @@ class Command(BaseCommand):
                 if col in df.columns:
                     df[col] = df[col].astype(str).fillna('')
             
+            # Handle assessment metadata fields with defaults
+            df['assessment_tool'] = df.get('assessment_tool', 'rtransparent').fillna('rtransparent')
+            df['ost_version'] = df.get('ost_version', '1.0').fillna('1.0')
+            if 'assessment_date' in df.columns:
+                df['assessment_date'] = pd.to_datetime(df['assessment_date'], errors='coerce')
+            else:
+                df['assessment_date'] = timezone.now()
+            
             # Add timestamp fields for Django auto fields
             current_time = timezone.now()
             df['created_at'] = current_time
@@ -109,6 +117,9 @@ class Command(BaseCommand):
                 'disc_register': 'disc_register',
                 'disc_replication': 'disc_replication',
                 'disc_novelty': 'disc_novelty',
+                'assessment_tool': 'assessment_tool',
+                'ost_version': 'ost_version',
+                'assessment_date': 'assessment_date',
                 'created_at': 'created_at',
                 'updated_at': 'updated_at'
             }
