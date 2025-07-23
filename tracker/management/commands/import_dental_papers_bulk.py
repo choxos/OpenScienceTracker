@@ -3,6 +3,7 @@ from django.db import transaction
 from tracker.models import Paper, Journal
 import pandas as pd
 import os
+from django.utils import timezone
 from datetime import datetime
 
 class Command(BaseCommand):
@@ -16,10 +17,10 @@ class Command(BaseCommand):
             
         self.stdout.write(self.style.SUCCESS('🦷 Bulk importing dental transparency papers...'))
         
-        # Check if already imported to avoid duplicates
-        existing_papers = Paper.objects.filter(journal_title__icontains='dental').count()
-        if existing_papers > 1000:
-            self.stdout.write(self.style.WARNING(f'✅ Dental papers already imported ({existing_papers:,} found). Skipping.'))
+        # Check if already imported
+        existing_papers = Paper.objects.count()
+        if existing_papers > 5000:
+            self.stdout.write(self.style.WARNING(f'✅ Papers already imported ({existing_papers:,} found). Skipping.'))
             return
         
         try:
@@ -31,11 +32,18 @@ class Command(BaseCommand):
             df = df.fillna('')
             df = df.where(pd.notnull(df), None)
             
+            # Pre-load journal mapping for efficient lookup
+            journal_map = self.build_journal_mapping()
+            self.stdout.write(f"📚 Built journal mapping with {len(journal_map)} journals")
+            
             # Convert to model instances in batches
             papers = []
             batch_size = 1000
             
             for idx, row in df.iterrows():
+                # Find the correct journal ID
+                journal_id = self.find_journal_id(row, journal_map)
+                
                 # Create Paper instance - Django will apply model defaults
                 paper = Paper(
                     pmid=self.clean_varchar(row.get('pmid'), 20),
@@ -73,8 +81,8 @@ class Command(BaseCommand):
                     ost_version=self.clean_field(row.get('ost_version')) or '1.0',
                     assessment_date=self.clean_date_tz(row.get('assessment_date')),
                     
-                    # Journal reference (default to 1 if no match)
-                    journal_id=1,
+                    # Journal reference (properly mapped)
+                    journal_id=journal_id,
                 )
                 papers.append(paper)
                 
@@ -105,6 +113,78 @@ class Command(BaseCommand):
             self.stdout.write(self.style.ERROR(f'❌ Import failed: {str(e)}'))
             import traceback
             self.stdout.write(self.style.ERROR(f'Full error: {traceback.format_exc()}'))
+    
+    def build_journal_mapping(self):
+        """Build efficient journal lookup mapping"""
+        journal_map = {}
+        
+        # Get all journals from database
+        journals = Journal.objects.all().values('id', 'nlm_id', 'title_abbreviation', 'title_full', 'issn_print', 'issn_electronic')
+        
+        for journal in journals:
+            j_id = journal['id']
+            
+            # Map by NLM ID (most reliable)
+            if journal['nlm_id']:
+                journal_map[f"nlm:{journal['nlm_id']}"] = j_id
+            
+            # Map by title abbreviation
+            if journal['title_abbreviation']:
+                journal_map[f"title:{journal['title_abbreviation'].lower()}"] = j_id
+            
+            # Map by title full
+            if journal['title_full']:
+                journal_map[f"title:{journal['title_full'].lower()}"] = j_id
+            
+            # Map by ISSN
+            if journal['issn_print']:
+                journal_map[f"issn:{journal['issn_print']}"] = j_id
+            if journal['issn_electronic']:
+                journal_map[f"issn:{journal['issn_electronic']}"] = j_id
+        
+        return journal_map
+    
+    def find_journal_id(self, row, journal_map):
+        """Find the correct journal ID for a paper"""
+        # Try NLM ID first (most reliable)
+        nlm_id = self.clean_field(row.get('journal_nlm_id'))
+        if nlm_id:
+            key = f"nlm:{nlm_id}"
+            if key in journal_map:
+                return journal_map[key]
+        
+        # Try journal title
+        journal_title = self.clean_field(row.get('journalTitle'))
+        if journal_title:
+            key = f"title:{journal_title.lower()}"
+            if key in journal_map:
+                return journal_map[key]
+        
+        # Try ISSN
+        journal_issn = self.clean_field(row.get('journalIssn'))
+        if journal_issn:
+            # Handle multiple ISSNs separated by semicolons
+            issns = [issn.strip() for issn in journal_issn.split(';') if issn.strip()]
+            for issn in issns:
+                key = f"issn:{issn}"
+                if key in journal_map:
+                    return journal_map[key]
+        
+        # Fallback: return the first journal ID if no match found
+        if journal_map:
+            first_journal_id = min(journal_map.values())
+            return first_journal_id
+        
+        # Last resort: create a default journal and return its ID
+        default_journal, created = Journal.objects.get_or_create(
+            title_abbreviation='Unknown Journal',
+            defaults={
+                'title_full': 'Unknown Journal',
+                'broad_subject_terms': 'General',
+                'subject_term_count': 1,
+            }
+        )
+        return default_journal.id
     
     def clean_field(self, value):
         """Clean field value"""
@@ -165,12 +245,11 @@ class Command(BaseCommand):
         if pd.isna(value) or value == "nan" or value == "":
             return None
         try:
-            from django.utils import timezone as tz
             dt = pd.to_datetime(value, errors='coerce')
             if dt is not None and not pd.isna(dt):
                 # Make timezone-aware if naive
                 if dt.tzinfo is None:
-                    return tz.make_aware(dt, tz.get_current_timezone())
+                    return timezone.make_aware(dt, timezone.get_current_timezone())
                 return dt
         except:
             pass
