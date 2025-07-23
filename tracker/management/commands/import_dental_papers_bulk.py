@@ -38,8 +38,8 @@ class Command(BaseCommand):
             for idx, row in df.iterrows():
                 # Create Paper instance - Django will apply model defaults
                 paper = Paper(
-                    pmid=self.clean_field(row.get('pmid')),
-                    pmcid=self.clean_field(row.get('pmcid')),
+                    pmid=self.clean_varchar(row.get('pmid'), 20),
+                    pmcid=self.clean_varchar(row.get('pmcid'), 20),
                     doi=self.clean_field(row.get('doi')),
                     title=self.clean_field(row.get('title')) or 'Unknown Title',
                     author_string=self.clean_field(row.get('authorString')),
@@ -49,10 +49,10 @@ class Command(BaseCommand):
                     first_publication_date=self.clean_date(row.get('firstPublicationDate')),
                     year_first_pub=self.clean_year(row.get('year_firstpub')),
                     month_first_pub=self.clean_number(row.get('month_firstpub')),
-                    journal_volume=self.clean_field(row.get('journalVolume')),
-                    page_info=self.clean_field(row.get('pageInfo')),
-                    issue=self.clean_field(row.get('issue')),
-                    pub_type=self.clean_field(row.get('type')),
+                    journal_volume=self.clean_varchar(row.get('journalVolume'), 20),
+                    page_info=self.clean_varchar(row.get('pageInfo'), 50),
+                    issue=self.clean_varchar(row.get('issue'), 20),
+                    pub_type=self.clean_varchar(row.get('type'), 200),
                     jif2020=self.clean_float(row.get('jif2020')),
                     scimago_publisher=self.clean_field(row.get('publisher')),
                     
@@ -148,13 +148,17 @@ class Command(BaseCommand):
         except (ValueError, TypeError):
             return None
     
-    def clean_issn(self, value):
-        """Clean ISSN field (max 9 chars)"""
+    def clean_varchar(self, value, max_length):
+        """Clean varchar field with length limit"""
         if pd.isna(value) or value == "nan" or value == "":
             return ""
-        issn = str(value).strip()
-        # Truncate to 9 characters if longer
-        return issn[:9] if len(issn) > 9 else issn
+        text = str(value).strip()
+        # Truncate to max_length if longer
+        return text[:max_length] if len(text) > max_length else text
+    
+    def clean_issn(self, value):
+        """Clean ISSN field (max 9 chars)"""
+        return self.clean_varchar(value, 9)
     
     def clean_date_tz(self, value):
         """Clean date field with timezone awareness"""

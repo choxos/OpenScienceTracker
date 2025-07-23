@@ -54,13 +54,27 @@ class Command(BaseCommand):
             mask_valid = False
             for field in key_fields:
                 if field in df.columns:
-                    mask_valid |= (df[field].notna()) & (df[field] != '') & (df[field] != 'nan')
+                    mask_valid |= (df[field].notna()) & (df[field] != '') & (df[field] != 'nan') & (df[field] != 'None')
             
-            if mask_valid is not False:
-                original_len = len(df)
-                df = df[mask_valid]
-                filtered_len = len(df)
-                self.stdout.write(f"🔍 Filtered {original_len - filtered_len} empty journal records")
+            # If no valid mask created, create one that excludes completely empty rows
+            if mask_valid is False:
+                mask_valid = ~(df.isnull().all(axis=1))
+            
+            original_len = len(df)
+            df = df[mask_valid].copy()  # Use copy() to avoid warnings
+            filtered_len = len(df)
+            self.stdout.write(f"🔍 Filtered {original_len - filtered_len} empty journal records")
+            
+            # Additional cleaning for title_abbreviation after filtering
+            if 'title_abbreviation' in df.columns:
+                # Replace any remaining NaN/empty with truncated title_full
+                mask_bad_title = (df['title_abbreviation'].isnull()) | (df['title_abbreviation'] == '') | (df['title_abbreviation'] == 'nan')
+                if mask_bad_title.sum() > 0:
+                    self.stdout.write(f"🔧 Fixing {mask_bad_title.sum()} bad title_abbreviation values")
+                    if 'title_full' in df.columns:
+                        df.loc[mask_bad_title, 'title_abbreviation'] = df.loc[mask_bad_title, 'title_full'].str[:50].fillna('Unknown Journal')
+                    else:
+                        df.loc[mask_bad_title, 'title_abbreviation'] = 'Unknown Journal'
             
             # Add timestamp fields
             current_time = timezone.now()
