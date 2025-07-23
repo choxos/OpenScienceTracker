@@ -4,6 +4,7 @@ from tracker.models import Journal
 import pandas as pd
 import os
 from io import StringIO
+from django.utils import timezone
 
 class Command(BaseCommand):
     help = 'Ultra-fast import dental journals using PostgreSQL COPY (up to 77x faster)'
@@ -38,6 +39,11 @@ class Command(BaseCommand):
             for col in df.select_dtypes(include=['object']).columns:
                 df[col] = df[col].astype(str).fillna('')
             
+            # Add timestamp fields for Django auto fields (COPY bypasses ORM)
+            current_time = timezone.now()
+            df['created_at'] = current_time
+            df['updated_at'] = current_time
+            
             # Reorder columns to match model field order for COPY
             column_order = [
                 'nlm_id', 'title_abbreviation', 'title_full', 'authors',
@@ -45,7 +51,8 @@ class Command(BaseCommand):
                 'country', 'publisher', 'language', 'issn_electronic', 
                 'issn_print', 'issn_linking', 'lccn', 'electronic_links',
                 'indexing_status', 'mesh_terms', 'publication_types', 
-                'notes', 'broad_subject_terms', 'subject_term_count'
+                'notes', 'broad_subject_terms', 'subject_term_count',
+                'created_at', 'updated_at'
             ]
             
             # Ensure all columns exist
