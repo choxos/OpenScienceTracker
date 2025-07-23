@@ -56,15 +56,15 @@ class Command(BaseCommand):
             # Select and reorder columns
             df_ordered = df[column_order]
             
-            # Create in-memory CSV buffer for COPY command
+            # Create in-memory CSV buffer for COPY command with headers
             csv_buffer = StringIO()
-            df_ordered.to_csv(csv_buffer, index=False, header=False, sep='\t', na_rep='')
+            df_ordered.to_csv(csv_buffer, index=False, header=True, sep='\t', na_rep='')
             csv_buffer.seek(0)
             
             # Use PostgreSQL COPY for ultra-fast bulk insert
             # No transaction.atomic() - django-postgres-copy manages its own transactions
-            # Map CSV columns to model fields
-            mapping = dict(zip(range(len(column_order)), column_order))
+            # Map CSV columns to model fields by name (since we have headers)
+            mapping = {col: col for col in column_order}
             
             Journal.objects.from_csv(
                 csv_buffer,
