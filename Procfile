@@ -1,1 +1,0 @@
-web: python manage.py migrate && python manage.py test_railway_import && python manage.py import_dental_journals_fast && python manage.py collectstatic --noinput && gunicorn ost_web.wsgi --log-file -
