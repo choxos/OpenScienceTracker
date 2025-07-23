@@ -20,6 +20,12 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS('🦷 Importing Dental Journals to Railway Database'))
         self.stdout.write('=' * 60)
         
+        # Check if dental journals are already imported
+        existing_dental_count = Journal.objects.filter(broad_subject_terms__icontains='Dentistry').count()
+        if existing_dental_count > 100:  # Assume if we have >100 dental journals, import was already done
+            self.stdout.write(self.style.WARNING(f'✅ Dental journals already imported ({existing_dental_count:,} found). Skipping import.'))
+            return
+        
         # Check if CSV file exists
         csv_file = 'dental_journals_ost.csv'
         try:
