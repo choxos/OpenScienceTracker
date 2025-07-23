@@ -4,9 +4,7 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "python manage.py migrate && python manage.py collectstatic --noinput && gunicorn ost_web.wsgi --log-file -",
-    "healthcheckPath": "/",
-    "healthcheckTimeout": 100,
+    "startCommand": "python manage.py migrate && python manage.py test_railway_import && python manage.py import_dental_journals_fast && python manage.py collectstatic --noinput && gunicorn ost_web.wsgi --log-file -",
     "restartPolicyType": "ON_FAILURE",
     "restartPolicyMaxRetries": 10
   }

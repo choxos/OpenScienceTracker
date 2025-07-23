@@ -1,5 +1,8 @@
 [variables]
-NIXPACKS_NO_DJANGO_COLLECTSTATIC = "true"
+NIXPACKS_NO_DJANGO_COLLECTSTATIC = "1"
 
-[start]
+[phases.build]
+cmds = ["echo 'Custom build phase - nixpacks.toml detected'"]
+
+[phases.start]
 cmd = "python manage.py migrate && python manage.py test_railway_import && python manage.py import_dental_journals_fast && python manage.py collectstatic --noinput && gunicorn ost_web.wsgi --log-file -" 
