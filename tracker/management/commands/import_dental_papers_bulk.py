@@ -44,7 +44,7 @@ class Command(BaseCommand):
                     title=self.clean_field(row.get('title')) or 'Unknown Title',
                     author_string=self.clean_field(row.get('authorString')),
                     journal_title=self.clean_field(row.get('journalTitle')) or 'Unknown Journal',
-                    journal_issn=self.clean_field(row.get('journalIssn')),
+                    journal_issn=self.clean_issn(row.get('journalIssn')),
                     pub_year=self.clean_year(row.get('year_firstpub')) or 2020,
                     first_publication_date=self.clean_date(row.get('firstPublicationDate')),
                     year_first_pub=self.clean_year(row.get('year_firstpub')),
@@ -71,7 +71,7 @@ class Command(BaseCommand):
                     # Assessment metadata
                     assessment_tool=self.clean_field(row.get('assessment_tool')) or 'rtransparent',
                     ost_version=self.clean_field(row.get('ost_version')) or '1.0',
-                    assessment_date=self.clean_date(row.get('assessment_date')),
+                    assessment_date=self.clean_date_tz(row.get('assessment_date')),
                     
                     # Journal reference (default to 1 if no match)
                     journal_id=1,
@@ -147,6 +147,30 @@ class Command(BaseCommand):
             return float(value)
         except (ValueError, TypeError):
             return None
+    
+    def clean_issn(self, value):
+        """Clean ISSN field (max 9 chars)"""
+        if pd.isna(value) or value == "nan" or value == "":
+            return ""
+        issn = str(value).strip()
+        # Truncate to 9 characters if longer
+        return issn[:9] if len(issn) > 9 else issn
+    
+    def clean_date_tz(self, value):
+        """Clean date field with timezone awareness"""
+        if pd.isna(value) or value == "nan" or value == "":
+            return None
+        try:
+            from django.utils import timezone as tz
+            dt = pd.to_datetime(value, errors='coerce')
+            if dt is not None and not pd.isna(dt):
+                # Make timezone-aware if naive
+                if dt.tzinfo is None:
+                    return tz.make_aware(dt, tz.get_current_timezone())
+                return dt
+        except:
+            pass
+        return None
     
     def clean_date(self, value):
         """Clean date field"""
