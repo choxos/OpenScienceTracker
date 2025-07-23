@@ -1,0 +1,394 @@
+{% extends 'tracker/base.html' %}
+{% load static %}
+
+{% block title %}{{ field.name }} - Research Field Details{% endblock %}
+
+{% block extra_head %}
+<style>
+    .field-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 10px;
+        padding: 2rem;
+        margin-bottom: 2rem;
+    }
+    .stat-card {
+        background: white;
+        border-radius: 10px;
+        padding: 1.5rem;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        border-left: 4px solid #007bff;
+        margin-bottom: 1rem;
+        transition: transform 0.2s;
+    }
+    .stat-card:hover {
+        transform: translateY(-2px);
+    }
+    .stat-number {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #007bff;
+    }
+    .stat-label {
+        color: #6c757d;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    .transparency-score {
+        font-size: 2.5rem;
+        font-weight: bold;
+    }
+    .score-excellent { color: #28a745; }
+    .score-good { color: #fd7e14; }
+    .score-poor { color: #dc3545; }
+    .progress-modern {
+        height: 20px;
+        border-radius: 10px;
+        background-color: #e9ecef;
+        overflow: hidden;
+    }
+    .progress-bar-modern {
+        height: 100%;
+        border-radius: 10px;
+        transition: width 0.6s ease;
+    }
+    .paper-card, .journal-card {
+        border: 1px solid #e3e6f0;
+        border-radius: 8px;
+        padding: 1rem;
+        margin-bottom: 0.5rem;
+        transition: box-shadow 0.2s;
+    }
+    .paper-card:hover, .journal-card:hover {
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+    .transparency-badge {
+        display: inline-block;
+        padding: 0.25rem 0.5rem;
+        margin: 0.125rem;
+        border-radius: 0.375rem;
+        font-size: 0.75rem;
+        font-weight: 500;
+    }
+    .transparency-yes {
+        background-color: #d1f2eb;
+        color: #0f5132;
+        border: 1px solid #a3e3c7;
+    }
+    .transparency-no {
+        background-color: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f1aeb5;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <!-- Breadcrumb -->
+    <nav aria-label="breadcrumb" class="mb-3">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
+            <li class="breadcrumb-item"><a href="{% url 'tracker:field_list' %}">Research Fields</a></li>
+            <li class="breadcrumb-item active" aria-current="page">{{ field.name }}</li>
+        </ol>
+    </nav>
+
+    <!-- Field Header -->
+    <div class="field-header">
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <h1 class="mb-2">
+                    <i class="fas fa-atom me-2"></i>
+                    {{ field.name }}
+                </h1>
+                {% if field.description %}
+                <p class="mb-2 lead">{{ field.description }}</p>
+                {% endif %}
+                {% if field.parent_field %}
+                <div class="mt-3">
+                    <span class="badge bg-light text-dark">
+                        <i class="fas fa-arrow-up me-1"></i>
+                        Parent Field: 
+                        <a href="{% url 'tracker:field_detail' field.parent_field.pk %}" class="text-dark text-decoration-none">
+                            {{ field.parent_field.name }}
+                        </a>
+                    </span>
+                </div>
+                {% endif %}
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="transparency-score 
+                    {% if field.avg_transparency_score >= 5 %}score-excellent
+                    {% elif field.avg_transparency_score >= 3 %}score-good
+                    {% else %}score-poor{% endif %}">
+                    {{ field.avg_transparency_score|floatformat:1 }}/8
+                </div>
+                <small class="text-white-50">Average Transparency Score</small>
+                <div class="progress-modern mt-2">
+                    <div class="progress-bar-modern
+                        {% if field.avg_transparency_score >= 5 %}bg-success
+                        {% elif field.avg_transparency_score >= 3 %}bg-warning
+                        {% else %}bg-danger{% endif %}" 
+                        style="width: {% widthratio field.avg_transparency_score 8 100 %}%">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- Statistics -->
+        <div class="col-lg-4">
+            <h3 class="mb-3">
+                <i class="fas fa-chart-bar me-2"></i>
+                Field Statistics
+            </h3>
+            
+            <div class="stat-card">
+                <div class="stat-number">{{ field.total_papers|default:0 }}</div>
+                <div class="stat-label">Total Papers</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-number">{{ field.total_journals|default:0 }}</div>
+                <div class="stat-label">Associated Journals</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-number">{{ field.avg_transparency_score|floatformat:1 }}</div>
+                <div class="stat-label">Avg Transparency Score</div>
+            </div>
+
+            <!-- Quick Actions -->
+            <div class="card mt-4">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-tools me-2"></i>
+                        Quick Actions
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="d-grid gap-2">
+                        <a href="{% url 'tracker:paper_list' %}?category={{ field.name|urlencode }}" 
+                           class="btn btn-primary">
+                            <i class="fas fa-file-alt me-1"></i> View All Papers
+                        </a>
+                        <a href="{% url 'tracker:journal_list' %}?subject={{ field.name|urlencode }}" 
+                           class="btn btn-outline-primary">
+                            <i class="fas fa-book me-1"></i> View Associated Journals
+                        </a>
+                        <a href="{% url 'tracker:statistics' %}?field={{ field.name|urlencode }}" 
+                           class="btn btn-outline-success">
+                            <i class="fas fa-chart-line me-1"></i> Detailed Statistics
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Field Metadata -->
+            <div class="card mt-4">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-info-circle me-2"></i>
+                        Metadata
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <p class="mb-2"><strong>Created:</strong> {{ field.created_at|date:"M d, Y" }}</p>
+                    <p class="mb-2"><strong>Last Updated:</strong> {{ field.updated_at|date:"M d, Y" }}</p>
+                    {% if field.parent_field %}
+                    <p class="mb-2">
+                        <strong>Parent Field:</strong> 
+                        <a href="{% url 'tracker:field_detail' field.parent_field.pk %}" class="text-decoration-none">
+                            {{ field.parent_field.name }}
+                        </a>
+                    </p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+
+        <!-- Content Tabs -->
+        <div class="col-lg-8">
+            <nav>
+                <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                    <button class="nav-link active" id="nav-papers-tab" data-bs-toggle="tab" 
+                            data-bs-target="#nav-papers" type="button" role="tab" 
+                            aria-controls="nav-papers" aria-selected="true">
+                        <i class="fas fa-file-alt me-1"></i> Recent Papers
+                    </button>
+                    <button class="nav-link" id="nav-journals-tab" data-bs-toggle="tab" 
+                            data-bs-target="#nav-journals" type="button" role="tab" 
+                            aria-controls="nav-journals" aria-selected="false">
+                        <i class="fas fa-book me-1"></i> Top Journals
+                    </button>
+                    <button class="nav-link" id="nav-trends-tab" data-bs-toggle="tab" 
+                            data-bs-target="#nav-trends" type="button" role="tab" 
+                            aria-controls="nav-trends" aria-selected="false">
+                        <i class="fas fa-chart-line me-1"></i> Transparency Trends
+                    </button>
+                </div>
+            </nav>
+            
+            <div class="tab-content" id="nav-tabContent">
+                <!-- Recent Papers Tab -->
+                <div class="tab-pane fade show active" id="nav-papers" role="tabpanel" 
+                     aria-labelledby="nav-papers-tab">
+                    <div class="mt-3">
+                        <h5 class="mb-3">Recent Papers in {{ field.name }}</h5>
+                        <div id="recent-papers">
+                            <div class="text-center py-4">
+                                <div class="spinner-border text-primary" role="status">
+                                    <span class="visually-hidden">Loading...</span>
+                                </div>
+                                <p class="mt-2 text-muted">Loading recent papers...</p>
+                            </div>
+                        </div>
+                        <div class="text-center mt-3">
+                            <a href="{% url 'tracker:paper_list' %}?category={{ field.name|urlencode }}" 
+                               class="btn btn-outline-primary">
+                                View All Papers in {{ field.name }}
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Top Journals Tab -->
+                <div class="tab-pane fade" id="nav-journals" role="tabpanel" 
+                     aria-labelledby="nav-journals-tab">
+                    <div class="mt-3">
+                        <h5 class="mb-3">Top Journals in {{ field.name }}</h5>
+                        <div id="top-journals">
+                            <div class="text-center py-4">
+                                <div class="spinner-border text-primary" role="status">
+                                    <span class="visually-hidden">Loading...</span>
+                                </div>
+                                <p class="mt-2 text-muted">Loading journals...</p>
+                            </div>
+                        </div>
+                        <div class="text-center mt-3">
+                            <a href="{% url 'tracker:journal_list' %}?subject={{ field.name|urlencode }}" 
+                               class="btn btn-outline-primary">
+                                View All Journals in {{ field.name }}
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Transparency Trends Tab -->
+                <div class="tab-pane fade" id="nav-trends" role="tabpanel" 
+                     aria-labelledby="nav-trends-tab">
+                    <div class="mt-3">
+                        <h5 class="mb-3">Transparency Trends</h5>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <h6 class="card-title">Data Sharing</h6>
+                                        <div class="display-6 text-info" id="data-sharing-pct">--%</div>
+                                        <small class="text-muted">of papers share data</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <h6 class="card-title">Code Sharing</h6>
+                                        <div class="display-6 text-success" id="code-sharing-pct">--%</div>
+                                        <small class="text-muted">of papers share code</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <h6 class="card-title">COI Disclosure</h6>
+                                        <div class="display-6 text-warning" id="coi-disclosure-pct">--%</div>
+                                        <small class="text-muted">disclose conflicts</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <h6 class="card-title">Open Access</h6>
+                                        <div class="display-6 text-primary" id="open-access-pct">--%</div>
+                                        <small class="text-muted">are open access</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const fieldName = "{{ field.name|escapejs }}";
+    
+    // Load recent papers when tab is shown
+    document.getElementById('nav-papers-tab').addEventListener('shown.bs.tab', function (e) {
+        loadRecentPapers();
+    });
+    
+    // Load journals when tab is shown
+    document.getElementById('nav-journals-tab').addEventListener('shown.bs.tab', function (e) {
+        loadTopJournals();
+    });
+    
+    // Load trends when tab is shown
+    document.getElementById('nav-trends-tab').addEventListener('shown.bs.tab', function (e) {
+        loadTransparencyTrends();
+    });
+    
+    // Load initial content
+    loadRecentPapers();
+    
+    function loadRecentPapers() {
+        const url = "{% url 'tracker:paper_list' %}?category=" + encodeURIComponent(fieldName) + "&format=json";
+        
+        // Simulated content for now - you can implement AJAX loading later
+        setTimeout(() => {
+            document.getElementById('recent-papers').innerHTML = `
+                <div class="alert alert-info">
+                    <i class="fas fa-info-circle me-2"></i>
+                    Recent papers functionality coming soon. 
+                    <a href="{% url 'tracker:paper_list' %}?category={{ field.name|urlencode }}" class="alert-link">
+                        View all papers now
+                    </a>
+                </div>
+            `;
+        }, 1000);
+    }
+    
+    function loadTopJournals() {
+        setTimeout(() => {
+            document.getElementById('top-journals').innerHTML = `
+                <div class="alert alert-info">
+                    <i class="fas fa-info-circle me-2"></i>
+                    Top journals functionality coming soon. 
+                    <a href="{% url 'tracker:journal_list' %}?subject={{ field.name|urlencode }}" class="alert-link">
+                        View all journals now
+                    </a>
+                </div>
+            `;
+        }, 1000);
+    }
+    
+    function loadTransparencyTrends() {
+        // Simulated data - you can implement real API calls later
+        setTimeout(() => {
+            document.getElementById('data-sharing-pct').textContent = '{{ field.avg_transparency_score|floatformat:0 }}%';
+            document.getElementById('code-sharing-pct').textContent = '{{ field.avg_transparency_score|add:"-1"|floatformat:0 }}%';
+            document.getElementById('coi-disclosure-pct').textContent = '{{ field.avg_transparency_score|add:"-0.5"|floatformat:0 }}%';
+            document.getElementById('open-access-pct').textContent = '{{ field.avg_transparency_score|add:"1"|floatformat:0 }}%';
+        }, 1000);
+    }
+});
+</script>
+{% endblock %} 
