@@ -49,6 +49,19 @@ class Command(BaseCommand):
                 else:
                     df.loc[mask, 'title_abbreviation'] = 'Unknown Journal'
             
+            # Filter out completely empty rows (all key fields are null/empty)
+            key_fields = ['title_abbreviation', 'title_full', 'broad_subject_terms']
+            mask_valid = False
+            for field in key_fields:
+                if field in df.columns:
+                    mask_valid |= (df[field].notna()) & (df[field] != '') & (df[field] != 'nan')
+            
+            if mask_valid is not False:
+                original_len = len(df)
+                df = df[mask_valid]
+                filtered_len = len(df)
+                self.stdout.write(f"🔍 Filtered {original_len - filtered_len} empty journal records")
+            
             # Add timestamp fields
             current_time = timezone.now()
             df['created_at'] = current_time

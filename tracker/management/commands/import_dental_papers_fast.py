@@ -42,7 +42,7 @@ class Command(BaseCommand):
             if 'firstPublicationDate' in df.columns:
                 df['first_publication_date'] = pd.to_datetime(df['firstPublicationDate'], errors='coerce')
             
-            # Handle boolean fields
+            # Handle boolean fields - map to proper True/False, default False for NULL
             boolean_fields = [
                 'is_research', 'is_review', 'is_coi_pred', 'is_fund_pred', 'is_register_pred',
                 'is_open_data', 'is_open_code', 'is_replication', 'is_novelty'
@@ -50,6 +50,16 @@ class Command(BaseCommand):
             for col in boolean_fields:
                 if col in df.columns:
                     df[col] = df[col].astype(str).str.upper().isin(['TRUE', '1', 'YES'])
+            
+            # Handle disc_* boolean fields (Django model has default=False)
+            disc_fields = ['disc_data', 'disc_code', 'disc_coi', 'disc_fund', 'disc_register', 'disc_replication', 'disc_novelty']
+            for col in disc_fields:
+                if col in df.columns:
+                    # Convert to boolean, defaulting False for NULL/empty
+                    df[col] = df[col].astype(str).str.upper().isin(['TRUE', '1', 'YES'])
+                else:
+                    # Add missing disc fields with False default
+                    df[col] = False
             
             # Clean string fields
             string_fields = ['pmid', 'pmcid', 'doi', 'title', 'authorString', 'journalTitle', 'journalIssn']
@@ -88,6 +98,13 @@ class Command(BaseCommand):
                 'is_replication': 'is_replication',
                 'is_novelty': 'is_novelty',
                 'transparency_score': 'transparency_score',
+                'disc_data': 'disc_data',
+                'disc_code': 'disc_code', 
+                'disc_coi': 'disc_coi',
+                'disc_fund': 'disc_fund',
+                'disc_register': 'disc_register',
+                'disc_replication': 'disc_replication',
+                'disc_novelty': 'disc_novelty',
                 'created_at': 'created_at',
                 'updated_at': 'updated_at'
             }
