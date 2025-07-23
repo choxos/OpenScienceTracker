@@ -35,9 +35,19 @@ class Command(BaseCommand):
                 if col in df.columns:
                     df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0).astype(int)
             
-            # Clean string fields
+            # Clean string fields and handle required fields
             for col in df.select_dtypes(include=['object']).columns:
                 df[col] = df[col].astype(str).fillna('')
+            
+            # Handle required title_abbreviation field - use title_full if empty
+            if 'title_abbreviation' in df.columns:
+                df['title_abbreviation'] = df['title_abbreviation'].fillna('')
+                # If title_abbreviation is empty, use truncated title_full
+                mask = (df['title_abbreviation'] == '') | (df['title_abbreviation'] == 'nan')
+                if 'title_full' in df.columns:
+                    df.loc[mask, 'title_abbreviation'] = df.loc[mask, 'title_full'].str[:50]
+                else:
+                    df.loc[mask, 'title_abbreviation'] = 'Unknown Journal'
             
             # Add timestamp fields
             current_time = timezone.now()

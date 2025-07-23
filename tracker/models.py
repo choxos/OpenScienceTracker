@@ -137,6 +137,9 @@ class Paper(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     
+    # Add CopyManager for fast CSV imports
+    objects = CopyManager()
+    
     class Meta:
         ordering = ['-pub_year', 'title']
         indexes = [
