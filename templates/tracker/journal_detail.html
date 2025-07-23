@@ -1,0 +1,288 @@
+{% extends 'tracker/base.html' %}
+{% load static %}
+
+{% block title %}{{ journal.title_abbreviation }} - Journal Details{% endblock %}
+
+{% block extra_css %}
+<style>
+    .journal-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 2rem 0;
+        margin-bottom: 2rem;
+        border-radius: 10px;
+    }
+    .stat-card {
+        transition: transform 0.2s;
+        border-radius: 10px;
+    }
+    .stat-card:hover {
+        transform: translateY(-2px);
+    }
+    .transparency-badge {
+        font-size: 0.8em;
+        padding: 0.25rem 0.5rem;
+    }
+    .paper-card {
+        border-left: 4px solid #007bff;
+        transition: all 0.2s;
+    }
+    .paper-card:hover {
+        border-left-color: #28a745;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <!-- Breadcrumb -->
+    <nav aria-label="breadcrumb" class="mb-3">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
+            <li class="breadcrumb-item"><a href="{% url 'tracker:journal_list' %}">Journals</a></li>
+            <li class="breadcrumb-item active">{{ journal.title_abbreviation }}</li>
+        </ol>
+    </nav>
+
+    <!-- Journal Header -->
+    <div class="journal-header">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <h1 class="mb-2">
+                        <i class="fas fa-book me-2"></i>
+                        {{ journal.title_abbreviation }}
+                    </h1>
+                    <h2 class="h4 mb-3 opacity-75">{{ journal.title_full }}</h2>
+                    
+                    <div class="row text-white-50">
+                        <div class="col-md-6">
+                            {% if journal.country %}
+                            <p class="mb-1"><i class="fas fa-globe me-2"></i><strong>Country:</strong> {{ journal.country }}</p>
+                            {% endif %}
+                            {% if journal.publisher %}
+                            <p class="mb-1"><i class="fas fa-building me-2"></i><strong>Publisher:</strong> {{ journal.publisher|truncatechars:50 }}</p>
+                            {% endif %}
+                            {% if journal.language %}
+                            <p class="mb-1"><i class="fas fa-language me-2"></i><strong>Language:</strong> {{ journal.language }}</p>
+                            {% endif %}
+                        </div>
+                        <div class="col-md-6">
+                            {% if journal.issn_print %}
+                            <p class="mb-1"><i class="fas fa-barcode me-2"></i><strong>Print ISSN:</strong> {{ journal.issn_print }}</p>
+                            {% endif %}
+                            {% if journal.issn_electronic %}
+                            <p class="mb-1"><i class="fas fa-wifi me-2"></i><strong>Electronic ISSN:</strong> {{ journal.issn_electronic }}</p>
+                            {% endif %}
+                            {% if journal.publication_start_year %}
+                            <p class="mb-1"><i class="fas fa-calendar me-2"></i><strong>Started:</strong> {{ journal.publication_start_year }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <div class="card bg-white text-dark stat-card">
+                        <div class="card-body">
+                            <div class="text-primary mb-2">
+                                <i class="fas fa-file-alt fa-3x"></i>
+                            </div>
+                            <h3 class="mb-1 text-primary">{{ journal.papers.count }}</h3>
+                            <p class="mb-0">Papers in Database</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Subject Areas -->
+    {% if journal.broad_subject_terms %}
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card border-0 shadow">
+                <div class="card-body">
+                    <h5 class="mb-3">
+                        <i class="fas fa-tags me-2"></i>
+                        Subject Areas
+                    </h5>
+                    <div class="d-flex flex-wrap gap-2">
+                        {% for term in journal.broad_subject_terms|split:";" %}
+                            {% if term.strip %}
+                            <span class="badge bg-primary">{{ term.strip }}</span>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Journal Statistics -->
+    <div class="row mb-4">
+        <div class="col-md-3 col-sm-6 mb-3">
+            <div class="card stat-card border-0 shadow h-100">
+                <div class="card-body text-center">
+                    <div class="text-success mb-2">
+                        <i class="fas fa-chart-line fa-2x"></i>
+                    </div>
+                    <h4 class="text-success">{{ journal.papers.count }}</h4>
+                    <p class="mb-0">Total Papers</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-3 col-sm-6 mb-3">
+            <div class="card stat-card border-0 shadow h-100">
+                <div class="card-body text-center">
+                    <div class="text-info mb-2">
+                        <i class="fas fa-calendar fa-2x"></i>
+                    </div>
+                    <h4 class="text-info">
+                        {% if journal.papers.exists %}
+                            {{ journal.papers.aggregate.year_range.min }} - {{ journal.papers.aggregate.year_range.max }}
+                        {% else %}
+                            N/A
+                        {% endif %}
+                    </h4>
+                    <p class="mb-0">Year Range</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-3 col-sm-6 mb-3">
+            <div class="card stat-card border-0 shadow h-100">
+                <div class="card-body text-center">
+                    <div class="text-warning mb-2">
+                        <i class="fas fa-star fa-2x"></i>
+                    </div>
+                    <h4 class="text-warning">
+                        {% if journal.papers.exists %}
+                            {{ journal.papers.aggregate.avg_transparency_score.transparency_score__avg|floatformat:1|default:"0.0" }}
+                        {% else %}
+                            N/A
+                        {% endif %}
+                    </h4>
+                    <p class="mb-0">Avg Transparency</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-3 col-sm-6 mb-3">
+            <div class="card stat-card border-0 shadow h-100">
+                <div class="card-body text-center">
+                    <div class="text-danger mb-2">
+                        <i class="fas fa-database fa-2x"></i>
+                    </div>
+                    <h4 class="text-danger">
+                        {% if journal.papers.exists %}
+                            {{ journal.papers.filter.is_open_data=True.count }}
+                        {% else %}
+                            0
+                        {% endif %}
+                    </h4>
+                    <p class="mb-0">Open Data Papers</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Recent Papers -->
+    <div class="row">
+        <div class="col-12">
+            <div class="card border-0 shadow">
+                <div class="card-header bg-white border-bottom">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h3 class="mb-0">
+                            <i class="fas fa-file-alt me-2"></i>
+                            Recent Papers
+                        </h3>
+                        {% if journal.papers.count > 10 %}
+                        <a href="{% url 'tracker:paper_list' %}?journal={{ journal.id }}" class="btn btn-outline-primary">
+                            View All {{ journal.papers.count }} Papers
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="card-body">
+                    {% if journal.papers.exists %}
+                        {% for paper in journal.papers.all|slice:":10" %}
+                        <div class="paper-card p-3 mb-3 border rounded">
+                            <div class="d-flex justify-content-between align-items-start">
+                                <div class="flex-grow-1">
+                                    <h5 class="mb-2">
+                                        <a href="{% url 'tracker:paper_detail' paper.pmid %}" class="text-decoration-none">
+                                            {{ paper.title|truncatechars:120 }}
+                                        </a>
+                                    </h5>
+                                    {% if paper.author_string %}
+                                    <p class="mb-2 text-muted small">
+                                        <i class="fas fa-users me-1"></i>
+                                        {{ paper.author_string|truncatechars:100 }}
+                                    </p>
+                                    {% endif %}
+                                    <div class="d-flex align-items-center gap-3">
+                                        <small class="text-muted">
+                                            <i class="fas fa-calendar me-1"></i>
+                                            {{ paper.pub_year }}
+                                        </small>
+                                        {% if paper.pmid %}
+                                        <small class="text-muted">
+                                            <i class="fas fa-hashtag me-1"></i>
+                                            PMID: {{ paper.pmid }}
+                                        </small>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                                <div class="text-end">
+                                    <span class="badge transparency-badge {% if paper.transparency_score >= 5 %}bg-success{% elif paper.transparency_score >= 3 %}bg-warning{% else %}bg-secondary{% endif %}">
+                                        {{ paper.transparency_score }}/7
+                                    </span>
+                                </div>
+                            </div>
+                            
+                            <!-- Transparency Indicators -->
+                            {% if paper.is_open_data or paper.is_open_code or paper.is_coi_pred or paper.is_fund_pred %}
+                            <div class="mt-2">
+                                {% if paper.is_open_data %}
+                                <span class="badge bg-success me-1"><i class="fas fa-database me-1"></i>Data</span>
+                                {% endif %}
+                                {% if paper.is_open_code %}
+                                <span class="badge bg-info me-1"><i class="fas fa-code me-1"></i>Code</span>
+                                {% endif %}
+                                {% if paper.is_coi_pred %}
+                                <span class="badge bg-warning me-1"><i class="fas fa-balance-scale me-1"></i>COI</span>
+                                {% endif %}
+                                {% if paper.is_fund_pred %}
+                                <span class="badge bg-primary me-1"><i class="fas fa-money-bill-wave me-1"></i>Funding</span>
+                                {% endif %}
+                            </div>
+                            {% endif %}
+                        </div>
+                        {% endfor %}
+                    {% else %}
+                        <div class="text-center py-5">
+                            <div class="text-muted mb-3">
+                                <i class="fas fa-file-alt fa-3x"></i>
+                            </div>
+                            <h5 class="text-muted">No papers found</h5>
+                            <p class="text-muted">This journal doesn't have any papers in our database yet.</p>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Back to Journals -->
+    <div class="row mt-4">
+        <div class="col-12 text-center">
+            <a href="{% url 'tracker:journal_list' %}" class="btn btn-outline-secondary">
+                <i class="fas fa-arrow-left me-2"></i>
+                Back to Journals List
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %} 
