@@ -99,8 +99,18 @@
         </div>
     </header>
 
+    <!-- Ajax Loading Indicator -->
+    <div id="ajax-loading" class="ajax-loading-overlay" style="display: none;">
+        <div class="ajax-loading-spinner">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="mt-2">Loading...</div>
+        </div>
+    </div>
+
     <!-- Main Content Area -->
-    <main class="xera-main-content">
+    <main class="xera-main-content" id="main-content">
         <div class="xera-container{% if full_width %}-fluid{% endif %}">
             
             <!-- Breadcrumb Navigation -->
@@ -304,6 +314,287 @@
     {% if not debug %}
     <!-- Add your analytics code here -->
     {% endif %}
+    
+    <!-- Ajax Navigation System -->
+    <style>
+        .ajax-loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.9);
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .ajax-loading-spinner {
+            text-align: center;
+            color: var(--xera-primary);
+            font-weight: 500;
+        }
+        
+        .content-transition {
+            opacity: 0;
+            transform: translateY(10px);
+            transition: opacity 0.3s ease, transform 0.3s ease;
+        }
+        
+        .content-transition.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+
+    <script>
+        class AjaxNavigator {
+            constructor() {
+                this.currentPage = null;
+                this.cache = new Map();
+                this.loadingElement = document.getElementById('ajax-loading');
+                this.mainContent = document.getElementById('main-content');
+                this.initializeNavigation();
+                this.bindEvents();
+            }
+            
+            initializeNavigation() {
+                this.currentPage = window.location.pathname;
+                this.updateActiveNavLink();
+                
+                window.addEventListener('popstate', (event) => {
+                    if (event.state && event.state.url) {
+                        this.loadPage(event.state.url, false);
+                    } else {
+                        window.location.reload();
+                    }
+                });
+                
+                history.replaceState({ url: this.currentPage }, '', this.currentPage);
+            }
+            
+            bindEvents() {
+                document.addEventListener('click', (event) => {
+                    const link = event.target.closest('[data-ajax-link]');
+                    if (link && !this.isExternalLink(link.href)) {
+                        event.preventDefault();
+                        const url = link.getAttribute('href');
+                        this.navigateToPage(url);
+                    }
+                });
+                
+                document.addEventListener('click', (event) => {
+                    const navLink = event.target.closest('.xera-nav-link');
+                    if (navLink && !this.isExternalLink(navLink.href) && !navLink.hasAttribute('target')) {
+                        event.preventDefault();
+                        const url = navLink.getAttribute('href');
+                        this.navigateToPage(url);
+                    }
+                });
+                
+                document.addEventListener('submit', (event) => {
+                    const form = event.target.closest('[data-ajax-form]');
+                    if (form) {
+                        event.preventDefault();
+                        this.submitForm(form);
+                    }
+                });
+            }
+            
+            isExternalLink(url) {
+                return url && (url.startsWith('http') || url.startsWith('mailto') || url.includes('://'));
+            }
+            
+            async navigateToPage(url) {
+                if (url === this.currentPage) return;
+                this.closeMobileMenu();
+                await this.loadPage(url, true);
+            }
+            
+            async loadPage(url, addToHistory = true) {
+                try {
+                    this.showLoading();
+                    
+                    const ajaxUrl = this.getAjaxUrl(url);
+                    
+                    let content;
+                    if (this.cache.has(ajaxUrl)) {
+                        content = this.cache.get(ajaxUrl);
+                        await new Promise(resolve => setTimeout(resolve, 100));
+                    } else {
+                        const response = await fetch(ajaxUrl, {
+                            headers: { 'X-Requested-With': 'XMLHttpRequest' }
+                        });
+                        
+                        if (!response.ok) {
+                            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                        }
+                        
+                        content = await response.text();
+                        
+                        if (this.cache.size > 20) {
+                            const firstKey = this.cache.keys().next().value;
+                            this.cache.delete(firstKey);
+                        }
+                        this.cache.set(ajaxUrl, content);
+                    }
+                    
+                    await this.updateContent(content);
+                    
+                    if (addToHistory) {
+                        history.pushState({ url: url }, '', url);
+                    }
+                    
+                    this.currentPage = url;
+                    this.updateActiveNavLink();
+                    this.updatePageTitle(content);
+                    
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                    
+                } catch (error) {
+                    console.error('Ajax navigation error:', error);
+                    window.location.href = url;
+                } finally {
+                    this.hideLoading();
+                }
+            }
+            
+            getAjaxUrl(url) {
+                const urlMap = {
+                    '/': '/ajax/',
+                    '/papers/': '/ajax/papers/',
+                    '/journals/': '/ajax/journals/',
+                    '/fields/': '/ajax/fields/',
+                    '/statistics/': '/ajax/statistics/',
+                    '/about/': '/ajax/about/'
+                };
+                
+                if (url.includes('?')) {
+                    const [path, params] = url.split('?');
+                    const ajaxPath = urlMap[path] || (path.startsWith('/papers/') ? path.replace('/papers/', '/ajax/papers/') : 
+                                                      path.startsWith('/journals/') ? path.replace('/journals/', '/ajax/journals/') :
+                                                      path.startsWith('/fields/') ? path.replace('/fields/', '/ajax/fields/') : path);
+                    return `${ajaxPath}?${params}`;
+                }
+                
+                if (url.startsWith('/papers/') && url !== '/papers/') {
+                    return url.replace('/papers/', '/ajax/papers/');
+                } else if (url.startsWith('/journals/') && url !== '/journals/') {
+                    return url.replace('/journals/', '/ajax/journals/');
+                } else if (url.startsWith('/fields/') && url !== '/fields/') {
+                    return url.replace('/fields/', '/ajax/fields/');
+                }
+                
+                return urlMap[url] || url;
+            }
+            
+            async updateContent(html) {
+                this.mainContent.classList.add('content-transition');
+                await new Promise(resolve => setTimeout(resolve, 150));
+                this.mainContent.innerHTML = html;
+                this.bindEvents();
+                setTimeout(() => this.mainContent.classList.add('show'), 10);
+                setTimeout(() => this.mainContent.classList.remove('content-transition', 'show'), 350);
+            }
+            
+            updateActiveNavLink() {
+                document.querySelectorAll('.xera-nav-link').forEach(link => {
+                    link.classList.remove('active');
+                });
+                
+                const currentLink = document.querySelector(`.xera-nav-link[href="${this.currentPage}"]`) ||
+                                  document.querySelector(`.xera-nav-link[href*="${this.currentPage.split('/')[1]}"]`);
+                if (currentLink) {
+                    currentLink.classList.add('active');
+                }
+            }
+            
+            updatePageTitle(html) {
+                const tempDiv = document.createElement('div');
+                tempDiv.innerHTML = html;
+                const title = tempDiv.querySelector('title, h1, h2');
+                if (title) {
+                    document.title = title.textContent + ' - Open Science Tracker';
+                }
+            }
+            
+            closeMobileMenu() {
+                const mobileNav = document.querySelector('#main-nav');
+                const mobileToggle = document.querySelector('.xera-mobile-menu-toggle');
+                if (mobileNav && mobileNav.classList.contains('show')) {
+                    mobileNav.classList.remove('show');
+                    mobileToggle.classList.remove('active');
+                }
+            }
+            
+            async submitForm(form) {
+                try {
+                    this.showLoading();
+                    
+                    const formData = new FormData(form);
+                    const url = form.action || this.currentPage;
+                    const method = form.method || 'GET';
+                    
+                    let ajaxUrl = this.getAjaxUrl(url);
+                    
+                    let response;
+                    if (method.toLowerCase() === 'get') {
+                        const params = new URLSearchParams(formData).toString();
+                        ajaxUrl = `${ajaxUrl}?${params}`;
+                        response = await fetch(ajaxUrl, {
+                            headers: { 'X-Requested-With': 'XMLHttpRequest' }
+                        });
+                    } else {
+                        response = await fetch(ajaxUrl, {
+                            method: method,
+                            body: formData,
+                            headers: { 'X-Requested-With': 'XMLHttpRequest' }
+                        });
+                    }
+                    
+                    if (!response.ok) {
+                        throw new Error(`HTTP ${response.status}`);
+                    }
+                    
+                    const content = await response.text();
+                    await this.updateContent(content);
+                    
+                    if (method.toLowerCase() === 'get') {
+                        const newUrl = url + (ajaxUrl.includes('?') ? '?' + ajaxUrl.split('?')[1] : '');
+                        history.pushState({ url: newUrl }, '', newUrl);
+                        this.currentPage = newUrl;
+                    }
+                    
+                } catch (error) {
+                    console.error('Ajax form submission error:', error);
+                    form.submit();
+                } finally {
+                    this.hideLoading();
+                }
+            }
+            
+            showLoading() {
+                if (this.loadingElement) {
+                    this.loadingElement.style.display = 'flex';
+                }
+            }
+            
+            hideLoading() {
+                if (this.loadingElement) {
+                    this.loadingElement.style.display = 'none';
+                }
+            }
+        }
+        
+        // Initialize Ajax navigation after DOM and existing scripts
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(() => {
+                window.ajaxNavigator = new AjaxNavigator();
+                console.log('🚀 Ajax Navigation System Initialized!');
+            }, 100);
+        });
+    </script>
     
     <!-- Service Worker for PWA (optional) -->
     <script>

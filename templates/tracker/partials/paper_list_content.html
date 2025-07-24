@@ -1,0 +1,497 @@
+{% load static %}
+
+<!-- Filter Section -->
+<section class="ost-filter-section">
+    <div class="xera-filter-header">
+        <h2 class="xera-filter-title">
+            <i class="fas fa-filter me-2"></i>
+            Search & Filter Papers
+        </h2>
+        <div class="xera-text-sm text-muted">
+            {{ papers.paginator.count }} papers found
+        </div>
+    </div>
+    
+    <form method="get" class="xera-filter-form" data-ajax-form>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="xera-form-group">
+                    <label class="xera-label">Search Terms</label>
+                    <input type="text" 
+                           name="q" 
+                           value="{{ request.GET.q }}" 
+                           class="xera-input" 
+                           placeholder="Search titles, authors, keywords, DOI, PMID..."
+                           data-search-debounce="300">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="xera-form-group">
+                            <label class="xera-label">Journal</label>
+                            <select name="journal" class="xera-select">
+                                <option value="">All Journals</option>
+                                {% for journal in available_journals %}
+                                <option value="{{ journal.id }}" {% if request.GET.journal == journal.id|stringformat:"s" %}selected{% endif %}>
+                                    {{ journal.title_abbreviation }}
+                                </option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="xera-form-group">
+                            <label class="xera-label">Year</label>
+                            <select name="year" class="xera-select">
+                                <option value="">All Years</option>
+                                {% for year in available_years %}
+                                <option value="{{ year }}" {% if request.GET.year == year|stringformat:"s" %}selected{% endif %}>
+                                    {{ year }}
+                                </option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="xera-form-group">
+                    <label class="xera-label">Research Field</label>
+                    <select name="broad_subject_term" class="xera-select">
+                        <option value="">All Fields</option>
+                        {% for category in available_categories %}
+                        <option value="{{ category }}" {% if request.GET.broad_subject_term == category %}selected{% endif %}>
+                            {{ category }}
+                        </option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="xera-form-group">
+                    <label class="xera-label">Publication Type</label>
+                    <select name="pub_type" class="xera-select">
+                        <option value="">All Types</option>
+                        {% for pub_type in available_pub_types %}
+                        <option value="{{ pub_type }}" {% if request.GET.pub_type == pub_type %}selected{% endif %}>
+                            {{ pub_type|capfirst|truncatechars:30 }}
+                        </option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="xera-form-group">
+                    <label class="xera-label">Overall Transparency Score</label>
+                    <select name="transparency" class="xera-select">
+                        <option value="">All Scores</option>
+                        <option value="high" {% if request.GET.transparency == "high" %}selected{% endif %}>High (5-6)</option>
+                        <option value="medium" {% if request.GET.transparency == "medium" %}selected{% endif %}>Medium (3-4)</option>
+                        <option value="low" {% if request.GET.transparency == "low" %}selected{% endif %}>Low (0-2)</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Individual Transparency Indicator Filters -->
+        <div class="mb-3">
+            <label class="xera-label">Transparency Indicators</label>
+            <div class="row g-2">
+                <div class="col-md-2">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="indicators" value="open_data" id="filter_open_data"
+                               {% if 'open_data' in selected_indicators %}checked{% endif %}>
+                        <label class="form-check-label" for="filter_open_data">
+                            <i class="fas fa-database me-1 text-success"></i>Open Data
+                        </label>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="indicators" value="open_code" id="filter_open_code"
+                               {% if 'open_code' in selected_indicators %}checked{% endif %}>
+                        <label class="form-check-label" for="filter_open_code">
+                            <i class="fas fa-code me-1 text-info"></i>Open Code
+                        </label>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="indicators" value="coi_disclosure" id="filter_coi"
+                               {% if 'coi_disclosure' in selected_indicators %}checked{% endif %}>
+                        <label class="form-check-label" for="filter_coi">
+                            <i class="fas fa-exclamation-triangle me-1 text-warning"></i>COI Disclosed
+                        </label>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="indicators" value="funding" id="filter_funding"
+                               {% if 'funding' in selected_indicators %}checked{% endif %}>
+                        <label class="form-check-label" for="filter_funding">
+                            <i class="fas fa-dollar-sign me-1 text-primary"></i>Funding Info
+                        </label>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="indicators" value="registration" id="filter_registration"
+                               {% if 'registration' in selected_indicators %}checked{% endif %}>
+                        <label class="form-check-label" for="filter_registration">
+                            <i class="fas fa-clipboard-list me-1 text-secondary"></i>Registered
+                        </label>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="indicators" value="open_access" id="filter_open_access"
+                               {% if 'open_access' in selected_indicators %}checked{% endif %}>
+                        <label class="form-check-label" for="filter_open_access">
+                            <i class="fas fa-unlock-alt me-1 text-success"></i>Open Access
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="xera-filter-actions">
+            <button type="submit" class="xera-btn xera-btn-ost">
+                <i class="fas fa-search me-1"></i>Search
+            </button>
+            <a href="{% url 'tracker:paper_list' %}" class="xera-btn xera-btn-secondary" data-ajax-link>
+                <i class="fas fa-times me-1"></i>Clear
+            </a>
+        </div>
+    </form>
+</section>
+
+<!-- Papers List -->
+<section>
+    <div class="xera-card">
+        <div class="xera-card-header">
+            <h2 class="xera-card-title">
+                <i class="fas fa-file-alt me-2"></i>
+                Research Papers
+                {% if request.GET.q %}
+                    <span class="xera-text-sm text-muted ms-2">- Search: "{{ request.GET.q }}"</span>
+                {% endif %}
+            </h2>
+            <div class="xera-text-sm text-muted">
+                Showing {{ papers|length }} of {{ papers.paginator.count }} papers
+            </div>
+        </div>
+        
+        <div class="xera-card-body xera-p-0">
+            <div class="xera-list-container">
+                {% for paper in papers %}
+                <div class="ost-paper-card">
+                    <div class="ost-paper-card-header">
+                        <div class="ost-paper-card-content">
+                            <h3 class="ost-paper-title">
+                                <a href="{% url 'tracker:paper_detail' paper.epmc_id %}" data-ajax-link>
+                                    {{ paper.title|truncatechars:120 }}
+                                </a>
+                            </h3>
+                            
+                            <div class="ost-paper-meta mb-2">
+                                <!-- Journal (clickable) -->
+                                <span class="d-flex align-items-center me-3">
+                                    <i class="fas fa-book me-1"></i>
+                                    {% if paper.journal %}
+                                        <a href="{% url 'tracker:journal_detail' paper.journal.id %}" class="text-decoration-none fw-medium" data-ajax-link>
+                                            {{ paper.journal.title_abbreviation }}
+                                        </a>
+                                    {% else %}
+                                        <a href="{% url 'tracker:paper_list' %}?q={{ paper.journal_title|urlencode }}" class="text-decoration-none fw-medium" data-ajax-link>
+                                            {{ paper.journal_title|default:"Unknown Journal" }}
+                                        </a>
+                                    {% endif %}
+                                </span>
+                                
+                                <!-- Year (clickable) -->
+                                <span class="d-flex align-items-center me-3">
+                                    <i class="fas fa-calendar me-1"></i>
+                                    {% if paper.pub_year %}
+                                        <a href="{% url 'tracker:paper_list' %}?year={{ paper.pub_year }}" class="text-decoration-none fw-medium" data-ajax-link>
+                                            {{ paper.pub_year }}
+                                        </a>
+                                    {% else %}
+                                        <span class="text-muted">Unknown Year</span>
+                                    {% endif %}
+                                </span>
+                                
+                                <!-- Authors (clickable) -->
+                                <span class="d-flex align-items-center me-3">
+                                    <i class="fas fa-user me-1"></i>
+                                    {% if paper.author_string %}
+                                        <a href="{% url 'tracker:paper_list' %}?q={{ paper.author_string|slice:":50"|urlencode }}" class="text-decoration-none fw-medium" data-ajax-link>
+                                            {{ paper.author_string|truncatechars:50 }}
+                                        </a>
+                                    {% else %}
+                                        <span class="text-muted">Unknown Author</span>
+                                    {% endif %}
+                                </span>
+                                
+                                <!-- Research Field -->
+                                {% if paper.broad_subject_term %}
+                                <span class="d-flex align-items-center me-3">
+                                    <i class="fas fa-atom me-1"></i>
+                                    <a href="{% url 'tracker:paper_list' %}?broad_subject_term={{ paper.broad_subject_term|urlencode }}" class="text-decoration-none fw-medium" data-ajax-link>
+                                        {{ paper.broad_subject_term }}
+                                    </a>
+                                </span>
+                                {% endif %}
+                                
+                                <!-- Publication Type -->
+                                {% if paper.pub_type %}
+                                <span class="d-flex align-items-center me-3">
+                                    <i class="fas fa-file-alt me-1"></i>
+                                    <a href="{% url 'tracker:paper_list' %}?pub_type={{ paper.pub_type|urlencode }}" class="text-decoration-none fw-medium" data-ajax-link>
+                                        {{ paper.pub_type|capfirst|truncatechars:25 }}
+                                    </a>
+                                </span>
+                                {% endif %}
+                            </div>
+                            
+                            <!-- Identifiers Row -->
+                            <div class="ost-paper-identifiers mb-2">
+                                {% if paper.pmid %}
+                                <span class="d-flex align-items-center me-3">
+                                    <i class="fas fa-hashtag me-1"></i>
+                                    <strong>PMID:</strong>
+                                    <a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/" target="_blank" class="text-decoration-none ms-1">
+                                        {{ paper.pmid }}
+                                        <i class="fas fa-external-link-alt fa-xs ms-1"></i>
+                                    </a>
+                                </span>
+                                {% endif %}
+                                
+                                {% if paper.pmcid %}
+                                <span class="d-flex align-items-center me-3">
+                                    <i class="fas fa-file-medical me-1"></i>
+                                    <strong>PMCID:</strong>
+                                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ paper.pmcid }}/" target="_blank" class="text-decoration-none ms-1">
+                                        {{ paper.pmcid }}
+                                        <i class="fas fa-external-link-alt fa-xs ms-1"></i>
+                                    </a>
+                                </span>
+                                {% endif %}
+                                
+                                {% if paper.doi %}
+                                <span class="d-flex align-items-center me-3">
+                                    <i class="fas fa-link me-1"></i>
+                                    <strong>DOI:</strong>
+                                    <a href="https://doi.org/{{ paper.doi }}" target="_blank" class="text-decoration-none ms-1">
+                                        {{ paper.doi|truncatechars:25 }}
+                                        <i class="fas fa-external-link-alt fa-xs ms-1"></i>
+                                    </a>
+                                </span>
+                                {% endif %}
+                                
+                                <!-- Open Access Status -->
+                                <span class="d-flex align-items-center">
+                                    <i class="fas fa-{% if paper.is_open_access %}unlock{% else %}lock{% endif %} me-1"></i>
+                                    <span class="badge bg-{% if paper.is_open_access %}success{% else %}secondary{% endif %}">
+                                        {% if paper.is_open_access %}Open Access{% else %}Subscription{% endif %}
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        
+                        <!-- Transparency Score Card -->
+                        <div class="ost-paper-card-actions ms-3">
+                            <div class="text-center">
+                                <div class="ost-transparency-score {% if paper.transparency_score >= 5 %}high{% elif paper.transparency_score >= 3 %}medium{% else %}low{% endif %} mb-2">
+                                    {{ paper.transparency_score|default:0 }}/6
+                                </div>
+                                <div class="xera-text-xs text-muted">
+                                    Overall Score
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Individual Transparency Indicators -->
+                    <div class="ost-paper-card-footer">
+                        <div class="d-flex flex-wrap gap-2 mb-3">
+                            <!-- Open Data -->
+                            <span class="ost-indicator {% if paper.is_open_data %}active{% else %}inactive{% endif %}">
+                                <i class="fas fa-database"></i>
+                                Open Data
+                                {% if paper.is_open_data %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
+                            </span>
+                            
+                            <!-- Open Code -->
+                            <span class="ost-indicator {% if paper.is_open_code %}active{% else %}inactive{% endif %}">
+                                <i class="fas fa-code"></i>
+                                Open Code
+                                {% if paper.is_open_code %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
+                            </span>
+                            
+                            <!-- COI Disclosure -->
+                            <span class="ost-indicator {% if paper.is_coi_pred %}active{% else %}inactive{% endif %}">
+                                <i class="fas fa-exclamation-triangle"></i>
+                                COI Disclosed
+                                {% if paper.is_coi_pred %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
+                            </span>
+                            
+                            <!-- Funding -->
+                            <span class="ost-indicator {% if paper.is_fund_pred %}active{% else %}inactive{% endif %}">
+                                <i class="fas fa-dollar-sign"></i>
+                                Funding Info
+                                {% if paper.is_fund_pred %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
+                            </span>
+                            
+                            <!-- Registration -->
+                            <span class="ost-indicator {% if paper.is_register_pred %}active{% else %}inactive{% endif %}">
+                                <i class="fas fa-clipboard-list"></i>
+                                Registered
+                                {% if paper.is_register_pred %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
+                            </span>
+                            
+                            <!-- Open Access -->
+                            <span class="ost-indicator {% if paper.is_open_access %}active{% else %}inactive{% endif %}">
+                                <i class="fas fa-unlock-alt"></i>
+                                Open Access
+                                {% if paper.is_open_access %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
+                            </span>
+                        </div>
+                        
+                        <div class="d-flex gap-2 justify-content-between align-items-center">
+                            <div class="d-flex gap-2">
+                                <a href="{% url 'tracker:paper_detail' paper.epmc_id %}" 
+                                   class="xera-btn xera-btn-primary xera-btn-sm" data-ajax-link>
+                                    <i class="fas fa-eye me-1"></i>View Details
+                                </a>
+                                
+                                {% if paper.doi %}
+                                <a href="https://doi.org/{{ paper.doi }}" 
+                                   target="_blank" 
+                                   class="xera-btn xera-btn-secondary xera-btn-sm">
+                                    <i class="fas fa-external-link-alt me-1"></i>DOI
+                                </a>
+                                {% endif %}
+                                
+                                {% if paper.pmid %}
+                                <a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/" 
+                                   target="_blank" 
+                                   class="xera-btn xera-btn-secondary xera-btn-sm">
+                                    <i class="fas fa-external-link-alt me-1"></i>PubMed
+                                </a>
+                                {% endif %}
+                            </div>
+                            
+                            <!-- Quick Stats -->
+                            <div class="d-flex gap-1 align-items-center xera-text-xs text-muted">
+                                <span title="Transparency Score">
+                                    <i class="fas fa-chart-line"></i>
+                                    {{ paper.transparency_score|default:0 }}/6
+                                </span>
+                                {% if paper.cited_by_count %}
+                                <span title="Citations" class="ms-2">
+                                    <i class="fas fa-quote-left"></i>
+                                    {{ paper.cited_by_count }}
+                                </span>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% empty %}
+                <div class="text-center py-5">
+                    <div class="text-muted mb-3">
+                        <i class="fas fa-search fa-3x"></i>
+                    </div>
+                    <h4 class="text-muted">No papers found</h4>
+                    <p class="text-muted">
+                        Try adjusting your search criteria or 
+                        <a href="{% url 'tracker:paper_list' %}" class="text-decoration-none" data-ajax-link>view all papers</a>.
+                    </p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Pagination -->
+{% if papers.has_other_pages %}
+<nav class="mt-4">
+    <div class="ost-pagination">
+        {% if papers.has_previous %}
+            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page=1" data-ajax-link>
+                <i class="fas fa-angle-double-left"></i>
+            </a>
+            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ papers.previous_page_number }}" data-ajax-link>
+                <i class="fas fa-angle-left"></i>
+            </a>
+        {% endif %}
+        
+        <span class="ost-pagination-info">
+            Page {{ papers.number }} of {{ papers.paginator.num_pages }}
+        </span>
+        
+        {% if papers.has_next %}
+            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ papers.next_page_number }}" data-ajax-link>
+                <i class="fas fa-angle-right"></i>
+            </a>
+            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ papers.paginator.num_pages }}" data-ajax-link>
+                <i class="fas fa-angle-double-right"></i>
+            </a>
+        {% endif %}
+    </div>
+</nav>
+{% endif %}
+
+<!-- Summary Statistics -->
+<div class="mt-4">
+    <div class="xera-card">
+        <div class="xera-card-body">
+            <h5 class="xera-card-title mb-3">
+                <i class="fas fa-chart-pie me-2"></i>
+                Current Search Results Summary
+            </h5>
+            <div class="row g-3">
+                <div class="col-md-2">
+                    <div class="text-center p-2 border rounded">
+                        <div class="fw-bold text-primary">{{ papers.paginator.count }}</div>
+                        <div class="xera-text-xs text-muted">Total Papers</div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="text-center p-2 border rounded">
+                        <div class="fw-bold text-success">
+                            {% widthratio papers.paginator.count 1 1 as total %}
+                            {% if total > 0 %}
+                                {% widthratio papers|length 1 total %}%
+                            {% else %}
+                                0%
+                            {% endif %}
+                        </div>
+                        <div class="xera-text-xs text-muted">Open Access</div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="text-center p-2 border rounded">
+                        <div class="fw-bold text-info">-</div>
+                        <div class="xera-text-xs text-muted">Avg Score</div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="d-flex justify-content-center gap-3">
+                        <a href="{% url 'tracker:statistics' %}" class="xera-btn xera-btn-outline xera-btn-sm" data-ajax-link>
+                            <i class="fas fa-chart-bar me-1"></i>View Statistics
+                        </a>
+                        <a href="#" class="xera-btn xera-btn-ghost xera-btn-sm" onclick="window.print()">
+                            <i class="fas fa-print me-1"></i>Print Results
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 

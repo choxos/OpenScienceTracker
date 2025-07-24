@@ -1,0 +1,72 @@
+{% load static %}
+
+<!-- Fields List -->
+<section>
+    <div class="xera-card">
+        <div class="xera-card-header">
+            <h2 class="xera-card-title">
+                <i class="fas fa-tags me-2"></i>
+                Research Fields
+            </h2>
+            <div class="xera-text-sm text-muted">
+                Browse transparency indicators by research domain
+            </div>
+        </div>
+        
+        <div class="xera-card-body">
+            <div class="row g-4">
+                {% for field in research_fields %}
+                <div class="col-md-6 col-lg-4">
+                    <div class="ost-field-card">
+                        <div class="ost-field-card-header">
+                            <h3 class="ost-field-card-title">
+                                <a href="{% url 'tracker:field_detail' field.id %}" class="text-decoration-none" data-ajax-link>
+                                    {{ field.name }}
+                                </a>
+                            </h3>
+                        </div>
+                        <div class="ost-field-card-body">
+                            {% if field.description %}
+                            <p class="text-muted mb-3">{{ field.description|truncatechars:100 }}</p>
+                            {% endif %}
+                            
+                            <div class="ost-field-stats">
+                                <div class="d-flex justify-content-between mb-2">
+                                    <span>Papers:</span>
+                                    <strong>{{ field.total_papers|default:0 }}</strong>
+                                </div>
+                                <div class="d-flex justify-content-between mb-2">
+                                    <span>Journals:</span>
+                                    <strong>{{ field.total_journals|default:0 }}</strong>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <span>Avg Transparency:</span>
+                                    <strong>{{ field.avg_transparency_score|floatformat:1|default:"0.0" }}/6</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ost-field-card-footer">
+                            <a href="{% url 'tracker:field_detail' field.id %}" class="xera-btn xera-btn-primary xera-btn-sm" data-ajax-link>
+                                <i class="fas fa-eye me-1"></i>View Details
+                            </a>
+                            <a href="{% url 'tracker:paper_list' %}?broad_subject_term={{ field.name|urlencode }}" class="xera-btn xera-btn-outline xera-btn-sm" data-ajax-link>
+                                <i class="fas fa-file-alt me-1"></i>Papers
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                {% empty %}
+                <div class="col-12">
+                    <div class="text-center py-5">
+                        <div class="text-muted mb-3">
+                            <i class="fas fa-tags fa-3x"></i>
+                        </div>
+                        <h4 class="text-muted">No research fields found</h4>
+                        <p class="text-muted">Research field data will be available once papers are imported.</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section> 

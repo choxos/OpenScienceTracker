@@ -1,0 +1,169 @@
+{% load static %}
+
+<!-- Statistics Overview -->
+<section>
+    <div class="xera-card">
+        <div class="xera-card-header">
+            <h2 class="xera-card-title">
+                <i class="fas fa-chart-bar me-2"></i>
+                Transparency Statistics
+            </h2>
+            <div class="xera-text-sm text-muted">
+                Overview of transparency indicators across all research papers
+            </div>
+        </div>
+        
+        <div class="xera-card-body">
+            <!-- Quick Stats -->
+            <div class="row g-4 mb-5">
+                <div class="col-md-3">
+                    <div class="xera-stat-card text-center">
+                        <div class="xera-stat-number text-primary">{{ total_papers|floatformat:0 }}</div>
+                        <div class="xera-stat-label">Total Papers</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="xera-stat-card text-center">
+                        <div class="xera-stat-number text-success">{{ total_journals|floatformat:0 }}</div>
+                        <div class="xera-stat-label">Journals</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="xera-stat-card text-center">
+                        <div class="xera-stat-number text-info">{{ avg_transparency|floatformat:1 }}</div>
+                        <div class="xera-stat-label">Avg Transparency</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="xera-stat-card text-center">
+                        <div class="xera-stat-number text-warning">{{ research_fields_count|floatformat:0 }}</div>
+                        <div class="xera-stat-label">Research Fields</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Transparency Indicators Breakdown -->
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="ost-indicator-card data-sharing">
+                        <div class="ost-indicator-icon">
+                            <i class="fas fa-database"></i>
+                        </div>
+                        <div class="ost-indicator-content">
+                            <h4>{{ open_data_percentage|floatformat:1 }}%</h4>
+                            <p>Open Data Sharing</p>
+                            <div class="ost-indicator-count">{{ open_data_count }} papers</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="ost-indicator-card code-sharing">
+                        <div class="ost-indicator-icon">
+                            <i class="fas fa-code"></i>
+                        </div>
+                        <div class="ost-indicator-content">
+                            <h4>{{ open_code_percentage|floatformat:1 }}%</h4>
+                            <p>Code Sharing</p>
+                            <div class="ost-indicator-count">{{ open_code_count }} papers</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="ost-indicator-card coi-disclosure">
+                        <div class="ost-indicator-icon">
+                            <i class="fas fa-exclamation-triangle"></i>
+                        </div>
+                        <div class="ost-indicator-content">
+                            <h4>{{ coi_percentage|floatformat:1 }}%</h4>
+                            <p>COI Disclosure</p>
+                            <div class="ost-indicator-count">{{ coi_count }} papers</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="ost-indicator-card funding">
+                        <div class="ost-indicator-icon">
+                            <i class="fas fa-dollar-sign"></i>
+                        </div>
+                        <div class="ost-indicator-content">
+                            <h4>{{ funding_percentage|floatformat:1 }}%</h4>
+                            <p>Funding Disclosure</p>
+                            <div class="ost-indicator-count">{{ funding_count }} papers</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="ost-indicator-card registration">
+                        <div class="ost-indicator-icon">
+                            <i class="fas fa-clipboard-list"></i>
+                        </div>
+                        <div class="ost-indicator-content">
+                            <h4>{{ registration_percentage|floatformat:1 }}%</h4>
+                            <p>Protocol Registration</p>
+                            <div class="ost-indicator-count">{{ registration_count }} papers</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="ost-indicator-card sharing">
+                        <div class="ost-indicator-icon">
+                            <i class="fas fa-unlock-alt"></i>
+                        </div>
+                        <div class="ost-indicator-content">
+                            <h4>{{ open_access_percentage|floatformat:1 }}%</h4>
+                            <p>Open Access</p>
+                            <div class="ost-indicator-count">{{ open_access_count }} papers</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Quick Links -->
+<section class="mt-4">
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="xera-card text-center">
+                <div class="xera-card-body">
+                    <i class="fas fa-file-alt fa-2x text-primary mb-3"></i>
+                    <h5>Browse Papers</h5>
+                    <p class="text-muted">Explore research papers with transparency indicators</p>
+                    <a href="{% url 'tracker:paper_list' %}" class="xera-btn xera-btn-primary" data-ajax-link>
+                        View Papers
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="xera-card text-center">
+                <div class="xera-card-body">
+                    <i class="fas fa-book fa-2x text-success mb-3"></i>
+                    <h5>Journal Analysis</h5>
+                    <p class="text-muted">Compare transparency across different journals</p>
+                    <a href="{% url 'tracker:journal_list' %}" class="xera-btn xera-btn-success" data-ajax-link>
+                        View Journals
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="xera-card text-center">
+                <div class="xera-card-body">
+                    <i class="fas fa-tags fa-2x text-info mb-3"></i>
+                    <h5>Research Fields</h5>
+                    <p class="text-muted">Analyze transparency by research domain</p>
+                    <a href="{% url 'tracker:field_list' %}" class="xera-btn xera-btn-info" data-ajax-link>
+                        View Fields
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> 
