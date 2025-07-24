@@ -29,23 +29,16 @@ sudo apt install -y nodejs
 
 ### 2. User & Directory Setup
 ```bash
-# Create application user (if not exists)
-sudo useradd -m -s /bin/bash ost
-sudo usermod -aG sudo ost
-
-# Switch to application user
-sudo su - ost
-
+# Your user should already exist (xeradb)
 # Create directory structure
-mkdir -p ~/applications/open-science-tracker
-mkdir -p ~/data/epmc_monthly_data
-mkdir -p ~/data/transparency_results
+mkdir -p ~/epmc_monthly_data
+mkdir -p ~/transparency_results
 mkdir -p ~/logs
 mkdir -p ~/backups
 
 # Set proper permissions
-chmod 755 ~/data/epmc_monthly_data
-chmod 755 ~/data/transparency_results
+chmod 755 ~/epmc_monthly_data
+chmod 755 ~/transparency_results
 chmod 755 ~/logs
 ```
 
@@ -55,17 +48,18 @@ chmod 755 ~/logs
 
 ### 1. Clone & Setup Application
 ```bash
-cd ~/applications
-git clone https://github.com/choxos/OpenScienceTracker.git
-cd OpenScienceTracker
+# Navigate to web directory
+cd /var/www/ost
 
-# Create virtual environment
-python3 -m venv ost_env
+# Your repository should already be cloned here
+# Pull latest changes if needed
+git pull origin main
+
+# Activate virtual environment
 source ost_env/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
-pip install gunicorn psycopg2-binary watchdog schedule
 ```
 
 ### 2. Environment Configuration
@@ -73,23 +67,23 @@ pip install gunicorn psycopg2-binary watchdog schedule
 # Create environment file
 cat > .env << 'EOF'
 # Database Configuration
-DATABASE_URL=postgresql://ost_user:YOUR_SECURE_PASSWORD@localhost:5432/ost_database
+DATABASE_URL=postgresql://ost_user:Choxos10203040@localhost:5432/ost_production
 
 # Security Settings
-SECRET_KEY=YOUR_GENERATED_SECRET_KEY_HERE
+SECRET_KEY=d8!tc5jn@nzsjmt-l+*9=m-6xq02)+p&^hy+pt+lg+2v$%=r=n
 DEBUG=False
-ALLOWED_HOSTS=your-domain.com,www.your-domain.com,YOUR_VPS_IP
+ALLOWED_HOSTS=ost.xeradb.com,www.xeradb.com,91.99.161.136,localhost,127.0.0.1
 
 # Data Directories
-EPMC_DATA_DIR=/home/ost/data/epmc_monthly_data
-TRANSPARENCY_DATA_DIR=/home/ost/data/transparency_results
+EPMC_DATA_DIR=/home/xeradb/epmc_monthly_data/
+TRANSPARENCY_DATA_DIR=/home/xeradb/transparency_results/
 
 # Email Configuration (optional)
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
 EMAIL_USE_TLS=True
-EMAIL_HOST_USER=your-email@gmail.com
-EMAIL_HOST_PASSWORD=your-app-password
+EMAIL_HOST_USER=ahmad.pub@gmail.com
+EMAIL_HOST_PASSWORD=Choxos0874!*)@&)
 
 # Redis Configuration
 REDIS_URL=redis://localhost:6379/0
@@ -106,83 +100,11 @@ python -c "from django.core.management.utils import get_random_secret_key; print
 source .env
 ```
 
-### 3. Django Configuration Update
+### 3. Environment Configuration
 ```bash
-# Update settings.py for production
-cat >> ost_web/settings.py << 'EOF'
-
-# Production Settings
-import os
-from pathlib import Path
-
-# Load environment variables
-from dotenv import load_dotenv
-load_dotenv()
-
-# Override settings for production
-if not DEBUG:
-    STATIC_ROOT = '/home/ost/applications/OpenScienceTracker/staticfiles'
-    MEDIA_ROOT = '/home/ost/applications/OpenScienceTracker/media'
-    
-    # Security settings
-    SECURE_SSL_REDIRECT = True
-    SECURE_BROWSER_XSS_FILTER = True
-    SECURE_CONTENT_TYPE_NOSNIFF = True
-    X_FRAME_OPTIONS = 'DENY'
-    
-    # Database from environment
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.postgresql',
-            'NAME': os.getenv('DB_NAME', 'ost_database'),
-            'USER': os.getenv('DB_USER', 'ost_user'),
-            'PASSWORD': os.getenv('DB_PASSWORD'),
-            'HOST': os.getenv('DB_HOST', 'localhost'),
-            'PORT': os.getenv('DB_PORT', '5432'),
-        }
-    }
-
-# Data ingestion paths
-EPMC_DATA_DIR = os.getenv('EPMC_DATA_DIR', '/home/ost/data/epmc_monthly_data')
-TRANSPARENCY_DATA_DIR = os.getenv('TRANSPARENCY_DATA_DIR', '/home/ost/data/transparency_results')
-
-# Logging configuration
-LOGGING = {
-    'version': 1,
-    'disable_existing_loggers': False,
-    'formatters': {
-        'verbose': {
-            'format': '{levelname} {asctime} {module} {process:d} {thread:d} {message}',
-            'style': '{',
-        },
-    },
-    'handlers': {
-        'file': {
-            'level': 'INFO',
-            'class': 'logging.FileHandler',
-            'filename': os.getenv('LOG_FILE', '/home/ost/logs/ost.log'),
-            'formatter': 'verbose',
-        },
-        'console': {
-            'level': 'INFO',
-            'class': 'logging.StreamHandler',
-            'formatter': 'verbose',
-        },
-    },
-    'loggers': {
-        'django': {
-            'handlers': ['file', 'console'],
-            'level': 'INFO',
-            'propagate': True,
-        },
-        'tracker': {
-            'handlers': ['file', 'console'],
-            'level': 'INFO',
-            'propagate': True,
-        },
-    },
-}
-EOF
+# Your Django settings should already be configured correctly
+# The current settings.py handles both development and production automatically
+# using environment variables and database URL detection
 ```
 
 ---
@@ -191,16 +113,17 @@ EOF
 
 ### 1. PostgreSQL Setup
 ```bash
-# Switch to postgres user
+# You should already have a database created
+# If you need to recreate it:
 sudo su - postgres
 
-# Create database and user
+# Create database and user (if they don't exist)
 createuser --interactive --pwprompt ost_user
 # Enter password when prompted
-createdb --owner=ost_user ost_database
+createdb --owner=ost_user ost_production
 
 # Grant privileges
-psql -c "GRANT ALL PRIVILEGES ON DATABASE ost_database TO ost_user;"
+psql -c "GRANT ALL PRIVILEGES ON DATABASE ost_production TO ost_user;"
 psql -c "ALTER USER ost_user CREATEDB;"
 
 # Exit postgres user
@@ -209,12 +132,11 @@ exit
 
 ### 2. Database Migration
 ```bash
-# Back to ost user
-cd ~/applications/OpenScienceTracker
+# Navigate to project directory
+cd /var/www/ost
 source ost_env/bin/activate
 
 # Run migrations
-python manage.py makemigrations
 python manage.py migrate
 
 # Create superuser
@@ -820,11 +742,11 @@ After=network.target postgresql.service
 
 [Service]
 Type=simple
-User=ost
-Group=ost
-WorkingDirectory=/home/ost/applications/OpenScienceTracker
+User=xeradb
+Group=xeradb
+WorkingDirectory=/var/www/ost
 Environment=DJANGO_SETTINGS_MODULE=ost_web.settings
-ExecStart=/home/ost/applications/OpenScienceTracker/ost_env/bin/python /home/ost/applications/OpenScienceTracker/scripts/data_monitor.py
+ExecStart=/var/www/ost/ost_env/bin/python /var/www/ost/scripts/data_monitor.py
 Restart=always
 RestartSec=10
 
@@ -848,9 +770,9 @@ After=network.target postgresql.service
 Type=exec
 User=ost
 Group=ost
-WorkingDirectory=/home/ost/applications/OpenScienceTracker
+WorkingDirectory=/var/www/ost
 Environment=DJANGO_SETTINGS_MODULE=ost_web.settings
-ExecStart=/home/ost/applications/OpenScienceTracker/ost_env/bin/activate && /home/ost/applications/OpenScienceTracker/ost_env/bin/gunicorn ost_web.wsgi:application --bind 127.0.0.1:8000 --workers 3 --timeout 120
+ExecStart=/var/www/ost/ost_env/bin/activate && /var/www/ost/ost_env/bin/gunicorn ost_web.wsgi:application --bind 127.0.0.1:8000 --workers 3 --timeout 120
 ExecReload=/bin/kill -HUP $MAINPID
 Restart=always
 RestartSec=5
@@ -871,16 +793,16 @@ crontab -e
 
 # Add these entries:
 # Daily backup at 2 AM
-0 2 * * * /home/ost/applications/OpenScienceTracker/scripts/backup_database.sh
+0 2 * * * /var/www/ost/scripts/backup_database.sh
 
 # Weekly cleanup of old processed files (older than 30 days)
 0 3 * * 0 find /home/ost/data/*/processed -name "*.csv" -mtime +30 -delete
 
 # Monthly statistics update
-0 4 1 * * /home/ost/applications/OpenScienceTracker/ost_env/bin/python /home/ost/applications/OpenScienceTracker/manage.py update_statistics
+0 4 1 * * /var/www/ost/ost_env/bin/python /var/www/ost/manage.py update_statistics
 
 # Check for unprocessed files every hour
-0 * * * * /home/ost/applications/OpenScienceTracker/scripts/check_unprocessed.sh
+0 * * * * /var/www/ost/scripts/check_unprocessed.sh
 ```
 
 ### 4. Backup Script
@@ -917,7 +839,7 @@ Create `/etc/nginx/sites-available/ost`:
 ```nginx
 server {
     listen 80;
-    server_name your-domain.com www.your-domain.com;
+    server_name ost.xeradb.com www.xeradb.com 91.99.161.136;
     
     # Redirect HTTP to HTTPS
     return 301 https://$server_name$request_uri;
@@ -925,11 +847,11 @@ server {
 
 server {
     listen 443 ssl http2;
-    server_name your-domain.com www.your-domain.com;
+    server_name ost.xeradb.com www.xeradb.com 91.99.161.136;
     
     # SSL Configuration (you'll need to obtain certificates)
-    ssl_certificate /etc/letsencrypt/live/your-domain.com/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/your-domain.com/privkey.pem;
+    ssl_certificate /etc/letsencrypt/live/ost.xeradb.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ost.xeradb.com/privkey.pem;
     
     # Security headers
     add_header X-Frame-Options DENY;
@@ -939,13 +861,13 @@ server {
     
     # Static files
     location /static/ {
-        alias /home/ost/applications/OpenScienceTracker/staticfiles/;
+        alias /var/www/ost/staticfiles/;
         expires 1y;
         add_header Cache-Control "public, immutable";
     }
     
     location /media/ {
-        alias /home/ost/applications/OpenScienceTracker/media/;
+        alias /var/www/ost/media/;
         expires 1y;
         add_header Cache-Control "public, immutable";
     }
@@ -1087,7 +1009,7 @@ chmod +x scripts/*.py
 chmod +x scripts/*.sh
 
 # Copy systemd service files (as root)
-sudo cp /home/ost/applications/OpenScienceTracker/systemd/*.service /etc/systemd/system/
+sudo cp /var/www/ost/systemd/*.service /etc/systemd/system/
 sudo systemctl daemon-reload
 
 # Enable and start services

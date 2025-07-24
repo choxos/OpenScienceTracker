@@ -1,0 +1,20 @@
+[Unit]
+Description=Open Science Tracker Data Monitor
+After=network.target postgresql.service
+
+[Service]
+Type=simple
+User=xeradb
+Group=xeradb
+WorkingDirectory=/var/www/ost
+Environment=DJANGO_SETTINGS_MODULE=ost_web.settings
+ExecStart=/var/www/ost/ost_env/bin/python /var/www/ost/scripts/data_monitor.py
+Restart=always
+RestartSec=10
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target 

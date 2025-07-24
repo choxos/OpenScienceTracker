@@ -23,7 +23,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/home/ost/logs/data_monitor.log'),
+        logging.FileHandler('/home/xeradb/logs/data_monitor.log'),
         logging.StreamHandler()
     ]
 )
@@ -90,8 +90,8 @@ class DataFileHandler(FileSystemEventHandler):
             logger.info(f"Processing {file_path} with command: {self.command_name}")
             
             cmd = [
-                '/home/ost/applications/OpenScienceTracker/ost_env/bin/python',
-                '/home/ost/applications/OpenScienceTracker/manage.py',
+                '/var/www/ost/ost_env/bin/python',
+                '/var/www/ost/manage.py',
                 self.command_name,
                 '--file', file_path
             ]
@@ -100,7 +100,7 @@ class DataFileHandler(FileSystemEventHandler):
                 cmd,
                 capture_output=True,
                 text=True,
-                cwd='/home/ost/applications/OpenScienceTracker'
+                cwd='/var/www/ost'
             )
             
             if result.returncode == 0:
@@ -143,12 +143,13 @@ class DataFileHandler(FileSystemEventHandler):
 
 def main():
     # Directories to monitor
-    epmc_dir = '/home/ost/data/epmc_monthly_data'
-    transparency_dir = '/home/ost/data/transparency_results'
+    epmc_dir = '/home/xeradb/epmc_monthly_data'
+    transparency_dir = '/home/xeradb/transparency_results'
     
     # Create directories if they don't exist
     os.makedirs(epmc_dir, exist_ok=True)
     os.makedirs(transparency_dir, exist_ok=True)
+    os.makedirs('/home/xeradb/logs', exist_ok=True)
     
     # Create event handlers
     epmc_handler = DataFileHandler('EPMC', 'process_epmc_files')
