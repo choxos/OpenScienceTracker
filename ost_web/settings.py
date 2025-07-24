@@ -174,7 +174,55 @@ CACHES = {
     }
 }
 
-# Logging
+# Logging Configuration - VPS Compatible
+def get_log_file_path():
+    """Get appropriate log file path based on environment"""
+    # Try VPS log directory first
+    vps_log_path = Path('/var/log/ost')
+    if vps_log_path.exists() and os.access(vps_log_path, os.W_OK):
+        return vps_log_path / 'ost.log'
+    
+    # Try project log directory
+    project_log_path = BASE_DIR / 'logs'
+    if not project_log_path.exists():
+        try:
+            project_log_path.mkdir(exist_ok=True)
+            return project_log_path / 'ost.log'
+        except (OSError, PermissionError):
+            pass
+    elif os.access(project_log_path, os.W_OK):
+        return project_log_path / 'ost.log'
+    
+    # Fallback to project root (if writable)
+    project_root_log = BASE_DIR / 'ost.log'
+    if os.access(BASE_DIR, os.W_OK):
+        return project_root_log
+    
+    # If all else fails, return None (will use console only)
+    return None
+
+# Determine log handlers based on environment
+log_handlers = ['console']  # Always use console
+log_file_path = get_log_file_path()
+
+LOGGING_HANDLERS = {
+    'console': {
+        'level': 'INFO',
+        'class': 'logging.StreamHandler',
+        'formatter': 'verbose',
+    },
+}
+
+# Add file handler only if we have a writable log path
+if log_file_path:
+    LOGGING_HANDLERS['file'] = {
+        'level': 'INFO',
+        'class': 'logging.FileHandler',
+        'filename': str(log_file_path),
+        'formatter': 'verbose',
+    }
+    log_handlers.append('file')
+
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -183,26 +231,27 @@ LOGGING = {
             'format': '{levelname} {asctime} {module} {process:d} {thread:d} {message}',
             'style': '{',
         },
-    },
-    'handlers': {
-        'file': {
-            'level': 'INFO',
-            'class': 'logging.FileHandler',
-            'filename': BASE_DIR / 'ost.log',
-            'formatter': 'verbose',
-        },
-        'console': {
-            'level': 'INFO',
-            'class': 'logging.StreamHandler',
-            'formatter': 'verbose',
+        'simple': {
+            'format': '{levelname} {asctime} {message}',
+            'style': '{',
         },
     },
+    'handlers': LOGGING_HANDLERS,
     'loggers': {
         'tracker': {
-            'handlers': ['file', 'console'],
+            'handlers': log_handlers,
             'level': 'INFO',
             'propagate': True,
         },
+        'django': {
+            'handlers': ['console'],
+            'level': 'WARNING',
+            'propagate': True,
+        },
+    },
+    'root': {
+        'handlers': ['console'],
+        'level': 'WARNING',
     },
 }
 

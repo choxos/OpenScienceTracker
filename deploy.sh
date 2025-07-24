@@ -146,6 +146,15 @@ pull_latest_code() {
     print_step "Configuring Git safe directory..."
     sudo git config --global --add safe.directory "$PROJECT_DIR" 2>/dev/null || true
     
+    # Fix logging permissions (prevent Django startup errors)
+    print_step "Setting up logging permissions..."
+    sudo mkdir -p /var/log/ost 2>/dev/null || true
+    mkdir -p "$PROJECT_DIR/logs" 2>/dev/null || true
+    sudo chown -R $USER:www-data /var/log/ost 2>/dev/null || true
+    sudo chown -R $USER:www-data "$PROJECT_DIR/logs" 2>/dev/null || true
+    sudo chmod -R 775 /var/log/ost 2>/dev/null || true
+    chmod -R 775 "$PROJECT_DIR/logs" 2>/dev/null || true
+    
     # Stash any local changes
     sudo git stash save "Auto-stash before deployment $(date)" 2>/dev/null || true
     
