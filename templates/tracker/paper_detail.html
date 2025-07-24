@@ -81,9 +81,13 @@
                                 </p>
                                 <p class="mb-2">
                                     <strong>Journal:</strong><br>
-                                    <a href="{% url 'tracker:journal_detail' paper.journal.pk %}" class="text-decoration-none">
-                                        {{ paper.journal.title_full }}
-                                    </a>
+                                    {% if paper.journal %}
+                                        <a href="{% url 'tracker:journal_detail' paper.journal.pk %}" class="text-decoration-none">
+                                            {{ paper.journal.title_full }}
+                                        </a>
+                                    {% else %}
+                                        {{ paper.journal_title|default:"Unknown Journal" }}
+                                    {% endif %}
                                 </p>
                             </div>
                             <div class="col-md-6">
@@ -126,6 +130,7 @@
             </div>
 
             <!-- Journal Information -->
+            {% if paper.journal %}
             <div class="card mb-4">
                 <div class="card-header">
                     <h5 class="mb-0"><i class="fas fa-book"></i> Journal Information</h5>
@@ -153,6 +158,21 @@
                     {% endif %}
                 </div>
             </div>
+            {% else %}
+            <!-- Journal Information - No linked journal record -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="fas fa-book"></i> Journal Information</h5>
+                </div>
+                <div class="card-body">
+                    <p class="mb-2"><strong>Journal Title:</strong> {{ paper.journal_title|default:"Unknown Journal" }}</p>
+                    {% if paper.journal_issn %}
+                    <p class="mb-2"><strong>ISSN:</strong> {{ paper.journal_issn }}</p>
+                    {% endif %}
+                    <p class="text-muted small">Detailed journal information not available.</p>
+                </div>
+            </div>
+            {% endif %}
 
             <!-- Publication Details -->
             <div class="card mb-4">
@@ -221,7 +241,7 @@
                     {% for related in related_papers %}
                     <div class="related-paper">
                         <h6 class="mb-1">
-                            <a href="{% url 'tracker:paper_detail' related.pmid %}" class="text-decoration-none">
+                            <a href="{% url 'tracker:paper_detail' related.epmc_id %}" class="text-decoration-none">
                                 {{ related.title|truncatechars:100 }}
                             </a>
                         </h6>
@@ -231,11 +251,13 @@
                         </small>
                     </div>
                     {% endfor %}
+                    {% if paper.journal %}
                     <div class="mt-3">
                         <a href="{% url 'tracker:paper_list' %}?journal={{ paper.journal.pk }}" class="btn btn-sm btn-outline-primary">
                             View All Papers from This Journal
                         </a>
                     </div>
+                    {% endif %}
                 </div>
             </div>
             {% endif %}
@@ -375,7 +397,7 @@
                                  <div class="mb-3">
                     <label class="form-label"><strong>APA Format:</strong></label>
                     <div class="form-control-plaintext border p-2 bg-light" style="font-family: 'Courier New', monospace; font-size: 0.9em;">
-                        {{ paper.author_string|truncatechars:50 }}. ({{ paper.pub_year }}). {{ paper.title }} <em>{{ paper.journal.title_full }}</em>. 
+                        {{ paper.author_string|truncatechars:50 }}. ({{ paper.pub_year }}). {{ paper.title }} <em>{% if paper.journal %}{{ paper.journal.title_full }}{% else %}{{ paper.journal_title|default:"Unknown Journal" }}{% endif %}</em>. 
                         {% if paper.doi %}https://doi.org/{{ paper.doi }}{% else %}PMID: {{ paper.pmid }}{% endif %}
                     </div>
                 </div>
@@ -385,7 +407,7 @@
 @article{paper{{ paper.pmid }},
   title={ {{ paper.title }} },
   author={ {{ paper.author_string }} },
-  journal={ {{ paper.journal.title_full }} },
+  journal={ {% if paper.journal %}{{ paper.journal.title_full }}{% else %}{{ paper.journal_title|default:"Unknown Journal" }}{% endif %} },
   year={ {{ paper.pub_year }} },
 {% if paper.doi %}  doi={ {{ paper.doi }} },{% endif %}
   pmid={ {{ paper.pmid }} }

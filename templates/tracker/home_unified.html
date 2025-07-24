@@ -440,7 +440,7 @@
                         {% for paper in recent_papers %}
                         <tr>
                             <td>
-                                <a href="{% url 'tracker:paper_detail' paper.pmid %}" class="text-decoration-none">
+                                                                        <a href="{% url 'tracker:paper_detail' paper.epmc_id %}" class="text-decoration-none">
                                     {{ paper.title|truncatechars:80 }}
                                 </a>
                             </td>

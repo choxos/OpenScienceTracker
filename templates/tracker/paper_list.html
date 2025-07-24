@@ -97,7 +97,7 @@
                     <div class="ost-paper-card-header">
                         <div class="ost-paper-card-content">
                             <h3 class="ost-paper-title">
-                                <a href="{% url 'tracker:paper_detail' paper.pmid %}">
+                                <a href="{% url 'tracker:paper_detail' paper.epmc_id %}">
                                     {{ paper.title|truncatechars:120 }}
                                 </a>
                             </h3>
@@ -197,7 +197,7 @@
                         </div>
                         
                         <div class="d-flex gap-2">
-                            <a href="{% url 'tracker:paper_detail' paper.pmid %}" 
+                            <a href="{% url 'tracker:paper_detail' paper.epmc_id %}" 
                                class="xera-btn xera-btn-primary xera-btn-sm">
                                 <i class="fas fa-eye me-1"></i>View Details
                             </a>

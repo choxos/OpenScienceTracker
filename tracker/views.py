@@ -199,37 +199,44 @@ class PaperListView(ListView):
         
         return context
 
-class PaperDetailView(DetailView):
+class PaperDetailView(TemplateView):
     """Detail view for individual papers"""
-    model = Paper
     template_name = 'tracker/paper_detail.html'
-    context_object_name = 'paper'
-    slug_field = 'pmid'
-    slug_url_kwarg = 'pmid'
     
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         
+        # Get the paper by epmc_id
+        epmc_id = self.kwargs.get('epmc_id')
+        if epmc_id is None:
+            raise Http404("No paper epmc_id provided")
+        
+        try:
+            paper = Paper.objects.select_related('journal').get(epmc_id=epmc_id)
+        except Paper.DoesNotExist:
+            raise Http404(f"No paper found with epmc_id: {epmc_id}")
+        
+        context['paper'] = paper
+        
         # Related papers from same journal
-        context['related_papers'] = Paper.objects.filter(
-            journal=self.object.journal
-        ).exclude(pmid=self.object.pmid)[:5]
+        context['related_papers'] = []
+        if paper.journal:
+            try:
+                context['related_papers'] = Paper.objects.filter(
+                    journal=paper.journal
+                ).exclude(epmc_id=paper.epmc_id)[:5]
+            except:
+                pass
         
         # Transparency breakdown
-        indicators = [
-            ('Data Sharing', self.object.is_open_data),
-            ('Code Sharing', self.object.is_open_code),
-            ('COI Disclosure', self.object.is_coi_pred),
-            ('Funding Disclosure', self.object.is_fund_pred),
-            ('Protocol Registration', self.object.is_register_pred),
+        context['transparency_indicators'] = [
+            ('Open Data', paper.is_open_data),
+            ('Open Code', paper.is_open_code),
+            ('COI Disclosure', paper.is_coi_pred),
+            ('Funding Disclosure', paper.is_fund_pred),
+            ('Protocol Registration', paper.is_register_pred),
+            ('Open Access', paper.is_open_access),
         ]
-        
-        if self.object.is_replication is not None:
-            indicators.append(('Replication', self.object.is_replication))
-        if self.object.is_novelty is not None:
-            indicators.append(('Novelty', self.object.is_novelty))
-        
-        context['transparency_indicators'] = indicators
         
         return context
 

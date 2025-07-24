@@ -140,7 +140,7 @@
                             <div class="d-flex justify-content-between align-items-start">
                                 <div class="flex-grow-1">
                                     <h5 class="mb-2">
-                                        <a href="{% url 'tracker:paper_detail' paper.pmid %}" class="text-decoration-none">
+                                        <a href="{% url 'tracker:paper_detail' paper.epmc_id %}" class="text-decoration-none">
                                             {{ paper.title|truncatechars:120 }}
                                         </a>
                                     </h5>

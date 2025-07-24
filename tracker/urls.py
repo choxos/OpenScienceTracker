@@ -11,7 +11,7 @@ urlpatterns = [
     
     # Papers
     path('papers/', views.PaperListView.as_view(), name='paper_list'),
-    path('papers/<str:pmid>/', views.PaperDetailView.as_view(), name='paper_detail'),
+    path('papers/<str:epmc_id>/', views.PaperDetailView.as_view(), name='paper_detail'),
     path('papers/search/', views.PaperSearchView.as_view(), name='paper_search'),
     
     # Journals

@@ -208,7 +208,7 @@
                             <div class="xera-text-sm text-muted">
                                 {% for paper in journal.recent_papers|slice:":2" %}
                                 <div class="mb-1">
-                                    <a href="{% url 'tracker:paper_detail' paper.pmid %}" class="text-decoration-none">
+                                                                            <a href="{% url 'tracker:paper_detail' paper.epmc_id %}" class="text-decoration-none">
                                         {{ paper.title|truncatechars:60 }}
                                     </a>
                                     <span class="text-muted">({{ paper.pub_year }})</span>
