@@ -61,40 +61,6 @@ class HomeView(TemplateView):
         
         return context
 
-class AboutView(TemplateView):
-    """About page explaining OST project, methodology, and team"""
-    template_name = 'tracker/about.html'
-    
-    def get_context_data(self, **kwargs):
-        context = super().get_context_data(**kwargs)
-        
-        # Basic statistics for the about page
-        total_papers = Paper.objects.count()
-        total_journals = Journal.objects.count()
-        
-        # Transparency statistics
-        papers = Paper.objects.all()
-        avg_transparency = papers.aggregate(avg_score=Avg('transparency_score'))['avg_score'] or 0
-        
-        # Coverage statistics
-        years_covered = papers.aggregate(
-            min_year=Count('pub_year', distinct=True),
-            earliest=Count('pub_year', distinct=True)
-        )
-        
-        context.update({
-            'total_papers': total_papers,
-            'total_journals': total_journals,
-            'avg_transparency_score': round(avg_transparency, 2),
-            'data_sharing_pct': round((papers.filter(is_open_data=True).count() / max(total_papers, 1)) * 100, 1),
-            'open_access_pct': round((papers.filter(is_open_access=True).count() / max(total_papers, 1)) * 100, 1),
-            'dental_focus': Journal.objects.filter(broad_subject_terms__icontains='Dentistry').count(),
-            'years_of_data': papers.values('pub_year').distinct().count(),
-            'countries_covered': papers.exclude(journal__country__isnull=True).exclude(journal__country='').values('journal__country').distinct().count(),
-        })
-        
-        return context
-
 class DashboardView(LoginRequiredMixin, TemplateView):
     """User dashboard with personalized statistics"""
     template_name = 'tracker/dashboard.html'

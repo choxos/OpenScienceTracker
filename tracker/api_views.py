@@ -342,7 +342,6 @@ class ResearchFieldViewSet(viewsets.ReadOnlyModelViewSet):
 # =============================================================================
 
 from rest_framework.views import APIView
-from django.shortcuts import render
 
 class APIOverviewView(APIView):
     """
@@ -388,7 +387,7 @@ class APIOverviewView(APIView):
                 'name': 'Open Science Tracker API',
                 'version': '1.0.0',
                 'description': 'REST API for accessing transparency and reproducibility data from medical and dental literature',
-                'documentation_url': request.build_absolute_uri('/api/docs/'),
+                'documentation_url': request.build_absolute_uri('/api/schema/'),
                 'contact': {
                     'name': 'Ahmad Sofi-Mahmudi',
                     'email': 'ahmad.pub@gmail.com'
@@ -405,18 +404,13 @@ class APIOverviewView(APIView):
             'top_journals': JournalBasicSerializer(top_journals, many=True).data,
             'recent_papers': PaperListSerializer(recent_papers, many=True).data,
             'available_endpoints': {
-                'papers': request.build_absolute_uri('/api/v1/papers/'),
-                'journals': request.build_absolute_uri('/api/v1/journals/'),
-                'research_fields': request.build_absolute_uri('/api/v1/research-fields/'),
-                'paper_stats': request.build_absolute_uri('/api/v1/papers/transparency_stats/'),
+                'papers': request.build_absolute_uri('/api/papers/'),
+                'journals': request.build_absolute_uri('/api/journals/'),
+                'research_fields': request.build_absolute_uri('/api/research-fields/'),
+                'paper_stats': request.build_absolute_uri('/api/papers/transparency_stats/'),
                 'schema': request.build_absolute_uri('/api/schema/'),
-                'swagger_ui': request.build_absolute_uri('/api/docs/'),
-                'redoc': request.build_absolute_uri('/api/redoc/')
+                'documentation': request.build_absolute_uri('/api/docs/')
             }
         }
         
-        # Return HTML for browser requests, JSON for API requests
-        if 'text/html' in request.META.get('HTTP_ACCEPT', ''):
-            return render(request, 'tracker/api_documentation.html', response_data)
-        else:
-            return Response(response_data) 
+        return Response(response_data) 
