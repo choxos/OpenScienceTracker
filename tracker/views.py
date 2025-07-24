@@ -156,11 +156,25 @@ class PaperListView(ListView):
         category = self.request.GET.get('category')
         if category:
             queryset = queryset.filter(broad_subject_term=category)
+            
+        # Filter by broad subject term (from the new filter)
+        broad_subject_term = self.request.GET.get('broad_subject_term')
+        if broad_subject_term:
+            queryset = queryset.filter(broad_subject_term=broad_subject_term)
         
         # Filter by year
         year = self.request.GET.get('year')
         if year:
             queryset = queryset.filter(pub_year=year)
+        
+        # Filter by transparency score range
+        transparency = self.request.GET.get('transparency')
+        if transparency == 'high':
+            queryset = queryset.filter(transparency_score__gte=5)
+        elif transparency == 'medium':
+            queryset = queryset.filter(transparency_score__gte=3, transparency_score__lt=5)
+        elif transparency == 'low':
+            queryset = queryset.filter(transparency_score__lt=3)
         
         # Filter by transparency indicators
         indicators = self.request.GET.getlist('indicators')
