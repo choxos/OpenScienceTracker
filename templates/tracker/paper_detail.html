@@ -176,12 +176,12 @@
                             {% endif %}
                         </div>
                         <div class="col-md-6">
-                            {% if paper.broad_subject_category %}
+                            {% if paper.broad_subject_term %}
                             <p class="mb-2"><strong>Subject Category:</strong> 
-                                <a href="{% url 'tracker:paper_list' %}?category={{ paper.broad_subject_category|urlencode }}" 
+                                <a href="{% url 'tracker:paper_list' %}?category={{ paper.broad_subject_term|urlencode }}" 
                                    class="badge bg-primary text-decoration-none" 
-                                   title="View all papers in {{ paper.broad_subject_category }}">
-                                    {{ paper.broad_subject_category }}
+                                   title="View all papers in {{ paper.broad_subject_term }}">
+                                    {{ paper.broad_subject_term }}
                                 </a>
                             </p>
                             {% endif %}

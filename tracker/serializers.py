@@ -6,7 +6,7 @@ providing clean and consistent data structures for external researchers.
 """
 
 from rest_framework import serializers
-from django.db.models import Count, Avg
+from django.db.models import Count, Avg, Case, When, Value, IntegerField
 from .models import Paper, Journal, ResearchField
 
 
@@ -41,71 +41,96 @@ class ResearchFieldBasicSerializer(serializers.ModelSerializer):
         fields = [
             'id',
             'name',
-            'paper_count',
+            'total_papers',
             'avg_transparency_score'
         ]
 
 
 class PaperSerializer(serializers.ModelSerializer):
     """
-    Comprehensive paper serializer with transparency data and journal info
+    Comprehensive paper serializer with EuropePMC data and transparency indicators
     """
     journal = JournalBasicSerializer(read_only=True)
     transparency_score = serializers.SerializerMethodField()
     transparency_indicators = serializers.SerializerMethodField()
+    identifiers = serializers.SerializerMethodField()
     
     class Meta:
         model = Paper
         fields = [
-            # Basic paper information
+            # Identifiers
+            'epmc_id',
+            'source',
             'pmid',
+            'pmcid',
+            'doi',
+            'identifiers',
+            
+            # Basic paper information
             'title',
             'author_string',
             'pub_year',
             'journal',
+            'journal_title',
+            'journal_issn',
+            'broad_subject_term',
             
-            # Transparency data
+            # Publication details
+            'issue',
+            'journal_volume',
+            'page_info',
+            'pub_type',
+            'first_publication_date',
+            'first_index_date',
+            
+            # Availability flags
+            'is_open_access',
+            'in_epmc',
+            'in_pmc',
+            'has_pdf',
+            'has_book',
+            'has_suppl',
+            'cited_by_count',
+            
+            # Transparency indicators
             'transparency_score',
             'transparency_indicators',
-            'is_open_data',
-            'is_open_code',
             'is_coi_pred',
+            'coi_text',
             'is_fund_pred',
+            'fund_text',
             'is_register_pred',
-            'is_report_pred',
-            'is_share_pred',
+            'register_text',
+            'is_open_data',
+            'open_data_category',
+            'open_data_statements',
+            'is_open_code',
+            'open_code_statements',
             
-            # Additional metadata
-            'broad_subject_category',
-            'abstract',
-            'doi',
-            'europe_pmc_id',
+            # Processing metadata
+            'transparency_processed',
+            'processing_date',
             'created_at',
             'updated_at'
         ]
     
     def get_transparency_score(self, obj):
-        """Calculate transparency score out of 7"""
-        score = 0
-        score += 1 if obj.is_open_data else 0
-        score += 1 if obj.is_open_code else 0
-        score += 1 if obj.is_coi_pred else 0
-        score += 1 if obj.is_fund_pred else 0
-        score += 1 if obj.is_register_pred else 0
-        score += 1 if obj.is_report_pred else 0
-        score += 1 if obj.is_share_pred else 0
-        return score
+        """Get calculated transparency score (out of 6)"""
+        return obj.transparency_score
+    
+    def get_identifiers(self, obj):
+        """Get all available identifiers"""
+        return obj.get_identifiers_dict()
     
     def get_transparency_indicators(self, obj):
         """Get a summary of transparency indicators"""
         return {
-            'open_data': obj.is_open_data,
-            'open_code': obj.is_open_code,
             'conflict_of_interest': obj.is_coi_pred,
             'funding_declaration': obj.is_fund_pred,
             'registration': obj.is_register_pred,
-            'reporting_guidelines': obj.is_report_pred,
-            'data_sharing': obj.is_share_pred
+            'open_data': obj.is_open_data,
+            'open_code': obj.is_open_code,
+            'open_access': obj.is_open_access,
         }
 
 
@@ -114,32 +139,24 @@ class PaperListSerializer(serializers.ModelSerializer):
     Simplified paper serializer for list views (better performance)
     """
     journal_name = serializers.CharField(source='journal.title_abbreviation', read_only=True)
-    transparency_score = serializers.SerializerMethodField()
     
     class Meta:
         model = Paper
         fields = [
+            'epmc_id',
             'pmid',
+            'pmcid',
             'title',
             'author_string',
             'pub_year',
             'journal_name',
+            'journal_title',
+            'broad_subject_term',
             'transparency_score',
-            'broad_subject_category',
+            'is_open_access',
+            'transparency_processed',
             'doi'
         ]
-    
-    def get_transparency_score(self, obj):
-        """Calculate transparency score out of 7"""
-        score = 0
-        score += 1 if obj.is_open_data else 0
-        score += 1 if obj.is_open_code else 0
-        score += 1 if obj.is_coi_pred else 0
-        score += 1 if obj.is_fund_pred else 0
-        score += 1 if obj.is_register_pred else 0
-        score += 1 if obj.is_report_pred else 0
-        score += 1 if obj.is_share_pred else 0
-        return score
 
 
 class JournalSerializer(serializers.ModelSerializer):
@@ -164,7 +181,7 @@ class JournalSerializer(serializers.ModelSerializer):
             'language',
             'issn_print',
             'issn_electronic',
-            'nlm_unique_id',
+            'nlm_id',
             'publication_start_year',
             'publication_end_year',
             'broad_subject_terms',
@@ -200,8 +217,8 @@ class JournalSerializer(serializers.ModelSerializer):
             score += 1 if paper.is_coi_pred else 0
             score += 1 if paper.is_fund_pred else 0
             score += 1 if paper.is_register_pred else 0
-            score += 1 if paper.is_report_pred else 0
-            score += 1 if paper.is_share_pred else 0
+            # score += 1 if paper.is_report_pred else 0  # Field doesn't exist
+            # score += 1 if paper.is_share_pred else 0   # Field doesn't exist
             total_score += score
             count += 1
         
@@ -222,8 +239,8 @@ class JournalSerializer(serializers.ModelSerializer):
             'coi_percentage': round((papers.filter(is_coi_pred=True).count() / total) * 100, 1),
             'funding_percentage': round((papers.filter(is_fund_pred=True).count() / total) * 100, 1),
             'registration_percentage': round((papers.filter(is_register_pred=True).count() / total) * 100, 1),
-            'reporting_percentage': round((papers.filter(is_report_pred=True).count() / total) * 100, 1),
-            'sharing_percentage': round((papers.filter(is_share_pred=True).count() / total) * 100, 1)
+            # 'reporting_percentage': round((papers.filter(is_report_pred=True).count() / total) * 100, 1),  # Field doesn't exist
+            # 'sharing_percentage': round((papers.filter(is_share_pred=True).count() / total) * 100, 1)      # Field doesn't exist
         }
     
     def get_recent_papers(self, obj):
@@ -268,9 +285,14 @@ class JournalListSerializer(serializers.ModelSerializer):
         
         # This is a simplified calculation for list view performance
         return round(papers.aggregate(
-            score=Avg('is_open_data') + Avg('is_open_code') + Avg('is_coi_pred') + 
-                  Avg('is_fund_pred') + Avg('is_register_pred') + Avg('is_report_pred') + 
-                  Avg('is_share_pred')
+            score=Avg(
+                Case(When(is_open_data=True, then=Value(1)), default=Value(0), output_field=IntegerField()) +
+                Case(When(is_open_code=True, then=Value(1)), default=Value(0), output_field=IntegerField()) +
+                Case(When(is_coi_pred=True, then=Value(1)), default=Value(0), output_field=IntegerField()) +
+                Case(When(is_fund_pred=True, then=Value(1)), default=Value(0), output_field=IntegerField()) +
+                Case(When(is_register_pred=True, then=Value(1)), default=Value(0), output_field=IntegerField()) +
+                Case(When(is_open_access=True, then=Value(1)), default=Value(0), output_field=IntegerField())
+            )
         )['score'] or 0, 2)
 
 
@@ -278,6 +300,8 @@ class ResearchFieldSerializer(serializers.ModelSerializer):
     """
     Comprehensive research field serializer with statistics
     """
+    transparency_breakdown = serializers.SerializerMethodField()
+    top_journals = serializers.SerializerMethodField()
     
     class Meta:
         model = ResearchField
@@ -285,45 +309,63 @@ class ResearchFieldSerializer(serializers.ModelSerializer):
             'id',
             'name',
             'description',
-            'paper_count',
+            'total_papers',
+            'total_journals', 
             'avg_transparency_score',
             'transparency_breakdown',
             'top_journals',
             'created_at',
             'updated_at'
         ]
-        
-    def to_representation(self, instance):
-        """Add computed fields to the representation"""
-        data = super().to_representation(instance)
-        
-        # Add transparency breakdown
-        data['transparency_breakdown'] = self.get_transparency_breakdown(instance)
-        
-        # Add top journals in this field
-        data['top_journals'] = self.get_top_journals(instance)
-        
-        return data
     
     def get_transparency_breakdown(self, obj):
         """Get transparency statistics for this research field"""
-        # This would require a more complex query to get papers by research field
-        # For now, return basic stats
+        # Get papers with this broad subject term
+        papers = Paper.objects.filter(broad_subject_term=obj.name)
+        total = papers.count()
+        
+        if total == 0:
+            return {
+                'open_data': 0,
+                'open_code': 0,
+                'conflict_of_interest': 0,
+                'funding_declaration': 0,
+                'registration': 0,
+                'open_access': 0
+            }
+        
         return {
-            'open_data': 0,
-            'open_code': 0,
-            'conflict_of_interest': 0,
-            'funding_declaration': 0,
-            'registration': 0,
-            'reporting_guidelines': 0,
-            'data_sharing': 0
+            'open_data': papers.filter(is_open_data=True).count(),
+            'open_code': papers.filter(is_open_code=True).count(),
+            'conflict_of_interest': papers.filter(is_coi_pred=True).count(),
+            'funding_declaration': papers.filter(is_fund_pred=True).count(),
+            'registration': papers.filter(is_register_pred=True).count(),
+            'open_access': papers.filter(is_open_access=True).count()
         }
     
     def get_top_journals(self, obj):
         """Get top 5 journals publishing in this research field"""
-        # This would require a relationship between papers and research fields
-        # For now, return empty list
-        return []
+        # Get papers with this broad subject term and count by journal
+        from django.db.models import Count
+        
+        top_journals = Paper.objects.filter(
+            broad_subject_term=obj.name,
+            journal__isnull=False
+        ).values(
+            'journal__title_abbreviation',
+            'journal__id'
+        ).annotate(
+            paper_count=Count('id')
+        ).order_by('-paper_count')[:5]
+        
+        return [
+            {
+                'name': journal['journal__title_abbreviation'],
+                'id': journal['journal__id'],
+                'paper_count': journal['paper_count']
+            }
+            for journal in top_journals
+        ]
 
 
 class APIStatsSerializer(serializers.Serializer):

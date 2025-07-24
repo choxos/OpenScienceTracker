@@ -681,6 +681,54 @@ body {
   font-size: 0.875rem;
 }
 
+/* === MOBILE MENU TOGGLE === */
+.xera-mobile-menu-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: var(--xera-border-radius-sm);
+  transition: var(--xera-transition);
+}
+
+.xera-mobile-menu-toggle:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.hamburger-line {
+  width: 24px;
+  height: 2px;
+  background-color: white;
+  margin: 2px 0;
+  transition: var(--xera-transition);
+  transform-origin: center;
+}
+
+/* Hamburger Animation */
+.xera-mobile-menu-toggle.active .hamburger-line:nth-child(1) {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.xera-mobile-menu-toggle.active .hamburger-line:nth-child(2) {
+  opacity: 0;
+}
+
+.xera-mobile-menu-toggle.active .hamburger-line:nth-child(3) {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+/* Active nav link styling */
+.xera-nav-link.active {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: var(--xera-border-radius-sm);
+  padding: 0.5rem 0.75rem;
+}
+
 /* === RESPONSIVE DESIGN === */
 @media (max-width: 768px) {
   .xera-container {
@@ -688,14 +736,53 @@ body {
   }
 
   .xera-header-container {
-    flex-direction: column;
-    gap: var(--xera-spacing-md);
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .xera-mobile-menu-toggle {
+    display: flex;
   }
 
   .xera-nav {
-    gap: var(--xera-spacing-md);
-    flex-wrap: wrap;
-    justify-content: center;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--xera-primary);
+    flex-direction: column;
+    padding: var(--xera-spacing-lg);
+    box-shadow: var(--xera-shadow-lg);
+    border-radius: 0 0 var(--xera-border-radius) var(--xera-border-radius);
+    gap: var(--xera-spacing-sm);
+    transform: translateY(-100%);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease-in-out;
+    z-index: 999;
+  }
+
+  .xera-nav.active {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .xera-nav-link {
+    padding: var(--xera-spacing-md);
+    border-radius: var(--xera-border-radius-sm);
+    transition: var(--xera-transition);
+    width: 100%;
+    text-align: left;
+  }
+
+  .xera-nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .xera-nav-link.active {
+    background-color: rgba(255, 255, 255, 0.2);
   }
 
   .xera-stats-grid {

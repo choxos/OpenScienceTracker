@@ -65,7 +65,15 @@
                 </div>
             </a>
             
-            <nav class="xera-nav">
+            <!-- Mobile Menu Toggle Button -->
+            <button class="xera-mobile-menu-toggle" aria-label="Toggle navigation menu">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
+            
+            <!-- Navigation Menu -->
+            <nav class="xera-nav" id="main-nav">
                 <a href="{% url 'tracker:home' %}" class="xera-nav-link {% if request.resolver_match.url_name == 'home' %}active{% endif %}">
                     <i class="fas fa-home me-1"></i>Home
                 </a>
@@ -242,6 +250,55 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     
     {% block extra_js %}{% endblock %}
+    
+    <!-- Mobile Menu Toggle Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileToggle = document.querySelector('.xera-mobile-menu-toggle');
+            const navigation = document.querySelector('.xera-nav');
+            
+            if (mobileToggle && navigation) {
+                mobileToggle.addEventListener('click', function() {
+                    navigation.classList.toggle('active');
+                    mobileToggle.classList.toggle('active');
+                    
+                    // Update aria-expanded for accessibility
+                    const isExpanded = navigation.classList.contains('active');
+                    mobileToggle.setAttribute('aria-expanded', isExpanded);
+                });
+                
+                // Close menu when clicking on navigation links (mobile)
+                const navLinks = document.querySelectorAll('.xera-nav-link');
+                navLinks.forEach(link => {
+                    link.addEventListener('click', function() {
+                        if (window.innerWidth <= 768) {
+                            navigation.classList.remove('active');
+                            mobileToggle.classList.remove('active');
+                            mobileToggle.setAttribute('aria-expanded', 'false');
+                        }
+                    });
+                });
+                
+                // Close menu when clicking outside (mobile)
+                document.addEventListener('click', function(event) {
+                    if (!navigation.contains(event.target) && !mobileToggle.contains(event.target)) {
+                        navigation.classList.remove('active');
+                        mobileToggle.classList.remove('active');
+                        mobileToggle.setAttribute('aria-expanded', 'false');
+                    }
+                });
+                
+                // Handle window resize
+                window.addEventListener('resize', function() {
+                    if (window.innerWidth > 768) {
+                        navigation.classList.remove('active');
+                        mobileToggle.classList.remove('active');
+                        mobileToggle.setAttribute('aria-expanded', 'false');
+                    }
+                });
+            }
+        });
+    </script>
     
     <!-- Analytics (if needed) -->
     {% if not debug %}

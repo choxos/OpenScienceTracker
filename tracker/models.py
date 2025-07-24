@@ -60,67 +60,85 @@ class Journal(models.Model):
         return 'Dentistry' in self.broad_subject_terms or 'Orthodontics' in self.broad_subject_terms
 
 class Paper(models.Model):
-    """Model representing a scientific paper"""
-    # Article identifiers
-    pmid = models.CharField(max_length=20, unique=True, db_index=True)
-    pmcid = models.CharField(max_length=20, null=True, blank=True)
-    doi = models.CharField(max_length=200, null=True, blank=True, db_index=True)
+    """Model representing a scientific paper from EuropePMC with transparency indicators"""
     
-    # Basic information
-    title = models.TextField()
-    author_string = models.TextField()
-    journal = models.ForeignKey(Journal, on_delete=models.CASCADE, related_name='papers')
-    journal_title = models.CharField(max_length=200, db_index=True)  # For backward compatibility
+    # === EuropePMC Core Fields ===
+    # Article identifiers
+    epmc_id = models.CharField(max_length=50, unique=True, db_index=True, help_text="EuropePMC ID (primary key)")
+    source = models.CharField(max_length=20, help_text="Data source (e.g., PMC, MED)")
+    pmcid = models.CharField(max_length=20, null=True, blank=True, db_index=True, help_text="PubMed Central ID")
+    pmid = models.CharField(max_length=20, null=True, blank=True, db_index=True, help_text="PubMed ID")
+    doi = models.CharField(max_length=200, null=True, blank=True, db_index=True, help_text="Digital Object Identifier")
+    
+    # Article content
+    title = models.TextField(help_text="Article title")
+    author_string = models.TextField(null=True, blank=True, help_text="Author names as string")
+    
+    # Journal information
+    journal = models.ForeignKey(Journal, on_delete=models.SET_NULL, null=True, blank=True, related_name='papers')
+    journal_title = models.CharField(max_length=500, db_index=True, help_text="Journal title from EuropePMC")
+    journal_issn = models.CharField(max_length=20, null=True, blank=True, help_text="Journal ISSN")
     
     # Publication details
-    pub_year = models.IntegerField(db_index=True)
-    pub_year_modified = models.CharField(max_length=20, null=True, blank=True)
-    first_publication_date = models.DateField(null=True, blank=True)
-    year_first_pub = models.IntegerField(null=True, blank=True)
-    month_first_pub = models.IntegerField(null=True, blank=True)
+    pub_year = models.IntegerField(null=True, blank=True, db_index=True, help_text="Publication year")
+    issue = models.CharField(max_length=50, null=True, blank=True, help_text="Journal issue")
+    journal_volume = models.CharField(max_length=50, null=True, blank=True, help_text="Journal volume")
+    page_info = models.CharField(max_length=100, null=True, blank=True, help_text="Page information")
+    pub_type = models.CharField(max_length=500, null=True, blank=True, help_text="Publication type")
     
-    # Europe PMC publication details
-    issue = models.CharField(max_length=20, null=True, blank=True, help_text="Journal issue number")
-    page_info = models.CharField(max_length=50, null=True, blank=True, help_text="Page information")
-    journal_volume = models.CharField(max_length=20, null=True, blank=True, help_text="Journal volume")
-    pub_type = models.CharField(max_length=200, null=True, blank=True, help_text="Publication type from Europe PMC")
+    # Dates
+    first_index_date = models.DateField(null=True, blank=True, help_text="First index date in EuropePMC")
+    first_publication_date = models.DateField(null=True, blank=True, help_text="First publication date")
     
-    # Europe PMC availability flags
-    is_open_access = models.BooleanField(default=False, help_text="Open access availability")
-    in_epmc = models.BooleanField(default=False, help_text="Available in Europe PMC")
+    # Access and availability flags
+    is_open_access = models.BooleanField(default=False, help_text="Open access status")
+    in_epmc = models.BooleanField(default=False, help_text="Available in EuropePMC")
     in_pmc = models.BooleanField(default=False, help_text="Available in PMC")
     has_pdf = models.BooleanField(default=False, help_text="PDF available")
+    has_book = models.BooleanField(default=False, help_text="Book chapter available")
+    has_suppl = models.BooleanField(default=False, help_text="Supplementary material available")
     
-    # Journal metrics and categorization
-    journal_issn = models.CharField(max_length=9, null=True, blank=True)
-    jif2020 = models.FloatField(null=True, blank=True, help_text="Journal Impact Factor 2020")
-    scimago_publisher = models.CharField(max_length=500, null=True, blank=True)
-    broad_subject_category = models.CharField(max_length=200, null=True, blank=True, db_index=True, 
-                                            help_text="Primary broad subject category from NLM")
+    # Content flags
+    has_references = models.BooleanField(default=False, help_text="References available")
+    has_text_mined_terms = models.BooleanField(default=False, help_text="Text-mined terms available")
+    has_db_cross_references = models.BooleanField(default=False, help_text="Database cross-references available")
+    has_labs_links = models.BooleanField(default=False, help_text="Lab links available")
+    has_tm_accession_numbers = models.BooleanField(default=False, help_text="Text-mined accession numbers available")
     
-    # Transparency indicators (5 core + 3 additional)
-    is_open_data = models.BooleanField(default=False, help_text="Data sharing available")
-    is_open_code = models.BooleanField(default=False, help_text="Code sharing available")
-    is_coi_pred = models.BooleanField(default=False, help_text="Conflict of interest disclosure")
-    is_fund_pred = models.BooleanField(default=False, help_text="Funding disclosure")
-    is_register_pred = models.BooleanField(default=False, help_text="Protocol registration")
-    is_replication = models.BooleanField(null=True, blank=True, help_text="Replication component")
-    is_novelty = models.BooleanField(null=True, blank=True, help_text="Novelty statement")
+    # Citation metrics
+    cited_by_count = models.IntegerField(default=0, help_text="Citation count from EuropePMC")
     
-    # Disclosure text indicators
-    disc_data = models.BooleanField(default=False, help_text="Data disclosure statement found")
-    disc_code = models.BooleanField(default=False, help_text="Code disclosure statement found")
-    disc_coi = models.BooleanField(default=False, help_text="COI disclosure statement found")
-    disc_fund = models.BooleanField(default=False, help_text="Funding disclosure statement found")
-    disc_register = models.BooleanField(default=False, help_text="Registration disclosure statement found")
-    disc_replication = models.BooleanField(null=True, blank=True, help_text="Replication disclosure found")
-    disc_novelty = models.BooleanField(null=True, blank=True, help_text="Novelty disclosure found")
+    # === Transparency Indicators from rtransparent ===
+    # Conflict of Interest
+    is_coi_pred = models.BooleanField(default=False, help_text="Has conflict of interest disclosure")
+    coi_text = models.TextField(null=True, blank=True, help_text="Conflict of interest disclosure text")
     
-    # Calculated transparency metrics
+    # Funding
+    is_fund_pred = models.BooleanField(default=False, help_text="Has funding disclosure")
+    fund_text = models.TextField(null=True, blank=True, help_text="Funding disclosure text")
+    
+    # Registration
+    is_register_pred = models.BooleanField(default=False, help_text="Study was pre-registered")
+    register_text = models.TextField(null=True, blank=True, help_text="Registration statement text")
+    
+    # Open Data
+    is_open_data = models.BooleanField(default=False, help_text="Has open data available")
+    open_data_category = models.CharField(max_length=200, null=True, blank=True, help_text="Category of open data")
+    open_data_statements = models.TextField(null=True, blank=True, help_text="Open data statement text")
+    
+    # Open Code
+    is_open_code = models.BooleanField(default=False, help_text="Has open code available")
+    open_code_statements = models.TextField(null=True, blank=True, help_text="Open code statement text")
+    
+    # === Subject Classification ===
+    broad_subject_term = models.CharField(max_length=200, null=True, blank=True, db_index=True, 
+                                        help_text="NLM broad subject classification for this paper's journal")
+    
+    # === Calculated Fields ===
     transparency_score = models.IntegerField(
         default=0,
-        validators=[MinValueValidator(0), MaxValueValidator(8)],
-        help_text="Total transparency score (0-8)"
+        validators=[MinValueValidator(0), MaxValueValidator(6)],
+        help_text="Total transparency score (0-6): COI + Funding + Registration + Open Data + Open Code + Open Access"
     )
     transparency_score_pct = models.FloatField(
         default=0.0,
@@ -128,12 +146,12 @@ class Paper(models.Model):
         help_text="Transparency score as percentage"
     )
     
-    # Assessment metadata
-    assessment_date = models.DateTimeField(null=True, blank=True)
-    assessment_tool = models.CharField(max_length=50, default='rtransparent')
-    ost_version = models.CharField(max_length=10, default='1.0')
+    # === Metadata ===
+    # Processing flags
+    transparency_processed = models.BooleanField(default=False, help_text="Whether transparency indicators have been processed")
+    processing_date = models.DateTimeField(null=True, blank=True, help_text="Date when transparency processing was completed")
     
-    # Metadata
+    # System metadata
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     
@@ -143,56 +161,62 @@ class Paper(models.Model):
     class Meta:
         ordering = ['-pub_year', 'title']
         indexes = [
+            models.Index(fields=['epmc_id']),
+            models.Index(fields=['pmid']),
+            models.Index(fields=['pmcid']),
+            models.Index(fields=['doi']),
             models.Index(fields=['pub_year']),
             models.Index(fields=['journal_title']),
+            models.Index(fields=['is_open_access']),
             models.Index(fields=['transparency_score']),
             models.Index(fields=['is_open_data']),
             models.Index(fields=['is_open_code']),
+            models.Index(fields=['is_coi_pred']),
+            models.Index(fields=['is_fund_pred']),
+            models.Index(fields=['is_register_pred']),
+            models.Index(fields=['transparency_processed']),
         ]
     
     def __str__(self):
         return f"{self.title[:50]} ({self.pub_year})"
     
     def calculate_transparency_score(self):
-        """Calculate transparency score based on 8 indicators"""
+        """Calculate transparency score based on 6 indicators"""
         score = 0
         indicators = [
-            self.is_open_data,
-            self.is_open_code,
-            self.is_coi_pred,
-            self.is_fund_pred,
-            self.is_register_pred,
-            self.is_open_access,  # New Open Access indicator
+            self.is_coi_pred,      # Conflict of interest disclosure
+            self.is_fund_pred,     # Funding disclosure  
+            self.is_register_pred, # Pre-registration
+            self.is_open_data,     # Open data
+            self.is_open_code,     # Open code
+            self.is_open_access,   # Open access
         ]
         
-        # Count core 6 indicators (5 original + Open Access)
-        score += sum(1 for indicator in indicators if indicator)
-        
-        # Add additional indicators if available
-        if self.is_replication is not None and self.is_replication:
-            score += 1
-        if self.is_novelty is not None and self.is_novelty:
-            score += 1
-            
+        score = sum(1 for indicator in indicators if indicator)
         return score
     
     def get_transparency_percentage(self):
-        """Get transparency score as percentage (out of available indicators)"""
-        max_score = 5  # Basic indicators always available
-        if self.is_replication is not None:
-            max_score += 1
-        if self.is_novelty is not None:
-            max_score += 1
-        
-        if max_score == 0:
-            return 0.0
-        return (self.transparency_score / max_score) * 100
+        """Get transparency score as percentage (out of 6 indicators)"""
+        return round((self.transparency_score / 6.0) * 100, 1)
     
     def save(self, *args, **kwargs):
-        """Override save to automatically calculate transparency score"""
+        """Override save to calculate transparency score"""
         self.transparency_score = self.calculate_transparency_score()
         self.transparency_score_pct = self.get_transparency_percentage()
         super().save(*args, **kwargs)
+    
+    def get_identifiers_dict(self):
+        """Get all available identifiers as dictionary"""
+        identifiers = {}
+        if self.pmid:
+            identifiers['pmid'] = self.pmid
+        if self.pmcid:
+            identifiers['pmcid'] = self.pmcid
+        if self.doi:
+            identifiers['doi'] = self.doi
+        if self.epmc_id:
+            identifiers['epmc_id'] = self.epmc_id
+        return identifiers
 
 class ResearchField(models.Model):
     """Model for research fields/disciplines"""

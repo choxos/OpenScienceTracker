@@ -46,8 +46,9 @@ class PaperFilter(django_filters.FilterSet):
     transparency_score__gte = django_filters.NumberFilter(method='filter_transparency_score_gte')
     transparency_score__lte = django_filters.NumberFilter(method='filter_transparency_score_lte')
     
-    # Subject category
-    subject_category = django_filters.CharFilter(field_name='broad_subject_category', lookup_expr='icontains')
+    # Subject category (broad term)
+    broad_subject_term = django_filters.CharFilter(field_name='broad_subject_term', lookup_expr='icontains')
+    subject_category = django_filters.CharFilter(field_name='broad_subject_term', lookup_expr='icontains')
     
     # Boolean transparency indicators
     has_open_data = django_filters.BooleanFilter(field_name='is_open_data')
@@ -55,8 +56,8 @@ class PaperFilter(django_filters.FilterSet):
     has_coi = django_filters.BooleanFilter(field_name='is_coi_pred')
     has_funding = django_filters.BooleanFilter(field_name='is_fund_pred')
     has_registration = django_filters.BooleanFilter(field_name='is_register_pred')
-    has_reporting = django_filters.BooleanFilter(field_name='is_report_pred')
-    has_sharing = django_filters.BooleanFilter(field_name='is_share_pred')
+    # has_reporting = django_filters.BooleanFilter(field_name='is_report_pred')  # Field doesn't exist in current model
+    # has_sharing = django_filters.BooleanFilter(field_name='is_share_pred')    # Field doesn't exist in current model
     
     # Author filtering
     author = django_filters.CharFilter(field_name='author_string', lookup_expr='icontains')
@@ -73,8 +74,7 @@ class PaperFilter(django_filters.FilterSet):
                    "CASE WHEN is_coi_pred THEN 1 ELSE 0 END + "
                    "CASE WHEN is_fund_pred THEN 1 ELSE 0 END + "
                    "CASE WHEN is_register_pred THEN 1 ELSE 0 END + "
-                   "CASE WHEN is_report_pred THEN 1 ELSE 0 END + "
-                   "CASE WHEN is_share_pred THEN 1 ELSE 0 END) = %s"],
+                   "CASE WHEN is_open_access THEN 1 ELSE 0 END) = %s"],
             params=[value]
         )
     
@@ -86,8 +86,7 @@ class PaperFilter(django_filters.FilterSet):
                    "CASE WHEN is_coi_pred THEN 1 ELSE 0 END + "
                    "CASE WHEN is_fund_pred THEN 1 ELSE 0 END + "
                    "CASE WHEN is_register_pred THEN 1 ELSE 0 END + "
-                   "CASE WHEN is_report_pred THEN 1 ELSE 0 END + "
-                   "CASE WHEN is_share_pred THEN 1 ELSE 0 END) >= %s"],
+                   "CASE WHEN is_open_access THEN 1 ELSE 0 END) >= %s"],
             params=[value]
         )
     
@@ -99,8 +98,7 @@ class PaperFilter(django_filters.FilterSet):
                    "CASE WHEN is_coi_pred THEN 1 ELSE 0 END + "
                    "CASE WHEN is_fund_pred THEN 1 ELSE 0 END + "
                    "CASE WHEN is_register_pred THEN 1 ELSE 0 END + "
-                   "CASE WHEN is_report_pred THEN 1 ELSE 0 END + "
-                   "CASE WHEN is_share_pred THEN 1 ELSE 0 END) <= %s"],
+                   "CASE WHEN is_open_access THEN 1 ELSE 0 END) <= %s"],
             params=[value]
         )
 
@@ -219,14 +217,14 @@ class PaperViewSet(viewsets.ReadOnlyModelViewSet):
                     'count': queryset.filter(is_register_pred=True).count(),
                     'percentage': round((queryset.filter(is_register_pred=True).count() / total) * 100, 1)
                 },
-                'reporting_guidelines': {
-                    'count': queryset.filter(is_report_pred=True).count(),
-                    'percentage': round((queryset.filter(is_report_pred=True).count() / total) * 100, 1)
-                },
-                'data_sharing': {
-                    'count': queryset.filter(is_share_pred=True).count(),
-                    'percentage': round((queryset.filter(is_share_pred=True).count() / total) * 100, 1)
-                }
+                # 'reporting_guidelines': {
+                #     'count': queryset.filter(is_report_pred=True).count(),
+                #     'percentage': round((queryset.filter(is_report_pred=True).count() / total) * 100, 1)
+                # },
+                # 'data_sharing': {
+                #     'count': queryset.filter(is_share_pred=True).count(),
+                #     'percentage': round((queryset.filter(is_share_pred=True).count() / total) * 100, 1)
+                # }
             },
             'year_range': {
                 'earliest': queryset.aggregate(min_year=Min('pub_year'))['min_year'],
@@ -365,8 +363,8 @@ class APIOverviewView(APIView):
             'conflict_of_interest': Paper.objects.filter(is_coi_pred=True).count(),
             'funding_declaration': Paper.objects.filter(is_fund_pred=True).count(),
             'registration': Paper.objects.filter(is_register_pred=True).count(),
-            'reporting_guidelines': Paper.objects.filter(is_report_pred=True).count(),
-            'data_sharing': Paper.objects.filter(is_share_pred=True).count()
+            # 'reporting_guidelines': Paper.objects.filter(is_report_pred=True).count(),  # Field doesn't exist
+            # 'data_sharing': Paper.objects.filter(is_share_pred=True).count()  # Field doesn't exist
         }
         
         # Year range

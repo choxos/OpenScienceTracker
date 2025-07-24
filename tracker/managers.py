@@ -22,7 +22,8 @@ class OptimizedPaperManager(models.Manager):
             'pmid', 'title', 'author_string', 'pub_year',
             'transparency_score', 'is_open_data', 'is_open_code',
             'is_coi_pred', 'is_fund_pred', 'is_register_pred',
-            'is_report_pred', 'is_share_pred', 'doi', 'broad_subject_category',
+            # 'is_report_pred', 'is_share_pred',  # Fields don't exist
+            'doi', 'broad_subject_term',
             'journal__title_abbreviation', 'journal__id', 'journal__title_full'
         )
     
@@ -30,7 +31,7 @@ class OptimizedPaperManager(models.Manager):
         """Optimized queryset for API list endpoints"""
         return self.select_related('journal').only(
             'pmid', 'title', 'author_string', 'pub_year', 'doi',
-            'transparency_score', 'broad_subject_category',
+            'transparency_score', 'broad_subject_term',
             'journal__title_abbreviation'
         )
     
@@ -60,12 +61,16 @@ class OptimizedPaperManager(models.Manager):
                 When(is_register_pred=True, then=1), default=0,
                 output_field=IntegerField()
             ) + Case(
-                When(is_report_pred=True, then=1), default=0,
-                output_field=IntegerField()
-            ) + Case(
-                When(is_share_pred=True, then=1), default=0,
+                When(is_open_access=True, then=1), default=0,
                 output_field=IntegerField()
             )
+            # + Case(
+            #     When(is_report_pred=True, then=1), default=0,  # Field doesn't exist
+            #     output_field=IntegerField()
+            # ) + Case(
+            #     When(is_share_pred=True, then=1), default=0,   # Field doesn't exist
+            #     output_field=IntegerField()
+            # )
         )
     
     def recent(self, limit=10):

@@ -100,7 +100,7 @@
         <div class="col-md-3">
             <div class="card bg-primary text-white">
                 <div class="card-body text-center">
-                    <div class="h3 mb-1">{{ fields.count }}</div>
+                    <div class="h3 mb-1">{{ total_fields }}</div>
                     <small>Research Fields</small>
                 </div>
             </div>
@@ -108,13 +108,7 @@
         <div class="col-md-3">
             <div class="card bg-success text-white">
                 <div class="card-body text-center">
-                    <div class="h3 mb-1">
-                        {% if fields %}
-                            0
-                        {% else %}
-                            0
-                        {% endif %}
-                    </div>
+                    <div class="h3 mb-1">{{ max_papers }}</div>
                     <small>Max Papers in Field</small>
                 </div>
             </div>
@@ -122,13 +116,7 @@
         <div class="col-md-3">
             <div class="card bg-info text-white">
                 <div class="card-body text-center">
-                    <div class="h3 mb-1">
-                        {% if fields %}
-                            0
-                        {% else %}
-                            0
-                        {% endif %}
-                    </div>
+                    <div class="h3 mb-1">{{ max_journals }}</div>
                     <small>Max Journals in Field</small>
                 </div>
             </div>
@@ -136,13 +124,7 @@
         <div class="col-md-3">
             <div class="card bg-warning text-white">
                 <div class="card-body text-center">
-                    <div class="h3 mb-1">
-                        {% if fields %}
-                            {{ fields|length|add:"-1"|add:1 }}
-                        {% else %}
-                            0
-                        {% endif %}
-                    </div>
+                    <div class="h3 mb-1">{{ active_fields }}</div>
                     <small>Active Disciplines</small>
                 </div>
             </div>

@@ -22,11 +22,12 @@ class JournalAdmin(admin.ModelAdmin):
 
 @admin.register(Paper)
 class PaperAdmin(admin.ModelAdmin):
-    list_display = ['pmid', 'title_short', 'journal', 'pub_year', 'transparency_score',
-                   'transparency_indicators', 'broad_subject_category', 'created_at']
-    list_filter = ['pub_year', 'broad_subject_category', 'pub_type', 'is_open_data', 'is_open_code', 'is_coi_pred', 
-                  'is_fund_pred', 'is_register_pred', 'is_open_access', 'in_epmc', 'in_pmc', 'has_pdf', 'journal__country']
-    search_fields = ['pmid', 'title', 'author_string', 'journal__title_abbreviation']
+    list_display = ['epmc_id', 'title_short', 'journal', 'pub_year', 'transparency_score',
+                   'transparency_indicators', 'source', 'transparency_processed', 'created_at']
+    list_filter = ['pub_year', 'source', 'pub_type', 'is_open_data', 'is_open_code', 'is_coi_pred', 
+                  'is_fund_pred', 'is_register_pred', 'is_open_access', 'in_epmc', 'in_pmc', 'has_pdf', 
+                  'transparency_processed', 'journal__country']
+    search_fields = ['epmc_id', 'pmid', 'pmcid', 'doi', 'title', 'author_string', 'journal__title_abbreviation']
     readonly_fields = ['transparency_score', 'transparency_score_pct', 'created_at', 'updated_at']
     date_hierarchy = 'created_at'
     
@@ -53,40 +54,41 @@ class PaperAdmin(admin.ModelAdmin):
     transparency_indicators.short_description = 'Indicators'
     
     fieldsets = (
+        ('Identifiers', {
+            'fields': ('epmc_id', 'source', 'pmid', 'pmcid', 'doi')
+        }),
         ('Basic Information', {
-            'fields': ('pmid', 'pmcid', 'doi', 'title', 'author_string', 'journal', 'journal_title')
+            'fields': ('title', 'author_string', 'journal', 'journal_title', 'journal_issn')
         }),
         ('Publication Details', {
-            'fields': ('pub_year', 'pub_year_modified', 'first_publication_date', 
-                      'year_first_pub', 'month_first_pub')
+            'fields': ('pub_year', 'issue', 'journal_volume', 'page_info', 'pub_type', 
+                      'first_publication_date', 'first_index_date')
         }),
-        ('Europe PMC Details', {
+        ('EuropePMC Availability', {
             'fields': (
-                ('issue', 'journal_volume', 'page_info'),
-                'pub_type',
-                ('in_epmc', 'in_pmc', 'has_pdf'),
-                'broad_subject_category'
+                ('is_open_access', 'in_epmc', 'in_pmc'),
+                ('has_pdf', 'has_book', 'has_suppl'),
+                ('has_references', 'has_text_mined_terms', 'has_db_cross_references'),
+                ('has_labs_links', 'has_tm_accession_numbers'),
+                'cited_by_count'
             ),
             'classes': ('collapse',)
         }),
         ('Transparency Indicators', {
             'fields': (
-                ('is_open_data', 'disc_data'),
-                ('is_open_code', 'disc_code'),
-                ('is_coi_pred', 'disc_coi'),
-                ('is_fund_pred', 'disc_fund'),
-                ('is_register_pred', 'disc_register'),
-                ('is_open_access',),
-                ('is_replication', 'disc_replication'),
-                ('is_novelty', 'disc_novelty'),
+                ('is_coi_pred', 'coi_text'),
+                ('is_fund_pred', 'fund_text'),
+                ('is_register_pred', 'register_text'),
+                ('is_open_data', 'open_data_category', 'open_data_statements'),
+                ('is_open_code', 'open_code_statements'),
             )
         }),
         ('Calculated Metrics', {
             'fields': ('transparency_score', 'transparency_score_pct'),
             'classes': ('collapse',)
         }),
-        ('Assessment Info', {
-            'fields': ('assessment_date', 'assessment_tool', 'ost_version'),
+        ('Processing Info', {
+            'fields': ('transparency_processed', 'processing_date'),
             'classes': ('collapse',)
         }),
         ('Metadata', {

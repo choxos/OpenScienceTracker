@@ -5,7 +5,7 @@ from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth import login
 from django.contrib import messages
 from django.http import JsonResponse, HttpResponse, Http404
-from django.db.models import Q, Count, Avg, Sum
+from django.db.models import Q, Count, Avg, Sum, Max
 from django.core.paginator import Paginator
 from django.utils.decorators import method_decorator
 from django.views.decorators.cache import cache_page
@@ -155,7 +155,7 @@ class PaperListView(ListView):
         # Filter by subject category
         category = self.request.GET.get('category')
         if category:
-            queryset = queryset.filter(broad_subject_category=category)
+            queryset = queryset.filter(broad_subject_term=category)
         
         # Filter by year
         year = self.request.GET.get('year')
@@ -191,8 +191,8 @@ class PaperListView(ListView):
         ).distinct().order_by('-pub_year')
         context['available_journals'] = Journal.objects.all().order_by('title_abbreviation')
         context['available_categories'] = Paper.objects.exclude(
-            broad_subject_category__isnull=True
-        ).values_list('broad_subject_category', flat=True).distinct().order_by('broad_subject_category')
+            broad_subject_term__isnull=True
+        ).values_list('broad_subject_term', flat=True).distinct().order_by('broad_subject_term')
         
         # Add selected indicators for template checkbox state
         context['selected_indicators'] = self.request.GET.getlist('indicators')
@@ -382,8 +382,8 @@ class StatisticsView(TemplateView):
         
         # Category-based statistics
         context['category_distribution'] = papers.exclude(
-            broad_subject_category__isnull=True
-        ).values('broad_subject_category').annotate(
+            broad_subject_term__isnull=True
+        ).values('broad_subject_term').annotate(
             count=Count('id'),
             avg_transparency=Avg('transparency_score'),
             data_sharing_pct=Count('id', filter=Q(is_open_data=True)) * 100.0 / Count('id'),
@@ -545,6 +545,21 @@ class ResearchFieldListView(ListView):
     model = ResearchField
     template_name = 'tracker/field_list.html'
     context_object_name = 'fields'
+    
+    def get_queryset(self):
+        return ResearchField.objects.all().order_by('-total_papers', 'name')
+    
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        
+        # Calculate summary statistics
+        fields = ResearchField.objects.all()
+        context['total_fields'] = fields.count()
+        context['max_papers'] = fields.aggregate(max_papers=Max('total_papers'))['max_papers'] or 0
+        context['max_journals'] = fields.aggregate(max_journals=Max('total_journals'))['max_journals'] or 0
+        context['active_fields'] = fields.filter(total_papers__gt=0).count()
+        
+        return context
 
 class ResearchFieldDetailView(DetailView):
     """Detail view for research fields"""
@@ -556,29 +571,20 @@ class ResearchFieldDetailView(DetailView):
         context = super().get_context_data(**kwargs)
         field = self.object
         
-        # Get papers with this exact subject category
-        papers_exact = Paper.objects.filter(broad_subject_category=field.name)
-        
-        # Get papers from journals that contain this subject term
-        papers_from_journals = Paper.objects.filter(
-            journal__broad_subject_terms__icontains=field.name
+        # Get papers with this broad subject term
+        field_papers = Paper.objects.filter(
+            broad_subject_term=field.name
         ).select_related('journal')
-        
-        # Use the larger set (exact matches or journal-based)
-        if papers_exact.count() >= papers_from_journals.count():
-            field_papers = papers_exact.select_related('journal')
-        else:
-            field_papers = papers_from_journals
         
         # Recent papers (last 10, ordered by publication year)
         context['recent_papers'] = field_papers.order_by('-pub_year', '-created_at')[:10]
         
         # Top journals by paper count in this field
         journals_in_field = Journal.objects.filter(
-            broad_subject_terms__icontains=field.name
+            papers__broad_subject_term=field.name
         ).annotate(
-            papers_count=Count('papers', filter=Q(papers__broad_subject_category=field.name)),
-            avg_transparency=Avg('papers__transparency_score', filter=Q(papers__broad_subject_category=field.name))
+            papers_count=Count('papers', filter=Q(papers__broad_subject_term=field.name)),
+            avg_transparency=Avg('papers__transparency_score', filter=Q(papers__broad_subject_term=field.name))
         ).filter(papers_count__gt=0).order_by('-papers_count')[:10]
         
         context['top_journals'] = journals_in_field
