@@ -29,49 +29,7 @@
     </div>
 </section>
 
-<!-- Quick Search -->
-<section class="quick-search">
-    <div class="xera-container">
-        <h2 class="xera-text-xl xera-font-semibold mb-4">
-            <i class="fas fa-search me-2 text-primary"></i>
-            Quick Paper Search
-        </h2>
-        
-        <form action="{% url 'tracker:paper_list' %}" method="get" class="search-form">
-            <div class="search-input-group">
-                <label class="xera-label">Search Term</label>
-                <input type="text" 
-                       name="q" 
-                       class="xera-input" 
-                       placeholder="Search papers by title, author, or keywords..."
-                       data-search-debounce="300">
-            </div>
-            
-            <div class="xera-form-group">
-                <label class="xera-label">Year</label>
-                <select name="year" class="xera-select">
-                    <option value="">All Years</option>
-                    {% for year in available_years %}
-                    <option value="{{ year }}">{{ year }}</option>
-                    {% endfor %}
-                </select>
-            </div>
-            
-            <div class="xera-form-group">
-                <label class="xera-label">Category</label>
-                <select name="category" class="xera-select">
-                    <option value="">All Categories</option>
-                    <option value="Medicine">Medicine</option>
-                    <option value="Orthodontics">Orthodontics</option>
-                </select>
-            </div>
-            
-            <button type="submit" class="xera-btn xera-btn-primary">
-                <i class="fas fa-search me-1"></i>Search
-            </button>
-        </form>
-    </div>
-</section>
+
 
 <!-- Transparency Overview -->
 <section class="transparency-overview">

@@ -110,6 +110,22 @@
                     <i class="fas fa-code me-1"></i>API
                 </a>
             </nav>
+            
+            <!-- Header Search -->
+            <div class="xera-header-search">
+                <form action="{% url 'tracker:paper_list' %}" method="get" class="xera-search-form">
+                    <div class="xera-search-group">
+                        <input type="text" 
+                               name="q" 
+                               class="xera-search-input" 
+                               placeholder="Search papers..."
+                               data-search-debounce="300">
+                        <button type="submit" class="xera-search-btn" aria-label="Search">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                </form>
+            </div>
         </div>
     </header>
 
