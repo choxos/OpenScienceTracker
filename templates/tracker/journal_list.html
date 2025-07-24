@@ -1,336 +1,489 @@
-{% extends 'tracker/base.html' %}
+{% extends "tracker/base.html" %}
 {% load static %}
 
 {% block title %}Journals - Open Science Tracker{% endblock %}
 
-{% block extra_head %}
-<style>
-    .journal-card {
-        transition: transform 0.2s, box-shadow 0.2s;
-        border: 1px solid #dee2e6;
-    }
-    .journal-card:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    }
-    .subject-badge {
-        font-size: 0.75rem;
-        margin: 0.125rem;
-    }
-    .transparency-meter {
-        height: 8px;
-        border-radius: 4px;
-        overflow: hidden;
-        background-color: #e9ecef;
-    }
-    .transparency-bar {
-        height: 100%;
-        transition: width 0.3s ease;
-    }
-    .filter-section {
-        background-color: #f8f9fa;
-        border-radius: 0.375rem;
-        padding: 1.5rem;
-        margin-bottom: 2rem;
-    }
-    .stat-item {
-        background: white;
-        border-radius: 0.25rem;
-        padding: 0.5rem;
-        text-align: center;
-        border: 1px solid #e9ecef;
-    }
-</style>
-{% endblock %}
+{% block meta_description %}Browse {{ total_journals }} scientific journals with transparency tracking. Explore journal-level transparency metrics and find open science leaders.{% endblock %}
 
 {% block content %}
-<div class="container-fluid">
-    <!-- Header -->
-    <div class="row mb-4">
-        <div class="col-12">
-            <h1 class="h2 mb-3">
-                <i class="fas fa-book-open me-2"></i>
+<!-- Filter Section -->
+<section class="ost-filter-section">
+    <div class="xera-filter-header">
+        <h2 class="xera-filter-title">
+            <i class="fas fa-filter me-2"></i>
+            Search & Filter Journals
+        </h2>
+        <div class="xera-text-sm text-muted">
+            {{ total_journals }} journals found
+        </div>
+    </div>
+    
+    <form method="get" class="xera-filter-form">
+        <div class="xera-form-group">
+            <label class="xera-label">Search Journals</label>
+            <input type="text" 
+                   name="q" 
+                   value="{{ request.GET.q }}" 
+                   class="xera-input" 
+                   placeholder="Search journal names, abbreviations..."
+                   data-search-debounce="300">
+        </div>
+        
+        <div class="xera-form-group">
+            <label class="xera-label">Subject Category</label>
+            <select name="category" class="xera-select">
+                <option value="">All Categories</option>
+                {% for category in available_categories %}
+                <option value="{{ category }}" {% if request.GET.category == category %}selected{% endif %}>
+                    {{ category }}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+        
+        <div class="xera-form-group">
+            <label class="xera-label">Country</label>
+            <select name="country" class="xera-select">
+                <option value="">All Countries</option>
+                {% for country in available_countries %}
+                <option value="{{ country }}" {% if request.GET.country == country %}selected{% endif %}>
+                    {{ country }}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+        
+        <div class="xera-form-group">
+            <label class="xera-label">Sort By</label>
+            <select name="sort" class="xera-select">
+                <option value="name" {% if request.GET.sort == "name" %}selected{% endif %}>Name A-Z</option>
+                <option value="-paper_count" {% if request.GET.sort == "-paper_count" %}selected{% endif %}>Most Papers</option>
+                <option value="-avg_transparency" {% if request.GET.sort == "-avg_transparency" %}selected{% endif %}>Highest Transparency</option>
+                <option value="country" {% if request.GET.sort == "country" %}selected{% endif %}>Country</option>
+            </select>
+        </div>
+        
+        <div class="xera-filter-actions">
+            <button type="submit" class="xera-btn xera-btn-ost">
+                <i class="fas fa-search me-1"></i>Search
+            </button>
+            <a href="{% url 'tracker:journal_list' %}" class="xera-btn xera-btn-secondary">
+                <i class="fas fa-times me-1"></i>Clear
+            </a>
+        </div>
+    </form>
+</section>
+
+<!-- Journals List -->
+<section>
+    <div class="xera-card">
+        <div class="xera-card-header">
+            <h2 class="xera-card-title">
+                <i class="fas fa-book me-2"></i>
                 Scientific Journals
-            </h1>
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Journals</li>
-                </ol>
-            </nav>
-        </div>
-    </div>
-
-    <!-- Search and Filters -->
-    <div class="filter-section">
-        <form method="get" class="row g-3">
-            <!-- Search -->
-            <div class="col-md-6">
-                <label for="search" class="form-label">Search Journals</label>
-                <div class="input-group">
-                    <input type="text" class="form-control" id="search" name="search" 
-                           placeholder="Journal name, abbreviation, or publisher..." 
-                           value="{{ request.GET.search }}">
-                    <button class="btn btn-outline-secondary" type="submit">
-                        <i class="fas fa-search"></i>
-                    </button>
-                </div>
-            </div>
-
-            <!-- Country Filter -->
-            <div class="col-md-3">
-                <label for="country" class="form-label">Country</label>
-                <select class="form-select" id="country" name="country">
-                    <option value="">All Countries</option>
-                    <option value="United States" {% if request.GET.country == "United States" %}selected{% endif %}>United States</option>
-                    <option value="England" {% if request.GET.country == "England" %}selected{% endif %}>England</option>
-                    <option value="Germany" {% if request.GET.country == "Germany" %}selected{% endif %}>Germany</option>
-                    <option value="Netherlands" {% if request.GET.country == "Netherlands" %}selected{% endif %}>Netherlands</option>
-                    <option value="Switzerland" {% if request.GET.country == "Switzerland" %}selected{% endif %}>Switzerland</option>
-                    <option value="France" {% if request.GET.country == "France" %}selected{% endif %}>France</option>
-                    <option value="Spain" {% if request.GET.country == "Spain" %}selected{% endif %}>Spain</option>
-                    <option value="Brazil" {% if request.GET.country == "Brazil" %}selected{% endif %}>Brazil</option>
-                </select>
-            </div>
-
-            <!-- Subject Filter -->
-            <div class="col-md-3">
-                <label for="subject" class="form-label">Subject</label>
-                <select class="form-select" id="subject" name="subject">
-                    <option value="">All Subjects</option>
-                    <option value="Dentistry" {% if request.GET.subject == "Dentistry" %}selected{% endif %}>Dentistry</option>
-                    <option value="Orthodontics" {% if request.GET.subject == "Orthodontics" %}selected{% endif %}>Orthodontics</option>
-                    <option value="Medicine" {% if request.GET.subject == "Medicine" %}selected{% endif %}>Medicine</option>
-                    <option value="Surgery" {% if request.GET.subject == "Surgery" %}selected{% endif %}>Surgery</option>
-                    <option value="Pediatrics" {% if request.GET.subject == "Pediatrics" %}selected{% endif %}>Pediatrics</option>
-                    <option value="Cardiology" {% if request.GET.subject == "Cardiology" %}selected{% endif %}>Cardiology</option>
-                    <option value="Neurology" {% if request.GET.subject == "Neurology" %}selected{% endif %}>Neurology</option>
-                </select>
-            </div>
-
-            <!-- Sort Options -->
-            <div class="col-md-6">
-                <label for="order_by" class="form-label">Sort By</label>
-                <select class="form-select" id="order_by" name="order_by" onchange="this.form.submit()">
-                    <option value="title_abbreviation" {% if request.GET.order_by == "title_abbreviation" or not request.GET.order_by %}selected{% endif %}>
-                        Journal Name (A-Z)
-                    </option>
-                    <option value="-paper_count" {% if request.GET.order_by == "-paper_count" %}selected{% endif %}>
-                        Paper Count (High to Low)
-                    </option>
-                    <option value="-avg_transparency" {% if request.GET.order_by == "-avg_transparency" %}selected{% endif %}>
-                        Transparency Score (High to Low)
-                    </option>
-                    <option value="country" {% if request.GET.order_by == "country" %}selected{% endif %}>
-                        Country (A-Z)
-                    </option>
-                    <option value="publisher" {% if request.GET.order_by == "publisher" %}selected{% endif %}>
-                        Publisher (A-Z)
-                    </option>
-                </select>
-            </div>
-
-            <!-- Action Buttons -->
-            <div class="col-md-6">
-                <label class="form-label">&nbsp;</label>
-                <div class="d-flex gap-2">
-                    <button type="submit" class="btn btn-primary">
-                        <i class="fas fa-filter me-1"></i> Filter
-                    </button>
-                    <a href="{% url 'tracker:journal_list' %}" class="btn btn-outline-secondary">
-                        <i class="fas fa-times me-1"></i> Clear
-                    </a>
-                </div>
-            </div>
-        </form>
-    </div>
-
-    <!-- Results Summary -->
-    <div class="row mb-3">
-        <div class="col-12">
-            <div class="d-flex justify-content-between align-items-center">
-                <p class="text-muted mb-0">
-                    {% if page_obj %}
-                        Showing {{ page_obj.start_index }}-{{ page_obj.end_index }} of {{ page_obj.paginator.count }} journals
-                    {% else %}
-                        Showing {{ journals.count }} journals
-                    {% endif %}
-                </p>
-                <div class="d-flex gap-2">
-                    <a href="{% url 'tracker:statistics' %}" class="btn btn-outline-info btn-sm">
-                        <i class="fas fa-chart-bar me-1"></i> View Statistics
-                    </a>
-                </div>
+                {% if request.GET.q %}
+                    <span class="xera-text-sm text-muted ms-2">- Search: "{{ request.GET.q }}"</span>
+                {% endif %}
+            </h2>
+            <div class="xera-text-sm text-muted">
+                Showing {{ journals|length }} of {{ total_journals }} journals
             </div>
         </div>
-    </div>
-
-    <!-- Journal Cards -->
-    <div class="row">
-        {% for journal in journals %}
-        <div class="col-md-6 col-lg-4 mb-4">
-            <div class="card journal-card h-100">
-                <div class="card-body">
-                    <div class="d-flex justify-content-between align-items-start mb-2">
-                        <h5 class="card-title mb-1">
-                            <a href="{% url 'tracker:journal_detail' journal.pk %}" class="text-decoration-none">
-                                {{ journal.title_abbreviation|default:"Unknown" }}
-                            </a>
-                        </h5>
-                        <small class="text-muted">{{ journal.country|default:"Unknown" }}</small>
+        
+        <div class="xera-card-body xera-p-0">
+            <div class="xera-list-container">
+                {% for journal in journals %}
+                <div class="ost-journal-card">
+                    <div class="ost-journal-card-header">
+                        <div class="d-flex justify-content-between align-items-start">
+                            <div class="flex-grow-1">
+                                <h3 class="ost-journal-title">
+                                    <a href="{% url 'tracker:journal_detail' journal.id %}">
+                                        {{ journal.title_full|truncatechars:80 }}
+                                    </a>
+                                </h3>
+                                
+                                {% if journal.title_abbreviation != journal.title_full %}
+                                <div class="ost-journal-meta">
+                                    <span class="d-flex align-items-center">
+                                        <i class="fas fa-quote-left me-1"></i>
+                                        <strong>{{ journal.title_abbreviation }}</strong>
+                                    </span>
+                                </div>
+                                {% endif %}
+                                
+                                <div class="ost-journal-meta">
+                                    {% if journal.country %}
+                                    <span class="d-flex align-items-center">
+                                        <i class="fas fa-globe me-1"></i>
+                                        {{ journal.country }}
+                                    </span>
+                                    {% endif %}
+                                    
+                                    {% if journal.issn %}
+                                    <span class="d-flex align-items-center">
+                                        <i class="fas fa-barcode me-1"></i>
+                                        ISSN: {{ journal.issn }}
+                                    </span>
+                                    {% endif %}
+                                    
+                                    <span class="d-flex align-items-center">
+                                        <i class="fas fa-file-alt me-1"></i>
+                                        {{ journal.paper_count|default:0 }} papers
+                                    </span>
+                                </div>
+                            </div>
+                            
+                            <div class="text-center ms-3">
+                                {% if journal.avg_transparency_score %}
+                                <div class="ost-transparency-score {% if journal.avg_transparency_score >= 5 %}high{% elif journal.avg_transparency_score >= 3 %}medium{% else %}low{% endif %} mb-2">
+                                    {{ journal.avg_transparency_score|floatformat:1 }}/7
+                                </div>
+                                <div class="xera-text-xs text-muted">
+                                    Avg Score
+                                </div>
+                                {% else %}
+                                <div class="ost-transparency-score none mb-2">
+                                    N/A
+                                </div>
+                                <div class="xera-text-xs text-muted">
+                                    No data
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
                     </div>
                     
-                    <h6 class="card-subtitle mb-3 text-muted small">
-                        {{ journal.title_full|truncatechars:60 }}
-                    </h6>
-
-                    <!-- Key Statistics -->
-                    <div class="row mb-3">
-                        <div class="col-6">
-                            <div class="stat-item">
-                                <div class="fw-bold text-primary">{{ journal.paper_count|default:0 }}</div>
-                                <small class="text-muted">Papers</small>
+                    <div class="ost-journal-card-body">
+                        {% if journal.broad_subjects %}
+                        <div class="mb-3">
+                            <div class="xera-text-sm xera-font-medium mb-2">Subject Areas:</div>
+                            <div class="d-flex flex-wrap gap-1">
+                                {% for subject in journal.broad_subjects|slice:":5" %}
+                                <span class="xera-badge xera-badge-secondary">
+                                    {{ subject|title }}
+                                </span>
+                                {% endfor %}
+                                {% if journal.broad_subjects|length > 5 %}
+                                <span class="xera-badge xera-badge-secondary">
+                                    +{{ journal.broad_subjects|length|add:"-5" }} more
+                                </span>
+                                {% endif %}
                             </div>
                         </div>
-                        <div class="col-6">
-                            <div class="stat-item">
-                                <div class="fw-bold text-success">
-                                    {% if journal.avg_transparency %}
-                                        {{ journal.avg_transparency|floatformat:1 }}/7
-                                    {% else %}
-                                        N/A
-                                    {% endif %}
-                                </div>
-                                <small class="text-muted">Transparency</small>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Transparency Meter -->
-                    {% if journal.avg_transparency %}
-                    <div class="mb-3">
-                        <div class="d-flex justify-content-between align-items-center mb-1">
-                            <small class="text-muted">Transparency Score</small>
-                            <small class="text-muted">{{ journal.avg_transparency|floatformat:1 }}/7</small>
-                        </div>
-                        <div class="transparency-meter">
-                            <div class="transparency-bar 
-                                {% if journal.avg_transparency >= 5 %}bg-success
-                                {% elif journal.avg_transparency >= 3 %}bg-warning
-                                {% else %}bg-danger{% endif %}"
-                                style="width: {% widthratio journal.avg_transparency 7 100 %}%">
-                            </div>
-                        </div>
-                    </div>
-                    {% endif %}
-
-                    <!-- Journal Details -->
-                    <div class="small text-muted mb-3">
-                        {% if journal.publisher %}
-                        <p class="mb-1">
-                            <i class="fas fa-building me-1"></i>
-                            {{ journal.publisher|truncatechars:40 }}
-                        </p>
                         {% endif %}
                         
-                        {% if journal.language %}
-                        <p class="mb-1">
-                            <i class="fas fa-language me-1"></i>
-                            {{ journal.language }}
-                        </p>
+                        {% if journal.transparency_metrics %}
+                        <div class="mb-3">
+                            <div class="xera-text-sm xera-font-medium mb-2">Transparency Metrics:</div>
+                            <div class="row g-2">
+                                {% if journal.open_data_percentage %}
+                                <div class="col-6">
+                                    <div class="xera-text-xs text-muted">Open Data</div>
+                                    <div class="ost-progress">
+                                        <div class="ost-progress-bar {% if journal.open_data_percentage >= 50 %}high{% elif journal.open_data_percentage >= 25 %}medium{% else %}low{% endif %}" 
+                                             data-width="{{ journal.open_data_percentage }}"></div>
+                                    </div>
+                                    <div class="xera-text-xs text-muted">{{ journal.open_data_percentage|floatformat:0 }}%</div>
+                                </div>
+                                {% endif %}
+                                
+                                {% if journal.open_code_percentage %}
+                                <div class="col-6">
+                                    <div class="xera-text-xs text-muted">Open Code</div>
+                                    <div class="ost-progress">
+                                        <div class="ost-progress-bar {% if journal.open_code_percentage >= 50 %}high{% elif journal.open_code_percentage >= 25 %}medium{% else %}low{% endif %}" 
+                                             data-width="{{ journal.open_code_percentage }}"></div>
+                                    </div>
+                                    <div class="xera-text-xs text-muted">{{ journal.open_code_percentage|floatformat:0 }}%</div>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
                         {% endif %}
-
-                        {% if journal.issn_print or journal.issn_electronic %}
-                        <p class="mb-1">
-                            <i class="fas fa-barcode me-1"></i>
-                            {% if journal.issn_print %}Print: {{ journal.issn_print }}{% endif %}
-                            {% if journal.issn_electronic %}Electronic: {{ journal.issn_electronic }}{% endif %}
-                        </p>
+                        
+                        {% if journal.recent_papers %}
+                        <div>
+                            <div class="xera-text-sm xera-font-medium mb-2">Recent Papers:</div>
+                            <div class="xera-text-sm text-muted">
+                                {% for paper in journal.recent_papers|slice:":2" %}
+                                <div class="mb-1">
+                                    <a href="{% url 'tracker:paper_detail' paper.pmid %}" class="text-decoration-none">
+                                        {{ paper.title|truncatechars:60 }}
+                                    </a>
+                                    <span class="text-muted">({{ paper.pub_year }})</span>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
                         {% endif %}
                     </div>
-
-                    <!-- Subject Terms -->
-                    {% if journal.broad_subject_terms %}
-                    <div class="mb-3">
-                        <span class="badge bg-secondary subject-badge">{{ journal.broad_subject_terms|truncatechars:60 }}</span>
+                    
+                    <div class="ost-journal-card-footer">
+                        <div class="d-flex flex-wrap gap-2">
+                            {% if journal.is_open_access %}
+                            <span class="ost-indicator sharing">
+                                <i class="fas fa-unlock-alt"></i>
+                                Open Access
+                            </span>
+                            {% endif %}
+                            
+                            {% if journal.has_high_transparency %}
+                            <span class="ost-indicator registration">
+                                <i class="fas fa-star"></i>
+                                High Transparency
+                            </span>
+                            {% endif %}
+                            
+                            {% if journal.is_dental %}
+                            <span class="ost-indicator funding">
+                                <i class="fas fa-tooth"></i>
+                                Dental Journal
+                            </span>
+                            {% endif %}
+                        </div>
+                        
+                        <div class="d-flex gap-2">
+                            <a href="{% url 'tracker:journal_detail' journal.id %}" 
+                               class="xera-btn xera-btn-primary xera-btn-sm">
+                                <i class="fas fa-eye me-1"></i>View Details
+                            </a>
+                            
+                            {% if journal.website %}
+                            <a href="{{ journal.website }}" 
+                               target="_blank" 
+                               class="xera-btn xera-btn-secondary xera-btn-sm">
+                                <i class="fas fa-external-link-alt me-1"></i>Website
+                            </a>
+                            {% endif %}
+                            
+                            <a href="{% url 'tracker:paper_list' %}?journal={{ journal.id }}" 
+                               class="xera-btn xera-btn-ost-secondary xera-btn-sm">
+                                <i class="fas fa-file-alt me-1"></i>Papers
+                            </a>
+                        </div>
                     </div>
-                    {% endif %}
                 </div>
-
-                <!-- Card Footer -->
-                <div class="card-footer bg-transparent">
-                    <div class="d-flex justify-content-between align-items-center">
-                        <a href="{% url 'tracker:journal_detail' journal.pk %}" class="btn btn-sm btn-outline-primary">
-                            <i class="fas fa-eye me-1"></i> View Details
-                        </a>
-                        <a href="{% url 'tracker:paper_list' %}?journal={{ journal.pk }}" class="btn btn-sm btn-outline-success">
-                            <i class="fas fa-file-alt me-1"></i> View Papers
-                        </a>
+                {% empty %}
+                <div class="text-center py-5">
+                    <div class="text-muted mb-3">
+                        <i class="fas fa-search fa-3x"></i>
                     </div>
+                    <h4 class="text-muted">No journals found</h4>
+                    <p class="text-muted">
+                        Try adjusting your search criteria or 
+                        <a href="{% url 'tracker:journal_list' %}" class="text-decoration-none">view all journals</a>.
+                    </p>
                 </div>
+                {% endfor %}
             </div>
         </div>
-        {% empty %}
-        <div class="col-12">
-            <div class="text-center py-5">
-                <i class="fas fa-search fa-3x text-muted mb-3"></i>
-                <h4 class="text-muted">No journals found</h4>
-                <p class="text-muted">Try adjusting your search criteria or filters.</p>
-                <a href="{% url 'tracker:journal_list' %}" class="btn btn-primary">
-                    <i class="fas fa-refresh me-1"></i> View All Journals
-                </a>
-            </div>
-        </div>
+    </div>
+</section>
+
+<!-- Pagination -->
+{% if journals.has_other_pages %}
+<nav class="mt-4">
+    <div class="ost-pagination">
+        {% if journals.has_previous %}
+            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page=1">
+                <i class="fas fa-angle-double-left"></i>
+            </a>
+            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ journals.previous_page_number }}">
+                <i class="fas fa-angle-left"></i>
+            </a>
+        {% endif %}
+
+        {% for page_num in journals.paginator.page_range %}
+            {% if page_num == journals.number %}
+                <span class="current">{{ page_num }}</span>
+            {% elif page_num > journals.number|add:'-3' and page_num < journals.number|add:'3' %}
+                <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ page_num }}">{{ page_num }}</a>
+            {% endif %}
         {% endfor %}
+
+        {% if journals.has_next %}
+            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ journals.next_page_number }}">
+                <i class="fas fa-angle-right"></i>
+            </a>
+            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ journals.paginator.num_pages }}">
+                <i class="fas fa-angle-double-right"></i>
+            </a>
+        {% endif %}
     </div>
+</nav>
+{% endif %}
 
-    <!-- Pagination -->
-    {% if page_obj %}
-    <div class="row mt-4">
-        <div class="col-12">
-            <nav aria-label="Journal pagination">
-                <ul class="pagination justify-content-center">
-                    {% if page_obj.has_previous %}
-                    <li class="page-item">
-                        <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page=1">
-                            <i class="fas fa-angle-double-left"></i>
-                        </a>
-                    </li>
-                    <li class="page-item">
-                        <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page={{ page_obj.previous_page_number }}">
-                            <i class="fas fa-angle-left"></i>
-                        </a>
-                    </li>
-                    {% endif %}
-
-                    {% for page_num in page_obj.paginator.page_range %}
-                        {% if page_num == page_obj.number %}
-                        <li class="page-item active">
-                            <span class="page-link">{{ page_num }}</span>
-                        </li>
-                        {% elif page_num > page_obj.number|add:'-3' and page_num < page_obj.number|add:'3' %}
-                        <li class="page-item">
-                            <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page={{ page_num }}">{{ page_num }}</a>
-                        </li>
-                        {% endif %}
-                    {% endfor %}
-
-                    {% if page_obj.has_next %}
-                    <li class="page-item">
-                        <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page={{ page_obj.next_page_number }}">
-                            <i class="fas fa-angle-right"></i>
-                        </a>
-                    </li>
-                    <li class="page-item">
-                        <a class="page-link" href="?{% if request.GET.search %}search={{ request.GET.search }}&{% endif %}{% if request.GET.country %}country={{ request.GET.country }}&{% endif %}{% if request.GET.subject %}subject={{ request.GET.subject }}&{% endif %}{% if request.GET.order_by %}order_by={{ request.GET.order_by }}&{% endif %}page={{ page_obj.paginator.num_pages }}">
-                            <i class="fas fa-angle-double-right"></i>
-                        </a>
-                    </li>
-                    {% endif %}
-                </ul>
-            </nav>
+<!-- Summary Stats -->
+<section class="mt-5">
+    <div class="xera-stats-grid">
+        <div class="xera-stat-card ost-stat-journals">
+            <h3 class="xera-stat-number">{{ total_journals }}</h3>
+            <p class="xera-stat-label">Total Journals</p>
+            <p class="xera-stat-change neutral">
+                <i class="fas fa-book me-1"></i>
+                In database
+            </p>
+        </div>
+        
+        <div class="xera-stat-card ost-stat-papers">
+            <h3 class="xera-stat-number">{{ total_papers|default:0 }}</h3>
+            <p class="xera-stat-label">Total Papers</p>
+            <p class="xera-stat-change positive">
+                <i class="fas fa-file-alt me-1"></i>
+                Across journals
+            </p>
+        </div>
+        
+        <div class="xera-stat-card ost-stat-fields">
+            <h3 class="xera-stat-number">{{ available_categories|length }}</h3>
+            <p class="xera-stat-label">Subject Areas</p>
+            <p class="xera-stat-change neutral">
+                <i class="fas fa-tags me-1"></i>
+                Categories
+            </p>
+        </div>
+        
+        <div class="xera-stat-card ost-stat-transparency">
+            <h3 class="xera-stat-number">{{ avg_journal_transparency|floatformat:1|default:"N/A" }}</h3>
+            <p class="xera-stat-label">Avg Transparency</p>
+            <p class="xera-stat-change positive">
+                <i class="fas fa-chart-line me-1"></i>
+                Journal level
+            </p>
         </div>
     </div>
-    {% endif %}
-</div>
+</section>
+
+<!-- Top Transparency Leaders -->
+{% if top_transparency_journals %}
+<section class="mt-5">
+    <div class="xera-card">
+        <div class="xera-card-header">
+            <h2 class="xera-card-title">
+                <i class="fas fa-trophy me-2"></i>
+                Transparency Leaders
+            </h2>
+            <div class="xera-text-sm text-muted">
+                Journals with highest transparency scores
+            </div>
+        </div>
+        
+        <div class="xera-card-body">
+            <div class="ost-table-container">
+                <table class="ost-table">
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Journal</th>
+                            <th>Country</th>
+                            <th>Papers</th>
+                            <th>Transparency Score</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for journal in top_transparency_journals|slice:":10" %}
+                        <tr>
+                            <td>
+                                <span class="xera-badge xera-badge-primary">
+                                    #{{ forloop.counter }}
+                                </span>
+                            </td>
+                            <td>
+                                <a href="{% url 'tracker:journal_detail' journal.id %}" class="text-decoration-none">
+                                    {{ journal.title_abbreviation }}
+                                </a>
+                                <div class="xera-text-xs text-muted">
+                                    {{ journal.title_full|truncatechars:50 }}
+                                </div>
+                            </td>
+                            <td>{{ journal.country|default:"Unknown" }}</td>
+                            <td>{{ journal.paper_count|default:0 }}</td>
+                            <td>
+                                <div class="ost-transparency-score {% if journal.avg_transparency_score >= 5 %}high{% elif journal.avg_transparency_score >= 3 %}medium{% else %}low{% endif %}">
+                                    {{ journal.avg_transparency_score|floatformat:1 }}/7
+                                </div>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Enhanced search functionality
+    const searchInput = document.querySelector('[data-search-debounce]');
+    if (searchInput) {
+        let debounceTimer;
+        
+        searchInput.addEventListener('input', function() {
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => {
+                // Optional: Auto-submit after typing stops
+                // this.closest('form').submit();
+            }, 300);
+        });
+        
+        // Submit on Enter
+        searchInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                clearTimeout(debounceTimer);
+                this.closest('form').submit();
+            }
+        });
+    }
+    
+    // Set progress bar widths from data attributes
+    document.querySelectorAll('.ost-progress-bar[data-width]').forEach(bar => {
+        const width = bar.getAttribute('data-width');
+        if (width) {
+            bar.style.width = width + '%';
+        }
+    });
+    
+    // Animate journal cards on scroll
+    const observerOptions = {
+        threshold: 0.1,
+        rootMargin: '0px 0px -50px 0px'
+    };
+    
+    const observer = new IntersectionObserver(function(entries) {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('ost-fade-in');
+            }
+        });
+    }, observerOptions);
+    
+    document.querySelectorAll('.ost-journal-card').forEach(card => {
+        observer.observe(card);
+    });
+    
+    // Enhanced transparency score interactions
+    document.querySelectorAll('.ost-transparency-score').forEach(score => {
+        score.addEventListener('mouseenter', function() {
+            this.style.transform = 'scale(1.05)';
+        });
+        
+        score.addEventListener('mouseleave', function() {
+            this.style.transform = 'scale(1)';
+        });
+    });
+    
+    // Animate progress bars on scroll
+    document.querySelectorAll('.ost-progress-bar').forEach(bar => {
+        observer.observe(bar.parentElement);
+    });
+    
+    console.log('Journal List Enhanced with Modern Cards!');
+});
+</script>
 {% endblock %} 
