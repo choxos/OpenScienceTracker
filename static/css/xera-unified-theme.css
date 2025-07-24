@@ -1007,18 +1007,20 @@ body {
 }
 
 .ost-metric-box {
-  background: var(--xera-gray-50);
-  border: 1px solid var(--xera-gray-200);
-  border-radius: var(--xera-border-radius-sm);
-  padding: 0.5rem;
-  min-width: 60px;
+  background: white;
+  border: 2px solid var(--xera-gray-300);
+  border-radius: 8px;
+  padding: 0.75rem 0.5rem;
+  min-width: 65px;
   text-align: center;
   transition: var(--xera-transition);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 .ost-metric-box:hover {
-  background: var(--xera-gray-100);
-  border-color: var(--xera-primary-200);
+  background: var(--xera-gray-50);
+  border-color: var(--xera-primary-300);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
 .ost-metric-box.transparency-score.high {
@@ -1086,18 +1088,20 @@ body {
 }
 
 .field-metric-box {
-  background: var(--xera-gray-50);
-  border: 1px solid var(--xera-gray-200);
-  border-radius: var(--xera-border-radius-sm);
-  padding: 0.5rem;
-  min-width: 60px;
+  background: white;
+  border: 2px solid var(--xera-gray-300);
+  border-radius: 8px;
+  padding: 0.75rem 0.5rem;
+  min-width: 65px;
   text-align: center;
   transition: var(--xera-transition);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 .field-metric-box:hover {
-  background: var(--xera-gray-100);
-  border-color: var(--xera-primary-200);
+  background: var(--xera-gray-50);
+  border-color: var(--xera-primary-300);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
 .field-metric-box.transparency-score.high {
