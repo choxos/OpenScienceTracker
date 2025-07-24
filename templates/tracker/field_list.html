@@ -5,286 +5,376 @@
 
 {% block extra_head %}
 <style>
-    .field-card {
-        transition: transform 0.2s, box-shadow 0.2s;
-        border: 1px solid #e3e6f0;
-        border-radius: 10px;
-        margin-bottom: 1.5rem;
+    .ost-field-container {
+        padding: var(--xera-spacing-xl) 0;
     }
-    .field-card:hover {
-        transform: translateY(-3px);
-        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    }
-    .field-header {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    
+    .ost-field-header {
+        background: linear-gradient(135deg, var(--xera-primary) 0%, var(--xera-primary-dark) 100%);
         color: white;
-        border-radius: 10px 10px 0 0;
-        padding: 1.5rem;
+        border-radius: var(--xera-border-radius) var(--xera-border-radius) 0 0;
+        padding: var(--xera-spacing-xl);
+        position: relative;
+        overflow: hidden;
     }
-    .field-stats {
-        display: flex;
-        justify-content: space-around;
-        padding: 1rem;
-        background-color: #f8f9fa;
-        border-radius: 0 0 10px 10px;
+    
+    .ost-field-header::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        right: -50%;
+        width: 100%;
+        height: 200%;
+        background: rgba(255, 255, 255, 0.1);
+        transform: rotate(45deg);
+        transition: var(--xera-transition);
     }
-    .stat-item {
-        text-align: center;
+    
+    .ost-field-card:hover .ost-field-header::before {
+        right: -30%;
     }
-    .stat-number {
-        font-size: 1.5rem;
-        font-weight: bold;
-        color: #495057;
+    
+    .ost-field-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin: 0 0 var(--xera-spacing-sm) 0;
+        position: relative;
+        z-index: 1;
     }
-    .stat-label {
+    
+    .ost-field-description {
         font-size: 0.875rem;
-        color: #6c757d;
+        color: rgba(255, 255, 255, 0.9);
+        margin: 0 0 var(--xera-spacing-lg) 0;
+        position: relative;
+        z-index: 1;
     }
-    .parent-field-badge {
-        background-color: rgba(255,255,255,0.2);
-        color: white;
-        padding: 0.25rem 0.5rem;
-        border-radius: 15px;
-        font-size: 0.75rem;
-        margin-bottom: 0.5rem;
-        display: inline-block;
+    
+    .ost-transparency-meter {
+        position: relative;
+        z-index: 1;
     }
-    .transparency-meter {
+    
+    .ost-meter-label {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: var(--xera-spacing-sm);
+        font-size: 0.875rem;
+        color: rgba(255, 255, 255, 0.9);
+    }
+    
+    .ost-meter-score {
+        font-weight: 600;
+        font-size: 1rem;
+    }
+    
+    .ost-meter-bar {
         height: 6px;
-        background-color: rgba(255,255,255,0.3);
+        background: rgba(255, 255, 255, 0.2);
         border-radius: 3px;
         overflow: hidden;
-        margin-top: 0.5rem;
     }
-    .transparency-bar {
+    
+    .ost-meter-fill {
         height: 100%;
-        background-color: #28a745;
+        background: linear-gradient(90deg, #10b981, #34d399);
+        border-radius: 3px;
         transition: width 0.3s ease;
     }
-    .no-fields-container {
-        text-align: center;
-        padding: 4rem 2rem;
-        color: #6c757d;
+    
+    .ost-field-stats {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: var(--xera-spacing-lg);
+        padding: var(--xera-spacing-xl);
+        background: var(--xera-gray-50);
     }
-    .hierarchy-indicator {
-        border-left: 3px solid #007bff;
-        margin-left: 1rem;
-        padding-left: 1rem;
+    
+    .ost-stat-item {
+        text-align: center;
+    }
+    
+    .ost-stat-number {
+        font-size: 1.75rem;
+        font-weight: 700;
+        color: var(--xera-primary);
+        margin: 0 0 var(--xera-spacing-xs) 0;
+        line-height: 1;
+    }
+    
+    .ost-stat-label {
+        font-size: 0.875rem;
+        color: var(--xera-gray-600);
+        font-weight: 500;
+    }
+    
+    .ost-field-actions {
+        padding: var(--xera-spacing-lg) var(--xera-spacing-xl) var(--xera-spacing-xl);
+        background: white;
+        border-top: 1px solid var(--xera-gray-200);
+    }
+    
+    .ost-quality-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: var(--xera-spacing-xs);
+        padding: var(--xera-spacing-xs) var(--xera-spacing-sm);
+        border-radius: var(--xera-border-radius-sm);
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    .ost-quality-excellent {
+        background: rgba(16, 185, 129, 0.1);
+        color: var(--xera-success);
+    }
+    
+    .ost-quality-good {
+        background: rgba(245, 158, 11, 0.1);
+        color: var(--xera-warning);
+    }
+    
+    .ost-quality-needs-work {
+        background: rgba(239, 68, 68, 0.1);
+        color: var(--xera-error);
+    }
+    
+    .ost-field-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: var(--xera-spacing-xl);
+    }
+    
+    .ost-field-card {
+        background: white;
+        border-radius: var(--xera-border-radius);
+        box-shadow: var(--xera-shadow);
+        border: 1px solid var(--xera-gray-200);
+        transition: var(--xera-transition);
+        overflow: hidden;
+        height: fit-content;
+    }
+    
+    .ost-field-card:hover {
+        box-shadow: var(--xera-shadow-xl);
+        transform: translateY(-4px);
+    }
+    
+    .ost-empty-state {
+        text-align: center;
+        padding: var(--xera-spacing-2xl);
+        color: var(--xera-gray-500);
+        background: white;
+        border-radius: var(--xera-border-radius);
+        box-shadow: var(--xera-shadow);
+        border: 1px solid var(--xera-gray-200);
+    }
+    
+    .ost-empty-icon {
+        font-size: 3rem;
+        margin-bottom: var(--xera-spacing-lg);
+        color: var(--xera-gray-400);
+    }
+    
+    @media (max-width: 768px) {
+        .ost-field-grid {
+            grid-template-columns: 1fr;
+        }
+        
+        .ost-field-stats {
+            grid-template-columns: repeat(3, 1fr);
+            gap: var(--xera-spacing-md);
+            padding: var(--xera-spacing-lg);
+        }
+        
+        .ost-stat-number {
+            font-size: 1.5rem;
+        }
     }
 </style>
 {% endblock %}
 
 {% block content %}
-<div class="container-fluid">
-    <!-- Header -->
-    <div class="row mb-4">
-        <div class="col-12">
-            <h1 class="h2 mb-3">
-                <i class="fas fa-atom me-2"></i>
-                Research Fields
-            </h1>
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Research Fields</li>
-                </ol>
-            </nav>
-            <p class="text-muted">
-                Explore research disciplines and their transparency metrics across scientific literature.
-            </p>
+<div class="xera-container ost-field-container">
+    <!-- Header Section -->
+    <div class="mb-5">
+        <div class="d-flex align-items-center mb-3">
+            <i class="fas fa-atom me-3 text-primary" style="font-size: 2rem;"></i>
+            <div>
+                <h1 class="h2 mb-1">Research Fields</h1>
+                <p class="text-muted mb-0">Explore research disciplines and their transparency metrics across scientific literature.</p>
+            </div>
         </div>
+        
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{% url 'tracker:home' %}">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Research Fields</li>
+            </ol>
+        </nav>
     </div>
 
     <!-- Summary Statistics -->
-    <div class="row mb-4">
-        <div class="col-md-3">
-            <div class="card bg-primary text-white">
-                <div class="card-body text-center">
-                    <div class="h3 mb-1">{{ total_fields }}</div>
-                    <small>Research Fields</small>
-                </div>
+    <div class="xera-stats-grid mb-5">
+        <div class="xera-stat-card">
+            <div class="xera-stat-number">{{ total_fields }}</div>
+            <div class="xera-stat-label">Research Fields</div>
+            <div class="xera-stat-change neutral">
+                <i class="fas fa-atom"></i>
+                Active disciplines
             </div>
         </div>
-        <div class="col-md-3">
-            <div class="card bg-success text-white">
-                <div class="card-body text-center">
-                    <div class="h3 mb-1">{{ max_papers }}</div>
-                    <small>Max Papers in Field</small>
-                </div>
+        <div class="xera-stat-card">
+            <div class="xera-stat-number">{{ max_papers }}</div>
+            <div class="xera-stat-label">Max Papers in Field</div>
+            <div class="xera-stat-change positive">
+                <i class="fas fa-file-alt"></i>
+                Largest corpus
             </div>
         </div>
-        <div class="col-md-3">
-            <div class="card bg-info text-white">
-                <div class="card-body text-center">
-                    <div class="h3 mb-1">{{ max_journals }}</div>
-                    <small>Max Journals in Field</small>
-                </div>
+        <div class="xera-stat-card">
+            <div class="xera-stat-number">{{ max_journals }}</div>
+            <div class="xera-stat-label">Max Journals in Field</div>
+            <div class="xera-stat-change positive">
+                <i class="fas fa-book"></i>
+                Broad coverage
             </div>
         </div>
-        <div class="col-md-3">
-            <div class="card bg-warning text-white">
-                <div class="card-body text-center">
-                    <div class="h3 mb-1">{{ active_fields }}</div>
-                    <small>Active Disciplines</small>
-                </div>
+        <div class="xera-stat-card">
+            <div class="xera-stat-number">{{ active_fields }}</div>
+            <div class="xera-stat-label">Active Disciplines</div>
+            <div class="xera-stat-change neutral">
+                <i class="fas fa-chart-line"></i>
+                With data
             </div>
         </div>
     </div>
 
-    <!-- Research Fields List -->
+    <!-- Research Fields Grid -->
     {% if fields %}
-    <div class="row">
+    <div class="ost-field-grid">
         {% for field in fields %}
-        <div class="col-lg-6 col-xl-4">
-            <div class="field-card">
-                <!-- Field Header -->
-                <div class="field-header">
-                    {% if field.parent_field %}
-                    <div class="parent-field-badge">
-                        <i class="fas fa-arrow-up me-1"></i>
-                        {{ field.parent_field.name }}
+        <div class="ost-field-card">
+            <!-- Field Header -->
+            <div class="ost-field-header">
+                <h3 class="ost-field-title">
+                    <a href="{% url 'tracker:field_detail' field.pk %}" class="text-white text-decoration-none">
+                        {{ field.name }}
+                    </a>
+                </h3>
+                
+                {% if field.description %}
+                <p class="ost-field-description">{{ field.description|truncatechars:120 }}</p>
+                {% else %}
+                <p class="ost-field-description">Explore transparency metrics and research patterns in {{ field.name|lower }}.</p>
+                {% endif %}
+                
+                <!-- Transparency Score Meter -->
+                <div class="ost-transparency-meter">
+                    <div class="ost-meter-label">
+                        <span>Transparency Score</span>
+                        <span class="ost-meter-score">{{ field.avg_transparency_score|floatformat:1 }}/6</span>
                     </div>
-                    {% endif %}
-                    
-                    <h5 class="mb-2">
-                        <a href="{% url 'tracker:field_detail' field.pk %}" class="text-white text-decoration-none">
-                            {{ field.name }}
-                        </a>
-                    </h5>
-                    
-                    {% if field.description %}
-                    <p class="mb-2 small">{{ field.description|truncatechars:120 }}</p>
+                    <div class="ost-meter-bar">
+                        <div class="ost-meter-fill" style="width: {% widthratio field.avg_transparency_score 6 100 %}%"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Field Statistics -->
+            <div class="ost-field-stats">
+                <div class="ost-stat-item">
+                    <div class="ost-stat-number">{{ field.total_papers|default:0 }}</div>
+                    <div class="ost-stat-label">Papers</div>
+                </div>
+                <div class="ost-stat-item">
+                    <div class="ost-stat-number">{{ field.total_journals|default:0 }}</div>
+                    <div class="ost-stat-label">Journals</div>
+                </div>
+                <div class="ost-stat-item">
+                    {% if field.avg_transparency_score >= 4 %}
+                        <div class="ost-quality-badge ost-quality-excellent">
+                            <i class="fas fa-star"></i>
+                            Excellent
+                        </div>
+                    {% elif field.avg_transparency_score >= 2.5 %}
+                        <div class="ost-quality-badge ost-quality-good">
+                            <i class="fas fa-star-half-alt"></i>
+                            Good
+                        </div>
                     {% else %}
-                    <p class="mb-2 small text-white-50">No description available</p>
-                    {% endif %}
-                    
-                    <!-- Transparency Score Meter -->
-                    <div class="d-flex justify-content-between align-items-center">
-                        <small>Transparency Score</small>
-                        <strong>{{ field.avg_transparency_score|floatformat:1 }}/7</strong>
-                    </div>
-                    <div class="transparency-meter">
-                        <div class="transparency-bar" style="width: {% widthratio field.avg_transparency_score 7 100 %}%"></div>
-                    </div>
-                </div>
-
-                <!-- Field Statistics -->
-                <div class="field-stats">
-                    <div class="stat-item">
-                        <div class="stat-number">{{ field.total_papers|default:0 }}</div>
-                        <div class="stat-label">Papers</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-number">{{ field.total_journals|default:0 }}</div>
-                        <div class="stat-label">Journals</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-number">
-                            {% if field.avg_transparency_score >= 5 %}
-                                <i class="fas fa-star text-success"></i>
-                            {% elif field.avg_transparency_score >= 3 %}
-                                <i class="fas fa-star-half-alt text-warning"></i>
-                            {% else %}
-                                <i class="far fa-star text-danger"></i>
-                            {% endif %}
+                        <div class="ost-quality-badge ost-quality-needs-work">
+                            <i class="far fa-star"></i>
+                            Developing
                         </div>
-                        <div class="stat-label">
-                            {% if field.avg_transparency_score >= 5 %}
-                                Excellent
-                            {% elif field.avg_transparency_score >= 3 %}
-                                Good
-                            {% else %}
-                                Needs Work
-                            {% endif %}
-                        </div>
-                    </div>
+                    {% endif %}
+                    <div class="ost-stat-label mt-1">Quality</div>
                 </div>
+            </div>
 
-                <!-- Field Actions -->
-                <div class="card-body pt-0">
-                    <div class="d-flex justify-content-between align-items-center">
-                        <a href="{% url 'tracker:field_detail' field.pk %}" class="btn btn-sm btn-outline-primary">
-                            <i class="fas fa-eye me-1"></i> View Details
-                        </a>
-                        <a href="{% url 'tracker:statistics' %}?field={{ field.name }}" class="btn btn-sm btn-outline-success">
-                            <i class="fas fa-chart-bar me-1"></i> Statistics
-                        </a>
-                    </div>
-                    
-                    <!-- Show sub-fields if any -->
-                    {% if field.researchfield_set.exists %}
-                    <div class="hierarchy-indicator mt-3">
-                        <h6 class="text-muted mb-2">Sub-fields:</h6>
-                        {% for subfield in field.researchfield_set.all|slice:":3" %}
-                        <a href="{% url 'tracker:field_detail' subfield.pk %}" class="badge bg-light text-dark me-1 mb-1 text-decoration-none">
-                            {{ subfield.name }}
-                        </a>
-                        {% endfor %}
-                        {% if field.researchfield_set.count > 3 %}
-                        <span class="badge bg-secondary">+{{ field.researchfield_set.count|add:"-3" }} more</span>
-                        {% endif %}
-                    </div>
-                    {% endif %}
-                    
-                    <!-- Show parent sub-fields at same level -->
-                    {% if field.parent_field %}
-                    {% with field.parent_field.researchfield_set.all as siblings %}
-                    {% if siblings.count > 1 %}
-                    <div class="mt-3">
-                        <h6 class="text-muted mb-2">Related fields:</h6>
-                        {% for sibling in siblings|slice:":3" %}
-                        {% if sibling != field %}
-                        <a href="{% url 'tracker:field_detail' sibling.pk %}" class="badge bg-light text-dark me-1 mb-1 text-decoration-none">
-                            {{ sibling.name }}
-                        </a>
-                        {% endif %}
-                        {% endfor %}
-                    </div>
-                    {% endif %}
-                    {% endwith %}
-                    {% endif %}
+            <!-- Field Actions -->
+            <div class="ost-field-actions">
+                <div class="d-flex gap-2 justify-content-between align-items-center">
+                    <a href="{% url 'tracker:field_detail' field.pk %}" class="xera-btn xera-btn-primary xera-btn-sm">
+                        <i class="fas fa-eye me-1"></i>View Details
+                    </a>
+                    <a href="{% url 'tracker:paper_list' %}?broad_subject_term={{ field.name|urlencode }}" class="xera-btn xera-btn-outline xera-btn-sm">
+                        <i class="fas fa-file-alt me-1"></i>Papers
+                    </a>
+                    <a href="{% url 'tracker:statistics' %}?field={{ field.name|urlencode }}" class="xera-btn xera-btn-ghost xera-btn-sm">
+                        <i class="fas fa-chart-bar"></i>
+                    </a>
                 </div>
             </div>
         </div>
         {% endfor %}
     </div>
 
-    <!-- View More / Load More -->
-    <div class="row mt-4">
-        <div class="col-12 text-center">
-            <div class="card bg-light">
-                <div class="card-body">
-                    <h5 class="card-title">Explore More</h5>
-                    <p class="card-text">
-                        Discover transparency trends and detailed analytics for each research field.
-                    </p>
-                    <div class="d-flex justify-content-center gap-3">
-                        <a href="{% url 'tracker:statistics' %}" class="btn btn-primary">
-                            <i class="fas fa-chart-line me-1"></i> View Global Statistics
-                        </a>
-                        <a href="{% url 'tracker:trends' %}" class="btn btn-outline-primary">
-                            <i class="fas fa-trending-up me-1"></i> Transparency Trends
-                        </a>
-                    </div>
+    <!-- Explore More Section -->
+    <div class="mt-5">
+        <div class="xera-card">
+            <div class="xera-card-body text-center">
+                <h4 class="xera-card-title justify-content-center mb-3">
+                    <i class="fas fa-compass"></i>
+                    Explore More
+                </h4>
+                <p class="xera-card-subtitle mb-4">
+                    Discover transparency trends and detailed analytics across all research fields.
+                </p>
+                <div class="d-flex flex-wrap gap-3 justify-content-center">
+                    <a href="{% url 'tracker:statistics' %}" class="xera-btn xera-btn-primary">
+                        <i class="fas fa-chart-line me-2"></i>Global Statistics
+                    </a>
+                    <a href="{% url 'tracker:paper_list' %}" class="xera-btn xera-btn-outline">
+                        <i class="fas fa-file-alt me-2"></i>Browse Papers
+                    </a>
+                    <a href="{% url 'tracker:journal_list' %}" class="xera-btn xera-btn-ghost">
+                        <i class="fas fa-book me-2"></i>View Journals
+                    </a>
                 </div>
             </div>
         </div>
     </div>
 
     {% else %}
-    <!-- No Fields State -->
-    <div class="no-fields-container">
-        <i class="fas fa-atom fa-4x mb-4"></i>
-        <h3>No Research Fields Available</h3>
+    <!-- Empty State -->
+    <div class="ost-empty-state">
+        <div class="ost-empty-icon">
+            <i class="fas fa-atom"></i>
+        </div>
+        <h3 class="mb-3">No Research Fields Available</h3>
         <p class="mb-4">
             Research fields haven't been set up yet. This typically happens when field data is imported along with papers and journals.
         </p>
-        <div class="d-flex justify-content-center gap-3">
-            <a href="{% url 'tracker:statistics' %}" class="btn btn-primary">
-                <i class="fas fa-chart-bar me-1"></i> View Statistics
+        <div class="d-flex flex-wrap gap-3 justify-content-center">
+            <a href="{% url 'tracker:statistics' %}" class="xera-btn xera-btn-primary">
+                <i class="fas fa-chart-bar me-2"></i>View Statistics
             </a>
-            <a href="{% url 'tracker:home' %}" class="btn btn-outline-secondary">
-                <i class="fas fa-home me-1"></i> Back to Home
+            <a href="{% url 'tracker:home' %}" class="xera-btn xera-btn-outline">
+                <i class="fas fa-home me-2"></i>Back to Home
             </a>
         </div>
     </div>
