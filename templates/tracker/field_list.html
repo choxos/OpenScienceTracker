@@ -277,55 +277,48 @@
                 <p class="ost-field-description">Explore transparency metrics and research patterns in {{ field.name|lower }}.</p>
                 {% endif %}
                 
-                <!-- Transparency Score Meter -->
-                <div class="ost-transparency-meter">
-                    <div class="ost-meter-label">
-                        <span>Transparency Score</span>
-                        <span class="ost-meter-score transparency-score {% if field.avg_transparency_score >= 4 %}high{% elif field.avg_transparency_score >= 2.5 %}medium{% else %}low{% endif %}">{{ field.avg_transparency_score|floatformat:1 }}/6</span>
+                <!-- Field Counts -->
+                <div class="ost-field-counts">
+                    <div class="ost-count-item">
+                        <span class="ost-count-number">{{ field.total_papers|default:0 }}</span>
+                        <span class="ost-count-label">Papers</span>
                     </div>
-                    <div class="ost-meter-bar">
-                        <div class="ost-meter-fill transparency-fill {% if field.avg_transparency_score >= 4 %}transparency-high{% elif field.avg_transparency_score >= 2.5 %}transparency-medium{% else %}transparency-low{% endif %}" style="width: {% widthratio field.avg_transparency_score 6 100 %}%"></div>
+                    <div class="ost-count-item">
+                        <span class="ost-count-number">{{ field.total_journals|default:0 }}</span>
+                        <span class="ost-count-label">Journals</span>
                     </div>
                 </div>
-            </div>
-
-            <!-- Field Statistics -->
-            <div class="ost-field-stats">
-                <div class="ost-stat-item">
-                    <div class="ost-stat-number">{{ field.total_papers|default:0 }}</div>
-                    <div class="ost-stat-label">Papers</div>
-                </div>
-                <div class="ost-stat-item">
-                    <div class="ost-stat-number">{{ field.total_journals|default:0 }}</div>
-                    <div class="ost-stat-label">Journals</div>
-                </div>
-                <div class="ost-stat-item">
-                    <div class="ost-stat-number transparency-score {% if field.avg_transparency_score >= 4 %}high{% elif field.avg_transparency_score >= 2.5 %}medium{% else %}low{% endif %}">{{ field.avg_transparency_score|floatformat:1 }}/6</div>
-                    <div class="ost-stat-label">Transparency Score</div>
-                </div>
-                <div class="ost-stat-item">
-                    <div class="ost-stat-number">{{ field.avg_data_sharing|default:0|floatformat:0 }}%</div>
-                    <div class="ost-stat-label">Open Data</div>
-                </div>
-                <div class="ost-stat-item">
-                    <div class="ost-stat-number">{{ field.avg_code_sharing|default:0|floatformat:0 }}%</div>
-                    <div class="ost-stat-label">Open Code</div>
-                </div>
-                <div class="ost-stat-item">
-                    <div class="ost-stat-number">{{ field.avg_coi_disclosure|default:0|floatformat:0 }}%</div>
-                    <div class="ost-stat-label">COI Disclosure</div>
-                </div>
-                <div class="ost-stat-item">
-                    <div class="ost-stat-number">{{ field.avg_funding_disclosure|default:0|floatformat:0 }}%</div>
-                    <div class="ost-stat-label">Funding Info</div>
-                </div>
-                <div class="ost-stat-item">
-                    <div class="ost-stat-number">{{ field.avg_protocol_registration|default:0|floatformat:0 }}%</div>
-                    <div class="ost-stat-label">Registration</div>
-                </div>
-                <div class="ost-stat-item">
-                    <div class="ost-stat-number">{{ field.avg_open_access|default:0|floatformat:0 }}%</div>
-                    <div class="ost-stat-label">Open Access</div>
+                
+                <!-- Transparency Metrics -->
+                <div class="ost-transparency-boxes">
+                    <div class="ost-metric-box transparency-score {% if field.avg_transparency_score >= 4 %}high{% elif field.avg_transparency_score >= 2.5 %}medium{% else %}low{% endif %}">
+                        <div class="box-value">{{ field.avg_transparency_score|floatformat:1 }}/6</div>
+                        <div class="box-label">Overall</div>
+                    </div>
+                    <div class="ost-metric-box">
+                        <div class="box-value">{{ field.avg_data_sharing|default:0|floatformat:0 }}%</div>
+                        <div class="box-label">Data</div>
+                    </div>
+                    <div class="ost-metric-box">
+                        <div class="box-value">{{ field.avg_code_sharing|default:0|floatformat:0 }}%</div>
+                        <div class="box-label">Code</div>
+                    </div>
+                    <div class="ost-metric-box">
+                        <div class="box-value">{{ field.avg_coi_disclosure|default:0|floatformat:0 }}%</div>
+                        <div class="box-label">COI</div>
+                    </div>
+                    <div class="ost-metric-box">
+                        <div class="box-value">{{ field.avg_funding_disclosure|default:0|floatformat:0 }}%</div>
+                        <div class="box-label">Funding</div>
+                    </div>
+                    <div class="ost-metric-box">
+                        <div class="box-value">{{ field.avg_protocol_registration|default:0|floatformat:0 }}%</div>
+                        <div class="box-label">Registration</div>
+                    </div>
+                    <div class="ost-metric-box">
+                        <div class="box-value">{{ field.avg_open_access|default:0|floatformat:0 }}%</div>
+                        <div class="box-label">OA</div>
+                    </div>
                 </div>
             </div>
 

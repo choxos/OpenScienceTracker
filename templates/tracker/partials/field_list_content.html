@@ -59,42 +59,47 @@
                     <p class="field-description">{{ field.description|truncatechars:80 }}</p>
                     {% endif %}
                     
-                    <div class="field-metrics">
-                        <div class="metric">
-                            <div class="metric-value">{{ field.total_papers|default:0|floatformat:0 }}</div>
-                            <div class="metric-label">Papers</div>
+                    <!-- Field Counts -->
+                    <div class="field-counts">
+                        <div class="count-item">
+                            <span class="count-number">{{ field.total_papers|default:0 }}</span>
+                            <span class="count-label">Papers</span>
                         </div>
-                        <div class="metric">
-                            <div class="metric-value">{{ field.total_journals|default:0|floatformat:0 }}</div>
-                            <div class="metric-label">Journals</div>
+                        <div class="count-item">
+                            <span class="count-number">{{ field.total_journals|default:0 }}</span>
+                            <span class="count-label">Journals</span>
                         </div>
-                        <div class="metric">
-                            <div class="metric-value transparency-score {% if field.avg_transparency_score >= 4 %}high{% elif field.avg_transparency_score >= 2.5 %}medium{% else %}low{% endif %}">{{ field.avg_transparency_score|floatformat:1|default:"0.0" }}<span class="metric-max">/6</span></div>
-                            <div class="metric-label">Transparency Score</div>
+                    </div>
+                    
+                    <!-- Transparency Metrics -->
+                    <div class="field-transparency-boxes">
+                        <div class="field-metric-box transparency-score {% if field.avg_transparency_score >= 4 %}high{% elif field.avg_transparency_score >= 2.5 %}medium{% else %}low{% endif %}">
+                            <div class="box-value">{{ field.avg_transparency_score|floatformat:1|default:"0.0" }}/6</div>
+                            <div class="box-label">Overall</div>
                         </div>
-                        <div class="metric">
-                            <div class="metric-value">{{ field.avg_data_sharing|default:0|floatformat:0 }}%</div>
-                            <div class="metric-label">Open Data</div>
+                        <div class="field-metric-box">
+                            <div class="box-value">{{ field.avg_data_sharing|default:0|floatformat:0 }}%</div>
+                            <div class="box-label">Data</div>
                         </div>
-                        <div class="metric">
-                            <div class="metric-value">{{ field.avg_code_sharing|default:0|floatformat:0 }}%</div>
-                            <div class="metric-label">Open Code</div>
+                        <div class="field-metric-box">
+                            <div class="box-value">{{ field.avg_code_sharing|default:0|floatformat:0 }}%</div>
+                            <div class="box-label">Code</div>
                         </div>
-                        <div class="metric">
-                            <div class="metric-value">{{ field.avg_coi_disclosure|default:0|floatformat:0 }}%</div>
-                            <div class="metric-label">COI Disclosure</div>
+                        <div class="field-metric-box">
+                            <div class="box-value">{{ field.avg_coi_disclosure|default:0|floatformat:0 }}%</div>
+                            <div class="box-label">COI</div>
                         </div>
-                        <div class="metric">
-                            <div class="metric-value">{{ field.avg_funding_disclosure|default:0|floatformat:0 }}%</div>
-                            <div class="metric-label">Funding Info</div>
+                        <div class="field-metric-box">
+                            <div class="box-value">{{ field.avg_funding_disclosure|default:0|floatformat:0 }}%</div>
+                            <div class="box-label">Funding</div>
                         </div>
-                        <div class="metric">
-                            <div class="metric-value">{{ field.avg_protocol_registration|default:0|floatformat:0 }}%</div>
-                            <div class="metric-label">Registration</div>
+                        <div class="field-metric-box">
+                            <div class="box-value">{{ field.avg_protocol_registration|default:0|floatformat:0 }}%</div>
+                            <div class="box-label">Registration</div>
                         </div>
-                        <div class="metric">
-                            <div class="metric-value">{{ field.avg_open_access|default:0|floatformat:0 }}%</div>
-                            <div class="metric-label">Open Access</div>
+                        <div class="field-metric-box">
+                            <div class="box-value">{{ field.avg_open_access|default:0|floatformat:0 }}%</div>
+                            <div class="box-label">OA</div>
                         </div>
                     </div>
                     

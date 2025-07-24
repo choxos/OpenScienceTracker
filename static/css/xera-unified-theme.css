@@ -972,4 +972,162 @@ body {
   .xera-search-input {
     width: 180px;
   }
+}
+
+/* === FIELD METRICS BOXES === */
+.ost-field-counts {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ost-count-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ost-count-number {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--xera-gray-800);
+}
+
+.ost-count-label {
+  font-size: 0.75rem;
+  color: var(--xera-gray-600);
+  margin-top: 0.25rem;
+}
+
+.ost-transparency-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.ost-metric-box {
+  background: var(--xera-gray-50);
+  border: 1px solid var(--xera-gray-200);
+  border-radius: var(--xera-border-radius-sm);
+  padding: 0.5rem;
+  min-width: 60px;
+  text-align: center;
+  transition: var(--xera-transition);
+}
+
+.ost-metric-box:hover {
+  background: var(--xera-gray-100);
+  border-color: var(--xera-primary-200);
+}
+
+.ost-metric-box.transparency-score.high {
+  background: var(--transparency-green-light);
+  border-color: var(--transparency-green);
+  color: var(--transparency-green-dark);
+}
+
+.ost-metric-box.transparency-score.medium {
+  background: var(--transparency-orange-light);
+  border-color: var(--transparency-orange);
+  color: var(--transparency-orange-dark);
+}
+
+.ost-metric-box.transparency-score.low {
+  background: var(--transparency-red-light);
+  border-color: var(--transparency-red);
+  color: var(--transparency-red-dark);
+}
+
+.ost-metric-box .box-value {
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.ost-metric-box .box-label {
+  font-size: 0.6875rem;
+  color: var(--xera-gray-600);
+  margin-top: 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+/* Field List Partials Styles */
+.field-counts {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.count-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.count-number {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--xera-gray-800);
+}
+
+.count-label {
+  font-size: 0.75rem;
+  color: var(--xera-gray-600);
+  margin-top: 0.25rem;
+}
+
+.field-transparency-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.field-metric-box {
+  background: var(--xera-gray-50);
+  border: 1px solid var(--xera-gray-200);
+  border-radius: var(--xera-border-radius-sm);
+  padding: 0.5rem;
+  min-width: 60px;
+  text-align: center;
+  transition: var(--xera-transition);
+}
+
+.field-metric-box:hover {
+  background: var(--xera-gray-100);
+  border-color: var(--xera-primary-200);
+}
+
+.field-metric-box.transparency-score.high {
+  background: var(--transparency-green-light);
+  border-color: var(--transparency-green);
+  color: var(--transparency-green-dark);
+}
+
+.field-metric-box.transparency-score.medium {
+  background: var(--transparency-orange-light);
+  border-color: var(--transparency-orange);
+  color: var(--transparency-orange-dark);
+}
+
+.field-metric-box.transparency-score.low {
+  background: var(--transparency-red-light);
+  border-color: var(--transparency-red);
+  color: var(--transparency-red-dark);
+}
+
+.field-metric-box .box-value {
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.field-metric-box .box-label {
+  font-size: 0.6875rem;
+  color: var(--xera-gray-600);
+  margin-top: 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
 } 
