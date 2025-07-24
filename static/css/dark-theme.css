@@ -89,65 +89,158 @@
 }
 
 /* === CARDS AND CONTENT === */
-[data-theme="dark"] .card,
-[data-theme="dark"] .xera-card {
-    background-color: var(--card-bg) !important;
-    border-color: var(--border-color) !important;
-    color: var(--text-primary) !important;
+html[data-theme="dark"] .card,
+html[data-theme="dark"] .xera-card,
+html[data-theme="dark"] body .card,
+html[data-theme="dark"] body .xera-card {
+    background-color: #1f2937 !important;
+    border-color: #374151 !important;
+    color: #f9fafb !important;
 }
 
-[data-theme="dark"] .card-header {
-    background-color: var(--xera-gray-100) !important;
-    border-bottom-color: var(--border-color) !important;
-    color: var(--text-primary) !important;
+html[data-theme="dark"] .card-header,
+html[data-theme="dark"] body .card-header {
+    background-color: #374151 !important;
+    border-bottom-color: #4b5563 !important;
+    color: #f9fafb !important;
 }
 
-[data-theme="dark"] .card-body {
-    color: var(--text-primary) !important;
+html[data-theme="dark"] .card-body,
+html[data-theme="dark"] body .card-body {
+    background-color: #1f2937 !important;
+    color: #f9fafb !important;
+}
+
+/* === ADDITIONAL COMPONENTS === */
+html[data-theme="dark"] .xera-stat-card,
+html[data-theme="dark"] body .xera-stat-card {
+    background: #1f2937 !important;
+    border-color: #374151 !important;
+    color: #f9fafb !important;
+}
+
+html[data-theme="dark"] .xera-stat-number,
+html[data-theme="dark"] body .xera-stat-number {
+    color: #f9fafb !important;
+}
+
+html[data-theme="dark"] .xera-stat-label,
+html[data-theme="dark"] body .xera-stat-label {
+    color: #d1d5db !important;
+}
+
+html[data-theme="dark"] .overview-card,
+html[data-theme="dark"] body .overview-card {
+    background: #1f2937 !important;
+    border-color: #374151 !important;
+    color: #f9fafb !important;
+}
+
+html[data-theme="dark"] .ost-transparency-overview,
+html[data-theme="dark"] body .ost-transparency-overview {
+    background: #111827 !important;
+    color: #f9fafb !important;
+}
+
+html[data-theme="dark"] .transparency-overview,
+html[data-theme="dark"] body .transparency-overview {
+    background: #111827 !important;
+    color: #f9fafb !important;
 }
 
 /* === FIELD CARDS === */
-[data-theme="dark"] .ost-field-card {
-    background: var(--card-bg) !important;
-    border-color: var(--border-color) !important;
+html[data-theme="dark"] .ost-field-card,
+html[data-theme="dark"] body .ost-field-card {
+    background: #1f2937 !important;
+    border-color: #374151 !important;
+    color: #f9fafb !important;
 }
 
-[data-theme="dark"] .ost-field-title-link {
-    color: var(--text-primary) !important;
+html[data-theme="dark"] .ost-field-header {
+    background: linear-gradient(135deg, #1e293b 0%, #334155 100%) !important;
 }
 
-[data-theme="dark"] .ost-field-description {
-    color: var(--text-secondary) !important;
+html[data-theme="dark"] .ost-field-title-link,
+html[data-theme="dark"] body .ost-field-title-link {
+    color: #f9fafb !important;
+    text-shadow: none !important;
 }
 
-[data-theme="dark"] .field-card {
-    background: var(--card-bg) !important;
-    border-color: var(--border-color) !important;
+html[data-theme="dark"] .ost-field-description,
+html[data-theme="dark"] body .ost-field-description {
+    color: #d1d5db !important;
 }
 
-[data-theme="dark"] .field-title a {
-    color: var(--text-primary) !important;
+html[data-theme="dark"] .field-card,
+html[data-theme="dark"] body .field-card {
+    background: #1f2937 !important;
+    border-color: #374151 !important;
+    color: #f9fafb !important;
 }
 
-[data-theme="dark"] .field-description {
-    color: var(--text-secondary) !important;
+html[data-theme="dark"] .field-title a,
+html[data-theme="dark"] body .field-title a {
+    color: #f9fafb !important;
+}
+
+html[data-theme="dark"] .field-description,
+html[data-theme="dark"] body .field-description {
+    color: #d1d5db !important;
+}
+
+html[data-theme="dark"] .field-card-header {
+    background: #374151 !important;
+    border-bottom-color: #4b5563 !important;
+}
+
+html[data-theme="dark"] .field-card-body {
+    background: #1f2937 !important;
+    color: #f9fafb !important;
 }
 
 /* === METRIC BOXES DARK THEME === */
-[data-theme="dark"] .ost-metric-box {
-    background: var(--xera-gray-100) !important;
-    border-color: var(--border-color) !important;
-    color: var(--text-primary) !important;
+html[data-theme="dark"] .ost-metric-box,
+html[data-theme="dark"] body .ost-metric-box {
+    background: #374151 !important;
+    border: 2px solid #4b5563 !important;
+    color: #f9fafb !important;
 }
 
-[data-theme="dark"] .field-metric-box {
-    background: var(--xera-gray-100) !important;
-    border-color: var(--border-color) !important;
-    color: var(--text-primary) !important;
+html[data-theme="dark"] .field-metric-box,
+html[data-theme="dark"] body .field-metric-box {
+    background: #374151 !important;
+    border: 2px solid #4b5563 !important;
+    color: #f9fafb !important;
 }
 
-[data-theme="dark"] .box-label {
-    color: var(--text-secondary) !important;
+html[data-theme="dark"] .box-label,
+html[data-theme="dark"] .metric-label,
+html[data-theme="dark"] body .box-label,
+html[data-theme="dark"] body .metric-label {
+    color: #d1d5db !important;
+}
+
+html[data-theme="dark"] .box-value,
+html[data-theme="dark"] .metric-value,
+html[data-theme="dark"] body .box-value,
+html[data-theme="dark"] body .metric-value {
+    color: #f9fafb !important;
+}
+
+/* === FIELD COUNTS === */
+html[data-theme="dark"] .ost-field-counts,
+html[data-theme="dark"] .field-counts {
+    color: #f9fafb !important;
+}
+
+html[data-theme="dark"] .ost-count-number,
+html[data-theme="dark"] .count-number {
+    color: #f9fafb !important;
+}
+
+html[data-theme="dark"] .ost-count-label,
+html[data-theme="dark"] .count-label {
+    color: #d1d5db !important;
 }
 
 /* === TRANSPARENCY SCORES === */
@@ -337,6 +430,72 @@
 [data-theme="dark"] .theme-toggle {
     background: #fbbf24;
     color: #1f2937;
+}
+
+/* === TRANSPARENCY METRICS === */
+html[data-theme="dark"] .ost-transparency-metrics,
+html[data-theme="dark"] .transparency-metrics,
+html[data-theme="dark"] body .ost-transparency-metrics,
+html[data-theme="dark"] body .transparency-metrics {
+    background: transparent !important;
+}
+
+html[data-theme="dark"] .ost-transparency-metric,
+html[data-theme="dark"] .transparency-metric,
+html[data-theme="dark"] body .ost-transparency-metric,
+html[data-theme="dark"] body .transparency-metric {
+    background: #1f2937 !important;
+    border: 1px solid #374151 !important;
+    border-radius: 8px !important;
+    color: #f9fafb !important;
+}
+
+html[data-theme="dark"] .ost-metric-percentage,
+html[data-theme="dark"] .metric-percentage,
+html[data-theme="dark"] body .ost-metric-percentage,
+html[data-theme="dark"] body .metric-percentage {
+    color: #f9fafb !important;
+}
+
+html[data-theme="dark"] .ost-metric-label,
+html[data-theme="dark"] .metric-label,
+html[data-theme="dark"] body .ost-metric-label,
+html[data-theme="dark"] body .metric-label {
+    color: #d1d5db !important;
+}
+
+/* === GRID CONTAINERS === */
+html[data-theme="dark"] .ost-field-grid,
+html[data-theme="dark"] .field-grid,
+html[data-theme="dark"] body .ost-field-grid,
+html[data-theme="dark"] body .field-grid {
+    background: transparent !important;
+}
+
+/* === SECTION BACKGROUNDS === */
+html[data-theme="dark"] section,
+html[data-theme="dark"] body section {
+    background: transparent !important;
+}
+
+html[data-theme="dark"] .container,
+html[data-theme="dark"] .xera-container,
+html[data-theme="dark"] body .container,
+html[data-theme="dark"] body .xera-container {
+    background: transparent !important;
+    color: #f9fafb !important;
+}
+
+/* === STRONG OVERRIDE FOR ALL BOXES === */
+html[data-theme="dark"] div[class*="box"],
+html[data-theme="dark"] div[class*="card"],
+html[data-theme="dark"] div[class*="metric"],
+html[data-theme="dark"] body div[class*="box"],
+html[data-theme="dark"] body div[class*="card"],
+html[data-theme="dark"] body div[class*="metric"] {
+    background: #1f2937 !important;
+    border-color: #374151 !important;
+    color: #f9fafb !important;
 }
 
 /* === ANIMATIONS === */
