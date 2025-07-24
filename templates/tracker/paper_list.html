@@ -633,45 +633,39 @@
                     <div class="ost-paper-card-footer">
                         <div class="d-flex flex-wrap gap-2 mb-3">
                             <!-- Open Data -->
-                            <span class="ost-indicator {% if paper.is_open_data %}active{% else %}inactive{% endif %}">
-                                <i class="fas fa-database"></i>
+                            <span class="transparency-badge indicator-open-data {% if paper.is_open_data %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_open_data %}check{% else %}times{% endif %}"></i>
                                 Open Data
-                                {% if paper.is_open_data %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
                             </span>
                             
                             <!-- Open Code -->
-                            <span class="ost-indicator {% if paper.is_open_code %}active{% else %}inactive{% endif %}">
-                                <i class="fas fa-code"></i>
+                            <span class="transparency-badge indicator-open-code {% if paper.is_open_code %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_open_code %}check{% else %}times{% endif %}"></i>
                                 Open Code
-                                {% if paper.is_open_code %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
                             </span>
                             
                             <!-- COI Disclosure -->
-                            <span class="ost-indicator {% if paper.is_coi_pred %}active{% else %}inactive{% endif %}">
-                                <i class="fas fa-exclamation-triangle"></i>
+                            <span class="transparency-badge indicator-coi-disclosure {% if paper.is_coi_pred %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_coi_pred %}shield-alt{% else %}times{% endif %}"></i>
                                 COI Disclosed
-                                {% if paper.is_coi_pred %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
                             </span>
                             
                             <!-- Funding -->
-                            <span class="ost-indicator {% if paper.is_fund_pred %}active{% else %}inactive{% endif %}">
-                                <i class="fas fa-dollar-sign"></i>
+                            <span class="transparency-badge indicator-funding {% if paper.is_fund_pred %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_fund_pred %}dollar-sign{% else %}times{% endif %}"></i>
                                 Funding Info
-                                {% if paper.is_fund_pred %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
                             </span>
                             
                             <!-- Registration -->
-                            <span class="ost-indicator {% if paper.is_register_pred %}active{% else %}inactive{% endif %}">
-                                <i class="fas fa-clipboard-list"></i>
+                            <span class="transparency-badge indicator-registration {% if paper.is_register_pred %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_register_pred %}clipboard-check{% else %}times{% endif %}"></i>
                                 Registered
-                                {% if paper.is_register_pred %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
                             </span>
                             
                             <!-- Open Access -->
-                            <span class="ost-indicator {% if paper.is_open_access %}active{% else %}inactive{% endif %}">
-                                <i class="fas fa-unlock-alt"></i>
+                            <span class="transparency-badge indicator-open-access {% if paper.is_open_access %}transparency-yes{% else %}transparency-no{% endif %}">
+                                <i class="fas fa-{% if paper.is_open_access %}unlock-alt{% else %}lock{% endif %}"></i>
                                 Open Access
-                                {% if paper.is_open_access %}<i class="fas fa-check ms-1"></i>{% else %}<i class="fas fa-times ms-1"></i>{% endif %}
                             </span>
                         </div>
                         
