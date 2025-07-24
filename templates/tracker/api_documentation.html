@@ -1,0 +1,632 @@
+{% extends "tracker/base.html" %}
+{% load static %}
+
+{% block title %}API Documentation - Open Science Tracker{% endblock %}
+{% block meta_description %}Comprehensive REST API documentation for the Open Science Tracker. Access transparency and reproducibility data from scientific publications through our developer-friendly API.{% endblock %}
+
+{% block content %}
+<section class="ost-hero-section">
+    <div class="xera-container">
+        <div class="ost-hero-content">
+            <h1 class="ost-hero-title">
+                <i class="fas fa-code me-3"></i>
+                OST API Documentation
+            </h1>
+            <p class="ost-hero-subtitle">
+                Access comprehensive transparency and reproducibility data from scientific publications 
+                through our powerful REST API. Built for researchers, developers, and data scientists.
+            </p>
+            <div class="d-flex flex-wrap justify-content-center gap-3 mt-4">
+                <a href="{{ available_endpoints.swagger_ui }}" target="_blank" class="xera-btn xera-btn-primary xera-btn-lg">
+                    <i class="fas fa-book me-2"></i>Interactive Docs
+                </a>
+                <a href="{{ available_endpoints.schema }}" target="_blank" class="xera-btn xera-btn-outline xera-btn-lg" style="border-color: white; color: white;">
+                    <i class="fas fa-download me-2"></i>OpenAPI Schema
+                </a>
+                <a href="{{ available_endpoints.redoc }}" target="_blank" class="xera-btn xera-btn-outline xera-btn-lg" style="border-color: white; color: white;">
+                    <i class="fas fa-file-code me-2"></i>ReDoc
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="my-5">
+    <div class="xera-container">
+        <div class="xera-stats-grid">
+            <div class="xera-stat-card ost-stat-papers">
+                <h2 class="xera-stat-number">{{ statistics.total_papers|floatformat:0 }}</h2>
+                <p class="xera-stat-label">Research Papers</p>
+                <p class="xera-stat-change positive">
+                    <i class="fas fa-database me-1"></i>Via API
+                </p>
+            </div>
+            
+            <div class="xera-stat-card ost-stat-journals">
+                <h2 class="xera-stat-number">{{ statistics.total_journals|floatformat:0 }}</h2>
+                <p class="xera-stat-label">Scientific Journals</p>
+                <p class="xera-stat-change positive">
+                    <i class="fas fa-book me-1"></i>Indexed
+                </p>
+            </div>
+            
+            <div class="xera-stat-card ost-stat-fields">
+                <h2 class="xera-stat-number">{{ statistics.total_research_fields|floatformat:0 }}</h2>
+                <p class="xera-stat-label">Research Fields</p>
+                <p class="xera-stat-change positive">
+                    <i class="fas fa-tags me-1"></i>Categorized
+                </p>
+            </div>
+            
+            <div class="xera-stat-card ost-stat-api">
+                <h2 class="xera-stat-number">{{ api_info.version }}</h2>
+                <p class="xera-stat-label">API Version</p>
+                <p class="xera-stat-change neutral">
+                    <i class="fas fa-code-branch me-1"></i>Stable
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="my-5">
+    <div class="xera-container">
+        <div class="row g-4">
+            <div class="col-lg-8">
+                <div class="xera-card">
+                    <div class="xera-card-header">
+                        <h2 class="xera-card-title">
+                            <i class="fas fa-rocket me-2"></i>
+                            Getting Started
+                        </h2>
+                    </div>
+                    <div class="xera-card-body">
+                        <p class="mb-4">
+                            The Open Science Tracker API provides programmatic access to transparency and 
+                            reproducibility data from scientific publications. Our RESTful API is designed 
+                            for ease of use and follows standard HTTP conventions.
+                        </p>
+                        
+                        <h5 class="mb-3">
+                            <i class="fas fa-link text-primary me-2"></i>
+                            Base URL
+                        </h5>
+                        <div class="bg-light p-3 rounded mb-4">
+                            <code class="text-primary">https://ost.xeradb.com/api/v1/</code>
+                        </div>
+                        
+                        <h5 class="mb-3">
+                            <i class="fas fa-play-circle text-primary me-2"></i>
+                            Quick Example
+                        </h5>
+                        <div class="bg-dark text-light p-3 rounded mb-4">
+                            <pre class="mb-0"><code># Get all papers with open data
+curl "{{ available_endpoints.papers }}?has_open_data=true"
+
+# Get papers from 2023 with transparency score >= 5
+curl "{{ available_endpoints.papers }}?pub_year=2023&transparency_score__gte=5"
+
+# Search papers by title
+curl "{{ available_endpoints.papers }}?search=machine+learning"</code></pre>
+                        </div>
+                        
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="ost-indicator data-sharing me-3">
+                                        <i class="fas fa-bolt"></i>
+                                    </div>
+                                    <div>
+                                        <h6 class="mb-1">Fast & Reliable</h6>
+                                        <p class="mb-0 xera-text-sm text-muted">Optimized queries with caching</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="ost-indicator sharing me-3">
+                                        <i class="fas fa-key"></i>
+                                    </div>
+                                    <div>
+                                        <h6 class="mb-1">No Authentication</h6>
+                                        <p class="mb-0 xera-text-sm text-muted">Free and open access</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="ost-indicator code-sharing me-3">
+                                        <i class="fas fa-file-code"></i>
+                                    </div>
+                                    <div>
+                                        <h6 class="mb-1">JSON Format</h6>
+                                        <p class="mb-0 xera-text-sm text-muted">Standard REST responses</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="ost-indicator registration me-3">
+                                        <i class="fas fa-filter"></i>
+                                    </div>
+                                    <div>
+                                        <h6 class="mb-1">Advanced Filtering</h6>
+                                        <p class="mb-0 xera-text-sm text-muted">Powerful query parameters</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4">
+                <div class="xera-card h-100">
+                    <div class="xera-card-header">
+                        <h3 class="xera-card-title">
+                            <i class="fas fa-info-circle me-2"></i>
+                            API Information
+                        </h3>
+                    </div>
+                    <div class="xera-card-body">
+                        <div class="mb-3">
+                            <strong>Version:</strong> {{ api_info.version }}
+                        </div>
+                        <div class="mb-3">
+                            <strong>Format:</strong> JSON
+                        </div>
+                        <div class="mb-3">
+                            <strong>Authentication:</strong> None required
+                        </div>
+                        <div class="mb-3">
+                            <strong>Rate Limits:</strong> None currently
+                        </div>
+                        <div class="mb-3">
+                            <strong>CORS:</strong> Enabled
+                        </div>
+                        <div class="mb-3">
+                            <strong>Last Updated:</strong><br>
+                            <small class="text-muted">{{ statistics.last_updated|date:"M d, Y H:i" }}</small>
+                        </div>
+                        
+                        <hr>
+                        
+                        <h6 class="mb-3">
+                            <i class="fas fa-user-circle text-primary me-2"></i>
+                            Contact
+                        </h6>
+                        <p class="mb-2">
+                            <strong>{{ api_info.contact.name }}</strong>
+                        </p>
+                        <p class="mb-0">
+                            <a href="mailto:{{ api_info.contact.email }}" class="text-decoration-none">
+                                <i class="fas fa-envelope me-1"></i>{{ api_info.contact.email }}
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="my-5">
+    <div class="xera-container">
+        <div class="xera-card">
+            <div class="xera-card-header">
+                <h2 class="xera-card-title">
+                    <i class="fas fa-sitemap me-2"></i>
+                    Available Endpoints
+                </h2>
+            </div>
+            <div class="xera-card-body">
+                <div class="row g-4">
+                    <!-- Papers Endpoint -->
+                    <div class="col-lg-4">
+                        <div class="ost-paper-card h-100">
+                            <div class="ost-paper-card-header">
+                                <div class="ost-paper-card-content">
+                                    <h4 class="ost-paper-title">
+                                        <i class="fas fa-file-alt text-primary me-2"></i>
+                                        Papers
+                                    </h4>
+                                    <p class="mb-2">Access research papers with transparency indicators</p>
+                                    <code class="xera-text-sm">GET /api/v1/papers/</code>
+                                </div>
+                            </div>
+                            <div class="ost-paper-card-body">
+                                <h6 class="mb-2">Features:</h6>
+                                <ul class="list-unstyled xera-text-sm">
+                                    <li><i class="fas fa-check text-success me-2"></i>Filter by transparency indicators</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Search by title, author, journal</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Date range filtering</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Pagination support</li>
+                                </ul>
+                            </div>
+                            <div class="ost-paper-card-footer">
+                                <a href="{{ available_endpoints.papers }}" target="_blank" class="xera-btn xera-btn-primary xera-btn-sm">
+                                    <i class="fas fa-external-link-alt me-1"></i>Try It
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Journals Endpoint -->
+                    <div class="col-lg-4">
+                        <div class="ost-journal-card h-100">
+                            <div class="ost-journal-card-header">
+                                <h4 class="ost-journal-title">
+                                    <i class="fas fa-book text-primary me-2"></i>
+                                    Journals
+                                </h4>
+                                <p class="mb-2">Scientific journals with metadata and statistics</p>
+                                <code class="xera-text-sm">GET /api/v1/journals/</code>
+                            </div>
+                            <div class="ost-journal-card-body">
+                                <h6 class="mb-2">Features:</h6>
+                                <ul class="list-unstyled xera-text-sm">
+                                    <li><i class="fas fa-check text-success me-2"></i>Filter by country, publisher</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Subject area filtering</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Paper count statistics</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>ISSN and metadata</li>
+                                </ul>
+                            </div>
+                            <div class="ost-journal-card-footer">
+                                <a href="{{ available_endpoints.journals }}" target="_blank" class="xera-btn xera-btn-primary xera-btn-sm">
+                                    <i class="fas fa-external-link-alt me-1"></i>Try It
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Research Fields Endpoint -->
+                    <div class="col-lg-4">
+                        <div class="ost-field-card h-100">
+                            <div class="ost-field-card-header">
+                                <h4 class="ost-field-title">
+                                    <i class="fas fa-tags text-primary me-2"></i>
+                                    Research Fields
+                                </h4>
+                                <p class="mb-2">Research disciplines and subject areas</p>
+                                <code class="xera-text-sm">GET /api/v1/research-fields/</code>
+                            </div>
+                            <div class="ost-field-card-body">
+                                <h6 class="mb-2">Features:</h6>
+                                <ul class="list-unstyled xera-text-sm">
+                                    <li><i class="fas fa-check text-success me-2"></i>Field taxonomy</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Paper counts per field</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Transparency statistics</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Hierarchical structure</li>
+                                </ul>
+                            </div>
+                            <div class="ost-field-card-footer">
+                                <a href="{{ available_endpoints.research_fields }}" target="_blank" class="xera-btn xera-btn-primary xera-btn-sm">
+                                    <i class="fas fa-external-link-alt me-1"></i>Try It
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Special Endpoints -->
+                <div class="mt-4">
+                    <h5 class="mb-3">
+                        <i class="fas fa-star text-warning me-2"></i>
+                        Special Endpoints
+                    </h5>
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <div class="bg-light p-3 rounded">
+                                <h6 class="mb-2">
+                                    <i class="fas fa-chart-bar text-primary me-2"></i>
+                                    Transparency Statistics
+                                </h6>
+                                <code class="xera-text-sm d-block mb-2">GET /api/v1/papers/transparency_stats/</code>
+                                <p class="xera-text-sm mb-0 text-muted">Aggregate transparency metrics for filtered paper sets</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="bg-light p-3 rounded">
+                                <h6 class="mb-2">
+                                    <i class="fas fa-info-circle text-primary me-2"></i>
+                                    API Overview
+                                </h6>
+                                <code class="xera-text-sm d-block mb-2">GET /api/</code>
+                                <p class="xera-text-sm mb-0 text-muted">This page with live statistics and endpoints</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="my-5">
+    <div class="xera-container">
+        <div class="row g-4">
+            <div class="col-lg-6">
+                <div class="xera-card h-100">
+                    <div class="xera-card-header">
+                        <h3 class="xera-card-title">
+                            <i class="fas fa-filter me-2"></i>
+                            Common Query Parameters
+                        </h3>
+                    </div>
+                    <div class="xera-card-body">
+                        <div class="ost-table-container">
+                            <table class="ost-table">
+                                <thead>
+                                    <tr>
+                                        <th>Parameter</th>
+                                        <th>Description</th>
+                                        <th>Example</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><code>search</code></td>
+                                        <td>Search in text fields</td>
+                                        <td><code>?search=covid</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td><code>pub_year</code></td>
+                                        <td>Filter by publication year</td>
+                                        <td><code>?pub_year=2023</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td><code>pub_year__gte</code></td>
+                                        <td>Papers from year onwards</td>
+                                        <td><code>?pub_year__gte=2020</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td><code>has_open_data</code></td>
+                                        <td>Filter by open data availability</td>
+                                        <td><code>?has_open_data=true</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td><code>transparency_score__gte</code></td>
+                                        <td>Minimum transparency score</td>
+                                        <td><code>?transparency_score__gte=5</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td><code>journal_name</code></td>
+                                        <td>Filter by journal name</td>
+                                        <td><code>?journal_name=nature</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td><code>page</code></td>
+                                        <td>Pagination</td>
+                                        <td><code>?page=2</code></td>
+                                    </tr>
+                                    <tr>
+                                        <td><code>page_size</code></td>
+                                        <td>Results per page (max 100)</td>
+                                        <td><code>?page_size=50</code></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-6">
+                <div class="xera-card h-100">
+                    <div class="xera-card-header">
+                        <h3 class="xera-card-title">
+                            <i class="fas fa-code-branch me-2"></i>
+                            Response Format
+                        </h3>
+                    </div>
+                    <div class="xera-card-body">
+                        <h6 class="mb-3">Standard List Response:</h6>
+                        <div class="bg-dark text-light p-3 rounded mb-4">
+                            <pre class="mb-0 xera-text-sm"><code>{
+  "count": 1250,
+  "next": "https://ost.xeradb.com/api/v1/papers/?page=2",
+  "previous": null,
+  "results": [
+    {
+      "pmid": "12345678",
+      "title": "Research Paper Title",
+      "pub_year": 2023,
+      "transparency_score": 5,
+      "is_open_data": true,
+      "is_open_code": false,
+      "journal": {
+        "id": 1,
+        "title_abbreviation": "Nature"
+      }
+    }
+  ]
+}</code></pre>
+                        </div>
+                        
+                        <h6 class="mb-3">HTTP Status Codes:</h6>
+                        <div class="row g-2">
+                            <div class="col-6">
+                                <span class="xera-badge xera-badge-success">200</span> Success
+                            </div>
+                            <div class="col-6">
+                                <span class="xera-badge xera-badge-warning">400</span> Bad Request
+                            </div>
+                            <div class="col-6">
+                                <span class="xera-badge xera-badge-danger">404</span> Not Found
+                            </div>
+                            <div class="col-6">
+                                <span class="xera-badge xera-badge-secondary">500</span> Server Error
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="my-5">
+    <div class="xera-container">
+        <div class="xera-card">
+            <div class="xera-card-header">
+                <h2 class="xera-card-title">
+                    <i class="fas fa-chart-pie me-2"></i>
+                    Current Database Statistics
+                </h2>
+            </div>
+            <div class="xera-card-body">
+                <div class="row g-4">
+                    <div class="col-lg-6">
+                        <h5 class="mb-3">Transparency Coverage</h5>
+                        <div class="ost-transparency-overview">
+                            <div class="ost-transparency-metrics">
+                                <div class="ost-transparency-metric">
+                                    <div class="ost-metric-icon ost-indicator data-sharing">
+                                        <i class="fas fa-database"></i>
+                                    </div>
+                                    <div class="ost-metric-data">
+                                        <p class="ost-metric-percentage">{{ statistics.transparency_coverage.open_data|floatformat:0 }}</p>
+                                        <p class="ost-metric-label">Open Data Papers</p>
+                                    </div>
+                                </div>
+                                <div class="ost-transparency-metric">
+                                    <div class="ost-metric-icon ost-indicator code-sharing">
+                                        <i class="fas fa-code"></i>
+                                    </div>
+                                    <div class="ost-metric-data">
+                                        <p class="ost-metric-percentage">{{ statistics.transparency_coverage.open_code|floatformat:0 }}</p>
+                                        <p class="ost-metric-label">Open Code Papers</p>
+                                    </div>
+                                </div>
+                                <div class="ost-transparency-metric">
+                                    <div class="ost-metric-icon ost-indicator coi-disclosure">
+                                        <i class="fas fa-exclamation-triangle"></i>
+                                    </div>
+                                    <div class="ost-metric-data">
+                                        <p class="ost-metric-percentage">{{ statistics.transparency_coverage.conflict_of_interest|floatformat:0 }}</p>
+                                        <p class="ost-metric-label">COI Disclosure</p>
+                                    </div>
+                                </div>
+                                <div class="ost-transparency-metric">
+                                    <div class="ost-metric-icon ost-indicator funding-disclosure">
+                                        <i class="fas fa-dollar-sign"></i>
+                                    </div>
+                                    <div class="ost-metric-data">
+                                        <p class="ost-metric-percentage">{{ statistics.transparency_coverage.funding_declaration|floatformat:0 }}</p>
+                                        <p class="ost-metric-label">Funding Info</p>
+                                    </div>
+                                </div>
+                                <div class="ost-transparency-metric">
+                                    <div class="ost-metric-icon ost-indicator registration">
+                                        <i class="fas fa-clipboard-list"></i>
+                                    </div>
+                                    <div class="ost-metric-data">
+                                        <p class="ost-metric-percentage">{{ statistics.transparency_coverage.registration|floatformat:0 }}</p>
+                                        <p class="ost-metric-label">Registration</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-6">
+                        <h5 class="mb-3">Coverage Information</h5>
+                        <div class="row g-3">
+                            <div class="col-6">
+                                <div class="text-center">
+                                    <div class="ost-transparency-score high mb-2">
+                                        {{ statistics.year_range.earliest }}
+                                    </div>
+                                    <div class="xera-text-sm text-muted">Earliest Year</div>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="text-center">
+                                    <div class="ost-transparency-score high mb-2">
+                                        {{ statistics.year_range.latest }}
+                                    </div>
+                                    <div class="xera-text-sm text-muted">Latest Year</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <h6 class="mt-4 mb-3">Top Journals by Paper Count</h6>
+                        <div class="ost-table-container">
+                            <table class="ost-table">
+                                <thead>
+                                    <tr>
+                                        <th>Journal</th>
+                                        <th>Papers</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for journal in top_journals|slice:":5" %}
+                                    <tr>
+                                        <td>{{ journal.title_abbreviation }}</td>
+                                        <td><span class="xera-badge xera-badge-primary">{{ journal.paper_count }}</span></td>
+                                    </tr>
+                                    {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="my-5">
+    <div class="xera-container">
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="xera-card h-100 text-center" style="border-left: 4px solid var(--ost-transparency-high);">
+                    <div class="xera-card-body">
+                        <i class="fas fa-book-open fa-3x text-success mb-3"></i>
+                        <h4 class="xera-font-semibold">Interactive Documentation</h4>
+                        <p class="text-muted mb-3">
+                            Explore our API with Swagger UI - test endpoints, see examples, 
+                            and understand response formats in real-time.
+                        </p>
+                        <a href="{{ available_endpoints.swagger_ui }}" target="_blank" class="xera-btn xera-btn-success">
+                            <i class="fas fa-external-link-alt me-1"></i>Open Swagger UI
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="xera-card h-100 text-center" style="border-left: 4px solid var(--xera-primary);">
+                    <div class="xera-card-body">
+                        <i class="fas fa-file-code fa-3x text-primary mb-3"></i>
+                        <h4 class="xera-font-semibold">OpenAPI Schema</h4>
+                        <p class="text-muted mb-3">
+                            Download the complete API specification in OpenAPI 3.0 format 
+                            for integration with your tools and frameworks.
+                        </p>
+                        <a href="{{ available_endpoints.schema }}" target="_blank" class="xera-btn xera-btn-primary">
+                            <i class="fas fa-download me-1"></i>Download Schema
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="xera-card h-100 text-center" style="border-left: 4px solid var(--xera-secondary);">
+                    <div class="xera-card-body">
+                        <i class="fas fa-graduation-cap fa-3x text-info mb-3"></i>
+                        <h4 class="xera-font-semibold">Academic Use</h4>
+                        <p class="text-muted mb-3">
+                            Free for academic and research purposes. Please cite our work 
+                            when using OST data in your publications.
+                        </p>
+                        <a href="{% url 'tracker:about' %}" class="xera-btn xera-btn-info">
+                            <i class="fas fa-quote-left me-1"></i>Citation Guide
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %} 
