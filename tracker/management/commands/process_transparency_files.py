@@ -21,7 +21,7 @@ class Command(BaseCommand):
         parser.add_argument(
             '--directory',
             type=str,
-            default=getattr(settings, 'TRANSPARENCY_DATA_DIR', '/home/ost/transparency_results'),
+            default=getattr(settings, 'TRANSPARENCY_DATA_DIR', '/home/xeradb/transparency_results'),
             help='Directory to scan for transparency files',
         )
         parser.add_argument(

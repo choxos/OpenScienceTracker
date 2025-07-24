@@ -21,7 +21,7 @@ class Command(BaseCommand):
         parser.add_argument(
             '--directory',
             type=str,
-            default=getattr(settings, 'EPMC_DATA_DIR', '/home/ost/epmc_monthly_data'),
+            default=getattr(settings, 'EPMC_DATA_DIR', '/home/xeradb/epmc_monthly_data'),
             help='Directory to scan for EPMC files',
         )
         parser.add_argument(
