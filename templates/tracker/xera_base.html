@@ -31,6 +31,9 @@
     <!-- Layout Improvements for Better Readability -->
     <link rel="stylesheet" href="{% static 'css/layout-improvements.css' %}">
     
+    <!-- Mobile Navigation Styles -->
+    <link rel="stylesheet" href="{% static 'css/mobile-navigation.css' %}">
+    
     <!-- Performance Optimizations -->
     <link rel="stylesheet" href="{% static 'css/performance-optimizations.css' %}">
     
@@ -69,7 +72,10 @@
             </a>
             
             <!-- Mobile Menu Toggle Button -->
-            <button class="xera-mobile-menu-toggle" aria-label="Toggle navigation menu">
+            <button class="xera-mobile-menu-toggle" 
+                    aria-label="Toggle navigation menu" 
+                    aria-expanded="false" 
+                    aria-controls="main-nav">
                 <span class="hamburger-line"></span>
                 <span class="hamburger-line"></span>
                 <span class="hamburger-line"></span>
@@ -482,9 +488,71 @@
             hide() { this.loading && (this.loading.style.display = 'none'); }
         }
         
+        // Mobile Navigation Class
+        class MobileNavigation {
+            constructor() {
+                this.mobileToggle = document.querySelector('.xera-mobile-menu-toggle');
+                this.nav = document.querySelector('.xera-nav');
+                this.body = document.body;
+                this.isOpen = false;
+                
+                this.init();
+            }
+            
+            init() {
+                if (this.mobileToggle && this.nav) {
+                    this.mobileToggle.addEventListener('click', () => this.toggle());
+                    
+                    // Close menu when clicking nav links
+                    this.nav.querySelectorAll('.xera-nav-link').forEach(link => {
+                        link.addEventListener('click', () => this.close());
+                    });
+                    
+                    // Close menu on escape key
+                    document.addEventListener('keydown', (e) => {
+                        if (e.key === 'Escape' && this.isOpen) {
+                            this.close();
+                        }
+                    });
+                    
+                    // Close menu on window resize to desktop
+                    window.addEventListener('resize', () => {
+                        if (window.innerWidth > 768 && this.isOpen) {
+                            this.close();
+                        }
+                    });
+                }
+            }
+            
+            toggle() {
+                if (this.isOpen) {
+                    this.close();
+                } else {
+                    this.open();
+                }
+            }
+            
+            open() {
+                this.isOpen = true;
+                this.mobileToggle.classList.add('active');
+                this.nav.classList.add('mobile-menu-open');
+                this.body.classList.add('mobile-menu-open');
+                this.mobileToggle.setAttribute('aria-expanded', 'true');
+            }
+            
+            close() {
+                this.isOpen = false;
+                this.mobileToggle.classList.remove('active');
+                this.nav.classList.remove('mobile-menu-open');
+                this.body.classList.remove('mobile-menu-open');
+                this.mobileToggle.setAttribute('aria-expanded', 'false');
+            }
+        }
+        
         // Optimized initialization
         document.addEventListener('DOMContentLoaded', () => {
             window.ajaxNav = new AjaxNavigator();
+            window.mobileNav = new MobileNavigation();
         });
     </script>
     
