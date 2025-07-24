@@ -187,6 +187,13 @@
                                 Registered
                             </span>
                             {% endif %}
+                            
+                            {% if paper.is_open_access %}
+                            <span class="ost-indicator sharing">
+                                <i class="fas fa-unlock-alt"></i>
+                                Open Access
+                            </span>
+                            {% endif %}
                         </div>
                         
                         <div class="d-flex gap-2">
