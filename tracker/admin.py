@@ -99,10 +99,32 @@ class PaperAdmin(admin.ModelAdmin):
 
 @admin.register(ResearchField)
 class ResearchFieldAdmin(admin.ModelAdmin):
-    list_display = ['name', 'parent_field', 'total_journals', 'total_papers', 'avg_transparency_score']
+    list_display = ['name', 'parent_field', 'total_papers', 'total_journals', 'avg_transparency_score', 
+                   'avg_data_sharing', 'avg_code_sharing', 'avg_coi_disclosure']
     list_filter = ['parent_field']
     search_fields = ['name', 'description']
     readonly_fields = ['created_at', 'updated_at']
+    
+    fieldsets = (
+        ('Basic Information', {
+            'fields': ('name', 'description', 'parent_field')
+        }),
+        ('Statistics', {
+            'fields': ('total_papers', 'total_journals', 'avg_transparency_score')
+        }),
+        ('Transparency Averages (%)', {
+            'fields': (
+                ('avg_data_sharing', 'avg_code_sharing'),
+                ('avg_coi_disclosure', 'avg_funding_disclosure'),
+                ('avg_protocol_registration', 'avg_open_access')
+            ),
+            'description': 'Average percentages of papers with each transparency indicator'
+        }),
+        ('Metadata', {
+            'fields': ('created_at', 'updated_at'),
+            'classes': ('collapse',)
+        })
+    )
 
 @admin.register(UserProfile)
 class UserProfileAdmin(admin.ModelAdmin):
