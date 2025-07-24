@@ -25,8 +25,18 @@ class HomeView(TemplateView):
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         
-        # Optimized statistics with single aggregation query
-        stats = Paper.objects.aggregate(
+        # Get year filter parameter (default to 2000+)
+        year_filter = self.request.GET.get('year_filter', '2000')
+        context['year_filter'] = year_filter
+        
+        # Apply year filtering to queryset
+        papers_queryset = Paper.objects.all()
+        if year_filter == '2000':
+            papers_queryset = papers_queryset.filter(pub_year__gte=2000)
+        # If year_filter == 'all', use all papers (no additional filter)
+        
+        # Optimized statistics with single aggregation query (filtered by year)
+        stats = papers_queryset.aggregate(
             total_papers=Count('id'),
             avg_transparency_score=Avg('transparency_score'),
             open_data_count=Count('id', filter=Q(is_open_data=True)),

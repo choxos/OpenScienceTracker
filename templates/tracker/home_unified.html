@@ -252,10 +252,26 @@
 <!-- Transparency Overview -->
 <section class="transparency-overview">
     <div class="xera-container">
-        <h2 class="xera-card-title mb-4">
-            <i class="fas fa-chart-bar me-2"></i>
-            Transparency Indicators Overview
-        </h2>
+        <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-4">
+            <h2 class="xera-card-title mb-3 mb-md-0">
+                <i class="fas fa-chart-bar me-2"></i>
+                Transparency Indicators Overview
+            </h2>
+            
+            <!-- Year Filter -->
+            <div class="year-filter-section">
+                <form method="get" id="transparency-year-filter" class="d-flex align-items-center">
+                    <label class="me-2 text-muted fw-medium">Data Range:</label>
+                    <div class="btn-group btn-group-sm" role="group" data-bs-toggle="buttons">
+                        <input type="radio" class="btn-check" name="year_filter" id="year_all" value="all" {% if not year_filter or year_filter == 'all' %}{% else %}{% endif %}>
+                        <label class="btn btn-outline-primary" for="year_all">All Years</label>
+                        
+                        <input type="radio" class="btn-check" name="year_filter" id="year_2000" value="2000" {% if not year_filter or year_filter == '2000' %}checked{% endif %}>
+                        <label class="btn btn-outline-primary" for="year_2000">2000+</label>
+                    </div>
+                </form>
+            </div>
+        </div>
         
         <div class="transparency-metrics">
             <div class="transparency-metric">
@@ -532,8 +548,30 @@
 
 {% block extra_js %}
 <script>
-// Add fade-in animation on scroll
+// Year filter functionality for transparency indicators
 document.addEventListener('DOMContentLoaded', function() {
+    const yearFilterForm = document.getElementById('transparency-year-filter');
+    if (yearFilterForm) {
+        const yearFilterInputs = yearFilterForm.querySelectorAll('input[name="year_filter"]');
+        
+        // Handle year filter change
+        yearFilterInputs.forEach(input => {
+            input.addEventListener('change', function() {
+                if (this.checked) {
+                    // Add loading state
+                    const metricsContainer = document.querySelector('.transparency-metrics');
+                    if (metricsContainer) {
+                        metricsContainer.style.opacity = '0.6';
+                    }
+                    
+                    // Submit form to reload with new filter
+                    yearFilterForm.submit();
+                }
+            });
+        });
+    }
+    
+    // Add fade-in animation on scroll
     const observerOptions = {
         threshold: 0.1,
         rootMargin: '0px 0px -100px 0px'
