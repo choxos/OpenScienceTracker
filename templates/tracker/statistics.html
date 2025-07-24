@@ -3,478 +3,602 @@
 
 {% block title %}Statistics - Open Science Tracker{% endblock %}
 
-{% block meta_description %}Comprehensive transparency statistics for scientific publications. Explore open science trends, journal rankings, and research transparency metrics across fields.{% endblock %}
+{% block meta_description %}Comprehensive transparency statistics for {{ total_papers }} scientific publications. Explore open science trends, journal rankings, and research transparency metrics across fields.{% endblock %}
+
+{% block extra_css %}
+<style>
+/* Statistics Page Enhanced Styles */
+.stats-hero {
+    background: linear-gradient(135deg, #2d3748 0%, #4a5568 50%, #2b6cb0 100%);
+    color: white;
+    padding: 4rem 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.stats-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 20px,
+        rgba(255,255,255,0.03) 20px,
+        rgba(255,255,255,0.03) 40px
+    );
+}
+
+.hero-content {
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    opacity: 0.9;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Overview Cards */
+.overview-section {
+    padding: 3rem 0;
+    background: #f8f9fa;
+}
+
+.overview-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.overview-card {
+    background: white;
+    border-radius: 16px;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    border: 1px solid #e2e8f0;
+}
+
+.overview-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+}
+
+.overview-icon {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem auto;
+    font-size: 2rem;
+    color: white;
+}
+
+.overview-icon.papers { background: linear-gradient(135deg, #3b82f6, #1d4ed8); }
+.overview-icon.journals { background: linear-gradient(135deg, #10b981, #047857); }
+.overview-icon.transparency { background: linear-gradient(135deg, #f59e0b, #d97706); }
+.overview-icon.categories { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+
+.overview-number {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--xera-gray-800);
+    margin-bottom: 0.5rem;
+}
+
+.overview-label {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--xera-gray-600);
+    margin-bottom: 0;
+}
+
+/* Transparency Indicators */
+.indicators-section {
+    padding: 3rem 0;
+}
+
+.indicators-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.indicator-card {
+    background: white;
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    border-left: 4px solid transparent;
+}
+
+.indicator-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+}
+
+.indicator-card.data-sharing { border-left-color: #10b981; }
+.indicator-card.code-sharing { border-left-color: #3b82f6; }
+.indicator-card.coi-disclosure { border-left-color: #f59e0b; }
+.indicator-card.funding-disclosure { border-left-color: #ef4444; }
+.indicator-card.registration { border-left-color: #8b5cf6; }
+.indicator-card.open-access { border-left-color: #06b6d4; }
+
+.indicator-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.indicator-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    color: white;
+}
+
+.indicator-icon.data-sharing { background: #10b981; }
+.indicator-icon.code-sharing { background: #3b82f6; }
+.indicator-icon.coi-disclosure { background: #f59e0b; }
+.indicator-icon.funding-disclosure { background: #ef4444; }
+.indicator-icon.registration { background: #8b5cf6; }
+.indicator-icon.open-access { background: #06b6d4; }
+
+.indicator-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--xera-gray-800);
+    margin: 0;
+}
+
+.indicator-stats {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.indicator-percentage {
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--xera-gray-800);
+}
+
+.indicator-count {
+    font-size: 0.9rem;
+    color: var(--xera-gray-500);
+}
+
+.progress-bar {
+    width: 100%;
+    height: 8px;
+    background: #e2e8f0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.8s ease;
+}
+
+.progress-fill.data-sharing { background: #10b981; }
+.progress-fill.code-sharing { background: #3b82f6; }
+.progress-fill.coi-disclosure { background: #f59e0b; }
+.progress-fill.funding-disclosure { background: #ef4444; }
+.progress-fill.registration { background: #8b5cf6; }
+.progress-fill.open-access { background: #06b6d4; }
+
+/* Categories Section */
+.categories-section {
+    padding: 3rem 0;
+    background: #f8f9fa;
+}
+
+.categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.category-card {
+    background: white;
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+}
+
+.category-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+}
+
+.category-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+}
+
+.category-name {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--xera-gray-800);
+    margin: 0;
+}
+
+.category-score {
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.category-score.high { background: #dcfce7; color: #166534; }
+.category-score.medium { background: #fef3c7; color: #92400e; }
+.category-score.low { background: #fee2e2; color: #991b1b; }
+
+.category-metrics {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.category-metric {
+    text-align: center;
+    padding: 0.75rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.metric-value {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--xera-primary);
+}
+
+.metric-label {
+    font-size: 0.8rem;
+    color: var(--xera-gray-600);
+    margin-top: 0.25rem;
+}
+
+/* Yearly Trends */
+.trends-section {
+    padding: 3rem 0;
+}
+
+.trends-card {
+    background: white;
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    margin-top: 2rem;
+}
+
+.trends-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.year-stat {
+    text-align: center;
+    padding: 1.5rem 1rem;
+    background: linear-gradient(145deg, #f8f9fa, #e9ecef);
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.year-stat:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.year-number {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--xera-primary);
+    margin-bottom: 0.5rem;
+}
+
+.year-papers {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--xera-gray-800);
+    margin-bottom: 0.25rem;
+}
+
+.year-transparency {
+    font-size: 0.9rem;
+    color: var(--xera-gray-600);
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+    
+    .overview-grid,
+    .indicators-grid,
+    .categories-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .trends-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+</style>
+{% endblock %}
 
 {% block content %}
-<!-- Statistics Overview Hero -->
-<section class="ost-hero-section">
+<!-- Statistics Hero Section -->
+<div class="stats-hero">
     <div class="xera-container">
-        <div class="ost-hero-content">
-            <h1 class="ost-hero-title">
-                <i class="fas fa-chart-bar me-3"></i>
-                OST Statistics
+        <div class="hero-content">
+            <h1 class="hero-title">
+                <i class="fas fa-chart-line me-3"></i>
+                Open Science Statistics
             </h1>
-            <p class="ost-hero-subtitle">
-                Comprehensive transparency metrics across scientific publications.
-                Discover trends, compare journals, and track open science progress.
+            <p class="hero-subtitle">
+                Comprehensive transparency metrics across {{ total_papers|floatformat:0 }} research papers from {{ total_journals|floatformat:0 }} journals
             </p>
         </div>
     </div>
-</section>
+</div>
 
-<!-- Key Statistics Overview -->
-<section class="my-5">
+<!-- Overview Statistics -->
+<div class="overview-section">
     <div class="xera-container">
-        <div class="xera-stats-grid">
-            <div class="xera-stat-card ost-stat-papers">
-                <h2 class="xera-stat-number">{{ total_papers|floatformat:0 }}</h2>
-                <p class="xera-stat-label">Research Papers</p>
-                <p class="xera-stat-change positive">
-                    <i class="fas fa-arrow-up me-1"></i>Growing database
-                </p>
+        <h2 class="text-center mb-4">
+            <i class="fas fa-tachometer-alt me-2"></i>
+            Overview Statistics
+        </h2>
+        
+        <div class="overview-grid">
+            <div class="overview-card">
+                <div class="overview-icon papers">
+                    <i class="fas fa-file-alt"></i>
+                </div>
+                <div class="overview-number">{{ total_papers|floatformat:0 }}</div>
+                <div class="overview-label">Research Papers</div>
             </div>
             
-            <div class="xera-stat-card ost-stat-journals">
-                <h2 class="xera-stat-number">{{ total_journals|floatformat:0 }}</h2>
-                <p class="xera-stat-label">Journals Tracked</p>
-                <p class="xera-stat-change neutral">
-                    <i class="fas fa-book me-1"></i>Comprehensive coverage
-                </p>
+            <div class="overview-card">
+                <div class="overview-icon journals">
+                    <i class="fas fa-book"></i>
+                </div>
+                <div class="overview-number">{{ total_journals|floatformat:0 }}</div>
+                <div class="overview-label">Scientific Journals</div>
             </div>
             
-            <div class="xera-stat-card ost-stat-transparency">
-                <h2 class="xera-stat-number">{{ avg_transparency_score|floatformat:1 }}/7</h2>
-                <p class="xera-stat-label">Avg Transparency</p>
-                <p class="xera-stat-change {% if avg_transparency_score >= 4 %}positive{% elif avg_transparency_score >= 2 %}neutral{% else %}negative{% endif %}">
-                    <i class="fas fa-chart-line me-1"></i>Overall score
-                </p>
+            <div class="overview-card">
+                <div class="overview-icon transparency">
+                    <i class="fas fa-chart-pie"></i>
+                </div>
+                <div class="overview-number">6</div>
+                <div class="overview-label">Transparency Indicators</div>
             </div>
             
-            <div class="xera-stat-card ost-stat-fields">
-                <h2 class="xera-stat-number">{{ total_fields|floatformat:0 }}</h2>
-                <p class="xera-stat-label">Research Fields</p>
-                <p class="xera-stat-change neutral">
-                    <i class="fas fa-tags me-1"></i>Broad coverage
-                </p>
+            <div class="overview-card">
+                <div class="overview-icon categories">
+                    <i class="fas fa-tags"></i>
+                </div>
+                <div class="overview-number">{{ category_distribution|length }}</div>
+                <div class="overview-label">Research Categories</div>
             </div>
         </div>
     </div>
-</section>
+</div>
 
-<!-- Transparency Breakdown -->
-<section class="my-5">
+<!-- Transparency Indicators -->
+<div class="indicators-section">
     <div class="xera-container">
-        <div class="ost-transparency-overview">
-            <h2 class="xera-card-title mb-4">
-                <i class="fas fa-microscope me-2"></i>
-                Transparency Indicators Breakdown
-            </h2>
-            
-            <div class="ost-transparency-metrics">
-                <div class="ost-transparency-metric">
-                    <div class="ost-metric-icon ost-indicator data-sharing">
-                        <i class="fas fa-database"></i>
+        <h2 class="text-center mb-4">
+            <i class="fas fa-microscope me-2"></i>
+            Transparency Indicators Breakdown
+        </h2>
+        
+        <div class="indicators-grid">
+            {% for key, data in indicators_stats.items %}
+            <div class="indicator-card {{ key|cut:'_' }}">
+                <div class="indicator-header">
+                    <div class="indicator-icon {{ key|cut:'_' }}">
+                        {% if 'data' in key %}
+                            <i class="fas fa-database"></i>
+                        {% elif 'code' in key %}
+                            <i class="fas fa-code"></i>
+                        {% elif 'coi' in key %}
+                            <i class="fas fa-exclamation-triangle"></i>
+                        {% elif 'funding' in key %}
+                            <i class="fas fa-dollar-sign"></i>
+                        {% elif 'registration' in key %}
+                            <i class="fas fa-clipboard-list"></i>
+                        {% elif 'access' in key %}
+                            <i class="fas fa-unlock-alt"></i>
+                        {% endif %}
                     </div>
-                    <div class="ost-metric-data">
-                        <p class="ost-metric-percentage">{{ data_sharing_pct|floatformat:1 }}%</p>
-                        <p class="ost-metric-label">Open Data Sharing</p>
-                        <div class="ost-progress">
-                            <div class="ost-progress-bar high" data-width="{{ data_sharing_pct }}"></div>
-                        </div>
+                    <h3 class="indicator-title">{{ data.label }}</h3>
+                </div>
+                
+                <div class="indicator-stats">
+                    <div class="indicator-percentage">{{ data.percentage|floatformat:1 }}%</div>
+                    <div class="indicator-count">{{ data.count|floatformat:0 }} papers</div>
+                </div>
+                
+                <div class="progress-bar">
+                    <div class="progress-fill {{ key|cut:'_' }}" style="width: {{ data.percentage|floatformat:1 }}%"></div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<!-- Research Categories -->
+<div class="categories-section">
+    <div class="xera-container">
+        <h2 class="text-center mb-4">
+            <i class="fas fa-layer-group me-2"></i>
+            Transparency by Research Category
+        </h2>
+        
+        <div class="categories-grid">
+            {% for category in category_distribution|slice:":6" %}
+            <div class="category-card">
+                <div class="category-header">
+                    <h3 class="category-name">{{ category.broad_subject_term }}</h3>
+                    <div class="category-score {% if category.avg_transparency >= 4 %}high{% elif category.avg_transparency >= 2 %}medium{% else %}low{% endif %}">
+                        {{ category.avg_transparency|floatformat:1 }}/6
                     </div>
                 </div>
                 
-                <div class="ost-transparency-metric">
-                    <div class="ost-metric-icon ost-indicator code-sharing">
-                        <i class="fas fa-code"></i>
+                <div class="category-metrics">
+                    <div class="category-metric">
+                        <div class="metric-value">{{ category.count|floatformat:0 }}</div>
+                        <div class="metric-label">Papers</div>
                     </div>
-                    <div class="ost-metric-data">
-                        <p class="ost-metric-percentage">{{ code_sharing_pct|floatformat:1 }}%</p>
-                        <p class="ost-metric-label">Code Sharing</p>
-                        <div class="ost-progress">
-                            <div class="ost-progress-bar medium" data-width="{{ code_sharing_pct }}"></div>
-                        </div>
+                    <div class="category-metric">
+                        <div class="metric-value">{{ category.data_sharing_pct|floatformat:0 }}%</div>
+                        <div class="metric-label">Open Data</div>
                     </div>
-                </div>
-                
-                <div class="ost-transparency-metric">
-                    <div class="ost-metric-icon ost-indicator coi-disclosure">
-                        <i class="fas fa-exclamation-triangle"></i>
+                    <div class="category-metric">
+                        <div class="metric-value">{{ category.code_sharing_pct|floatformat:0 }}%</div>
+                        <div class="metric-label">Open Code</div>
                     </div>
-                    <div class="ost-metric-data">
-                        <p class="ost-metric-percentage">{{ coi_disclosure_pct|floatformat:1 }}%</p>
-                        <p class="ost-metric-label">COI Disclosure</p>
-                        <div class="ost-progress">
-                            <div class="ost-progress-bar high" data-width="{{ coi_disclosure_pct }}"></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="ost-transparency-metric">
-                    <div class="ost-metric-icon ost-indicator funding">
-                        <i class="fas fa-dollar-sign"></i>
-                    </div>
-                    <div class="ost-metric-data">
-                        <p class="ost-metric-percentage">{{ funding_disclosure_pct|floatformat:1 }}%</p>
-                        <p class="ost-metric-label">Funding Disclosure</p>
-                        <div class="ost-progress">
-                            <div class="ost-progress-bar medium" data-width="{{ funding_disclosure_pct }}"></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="ost-transparency-metric">
-                    <div class="ost-metric-icon ost-indicator registration">
-                        <i class="fas fa-clipboard-list"></i>
-                    </div>
-                    <div class="ost-metric-data">
-                        <p class="ost-metric-percentage">{{ protocol_registration_pct|floatformat:1 }}%</p>
-                        <p class="ost-metric-label">Protocol Registration</p>
-                        <div class="ost-progress">
-                            <div class="ost-progress-bar low" data-width="{{ protocol_registration_pct }}"></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="ost-transparency-metric">
-                    <div class="ost-metric-icon ost-indicator sharing">
-                        <i class="fas fa-share-alt"></i>
-                    </div>
-                    <div class="ost-metric-data">
-                        <p class="ost-metric-percentage">{{ open_access_pct|floatformat:1 }}%</p>
-                        <p class="ost-metric-label">Open Access</p>
-                        <div class="ost-progress">
-                            <div class="ost-progress-bar high" data-width="{{ open_access_pct }}"></div>
-                        </div>
+                    <div class="category-metric">
+                        <div class="metric-value">{{ category.open_access_pct|floatformat:0 }}%</div>
+                        <div class="metric-label">Open Access</div>
                     </div>
                 </div>
             </div>
+            {% endfor %}
+        </div>
+        
+        <div class="text-center mt-4">
+            <a href="{% url 'tracker:field_list' %}" class="xera-btn xera-btn-primary" data-ajax-link>
+                <i class="fas fa-list me-2"></i>View All Research Fields
+            </a>
         </div>
     </div>
-</section>
+</div>
 
-<!-- Charts Section -->
-<section class="my-5">
+<!-- Yearly Trends -->
+<div class="trends-section">
     <div class="xera-container">
-        <div class="row g-4">
-            <!-- Transparency Trends -->
-            <div class="col-lg-6">
-                <div class="ost-chart-container">
-                    <h3 class="xera-card-title mb-4">
-                        <i class="fas fa-line-chart me-2"></i>
-                        Transparency Trends Over Time
-                    </h3>
-                    <canvas id="trendsChart" width="400" height="200"></canvas>
+        <h2 class="text-center mb-4">
+            <i class="fas fa-calendar-alt me-2"></i>
+            Publication Trends by Year
+        </h2>
+        
+        <div class="trends-card">
+            <div class="trends-grid">
+                {% for year_data in yearly_distribution|slice:":10" %}
+                <div class="year-stat">
+                    <div class="year-number">{{ year_data.pub_year|default:"Unknown" }}</div>
+                    <div class="year-papers">{{ year_data.count|floatformat:0 }}</div>
+                    <div class="year-transparency">{{ year_data.avg_transparency|floatformat:1|default:"0.0" }}/6 avg</div>
                 </div>
-            </div>
-            
-            <!-- Journal Distribution -->
-            <div class="col-lg-6">
-                <div class="ost-chart-container">
-                    <h3 class="xera-card-title mb-4">
-                        <i class="fas fa-pie-chart me-2"></i>
-                        Papers by Journal Category
-                    </h3>
-                    <canvas id="distributionChart" width="400" height="200"></canvas>
-                </div>
+                {% endfor %}
             </div>
         </div>
-    </div>
-</section>
-
-<!-- Top Performing Journals -->
-<section class="my-5">
-    <div class="xera-container">
-        <div class="xera-card">
-            <div class="xera-card-header">
-                <h2 class="xera-card-title">
-                    <i class="fas fa-trophy me-2"></i>
-                    Top Transparency Leaders
-                </h2>
-                <div class="xera-text-sm text-muted">
-                    Journals with highest average transparency scores
-                </div>
-            </div>
-            
-            <div class="xera-card-body">
-                <div class="ost-table-container">
-                    <table class="ost-table">
-                        <thead>
-                            <tr>
-                                <th>Rank</th>
-                                <th>Journal</th>
-                                <th>Country</th>
-                                <th>Papers</th>
-                                <th>Avg Score</th>
-                                <th>Trend</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for journal in top_journals|slice:":15" %}
-                            <tr>
-                                <td>
-                                    <span class="xera-badge {% if forloop.counter <= 3 %}xera-badge-warning{% else %}xera-badge-primary{% endif %}">
-                                        #{{ forloop.counter }}
-                                    </span>
-                                </td>
-                                <td>
-                                    <a href="{% url 'tracker:journal_detail' journal.id %}" class="text-decoration-none">
-                                        {{ journal.title_abbreviation }}
-                                    </a>
-                                    <div class="xera-text-xs text-muted">
-                                        {{ journal.title_full|truncatechars:50 }}
-                                    </div>
-                                </td>
-                                <td>{{ journal.country|default:"Unknown" }}</td>
-                                <td>{{ journal.paper_count|default:0 }}</td>
-                                <td>
-                                    <div class="ost-transparency-score {% if journal.avg_transparency_score >= 5 %}high{% elif journal.avg_transparency_score >= 3 %}medium{% else %}low{% endif %}">
-                                        {{ journal.avg_transparency_score|floatformat:1 }}/7
-                                    </div>
-                                </td>
-                                <td>
-                                    <span class="xera-badge xera-badge-success">
-                                        <i class="fas fa-arrow-up me-1"></i>Rising
-                                    </span>
-                                </td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-            
-            <div class="xera-card-footer">
-                <div class="text-center">
-                    <a href="{% url 'tracker:journal_list' %}?sort=-avg_transparency" class="xera-btn xera-btn-primary">
-                        <i class="fas fa-list me-1"></i>View All Journal Rankings
-                    </a>
-                </div>
-            </div>
+        
+        <div class="text-center mt-4">
+            <a href="{% url 'tracker:paper_list' %}" class="xera-btn xera-btn-secondary" data-ajax-link>
+                <i class="fas fa-search me-2"></i>Explore All Papers
+            </a>
         </div>
     </div>
-</section>
-
-<!-- Field-Specific Statistics -->
-<section class="my-5">
-    <div class="xera-container">
-        <div class="xera-card">
-            <div class="xera-card-header">
-                <h2 class="xera-card-title">
-                    <i class="fas fa-microscope me-2"></i>
-                    Transparency by Research Field
-                </h2>
-                <div class="xera-text-sm text-muted">
-                    Compare transparency metrics across different research areas
-                </div>
-            </div>
-            
-            <div class="xera-card-body">
-                <div class="row g-4">
-                    {% for field in field_stats|slice:":8" %}
-                    <div class="col-md-6 col-lg-3">
-                        <div class="ost-field-card">
-                            <div class="ost-field-card-header">
-                                <h4 class="ost-field-title">
-                                    <a href="{% url 'tracker:field_detail' field.id %}">
-                                        {{ field.name|title }}
-                                    </a>
-                                </h4>
-                            </div>
-                            
-                            <div class="ost-field-card-body">
-                                <div class="text-center mb-3">
-                                    <div class="ost-transparency-score {% if field.avg_transparency >= 5 %}high{% elif field.avg_transparency >= 3 %}medium{% else %}low{% endif %}">
-                                        {{ field.avg_transparency|floatformat:1 }}/7
-                                    </div>
-                                </div>
-                                
-                                <div class="xera-text-sm">
-                                    <div class="d-flex justify-content-between mb-1">
-                                        <span>Papers:</span>
-                                        <strong>{{ field.paper_count|default:0 }}</strong>
-                                    </div>
-                                    <div class="d-flex justify-content-between mb-1">
-                                        <span>Journals:</span>
-                                        <strong>{{ field.journal_count|default:0 }}</strong>
-                                    </div>
-                                    <div class="d-flex justify-content-between">
-                                        <span>Open Data:</span>
-                                        <strong>{{ field.open_data_pct|floatformat:0 }}%</strong>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
-            
-            <div class="xera-card-footer">
-                <div class="text-center">
-                    <a href="{% url 'tracker:field_list' %}" class="xera-btn xera-btn-secondary">
-                        <i class="fas fa-tags me-1"></i>View All Research Fields
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Key Insights -->
-<section class="my-5">
-    <div class="xera-container">
-        <div class="row g-4">
-            <div class="col-lg-4">
-                <div class="xera-card h-100" style="border-left: 4px solid var(--ost-transparency-high);">
-                    <div class="xera-card-body text-center">
-                        <i class="fas fa-award fa-3x text-success mb-3"></i>
-                        <h4 class="xera-font-semibold">Improving Transparency</h4>
-                        <p class="text-muted">
-                            Research transparency has improved by {{ transparency_improvement|floatformat:1 }}% 
-                            over the past 5 years across all fields.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-lg-4">
-                <div class="xera-card h-100" style="border-left: 4px solid var(--xera-primary);">
-                    <div class="xera-card-body text-center">
-                        <i class="fas fa-globe fa-3x text-primary mb-3"></i>
-                        <h4 class="xera-font-semibold">Global Coverage</h4>
-                        <p class="text-muted">
-                            OST tracks publications from {{ country_count|default:50 }}+ countries,
-                            providing worldwide research transparency insights.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-lg-4">
-                <div class="xera-card h-100" style="border-left: 4px solid var(--xera-secondary);">
-                    <div class="xera-card-body text-center">
-                        <i class="fas fa-chart-line fa-3x text-info mb-3"></i>
-                        <h4 class="xera-font-semibold">Growing Database</h4>
-                        <p class="text-muted">
-                            New papers are added daily, with {{ recent_papers_count|default:500 }}+ 
-                            papers analyzed in the past month.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+</div>
 
 {% endblock %}
 
 {% block extra_js %}
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Set progress bar widths from data attributes
-    document.querySelectorAll('.ost-progress-bar[data-width]').forEach(bar => {
-        const width = bar.getAttribute('data-width');
-        if (width) {
-            bar.style.width = width + '%';
-        }
+    // Animate progress bars
+    const progressBars = document.querySelectorAll('.progress-fill');
+    
+    const animateProgressBars = (entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const progressBar = entry.target;
+                const width = progressBar.style.width;
+                progressBar.style.width = '0%';
+                setTimeout(() => {
+                    progressBar.style.width = width;
+                }, 100);
+            }
+        });
+    };
+    
+    const progressObserver = new IntersectionObserver(animateProgressBars, {
+        threshold: 0.5
+    });
+    
+    progressBars.forEach(bar => {
+        progressObserver.observe(bar);
     });
     
     // Animate cards on scroll
-    const observerOptions = {
-        threshold: 0.1,
-        rootMargin: '0px 0px -50px 0px'
-    };
+    const cards = document.querySelectorAll('.overview-card, .indicator-card, .category-card, .year-stat');
     
-    const observer = new IntersectionObserver(function(entries) {
+    const animateCards = (entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
-                entry.target.classList.add('ost-fade-in');
+                entry.target.style.opacity = '0';
+                entry.target.style.transform = 'translateY(20px)';
+                entry.target.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                
+                setTimeout(() => {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }, 100);
             }
         });
-    }, observerOptions);
+    };
     
-    // Observe cards for animations
-    document.querySelectorAll('.xera-card, .ost-field-card, .ost-chart-container').forEach(card => {
-        observer.observe(card);
+    const cardObserver = new IntersectionObserver(animateCards, {
+        threshold: 0.1,
+        rootMargin: '0px 0px -50px 0px'
     });
     
-    // Transparency Trends Chart
-    const trendsCtx = document.getElementById('trendsChart');
-    if (trendsCtx) {
-        new Chart(trendsCtx, {
-            type: 'line',
-            data: {
-                labels: ['2019', '2020', '2021', '2022', '2023', '2024'],
-                datasets: [{
-                    label: 'Open Data',
-                    data: [12, 15, 18, 22, 28, 32],
-                    borderColor: '#059669',
-                    backgroundColor: 'rgba(5, 150, 105, 0.1)',
-                    tension: 0.4
-                }, {
-                    label: 'Code Sharing',
-                    data: [5, 8, 12, 16, 20, 24],
-                    borderColor: '#2563eb',
-                    backgroundColor: 'rgba(37, 99, 235, 0.1)',
-                    tension: 0.4
-                }, {
-                    label: 'COI Disclosure',
-                    data: [65, 70, 75, 78, 82, 85],
-                    borderColor: '#d97706',
-                    backgroundColor: 'rgba(217, 119, 6, 0.1)',
-                    tension: 0.4
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    y: {
-                        beginAtZero: true,
-                        max: 100,
-                        ticks: {
-                            callback: function(value) {
-                                return value + '%';
-                            }
-                        }
-                    }
-                }
-            }
-        });
-    }
+    cards.forEach(card => {
+        cardObserver.observe(card);
+    });
     
-    // Distribution Chart
-    const distributionCtx = document.getElementById('distributionChart');
-    if (distributionCtx) {
-        new Chart(distributionCtx, {
-            type: 'doughnut',
-            data: {
-                labels: ['Medicine', 'Dentistry', 'Biology', 'Chemistry', 'Other'],
-                datasets: [{
-                    data: [45, 25, 15, 10, 5],
-                    backgroundColor: [
-                        '#2563eb',
-                        '#0891b2',
-                        '#0ea5e9',
-                        '#059669',
-                        '#6b7280'
-                    ]
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                plugins: {
-                    legend: {
-                        position: 'bottom'
-                    }
-                }
-            }
-        });
-    }
-    
-    console.log('Statistics Page Enhanced with Modern Cards and Charts!');
+    console.log('Statistics Page Enhanced with Real Data!');
 });
 </script>
 {% endblock %} 

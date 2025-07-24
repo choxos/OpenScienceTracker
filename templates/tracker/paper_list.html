@@ -5,175 +5,484 @@
 
 {% block meta_description %}Browse {{ total_papers }} research papers with transparency indicators. Search by topic, journal, year, and transparency metrics to find open science data.{% endblock %}
 
+{% block extra_css %}
+<style>
+/* Enhanced Paper Search & Filter Styles */
+.ost-search-hero {
+    background: linear-gradient(135deg, var(--xera-primary) 0%, var(--xera-secondary) 100%);
+    color: white;
+    padding: 3rem 0;
+    margin-bottom: 0;
+}
+
+.search-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.search-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.search-subtitle {
+    font-size: 1.1rem;
+    opacity: 0.9;
+    margin-bottom: 0;
+}
+
+.quick-search-form {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.search-input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: white;
+    border-radius: 50px;
+    padding: 0.5rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.search-icon {
+    color: var(--xera-gray-500);
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+}
+
+.quick-search-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 1rem 0.5rem;
+    font-size: 1.1rem;
+    color: var(--xera-gray-800);
+}
+
+.search-btn {
+    background: var(--xera-primary);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.search-btn:hover {
+    background: var(--xera-primary-dark);
+    transform: translateX(2px);
+}
+
+/* Filters Section */
+.ost-filters-section {
+    background: #f8f9fa;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.filters-toggle {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.filters-toggle-btn {
+    background: white;
+    border: 2px solid var(--xera-primary);
+    color: var(--xera-primary);
+    padding: 0.75rem 1.5rem;
+    border-radius: 50px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.filters-toggle-btn:hover {
+    background: var(--xera-primary);
+    color: white;
+}
+
+.filters-panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.filters-panel.show {
+    max-height: 1000px;
+}
+
+.filters-grid {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-top: 1rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.filter-group {
+    margin-bottom: 2rem;
+}
+
+.filter-group:last-child {
+    margin-bottom: 0;
+}
+
+.filter-group-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--xera-gray-800);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--xera-primary);
+}
+
+.filter-label {
+    display: block;
+    font-weight: 500;
+    color: var(--xera-gray-700);
+    margin-bottom: 0.5rem;
+}
+
+.filter-select {
+    width: 100%;
+    padding: 0.75rem;
+    border: 2px solid #e9ecef;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    transition: border-color 0.3s ease;
+}
+
+.filter-select:focus {
+    outline: none;
+    border-color: var(--xera-primary);
+}
+
+/* Transparency Indicators Grid */
+.indicators-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1rem;
+}
+
+.indicator-filter {
+    position: relative;
+}
+
+.indicator-filter input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.indicator-label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    background: white;
+    border: 2px solid #e9ecef;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.indicator-filter input:checked + .indicator-label {
+    border-color: var(--xera-primary);
+    background: var(--xera-primary-light);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.indicator-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+    color: white;
+}
+
+.indicator-icon.open-data { background: #28a745; }
+.indicator-icon.open-code { background: #17a2b8; }
+.indicator-icon.coi { background: #ffc107; }
+.indicator-icon.funding { background: #007bff; }
+.indicator-icon.registration { background: #6f42c1; }
+.indicator-icon.open-access { background: #28a745; }
+
+.indicator-label span {
+    font-weight: 500;
+    color: var(--xera-gray-700);
+}
+
+/* Filter Actions */
+.filter-actions {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #dee2e6;
+}
+
+.apply-filters-btn, .clear-filters-btn {
+    padding: 0.75rem 2rem;
+    border-radius: 50px;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+
+.apply-filters-btn {
+    background: var(--xera-primary);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.apply-filters-btn:hover {
+    background: var(--xera-primary-dark);
+    transform: translateY(-1px);
+}
+
+.clear-filters-btn {
+    background: white;
+    color: var(--xera-gray-600);
+    border: 2px solid #dee2e6;
+}
+
+.clear-filters-btn:hover {
+    background: #f8f9fa;
+    color: var(--xera-gray-800);
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .search-title {
+        font-size: 2rem;
+    }
+    
+    .search-input-wrapper {
+        padding: 0.25rem;
+    }
+    
+    .quick-search-input {
+        padding: 0.75rem 0.5rem;
+        font-size: 1rem;
+    }
+    
+    .indicators-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .filter-actions {
+        flex-direction: column;
+    }
+}
+</style>
+{% endblock %}
+
 {% block content %}
-<!-- Filter Section -->
-<section class="ost-filter-section">
-    <div class="xera-filter-header">
-        <h2 class="xera-filter-title">
-            <i class="fas fa-filter me-2"></i>
-            Search & Filter Papers
-        </h2>
-        <div class="xera-text-sm text-muted">
-            {{ papers.paginator.count }} papers found
+<!-- Enhanced Filter Section -->
+<div class="ost-search-hero">
+    <div class="xera-container">
+        <div class="search-header">
+            <h1 class="search-title">
+                <i class="fas fa-file-alt me-2"></i>
+                Research Papers
+            </h1>
+            <p class="search-subtitle">Search and filter through {{ papers.paginator.count|floatformat:0 }} research papers with transparency indicators</p>
+        </div>
+        
+        <!-- Quick Search Bar -->
+        <form method="get" class="quick-search-form">
+            <div class="search-input-wrapper">
+                <i class="fas fa-search search-icon"></i>
+                <input type="text" 
+                       name="q" 
+                       value="{{ request.GET.q }}" 
+                       class="quick-search-input" 
+                       placeholder="Search papers by title, author, DOI, PMID, keywords..."
+                       data-search-debounce="300">
+                <button type="submit" class="search-btn">
+                    <i class="fas fa-arrow-right"></i>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- Advanced Filters -->
+<div class="ost-filters-section">
+    <div class="xera-container">
+        <div class="filters-toggle">
+            <button type="button" class="filters-toggle-btn" onclick="toggleFilters()">
+                <i class="fas fa-sliders-h me-2"></i>
+                Advanced Filters
+                <i class="fas fa-chevron-down ms-2"></i>
+            </button>
+        </div>
+        
+        <div class="filters-panel" id="filtersPanel">
+            <form method="get" class="filters-form">
+                <!-- Preserve search query -->
+                {% if request.GET.q %}
+                <input type="hidden" name="q" value="{{ request.GET.q }}">
+                {% endif %}
+                
+                <div class="filters-grid">
+                    <!-- Basic Filters -->
+                    <div class="filter-group">
+                        <h4 class="filter-group-title">
+                            <i class="fas fa-filter me-2"></i>Basic Filters
+                        </h4>
+                        <div class="row g-3">
+                            <div class="col-md-4">
+                                <label class="filter-label">Publication Year</label>
+                                <select name="year" class="filter-select">
+                                    <option value="">All Years</option>
+                                    {% for year in available_years %}
+                                    <option value="{{ year }}" {% if request.GET.year == year|stringformat:"s" %}selected{% endif %}>
+                                        {{ year }}
+                                    </option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="filter-label">Research Field</label>
+                                <select name="broad_subject_term" class="filter-select">
+                                    <option value="">All Fields</option>
+                                    {% for category in available_categories %}
+                                    <option value="{{ category }}" {% if request.GET.broad_subject_term == category %}selected{% endif %}>
+                                        {{ category }}
+                                    </option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label class="filter-label">Publication Type</label>
+                                <select name="pub_type" class="filter-select">
+                                    <option value="">All Types</option>
+                                    {% for pub_type in available_pub_types %}
+                                    <option value="{{ pub_type }}" {% if request.GET.pub_type == pub_type %}selected{% endif %}>
+                                        {{ pub_type|capfirst|truncatechars:25 }}
+                                    </option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Transparency Filters -->
+                    <div class="filter-group">
+                        <h4 class="filter-group-title">
+                            <i class="fas fa-chart-line me-2"></i>Transparency Indicators
+                        </h4>
+                        <div class="row g-3 mb-3">
+                            <div class="col-md-6">
+                                <label class="filter-label">Overall Score</label>
+                                <select name="transparency" class="filter-select">
+                                    <option value="">All Scores</option>
+                                    <option value="high" {% if request.GET.transparency == "high" %}selected{% endif %}>High (5-6)</option>
+                                    <option value="medium" {% if request.GET.transparency == "medium" %}selected{% endif %}>Medium (3-4)</option>
+                                    <option value="low" {% if request.GET.transparency == "low" %}selected{% endif %}>Low (0-2)</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <!-- Individual Indicators -->
+                        <div class="indicators-grid">
+                            <div class="indicator-filter">
+                                <input type="checkbox" name="indicators" value="open_data" id="filter_open_data"
+                                       {% if 'open_data' in selected_indicators %}checked{% endif %}>
+                                <label for="filter_open_data" class="indicator-label">
+                                    <div class="indicator-icon open-data">
+                                        <i class="fas fa-database"></i>
+                                    </div>
+                                    <span>Open Data</span>
+                                </label>
+                            </div>
+                            
+                            <div class="indicator-filter">
+                                <input type="checkbox" name="indicators" value="open_code" id="filter_open_code"
+                                       {% if 'open_code' in selected_indicators %}checked{% endif %}>
+                                <label for="filter_open_code" class="indicator-label">
+                                    <div class="indicator-icon open-code">
+                                        <i class="fas fa-code"></i>
+                                    </div>
+                                    <span>Open Code</span>
+                                </label>
+                            </div>
+                            
+                            <div class="indicator-filter">
+                                <input type="checkbox" name="indicators" value="coi_disclosure" id="filter_coi"
+                                       {% if 'coi_disclosure' in selected_indicators %}checked{% endif %}>
+                                <label for="filter_coi" class="indicator-label">
+                                    <div class="indicator-icon coi">
+                                        <i class="fas fa-exclamation-triangle"></i>
+                                    </div>
+                                    <span>COI Disclosed</span>
+                                </label>
+                            </div>
+                            
+                            <div class="indicator-filter">
+                                <input type="checkbox" name="indicators" value="funding" id="filter_funding"
+                                       {% if 'funding' in selected_indicators %}checked{% endif %}>
+                                <label for="filter_funding" class="indicator-label">
+                                    <div class="indicator-icon funding">
+                                        <i class="fas fa-dollar-sign"></i>
+                                    </div>
+                                    <span>Funding Info</span>
+                                </label>
+                            </div>
+                            
+                            <div class="indicator-filter">
+                                <input type="checkbox" name="indicators" value="registration" id="filter_registration"
+                                       {% if 'registration' in selected_indicators %}checked{% endif %}>
+                                <label for="filter_registration" class="indicator-label">
+                                    <div class="indicator-icon registration">
+                                        <i class="fas fa-clipboard-list"></i>
+                                    </div>
+                                    <span>Registered</span>
+                                </label>
+                            </div>
+                            
+                            <div class="indicator-filter">
+                                <input type="checkbox" name="indicators" value="open_access" id="filter_open_access"
+                                       {% if 'open_access' in selected_indicators %}checked{% endif %}>
+                                <label for="filter_open_access" class="indicator-label">
+                                    <div class="indicator-icon open-access">
+                                        <i class="fas fa-unlock-alt"></i>
+                                    </div>
+                                    <span>Open Access</span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Filter Actions -->
+                <div class="filter-actions">
+                    <button type="submit" class="apply-filters-btn">
+                        <i class="fas fa-search me-2"></i>Apply Filters
+                    </button>
+                    <a href="{% url 'tracker:paper_list' %}" class="clear-filters-btn">
+                        <i class="fas fa-times me-2"></i>Clear All
+                    </a>
+                </div>
+            </form>
         </div>
     </div>
-    
-    <form method="get" class="xera-filter-form">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="xera-form-group">
-                    <label class="xera-label">Search Terms</label>
-                    <input type="text" 
-                           name="q" 
-                           value="{{ request.GET.q }}" 
-                           class="xera-input" 
-                           placeholder="Search titles, authors, keywords, DOI, PMID..."
-                           data-search-debounce="300">
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="xera-form-group">
-                            <label class="xera-label">Journal</label>
-                            <select name="journal" class="xera-select">
-                                <option value="">All Journals</option>
-                                {% for journal in available_journals %}
-                                <option value="{{ journal.id }}" {% if request.GET.journal == journal.id|stringformat:"s" %}selected{% endif %}>
-                                    {{ journal.title_abbreviation }}
-                                </option>
-                                {% endfor %}
-                            </select>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="xera-form-group">
-                            <label class="xera-label">Year</label>
-                            <select name="year" class="xera-select">
-                                <option value="">All Years</option>
-                                {% for year in available_years %}
-                                <option value="{{ year }}" {% if request.GET.year == year|stringformat:"s" %}selected{% endif %}>
-                                    {{ year }}
-                                </option>
-                                {% endfor %}
-                            </select>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="xera-form-group">
-                    <label class="xera-label">Research Field</label>
-                    <select name="broad_subject_term" class="xera-select">
-                        <option value="">All Fields</option>
-                        {% for category in available_categories %}
-                        <option value="{{ category }}" {% if request.GET.broad_subject_term == category %}selected{% endif %}>
-                            {{ category }}
-                        </option>
-                        {% endfor %}
-                    </select>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="xera-form-group">
-                    <label class="xera-label">Publication Type</label>
-                    <select name="pub_type" class="xera-select">
-                        <option value="">All Types</option>
-                        {% for pub_type in available_pub_types %}
-                        <option value="{{ pub_type }}" {% if request.GET.pub_type == pub_type %}selected{% endif %}>
-                            {{ pub_type|capfirst|truncatechars:30 }}
-                        </option>
-                        {% endfor %}
-                    </select>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="xera-form-group">
-                    <label class="xera-label">Overall Transparency Score</label>
-                    <select name="transparency" class="xera-select">
-                        <option value="">All Scores</option>
-                        <option value="high" {% if request.GET.transparency == "high" %}selected{% endif %}>High (5-6)</option>
-                        <option value="medium" {% if request.GET.transparency == "medium" %}selected{% endif %}>Medium (3-4)</option>
-                        <option value="low" {% if request.GET.transparency == "low" %}selected{% endif %}>Low (0-2)</option>
-                    </select>
-                </div>
-            </div>
-        </div>
-        
-        <!-- Individual Transparency Indicator Filters -->
-        <div class="mb-3">
-            <label class="xera-label">Transparency Indicators</label>
-            <div class="row g-2">
-                <div class="col-md-2">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="indicators" value="open_data" id="filter_open_data"
-                               {% if 'open_data' in selected_indicators %}checked{% endif %}>
-                        <label class="form-check-label" for="filter_open_data">
-                            <i class="fas fa-database me-1 text-success"></i>Open Data
-                        </label>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="indicators" value="open_code" id="filter_open_code"
-                               {% if 'open_code' in selected_indicators %}checked{% endif %}>
-                        <label class="form-check-label" for="filter_open_code">
-                            <i class="fas fa-code me-1 text-info"></i>Open Code
-                        </label>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="indicators" value="coi_disclosure" id="filter_coi"
-                               {% if 'coi_disclosure' in selected_indicators %}checked{% endif %}>
-                        <label class="form-check-label" for="filter_coi">
-                            <i class="fas fa-exclamation-triangle me-1 text-warning"></i>COI Disclosed
-                        </label>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="indicators" value="funding" id="filter_funding"
-                               {% if 'funding' in selected_indicators %}checked{% endif %}>
-                        <label class="form-check-label" for="filter_funding">
-                            <i class="fas fa-dollar-sign me-1 text-primary"></i>Funding Info
-                        </label>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="indicators" value="registration" id="filter_registration"
-                               {% if 'registration' in selected_indicators %}checked{% endif %}>
-                        <label class="form-check-label" for="filter_registration">
-                            <i class="fas fa-clipboard-list me-1 text-secondary"></i>Registered
-                        </label>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="indicators" value="open_access" id="filter_open_access"
-                               {% if 'open_access' in selected_indicators %}checked{% endif %}>
-                        <label class="form-check-label" for="filter_open_access">
-                            <i class="fas fa-unlock-alt me-1 text-success"></i>Open Access
-                        </label>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="xera-filter-actions">
-            <button type="submit" class="xera-btn xera-btn-ost">
-                <i class="fas fa-search me-1"></i>Search
-            </button>
-            <a href="{% url 'tracker:paper_list' %}" class="xera-btn xera-btn-secondary">
-                <i class="fas fa-times me-1"></i>Clear
-            </a>
-        </div>
-    </form>
-</section>
+</div>
 
 <!-- Papers List -->
 <section>
@@ -606,6 +915,35 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     console.log('Paper List Enhanced with Modern Cards!');
+});
+
+// Filter toggle functionality
+function toggleFilters() {
+    const panel = document.getElementById('filtersPanel');
+    const btn = document.querySelector('.filters-toggle-btn');
+    const chevron = btn.querySelector('.fa-chevron-down, .fa-chevron-up');
+    
+    panel.classList.toggle('show');
+    
+    if (panel.classList.contains('show')) {
+        chevron.className = 'fas fa-chevron-up ms-2';
+    } else {
+        chevron.className = 'fas fa-chevron-down ms-2';
+    }
+}
+
+// Auto-expand filters if any are active
+document.addEventListener('DOMContentLoaded', function() {
+    const hasActiveFilters = document.querySelector('select:not([name="q"])[value!=""]') ||
+                           document.querySelector('input[type="checkbox"]:checked') ||
+                           new URLSearchParams(window.location.search).get('year') ||
+                           new URLSearchParams(window.location.search).get('broad_subject_term') ||
+                           new URLSearchParams(window.location.search).get('pub_type') ||
+                           new URLSearchParams(window.location.search).get('transparency');
+    
+    if (hasActiveFilters) {
+        toggleFilters();
+    }
 });
 </script>
 {% endblock %} 

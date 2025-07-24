@@ -1,72 +1,390 @@
 {% load static %}
 
-<!-- Fields List -->
-<section>
-    <div class="xera-card">
-        <div class="xera-card-header">
-            <h2 class="xera-card-title">
-                <i class="fas fa-tags me-2"></i>
+<!-- Research Fields Hero Section -->
+<div class="fields-hero">
+    <div class="xera-container">
+        <div class="hero-content">
+            <h1 class="hero-title">
+                <i class="fas fa-microscope me-3"></i>
                 Research Fields
-            </h2>
-            <div class="xera-text-sm text-muted">
-                Browse transparency indicators by research domain
-            </div>
-        </div>
-        
-        <div class="xera-card-body">
-            <div class="row g-4">
-                {% for field in research_fields %}
-                <div class="col-md-6 col-lg-4">
-                    <div class="ost-field-card">
-                        <div class="ost-field-card-header">
-                            <h3 class="ost-field-card-title">
-                                <a href="{% url 'tracker:field_detail' field.id %}" class="text-decoration-none" data-ajax-link>
-                                    {{ field.name }}
-                                </a>
-                            </h3>
-                        </div>
-                        <div class="ost-field-card-body">
-                            {% if field.description %}
-                            <p class="text-muted mb-3">{{ field.description|truncatechars:100 }}</p>
-                            {% endif %}
-                            
-                            <div class="ost-field-stats">
-                                <div class="d-flex justify-content-between mb-2">
-                                    <span>Papers:</span>
-                                    <strong>{{ field.total_papers|default:0 }}</strong>
-                                </div>
-                                <div class="d-flex justify-content-between mb-2">
-                                    <span>Journals:</span>
-                                    <strong>{{ field.total_journals|default:0 }}</strong>
-                                </div>
-                                <div class="d-flex justify-content-between">
-                                    <span>Avg Transparency:</span>
-                                    <strong>{{ field.avg_transparency_score|floatformat:1|default:"0.0" }}/6</strong>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="ost-field-card-footer">
-                            <a href="{% url 'tracker:field_detail' field.id %}" class="xera-btn xera-btn-primary xera-btn-sm" data-ajax-link>
-                                <i class="fas fa-eye me-1"></i>View Details
-                            </a>
-                            <a href="{% url 'tracker:paper_list' %}?broad_subject_term={{ field.name|urlencode }}" class="xera-btn xera-btn-outline xera-btn-sm" data-ajax-link>
-                                <i class="fas fa-file-alt me-1"></i>Papers
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                {% empty %}
-                <div class="col-12">
-                    <div class="text-center py-5">
-                        <div class="text-muted mb-3">
-                            <i class="fas fa-tags fa-3x"></i>
-                        </div>
-                        <h4 class="text-muted">No research fields found</h4>
-                        <p class="text-muted">Research field data will be available once papers are imported.</p>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
+            </h1>
+            <p class="hero-subtitle">
+                Explore transparency metrics across {{ research_fields|length }} research domains
+            </p>
         </div>
     </div>
-</section> 
+</div>
+
+<!-- Enhanced Research Fields Grid -->
+<div class="fields-section">
+    <div class="xera-container">
+        <div class="fields-grid">
+            {% for field in research_fields %}
+            <div class="field-card">
+                <div class="field-card-header">
+                    <div class="field-icon">
+                        {% if 'Medicine' in field.name %}
+                            <i class="fas fa-stethoscope"></i>
+                        {% elif 'Dentistry' in field.name %}
+                            <i class="fas fa-tooth"></i>
+                        {% elif 'Psychology' in field.name %}
+                            <i class="fas fa-brain"></i>
+                        {% elif 'Biology' in field.name %}
+                            <i class="fas fa-dna"></i>
+                        {% elif 'Chemistry' in field.name %}
+                            <i class="fas fa-flask"></i>
+                        {% elif 'Physics' in field.name %}
+                            <i class="fas fa-atom"></i>
+                        {% elif 'Computer' in field.name or 'Technology' in field.name %}
+                            <i class="fas fa-laptop-code"></i>
+                        {% elif 'Education' in field.name %}
+                            <i class="fas fa-graduation-cap"></i>
+                        {% elif 'Environment' in field.name %}
+                            <i class="fas fa-leaf"></i>
+                        {% elif 'Public Health' in field.name %}
+                            <i class="fas fa-heartbeat"></i>
+                        {% else %}
+                            <i class="fas fa-microscope"></i>
+                        {% endif %}
+                    </div>
+                    <h3 class="field-title">
+                        <a href="{% url 'tracker:field_detail' field.id %}" data-ajax-link>
+                            {{ field.name }}
+                        </a>
+                    </h3>
+                </div>
+                
+                <div class="field-card-body">
+                    {% if field.description %}
+                    <p class="field-description">{{ field.description|truncatechars:80 }}</p>
+                    {% endif %}
+                    
+                    <div class="field-metrics">
+                        <div class="metric">
+                            <div class="metric-value">{{ field.total_papers|default:0|floatformat:0 }}</div>
+                            <div class="metric-label">Papers</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">{{ field.total_journals|default:0|floatformat:0 }}</div>
+                            <div class="metric-label">Journals</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">{{ field.avg_transparency_score|floatformat:1|default:"0.0" }}<span class="metric-max">/6</span></div>
+                            <div class="metric-label">Transparency</div>
+                        </div>
+                    </div>
+                    
+                    <div class="transparency-bar">
+                        <div class="transparency-fill" style="width: {% widthratio field.avg_transparency_score|default:0 6 100 %}%"></div>
+                    </div>
+                </div>
+                
+                <div class="field-card-footer">
+                    <a href="{% url 'tracker:field_detail' field.id %}" class="field-btn field-btn-primary" data-ajax-link>
+                        <i class="fas fa-chart-line me-2"></i>Analytics
+                    </a>
+                    <a href="{% url 'tracker:paper_list' %}?broad_subject_term={{ field.name|urlencode }}" class="field-btn field-btn-outline" data-ajax-link>
+                        <i class="fas fa-file-alt me-2"></i>Papers
+                    </a>
+                </div>
+            </div>
+            {% empty %}
+            <div class="col-span-full">
+                <div class="empty-state">
+                    <div class="empty-icon">
+                        <i class="fas fa-microscope"></i>
+                    </div>
+                    <h3 class="empty-title">No Research Fields Available</h3>
+                    <p class="empty-description">Research field data will be available once papers are imported and categorized.</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<style>
+/* Research Fields Enhanced Styles */
+.fields-hero {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 4rem 0;
+    margin-bottom: 3rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.fields-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: repeating-linear-gradient(
+        0deg, transparent, transparent 35px, rgba(255,255,255,0.1) 35px, rgba(255,255,255,0.1) 36px
+    ),
+    repeating-linear-gradient(
+        90deg, transparent, transparent 35px, rgba(255,255,255,0.1) 35px, rgba(255,255,255,0.1) 36px
+    );
+    opacity: 0.5;
+}
+
+.hero-content {
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    opacity: 0.95;
+    margin-bottom: 0;
+}
+
+.fields-section {
+    padding: 0 0 4rem 0;
+}
+
+.fields-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.field-card {
+    background: white;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    border: 1px solid #f0f0f0;
+    position: relative;
+}
+
+.field-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+}
+
+.field-card-header {
+    padding: 2rem 2rem 1rem 2rem;
+    text-align: center;
+    position: relative;
+    background: linear-gradient(145deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.field-icon {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, var(--xera-primary), var(--xera-secondary));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem auto;
+    font-size: 2rem;
+    color: white;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+.field-title {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+.field-title a {
+    color: var(--xera-gray-800);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.field-title a:hover {
+    color: var(--xera-primary);
+}
+
+.field-card-body {
+    padding: 1.5rem 2rem;
+}
+
+.field-description {
+    color: var(--xera-gray-600);
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.field-metrics {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.metric {
+    text-align: center;
+    padding: 1rem 0.5rem;
+    background: #f8f9fa;
+    border-radius: 12px;
+    transition: background 0.3s ease;
+}
+
+.metric:hover {
+    background: #e9ecef;
+}
+
+.metric-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--xera-primary);
+    margin-bottom: 0.25rem;
+}
+
+.metric-max {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: var(--xera-gray-500);
+}
+
+.metric-label {
+    font-size: 0.85rem;
+    color: var(--xera-gray-600);
+    font-weight: 500;
+}
+
+.transparency-bar {
+    width: 100%;
+    height: 8px;
+    background: #e9ecef;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+
+.transparency-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #28a745, #20c997, #17a2b8);
+    transition: width 0.8s ease;
+    border-radius: 4px;
+}
+
+.field-card-footer {
+    padding: 1.5rem 2rem 2rem 2rem;
+    display: flex;
+    gap: 1rem;
+    border-top: 1px solid #f0f0f0;
+    background: #fafafa;
+}
+
+.field-btn {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 500;
+    text-align: center;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+}
+
+.field-btn-primary {
+    background: var(--xera-primary);
+    color: white;
+    border: 2px solid var(--xera-primary);
+}
+
+.field-btn-primary:hover {
+    background: var(--xera-primary-dark);
+    color: white;
+    transform: translateY(-2px);
+}
+
+.field-btn-outline {
+    background: white;
+    color: var(--xera-primary);
+    border: 2px solid var(--xera-primary);
+}
+
+.field-btn-outline:hover {
+    background: var(--xera-primary);
+    color: white;
+    transform: translateY(-2px);
+}
+
+.empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    grid-column: 1 / -1;
+}
+
+.empty-icon {
+    font-size: 4rem;
+    color: var(--xera-gray-400);
+    margin-bottom: 1.5rem;
+}
+
+.empty-title {
+    font-size: 1.5rem;
+    color: var(--xera-gray-600);
+    margin-bottom: 1rem;
+}
+
+.empty-description {
+    color: var(--xera-gray-500);
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+    
+    .fields-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .field-card-footer {
+        flex-direction: column;
+    }
+    
+    .field-btn {
+        flex: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .field-card-header {
+        padding: 1.5rem 1rem 1rem 1rem;
+    }
+    
+    .field-card-body {
+        padding: 1rem 1.5rem;
+    }
+    
+    .field-card-footer {
+        padding: 1rem 1.5rem 1.5rem 1.5rem;
+    }
+    
+    .field-icon {
+        width: 60px;
+        height: 60px;
+        font-size: 1.5rem;
+    }
+}
+</style> 
