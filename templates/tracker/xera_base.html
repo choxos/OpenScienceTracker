@@ -89,9 +89,6 @@
                 <a href="{% url 'tracker:statistics' %}" class="xera-nav-link {% if 'statistics' in request.resolver_match.url_name %}active{% endif %}">
                     <i class="fas fa-chart-bar me-1"></i>Statistics
                 </a>
-                <a href="{% url 'tracker:about' %}" class="xera-nav-link {% if request.resolver_match.url_name == 'about' %}active{% endif %}">
-                    <i class="fas fa-info-circle me-1"></i>About
-                </a>
                 <a href="/api/" class="xera-nav-link" target="_blank">
                     <i class="fas fa-code me-1"></i>API
                 </a>
