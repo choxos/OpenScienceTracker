@@ -120,10 +120,10 @@
             </div>
             <div class="col-md-4 text-center">
                 <div class="transparency-score 
-                    {% if field.avg_transparency_score >= 5 %}score-excellent
-                    {% elif field.avg_transparency_score >= 3 %}score-good
-                    {% else %}score-poor{% endif %}">
-                    {{ field.avg_transparency_score|floatformat:1 }}/8
+                    {% if field.avg_transparency_score >= 4 %}score-excellent high
+                    {% elif field.avg_transparency_score >= 2.5 %}score-good medium
+                    {% else %}score-poor low{% endif %}">
+                    {{ field.avg_transparency_score|floatformat:1 }}/6
                 </div>
                 <small class="text-white-50">Average Transparency Score</small>
                 <div class="progress-modern mt-2">

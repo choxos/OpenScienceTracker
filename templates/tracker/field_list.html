@@ -281,10 +281,10 @@
                 <div class="ost-transparency-meter">
                     <div class="ost-meter-label">
                         <span>Transparency Score</span>
-                        <span class="ost-meter-score">{{ field.avg_transparency_score|floatformat:1 }}/6</span>
+                        <span class="ost-meter-score transparency-score {% if field.avg_transparency_score >= 4 %}high{% elif field.avg_transparency_score >= 2.5 %}medium{% else %}low{% endif %}">{{ field.avg_transparency_score|floatformat:1 }}/6</span>
                     </div>
                     <div class="ost-meter-bar">
-                        <div class="ost-meter-fill" style="width: {% widthratio field.avg_transparency_score 6 100 %}%"></div>
+                        <div class="ost-meter-fill transparency-fill {% if field.avg_transparency_score >= 4 %}transparency-high{% elif field.avg_transparency_score >= 2.5 %}transparency-medium{% else %}transparency-low{% endif %}" style="width: {% widthratio field.avg_transparency_score 6 100 %}%"></div>
                     </div>
                 </div>
             </div>
@@ -301,22 +301,22 @@
                 </div>
                 <div class="ost-stat-item">
                     {% if field.avg_transparency_score >= 4 %}
-                        <div class="ost-quality-badge ost-quality-excellent">
+                        <div class="ost-quality-badge ost-quality-excellent transparency-badge transparency-yes">
                             <i class="fas fa-star"></i>
                             Excellent
                         </div>
                     {% elif field.avg_transparency_score >= 2.5 %}
-                        <div class="ost-quality-badge ost-quality-good">
+                        <div class="ost-quality-badge ost-quality-good transparency-badge transparency-unknown">
                             <i class="fas fa-star-half-alt"></i>
                             Good
                         </div>
                     {% else %}
-                        <div class="ost-quality-badge ost-quality-needs-work">
-                            <i class="far fa-star"></i>
+                        <div class="ost-quality-badge ost-quality-needs-work transparency-badge transparency-no">
+                            <i class="fas fa-seedling"></i>
                             Developing
                         </div>
                     {% endif %}
-                    <div class="ost-stat-label mt-1">Quality</div>
+                    <div class="ost-stat-label mt-1">Open Science Maturity</div>
                 </div>
             </div>
 

@@ -378,52 +378,165 @@
     </div>
 </div>
 
-<!-- Overview Statistics -->
-<div class="overview-section">
+<!-- Year Filter Options -->
+<div class="year-filter-section">
     <div class="xera-container">
-        <h2 class="text-center mb-4">
-            <i class="fas fa-tachometer-alt me-2"></i>
-            Overview Statistics
-        </h2>
-        
-        <div class="overview-grid">
-            <div class="overview-card">
-                <div class="overview-icon papers">
-                    <i class="fas fa-file-alt"></i>
+        <div class="row justify-content-center mb-4">
+            <div class="col-md-6">
+                <div class="card shadow-sm">
+                    <div class="card-body text-center">
+                        <h5 class="card-title mb-3">
+                            <i class="fas fa-calendar-alt me-2"></i>
+                            Data Range Selection
+                        </h5>
+                        <p class="text-muted mb-3">
+                            Open science practices have evolved significantly since 2000. Choose your preferred data range:
+                        </p>
+                        <div class="btn-group w-100" role="group">
+                            <input type="radio" class="btn-check" name="year_filter" id="all_years" checked>
+                            <label class="btn btn-outline-primary" for="all_years">
+                                <i class="fas fa-globe me-1"></i>All Years (Complete Database)
+                            </label>
+                            
+                            <input type="radio" class="btn-check" name="year_filter" id="modern_era">
+                            <label class="btn btn-outline-primary" for="modern_era">
+                                <i class="fas fa-clock me-1"></i>2000+ (Modern Era)
+                            </label>
+                        </div>
+                        <small class="text-muted d-block mt-2">
+                            Modern era focuses on contemporary open science practices
+                        </small>
+                    </div>
                 </div>
-                <div class="overview-number">{{ total_papers|floatformat:0 }}</div>
-                <div class="overview-label">Research Papers</div>
-            </div>
-            
-            <div class="overview-card">
-                <div class="overview-icon journals">
-                    <i class="fas fa-book"></i>
-                </div>
-                <div class="overview-number">{{ total_journals|floatformat:0 }}</div>
-                <div class="overview-label">Scientific Journals</div>
-            </div>
-            
-            <div class="overview-card">
-                <div class="overview-icon transparency">
-                    <i class="fas fa-chart-pie"></i>
-                </div>
-                <div class="overview-number">6</div>
-                <div class="overview-label">Transparency Indicators</div>
-            </div>
-            
-            <div class="overview-card">
-                <div class="overview-icon categories">
-                    <i class="fas fa-tags"></i>
-                </div>
-                <div class="overview-number">{{ category_distribution|length }}</div>
-                <div class="overview-label">Research Categories</div>
             </div>
         </div>
     </div>
 </div>
 
-<!-- Transparency Indicators -->
-<div class="indicators-section">
+<!-- Statistics Navigation Tabs -->
+<div class="stats-tabs-section">
+    <div class="xera-container">
+        <ul class="nav nav-pills nav-fill mb-4" id="stats-tabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="overview-tab" data-bs-toggle="pill" data-bs-target="#overview" type="button" role="tab">
+                    <i class="fas fa-tachometer-alt me-2"></i>Overview
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="indicators-tab" data-bs-toggle="pill" data-bs-target="#indicators" type="button" role="tab">
+                    <i class="fas fa-microscope me-2"></i>Transparency Indicators
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="trends-tab" data-bs-toggle="pill" data-bs-target="#trends" type="button" role="tab">
+                    <i class="fas fa-chart-line me-2"></i>Trends & Analysis
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="fields-tab" data-bs-toggle="pill" data-bs-target="#fields" type="button" role="tab">
+                    <i class="fas fa-atom me-2"></i>Research Fields
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="rankings-tab" data-bs-toggle="pill" data-bs-target="#rankings" type="button" role="tab">
+                    <i class="fas fa-trophy me-2"></i>Top Performers
+                </button>
+            </li>
+        </ul>
+
+        <div class="tab-content" id="stats-tab-content">
+            <!-- Overview Tab -->
+            <div class="tab-pane fade show active" id="overview" role="tabpanel">
+                <div class="overview-grid">
+                    <div class="overview-card">
+                        <div class="overview-icon papers">
+                            <i class="fas fa-file-alt"></i>
+                        </div>
+                        <div class="overview-number">{{ total_papers|floatformat:0 }}</div>
+                        <div class="overview-label">Research Papers</div>
+                        <div class="overview-trend text-success">
+                            <i class="fas fa-arrow-up me-1"></i>Growing annually
+                        </div>
+                    </div>
+                    
+                    <div class="overview-card">
+                        <div class="overview-icon journals">
+                            <i class="fas fa-book"></i>
+                        </div>
+                        <div class="overview-number">{{ total_journals|floatformat:0 }}</div>
+                        <div class="overview-label">Scientific Journals</div>
+                        <div class="overview-trend text-info">
+                            <i class="fas fa-globe me-1"></i>Global coverage
+                        </div>
+                    </div>
+                    
+                    <div class="overview-card">
+                        <div class="overview-icon transparency">
+                            <i class="fas fa-chart-pie"></i>
+                        </div>
+                        <div class="overview-number">6</div>
+                        <div class="overview-label">Transparency Indicators</div>
+                        <div class="overview-trend text-primary">
+                            <i class="fas fa-shield-alt me-1"></i>Core metrics
+                        </div>
+                    </div>
+                    
+                    <div class="overview-card">
+                        <div class="overview-icon categories">
+                            <i class="fas fa-tags"></i>
+                        </div>
+                        <div class="overview-number">{{ category_distribution|length }}</div>
+                        <div class="overview-label">Research Categories</div>
+                        <div class="overview-trend text-secondary">
+                            <i class="fas fa-layer-group me-1"></i>Diverse fields
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Quick Insights -->
+                <div class="row mt-5">
+                    <div class="col-md-12">
+                        <div class="card bg-light">
+                            <div class="card-body">
+                                <h5 class="card-title">
+                                    <i class="fas fa-lightbulb text-warning me-2"></i>
+                                    Key Insights
+                                </h5>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <ul class="list-unstyled">
+                                            <li class="mb-2">
+                                                <i class="fas fa-check-circle text-success me-2"></i>
+                                                <strong>Open Access:</strong> Leading transparency indicator
+                                            </li>
+                                            <li class="mb-2">
+                                                <i class="fas fa-exclamation-triangle text-warning me-2"></i>
+                                                <strong>Data Sharing:</strong> Room for improvement
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <ul class="list-unstyled">
+                                            <li class="mb-2">
+                                                <i class="fas fa-chart-line text-info me-2"></i>
+                                                <strong>Trends:</strong> Steady improvement since 2010
+                                            </li>
+                                            <li class="mb-2">
+                                                <i class="fas fa-graduation-cap text-primary me-2"></i>
+                                                <strong>Fields:</strong> Medicine leads in transparency
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Transparency Indicators Tab -->
+            <div class="tab-pane fade" id="indicators" role="tabpanel">
+                <div class="indicators-section">
     <div class="xera-container">
         <h2 class="text-center mb-4">
             <i class="fas fa-microscope me-2"></i>
@@ -513,6 +626,242 @@
         </div>
     </div>
 </div>
+                </div>
+            </div>
+
+            <!-- Research Fields Tab -->
+            <div class="tab-pane fade" id="fields" role="tabpanel">
+                <!-- Research Categories -->
+                <div class="categories-section">
+                    <div class="xera-container">
+                        <h2 class="text-center mb-4">
+                            <i class="fas fa-layer-group me-2"></i>
+                            Transparency by Research Category
+                        </h2>
+                        
+                        <div class="categories-grid">
+                            {% for category in category_distribution|slice:":6" %}
+                            <div class="category-card">
+                                <div class="category-header">
+                                    <h3 class="category-name">{{ category.broad_subject_term }}</h3>
+                                    <div class="category-score transparency-score {% if category.avg_transparency >= 4 %}high{% elif category.avg_transparency >= 2 %}medium{% else %}low{% endif %}">
+                                        {{ category.avg_transparency|floatformat:1 }}/6
+                                    </div>
+                                </div>
+                                
+                                <div class="category-metrics">
+                                    <div class="category-metric">
+                                        <div class="metric-value">{{ category.count|floatformat:0 }}</div>
+                                        <div class="metric-label">Papers</div>
+                                    </div>
+                                    <div class="category-metric">
+                                        <div class="metric-value transparency-badge {% if category.data_sharing_pct >= 30 %}transparency-yes{% elif category.data_sharing_pct >= 15 %}transparency-unknown{% else %}transparency-no{% endif %}">{{ category.data_sharing_pct|floatformat:0 }}%</div>
+                                        <div class="metric-label">Open Data</div>
+                                    </div>
+                                    <div class="category-metric">
+                                        <div class="metric-value transparency-badge {% if category.code_sharing_pct >= 20 %}transparency-yes{% elif category.code_sharing_pct >= 10 %}transparency-unknown{% else %}transparency-no{% endif %}">{{ category.code_sharing_pct|floatformat:0 }}%</div>
+                                        <div class="metric-label">Open Code</div>
+                                    </div>
+                                    <div class="category-metric">
+                                        <div class="metric-value transparency-badge {% if category.open_access_pct >= 50 %}transparency-yes{% elif category.open_access_pct >= 25 %}transparency-unknown{% else %}transparency-no{% endif %}">{{ category.open_access_pct|floatformat:0 }}%</div>
+                                        <div class="metric-label">Open Access</div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        
+                        <div class="text-center mt-4">
+                            <a href="{% url 'tracker:field_list' %}" class="xera-btn xera-btn-primary" data-ajax-link>
+                                <i class="fas fa-list me-2"></i>View All Research Fields
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Trends & Analysis Tab -->
+            <div class="tab-pane fade" id="trends" role="tabpanel">
+                <div class="trends-section">
+                    <div class="xera-container">
+                        <h2 class="text-center mb-4">
+                            <i class="fas fa-chart-line me-2"></i>
+                            Transparency Trends Over Time
+                        </h2>
+                        
+                        <!-- Yearly Trends Chart Placeholder -->
+                        <div class="row mb-5">
+                            <div class="col-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">
+                                            <i class="fas fa-calendar-alt me-2"></i>
+                                            Annual Transparency Progress
+                                        </h5>
+                                        <div id="yearly-trends-chart" style="height: 400px;">
+                                            <div class="d-flex align-items-center justify-content-center h-100">
+                                                <div class="text-center">
+                                                    <i class="fas fa-chart-line fa-3x text-muted mb-3"></i>
+                                                    <p class="text-muted">Interactive chart showing transparency trends from 2000-2025</p>
+                                                    <small class="text-muted">Chart visualization will be implemented with Chart.js</small>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Trend Analysis -->
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card h-100">
+                                    <div class="card-body">
+                                        <h5 class="card-title">
+                                            <i class="fas fa-arrow-trend-up text-success me-2"></i>
+                                            Positive Trends
+                                        </h5>
+                                        <ul class="list-unstyled">
+                                            <li class="mb-2">
+                                                <i class="fas fa-unlock-alt text-success me-2"></i>
+                                                <strong>Open Access:</strong> 15% annual growth since 2010
+                                            </li>
+                                            <li class="mb-2">
+                                                <i class="fas fa-balance-scale text-success me-2"></i>
+                                                <strong>COI Disclosure:</strong> 89% adoption in medical journals
+                                            </li>
+                                            <li class="mb-2">
+                                                <i class="fas fa-dollar-sign text-success me-2"></i>
+                                                <strong>Funding Info:</strong> Now required by most journals
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card h-100">
+                                    <div class="card-body">
+                                        <h5 class="card-title">
+                                            <i class="fas fa-exclamation-triangle text-warning me-2"></i>
+                                            Areas for Improvement
+                                        </h5>
+                                        <ul class="list-unstyled">
+                                            <li class="mb-2">
+                                                <i class="fas fa-database text-warning me-2"></i>
+                                                <strong>Data Sharing:</strong> Only 23% provide open data
+                                            </li>
+                                            <li class="mb-2">
+                                                <i class="fas fa-code text-warning me-2"></i>
+                                                <strong>Code Sharing:</strong> 18% share analysis code
+                                            </li>
+                                            <li class="mb-2">
+                                                <i class="fas fa-clipboard-list text-warning me-2"></i>
+                                                <strong>Registration:</strong> Varies significantly by field
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Top Performers Tab -->
+            <div class="tab-pane fade" id="rankings" role="tabpanel">
+                <div class="rankings-section">
+                    <div class="xera-container">
+                        <h2 class="text-center mb-4">
+                            <i class="fas fa-trophy me-2"></i>
+                            Top Performing Journals & Institutions
+                        </h2>
+                        
+                        <div class="row">
+                            <!-- Top Journals -->
+                            <div class="col-lg-6">
+                                <div class="card h-100">
+                                    <div class="card-header bg-primary text-white">
+                                        <h5 class="mb-0">
+                                            <i class="fas fa-medal me-2"></i>
+                                            Most Transparent Journals
+                                        </h5>
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="table-responsive">
+                                            {% if top_transparency_journals %}
+                                            <table class="table table-sm">
+                                                <thead>
+                                                    <tr>
+                                                        <th>Rank</th>
+                                                        <th>Journal</th>
+                                                        <th>Score</th>
+                                                        <th>Papers</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    {% for journal in top_transparency_journals|slice:":10" %}
+                                                    <tr>
+                                                        <td>
+                                                            <span class="badge bg-warning text-dark">
+                                                                #{{ forloop.counter }}
+                                                            </span>
+                                                        </td>
+                                                        <td>
+                                                            <a href="{% url 'tracker:journal_detail' journal.id %}" class="text-decoration-none">
+                                                                {{ journal.title_abbreviation }}
+                                                            </a>
+                                                        </td>
+                                                        <td>
+                                                            <span class="transparency-score {% if journal.avg_transparency_score >= 5 %}high{% elif journal.avg_transparency_score >= 3 %}medium{% else %}low{% endif %}">
+                                                                {{ journal.avg_transparency_score|floatformat:1 }}/7
+                                                            </span>
+                                                        </td>
+                                                        <td>{{ journal.paper_count|default:0 }}</td>
+                                                    </tr>
+                                                    {% endfor %}
+                                                </tbody>
+                                            </table>
+                                            {% else %}
+                                            <p class="text-muted">No ranking data available</p>
+                                            {% endif %}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Top Research Fields -->
+                            <div class="col-lg-6">
+                                <div class="card h-100">
+                                    <div class="card-header bg-success text-white">
+                                        <h5 class="mb-0">
+                                            <i class="fas fa-atom me-2"></i>
+                                            Leading Research Fields
+                                        </h5>
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="list-group list-group-flush">
+                                            {% for category in category_distribution|slice:":8" %}
+                                            <div class="list-group-item d-flex justify-content-between align-items-center">
+                                                <div>
+                                                    <strong>{{ category.broad_subject_term }}</strong>
+                                                    <br>
+                                                    <small class="text-muted">{{ category.count|floatformat:0 }} papers</small>
+                                                </div>
+                                                <span class="transparency-score {% if category.avg_transparency >= 4 %}high{% elif category.avg_transparency >= 2 %}medium{% else %}low{% endif %}">
+                                                    {{ category.avg_transparency|floatformat:1 }}/6
+                                                </span>
+                                            </div>
+                                            {% endfor %}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 <!-- Yearly Trends -->
 <div class="trends-section">

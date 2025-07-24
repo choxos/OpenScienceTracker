@@ -75,7 +75,7 @@
                     </div>
                     
                     <div class="transparency-bar">
-                        <div class="transparency-fill" style="width: {% widthratio field.avg_transparency_score|default:0 6 100 %}%"></div>
+                        <div class="transparency-fill {% if field.avg_transparency_score >= 4 %}transparency-high{% elif field.avg_transparency_score >= 2.5 %}transparency-medium{% else %}transparency-low{% endif %}" style="width: {% widthratio field.avg_transparency_score|default:0 6 100 %}%"></div>
                     </div>
                 </div>
                 
