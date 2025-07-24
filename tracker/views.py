@@ -51,9 +51,6 @@ class HomeView(TemplateView):
         
         # Optimized counts with single queries
         context['total_journals'] = Journal.objects.count()
-        context['dental_journals'] = Journal.objects.filter(
-            broad_subject_terms__icontains='Dentistry'
-        ).count()
         
         # Optimized recent papers and top journals
         context['recent_papers'] = Paper.objects.select_related('journal').order_by('-created_at')[:5]

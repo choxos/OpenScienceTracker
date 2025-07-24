@@ -19,10 +19,7 @@
                     <span class="hero-stat-number">{{ total_journals|floatformat:0 }}</span>
                     <span class="hero-stat-label">Journals Tracked</span>
                 </div>
-                <div class="hero-stat">
-                    <span class="hero-stat-number">{{ dental_journals|floatformat:0 }}</span>
-                    <span class="hero-stat-label">Dental Journals</span>
-                </div>
+
                 <div class="hero-stat">
                     <span class="hero-stat-number">{{ avg_transparency_score|floatformat:1 }}</span>
                     <span class="hero-stat-label">Avg Transparency Score</span>
@@ -65,7 +62,6 @@
                 <select name="category" class="xera-select">
                     <option value="">All Categories</option>
                     <option value="Medicine">Medicine</option>
-                    <option value="Dentistry">Dentistry</option>
                     <option value="Orthodontics">Orthodontics</option>
                 </select>
             </div>
@@ -160,7 +156,7 @@
                 <h3 class="xera-text-xl xera-font-semibold mb-3">Comprehensive Tracking</h3>
                 <p class="text-muted">
                     Monitor transparency indicators across 1M+ research papers from leading journals 
-                    in medicine, dentistry, and related fields.
+                    in medicine and related fields.
                 </p>
                 <a href="{% url 'tracker:paper_list' %}" class="xera-btn xera-btn-outline mt-3" data-ajax-link>
                     Explore Papers <i class="fas fa-arrow-right ms-1"></i>
