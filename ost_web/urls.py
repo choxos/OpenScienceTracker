@@ -24,6 +24,9 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('tracker.urls')),  # Main tracker app URLs
     
+    # REST API URLs
+    path('api/', include('tracker.api_urls', namespace='api')),
+    
     # Authentication URLs
     path('accounts/login/', auth_views.LoginView.as_view(template_name='registration/login.html'), name='login'),
     path('accounts/logout/', auth_views.LogoutView.as_view(), name='logout'),

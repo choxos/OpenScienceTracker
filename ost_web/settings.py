@@ -39,12 +39,17 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',  # Django REST Framework
+    'django_filters',  # For API filtering
+    'corsheaders',  # For CORS support
+    'drf_spectacular',  # For API documentation
     'tracker',  # Our main OST app
 ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',  # For serving static files in production
+    'corsheaders.middleware.CorsMiddleware',  # CORS support for API
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -200,3 +205,81 @@ LOGGING = {
         },
     },
 }
+
+# =============================================================================
+# REST FRAMEWORK CONFIGURATION
+# =============================================================================
+
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.AllowAny',  # Open access for research
+    ],
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework.authentication.SessionAuthentication',
+    ],
+    'DEFAULT_RENDERER_CLASSES': [
+        'rest_framework.renderers.JSONRenderer',
+        'rest_framework.renderers.BrowsableAPIRenderer',
+    ],
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 50,
+    'DEFAULT_FILTER_BACKENDS': [
+        'django_filters.rest_framework.DjangoFilterBackend',
+        'rest_framework.filters.SearchFilter',
+        'rest_framework.filters.OrderingFilter',
+    ],
+    'DEFAULT_THROTTLE_CLASSES': [
+        'rest_framework.throttling.AnonRateThrottle',
+    ],
+    'DEFAULT_THROTTLE_RATES': {
+        'anon': '1000/day',  # Generous rate limit for researchers
+    },
+    'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
+}
+
+# API Documentation Configuration
+SPECTACULAR_SETTINGS = {
+    'TITLE': 'Open Science Tracker API',
+    'DESCRIPTION': '''
+    A comprehensive REST API for accessing transparency and reproducibility data 
+    from medical and dental literature. This API provides programmatic access to:
+    
+    - **Papers**: Research papers with transparency scores and metadata
+    - **Journals**: Journal information with subject classifications  
+    - **Research Fields**: Broad subject categories with statistics
+    
+    Perfect for meta-research, bibliometric analysis, and transparency studies.
+    ''',
+    'VERSION': '1.0.0',
+    'SERVE_INCLUDE_SCHEMA': False,
+    'CONTACT': {
+        'name': 'Ahmad Sofi-Mahmudi',
+        'email': 'ahmad.pub@gmail.com',
+        'url': 'https://scholar.google.com/citations?user=gTWPaFYAAAAJ&hl=en',
+    },
+    'LICENSE': {
+        'name': 'MIT License',
+        'url': 'https://github.com/choxos/OpenScienceTracker/blob/main/LICENSE',
+    },
+    'EXTERNAL_DOCS': {
+        'description': 'GitHub Repository',
+        'url': 'https://github.com/choxos/OpenScienceTracker',
+    },
+}
+
+# CORS Configuration for API access
+CORS_ALLOW_ALL_ORIGINS = True  # Allow all origins for open research access
+CORS_ALLOW_CREDENTIALS = False
+
+# Additional security headers for API
+CORS_ALLOW_HEADERS = [
+    'accept',
+    'accept-encoding',
+    'authorization',
+    'content-type',
+    'dnt',
+    'origin',
+    'user-agent',
+    'x-csrftoken',
+    'x-requested-with',
+]

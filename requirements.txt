@@ -15,3 +15,7 @@ whitenoise==6.8.2
 requests==2.32.3
 tqdm==4.66.6
 psutil==6.1.0
+djangorestframework==3.15.2
+django-filter==24.3
+django-cors-headers==4.6.0
+drf-spectacular==0.28.0

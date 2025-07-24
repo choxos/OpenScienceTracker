@@ -45,6 +45,14 @@ OST tracks the following evidence-based transparency indicators:
 - **Statistical Dashboard** - Comprehensive transparency statistics and trends
 - **Export Functionality** - CSV/Excel export for further analysis
 
+### 🚀 REST API for Researchers
+- **Programmatic Access** - Full REST API for external researchers and developers
+- **Advanced Filtering** - Query papers by transparency scores, journals, years, authors
+- **Bulk Data Export** - Download large datasets for meta-analysis
+- **Real-time Statistics** - Get transparency statistics with custom filters
+- **Interactive Documentation** - Swagger UI and ReDoc for easy API exploration
+- **Research-Friendly** - Open access with generous rate limits for academic use
+
 ### 👥 User Management
 - **User Authentication** - Secure login/signup system
 - **Personal Profiles** - Research interests and field preferences  
@@ -247,6 +255,34 @@ The OST supports importing large medical transparency datasets with journal matc
 - **Processing speed:** ~2-5 minutes per 10,000 records
 - **Subject categories:** Automatic categorization across all medical fields
 - **Full integration:** Seamless addition to existing OST database
+
+## 🚀 API Documentation
+
+For researchers and developers who need programmatic access to OST data:
+
+### 📖 API Resources
+- **📋 Full API Documentation**: [API_DOCUMENTATION.md](API_DOCUMENTATION.md)
+- **🔗 Interactive API Explorer**: `https://ost.xeradb.com/api/docs/`
+- **📊 API Overview**: `https://ost.xeradb.com/api/`
+
+### ⚡ Quick API Examples
+
+```bash
+# Get transparency statistics for 2023 papers
+curl "https://ost.xeradb.com/api/v1/papers/transparency_stats/?pub_year=2023"
+
+# Search for COVID-19 papers with open data
+curl "https://ost.xeradb.com/api/v1/papers/?search=covid-19&has_open_data=true"
+
+# Get journal information with paper counts
+curl "https://ost.xeradb.com/api/v1/journals/?min_papers=100"
+```
+
+### 🔬 Research Use Cases
+- **Meta-analysis**: Bulk download transparency data for systematic reviews
+- **Bibliometric analysis**: Analyze transparency trends across journals and fields
+- **Journal comparison**: Compare transparency policies and practices
+- **Temporal analysis**: Track transparency improvements over time
 
 ## 📚 Research Foundation
 
