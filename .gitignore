@@ -121,4 +121,18 @@ celerybeat-schedule
 # mypy
 .mypy_cache/
 .dmypy.json
-dmypy.json 
+dmypy.json
+
+# Performance and optimization files
+performance_test.py
+load_test.py
+*.performance
+
+# Cache files
+.cache/
+*.cache
+
+# Backup files
+*.backup
+*.orig
+*.tmp 

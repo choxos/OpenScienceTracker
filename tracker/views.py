@@ -25,36 +25,38 @@ class HomeView(TemplateView):
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         
-        # Basic statistics
-        context['total_papers'] = Paper.objects.count()
+        # Optimized statistics with single aggregation query
+        stats = Paper.objects.aggregate(
+            total_papers=Count('id'),
+            avg_transparency_score=Avg('transparency_score'),
+            open_data_count=Count('id', filter=Q(is_open_data=True)),
+            open_code_count=Count('id', filter=Q(is_open_code=True)),
+            coi_count=Count('id', filter=Q(is_coi_pred=True)),
+            funding_count=Count('id', filter=Q(is_fund_pred=True)),
+            registration_count=Count('id', filter=Q(is_register_pred=True)),
+            open_access_count=Count('id', filter=Q(is_open_access=True))
+        )
+        
+        total_papers = max(stats['total_papers'], 1)
+        context.update({
+            'total_papers': stats['total_papers'],
+            'avg_transparency_score': stats['avg_transparency_score'] or 0,
+            'data_sharing_pct': (stats['open_data_count'] / total_papers) * 100,
+            'code_sharing_pct': (stats['open_code_count'] / total_papers) * 100,
+            'coi_disclosure_pct': (stats['coi_count'] / total_papers) * 100,
+            'funding_disclosure_pct': (stats['funding_count'] / total_papers) * 100,
+            'protocol_registration_pct': (stats['registration_count'] / total_papers) * 100,
+            'open_access_pct': (stats['open_access_count'] / total_papers) * 100
+        })
+        
+        # Optimized counts with single queries
         context['total_journals'] = Journal.objects.count()
         context['dental_journals'] = Journal.objects.filter(
             broad_subject_terms__icontains='Dentistry'
         ).count()
         
-        # Transparency statistics
-        papers = Paper.objects.all()
-        context['avg_transparency_score'] = papers.aggregate(
-            avg_score=Avg('transparency_score')
-        )['avg_score'] or 0
-        
-        context['data_sharing_pct'] = (papers.filter(is_open_data=True).count() / 
-                                     max(papers.count(), 1)) * 100
-        context['code_sharing_pct'] = (papers.filter(is_open_code=True).count() / 
-                                     max(papers.count(), 1)) * 100
-        context['coi_disclosure_pct'] = (papers.filter(is_coi_pred=True).count() / 
-                                       max(papers.count(), 1)) * 100
-        context['funding_disclosure_pct'] = (papers.filter(is_fund_pred=True).count() / 
-                                           max(papers.count(), 1)) * 100
-        context['protocol_registration_pct'] = (papers.filter(is_register_pred=True).count() / 
-                                               max(papers.count(), 1)) * 100
-        context['open_access_pct'] = (papers.filter(is_open_access=True).count() / 
-                                     max(papers.count(), 1)) * 100
-        
-        # Recent papers
-        context['recent_papers'] = papers.order_by('-created_at')[:5]
-        
-        # Top journals by paper count
+        # Optimized recent papers and top journals
+        context['recent_papers'] = Paper.objects.select_related('journal').order_by('-created_at')[:5]
         context['top_journals'] = Journal.objects.annotate(
             paper_count=Count('papers')
         ).order_by('-paper_count')[:5]
@@ -131,12 +133,13 @@ class PaperListView(ListView):
     model = Paper
     template_name = 'tracker/paper_list.html'
     context_object_name = 'papers'
-    paginate_by = settings.OST_PAGINATION_SIZE
+    paginate_by = 20  # Reduced from default for better performance
     
     def get_queryset(self):
-        queryset = Paper.objects.select_related('journal').all()
+        # Use optimized manager for list view
+        queryset = Paper.objects.for_list_view()
         
-        # Filter by search query
+        # Search optimization - single query with combined search
         q = self.request.GET.get('q')
         if q:
             queryset = queryset.filter(
@@ -144,82 +147,81 @@ class PaperListView(ListView):
                 Q(author_string__icontains=q) |
                 Q(journal_title__icontains=q) |
                 Q(pmid__icontains=q) |
-                Q(doi__icontains=q)
-            )
+                Q(doi__icontains=q) |
+                Q(journal__title_abbreviation__icontains=q)
+            ).distinct()
         
-        # Filter by journal
+        # Optimized filters - combine where possible
+        filters = Q()
+        
+        # Journal filter
         journal = self.request.GET.get('journal')
         if journal:
-            queryset = queryset.filter(journal_id=journal)
+            filters &= Q(journal_id=journal)
         
-        # Filter by subject category
-        category = self.request.GET.get('category')
+        # Subject/category filters (combine since they're the same field)
+        category = self.request.GET.get('category') or self.request.GET.get('broad_subject_term')
         if category:
-            queryset = queryset.filter(broad_subject_term=category)
-            
-        # Filter by broad subject term (from the new filter)
-        broad_subject_term = self.request.GET.get('broad_subject_term')
-        if broad_subject_term:
-            queryset = queryset.filter(broad_subject_term=broad_subject_term)
+            filters &= Q(broad_subject_term=category)
         
-        # Filter by publication type
+        # Publication type
         pub_type = self.request.GET.get('pub_type')
         if pub_type:
-            queryset = queryset.filter(pub_type=pub_type)
+            filters &= Q(pub_type=pub_type)
         
-        # Filter by year
+        # Year filter
         year = self.request.GET.get('year')
         if year:
-            queryset = queryset.filter(pub_year=year)
+            filters &= Q(pub_year=year)
         
-        # Filter by transparency score range
+        # Transparency score range
         transparency = self.request.GET.get('transparency')
         if transparency == 'high':
-            queryset = queryset.filter(transparency_score__gte=5)
+            filters &= Q(transparency_score__gte=5)
         elif transparency == 'medium':
-            queryset = queryset.filter(transparency_score__gte=3, transparency_score__lt=5)
+            filters &= Q(transparency_score__range=(3, 4))
         elif transparency == 'low':
-            queryset = queryset.filter(transparency_score__lt=3)
+            filters &= Q(transparency_score__lt=3)
         
-        # Filter by transparency indicators
+        # Transparency indicators - build single query
         indicators = self.request.GET.getlist('indicators')
-        if 'open_data' in indicators:
-            queryset = queryset.filter(is_open_data=True)
-        if 'open_code' in indicators:
-            queryset = queryset.filter(is_open_code=True)
-        if 'coi_disclosure' in indicators:
-            queryset = queryset.filter(is_coi_pred=True)
-        if 'funding' in indicators:
-            queryset = queryset.filter(is_fund_pred=True)
-        if 'registration' in indicators:
-            queryset = queryset.filter(is_register_pred=True)
-        if 'open_access' in indicators:
-            queryset = queryset.filter(is_open_access=True)
+        indicator_filters = {}
+        for indicator in indicators:
+            if indicator == 'open_data':
+                indicator_filters['is_open_data'] = True
+            elif indicator == 'open_code':
+                indicator_filters['is_open_code'] = True
+            elif indicator == 'coi_disclosure':
+                indicator_filters['is_coi_pred'] = True
+            elif indicator == 'funding':
+                indicator_filters['is_fund_pred'] = True
+            elif indicator == 'registration':
+                indicator_filters['is_register_pred'] = True
+            elif indicator == 'open_access':
+                indicator_filters['is_open_access'] = True
         
-        # Ordering
+        if indicator_filters:
+            filters &= Q(**indicator_filters)
+        
+        # Apply all filters at once
+        if filters:
+            queryset = queryset.filter(filters)
+        
+        # Optimized ordering
         order_by = self.request.GET.get('order_by', '-pub_year')
-        queryset = queryset.order_by(order_by)
-        
-        return queryset
+        return queryset.order_by(order_by, '-epmc_id')  # Add secondary sort for consistency
     
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
-        context['search_form'] = PaperSearchForm(self.request.GET)
-        context['available_years'] = Paper.objects.values_list(
-            'pub_year', flat=True
-        ).distinct().order_by('-pub_year')
-        context['available_journals'] = Journal.objects.all().order_by('title_abbreviation')
-        context['available_categories'] = Paper.objects.exclude(
-            broad_subject_term__isnull=True
-        ).values_list('broad_subject_term', flat=True).distinct().order_by('broad_subject_term')
         
-        # Add available publication types
-        context['available_pub_types'] = Paper.objects.exclude(
-            pub_type__isnull=True
-        ).exclude(pub_type='').values_list('pub_type', flat=True).distinct().order_by('pub_type')
-        
-        # Add selected indicators for template checkbox state
-        context['selected_indicators'] = self.request.GET.getlist('indicators')
+        # Optimized context data with single queries
+        context.update({
+            'available_years': list(Paper.objects.values_list('pub_year', flat=True).distinct().order_by('-pub_year')[:20]),
+            'available_journals': Journal.objects.only('id', 'title_abbreviation').order_by('title_abbreviation')[:100],
+            'available_categories': list(Paper.objects.exclude(broad_subject_term__isnull=True).values_list('broad_subject_term', flat=True).distinct().order_by('broad_subject_term')[:50]),
+            'available_pub_types': list(Paper.objects.exclude(pub_type__isnull=True).exclude(pub_type='').values_list('pub_type', flat=True).distinct().order_by('pub_type')[:20]),
+            'selected_indicators': self.request.GET.getlist('indicators')
+        })
         
         return context
 
