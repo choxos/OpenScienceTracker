@@ -1,0 +1,28 @@
+{
+  "name": "Open Science Tracker",
+  "short_name": "OST",
+  "description": "A comprehensive platform for tracking transparency indicators in scientific research, focusing on open data, open code, and reproducibility practices.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "categories": ["science", "research", "academic", "transparency"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+} 
