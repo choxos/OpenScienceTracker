@@ -149,11 +149,12 @@ class Command(BaseCommand):
                 journal = None
                 if pd.notna(row.get('journalTitle')) and row.get('journalTitle').strip():
                     journal_title = str(row['journalTitle']).strip()
+                    journal_issn = str(row.get('journalIssn', '')).strip() or None
                     journal, journal_created = Journal.objects.get_or_create(
                         title_full=journal_title,
                         defaults={
                             'title_abbreviation': journal_title[:50] if len(journal_title) > 50 else journal_title,
-                            'journal_issn': str(row.get('journalIssn', '')).strip() or None,
+                            'issn_print': journal_issn,  # Use the correct field name
                         }
                     )
                     if journal_created:
