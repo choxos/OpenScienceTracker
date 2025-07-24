@@ -83,7 +83,21 @@ papers/*.csv.gz
 papers/*.tsv.gz
 *.csv.bz2
 *.tsv.bz2
+
+# Data directories that shouldn't be in git
 railway_data/
+rtransparent_csvs/
+
+# Temporary files and debugging scripts
+debug_*.md
+fix_*.md
+fix_*.py
+diagnose_*.py
+
+# Railway deployment files (no longer used)
+railway.json
+nixpacks.toml
+deploy_railway.py
 
 # pyenv
 .python-version
