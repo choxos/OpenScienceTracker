@@ -162,6 +162,11 @@ class PaperListView(ListView):
         if broad_subject_term:
             queryset = queryset.filter(broad_subject_term=broad_subject_term)
         
+        # Filter by publication type
+        pub_type = self.request.GET.get('pub_type')
+        if pub_type:
+            queryset = queryset.filter(pub_type=pub_type)
+        
         # Filter by year
         year = self.request.GET.get('year')
         if year:
@@ -207,6 +212,11 @@ class PaperListView(ListView):
         context['available_categories'] = Paper.objects.exclude(
             broad_subject_term__isnull=True
         ).values_list('broad_subject_term', flat=True).distinct().order_by('broad_subject_term')
+        
+        # Add available publication types
+        context['available_pub_types'] = Paper.objects.exclude(
+            pub_type__isnull=True
+        ).exclude(pub_type='').values_list('pub_type', flat=True).distinct().order_by('pub_type')
         
         # Add selected indicators for template checkbox state
         context['selected_indicators'] = self.request.GET.getlist('indicators')

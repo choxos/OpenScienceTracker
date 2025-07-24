@@ -77,7 +77,20 @@
                     </select>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-3">
+                <div class="xera-form-group">
+                    <label class="xera-label">Publication Type</label>
+                    <select name="pub_type" class="xera-select">
+                        <option value="">All Types</option>
+                        {% for pub_type in available_pub_types %}
+                        <option value="{{ pub_type }}" {% if request.GET.pub_type == pub_type %}selected{% endif %}>
+                            {{ pub_type|capfirst|truncatechars:30 }}
+                        </option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+            <div class="col-lg-3">
                 <div class="xera-form-group">
                     <label class="xera-label">Overall Transparency Score</label>
                     <select name="transparency" class="xera-select">
@@ -235,6 +248,16 @@
                                     <i class="fas fa-atom me-1"></i>
                                     <a href="{% url 'tracker:paper_list' %}?broad_subject_term={{ paper.broad_subject_term|urlencode }}" class="text-decoration-none fw-medium">
                                         {{ paper.broad_subject_term }}
+                                    </a>
+                                </span>
+                                {% endif %}
+                                
+                                <!-- Publication Type -->
+                                {% if paper.pub_type %}
+                                <span class="d-flex align-items-center me-3">
+                                    <i class="fas fa-file-alt me-1"></i>
+                                    <a href="{% url 'tracker:paper_list' %}?pub_type={{ paper.pub_type|urlencode }}" class="text-decoration-none fw-medium">
+                                        {{ paper.pub_type|capfirst|truncatechars:25 }}
                                     </a>
                                 </span>
                                 {% endif %}
