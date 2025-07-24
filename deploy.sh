@@ -25,7 +25,7 @@ NC='\033[0m' # No Color
 
 # Configuration
 PROJECT_NAME="OpenScienceTracker"
-PROJECT_DIR="/var/www/opensciencetracker"
+PROJECT_DIR="/var/www/ost"
 VENV_DIR="$PROJECT_DIR/ost_env"
 BACKUP_DIR="/var/backups/ost"
 LOG_FILE="/var/log/ost_deploy.log"
@@ -141,6 +141,10 @@ pull_latest_code() {
     print_step "Pulling latest code from Git..."
     
     cd "$PROJECT_DIR"
+    
+    # Fix Git ownership issues (common on VPS deployments)
+    print_step "Configuring Git safe directory..."
+    sudo git config --global --add safe.directory "$PROJECT_DIR" 2>/dev/null || true
     
     # Stash any local changes
     sudo git stash save "Auto-stash before deployment $(date)" 2>/dev/null || true
