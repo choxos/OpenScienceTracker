@@ -1,0 +1,31 @@
+# Custom Django Management Commands for Deployment
+# ==================================================
+# Add one command per line (without 'python manage.py' prefix)
+# Lines starting with # are ignored
+#
+# Examples:
+# clearsessions
+# update_index
+# compress
+# clear_cache
+# rebuild_index
+
+# Uncomment the commands you want to run during deployment:
+
+# Clear expired sessions
+# clearsessions
+
+# Update search index (if using search)
+# update_index
+
+# Compress static files (if using django-compressor)
+# compress
+
+# Clear any application-specific cache
+# clear_cache
+
+# Update any cached calculations or statistics
+# update_statistics
+
+# Send deployment notification (if you have such command)
+# send_deployment_notification 
