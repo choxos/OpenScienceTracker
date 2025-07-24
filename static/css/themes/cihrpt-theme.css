@@ -1,0 +1,51 @@
+/**
+ * CIHRPT (CIHR Projects Tracker) Theme Colors
+ * 
+ * This file overrides the default Xera DB theme colors specifically for CIHRPT.
+ * Theme: Canadian Excellence in Health Research
+ */
+
+:root {
+  /* CIHRPT Primary Colors - Maple Red (Canadian Flag) */
+  --xera-primary: #dc2626;
+  --xera-primary-light: #ef4444;
+  --xera-primary-dark: #991b1b;
+  --xera-primary-50: #fef2f2;
+  --xera-primary-100: #fee2e2;
+  --xera-primary-200: #fecaca;
+  --xera-primary-300: #fca5a5;
+  --xera-primary-400: #f87171;
+  --xera-primary-500: #ef4444;
+  --xera-primary-600: #dc2626;
+  --xera-primary-700: #b91c1c;
+  --xera-primary-800: #991b1b;
+  --xera-primary-900: #7f1d1d;
+
+  /* CIHRPT Secondary Colors - White with Red Accents */
+  --xera-secondary: #ffffff;
+  --xera-secondary-light: #f8f9fa;
+  --xera-secondary-dark: #e9ecef;
+
+  /* CIHRPT Accent Colors - Deep Red */
+  --xera-accent: #991b1b;
+  --xera-accent-light: #b91c1c;
+  --xera-accent-dark: #7f1d1d;
+
+  /* CIHRPT-specific gradients */
+  --cihrpt-gradient-primary: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+  --cihrpt-gradient-flag: linear-gradient(90deg, #dc2626 0%, #ffffff 50%, #dc2626 100%);
+
+  /* CIHRPT funding pillar colors */
+  --cihrpt-biomedical: #dc2626;
+  --cihrpt-clinical: #991b1b;
+  --cihrpt-health-systems: #b91c1c;
+  --cihrpt-population: #7f1d1d;
+}
+
+.xera-header {
+  background: var(--cihrpt-gradient-primary);
+}
+
+.xera-logo-icon i:before {
+  content: "\f024"; /* fa-flag */
+} 

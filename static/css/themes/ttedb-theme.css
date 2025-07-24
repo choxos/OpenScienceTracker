@@ -1,0 +1,64 @@
+/**
+ * TTEdb (Target Trial Emulation Database) Theme Colors
+ * 
+ * This file overrides the default Xera DB theme colors specifically for TTEdb.
+ * Theme: Clinical Excellence in Research Methodology
+ */
+
+:root {
+  /* TTEdb Primary Colors - Medical Purple */
+  --xera-primary: #7c3aed;
+  --xera-primary-light: #8b5cf6;
+  --xera-primary-dark: #6d28d9;
+  --xera-primary-50: #faf5ff;
+  --xera-primary-100: #f3e8ff;
+  --xera-primary-200: #e9d5ff;
+  --xera-primary-300: #d8b4fe;
+  --xera-primary-400: #c084fc;
+  --xera-primary-500: #a855f7;
+  --xera-primary-600: #9333ea;
+  --xera-primary-700: #7c3aed;
+  --xera-primary-800: #6b21a8;
+  --xera-primary-900: #581c87;
+
+  /* TTEdb Secondary Colors - Violet */
+  --xera-secondary: #8b5cf6;
+  --xera-secondary-light: #a78bfa;
+  --xera-secondary-dark: #7c3aed;
+  --xera-secondary-50: #faf5ff;
+  --xera-secondary-100: #f3e8ff;
+  --xera-secondary-500: #a855f7;
+  --xera-secondary-600: #9333ea;
+  --xera-secondary-700: #7c3aed;
+
+  /* TTEdb Accent Colors - Lavender */
+  --xera-accent: #a78bfa;
+  --xera-accent-light: #c4b5fd;
+  --xera-accent-dark: #8b5cf6;
+
+  /* TTEdb-specific gradients */
+  --ttedb-gradient-primary: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);
+  --ttedb-gradient-secondary: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+  --ttedb-gradient-clinical: linear-gradient(45deg, #7c3aed 0%, #a78bfa 100%);
+
+  /* TTEdb methodology colors */
+  --ttedb-randomized: #7c3aed;
+  --ttedb-observational: #8b5cf6;
+  --ttedb-cohort: #a78bfa;
+  --ttedb-case-control: #c4b5fd;
+  --ttedb-cross-sectional: #ddd6fe;
+
+  /* TTEdb clinical trial phases */
+  --ttedb-phase-1: #fbbf24;
+  --ttedb-phase-2: #f59e0b;
+  --ttedb-phase-3: #d97706;
+  --ttedb-phase-4: #b45309;
+}
+
+.xera-header {
+  background: var(--ttedb-gradient-primary);
+}
+
+.xera-logo-icon i:before {
+  content: "\f0c3"; /* fa-flask */
+} 

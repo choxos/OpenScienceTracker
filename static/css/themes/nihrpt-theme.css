@@ -1,0 +1,56 @@
+/**
+ * NIHRPT (NIHR Projects Tracker) Theme Colors
+ * 
+ * This file overrides the default Xera DB theme colors specifically for NIHRPT.
+ * Theme: British Research Excellence
+ */
+
+:root {
+  /* NIHRPT Primary Colors - Royal Blue (UK Blue) */
+  --xera-primary: #1d4ed8;
+  --xera-primary-light: #3b82f6;
+  --xera-primary-dark: #1e40af;
+  --xera-primary-50: #eff6ff;
+  --xera-primary-100: #dbeafe;
+  --xera-primary-200: #bfdbfe;
+  --xera-primary-300: #93c5fd;
+  --xera-primary-400: #60a5fa;
+  --xera-primary-500: #3b82f6;
+  --xera-primary-600: #2563eb;
+  --xera-primary-700: #1d4ed8;
+  --xera-primary-800: #1e40af;
+  --xera-primary-900: #1e3a8a;
+
+  /* NIHRPT Secondary Colors - Navy (Professional) */
+  --xera-secondary: #1e40af;
+  --xera-secondary-light: #2563eb;
+  --xera-secondary-dark: #1e3a8a;
+  --xera-secondary-50: #eff6ff;
+  --xera-secondary-100: #dbeafe;
+  --xera-secondary-500: #3b82f6;
+  --xera-secondary-600: #2563eb;
+  --xera-secondary-700: #1d4ed8;
+
+  /* NIHRPT Accent Colors - Sky Blue */
+  --xera-accent: #0284c7;
+  --xera-accent-light: #0ea5e9;
+  --xera-accent-dark: #0369a1;
+
+  /* NIHRPT-specific gradients */
+  --nihrpt-gradient-primary: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+  --nihrpt-gradient-secondary: linear-gradient(135deg, #1e40af 0%, #1e3a8a 100%);
+
+  /* NIHRPT research programmes */
+  --nihrpt-biomedical: #1d4ed8;
+  --nihrpt-health-technology: #2563eb;
+  --nihrpt-public-health: #0284c7;
+  --nihrpt-health-services: #1e40af;
+}
+
+.xera-header {
+  background: var(--nihrpt-gradient-primary);
+}
+
+.xera-logo-icon i:before {
+  content: "\f024"; /* fa-flag */
+} 

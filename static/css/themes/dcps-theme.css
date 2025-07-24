@@ -1,0 +1,68 @@
+/**
+ * DCPS (Dental Caries Population Studies) Theme Colors
+ * 
+ * This file overrides the default Xera DB theme colors specifically for DCPS.
+ * Theme: Health & Wellness in Dental Research
+ */
+
+:root {
+  /* DCPS Primary Colors - Mint Green (Dental Health) */
+  --xera-primary: #059669;
+  --xera-primary-light: #10b981;
+  --xera-primary-dark: #047857;
+  --xera-primary-50: #ecfdf5;
+  --xera-primary-100: #d1fae5;
+  --xera-primary-200: #a7f3d0;
+  --xera-primary-300: #6ee7b7;
+  --xera-primary-400: #34d399;
+  --xera-primary-500: #10b981;
+  --xera-primary-600: #059669;
+  --xera-primary-700: #047857;
+  --xera-primary-800: #065f46;
+  --xera-primary-900: #064e3b;
+
+  /* DCPS Secondary Colors - Teal (Medical) */
+  --xera-secondary: #0d9488;
+  --xera-secondary-light: #14b8a6;
+  --xera-secondary-dark: #0f766e;
+  --xera-secondary-50: #f0fdfa;
+  --xera-secondary-100: #ccfbf1;
+  --xera-secondary-500: #14b8a6;
+  --xera-secondary-600: #0d9488;
+  --xera-secondary-700: #0f766e;
+
+  /* DCPS Accent Colors - Aqua */
+  --xera-accent: #06b6d4;
+  --xera-accent-light: #22d3ee;
+  --xera-accent-dark: #0891b2;
+
+  /* DCPS-specific gradients */
+  --dcps-gradient-primary: linear-gradient(135deg, #059669 0%, #047857 100%);
+  --dcps-gradient-secondary: linear-gradient(135deg, #0d9488 0%, #0f766e 100%);
+  --dcps-gradient-fresh: linear-gradient(45deg, #059669 0%, #06b6d4 100%);
+
+  /* DCPS dental health indicators */
+  --dcps-healthy: #059669;
+  --dcps-at-risk: #fbbf24;
+  --dcps-caries: #f59e0b;
+  --dcps-severe: #dc2626;
+
+  /* DCPS population demographics */
+  --dcps-children: #06b6d4;
+  --dcps-adolescents: #0d9488;
+  --dcps-adults: #059669;
+  --dcps-elderly: #047857;
+
+  /* DCPS prevention levels */
+  --dcps-primary: #10b981;
+  --dcps-secondary: #14b8a6;
+  --dcps-tertiary: #0d9488;
+}
+
+.xera-header {
+  background: var(--dcps-gradient-primary);
+}
+
+.xera-logo-icon i:before {
+  content: "\f5b7"; /* fa-tooth */
+} 

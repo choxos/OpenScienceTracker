@@ -1,0 +1,307 @@
+/**
+ * OST (Open Science Tracker) Theme Colors
+ * 
+ * This file overrides the default Xera DB theme colors specifically for OST.
+ * Theme: Trust & Transparency in Open Science
+ */
+
+:root {
+  /* OST Primary Colors - Deep Blue (Trust & Transparency) */
+  --xera-primary: #2563eb;
+  --xera-primary-light: #3b82f6;
+  --xera-primary-dark: #1d4ed8;
+  --xera-primary-50: #eff6ff;
+  --xera-primary-100: #dbeafe;
+  --xera-primary-200: #bfdbfe;
+  --xera-primary-300: #93c5fd;
+  --xera-primary-400: #60a5fa;
+  --xera-primary-500: #3b82f6;
+  --xera-primary-600: #2563eb;
+  --xera-primary-700: #1d4ed8;
+  --xera-primary-800: #1e40af;
+  --xera-primary-900: #1e3a8a;
+
+  /* OST Secondary Colors - Teal (Research & Clarity) */
+  --xera-secondary: #0891b2;
+  --xera-secondary-light: #06b6d4;
+  --xera-secondary-dark: #0e7490;
+  --xera-secondary-50: #ecfeff;
+  --xera-secondary-100: #cffafe;
+  --xera-secondary-500: #06b6d4;
+  --xera-secondary-600: #0891b2;
+  --xera-secondary-700: #0e7490;
+
+  /* OST Accent Colors - Light Blue (Highlights) */
+  --xera-accent: #0ea5e9;
+  --xera-accent-light: #38bdf8;
+  --xera-accent-dark: #0284c7;
+
+  /* OST-specific gradients */
+  --ost-gradient-primary: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  --ost-gradient-secondary: linear-gradient(135deg, #0891b2 0%, #0e7490 100%);
+  --ost-gradient-accent: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+
+  /* OST transparency indicator colors */
+  --ost-transparency-high: #059669;
+  --ost-transparency-medium: #d97706;
+  --ost-transparency-low: #dc2626;
+  --ost-transparency-none: #6b7280;
+
+  /* OST data visualization colors */
+  --ost-data-blue: #3b82f6;
+  --ost-data-teal: #14b8a6;
+  --ost-data-green: #10b981;
+  --ost-data-yellow: #f59e0b;
+  --ost-data-orange: #f97316;
+  --ost-data-red: #ef4444;
+  --ost-data-purple: #8b5cf6;
+  --ost-data-pink: #ec4899;
+}
+
+/* OST-specific header styling */
+.xera-header {
+  background: var(--ost-gradient-primary);
+}
+
+/* OST transparency score styling */
+.ost-transparency-score {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.375rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.ost-transparency-score.high {
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+.ost-transparency-score.medium {
+  background-color: #fef3c7;
+  color: #92400e;
+}
+
+.ost-transparency-score.low {
+  background-color: #fee2e2;
+  color: #991b1b;
+}
+
+.ost-transparency-score.none {
+  background-color: #f3f4f6;
+  color: #374151;
+}
+
+/* OST data indicators */
+.ost-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.ost-indicator.data-sharing {
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+.ost-indicator.code-sharing {
+  background-color: #dbeafe;
+  color: #1d4ed8;
+}
+
+.ost-indicator.coi-disclosure {
+  background-color: #fef3c7;
+  color: #92400e;
+}
+
+.ost-indicator.funding {
+  background-color: #f3e8ff;
+  color: #7c3aed;
+}
+
+.ost-indicator.registration {
+  background-color: #ecfdf5;
+  color: #059669;
+}
+
+.ost-indicator.reporting {
+  background-color: #fdf2f8;
+  color: #be185d;
+}
+
+.ost-indicator.sharing {
+  background-color: #f0f9ff;
+  color: #0284c7;
+}
+
+/* OST research field cards */
+.ost-field-card {
+  background: white;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+  border-left: 4px solid var(--xera-primary);
+  padding: 1.5rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.ost-field-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+}
+
+/* OST journal cards */
+.ost-journal-card {
+  background: white;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+  border-top: 3px solid var(--xera-secondary);
+  padding: 1.5rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.ost-journal-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+}
+
+/* OST paper cards */
+.ost-paper-card {
+  background: white;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+  border-left: 4px solid var(--xera-accent);
+  padding: 1.5rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.ost-paper-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+}
+
+/* OST statistics cards with custom colors */
+.ost-stat-transparency {
+  border-left-color: var(--ost-transparency-high);
+}
+
+.ost-stat-papers {
+  border-left-color: var(--xera-primary);
+}
+
+.ost-stat-journals {
+  border-left-color: var(--xera-secondary);
+}
+
+.ost-stat-fields {
+  border-left-color: var(--xera-accent);
+}
+
+/* OST-specific button variations */
+.xera-btn-ost {
+  background: var(--ost-gradient-primary);
+  color: white;
+  border: none;
+}
+
+.xera-btn-ost:hover {
+  background: var(--ost-gradient-secondary);
+  color: white;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* OST search and filter styling */
+.ost-search-container {
+  background: white;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.ost-filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: end;
+}
+
+/* OST footer with app-specific colors */
+.xera-footer {
+  background: linear-gradient(135deg, var(--xera-gray-800) 0%, var(--xera-gray-900) 100%);
+}
+
+/* OST-specific responsive adjustments */
+@media (max-width: 768px) {
+  .ost-filter-group {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .ost-search-container {
+    padding: 1rem;
+  }
+}
+
+/* OST data visualization enhancements */
+.ost-chart-container {
+  background: white;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.ost-progress-ring {
+  transform: rotate(-90deg);
+}
+
+.ost-progress-ring circle {
+  fill: transparent;
+  stroke-width: 8;
+  stroke-linecap: round;
+}
+
+.ost-progress-ring .background {
+  stroke: #e5e7eb;
+}
+
+.ost-progress-ring .progress {
+  stroke: var(--xera-primary);
+  stroke-dasharray: 0 100;
+  transition: stroke-dasharray 0.5s ease;
+}
+
+/* OST animation effects */
+@keyframes ost-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.ost-fade-in {
+  animation: ost-fade-in 0.3s ease-out;
+}
+
+@keyframes ost-pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.ost-loading {
+  animation: ost-pulse 1.5s ease-in-out infinite;
+} 

@@ -1,0 +1,133 @@
+/**
+ * PRCT (Post-Retraction Citation Tracker) Theme Colors
+ * 
+ * This file overrides the default Xera DB theme colors specifically for PRCT.
+ * Theme: Alert & Analysis for Post-Retraction Citations
+ */
+
+:root {
+  /* PRCT Primary Colors - Crimson Red (Alert & Warning) */
+  --xera-primary: #dc2626;
+  --xera-primary-light: #ef4444;
+  --xera-primary-dark: #991b1b;
+  --xera-primary-50: #fef2f2;
+  --xera-primary-100: #fee2e2;
+  --xera-primary-200: #fecaca;
+  --xera-primary-300: #fca5a5;
+  --xera-primary-400: #f87171;
+  --xera-primary-500: #ef4444;
+  --xera-primary-600: #dc2626;
+  --xera-primary-700: #b91c1c;
+  --xera-primary-800: #991b1b;
+  --xera-primary-900: #7f1d1d;
+
+  /* PRCT Secondary Colors - Orange (Urgency & Analysis) */
+  --xera-secondary: #ea580c;
+  --xera-secondary-light: #f97316;
+  --xera-secondary-dark: #c2410c;
+  --xera-secondary-50: #fff7ed;
+  --xera-secondary-100: #ffedd5;
+  --xera-secondary-500: #f97316;
+  --xera-secondary-600: #ea580c;
+  --xera-secondary-700: #c2410c;
+
+  /* PRCT Accent Colors - Pink (Highlights) */
+  --xera-accent: #ec4899;
+  --xera-accent-light: #f472b6;
+  --xera-accent-dark: #be185d;
+
+  /* PRCT-specific gradients */
+  --prct-gradient-primary: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+  --prct-gradient-secondary: linear-gradient(135deg, #ea580c 0%, #c2410c 100%);
+  --prct-gradient-accent: linear-gradient(135deg, #ec4899 0%, #be185d 100%);
+
+  /* PRCT retraction status colors */
+  --prct-retracted: #dc2626;
+  --prct-concern: #ea580c;
+  --prct-corrected: #d97706;
+  --prct-normal: #059669;
+
+  /* PRCT citation analysis colors */
+  --prct-pre-retraction: #059669;
+  --prct-post-retraction: #dc2626;
+  --prct-citation-decline: #ea580c;
+  --prct-citation-persistent: #7c2d12;
+}
+
+/* PRCT-specific header styling */
+.xera-header {
+  background: var(--prct-gradient-primary);
+}
+
+/* PRCT retraction status styling */
+.prct-retraction-status {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.375rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.prct-retraction-status.retracted {
+  background-color: #fee2e2;
+  color: #991b1b;
+}
+
+.prct-retraction-status.concern {
+  background-color: #fed7aa;
+  color: #c2410c;
+}
+
+.prct-retraction-status.corrected {
+  background-color: #fef3c7;
+  color: #92400e;
+}
+
+.prct-retraction-status.normal {
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+/* PRCT citation trend indicators */
+.prct-citation-trend {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.prct-citation-trend.declining {
+  background-color: #fee2e2;
+  color: #991b1b;
+}
+
+.prct-citation-trend.stable {
+  background-color: #fef3c7;
+  color: #92400e;
+}
+
+.prct-citation-trend.increasing {
+  background-color: #fed7aa;
+  color: #c2410c;
+}
+
+/* PRCT alert boxes */
+.prct-alert-retraction {
+  background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
+  border-left: 4px solid #dc2626;
+  color: #7f1d1d;
+}
+
+/* Logo override for PRCT */
+.xera-logo-icon {
+  background: white;
+  color: var(--xera-primary);
+}
+
+.xera-logo-icon i:before {
+  content: "\f071"; /* fa-exclamation-triangle */
+} 

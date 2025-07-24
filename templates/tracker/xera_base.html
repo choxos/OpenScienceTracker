@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{% block meta_description %}Open Science Tracker - Transparency indicators in scientific publications{% endblock %}">
+    <meta name="keywords" content="open science, transparency, research, scientific publications, reproducibility">
+    <meta name="author" content="Ahmad Sofi-Mahmudi">
+    
+    <title>{% block title %}Open Science Tracker{% endblock %} | Xera DB</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{% load static %}{% static 'images/favicon.ico' %}">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <!-- Bootstrap CSS (for compatibility) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Xera Unified Theme -->
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/xera-unified-theme.css' %}">
+    <link rel="stylesheet" href="{% static 'css/ost-theme.css' %}">
+    
+    <!-- Performance Optimizations -->
+    <link rel="stylesheet" href="{% static 'css/performance-optimizations.css' %}">
+    
+    {% block extra_css %}{% endblock %}
+    
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Open Science Tracker",
+        "description": "Transparency indicators in scientific publications",
+        "url": "https://ost.xeradb.com",
+        "author": {
+            "@type": "Person",
+            "name": "Ahmad Sofi-Mahmudi",
+            "email": "ahmad.pub@gmail.com"
+        },
+        "applicationCategory": "ResearchTool",
+        "operatingSystem": "Web Browser"
+    }
+    </script>
+</head>
+<body>
+    <!-- Xera DB Unified Header -->
+    <header class="xera-header">
+        <div class="xera-header-container">
+            <a href="{% url 'tracker:home' %}" class="xera-logo">
+                <div class="xera-logo-icon">
+                    <i class="fas fa-microscope"></i>
+                </div>
+                <div class="xera-app-name">
+                    <div class="xera-app-title">OST</div>
+                    <div class="xera-app-subtitle">Open Science Tracker</div>
+                </div>
+            </a>
+            
+            <nav class="xera-nav">
+                <a href="{% url 'tracker:home' %}" class="xera-nav-link {% if request.resolver_match.url_name == 'home' %}active{% endif %}">
+                    <i class="fas fa-home me-1"></i>Home
+                </a>
+                <a href="{% url 'tracker:paper_list' %}" class="xera-nav-link {% if 'paper' in request.resolver_match.url_name %}active{% endif %}">
+                    <i class="fas fa-file-alt me-1"></i>Papers
+                </a>
+                <a href="{% url 'tracker:journal_list' %}" class="xera-nav-link {% if 'journal' in request.resolver_match.url_name %}active{% endif %}">
+                    <i class="fas fa-book me-1"></i>Journals
+                </a>
+                <a href="{% url 'tracker:field_list' %}" class="xera-nav-link {% if 'field' in request.resolver_match.url_name %}active{% endif %}">
+                    <i class="fas fa-tags me-1"></i>Fields
+                </a>
+                <a href="{% url 'tracker:statistics' %}" class="xera-nav-link {% if 'statistics' in request.resolver_match.url_name %}active{% endif %}">
+                    <i class="fas fa-chart-bar me-1"></i>Statistics
+                </a>
+                <a href="/api/" class="xera-nav-link" target="_blank">
+                    <i class="fas fa-code me-1"></i>API
+                </a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="xera-main-content">
+        <div class="xera-container{% if full_width %}-fluid{% endif %}">
+            
+            <!-- Breadcrumb Navigation -->
+            {% if show_breadcrumb %}
+            <nav aria-label="breadcrumb" class="mb-4">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                        <a href="{% url 'tracker:home' %}">
+                            <i class="fas fa-home me-1"></i>Home
+                        </a>
+                    </li>
+                    {% block breadcrumb %}{% endblock %}
+                </ol>
+            </nav>
+            {% endif %}
+
+            <!-- Page Header -->
+            {% if page_title %}
+            <div class="xera-card mb-4">
+                <div class="xera-card-header">
+                    <h1 class="xera-card-title">
+                        {% if page_icon %}<i class="{{ page_icon }} me-2"></i>{% endif %}
+                        {{ page_title }}
+                    </h1>
+                    {% if page_description %}
+                    <p class="mb-0 text-muted">{{ page_description }}</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+
+            <!-- Alert Messages -->
+            {% if messages %}
+            <div class="alerts-container mb-4">
+                {% for message in messages %}
+                <div class="xera-alert xera-alert-{{ message.tags }} alert-dismissible" role="alert">
+                    <i class="fas fa-info-circle me-2"></i>
+                    {{ message }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            <!-- Main Content -->
+            {% block content %}{% endblock %}
+            
+        </div>
+    </main>
+
+    <!-- Xera DB Unified Footer -->
+    <footer class="xera-footer">
+        <div class="xera-footer-content">
+            
+            <!-- Xera DB Application Suite -->
+            <div class="xera-footer-apps">
+                <div class="xera-footer-app">
+                    <h6 class="mb-2">Research Transparency</h6>
+                    <a href="https://ost.xeradb.com" class="xera-footer-app-link">
+                        <i class="fas fa-microscope me-1"></i>OST - Open Science Tracker
+                    </a>
+                    <br>
+                    <a href="https://prct.xeradb.com" class="xera-footer-app-link">
+                        <i class="fas fa-exclamation-triangle me-1"></i>PRCT - Post-Retraction Citation Tracker
+                    </a>
+                </div>
+                
+                <div class="xera-footer-app">
+                    <h6 class="mb-2">Funding Databases</h6>
+                    <a href="https://cihrpt.xeradb.com" class="xera-footer-app-link">
+                        <i class="fas fa-flag me-1"></i>CIHRPT - CIHR Projects (Canada)
+                    </a>
+                    <br>
+                    <a href="https://nhmrcpt.xeradb.com" class="xera-footer-app-link">
+                        <i class="fas fa-flag me-1"></i>NHMRCPT - NHMRC Projects (Australia)
+                    </a>
+                </div>
+                
+                <div class="xera-footer-app">
+                    <h6 class="mb-2">Health Research</h6>
+                    <a href="https://nihrpt.xeradb.com" class="xera-footer-app-link">
+                        <i class="fas fa-flag me-1"></i>NIHRPT - NIHR Projects (UK)
+                    </a>
+                    <br>
+                    <a href="https://nihpt.xeradb.com" class="xera-footer-app-link">
+                        <i class="fas fa-flag me-1"></i>NIHPT - NIH Projects (US)
+                    </a>
+                </div>
+                
+                <div class="xera-footer-app">
+                    <h6 class="mb-2">Specialized Databases</h6>
+                    <a href="https://ttedb.xeradb.com" class="xera-footer-app-link">
+                        <i class="fas fa-flask me-1"></i>TTEdb - Target Trial Emulation
+                    </a>
+                    <br>
+                    <a href="https://dcps.xeradb.com" class="xera-footer-app-link">
+                        <i class="fas fa-tooth me-1"></i>DCPS - Dental Caries Studies
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Footer Information -->
+            <div class="xera-footer-copy">
+                <p class="mb-2">
+                    <strong>Xera DB</strong> - Comprehensive Open Science Research Applications
+                </p>
+                <p class="mb-2">
+                    Created by <a href="https://scholar.google.com/citations?user=gTWPaFYAAAAJ&hl=en" target="_blank" class="text-light">
+                        Dr. Ahmad Sofi-Mahmudi
+                    </a> | Meta-researcher in Open Science
+                </p>
+                <p class="mb-0">
+                    <a href="mailto:ahmad.pub@gmail.com" class="text-light me-3">
+                        <i class="fas fa-envelope me-1"></i>Contact
+                    </a>
+                    <a href="https://github.com/choxos" target="_blank" class="text-light me-3">
+                        <i class="fab fa-github me-1"></i>GitHub
+                    </a>
+                    <a href="https://linkedin.com/in/asofimahmudi" target="_blank" class="text-light me-3">
+                        <i class="fab fa-linkedin me-1"></i>LinkedIn
+                    </a>
+                    <a href="https://x.com/ASofiMahmudi" target="_blank" class="text-light">
+                        <i class="fab fa-x-twitter me-1"></i>X
+                    </a>
+                </p>
+                <hr class="my-3" style="border-color: var(--xera-gray-600);">
+                <p class="mb-0 small">
+                    © {{ current_year|default:"2025" }} Xera DB. Open source research tools for advancing science.
+                    <span class="ms-3">
+                        <a href="https://github.com/choxos/OpenScienceTracker" target="_blank" class="text-light">
+                            <i class="fas fa-code me-1"></i>Source Code
+                        </a>
+                    </span>
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Performance Optimizations -->
+    <script src="{% static 'js/performance-optimizations.js' %}"></script>
+    
+    <!-- Chart.js for data visualization -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    {% block extra_js %}{% endblock %}
+    
+    <!-- Analytics (if needed) -->
+    {% if not debug %}
+    <!-- Add your analytics code here -->
+    {% endif %}
+    
+    <!-- Service Worker for PWA (optional) -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('/sw.js').then(function(registration) {
+                    console.log('ServiceWorker registration successful');
+                }, function(err) {
+                    console.log('ServiceWorker registration failed: ', err);
+                });
+            });
+        }
+    </script>
+</body>
+</html> 

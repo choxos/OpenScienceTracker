@@ -1,0 +1,58 @@
+/**
+ * NIHPT (NIH Projects Tracker) Theme Colors
+ * 
+ * This file overrides the default Xera DB theme colors specifically for NIHPT.
+ * Theme: American Innovation in Biomedical Research
+ */
+
+:root {
+  /* NIHPT Primary Colors - Navy Blue (US Navy) */
+  --xera-primary: #1e3a8a;
+  --xera-primary-light: #1e40af;
+  --xera-primary-dark: #1e3a8a;
+  --xera-primary-50: #eff6ff;
+  --xera-primary-100: #dbeafe;
+  --xera-primary-200: #bfdbfe;
+  --xera-primary-300: #93c5fd;
+  --xera-primary-400: #60a5fa;
+  --xera-primary-500: #3b82f6;
+  --xera-primary-600: #2563eb;
+  --xera-primary-700: #1d4ed8;
+  --xera-primary-800: #1e40af;
+  --xera-primary-900: #1e3a8a;
+
+  /* NIHPT Secondary Colors - Patriot Red */
+  --xera-secondary: #dc2626;
+  --xera-secondary-light: #ef4444;
+  --xera-secondary-dark: #991b1b;
+  --xera-secondary-50: #fef2f2;
+  --xera-secondary-100: #fee2e2;
+  --xera-secondary-500: #ef4444;
+  --xera-secondary-600: #dc2626;
+  --xera-secondary-700: #b91c1c;
+
+  /* NIHPT Accent Colors - White */
+  --xera-accent: #ffffff;
+  --xera-accent-light: #f8f9fa;
+  --xera-accent-dark: #e9ecef;
+
+  /* NIHPT-specific gradients */
+  --nihpt-gradient-primary: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%);
+  --nihpt-gradient-patriot: linear-gradient(90deg, #1e3a8a 0%, #ffffff 50%, #dc2626 100%);
+
+  /* NIHPT institutes colors */
+  --nihpt-nci: #dc2626;          /* Cancer Institute */
+  --nihpt-nhlbi: #1e40af;        /* Heart, Lung, Blood */
+  --nihpt-nida: #7c3aed;         /* Drug Abuse */
+  --nihpt-nimh: #059669;         /* Mental Health */
+  --nihpt-niaid: #ea580c;        /* Allergy & Infectious */
+  --nihpt-nichd: #0891b2;        /* Child Health */
+}
+
+.xera-header {
+  background: var(--nihpt-gradient-primary);
+}
+
+.xera-logo-icon i:before {
+  content: "\f024"; /* fa-flag */
+} 

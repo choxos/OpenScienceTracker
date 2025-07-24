@@ -1,0 +1,57 @@
+/**
+ * NHMRCPT (NHMRC Projects Tracker) Theme Colors
+ * 
+ * This file overrides the default Xera DB theme colors specifically for NHMRCPT.
+ * Theme: Australian Innovation in Health Research
+ */
+
+:root {
+  /* NHMRCPT Primary Colors - Forest Green (Australian Green) */
+  --xera-primary: #059669;
+  --xera-primary-light: #10b981;
+  --xera-primary-dark: #047857;
+  --xera-primary-50: #ecfdf5;
+  --xera-primary-100: #d1fae5;
+  --xera-primary-200: #a7f3d0;
+  --xera-primary-300: #6ee7b7;
+  --xera-primary-400: #34d399;
+  --xera-primary-500: #10b981;
+  --xera-primary-600: #059669;
+  --xera-primary-700: #047857;
+  --xera-primary-800: #065f46;
+  --xera-primary-900: #064e3b;
+
+  /* NHMRCPT Secondary Colors - Gold (Australian Gold) */
+  --xera-secondary: #d97706;
+  --xera-secondary-light: #f59e0b;
+  --xera-secondary-dark: #b45309;
+  --xera-secondary-50: #fffbeb;
+  --xera-secondary-100: #fef3c7;
+  --xera-secondary-500: #f59e0b;
+  --xera-secondary-600: #d97706;
+  --xera-secondary-700: #b45309;
+
+  /* NHMRCPT Accent Colors - Emerald */
+  --xera-accent: #10b981;
+  --xera-accent-light: #34d399;
+  --xera-accent-dark: #059669;
+
+  /* NHMRCPT-specific gradients */
+  --nhmrcpt-gradient-primary: linear-gradient(135deg, #059669 0%, #047857 100%);
+  --nhmrcpt-gradient-secondary: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+  --nhmrcpt-gradient-aussie: linear-gradient(45deg, #059669 0%, #d97706 100%);
+
+  /* NHMRCPT research themes */
+  --nhmrcpt-health-services: #059669;
+  --nhmrcpt-clinical: #10b981;
+  --nhmrcpt-population: #d97706;
+  --nhmrcpt-indigenous: #b45309;
+}
+
+.xera-header {
+  background: var(--nhmrcpt-gradient-primary);
+}
+
+.xera-logo-icon i:before {
+  content: "\f024"; /* fa-flag */
+} 
