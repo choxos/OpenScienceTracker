@@ -63,6 +63,10 @@ class HomeView(TemplateView):
         
         return context
 
+class AboutView(TemplateView):
+    """About page for Open Science Tracker"""
+    template_name = 'tracker/about.html'
+
 class DashboardView(LoginRequiredMixin, TemplateView):
     """User dashboard with personalized statistics"""
     template_name = 'tracker/dashboard.html'

@@ -43,6 +43,29 @@ class Journal(models.Model):
     # Add CopyManager for fast CSV imports
     objects = CopyManager()
     
+    @property
+    def broad_subject_terms_list(self):
+        """Return broad subject terms as a list"""
+        if self.broad_subject_terms:
+            return [term.strip() for term in self.broad_subject_terms.split(';') if term.strip()]
+        return []
+    
+    @property
+    def issn(self):
+        """Return the best available ISSN"""
+        return self.issn_print or self.issn_electronic or self.issn_linking
+    
+    @property
+    def publication_years(self):
+        """Return formatted publication years"""
+        if self.publication_start_year and self.publication_end_year:
+            if self.publication_start_year == self.publication_end_year:
+                return str(self.publication_start_year)
+            return f"{self.publication_start_year}-{self.publication_end_year}"
+        elif self.publication_start_year:
+            return f"{self.publication_start_year}-present"
+        return "Unknown"
+
     class Meta:
         ordering = ['title_abbreviation']
         indexes = [

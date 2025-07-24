@@ -486,22 +486,21 @@
 
 <!-- Papers List -->
 <section>
-    <div class="xera-card">
-        <div class="xera-card-header">
-            <h2 class="xera-card-title">
+    <div class="papers-section">
+        <div class="papers-header mb-4">
+            <h2 class="papers-title">
                 <i class="fas fa-file-alt me-2"></i>
                 Research Papers
                 {% if request.GET.q %}
-                    <span class="xera-text-sm text-muted ms-2">- Search: "{{ request.GET.q }}"</span>
+                    <span class="text-muted ms-2 fw-normal">- Search: "{{ request.GET.q }}"</span>
                 {% endif %}
             </h2>
-            <div class="xera-text-sm text-muted">
+            <div class="text-muted">
                 Showing {{ papers|length }} of {{ papers.paginator.count }} papers
             </div>
         </div>
         
-        <div class="xera-card-body xera-p-0">
-            <div class="xera-list-container">
+        <div class="papers-list-container">
                 {% for paper in papers %}
                 <div class="ost-paper-card">
                     <div class="ost-paper-card-header">
@@ -728,7 +727,6 @@
                     </p>
                 </div>
                 {% endfor %}
-            </div>
         </div>
     </div>
 </section>

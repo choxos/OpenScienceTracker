@@ -196,8 +196,48 @@
                     </h5>
                 </div>
                 <div class="card-body">
-                    <p class="mb-2"><strong>Created:</strong> {{ field.created_at|date:"M d, Y" }}</p>
-                    <p class="mb-2"><strong>Last Updated:</strong> {{ field.updated_at|date:"M d, Y" }}</p>
+                    <div class="row">
+                        <div class="col-12">
+                            <h6 class="text-muted mb-3">Field Information</h6>
+                            <p class="mb-2"><strong>Field ID:</strong> {{ field.id }}</p>
+                            <p class="mb-2"><strong>Name:</strong> {{ field.name }}</p>
+                            {% if field.description %}
+                            <p class="mb-2"><strong>Description:</strong> {{ field.description|truncatechars:150 }}</p>
+                            {% endif %}
+                            
+                            <h6 class="text-muted mb-3 mt-4">Research Metrics</h6>
+                            <p class="mb-2">
+                                <strong>Research Productivity:</strong> 
+                                {% if field.total_papers > 1000 %}
+                                    <span class="badge bg-success">High</span>
+                                {% elif field.total_papers > 100 %}
+                                    <span class="badge bg-warning">Medium</span>
+                                {% else %}
+                                    <span class="badge bg-secondary">Low</span>
+                                {% endif %}
+                                ({{ field.total_papers|default:0 }} papers)
+                            </p>
+                            <p class="mb-2">
+                                <strong>Journal Coverage:</strong> 
+                                {{ field.total_journals|default:0 }} journals
+                            </p>
+                            <p class="mb-2">
+                                <strong>Transparency Level:</strong>
+                                {% if field.avg_transparency_score >= 5 %}
+                                    <span class="badge bg-success">Excellent</span>
+                                {% elif field.avg_transparency_score >= 3 %}
+                                    <span class="badge bg-warning">Good</span>
+                                {% else %}
+                                    <span class="badge bg-danger">Needs Improvement</span>
+                                {% endif %}
+                                ({{ field.avg_transparency_score|floatformat:1 }}/6)
+                            </p>
+                            
+                            <h6 class="text-muted mb-3 mt-4">System Information</h6>
+                            <p class="mb-2"><strong>Created:</strong> {{ field.created_at|date:"M d, Y" }}</p>
+                            <p class="mb-2"><strong>Last Updated:</strong> {{ field.updated_at|date:"M d, Y" }}</p>
+                        </div>
+                    </div>
                     {% if field.parent_field %}
                     <p class="mb-2">
                         <strong>Parent Field:</strong> 

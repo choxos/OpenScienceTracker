@@ -76,22 +76,21 @@
 
 <!-- Journals List -->
 <section>
-    <div class="xera-card">
-        <div class="xera-card-header">
-            <h2 class="xera-card-title">
+    <div class="journals-section">
+        <div class="journals-header mb-4">
+            <h2 class="journals-title">
                 <i class="fas fa-book me-2"></i>
                 Scientific Journals
                 {% if request.GET.q %}
-                    <span class="xera-text-sm text-muted ms-2">- Search: "{{ request.GET.q }}"</span>
+                    <span class="text-muted ms-2 fw-normal">- Search: "{{ request.GET.q }}"</span>
                 {% endif %}
             </h2>
-            <div class="xera-text-sm text-muted">
+            <div class="text-muted">
                 Showing {{ journals|length }} of {{ total_journals }} journals
             </div>
         </div>
         
-        <div class="xera-card-body xera-p-0">
-            <div class="xera-list-container">
+        <div class="journals-list-container">
                 {% for journal in journals %}
                 <div class="ost-journal-card">
                     <div class="ost-journal-card-header">
@@ -276,7 +275,6 @@
                     </p>
                 </div>
                 {% endfor %}
-            </div>
         </div>
     </div>
 </section>
