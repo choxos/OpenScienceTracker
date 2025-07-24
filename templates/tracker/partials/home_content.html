@@ -45,7 +45,7 @@
                 <form method="get" id="transparency-year-filter" class="d-flex align-items-center">
                     <label class="me-2 text-muted fw-medium">Data Range:</label>
                     <div class="btn-group btn-group-sm" role="group" data-bs-toggle="buttons">
-                        <input type="radio" class="btn-check" name="year_filter" id="year_all" value="all" {% if not year_filter or year_filter == 'all' %}{% else %}{% endif %}>
+                        <input type="radio" class="btn-check" name="year_filter" id="year_all" value="all" {% if year_filter == 'all' %}checked{% endif %}>
                         <label class="btn btn-outline-primary" for="year_all">All Years</label>
                         
                         <input type="radio" class="btn-check" name="year_filter" id="year_2000" value="2000" {% if not year_filter or year_filter == '2000' %}checked{% endif %}>

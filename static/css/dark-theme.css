@@ -1,0 +1,345 @@
+/**
+ * Xera DB Dark Theme
+ * Comprehensive dark mode styling for Open Science Tracker
+ */
+
+/* === DARK THEME VARIABLES === */
+:root[data-theme="dark"] {
+    /* Primary Colors (Blue theme) */
+    --xera-primary: #60a5fa;
+    --xera-primary-light: #93c5fd;
+    --xera-primary-dark: #3b82f6;
+    --xera-primary-50: #1e3a8a;
+    --xera-primary-100: #1e40af;
+    --xera-primary-200: #2563eb;
+    --xera-primary-600: #2563eb;
+    --xera-primary-700: #1d4ed8;
+    --xera-primary-800: #1e40af;
+    --xera-primary-900: #1e3a8a;
+
+    /* Dark Gray Scale */
+    --xera-gray-50: #1f2937;
+    --xera-gray-100: #374151;
+    --xera-gray-200: #4b5563;
+    --xera-gray-300: #6b7280;
+    --xera-gray-400: #9ca3af;
+    --xera-gray-500: #d1d5db;
+    --xera-gray-600: #e5e7eb;
+    --xera-gray-700: #f3f4f6;
+    --xera-gray-800: #f9fafb;
+    --xera-gray-900: #ffffff;
+
+    /* Background Colors */
+    --body-bg: #111827;
+    --card-bg: #1f2937;
+    --header-bg: #0f172a;
+    --footer-bg: #0f172a;
+    --border-color: #374151;
+    
+    /* Text Colors */
+    --text-primary: #f9fafb;
+    --text-secondary: #d1d5db;
+    --text-muted: #9ca3af;
+    
+    /* Transparency Colors (Dark Mode) */
+    --transparency-green: #10b981;
+    --transparency-green-light: #065f46;
+    --transparency-green-dark: #34d399;
+    
+    --transparency-red: #ef4444;
+    --transparency-red-light: #7f1d1d;
+    --transparency-red-dark: #f87171;
+    
+    --transparency-orange: #f59e0b;
+    --transparency-orange-light: #92400e;
+    --transparency-orange-dark: #fbbf24;
+}
+
+/* === GLOBAL DARK THEME STYLES === */
+[data-theme="dark"] body {
+    background-color: var(--body-bg) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .xera-container {
+    color: var(--text-primary);
+}
+
+/* === HEADER DARK THEME === */
+[data-theme="dark"] .xera-header {
+    background: var(--header-bg) !important;
+    border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .xera-nav-link {
+    color: var(--text-secondary) !important;
+}
+
+[data-theme="dark"] .xera-nav-link:hover,
+[data-theme="dark"] .xera-nav-link.active {
+    color: var(--xera-primary) !important;
+}
+
+[data-theme="dark"] .xera-app-title {
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .xera-app-subtitle {
+    color: var(--text-secondary) !important;
+}
+
+/* === CARDS AND CONTENT === */
+[data-theme="dark"] .card,
+[data-theme="dark"] .xera-card {
+    background-color: var(--card-bg) !important;
+    border-color: var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .card-header {
+    background-color: var(--xera-gray-100) !important;
+    border-bottom-color: var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .card-body {
+    color: var(--text-primary) !important;
+}
+
+/* === FIELD CARDS === */
+[data-theme="dark"] .ost-field-card {
+    background: var(--card-bg) !important;
+    border-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .ost-field-title-link {
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .ost-field-description {
+    color: var(--text-secondary) !important;
+}
+
+[data-theme="dark"] .field-card {
+    background: var(--card-bg) !important;
+    border-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .field-title a {
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .field-description {
+    color: var(--text-secondary) !important;
+}
+
+/* === METRIC BOXES DARK THEME === */
+[data-theme="dark"] .ost-metric-box {
+    background: var(--xera-gray-100) !important;
+    border-color: var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .field-metric-box {
+    background: var(--xera-gray-100) !important;
+    border-color: var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .box-label {
+    color: var(--text-secondary) !important;
+}
+
+/* === TRANSPARENCY SCORES === */
+[data-theme="dark"] .transparency-score.high {
+    background: var(--transparency-green-light) !important;
+    border-color: var(--transparency-green) !important;
+    color: var(--transparency-green-dark) !important;
+}
+
+[data-theme="dark"] .transparency-score.medium {
+    background: var(--transparency-orange-light) !important;
+    border-color: var(--transparency-orange) !important;
+    color: var(--transparency-orange-dark) !important;
+}
+
+[data-theme="dark"] .transparency-score.low {
+    background: var(--transparency-red-light) !important;
+    border-color: var(--transparency-red) !important;
+    color: var(--transparency-red-dark) !important;
+}
+
+/* === BUTTONS DARK THEME === */
+[data-theme="dark"] .btn-outline-primary {
+    color: var(--xera-primary) !important;
+    border-color: var(--xera-primary) !important;
+}
+
+[data-theme="dark"] .btn-outline-primary:hover,
+[data-theme="dark"] .btn-outline-primary:checked,
+[data-theme="dark"] .btn-outline-primary.active {
+    background-color: var(--xera-primary) !important;
+    border-color: var(--xera-primary) !important;
+    color: white !important;
+}
+
+[data-theme="dark"] .xera-btn {
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .xera-btn-outline {
+    border-color: var(--border-color) !important;
+    color: var(--text-secondary) !important;
+}
+
+[data-theme="dark"] .xera-btn-outline:hover {
+    background-color: var(--xera-gray-100) !important;
+    color: var(--text-primary) !important;
+}
+
+/* === SEARCH BAR DARK THEME === */
+[data-theme="dark"] .xera-search-group {
+    background: var(--card-bg) !important;
+    border-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .xera-search-input {
+    color: var(--text-primary) !important;
+    background: transparent !important;
+}
+
+[data-theme="dark"] .xera-search-input::placeholder {
+    color: var(--text-muted) !important;
+}
+
+/* === STATISTICS PAGE === */
+[data-theme="dark"] .stats-hero {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #1e40af 100%) !important;
+}
+
+[data-theme="dark"] .overview-card {
+    background: var(--card-bg) !important;
+    border-color: var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .overview-number {
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .overview-label {
+    color: var(--text-secondary) !important;
+}
+
+/* === TABLES DARK THEME === */
+[data-theme="dark"] .table {
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .table th {
+    border-color: var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .table td {
+    border-color: var(--border-color) !important;
+    color: var(--text-secondary) !important;
+}
+
+[data-theme="dark"] .table-striped tbody tr:nth-of-type(odd) {
+    background-color: var(--xera-gray-100) !important;
+}
+
+/* === FOOTER DARK THEME === */
+[data-theme="dark"] .xera-footer {
+    background: var(--footer-bg) !important;
+    border-top-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .xera-footer-copy {
+    border-top-color: var(--border-color) !important;
+    color: var(--text-secondary) !important;
+}
+
+/* === BREADCRUMB DARK THEME === */
+[data-theme="dark"] .breadcrumb {
+    background: var(--card-bg) !important;
+}
+
+[data-theme="dark"] .breadcrumb-item a {
+    color: var(--xera-primary) !important;
+}
+
+[data-theme="dark"] .breadcrumb-item.active {
+    color: var(--text-secondary) !important;
+}
+
+/* === BADGES AND INDICATORS === */
+[data-theme="dark"] .badge {
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .transparency-badge {
+    background: var(--card-bg) !important;
+    border-color: var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+/* === FORMS DARK THEME === */
+[data-theme="dark"] .form-control,
+[data-theme="dark"] .xera-input,
+[data-theme="dark"] .xera-select {
+    background-color: var(--card-bg) !important;
+    border-color: var(--border-color) !important;
+    color: var(--text-primary) !important;
+}
+
+[data-theme="dark"] .form-control:focus,
+[data-theme="dark"] .xera-input:focus,
+[data-theme="dark"] .xera-select:focus {
+    background-color: var(--card-bg) !important;
+    border-color: var(--xera-primary) !important;
+    color: var(--text-primary) !important;
+    box-shadow: 0 0 0 0.2rem rgba(96, 165, 250, 0.25) !important;
+}
+
+[data-theme="dark"] .form-label,
+[data-theme="dark"] .xera-label {
+    color: var(--text-secondary) !important;
+}
+
+/* === DARK THEME TOGGLE BUTTON === */
+.theme-toggle {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    z-index: 1000;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    border: none;
+    background: var(--xera-primary);
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.theme-toggle:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme="dark"] .theme-toggle {
+    background: #fbbf24;
+    color: #1f2937;
+}
+
+/* === ANIMATIONS === */
+* {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease !important;
+} 

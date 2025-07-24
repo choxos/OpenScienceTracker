@@ -42,6 +42,9 @@
     <!-- Transparency Indicators Colors -->
     <link rel="stylesheet" href="{% static 'css/transparency-colors.css' %}">
     
+    <!-- Dark Theme -->
+    <link rel="stylesheet" href="{% static 'css/dark-theme.css' %}">
+    
     <!-- Performance Optimizations -->
     <link rel="stylesheet" href="{% static 'css/performance-optimizations.css' %}">
     
@@ -138,6 +141,11 @@
             <div class="mt-2">Loading...</div>
         </div>
     </div>
+
+    <!-- Dark Theme Toggle -->
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+        <i class="fas fa-moon" id="theme-icon"></i>
+    </button>
 
     <!-- Main Content Area -->
     <main class="xera-main-content" id="main-content">
@@ -573,10 +581,50 @@
             }
         }
         
+        // Dark Theme Manager
+        class ThemeManager {
+            constructor() {
+                this.themeToggle = document.getElementById('theme-toggle');
+                this.themeIcon = document.getElementById('theme-icon');
+                this.currentTheme = localStorage.getItem('theme') || 'light';
+                
+                this.init();
+            }
+            
+            init() {
+                // Set initial theme
+                this.setTheme(this.currentTheme);
+                
+                // Add event listener
+                this.themeToggle.addEventListener('click', () => {
+                    this.toggleTheme();
+                });
+            }
+            
+            setTheme(theme) {
+                this.currentTheme = theme;
+                document.documentElement.setAttribute('data-theme', theme);
+                localStorage.setItem('theme', theme);
+                
+                // Update icon
+                if (theme === 'dark') {
+                    this.themeIcon.className = 'fas fa-sun';
+                } else {
+                    this.themeIcon.className = 'fas fa-moon';
+                }
+            }
+            
+            toggleTheme() {
+                const newTheme = this.currentTheme === 'light' ? 'dark' : 'light';
+                this.setTheme(newTheme);
+            }
+        }
+        
         // Optimized initialization
         document.addEventListener('DOMContentLoaded', () => {
             window.ajaxNav = new AjaxNavigator();
             window.mobileNav = new MobileNavigation();
+            window.themeManager = new ThemeManager();
         });
     </script>
     
