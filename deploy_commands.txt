@@ -28,4 +28,7 @@
 # update_statistics
 
 # Send deployment notification (if you have such command)
-# send_deployment_notification 
+# send_deployment_notification
+
+# Import rtransparent data (uncomment and adjust path as needed)
+# import_rtransparent_bulk rtransparent_csvs/medicaltransparency_opendata.csv --create-journals --update-existing --chunk-size 500 
