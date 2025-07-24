@@ -253,6 +253,14 @@ class ResearchField(models.Model):
     total_papers = models.IntegerField(default=0)
     avg_transparency_score = models.FloatField(default=0.0)
     
+    # Individual transparency indicator averages (percentages)
+    avg_data_sharing = models.FloatField(default=0.0, help_text="Average percentage of papers with open data")
+    avg_code_sharing = models.FloatField(default=0.0, help_text="Average percentage of papers with open code")
+    avg_coi_disclosure = models.FloatField(default=0.0, help_text="Average percentage of papers with COI disclosure")
+    avg_funding_disclosure = models.FloatField(default=0.0, help_text="Average percentage of papers with funding disclosure")
+    avg_protocol_registration = models.FloatField(default=0.0, help_text="Average percentage of papers with protocol registration")
+    avg_open_access = models.FloatField(default=0.0, help_text="Average percentage of papers with open access")
+    
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     

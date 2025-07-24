@@ -77,10 +77,26 @@ class Command(BaseCommand):
                     # Fallback: count unique journals from papers
                     journals_count = papers_in_term.values('journal').distinct().count()
                 
-                # Calculate average transparency score
+                # Calculate transparency statistics
                 avg_transparency = papers_in_term.aggregate(
                     avg=Avg('transparency_score')
                 )['avg'] or 0.0
+                
+                # Calculate individual indicator averages (as percentages)
+                if papers_count > 0:
+                    avg_data_sharing = (papers_in_term.filter(is_open_data=True).count() / papers_count) * 100
+                    avg_code_sharing = (papers_in_term.filter(is_open_code=True).count() / papers_count) * 100
+                    avg_coi_disclosure = (papers_in_term.filter(is_coi_pred=True).count() / papers_count) * 100
+                    avg_funding_disclosure = (papers_in_term.filter(is_fund_pred=True).count() / papers_count) * 100
+                    avg_protocol_registration = (papers_in_term.filter(is_register_pred=True).count() / papers_count) * 100
+                    avg_open_access = (papers_in_term.filter(is_open_access=True).count() / papers_count) * 100
+                else:
+                    avg_data_sharing = 0.0
+                    avg_code_sharing = 0.0
+                    avg_coi_disclosure = 0.0
+                    avg_funding_disclosure = 0.0
+                    avg_protocol_registration = 0.0
+                    avg_open_access = 0.0
                 
                 # Create or update the research field
                 field, created = ResearchField.objects.get_or_create(
@@ -90,6 +106,12 @@ class Command(BaseCommand):
                         'total_papers': papers_count,
                         'total_journals': journals_count,
                         'avg_transparency_score': round(avg_transparency, 2),
+                        'avg_data_sharing': round(avg_data_sharing, 1),
+                        'avg_code_sharing': round(avg_code_sharing, 1),
+                        'avg_coi_disclosure': round(avg_coi_disclosure, 1),
+                        'avg_funding_disclosure': round(avg_funding_disclosure, 1),
+                        'avg_protocol_registration': round(avg_protocol_registration, 1),
+                        'avg_open_access': round(avg_open_access, 1),
                     }
                 )
                 
@@ -101,6 +123,12 @@ class Command(BaseCommand):
                     field.total_papers = papers_count
                     field.total_journals = journals_count
                     field.avg_transparency_score = round(avg_transparency, 2)
+                    field.avg_data_sharing = round(avg_data_sharing, 1)
+                    field.avg_code_sharing = round(avg_code_sharing, 1)
+                    field.avg_coi_disclosure = round(avg_coi_disclosure, 1)
+                    field.avg_funding_disclosure = round(avg_funding_disclosure, 1)
+                    field.avg_protocol_registration = round(avg_protocol_registration, 1)
+                    field.avg_open_access = round(avg_open_access, 1)
                     field.save()
                     updated_count += 1
                     self.stdout.write(f"  🔄 Updated: {term} ({papers_count} papers, {journals_count} journals)")

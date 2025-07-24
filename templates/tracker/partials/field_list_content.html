@@ -69,8 +69,32 @@
                             <div class="metric-label">Journals</div>
                         </div>
                         <div class="metric">
-                            <div class="metric-value">{{ field.avg_transparency_score|floatformat:1|default:"0.0" }}<span class="metric-max">/6</span></div>
-                            <div class="metric-label">Transparency</div>
+                            <div class="metric-value transparency-score {% if field.avg_transparency_score >= 4 %}high{% elif field.avg_transparency_score >= 2.5 %}medium{% else %}low{% endif %}">{{ field.avg_transparency_score|floatformat:1|default:"0.0" }}<span class="metric-max">/6</span></div>
+                            <div class="metric-label">Transparency Score</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">{{ field.avg_data_sharing|default:0|floatformat:0 }}%</div>
+                            <div class="metric-label">Open Data</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">{{ field.avg_code_sharing|default:0|floatformat:0 }}%</div>
+                            <div class="metric-label">Open Code</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">{{ field.avg_coi_disclosure|default:0|floatformat:0 }}%</div>
+                            <div class="metric-label">COI Disclosure</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">{{ field.avg_funding_disclosure|default:0|floatformat:0 }}%</div>
+                            <div class="metric-label">Funding Info</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">{{ field.avg_protocol_registration|default:0|floatformat:0 }}%</div>
+                            <div class="metric-label">Registration</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">{{ field.avg_open_access|default:0|floatformat:0 }}%</div>
+                            <div class="metric-label">Open Access</div>
                         </div>
                     </div>
                     
