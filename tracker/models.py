@@ -174,6 +174,8 @@ class Paper(models.Model):
     # Processing flags
     transparency_processed = models.BooleanField(default=False, help_text="Whether transparency indicators have been processed")
     processing_date = models.DateTimeField(null=True, blank=True, help_text="Date when transparency processing was completed")
+    assessment_tool = models.CharField(max_length=50, default='rtransparent', db_index=True, 
+                                     help_text="Tool used for transparency assessment (e.g., rtransparent, manual)")
     
     # System metadata
     created_at = models.DateTimeField(auto_now_add=True)

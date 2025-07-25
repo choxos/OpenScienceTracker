@@ -110,6 +110,7 @@ class PaperSerializer(serializers.ModelSerializer):
             # Processing metadata
             'transparency_processed',
             'processing_date',
+            'assessment_tool',
             'created_at',
             'updated_at'
         ]
@@ -155,6 +156,7 @@ class PaperListSerializer(serializers.ModelSerializer):
             'transparency_score',
             'is_open_access',
             'transparency_processed',
+            'assessment_tool',
             'doi'
         ]
 

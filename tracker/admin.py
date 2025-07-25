@@ -23,10 +23,10 @@ class JournalAdmin(admin.ModelAdmin):
 @admin.register(Paper)
 class PaperAdmin(admin.ModelAdmin):
     list_display = ['epmc_id', 'title_short', 'journal', 'pub_year', 'transparency_score',
-                   'transparency_indicators', 'source', 'transparency_processed', 'created_at']
+                   'transparency_indicators', 'source', 'assessment_tool', 'transparency_processed', 'created_at']
     list_filter = ['pub_year', 'source', 'pub_type', 'is_open_data', 'is_open_code', 'is_coi_pred', 
                   'is_fund_pred', 'is_register_pred', 'is_open_access', 'in_epmc', 'in_pmc', 'has_pdf', 
-                  'transparency_processed', 'journal__country']
+                  'transparency_processed', 'assessment_tool', 'journal__country']
     search_fields = ['epmc_id', 'pmid', 'pmcid', 'doi', 'title', 'author_string', 'journal__title_abbreviation']
     readonly_fields = ['transparency_score', 'transparency_score_pct', 'created_at', 'updated_at']
     date_hierarchy = 'created_at'
@@ -88,7 +88,7 @@ class PaperAdmin(admin.ModelAdmin):
             'classes': ('collapse',)
         }),
         ('Processing Info', {
-            'fields': ('transparency_processed', 'processing_date'),
+            'fields': ('transparency_processed', 'processing_date', 'assessment_tool'),
             'classes': ('collapse',)
         }),
         ('Metadata', {
