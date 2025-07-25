@@ -43,20 +43,23 @@ INSTALLED_APPS = [
     'django_filters',  # For API filtering
     'corsheaders',  # For CORS support
     'drf_spectacular',  # For API documentation
+    'compressor',  # CSS/JS compression
     'tracker',  # Our main OST app
-]
+] + (['debug_toolbar'] if DEBUG else [])  # Debug toolbar for development only
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',  # For serving static files in production
-    'corsheaders.middleware.CorsMiddleware',  # CORS support for API
-    'django.contrib.sessions.middleware.SessionMiddleware',
+    'corsheaders.middleware.CorsMiddleware',  # Must be before CommonMiddleware
+    'django.middleware.cache.UpdateCacheMiddleware',  # Must be first cache middleware
     'django.middleware.common.CommonMiddleware',
+    'django.middleware.cache.FetchFromCacheMiddleware',  # Must be last cache middleware
     'django.middleware.csrf.CsrfViewMiddleware',
+    'django.contrib.sessions.middleware.SessionMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-]
+] + (['debug_toolbar.middleware.DebugToolbarMiddleware'] if DEBUG else [])  # Debug toolbar for development
 
 ROOT_URLCONF = 'ost_web.urls'
 
@@ -144,6 +147,31 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 # Whitenoise static files configuration
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
+# Django Compressor settings for CSS/JS optimization
+COMPRESS_ENABLED = not DEBUG  # Enable compression in production
+COMPRESS_OFFLINE = True  # Pre-compress files during collectstatic
+COMPRESS_CSS_FILTERS = [
+    'compressor.filters.css_default.CssAbsoluteFilter',
+    'compressor.filters.cssmin.rCSSMinFilter',  # Minify CSS
+]
+COMPRESS_JS_FILTERS = [
+    'compressor.filters.jsmin.JSMinFilter',  # Minify JavaScript
+]
+
+# Static file finders including compressor
+STATICFILES_FINDERS = [
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    'compressor.finders.CompressorFinder',  # For django-compressor
+]
+
+# Cache control for static files (1 year for most files)
+WHITENOISE_MAX_AGE = 31536000  # 1 year
+
+# Gzip compression
+WHITENOISE_USE_FINDERS = True
+WHITENOISE_AUTOREFRESH = DEBUG
+
 # Media files
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
@@ -166,12 +194,31 @@ OST_VERSION = '1.0'
 OST_DATA_PATH = BASE_DIR  # Path to CSV data files
 OST_PAGINATION_SIZE = 25
 
-# Cache configuration
+# Caching Configuration - Redis for production, database for development
 CACHES = {
     'default': {
-        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
-        'LOCATION': 'ost-cache',
+        'BACKEND': 'django_redis.cache.RedisCache' if os.environ.get('REDIS_URL') else 'django.core.cache.backends.db.DatabaseCache',
+        'LOCATION': os.environ.get('REDIS_URL', 'cache_table'),
+        'OPTIONS': {
+            'CLIENT_CLASS': 'django_redis.client.DefaultClient',
+            'CONNECTION_POOL_KWARGS': {'max_connections': 50},
+            'SERIALIZER': 'django_redis.serializers.json.JSONSerializer',
+            'COMPRESSOR': 'django_redis.compressors.zlib.ZlibCompressor',
+        } if os.environ.get('REDIS_URL') else {},
+        'TIMEOUT': 60 * 15,  # 15 minutes default
+        'KEY_PREFIX': 'ost',
+        'VERSION': 1,
     }
+}
+
+# Cache timeout settings
+CACHE_TIMEOUTS = {
+    'statistics': 60 * 30,  # 30 minutes for statistics
+    'home_stats': 60 * 15,  # 15 minutes for home page stats
+    'field_stats': 60 * 60,  # 1 hour for field statistics
+    'journal_stats': 60 * 30,  # 30 minutes for journal stats
+    'paper_count': 60 * 10,  # 10 minutes for paper counts
+    'search_results': 60 * 5,  # 5 minutes for search results
 }
 
 # Logging Configuration - VPS Compatible

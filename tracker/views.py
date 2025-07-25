@@ -14,12 +14,14 @@ import json
 import csv
 import pandas as pd
 from datetime import datetime
+from django.core.cache import cache
 
 from .models import Paper, Journal, ResearchField, UserProfile, TransparencyTrend
 from .forms import UserProfileForm, PaperSearchForm, JournalSearchForm
+from .cache_utils import get_home_page_statistics, get_field_statistics, get_search_filter_counts
 
 class HomeView(TemplateView):
-    """Home page with overview statistics"""
+    """Home page with overview statistics - optimized with caching"""
     template_name = 'tracker/home.html'
     
     def get_context_data(self, **kwargs):
@@ -29,44 +31,18 @@ class HomeView(TemplateView):
         year_filter = self.request.GET.get('year_filter', '2000')
         context['year_filter'] = year_filter
         
-        # Apply year filtering to queryset
-        papers_queryset = Paper.objects.all()
-        if year_filter == '2000':
-            papers_queryset = papers_queryset.filter(pub_year__gte=2000)
-        # If year_filter == 'all', use all papers (no additional filter)
+        # Use cached statistics
+        stats = get_home_page_statistics(year_filter)
+        context.update(stats)
         
-        # Optimized statistics with single aggregation query (filtered by year)
-        stats = papers_queryset.aggregate(
-            total_papers=Count('id'),
-            avg_transparency_score=Avg('transparency_score'),
-            open_data_count=Count('id', filter=Q(is_open_data=True)),
-            open_code_count=Count('id', filter=Q(is_open_code=True)),
-            coi_count=Count('id', filter=Q(is_coi_pred=True)),
-            funding_count=Count('id', filter=Q(is_fund_pred=True)),
-            registration_count=Count('id', filter=Q(is_register_pred=True)),
-            open_access_count=Count('id', filter=Q(is_open_access=True))
-        )
+        # Get basic counts that change less frequently
+        cached_counts = get_search_filter_counts()
+        context['total_journals'] = cached_counts['total_journals']
         
-        total_papers = max(stats['total_papers'], 1)
-        context.update({
-            'total_papers': stats['total_papers'],
-            'avg_transparency_score': stats['avg_transparency_score'] or 0,
-            'data_sharing_pct': (stats['open_data_count'] / total_papers) * 100,
-            'code_sharing_pct': (stats['open_code_count'] / total_papers) * 100,
-            'coi_disclosure_pct': (stats['coi_count'] / total_papers) * 100,
-            'funding_disclosure_pct': (stats['funding_count'] / total_papers) * 100,
-            'protocol_registration_pct': (stats['registration_count'] / total_papers) * 100,
-            'open_access_pct': (stats['open_access_count'] / total_papers) * 100
-        })
-        
-        # Optimized counts with single queries
-        context['total_journals'] = Journal.objects.count()
-        
-        # Optimized recent papers and top journals
-        context['recent_papers'] = Paper.objects.select_related('journal').order_by('-created_at')[:5]
-        context['top_journals'] = Journal.objects.annotate(
-            paper_count=Count('papers')
-        ).order_by('-paper_count')[:5]
+        # Research fields summary (cached)
+        fields = get_field_statistics()
+        context['research_fields'] = fields[:6]  # Top 6 for home page
+        context['total_fields'] = len(fields)
         
         return context
 
@@ -106,29 +82,29 @@ class DashboardView(LoginRequiredMixin, TemplateView):
         return context
 
 class PaperListView(ListView):
-    """List view for papers with pagination and filtering"""
+    """List view for papers with pagination and filtering - heavily optimized"""
     model = Paper
     template_name = 'tracker/paper_list.html'
     context_object_name = 'papers'
-    paginate_by = 20  # Reduced from default for better performance
+    paginate_by = 25  # Optimized pagination size
     
     def get_queryset(self):
-        # Use optimized manager for list view
+        # Start with optimized manager for list view
         queryset = Paper.objects.for_list_view()
         
-        # Search optimization - single query with combined search
+        # Search optimization - use single query with combined search
         q = self.request.GET.get('q')
         if q:
-            queryset = queryset.filter(
-                Q(title__icontains=q) |
-                Q(author_string__icontains=q) |
-                Q(journal_title__icontains=q) |
-                Q(pmid__icontains=q) |
-                Q(doi__icontains=q) |
-                Q(journal__title_abbreviation__icontains=q)
-            ).distinct()
+            # Cache search results for common queries
+            cache_key = f"search_results_{hash(q.lower())}_{self.request.GET.urlencode()}"
+            cached_queryset = cache.get(cache_key)
+            
+            if cached_queryset is not None:
+                return cached_queryset
+            
+            queryset = queryset.search(q)  # Use optimized search from manager
         
-        # Optimized filters - combine where possible
+        # Build filters efficiently
         filters = Q()
         
         # Journal filter
@@ -150,6 +126,14 @@ class PaperListView(ListView):
         year = self.request.GET.get('year')
         if year:
             filters &= Q(pub_year=year)
+        
+        # Year range filters
+        year_from = self.request.GET.get('year_from')
+        year_to = self.request.GET.get('year_to')
+        if year_from:
+            filters &= Q(pub_year__gte=year_from)
+        if year_to:
+            filters &= Q(pub_year__lte=year_to)
         
         # Transparency score range
         transparency = self.request.GET.get('transparency')
@@ -184,21 +168,48 @@ class PaperListView(ListView):
         if filters:
             queryset = queryset.filter(filters)
         
-        # Optimized ordering
+        # Optimized ordering with database indexes
         order_by = self.request.GET.get('order_by', '-pub_year')
-        return queryset.order_by(order_by, '-epmc_id')  # Add secondary sort for consistency
+        valid_orders = [
+            'pub_year', '-pub_year', 
+            'transparency_score', '-transparency_score',
+            'title', '-title',
+            'created_at', '-created_at'
+        ]
+        
+        if order_by in valid_orders:
+            queryset = queryset.order_by(order_by, '-epmc_id')  # Add secondary sort
+        else:
+            queryset = queryset.order_by('-pub_year', '-epmc_id')
+        
+        # Cache the filtered queryset for complex searches
+        if q and len(self.request.GET) > 1:  # Multiple filters + search
+            cache.set(cache_key, queryset, 300)  # 5 minutes
+        
+        return queryset
     
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         
-        # Optimized context data with single queries
-        context.update({
-            'available_years': list(Paper.objects.values_list('pub_year', flat=True).distinct().order_by('-pub_year')[:20]),
-            'available_journals': Journal.objects.only('id', 'title_abbreviation').order_by('title_abbreviation')[:100],
-            'available_categories': list(Paper.objects.exclude(broad_subject_term__isnull=True).values_list('broad_subject_term', flat=True).distinct().order_by('broad_subject_term')[:50]),
-            'available_pub_types': list(Paper.objects.exclude(pub_type__isnull=True).exclude(pub_type='').values_list('pub_type', flat=True).distinct().order_by('pub_type')[:20]),
-            'selected_indicators': self.request.GET.getlist('indicators')
-        })
+        # Add search form and filter options
+        context['search_form'] = PaperSearchForm(self.request.GET)
+        
+        # Get filter counts efficiently (cached)
+        filter_data = get_search_filter_counts()
+        context['available_years'] = filter_data['years_available']
+        context['available_subjects'] = filter_data['top_subjects']
+        
+        # Add filter summary for display
+        active_filters = {}
+        if self.request.GET.get('q'):
+            active_filters['search'] = self.request.GET.get('q')
+        if self.request.GET.get('year'):
+            active_filters['year'] = self.request.GET.get('year')
+        if self.request.GET.get('category'):
+            active_filters['category'] = self.request.GET.get('category')
+        
+        context['active_filters'] = active_filters
+        context['total_results'] = self.get_queryset().count() if len(active_filters) > 0 else None
         
         return context
 

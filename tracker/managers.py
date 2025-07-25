@@ -6,218 +6,266 @@ and improve database performance for common operations.
 """
 
 from django.db import models
-from django.db.models import Count, Avg, Q, Prefetch, Case, When, IntegerField
-
+from django.db.models import Count, Avg, Q, Prefetch
+from django.core.cache import cache
+from django.conf import settings
 
 class OptimizedPaperManager(models.Manager):
-    """Manager with optimized querysets for papers"""
+    """Optimized manager for Paper model with intelligent query optimization"""
     
-    def with_journal(self):
-        """Papers with journal data preloaded"""
-        return self.select_related('journal')
+    def get_queryset(self):
+        """Base queryset with common optimizations"""
+        return super().get_queryset().select_related('journal')
     
     def for_list_view(self):
-        """Optimized queryset for list views - only load necessary fields"""
+        """Optimized queryset for list views with minimal data"""
         return self.select_related('journal').only(
-            'pmid', 'title', 'author_string', 'pub_year',
-            'transparency_score', 'is_open_data', 'is_open_code',
-            'is_coi_pred', 'is_fund_pred', 'is_register_pred',
-            # 'is_report_pred', 'is_share_pred',  # Fields don't exist
-            'doi', 'broad_subject_term',
-            'journal__title_abbreviation', 'journal__id', 'journal__title_full'
-        )
-    
-    def for_api_list(self):
-        """Optimized queryset for API list endpoints"""
-        return self.select_related('journal').only(
-            'pmid', 'title', 'author_string', 'pub_year', 'doi',
-            'transparency_score', 'broad_subject_term',
-            'journal__title_abbreviation'
+            # Paper fields needed for list view
+            'epmc_id', 'title', 'author_string', 'pub_year', 'doi',
+            'transparency_score', 'is_open_data', 'is_open_code', 
+            'is_coi_pred', 'is_fund_pred', 'is_register_pred', 'is_open_access',
+            'journal_title', 'created_at',
+            # Journal fields needed
+            'journal__title_abbreviation', 'journal__title_full'
         )
     
     def for_detail_view(self):
-        """Optimized queryset for detail views"""
+        """Optimized queryset for detail views with full data"""
         return self.select_related('journal').prefetch_related(
-            Prefetch('journal__papers', 
-                    queryset=self.get_queryset().only('pmid', 'title', 'pub_year')[:5])
+            'journal__papers'  # For related papers in journal
         )
     
-    def with_calculated_transparency_score(self):
-        """Papers with calculated transparency score using database aggregation"""
+    def with_transparency_scores(self):
+        """Papers with calculated transparency metrics"""
         return self.annotate(
-            calc_transparency_score=Case(
-                When(is_open_data=True, then=1), default=0,
-                output_field=IntegerField()
-            ) + Case(
-                When(is_open_code=True, then=1), default=0,
-                output_field=IntegerField()
-            ) + Case(
-                When(is_coi_pred=True, then=1), default=0,
-                output_field=IntegerField()
-            ) + Case(
-                When(is_fund_pred=True, then=1), default=0,
-                output_field=IntegerField()
-            ) + Case(
-                When(is_register_pred=True, then=1), default=0,
-                output_field=IntegerField()
-            ) + Case(
-                When(is_open_access=True, then=1), default=0,
-                output_field=IntegerField()
-            )
-            # + Case(
-            #     When(is_report_pred=True, then=1), default=0,  # Field doesn't exist
-            #     output_field=IntegerField()
-            # ) + Case(
-            #     When(is_share_pred=True, then=1), default=0,   # Field doesn't exist
-            #     output_field=IntegerField()
-            # )
+            transparency_score_pct=(models.F('transparency_score') * 100.0 / 6.0)
         )
     
-    def recent(self, limit=10):
-        """Get recent papers efficiently"""
-        return self.for_list_view().order_by('-created_at')[:limit]
+    def high_transparency(self, threshold=4):
+        """Papers with high transparency scores"""
+        return self.filter(transparency_score__gte=threshold)
     
-    def by_year(self, year):
-        """Get papers from specific year efficiently"""
-        return self.for_list_view().filter(pub_year=year)
+    def recent_papers(self, years=5):
+        """Papers published in recent years"""
+        from django.utils import timezone
+        current_year = timezone.now().year
+        return self.filter(pub_year__gte=current_year - years)
     
-    def high_transparency(self, min_score=5):
-        """Get papers with high transparency scores"""
-        return self.with_calculated_transparency_score().filter(
-            calc_transparency_score__gte=min_score
-        )
+    def by_year_range(self, start_year=None, end_year=None):
+        """Filter papers by year range"""
+        queryset = self.get_queryset()
+        if start_year:
+            queryset = queryset.filter(pub_year__gte=start_year)
+        if end_year:
+            queryset = queryset.filter(pub_year__lte=end_year)
+        return queryset
+    
+    def with_open_data(self):
+        """Papers with open data"""
+        return self.filter(is_open_data=True)
+    
+    def with_open_code(self):
+        """Papers with open code"""
+        return self.filter(is_open_code=True)
+    
+    def transparent_papers(self):
+        """Papers meeting multiple transparency criteria"""
+        return self.filter(
+            Q(is_open_data=True) | 
+            Q(is_open_code=True) | 
+            Q(is_coi_pred=True) |
+            Q(is_fund_pred=True)
+        ).distinct()
     
     def search(self, query):
-        """Optimized search across papers"""
-        return self.for_list_view().filter(
+        """Optimized full-text search"""
+        if not query:
+            return self.none()
+        
+        # Cache search results for common queries
+        cache_key = f"search_{hash(query.lower())}"
+        cached_ids = cache.get(cache_key)
+        
+        if cached_ids is not None:
+            return self.filter(id__in=cached_ids)
+        
+        # Perform search
+        results = self.filter(
             Q(title__icontains=query) |
             Q(author_string__icontains=query) |
+            Q(journal_title__icontains=query) |
             Q(pmid__icontains=query) |
             Q(doi__icontains=query) |
             Q(journal__title_abbreviation__icontains=query) |
             Q(journal__title_full__icontains=query)
         ).distinct()
-
+        
+        # Cache the IDs for 5 minutes
+        result_ids = list(results.values_list('id', flat=True))
+        cache.set(cache_key, result_ids, 300)
+        
+        return results
+    
+    def statistics_aggregate(self):
+        """Get comprehensive statistics in a single query"""
+        return self.aggregate(
+            total=Count('id'),
+            avg_transparency=Avg('transparency_score'),
+            open_data_count=Count('id', filter=Q(is_open_data=True)),
+            open_code_count=Count('id', filter=Q(is_open_code=True)),
+            coi_count=Count('id', filter=Q(is_coi_pred=True)),
+            funding_count=Count('id', filter=Q(is_fund_pred=True)),
+            registration_count=Count('id', filter=Q(is_register_pred=True)),
+            open_access_count=Count('id', filter=Q(is_open_access=True)),
+        )
 
 class OptimizedJournalManager(models.Manager):
-    """Manager with optimized querysets for journals"""
+    """Optimized manager for Journal model"""
     
-    def with_paper_counts(self):
-        """Journals with paper counts and transparency stats annotated"""
-        return self.annotate(
+    def get_queryset(self):
+        """Base queryset with paper statistics"""
+        return super().get_queryset().annotate(
             paper_count=Count('papers'),
-            avg_transparency=Avg('papers__transparency_score'),
-            open_data_count=Count('papers', filter=Q(papers__is_open_data=True)),
-            open_code_count=Count('papers', filter=Q(papers__is_open_code=True)),
-            coi_count=Count('papers', filter=Q(papers__is_coi_pred=True)),
-            funding_count=Count('papers', filter=Q(papers__is_fund_pred=True))
+            avg_transparency_score=Avg('papers__transparency_score')
         )
     
-    def for_list_view(self):
-        """Optimized queryset for journal list views"""
-        return self.with_paper_counts().only(
-            'id', 'title_abbreviation', 'title_full', 
-            'publisher', 'country', 'issn_print', 'issn_electronic'
-        ).filter(paper_count__gt=0)  # Only journals with papers
+    def with_papers(self):
+        """Journals that have papers"""
+        return self.filter(paper_count__gt=0)
     
-    def for_api_list(self):
-        """Optimized queryset for API list endpoints"""
-        return self.with_paper_counts().only(
-            'id', 'title_abbreviation', 'title_full', 
-            'publisher', 'country'
-        )
-    
-    def for_detail_view(self):
-        """Optimized queryset for journal detail views"""
-        return self.prefetch_related(
-            Prefetch('papers', 
-                    queryset=models.Q(papers__isnull=False).only(
-                        'pmid', 'title', 'pub_year', 'transparency_score',
-                        'is_open_data', 'is_open_code', 'is_coi_pred'
-                    ))
-        )
-    
-    def top_by_papers(self, limit=10):
+    def top_journals(self, limit=50):
         """Top journals by paper count"""
-        return self.with_paper_counts().filter(
-            paper_count__gt=0
-        ).order_by('-paper_count')[:limit]
+        return self.with_papers().order_by('-paper_count')[:limit]
     
-    def by_country(self, country):
-        """Journals from specific country"""
-        return self.for_list_view().filter(country__icontains=country)
-    
-    def by_publisher(self, publisher):
-        """Journals from specific publisher"""
-        return self.for_list_view().filter(publisher__icontains=publisher)
-    
-    def with_subject(self, subject):
-        """Journals containing specific subject term"""
-        return self.for_list_view().filter(broad_subject_terms__icontains=subject)
+    def by_subject(self, subject):
+        """Journals by subject area"""
+        return self.filter(broad_subject_terms__icontains=subject)
     
     def search(self, query):
-        """Optimized search across journals"""
-        return self.for_list_view().filter(
+        """Search journals by title or publisher"""
+        if not query:
+            return self.none()
+        
+        return self.filter(
             Q(title_abbreviation__icontains=query) |
             Q(title_full__icontains=query) |
-            Q(publisher__icontains=query) |
-            Q(broad_subject_terms__icontains=query)
-        ).distinct()
-
+            Q(publisher__icontains=query)
+        )
 
 class OptimizedResearchFieldManager(models.Manager):
-    """Manager with optimized querysets for research fields"""
+    """Optimized manager for ResearchField model"""
     
-    def with_statistics(self):
-        """Research fields with computed statistics"""
-        return self.annotate(
-            related_papers_count=Count('papers', distinct=True),
-            avg_transparency=Avg('papers__transparency_score')
-        )
+    def get_queryset(self):
+        """Base queryset ordered by activity"""
+        return super().get_queryset().order_by('-total_papers', 'name')
     
     def active_fields(self):
-        """Research fields that have associated papers"""
-        return self.with_statistics().filter(related_papers_count__gt=0)
+        """Fields with papers"""
+        return self.filter(total_papers__gt=0)
     
     def top_fields(self, limit=20):
         """Top research fields by paper count"""
-        return self.with_statistics().filter(
-            related_papers_count__gt=0
-        ).order_by('-related_papers_count')[:limit]
-
-
-# Mixin for adding optimized methods to existing managers
-class PerformanceOptimizationMixin:
-    """Mixin to add performance optimization methods to existing managers"""
+        return self.active_fields()[:limit]
     
-    def bulk_create_optimized(self, objs, batch_size=1000, ignore_conflicts=False):
-        """Optimized bulk create with better batch size"""
-        return self.bulk_create(
-            objs, 
-            batch_size=batch_size,
-            ignore_conflicts=ignore_conflicts
+    def with_transparency_averages(self):
+        """Fields with transparency indicator averages"""
+        return self.exclude(
+            avg_transparency_score__isnull=True
+        ).exclude(
+            avg_transparency_score=0
         )
+
+# Performance monitoring manager
+class PerformanceQueryManager(models.Manager):
+    """Manager for tracking query performance"""
     
-    def bulk_update_optimized(self, objs, fields, batch_size=1000):
-        """Optimized bulk update with better batch size"""
-        return self.bulk_update(objs, fields, batch_size=batch_size)
+    def slow_queries(self):
+        """Identify potentially slow queries - development helper"""
+        from django.db import connection
+        if hasattr(connection, 'queries'):
+            slow_queries = [
+                q for q in connection.queries 
+                if float(q.get('time', 0)) > 0.1  # > 100ms
+            ]
+            return slow_queries
+        return []
     
-    def iterator_chunked(self, chunk_size=2000):
-        """Memory-efficient iteration over large querysets"""
-        return self.iterator(chunk_size=chunk_size)
+    def query_count(self):
+        """Get total query count for current request"""
+        from django.db import connection
+        return len(connection.queries) if hasattr(connection, 'queries') else 0
 
+# Bulk operations manager
+class BulkOperationsManager(models.Manager):
+    """Manager for efficient bulk operations"""
+    
+    def bulk_create_optimized(self, objects, batch_size=1000, ignore_conflicts=True):
+        """Optimized bulk create with batching"""
+        results = []
+        for i in range(0, len(objects), batch_size):
+            batch = objects[i:i + batch_size]
+            results.extend(
+                self.bulk_create(batch, ignore_conflicts=ignore_conflicts)
+            )
+        return results
+    
+    def bulk_update_optimized(self, objects, fields, batch_size=1000):
+        """Optimized bulk update with batching"""
+        for i in range(0, len(objects), batch_size):
+            batch = objects[i:i + batch_size]
+            self.bulk_update(batch, fields)
+    
+    def batch_delete(self, queryset, batch_size=1000):
+        """Delete records in batches to avoid memory issues"""
+        while True:
+            batch_ids = list(
+                queryset.values_list('pk', flat=True)[:batch_size]
+            )
+            if not batch_ids:
+                break
+            self.filter(pk__in=batch_ids).delete()
 
-# Combined managers for models
-class PaperManager(OptimizedPaperManager, PerformanceOptimizationMixin):
-    """Combined paper manager with all optimizations"""
-    pass
+# Cache invalidation manager
+class CacheManager:
+    """Manager for cache operations related to models"""
+    
+    @staticmethod
+    def invalidate_paper_caches():
+        """Invalidate caches when papers are modified"""
+        from .cache_utils import invalidate_stats_cache
+        invalidate_stats_cache()
+    
+    @staticmethod
+    def invalidate_journal_caches():
+        """Invalidate caches when journals are modified"""
+        cache.delete_many([
+            'journal_stats_*',
+            'home_stats_*',
+            'search_counts_*'
+        ])
+    
+    @staticmethod
+    def warm_common_caches():
+        """Warm up commonly accessed caches"""
+        from .cache_utils import warm_cache
+        warm_cache()
 
+# Signal handlers for cache invalidation
+from django.db.models.signals import post_save, post_delete
+from django.dispatch import receiver
 
-class JournalManager(OptimizedJournalManager, PerformanceOptimizationMixin):
-    """Combined journal manager with all optimizations"""
-    pass
+@receiver([post_save, post_delete], sender='tracker.Paper')
+def invalidate_paper_cache(sender, **kwargs):
+    """Invalidate paper-related caches when papers change"""
+    CacheManager.invalidate_paper_caches()
 
+@receiver([post_save, post_delete], sender='tracker.Journal') 
+def invalidate_journal_cache(sender, **kwargs):
+    """Invalidate journal-related caches when journals change"""
+    CacheManager.invalidate_journal_caches()
 
-class ResearchFieldManager(OptimizedResearchFieldManager, PerformanceOptimizationMixin):
-    """Combined research field manager with all optimizations"""
-    pass 
+@receiver([post_save, post_delete], sender='tracker.ResearchField')
+def invalidate_field_cache(sender, **kwargs):
+    """Invalidate field-related caches when fields change"""
+    from .cache_utils import invalidate_stats_cache
+    invalidate_stats_cache() 

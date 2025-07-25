@@ -187,21 +187,63 @@ class Paper(models.Model):
     class Meta:
         ordering = ['-pub_year', 'title']
         indexes = [
+            # Primary identifiers
             models.Index(fields=['epmc_id']),
             models.Index(fields=['pmid']),
             models.Index(fields=['pmcid']),
             models.Index(fields=['doi']),
+            
+            # Publication metadata (most common filters)
             models.Index(fields=['pub_year']),
             models.Index(fields=['journal_title']),
-            models.Index(fields=['is_open_access']),
+            models.Index(fields=['source']),
+            models.Index(fields=['assessment_tool']),
+            
+            # Transparency indicators (heavily queried)
             models.Index(fields=['transparency_score']),
+            models.Index(fields=['is_open_access']),
             models.Index(fields=['is_open_data']),
             models.Index(fields=['is_open_code']),
             models.Index(fields=['is_coi_pred']),
             models.Index(fields=['is_fund_pred']),
             models.Index(fields=['is_register_pred']),
             models.Index(fields=['transparency_processed']),
+            
+            # Subject and categorization
+            models.Index(fields=['broad_subject_term']),
+            models.Index(fields=['broad_subject_category']),
+            models.Index(fields=['pub_type']),
+            
+            # Journal relationships
+            models.Index(fields=['journal_id']),
+            models.Index(fields=['journal_issn']),
+            
+            # Search optimization
+            models.Index(fields=['title']),  # For title searches
+            models.Index(fields=['author_string']),  # For author searches
+            
+            # Date and processing
+            models.Index(fields=['created_at']),
+            models.Index(fields=['first_publication_date']),
+            models.Index(fields=['processing_date']),
+            
+            # Composite indexes for common query patterns
+            models.Index(fields=['pub_year', 'transparency_score']),  # Year + transparency filters
+            models.Index(fields=['journal_id', 'pub_year']),  # Journal + year
+            models.Index(fields=['broad_subject_term', 'transparency_score']),  # Subject + transparency
+            models.Index(fields=['source', 'assessment_tool']),  # Source tracking
+            models.Index(fields=['transparency_processed', 'assessment_tool']),  # Processing status
+            models.Index(fields=['pub_year', 'is_open_data', 'is_open_code']),  # Transparency trends
+            models.Index(fields=['journal_id', 'transparency_score', 'pub_year']),  # Journal analysis
+            
+            # Full-text search support (for PostgreSQL)
+            # models.Index(fields=['title', 'author_string']),  # Enable if using PostgreSQL
         ]
+        
+        # Database table options for performance
+        db_table = 'tracker_paper'
+        verbose_name = 'Research Paper'
+        verbose_name_plural = 'Research Papers'
     
     def __str__(self):
         return f"{self.title[:50]} ({self.pub_year})"
