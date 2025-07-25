@@ -124,38 +124,46 @@ class Command(BaseCommand):
 
     def get_or_create_journal_safe(self, journal_title, journal_issn=None):
         """PostgreSQL-safe journal creation without FOR UPDATE issues"""
-        if not journal_title or not journal_title.strip():
+        if not journal_title or not str(journal_title).strip():
             return None, False
             
         journal_title = str(journal_title).strip()
         journal_issn = str(journal_issn).strip() if journal_issn else None
         
-        # Try to get existing journal first
+        # Try to get existing journal first (outside atomic block)
         try:
             journal = Journal.objects.get(title_full=journal_title)
             return journal, False
         except Journal.DoesNotExist:
             pass
         
-        # Create new journal in atomic transaction
-        with transaction.atomic():
-            try:
+        # Create new journal in atomic transaction with proper error handling
+        try:
+            with transaction.atomic():
                 journal = Journal.objects.create(
                     title_full=journal_title,
-                    title_abbreviation=journal_title[:50] if len(journal_title) > 50 else journal_title,
+                    title_abbreviation=journal_title[:100],
                     issn_print=journal_issn,
                 )
                 return journal, True
-            except IntegrityError:
-                # Another process created it, get the existing one
+        except IntegrityError:
+            # Another process created it, get the existing one
+            try:
                 journal = Journal.objects.get(title_full=journal_title)
                 return journal, False
+            except Journal.DoesNotExist:
+                # If still not found, return None to avoid further errors
+                return None, False
+        except Exception as e:
+            # Log the error and return None to continue processing other rows
+            logger.error(f"Error creating journal '{journal_title}': {str(e)}")
+            return None, False
 
     def update_or_create_paper_safe(self, epmc_id, paper_data):
         """PostgreSQL-safe paper creation without FOR UPDATE issues"""
         epmc_id = str(epmc_id).strip()
         
-        # Try to get existing paper first
+        # Try to get existing paper first (outside atomic block)
         try:
             paper = Paper.objects.get(epmc_id=epmc_id)
             # Update existing paper
@@ -166,18 +174,27 @@ class Command(BaseCommand):
         except Paper.DoesNotExist:
             pass
         
-        # Create new paper in atomic transaction
-        with transaction.atomic():
-            try:
+        # Create new paper in atomic transaction with proper error handling
+        try:
+            with transaction.atomic():
                 paper = Paper.objects.create(epmc_id=epmc_id, **paper_data)
                 return paper, True
-            except IntegrityError:
-                # Another process created it, update the existing one
+        except IntegrityError:
+            # Another process created it, try to update the existing one
+            try:
                 paper = Paper.objects.get(epmc_id=epmc_id)
                 for field, value in paper_data.items():
                     setattr(paper, field, value)
                 paper.save()
                 return paper, False
+            except Paper.DoesNotExist:
+                # If still not found, return None to avoid further errors
+                logger.error(f"Paper with epmc_id '{epmc_id}' not found after creation attempt")
+                return None, False
+        except Exception as e:
+            # Log the error and return None to continue processing other rows
+            logger.error(f"Error creating paper '{epmc_id}': {str(e)}")
+            return None, False
 
     def process_epmc_file(self, file_path):
         """Process a single EPMC CSV file"""
@@ -240,10 +257,16 @@ class Command(BaseCommand):
                     row['id'], paper_data
                 )
                 
+                # Skip if paper creation/update failed
+                if paper is None:
+                    errors += 1
+                    continue
+                
                 if created:
                     papers_created += 1
                 else:
                     papers_updated += 1
+                processed += 1
                     
             except Exception as e:
                 errors += 1
