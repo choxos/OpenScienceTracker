@@ -211,7 +211,6 @@ class Paper(models.Model):
             
             # Subject and categorization
             models.Index(fields=['broad_subject_term']),
-            models.Index(fields=['broad_subject_category']),
             models.Index(fields=['pub_type']),
             
             # Journal relationships
