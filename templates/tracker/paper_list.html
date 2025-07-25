@@ -1,5 +1,6 @@
 {% extends "tracker/base.html" %}
 {% load static %}
+{% load ost_filters %}
 
 {% block title %}Papers - Open Science Tracker{% endblock %}
 
@@ -543,7 +544,7 @@
                                     <i class="fas fa-user me-1"></i>
                                     {% if paper.author_string %}
                                         <a href="{% url 'tracker:paper_list' %}?q={{ paper.author_string|slice:":50"|urlencode }}" class="text-decoration-none fw-medium">
-                                            {{ paper.author_string|truncatechars:50 }}
+                                            {{ paper.author_string|safe_display }}
                                         </a>
                                     {% else %}
                                         <span class="text-muted">Unknown Author</span>
