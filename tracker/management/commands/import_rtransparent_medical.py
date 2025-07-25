@@ -212,7 +212,7 @@ class Command(BaseCommand):
                     'author_string': self.clean_field(row.get('authorString')),
                     'journal_title': self.clean_field(row.get('journalTitle')) or 'Unknown Journal',
                     'journal_issn': self.clean_field(row.get('journalIssn')),
-                    'pub_year': pub_year or 2020,
+                    'pub_year': pub_year,  # Remove 2020 fallback - let None be None for missing dates
                     'first_publication_date': self.clean_date(row.get('firstPublicationDate')),
                     'journal_volume': self.clean_varchar(row.get('journalVolume'), 20),
                     'page_info': self.clean_varchar(row.get('pageInfo'), 50),
