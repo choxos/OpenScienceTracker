@@ -186,9 +186,9 @@ class Command(BaseCommand):
 
     def process_epmc_chunk(self, chunk, update_existing):
         """Process chunk for EPMC format"""
-        processed = created = updated = errors = 0
+        processed, created, updated, errors = 0, 0, 0, 0  # Initialize counters
         
-        for _, row in chunk.iterrows():
+        for index, row in chunk.iterrows():
             try:
                 # Get journal
                 journal = None
@@ -262,16 +262,16 @@ class Command(BaseCommand):
                 
             except Exception as e:
                 errors += 1
-                logger.error(f"Error processing EPMC row {processed}: {str(e)}")
+                logger.error(f"Error processing EPMC row {index} with ID {row.get('id', 'unknown')}: {str(e)}")
                 continue
         
         return processed, created, updated, errors
 
     def process_basic_chunk(self, chunk, update_existing):
         """Process chunk for basic format"""
-        processed = created = updated = errors = 0
+        processed, created, updated, errors = 0, 0, 0, 0  # Initialize counters
         
-        for _, row in chunk.iterrows():
+        for index, row in chunk.iterrows():
             try:
                 # Get journal
                 journal = None
@@ -324,16 +324,16 @@ class Command(BaseCommand):
                 
             except Exception as e:
                 errors += 1
-                logger.error(f"Error processing basic row {processed}: {str(e)}")
+                logger.error(f"Error processing basic row {index} with ID {row.get('pmid', 'unknown')}: {str(e)}")
                 continue
         
         return processed, created, updated, errors
 
     def process_comprehensive_chunk(self, chunk, update_existing):
         """Process chunk for comprehensive format (indicators_all.csv)"""
-        processed = created = updated = errors = 0
+        processed, created, updated, errors = 0, 0, 0, 0  # Initialize counters
         
-        for _, row in chunk.iterrows():
+        for index, row in chunk.iterrows():
             try:
                 # Get journal
                 journal = None
@@ -395,7 +395,7 @@ class Command(BaseCommand):
                 
             except Exception as e:
                 errors += 1
-                logger.error(f"Error processing comprehensive row {processed}: {str(e)}")
+                logger.error(f"Error processing comprehensive row {index} with ID {row.get('pmcid_pmc', 'unknown')}: {str(e)}")
                 continue
         
         return processed, created, updated, errors
