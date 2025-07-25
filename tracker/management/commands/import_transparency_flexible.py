@@ -114,30 +114,41 @@ class Command(BaseCommand):
         self.stdout.write(f"Total columns: {len(columns)}")
 
     def get_or_create_journal_safe(self, journal_title, journal_issn=None):
-        """PostgreSQL-safe journal creation"""
+        """PostgreSQL-safe journal creation without FOR UPDATE issues"""
         if not journal_title or not str(journal_title).strip():
             return None, False
             
         journal_title = str(journal_title).strip()
-        journal_issn = str(journal_issn).strip() if journal_issn else None
+        journal_issn = str(journal_issn).strip()[:20] if journal_issn else None
         
+        # Try to get existing journal first (outside atomic block)
         try:
             journal = Journal.objects.get(title_full=journal_title)
             return journal, False
         except Journal.DoesNotExist:
             pass
         
-        with transaction.atomic():
-            try:
+        # Create new journal in atomic transaction with proper error handling
+        try:
+            with transaction.atomic():
                 journal = Journal.objects.create(
                     title_full=journal_title,
                     title_abbreviation=journal_title[:100],
                     issn_print=journal_issn,
                 )
                 return journal, True
-            except IntegrityError:
+        except IntegrityError:
+            # Another process created it, get the existing one
+            try:
                 journal = Journal.objects.get(title_full=journal_title)
                 return journal, False
+            except Journal.DoesNotExist:
+                # If still not found, return None to avoid further errors
+                return None, False
+        except Exception as e:
+            # Log the error and return None to continue processing other rows
+            logger.error(f"Error creating journal '{journal_title}': {str(e)}")
+            return None, False
 
     def process_epmc_format(self, file_path, batch_size, update_existing):
         """Process EPMC format (transparency_1900_01.csv style)"""
@@ -254,6 +265,11 @@ class Command(BaseCommand):
 
                 paper, is_created = self.update_or_create_paper_safe(row['id'], paper_data, update_existing)
                 
+                # Skip if paper creation/update failed
+                if paper is None:
+                    errors += 1
+                    continue
+                
                 if is_created:
                     created += 1
                 else:
@@ -315,6 +331,11 @@ class Command(BaseCommand):
                     continue
 
                 paper, is_created = self.update_or_create_paper_safe(identifier, paper_data, update_existing)
+                
+                # Skip if paper creation/update failed
+                if paper is None:
+                    errors += 1
+                    continue
                 
                 if is_created:
                     created += 1
@@ -387,6 +408,11 @@ class Command(BaseCommand):
 
                 paper, is_created = self.update_or_create_paper_safe(identifier, paper_data, update_existing)
                 
+                # Skip if paper creation/update failed
+                if paper is None:
+                    errors += 1
+                    continue
+                
                 if is_created:
                     created += 1
                 else:
@@ -401,47 +427,74 @@ class Command(BaseCommand):
         return processed, created, updated, errors
 
     def update_or_create_paper_safe(self, identifier, paper_data, update_existing):
-        """PostgreSQL-safe paper creation"""
+        """PostgreSQL-safe paper creation without FOR UPDATE issues"""
         identifier = str(identifier).strip()
         
-        # Try multiple fields to find existing paper
+        # Try to get existing paper first (outside atomic block)
         existing_paper = None
-        for field in ['epmc_id', 'pmid', 'pmcid', 'doi']:
-            if paper_data.get(field.replace('epmc_id', 'source')):  # Map epmc_id to source for search
-                try:
-                    existing_paper = Paper.objects.get(**{field: identifier})
-                    break
-                except Paper.DoesNotExist:
-                    continue
         
+        # Try by epmc_id first
+        if 'epmc_id' in paper_data and paper_data['epmc_id']:
+            try:
+                existing_paper = Paper.objects.get(epmc_id=paper_data['epmc_id'])
+            except Paper.DoesNotExist:
+                pass
+        
+        # Try by other identifiers if epmc_id didn't work
+        if not existing_paper:
+            for field_name, field_value in [('pmid', paper_data.get('pmid')), 
+                                          ('pmcid', paper_data.get('pmcid')), 
+                                          ('doi', paper_data.get('doi'))]:
+                if field_value:
+                    try:
+                        existing_paper = Paper.objects.get(**{field_name: field_value})
+                        break
+                    except Paper.DoesNotExist:
+                        continue
+        
+        # Update existing paper
         if existing_paper:
             if update_existing:
-                for field, value in paper_data.items():
-                    setattr(existing_paper, field, value)
-                existing_paper.save()
+                try:
+                    for field, value in paper_data.items():
+                        setattr(existing_paper, field, value)
+                    existing_paper.save()
+                except Exception as e:
+                    logger.error(f"Error updating paper '{identifier}': {str(e)}")
+                    return existing_paper, False
             return existing_paper, False
         
-        # Create new paper
-        with transaction.atomic():
-            try:
-                # Set appropriate ID field
-                if 'pmid' in paper_data and paper_data['pmid']:
-                    paper_data['epmc_id'] = paper_data['pmid']
-                elif 'pmcid' in paper_data and paper_data['pmcid']:
-                    paper_data['epmc_id'] = paper_data['pmcid']
-                else:
-                    paper_data['epmc_id'] = identifier
+        # Create new paper in atomic transaction with proper error handling
+        try:
+            with transaction.atomic():
+                # Set appropriate epmc_id if not already set
+                if 'epmc_id' not in paper_data or not paper_data['epmc_id']:
+                    if paper_data.get('pmid'):
+                        paper_data['epmc_id'] = paper_data['pmid']
+                    elif paper_data.get('pmcid'):
+                        paper_data['epmc_id'] = paper_data['pmcid']
+                    else:
+                        paper_data['epmc_id'] = identifier
                 
                 paper = Paper.objects.create(**paper_data)
                 return paper, True
-            except IntegrityError:
-                # Handle race condition
+        except IntegrityError:
+            # Another process created it, try to get the existing one
+            try:
                 existing_paper = Paper.objects.get(epmc_id=paper_data['epmc_id'])
                 if update_existing:
                     for field, value in paper_data.items():
                         setattr(existing_paper, field, value)
                     existing_paper.save()
                 return existing_paper, False
+            except Paper.DoesNotExist:
+                # If still not found, return None to avoid further errors
+                logger.error(f"Paper with epmc_id '{paper_data['epmc_id']}' not found after creation attempt")
+                return None, False
+        except Exception as e:
+            # Log the error and return None to continue processing other rows
+            logger.error(f"Error creating paper '{identifier}': {str(e)}")
+            return None, False
 
     def extract_year(self, date_value):
         """Extract year from various date formats"""
