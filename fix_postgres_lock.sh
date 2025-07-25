@@ -43,20 +43,39 @@ log_info "Step 1: Checking PostgreSQL database configuration..."
 cd /var/www/ost
 source ost_env/bin/activate
 
-DB_INFO=$(python manage.py shell -c "
+# Try multiple methods to get database configuration
+log_info "Attempting to get database configuration..."
+
+# Method 1: Direct Django shell with explicit commands
+DB_INFO=$(python -c "
+import os
+import sys
+import django
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ost_web.settings')
+django.setup()
 from django.conf import settings
 db = settings.DATABASES['default']
-print(f\"{db['NAME']}|{db['USER']}|{db['HOST']}|{db['PORT']}\")
-" 2>/dev/null)
+print('{}|{}|{}|{}'.format(db['NAME'], db['USER'], db['HOST'], db['PORT']))
+" 2>/dev/null | tail -1)
 
-if [ -z "$DB_INFO" ]; then
-    log_warning "Could not get database configuration from Django (likely missing dependencies like django-compressor)"
-    log_info "Using fallback PostgreSQL configuration..."
+# Method 2: If method 1 fails, try with manage.py but suppress verbose output
+if [ -z "$DB_INFO" ] || [[ "$DB_INFO" == *"objects imported"* ]]; then
+    DB_INFO=$(python manage.py shell --verbosity=0 -c "
+from django.conf import settings
+db = settings.DATABASES['default']
+print('{}|{}|{}|{}'.format(db['NAME'], db['USER'], db['HOST'], db['PORT']))
+" 2>/dev/null | grep -E '^[^|]*\|[^|]*\|[^|]*\|[^|]*$' | head -1)
+fi
+
+# Method 3: Fallback to known configuration
+if [ -z "$DB_INFO" ] || [[ "$DB_INFO" == *"objects imported"* ]] || [[ "$DB_INFO" != *"|"* ]]; then
+    log_warning "Could not get database configuration from Django (output: '$DB_INFO')"
+    log_info "Using fallback PostgreSQL configuration for ost_production..."
     DB_NAME="ost_production"
     DB_USER="postgres"
     DB_HOST="localhost"
     DB_PORT="5432"
-    log_info "Note: Installing missing dependencies with pip install -r requirements.txt may be needed"
+    log_info "Note: Installing missing dependencies or checking Django settings may be needed"
 else
     IFS='|' read -r DB_NAME DB_USER DB_HOST DB_PORT <<< "$DB_INFO"
 fi
