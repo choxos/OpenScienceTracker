@@ -66,17 +66,17 @@ class Command(BaseCommand):
             journal_data = {
                 'title_full': str(row['title_full']).strip(),
                 'title_abbreviation': str(row.get('title_abbreviation', row['title_full'])).strip()[:100],
-                'nlm_id': str(row.get('nlm_id', '')).strip() or None,
-                'broad_subject_terms': str(row.get('broad_subject_term', '')).strip() or None,
-                'country': str(row.get('country', '')).strip()[:100] or None,
-                'publisher': str(row.get('publisher', '')).strip()[:500] or None,
+                'nlm_id': self.safe_string(row.get('nlm_id'))[:50] if self.safe_string(row.get('nlm_id')) else None,
+                'broad_subject_terms': self.safe_string(row.get('broad_subject_term')),
+                'country': self.safe_string(row.get('country'), max_length=100),
+                'publisher': self.safe_string(row.get('publisher'), max_length=500),
                 'publication_start_year': self.safe_int(row.get('publication_start_year')),
                 'publication_end_year': self.safe_int(row.get('publication_end_year')),
                 'issn_electronic': self.clean_issn(row.get('issn_electronic')),
                 'issn_print': self.clean_issn(row.get('issn_print')),
                 'issn_linking': self.clean_issn(row.get('issn_linking')),
-                'indexing_status': str(row.get('indexing_status', '')).strip()[:200] or None,
-                'language': str(row.get('language', '')).strip()[:100] or None,
+                'indexing_status': self.safe_string(row.get('indexing_status'), max_length=200),
+                'language': self.safe_string(row.get('language'), max_length=100),
             }
             
             if not self.dry_run:
@@ -211,6 +211,19 @@ class Command(BaseCommand):
             return int(float(value))
         except (ValueError, TypeError):
             return None
+
+    def safe_string(self, value, max_length=None):
+        """Safely convert to string and handle pandas NaN values"""
+        if pd.isna(value) or value is None:
+            return None
+        
+        string_val = str(value).strip()
+        if string_val.lower() == 'nan' or not string_val:
+            return None
+            
+        if max_length:
+            return string_val[:max_length]
+        return string_val
 
     def show_summary(self, journals_created, journals_updated, papers_linked):
         """Show final summary of the operation"""
