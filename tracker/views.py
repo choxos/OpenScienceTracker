@@ -13,7 +13,7 @@ from django.conf import settings
 import json
 import csv
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, date, timedelta
 from django.core.cache import cache
 
 from .models import Paper, Journal, ResearchField, UserProfile, TransparencyTrend
@@ -22,7 +22,7 @@ from .cache_utils import get_home_page_statistics, get_field_statistics, get_sea
 
 class HomeView(TemplateView):
     """Home page with overview statistics - optimized with caching"""
-    template_name = 'tracker/home.html'
+    template_name = 'tracker/home_enhanced.html'  # Use the new enhanced template
     
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
@@ -31,20 +31,83 @@ class HomeView(TemplateView):
         year_filter = self.request.GET.get('year_filter', '2000')
         context['year_filter'] = year_filter
         
-        # Use cached statistics
+        # Use cached statistics for transparency overview
         stats = get_home_page_statistics(year_filter)
         context.update(stats)
         
         # Get basic counts that change less frequently
         cached_counts = get_search_filter_counts()
         context['total_journals'] = cached_counts['total_journals']
+        context['journal_count'] = cached_counts['total_journals']  # For enhanced template
         
         # Research fields summary (cached)
         fields = get_field_statistics()
-        context['research_fields'] = fields[:6]  # Top 6 for home page
+        context['research_fields'] = fields[:8]  # More fields for enhanced template
         context['total_fields'] = len(fields)
+        context['field_count'] = len(fields)  # For enhanced template
+        
+        # Additional data for enhanced template
+        context.update(self.get_enhanced_context_data(year_filter))
         
         return context
+    
+    def get_enhanced_context_data(self, year_filter):
+        """Get additional context data for the enhanced template"""
+        from .models import Paper, Journal
+        
+        # Get recent papers (last 10)
+        recent_papers_queryset = Paper.objects.filter(transparency_processed=True).order_by('-updated_at')
+        if year_filter == '2000':
+            recent_papers_queryset = recent_papers_queryset.filter(pub_year__gte=2000)
+        recent_papers = recent_papers_queryset[:10]
+        
+        # Get top journals by paper count and transparency score
+        top_journals = Journal.objects.annotate(
+            paper_count=Count('papers'),
+            avg_transparency_score=Avg('papers__transparency_score')
+        ).filter(
+            paper_count__gt=0,
+            avg_transparency_score__isnull=False
+        ).order_by('-avg_transparency_score', '-paper_count')[:8]
+        
+        # Calculate transparency coverage
+        total_papers = Paper.objects.count()
+        transparency_processed = Paper.objects.filter(transparency_processed=True).count()
+        transparency_coverage = (transparency_processed / max(total_papers, 1)) * 100
+        
+        # Database health metrics
+        current_year = date.today().year
+        recent_years = [current_year - i for i in range(5)]  # Last 5 years
+        papers_in_recent_years = Paper.objects.filter(pub_year__in=recent_years).count()
+        year_coverage_pct = (papers_in_recent_years / max(total_papers, 1)) * 100
+        
+        # Data completeness (papers with complete metadata)
+        complete_papers = Paper.objects.filter(
+            title__isnull=False,
+            author_string__isnull=False,
+            pub_year__isnull=False,
+            journal__isnull=False
+        ).exclude(
+            title='Title not available'
+        ).exclude(
+            author_string='Unknown Author'
+        ).count()
+        data_completeness_pct = (complete_papers / max(total_papers, 1)) * 100
+        
+        return {
+            'recent_papers': recent_papers,
+            'top_journals': top_journals,
+            'transparency_coverage': round(transparency_coverage, 1),
+            'year_coverage_pct': round(year_coverage_pct, 1),
+            'data_completeness_pct': round(data_completeness_pct, 1),
+            'last_update': date.today(),
+            'filtered_papers': total_papers,  # For year filter info
+            'current_year': current_year,
+            'current_date': date.today(),
+            # Transparency trend data (simplified)
+            'data_sharing_trend': 15,  # Placeholder - could be calculated
+            'top_performing_field': 'Medicine',  # Placeholder - could be calculated
+        }
 
 class AboutView(TemplateView):
     """About page for Open Science Tracker"""
