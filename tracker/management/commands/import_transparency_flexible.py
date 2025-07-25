@@ -12,12 +12,15 @@ class Command(BaseCommand):
     help = 'Flexible import for different transparency CSV formats'
 
     def add_arguments(self, parser):
-        parser.add_argument('--file', type=str, required=True, help='CSV file path to import')
+        parser.add_argument('--file', type=str, required=True, help='Path to the CSV file to import')
         parser.add_argument('--format', type=str, choices=['auto', 'epmc', 'basic', 'comprehensive'], 
-                          default='auto', help='CSV format type')
+                          default='auto', help='Format of the CSV file')
         parser.add_argument('--batch-size', type=int, default=1000, help='Batch size for processing')
+        parser.add_argument('--update-existing', action='store_true', 
+                          help='Update existing papers with new data')
+        parser.add_argument('--show-columns', action='store_true',
+                          help='Show available columns in the CSV file and exit')
         parser.add_argument('--dry-run', action='store_true', help='Preview without importing')
-        parser.add_argument('--update-existing', action='store_true', help='Update existing papers')
 
     def handle(self, *args, **options):
         file_path = options['file']
@@ -25,6 +28,18 @@ class Command(BaseCommand):
         batch_size = options['batch_size']
         dry_run = options['dry_run']
         update_existing = options['update_existing']
+        show_columns = options['show_columns']
+
+        if show_columns:
+            self.stdout.write("Analyzing file to show columns...")
+            try:
+                df = pd.read_csv(file_path, nrows=1)  # Read only one row to get column names
+                self.stdout.write(f"Available columns in {file_path}: {df.columns.tolist()}")
+                self.stdout.write("Exiting due to --show-columns option.")
+                return
+            except Exception as e:
+                self.stderr.write(f"Error reading CSV for column analysis: {e}")
+                return
 
         if not os.path.exists(file_path):
             self.stderr.write(f"File not found: {file_path}")
@@ -385,18 +400,19 @@ class Command(BaseCommand):
 
                 paper_data = {
                     'source': 'rtransparent',
-                    'title': 'Title not available',  # Not in comprehensive format
+                    'title': self.safe_extract_string(row, ['title', 'Title', 'paper_title'], 'Title not available', 500),
+                    'author_string': self.safe_extract_string(row, ['author', 'Author', 'authors', 'authorString'], 'Unknown Author', 1000),
                     'journal': journal,
-                    'journal_title': str(row.get('journal', ''))[:200],
-                    'pub_year': self.extract_year(row.get('year')),
-                    'pmid': str(row.get('pmid', ''))[:20] or None,
-                    'pmcid': str(row.get('pmcid_pmc', ''))[:20] or None,
-                    'doi': str(row.get('doi', ''))[:100] or None,
+                    'journal_title': self.safe_extract_string(row, ['journal', 'Journal', 'journalTitle'], '', 200),
+                    'pub_year': self.safe_extract_year(row, ['year', 'Year', 'pub_year', 'pubYear']),
+                    'pmid': self.safe_extract_string(row, ['pmid', 'PMID'], None, 20),
+                    'pmcid': self.safe_extract_string(row, ['pmcid_pmc', 'pmcid', 'PMCID'], None, 20),
+                    'doi': self.safe_extract_string(row, ['doi', 'DOI'], None, 100),
                     'transparency_score': transparency_score,
                     'transparency_processed': True,
                     'assessment_tool': 'rtransparent',
-                    'pub_type': str(row.get('type', ''))[:100] or None,
-                    'broad_subject_term': str(row.get('field', ''))[:200] or None,
+                    'pub_type': self.safe_extract_string(row, ['type', 'Type', 'pubType'], None, 100),
+                    'broad_subject_term': self.safe_extract_string(row, ['field', 'Field', 'subject'], None, 200),
                     **transparency_fields
                 }
 
@@ -507,5 +523,34 @@ class Command(BaseCommand):
                     return year
         except (ValueError, TypeError):
             pass
+        
+        return None 
+
+    def safe_extract_string(self, row, field_names, default_value="", max_length=None):
+        """Safely extract string value from row, trying multiple field names"""
+        if isinstance(field_names, str):
+            field_names = [field_names]
+        
+        for field_name in field_names:
+            value = row.get(field_name)
+            if pd.notna(value) and str(value).strip() and str(value).strip().lower() not in ['nan', 'null', 'none', 'n/a']:
+                clean_value = str(value).strip()
+                if max_length:
+                    return clean_value[:max_length]
+                return clean_value
+        
+        return default_value or None
+
+    def safe_extract_year(self, row, field_names):
+        """Safely extract year from row, trying multiple field names"""
+        if isinstance(field_names, str):
+            field_names = [field_names]
+        
+        for field_name in field_names:
+            value = row.get(field_name)
+            if pd.notna(value):
+                year = self.extract_year(value)
+                if year:
+                    return year
         
         return None 
