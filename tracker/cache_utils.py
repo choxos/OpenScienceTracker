@@ -87,17 +87,21 @@ def get_field_statistics():
     """Get cached statistics for research fields"""
     from .models import ResearchField
     
-    return ResearchField.objects.all().order_by('-total_papers', 'name')
+    # Convert QuerySet to list for caching
+    fields = ResearchField.objects.all().order_by('-total_papers', 'name')
+    return list(fields)
 
 @cached_query(timeout=1800, key_prefix='journal_stats')  # 30 minutes  
 def get_journal_statistics():
     """Get cached journal statistics"""
     from .models import Journal
     
-    return Journal.objects.annotate(
+    # Convert QuerySet to list for caching
+    journals = Journal.objects.annotate(
         paper_count=Count('papers'),
         avg_transparency=Avg('papers__transparency_score')
     ).filter(paper_count__gt=0).order_by('-paper_count')
+    return list(journals)
 
 @cached_query(timeout=3600, key_prefix='transparency_trends')  # 1 hour
 def get_transparency_trends():
