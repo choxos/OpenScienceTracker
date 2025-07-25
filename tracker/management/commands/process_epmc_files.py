@@ -216,16 +216,16 @@ class Command(BaseCommand):
                 
                 # Prepare paper data
                 paper_data = {
-                    'source': str(row.get('source', 'PMC')).strip()[:20],
+                    'source': str(row.get('source', 'PMC')).strip()[:50],
                     'title': str(row.get('title', '')).strip()[:500],  # Truncate if too long
                     'author_string': str(row.get('authorString', '')).strip()[:1000],
                     'journal': journal,
                     'journal_title': str(row.get('journalTitle', '')).strip()[:200],
-                    'journal_issn': str(row.get('journalIssn', '')).strip()[:20] or None,
+                    'journal_issn': str(row.get('journalIssn', ''))[:50].strip() or None,
                     'pub_year': self.extract_year(row.get('firstPublicationDate')),
-                    'pmid': str(row.get('pmid', '')).strip() or None,
-                    'pmcid': str(row.get('pmcid', '')).strip() or None,
-                    'doi': str(row.get('doi', '')).strip() or None,
+                    'pmid': str(row.get('pmid', ''))[:50].strip() or None,
+                    'pmcid': str(row.get('pmcid', ''))[:50].strip() or None,
+                    'doi': str(row.get('doi', ''))[:100].strip() or None,
                     'is_open_access': str(row.get('isOpenAccess', 'N')).upper() == 'Y',
                     'in_epmc': str(row.get('inEPMC', 'N')).upper() == 'Y',
                     'in_pmc': str(row.get('inPMC', 'N')).upper() == 'Y',

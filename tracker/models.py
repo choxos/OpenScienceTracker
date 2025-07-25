@@ -87,21 +87,21 @@ class Paper(models.Model):
     """Model representing a scientific paper from EuropePMC with transparency indicators"""
     
     # === EuropePMC Core Fields ===
-    # Article identifiers
-    epmc_id = models.CharField(max_length=50, unique=True, db_index=True, help_text="EuropePMC ID (primary key)")
-    source = models.CharField(max_length=20, help_text="Data source (e.g., PMC, MED)")
-    pmcid = models.CharField(max_length=20, null=True, blank=True, db_index=True, help_text="PubMed Central ID")
-    pmid = models.CharField(max_length=20, null=True, blank=True, db_index=True, help_text="PubMed ID")
+    # Basic identifiers
+    epmc_id = models.CharField(max_length=50, unique=True, db_index=True, help_text="Europe PMC unique identifier")
+    source = models.CharField(max_length=50, help_text="Data source (e.g., PMC, MED)")
+    pmcid = models.CharField(max_length=50, null=True, blank=True, db_index=True, help_text="PubMed Central ID")
+    pmid = models.CharField(max_length=50, null=True, blank=True, db_index=True, help_text="PubMed ID")
     doi = models.CharField(max_length=200, null=True, blank=True, db_index=True, help_text="Digital Object Identifier")
     
-    # Article content
-    title = models.TextField(help_text="Article title")
-    author_string = models.TextField(null=True, blank=True, help_text="Author names as string")
+    # Content and metadata
+    title = models.CharField(max_length=500, help_text="Paper title")
+    author_string = models.TextField(help_text="Comma-separated author names")
     
     # Journal information
     journal = models.ForeignKey(Journal, on_delete=models.SET_NULL, null=True, blank=True, related_name='papers')
-    journal_title = models.CharField(max_length=500, db_index=True, help_text="Journal title from EuropePMC")
-    journal_issn = models.CharField(max_length=20, null=True, blank=True, help_text="Journal ISSN")
+    journal_title = models.CharField(max_length=200, null=True, blank=True, help_text="Journal title")
+    journal_issn = models.CharField(max_length=50, null=True, blank=True, help_text="Journal ISSN")
     
     # Publication details
     pub_year = models.IntegerField(null=True, blank=True, db_index=True, help_text="Publication year")
