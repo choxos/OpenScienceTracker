@@ -135,4 +135,4 @@ load_test.py
 # Backup files
 *.backup
 *.orig
-*.tmp 
+*.tmp indicators_all.csv
