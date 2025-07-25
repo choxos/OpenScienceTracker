@@ -219,6 +219,11 @@ run_django_commands() {
     $PYTHON_BIN manage.py migrate --noinput
     print_success "Migrations completed"
     
+    # Create the database cache table if it doesn't exist
+    print_step "Creating cache table..."
+    $PYTHON_BIN manage.py createcachetable
+    print_success "Cache table created/verified"
+
     # Collect static files
     print_step "Collecting static files..."
     $PYTHON_BIN manage.py collectstatic --noinput --clear
