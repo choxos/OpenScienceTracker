@@ -7,8 +7,8 @@ from .managers import OptimizedPaperManager
 class Journal(models.Model):
     """Model representing a scientific journal"""
     nlm_id = models.CharField(max_length=50, unique=True, null=True, blank=True)
-    title_abbreviation = models.CharField(max_length=200, db_index=True)
-    title_full = models.TextField()
+    title_abbreviation = models.CharField(max_length=100, help_text="Abbreviated journal title")
+    title_full = models.CharField(max_length=200, unique=True, help_text="Full journal title")
     authors = models.TextField(null=True, blank=True)
     
     # Publication details
@@ -20,13 +20,13 @@ class Journal(models.Model):
     language = models.CharField(max_length=100, null=True, blank=True)
     
     # ISSN information
-    issn_electronic = models.CharField(max_length=9, null=True, blank=True)
-    issn_print = models.CharField(max_length=9, null=True, blank=True)
-    issn_linking = models.CharField(max_length=9, null=True, blank=True)
+    issn_electronic = models.CharField(max_length=20, null=True, blank=True)
+    issn_print = models.CharField(max_length=20, null=True, blank=True)
+    issn_linking = models.CharField(max_length=20, null=True, blank=True)
     
     # Indexing and classification
     indexing_status = models.CharField(max_length=200, null=True, blank=True)
-    broad_subject_terms = models.TextField(help_text="Semicolon-separated subject terms")
+    broad_subject_terms = models.TextField(null=True, blank=True, help_text="Broad subject categories")
     subject_term_count = models.IntegerField(default=1)
     mesh_terms = models.TextField(null=True, blank=True)
     
