@@ -225,7 +225,7 @@ class Command(BaseCommand):
                 journal = None
                 if pd.notna(row.get('journalTitle')) and row.get('journalTitle').strip():
                     journal_title = str(row['journalTitle']).strip()
-                    journal_issn = str(row.get('journalIssn', '')).strip() or None
+                    journal_issn = str(row.get('journalIssn', '')).strip()[:20] or None  # Truncate to 20 chars
                     journal, journal_created = self.get_or_create_journal_safe(
                         journal_title, journal_issn
                     )
