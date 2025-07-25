@@ -5,6 +5,7 @@ from django.core.management.base import BaseCommand
 from django.conf import settings
 from tracker.models import Journal, Paper
 from datetime import datetime
+from django.db import transaction, IntegrityError
 import sys
 
 logger = logging.getLogger(__name__)
@@ -121,6 +122,63 @@ class Command(BaseCommand):
                 self.style.ERROR(f"  - Error reading file: {str(e)}")
             )
 
+    def get_or_create_journal_safe(self, journal_title, journal_issn=None):
+        """PostgreSQL-safe journal creation without FOR UPDATE issues"""
+        if not journal_title or not journal_title.strip():
+            return None, False
+            
+        journal_title = str(journal_title).strip()
+        journal_issn = str(journal_issn).strip() if journal_issn else None
+        
+        # Try to get existing journal first
+        try:
+            journal = Journal.objects.get(title_full=journal_title)
+            return journal, False
+        except Journal.DoesNotExist:
+            pass
+        
+        # Create new journal in atomic transaction
+        with transaction.atomic():
+            try:
+                journal = Journal.objects.create(
+                    title_full=journal_title,
+                    title_abbreviation=journal_title[:50] if len(journal_title) > 50 else journal_title,
+                    issn_print=journal_issn,
+                )
+                return journal, True
+            except IntegrityError:
+                # Another process created it, get the existing one
+                journal = Journal.objects.get(title_full=journal_title)
+                return journal, False
+
+    def update_or_create_paper_safe(self, epmc_id, paper_data):
+        """PostgreSQL-safe paper creation without FOR UPDATE issues"""
+        epmc_id = str(epmc_id).strip()
+        
+        # Try to get existing paper first
+        try:
+            paper = Paper.objects.get(epmc_id=epmc_id)
+            # Update existing paper
+            for field, value in paper_data.items():
+                setattr(paper, field, value)
+            paper.save()
+            return paper, False
+        except Paper.DoesNotExist:
+            pass
+        
+        # Create new paper in atomic transaction
+        with transaction.atomic():
+            try:
+                paper = Paper.objects.create(epmc_id=epmc_id, **paper_data)
+                return paper, True
+            except IntegrityError:
+                # Another process created it, update the existing one
+                paper = Paper.objects.get(epmc_id=epmc_id)
+                for field, value in paper_data.items():
+                    setattr(paper, field, value)
+                paper.save()
+                return paper, False
+
     def process_epmc_file(self, file_path):
         """Process a single EPMC CSV file"""
         self.stdout.write(f"Processing: {file_path}")
@@ -145,17 +203,13 @@ class Command(BaseCommand):
         
         for index, row in df.iterrows():
             try:
-                # Get or create journal
+                # Get or create journal using PostgreSQL-safe method
                 journal = None
                 if pd.notna(row.get('journalTitle')) and row.get('journalTitle').strip():
                     journal_title = str(row['journalTitle']).strip()
                     journal_issn = str(row.get('journalIssn', '')).strip() or None
-                    journal, journal_created = Journal.objects.get_or_create(
-                        title_full=journal_title,
-                        defaults={
-                            'title_abbreviation': journal_title[:50] if len(journal_title) > 50 else journal_title,
-                            'issn_print': journal_issn,  # Use the correct field name
-                        }
+                    journal, journal_created = self.get_or_create_journal_safe(
+                        journal_title, journal_issn
                     )
                     if journal_created:
                         journals_created += 1
@@ -181,10 +235,9 @@ class Command(BaseCommand):
                     'pub_type': str(row.get('pubType', '')).strip()[:100] or None,
                 }
                 
-                # Create or update paper
-                paper, created = Paper.objects.update_or_create(
-                    epmc_id=str(row['id']).strip(),
-                    defaults=paper_data
+                # Create or update paper using PostgreSQL-safe method
+                paper, created = self.update_or_create_paper_safe(
+                    row['id'], paper_data
                 )
                 
                 if created:
