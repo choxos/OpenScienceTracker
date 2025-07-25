@@ -72,7 +72,7 @@ if [ -z "$DB_INFO" ] || [[ "$DB_INFO" == *"objects imported"* ]] || [[ "$DB_INFO
     log_warning "Could not get database configuration from Django (output: '$DB_INFO')"
     log_info "Using fallback PostgreSQL configuration for ost_production..."
     DB_NAME="ost_production"
-    DB_USER="postgres"
+    DB_USER="ost_user"
     DB_HOST="localhost"
     DB_PORT="5432"
     log_info "Note: Installing missing dependencies or checking Django settings may be needed"

@@ -24,7 +24,7 @@ echo "================================="
 
 # Use known database configuration
 DB_NAME="ost_production"
-DB_USER="postgres"
+DB_USER="ost_user"
 DB_HOST="localhost"
 DB_PORT="5432"
 
