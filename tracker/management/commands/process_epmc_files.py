@@ -217,6 +217,7 @@ class Command(BaseCommand):
         papers_updated = 0
         journals_created = 0
         errors = 0
+        processed = 0  # Initialize counter
         
         for index, row in df.iterrows():
             try:
