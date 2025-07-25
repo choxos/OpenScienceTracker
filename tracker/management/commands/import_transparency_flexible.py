@@ -435,10 +435,7 @@ class Command(BaseCommand):
         
         # Try by epmc_id first
         if 'epmc_id' in paper_data and paper_data['epmc_id']:
-            try:
-                existing_paper = Paper.objects.get(epmc_id=paper_data['epmc_id'])
-            except Paper.DoesNotExist:
-                pass
+            existing_paper = Paper.objects.filter(epmc_id=paper_data['epmc_id']).first()
         
         # Try by other identifiers if epmc_id didn't work
         if not existing_paper:
@@ -446,11 +443,9 @@ class Command(BaseCommand):
                                           ('pmcid', paper_data.get('pmcid')), 
                                           ('doi', paper_data.get('doi'))]:
                 if field_value:
-                    try:
-                        existing_paper = Paper.objects.get(**{field_name: field_value})
+                    existing_paper = Paper.objects.filter(**{field_name: field_value}).first()
+                    if existing_paper:
                         break
-                    except Paper.DoesNotExist:
-                        continue
         
         # Update existing paper
         if existing_paper:
@@ -480,14 +475,17 @@ class Command(BaseCommand):
                 return paper, True
         except IntegrityError:
             # Another process created it, try to get the existing one
-            try:
-                existing_paper = Paper.objects.get(epmc_id=paper_data['epmc_id'])
+            existing_paper = Paper.objects.filter(epmc_id=paper_data['epmc_id']).first()
+            if existing_paper:
                 if update_existing:
-                    for field, value in paper_data.items():
-                        setattr(existing_paper, field, value)
-                    existing_paper.save()
+                    try:
+                        for field, value in paper_data.items():
+                            setattr(existing_paper, field, value)
+                        existing_paper.save()
+                    except Exception as e:
+                        logger.error(f"Error updating paper after IntegrityError '{identifier}': {str(e)}")
                 return existing_paper, False
-            except Paper.DoesNotExist:
+            else:
                 # If still not found, return None to avoid further errors
                 logger.error(f"Paper with epmc_id '{paper_data['epmc_id']}' not found after creation attempt")
                 return None, False
