@@ -50,11 +50,16 @@ print(f\"{db['NAME']}|{db['USER']}|{db['HOST']}|{db['PORT']}\")
 " 2>/dev/null)
 
 if [ -z "$DB_INFO" ]; then
-    log_error "Could not get database configuration from Django"
-    exit 1
+    log_warning "Could not get database configuration from Django (likely missing dependencies like django-compressor)"
+    log_info "Using fallback PostgreSQL configuration..."
+    DB_NAME="ost_production"
+    DB_USER="postgres"
+    DB_HOST="localhost"
+    DB_PORT="5432"
+    log_info "Note: Installing missing dependencies with pip install -r requirements.txt may be needed"
+else
+    IFS='|' read -r DB_NAME DB_USER DB_HOST DB_PORT <<< "$DB_INFO"
 fi
-
-IFS='|' read -r DB_NAME DB_USER DB_HOST DB_PORT <<< "$DB_INFO"
 
 log_info "Database: $DB_NAME"
 log_info "User: $DB_USER"
