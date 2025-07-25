@@ -86,20 +86,45 @@ WSGI_APPLICATION = 'ost_web.wsgi.application'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
 # Database configuration
-# Use PostgreSQL on Railway, SQLite for local development
-DATABASE_URL = os.environ.get('DATABASE_URL')
-
-if DATABASE_URL:
-    # Production (Railway) - PostgreSQL
+# Use PostgreSQL in production, SQLite for local development
+if os.environ.get('GITHUB_ACTIONS') or os.environ.get('CI'):
+    # CI/Testing environment
     DATABASES = {
-        'default': dj_database_url.parse(DATABASE_URL)
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
+    }
+elif 'DATABASE_URL' in os.environ:
+    # Production environment with DATABASE_URL (e.g., Railway, Heroku)
+    DATABASES = {
+        'default': dj_database_url.config(conn_max_age=600, ssl_require=True)
+    }
+elif os.environ.get('DJANGO_ENV') == 'production':
+    # Production environment on VPS (explicitly set)
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql',
+            'NAME': 'ost_production',
+            'USER': 'ost_user',
+            'PASSWORD': os.environ.get('DB_PASSWORD'),  # Assumes you have DB_PASSWORD env var
+            'HOST': 'localhost',
+            'PORT': '5432',
+            'CONN_MAX_AGE': 600,  # Persistent connections
+            'OPTIONS': {
+                'connect_timeout': 5,
+            },
+        }
     }
 else:
-    # Development - SQLite
+    # Local development - SQLite
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.sqlite3',
             'NAME': BASE_DIR / 'ost_database.sqlite3',
+            'OPTIONS': {
+                'timeout': 20,  # Increase timeout for SQLite
+            },
         }
     }
 
