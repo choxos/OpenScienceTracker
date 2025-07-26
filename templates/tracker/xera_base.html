@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{% block meta_description %}Open Science Tracker - Transparency indicators in scientific publications{% endblock %}">
-    <meta name="keywords" content="open science, transparency, research, scientific publications, reproducibility">
+    <meta name="description" content="{% block meta_description %}Open Science Tracker - Track transparency indicators in scientific publications{% endblock %}">
+    <meta name="keywords" content="open science, transparency, research papers, data sharing, code sharing, scientific integrity">
     <meta name="author" content="Ahmad Sofi-Mahmudi">
     
     <title>{% block title %}Open Science Tracker{% endblock %} | Xera DB</title>
@@ -13,10 +13,6 @@
     {% load static %}
     <link rel="icon" type="image/svg+xml" href="{% static 'favicon.svg' %}">
     <link rel="icon" type="image/x-icon" href="{% static 'favicon.ico' %}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{% static 'favicon-32x32.png' %}">
-    <link rel="apple-touch-icon" sizes="180x180" href="{% static 'apple-touch-icon.svg' %}">
-    <link rel="manifest" href="{% static 'manifest.json' %}">
-    <meta name="theme-color" content="#2563eb">
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,27 +22,15 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
-    <!-- Bootstrap CSS (for compatibility) -->
+    <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     
     <!-- Xera Unified Theme -->
     <link rel="stylesheet" href="{% static 'css/xera-unified-theme.css' %}">
-    <link rel="stylesheet" href="{% static 'css/ost-theme.css' %}">
-    
-    <!-- Layout Improvements for Better Readability -->
-    <link rel="stylesheet" href="{% static 'css/layout-improvements.css' %}">
-    
-    <!-- Mobile Navigation Styles -->
-    <link rel="stylesheet" href="{% static 'css/mobile-navigation.css' %}">
-    
-    <!-- Transparency Indicators Colors -->
     <link rel="stylesheet" href="{% static 'css/transparency-colors.css' %}">
     
-    <!-- Dark Theme -->
-    <link rel="stylesheet" href="{% static 'css/dark-theme.css' %}">
-    
     <!-- Performance Optimizations -->
-    <link rel="stylesheet" href="{% static 'css/performance-optimizations.css' %}">
+    <script src="{% static 'js/performance-optimizations.js' %}" defer></script>
     
     {% block extra_css %}{% endblock %}
     
@@ -56,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "WebApplication",
         "name": "Open Science Tracker",
-        "description": "Transparency indicators in scientific publications",
+        "description": "Track transparency indicators in scientific publications",
         "url": "https://ost.xeradb.com",
         "author": {
             "@type": "Person",
@@ -82,47 +66,37 @@
                 </div>
             </a>
             
-            <!-- Mobile Menu Toggle Button -->
-            <button class="xera-mobile-menu-toggle" 
-                    aria-label="Toggle navigation menu" 
-                    aria-expanded="false" 
-                    aria-controls="main-nav">
-                <span class="hamburger-line"></span>
-                <span class="hamburger-line"></span>
-                <span class="hamburger-line"></span>
-            </button>
-            
-            <!-- Navigation Menu -->
-            <nav class="xera-nav" id="main-nav">
+            <nav class="xera-nav">
                 <a href="{% url 'tracker:home' %}" class="xera-nav-link {% if request.resolver_match.url_name == 'home' %}active{% endif %}">
                     <i class="fas fa-home me-1"></i>Home
                 </a>
                 <a href="{% url 'tracker:paper_list' %}" class="xera-nav-link {% if 'paper' in request.resolver_match.url_name %}active{% endif %}">
-                    <i class="fas fa-file-alt me-1"></i>Papers
+                    <i class="fas fa-search me-1"></i>Search
                 </a>
                 <a href="{% url 'tracker:journal_list' %}" class="xera-nav-link {% if 'journal' in request.resolver_match.url_name %}active{% endif %}">
                     <i class="fas fa-book me-1"></i>Journals
                 </a>
                 <a href="{% url 'tracker:field_list' %}" class="xera-nav-link {% if 'field' in request.resolver_match.url_name %}active{% endif %}">
-                    <i class="fas fa-tags me-1"></i>Fields
+                    <i class="fas fa-microscope me-1"></i>Fields
                 </a>
                 <a href="{% url 'tracker:statistics' %}" class="xera-nav-link {% if 'statistics' in request.resolver_match.url_name %}active{% endif %}">
-                    <i class="fas fa-chart-bar me-1"></i>Statistics
+                    <i class="fas fa-chart-bar me-1"></i>Analytics
                 </a>
                 <a href="/api/" class="xera-nav-link" target="_blank">
                     <i class="fas fa-code me-1"></i>API
                 </a>
             </nav>
             
-            <!-- Header Search -->
+            <!-- Header Search Form -->
             <div class="xera-header-search">
-                <form action="{% url 'tracker:paper_list' %}" method="get" class="xera-search-form">
-                    <div class="xera-search-group">
+                <form method="get" action="{% url 'tracker:paper_list' %}" class="xera-search-form">
+                    <div class="xera-search-input-group">
                         <input type="text" 
                                name="q" 
                                class="xera-search-input" 
-                               placeholder="Search papers..."
-                               data-search-debounce="300">
+                               placeholder="Search papers..." 
+                               value="{{ request.GET.q|default:'' }}"
+                               aria-label="Search papers">
                         <button type="submit" class="xera-search-btn" aria-label="Search">
                             <i class="fas fa-search"></i>
                         </button>
@@ -132,23 +106,8 @@
         </div>
     </header>
 
-    <!-- Ajax Loading Indicator -->
-    <div id="ajax-loading" class="ajax-loading-overlay" style="display: none;">
-        <div class="ajax-loading-spinner">
-            <div class="spinner-border text-primary" role="status">
-                <span class="visually-hidden">Loading...</span>
-            </div>
-            <div class="mt-2">Loading...</div>
-        </div>
-    </div>
-
-    <!-- Dark Theme Toggle -->
-    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
-        <i class="fas fa-moon" id="theme-icon"></i>
-    </button>
-
     <!-- Main Content Area -->
-    <main class="xera-main-content" id="main-content">
+    <main class="xera-main-content">
         <div class="xera-container{% if full_width %}-fluid{% endif %}">
             
             <!-- Breadcrumb Navigation -->
@@ -195,450 +154,204 @@
 
             <!-- Main Content -->
             {% block content %}{% endblock %}
-            
         </div>
     </main>
 
-    <!-- Xera DB Unified Footer -->
+    <!-- Footer -->
     <footer class="xera-footer">
-        <div class="xera-footer-content">
-            
-            <!-- Xera DB Application Suite -->
-            <div class="xera-footer-apps">
-                <div class="xera-footer-app">
-                    <h6 class="mb-2">Research Transparency</h6>
-                    <a href="https://ost.xeradb.com" class="xera-footer-app-link">
-                        <i class="fas fa-microscope me-1"></i>OST - Open Science Tracker
-                    </a>
-                    <br>
-                    <a href="https://prct.xeradb.com" class="xera-footer-app-link">
-                        <i class="fas fa-exclamation-triangle me-1"></i>PRCT - Post-Retraction Citation Tracker
-                    </a>
+        <div class="xera-container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="xera-footer-brand">
+                        <h5>Open Science Tracker</h5>
+                        <p class="text-muted">Advancing transparency in scientific research</p>
+                    </div>
                 </div>
-                
-                <div class="xera-footer-app">
-                    <h6 class="mb-2">Funding Databases</h6>
-                    <a href="https://cihrpt.xeradb.com" class="xera-footer-app-link">
-                        <i class="fas fa-flag me-1"></i>CIHRPT - CIHR Projects (Canada)
-                    </a>
-                    <br>
-                    <a href="https://nhmrcpt.xeradb.com" class="xera-footer-app-link">
-                        <i class="fas fa-flag me-1"></i>NHMRCPT - NHMRC Projects (Australia)
-                    </a>
-                </div>
-                
-                <div class="xera-footer-app">
-                    <h6 class="mb-2">Health Research</h6>
-                    <a href="https://nihrpt.xeradb.com" class="xera-footer-app-link">
-                        <i class="fas fa-flag me-1"></i>NIHRPT - NIHR Projects (UK)
-                    </a>
-                    <br>
-                    <a href="https://nihpt.xeradb.com" class="xera-footer-app-link">
-                        <i class="fas fa-flag me-1"></i>NIHPT - NIH Projects (US)
-                    </a>
-                </div>
-                
-                <div class="xera-footer-app">
-                    <h6 class="mb-2">Specialized Databases</h6>
-                    <a href="https://ttedb.xeradb.com" class="xera-footer-app-link">
-                        <i class="fas fa-flask me-1"></i>TTEdb - Target Trial Emulation
-                    </a>
-                    <br>
-                    <a href="https://dcps.xeradb.com" class="xera-footer-app-link">
-                        <i class="fas fa-tooth me-1"></i>DCPS - Dental Caries Studies
-                    </a>
+                <div class="col-md-6">
+                    <div class="xera-footer-links">
+                        <h6>Resources</h6>
+                        <ul class="list-unstyled">
+                            <li><a href="/api/" target="_blank">API Documentation</a></li>
+                            <li><a href="{% url 'tracker:statistics' %}">Statistics</a></li>
+                            <li><a href="mailto:ahmad.pub@gmail.com">Contact</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-            
-            <!-- Footer Information -->
-            <div class="xera-footer-copy">
-                <p class="mb-2">
-                    <strong>Xera DB</strong> - Comprehensive Open Science Research Applications
-                </p>
-                <p class="mb-2">
-                    Created by <a href="https://scholar.google.com/citations?user=gTWPaFYAAAAJ&hl=en" target="_blank" class="text-light">
-                        Dr. Ahmad Sofi-Mahmudi
-                    </a> | Meta-researcher in Open Science
-                </p>
-                <p class="mb-0">
-                    <a href="mailto:ahmad.pub@gmail.com" class="text-light me-3">
-                        <i class="fas fa-envelope me-1"></i>Contact
-                    </a>
-                    <a href="https://github.com/choxos" target="_blank" class="text-light me-3">
-                        <i class="fab fa-github me-1"></i>GitHub
-                    </a>
-                    <a href="https://linkedin.com/in/asofimahmudi" target="_blank" class="text-light me-3">
-                        <i class="fab fa-linkedin me-1"></i>LinkedIn
-                    </a>
-                    <a href="https://x.com/ASofiMahmudi" target="_blank" class="text-light">
-                        <i class="fab fa-x-twitter me-1"></i>X
-                    </a>
-                </p>
-                <hr class="my-3" style="border-color: var(--xera-gray-600);">
-                <p class="mb-0 small">
-                    © {{ current_year|default:"2025" }} Xera DB. Open source research tools for advancing science.
-                    <span class="ms-3">
-                        <a href="https://github.com/choxos/OpenScienceTracker" target="_blank" class="text-light">
-                            <i class="fas fa-code me-1"></i>Source Code
+            <hr>
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <p class="mb-0 text-muted">
+                        © 2025 <a href="https://xeradb.com" target="_blank" class="text-decoration-none">Xera DB</a>. 
+                        Built by <a href="https://scholar.google.com/citations?user=gTWPaFYAAAAJ&hl=en" target="_blank" class="text-decoration-none">Ahmad Sofi-Mahmudi</a>.
+                    </p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <div class="xera-social-links">
+                        <a href="https://github.com/choxos/OpenScienceTracker" target="_blank" class="text-muted me-3">
+                            <i class="fab fa-github"></i>
                         </a>
-                    </span>
-                </p>
+                        <a href="https://x.com/ASofiMahmudi" target="_blank" class="text-muted me-3">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/asofimahmudi" target="_blank" class="text-muted">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </footer>
 
-    <!-- Scripts -->
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     
-    <!-- Performance Optimizations -->
-    <script src="{% static 'js/performance-optimizations.js' %}"></script>
-    
-    <!-- Chart.js for data visualization -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    
-    {% block extra_js %}{% endblock %}
-    
-    <!-- Mobile Menu Toggle Script -->
+    <!-- Theme Management -->
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const mobileToggle = document.querySelector('.xera-mobile-menu-toggle');
-            const navigation = document.querySelector('.xera-nav');
-            
-            if (mobileToggle && navigation) {
-                mobileToggle.addEventListener('click', function() {
-                    navigation.classList.toggle('active');
-                    mobileToggle.classList.toggle('active');
-                    
-                    // Update aria-expanded for accessibility
-                    const isExpanded = navigation.classList.contains('active');
-                    mobileToggle.setAttribute('aria-expanded', isExpanded);
-                });
-                
-                // Close menu when clicking on navigation links (mobile)
-                const navLinks = document.querySelectorAll('.xera-nav-link');
-                navLinks.forEach(link => {
-                    link.addEventListener('click', function() {
-                        if (window.innerWidth <= 768) {
-                            navigation.classList.remove('active');
-                            mobileToggle.classList.remove('active');
-                            mobileToggle.setAttribute('aria-expanded', 'false');
-                        }
-                    });
-                });
-                
-                // Close menu when clicking outside (mobile)
-                document.addEventListener('click', function(event) {
-                    if (!navigation.contains(event.target) && !mobileToggle.contains(event.target)) {
-                        navigation.classList.remove('active');
-                        mobileToggle.classList.remove('active');
-                        mobileToggle.setAttribute('aria-expanded', 'false');
-                    }
-                });
-                
-                // Handle window resize
-                window.addEventListener('resize', function() {
-                    if (window.innerWidth > 768) {
-                        navigation.classList.remove('active');
-                        mobileToggle.classList.remove('active');
-                        mobileToggle.setAttribute('aria-expanded', 'false');
-                    }
-                });
-            }
-        });
-    </script>
-    
-    <!-- Analytics (if needed) -->
-    {% if not debug %}
-    <!-- Add your analytics code here -->
-    {% endif %}
-    
-    <!-- Ajax Navigation System -->
-    <style>
-        .ajax-loading-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(255, 255, 255, 0.9);
-            z-index: 9999;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+    // Theme Manager Class for consistent theme handling
+    class ThemeManager {
+        constructor() {
+            this.theme = localStorage.getItem('theme') || 'light';
+            this.applyTheme();
+            this.bindEvents();
         }
-        
-        .ajax-loading-spinner {
-            text-align: center;
-            color: var(--xera-primary);
-            font-weight: 500;
-        }
-        
 
-    </style>
+        applyTheme() {
+            document.documentElement.setAttribute('data-theme', this.theme);
+            localStorage.setItem('theme', this.theme);
+            
+            // Update theme toggle button if it exists
+            const themeToggle = document.getElementById('theme-toggle');
+            const themeIcon = document.getElementById('theme-icon');
+            if (themeToggle && themeIcon) {
+                themeIcon.className = this.theme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+                themeToggle.setAttribute('aria-label', 
+                    this.theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'
+                );
+            }
+        }
 
-    <script>
-        class AjaxNavigator {
-            constructor() {
-                this.currentPage = window.location.pathname;
-                this.cache = new Map();
-                this.loading = document.getElementById('ajax-loading');
-                this.content = document.getElementById('main-content');
-                this.init();
-            }
-            
-            init() {
-                this.updateNav();
-                window.addEventListener('popstate', e => e.state?.url ? this.loadPage(e.state.url, false) : location.reload());
-                history.replaceState({ url: this.currentPage }, '', this.currentPage);
-                
-                // Optimized event delegation
-                document.addEventListener('click', e => {
-                    const link = e.target.closest('[data-ajax-link], .xera-nav-link:not([target])');
-                    if (link && !this.isExternal(link.href)) {
-                        e.preventDefault();
-                        this.navigate(link.href);
-                    }
-                });
-                
-                document.addEventListener('submit', e => {
-                    const form = e.target.closest('[data-ajax-form]');
-                    if (form) {
-                        e.preventDefault();
-                        this.submitForm(form);
-                    }
-                });
-            }
-            
-            isExternal(url) { return url && /^(https?:|mailto:|tel:)/.test(url); }
-            
-            async navigate(url) {
-                if (url === this.currentPage) return;
-                this.closeMobile();
-                await this.loadPage(url);
-            }
-            
-            async loadPage(url, addHistory = true) {
-                try {
-                    this.show();
-                    const ajaxUrl = this.getAjaxUrl(url);
-                    
-                    let content = this.cache.get(ajaxUrl);
-                    if (!content) {
-                        const res = await fetch(ajaxUrl, { headers: { 'X-Requested-With': 'XMLHttpRequest' } });
-                        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-                        content = await res.text();
-                        
-                        // LRU cache management
-                        if (this.cache.size >= 15) this.cache.delete(this.cache.keys().next().value);
-                        this.cache.set(ajaxUrl, content);
-                    }
-                    
-                    await this.update(content);
-                    if (addHistory) history.pushState({ url }, '', url);
-                    this.currentPage = url;
-                    this.updateNav();
-                    
-                    // Extract and update title efficiently
-                    const titleMatch = content.match(/<h[1-2][^>]*>([^<]+)/);
-                    if (titleMatch) document.title = `${titleMatch[1]} - Open Science Tracker`;
-                    
-                    window.scrollTo({ top: 0, behavior: 'smooth' });
-                } catch (err) {
-                    console.warn('Ajax failed, falling back:', err);
-                    location.href = url;
-                } finally {
-                    this.hide();
-                }
-            }
-            
-            getAjaxUrl(url) {
-                const [path, params] = url.split('?');
-                const ajaxPath = path === '/' ? '/ajax/' : 
-                               path.startsWith('/papers/') ? path.replace('/papers/', '/ajax/papers/') :
-                               path.startsWith('/journals/') ? path.replace('/journals/', '/ajax/journals/') :
-                               path.startsWith('/fields/') ? path.replace('/fields/', '/ajax/fields/') :
-                               path.replace(/^\//, '/ajax/');
-                return params ? `${ajaxPath}?${params}` : ajaxPath;
-            }
-            
-            async update(html) {
-                this.content.style.opacity = '0';
-                this.content.style.transform = 'translateY(10px)';
-                await new Promise(r => setTimeout(r, 100));
-                this.content.innerHTML = html;
-                this.content.style.transition = 'opacity 0.2s, transform 0.2s';
-                this.content.style.opacity = '1';
-                this.content.style.transform = 'translateY(0)';
-            }
-            
-            updateNav() {
-                document.querySelectorAll('.xera-nav-link').forEach(l => l.classList.remove('active'));
-                const active = document.querySelector(`.xera-nav-link[href="${this.currentPage}"]`) ||
-                              document.querySelector(`.xera-nav-link[href*="${this.currentPage.split('/')[1]}"]`);
-                active?.classList.add('active');
-            }
-            
-            closeMobile() {
-                const nav = document.querySelector('#main-nav');
-                const toggle = document.querySelector('.xera-mobile-menu-toggle');
-                if (nav?.classList.contains('show')) {
-                    nav.classList.remove('show');
-                    toggle?.classList.remove('active');
-                }
-            }
-            
-            async submitForm(form) {
-                try {
-                    this.show();
-                    const formData = new FormData(form);
-                    const url = form.action || this.currentPage;
-                    const method = (form.method || 'GET').toLowerCase();
-                    
-                    let ajaxUrl = this.getAjaxUrl(url);
-                    
-                    if (method === 'get') {
-                        ajaxUrl += '?' + new URLSearchParams(formData);
-                        const res = await fetch(ajaxUrl, { headers: { 'X-Requested-With': 'XMLHttpRequest' } });
-                        const content = await res.text();
-                        await this.update(content);
-                        history.pushState({ url: ajaxUrl.split('?')[0] + '?' + ajaxUrl.split('?')[1] }, '', ajaxUrl.replace('/ajax/', '/'));
-                    } else {
-                        const res = await fetch(ajaxUrl, { method: method.toUpperCase(), body: formData });
-                        const content = await res.text();
-                        await this.update(content);
-                    }
-                } catch (err) {
-                    console.warn('Form submission failed:', err);
-                    form.submit();
-                } finally {
-                    this.hide();
-                }
-            }
-            
-            show() { this.loading && (this.loading.style.display = 'flex'); }
-            hide() { this.loading && (this.loading.style.display = 'none'); }
+        toggleTheme() {
+            this.theme = this.theme === 'light' ? 'dark' : 'light';
+            this.applyTheme();
         }
-        
-        // Mobile Navigation Class
-        class MobileNavigation {
-            constructor() {
-                this.mobileToggle = document.querySelector('.xera-mobile-menu-toggle');
-                this.nav = document.querySelector('.xera-nav');
-                this.body = document.body;
-                this.isOpen = false;
-                
-                this.init();
+
+        bindEvents() {
+            // Floating theme toggle
+            const themeToggle = document.getElementById('theme-toggle');
+            if (themeToggle) {
+                themeToggle.addEventListener('click', () => this.toggleTheme());
             }
             
-            init() {
-                if (this.mobileToggle && this.nav) {
-                    this.mobileToggle.addEventListener('click', () => this.toggle());
-                    
-                    // Close menu when clicking nav links
-                    this.nav.querySelectorAll('.xera-nav-link').forEach(link => {
-                        link.addEventListener('click', () => this.close());
-                    });
-                    
-                    // Close menu on escape key
-                    document.addEventListener('keydown', (e) => {
-                        if (e.key === 'Escape' && this.isOpen) {
-                            this.close();
-                        }
-                    });
-                    
-                    // Close menu on window resize to desktop
-                    window.addEventListener('resize', () => {
-                        if (window.innerWidth > 768 && this.isOpen) {
-                            this.close();
-                        }
-                    });
-                }
-            }
-            
-            toggle() {
-                if (this.isOpen) {
-                    this.close();
-                } else {
-                    this.open();
-                }
-            }
-            
-            open() {
-                this.isOpen = true;
-                this.mobileToggle.classList.add('active');
-                this.nav.classList.add('mobile-menu-open');
-                this.body.classList.add('mobile-menu-open');
-                this.mobileToggle.setAttribute('aria-expanded', 'true');
-            }
-            
-            close() {
-                this.isOpen = false;
-                this.mobileToggle.classList.remove('active');
-                this.nav.classList.remove('mobile-menu-open');
-                this.body.classList.remove('mobile-menu-open');
-                this.mobileToggle.setAttribute('aria-expanded', 'false');
-            }
-        }
-        
-        // Dark Theme Manager
-        class ThemeManager {
-            constructor() {
-                this.themeToggle = document.getElementById('theme-toggle');
-                this.themeIcon = document.getElementById('theme-icon');
-                this.currentTheme = localStorage.getItem('theme') || 'light';
-                
-                this.init();
-            }
-            
-            init() {
-                // Set initial theme
-                this.setTheme(this.currentTheme);
-                
-                // Add event listener
-                this.themeToggle.addEventListener('click', () => {
+            // Keyboard shortcut (Ctrl/Cmd + Shift + T)
+            document.addEventListener('keydown', (e) => {
+                if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'T') {
+                    e.preventDefault();
                     this.toggleTheme();
-                });
-            }
-            
-            setTheme(theme) {
-                this.currentTheme = theme;
-                document.documentElement.setAttribute('data-theme', theme);
-                localStorage.setItem('theme', theme);
-                
-                // Update icon
-                if (theme === 'dark') {
-                    this.themeIcon.className = 'fas fa-sun';
-                } else {
-                    this.themeIcon.className = 'fas fa-moon';
                 }
-            }
-            
-            toggleTheme() {
-                const newTheme = this.currentTheme === 'light' ? 'dark' : 'light';
-                this.setTheme(newTheme);
-            }
-        }
-        
-        // Optimized initialization
-        document.addEventListener('DOMContentLoaded', () => {
-            window.ajaxNav = new AjaxNavigator();
-            window.mobileNav = new MobileNavigation();
-            window.themeManager = new ThemeManager();
-        });
-    </script>
-    
-    <!-- Service Worker for PWA (optional) -->
-    <script>
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', function() {
-                navigator.serviceWorker.register('/sw.js').then(function(registration) {
-                    console.log('ServiceWorker registration successful');
-                }, function(err) {
-                    console.log('ServiceWorker registration failed: ', err);
-                });
             });
         }
+    }
+
+    // Initialize theme manager when DOM is loaded
+    document.addEventListener('DOMContentLoaded', () => {
+        window.themeManager = new ThemeManager();
+    });
+
+    // Enhanced Search Functionality
+    class SearchHandler {
+        constructor() {
+            this.searchInput = document.querySelector('.xera-search-input');
+            this.searchForm = document.querySelector('.xera-search-form');
+            this.bindEvents();
+        }
+
+        bindEvents() {
+            if (this.searchInput) {
+                // Enhanced search with debouncing
+                let debounceTimer;
+                this.searchInput.addEventListener('input', (e) => {
+                    clearTimeout(debounceTimer);
+                    debounceTimer = setTimeout(() => {
+                        this.validateSearch(e.target.value);
+                    }, 300);
+                });
+
+                // Submit on Enter
+                this.searchInput.addEventListener('keypress', (e) => {
+                    if (e.key === 'Enter') {
+                        e.preventDefault();
+                        this.submitSearch();
+                    }
+                });
+            }
+
+            if (this.searchForm) {
+                this.searchForm.addEventListener('submit', (e) => {
+                    const query = this.searchInput.value.trim();
+                    if (!query) {
+                        e.preventDefault();
+                        this.showSearchError('Please enter a search term');
+                    }
+                });
+            }
+        }
+
+        validateSearch(query) {
+            const trimmedQuery = query.trim();
+            if (trimmedQuery.length > 0 && trimmedQuery.length < 2) {
+                this.showSearchHint('Enter at least 2 characters');
+            } else {
+                this.clearSearchHint();
+            }
+        }
+
+        submitSearch() {
+            if (this.searchForm) {
+                this.searchForm.submit();
+            }
+        }
+
+        showSearchError(message) {
+            this.clearSearchHint();
+            const hint = document.createElement('div');
+            hint.className = 'search-hint error';
+            hint.textContent = message;
+            this.searchInput.parentNode.appendChild(hint);
+        }
+
+        showSearchHint(message) {
+            this.clearSearchHint();
+            const hint = document.createElement('div');
+            hint.className = 'search-hint';
+            hint.textContent = message;
+            this.searchInput.parentNode.appendChild(hint);
+        }
+
+        clearSearchHint() {
+            const existingHint = document.querySelector('.search-hint');
+            if (existingHint) {
+                existingHint.remove();
+            }
+        }
+    }
+
+    // Initialize search handler
+    document.addEventListener('DOMContentLoaded', () => {
+        new SearchHandler();
+    });
+
+    // Performance optimizations
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/sw.js')
+                .then(registration => console.log('SW registered'))
+                .catch(registrationError => console.log('SW registration failed'));
+        });
+    }
     </script>
+
+    <!-- Custom JavaScript -->
+    {% block extra_js %}{% endblock %}
 </body>
 </html> 
