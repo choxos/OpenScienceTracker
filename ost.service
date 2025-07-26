@@ -1,0 +1,18 @@
+[Unit]
+Description=Open Science Tracker Gunicorn Application Server
+After=network.target
+
+[Service]
+User=xeradb
+Group=xeradb
+WorkingDirectory=/var/www/ost
+Environment="PATH=/var/www/ost/ost_env/bin"
+Environment="DJANGO_SETTINGS_MODULE=ost_web.settings"
+Environment="DJANGO_ENV=production"
+ExecStart=/var/www/ost/ost_env/bin/gunicorn --bind 127.0.0.1:8004 --workers 2 ost_web.wsgi:application
+ExecReload=/bin/kill -s HUP $MAINPID
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target 
