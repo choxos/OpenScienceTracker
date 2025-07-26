@@ -1,942 +1,337 @@
-{% extends "tracker/base.html" %}
+{% extends 'tracker/xera_base.html' %}
 {% load static %}
 {% load ost_filters %}
 
 {% block title %}Papers - Open Science Tracker{% endblock %}
 
-{% block meta_description %}Browse {{ total_papers }} research papers with transparency indicators. Search by topic, journal, year, and transparency metrics to find open science data.{% endblock %}
-
-{% block extra_css %}
-<style>
-/* Enhanced Paper Search & Filter Styles */
-.ost-search-hero {
-    background: linear-gradient(135deg, var(--xera-primary) 0%, var(--xera-secondary) 100%);
-    color: white;
-    padding: 3rem 0;
-    margin-bottom: 0;
-}
-
-.search-header {
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.search-title {
-    font-size: 2.5rem;
-    font-weight: 700;
-    margin-bottom: 0.5rem;
-}
-
-.search-subtitle {
-    font-size: 1.1rem;
-    opacity: 0.9;
-    margin-bottom: 0;
-}
-
-.quick-search-form {
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.search-input-wrapper {
-    position: relative;
-    display: flex;
-    align-items: center;
-    background: white;
-    border-radius: 50px;
-    padding: 0.5rem;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-}
-
-.search-icon {
-    color: var(--xera-gray-500);
-    margin-left: 1rem;
-    margin-right: 0.5rem;
-}
-
-.quick-search-input {
-    flex: 1;
-    border: none;
-    outline: none;
-    padding: 1rem 0.5rem;
-    font-size: 1.1rem;
-    color: var(--xera-gray-800);
-}
-
-.search-btn {
-    background: var(--xera-primary);
-    color: white;
-    border: none;
-    border-radius: 50px;
-    padding: 1rem 1.5rem;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
-
-.search-btn:hover {
-    background: var(--xera-primary-dark);
-    transform: translateX(2px);
-}
-
-/* Filters Section */
-.ost-filters-section {
-    background: #f8f9fa;
-    padding: 1.5rem 0;
-    border-bottom: 1px solid #dee2e6;
-}
-
-.filters-toggle {
-    text-align: center;
-    margin-bottom: 1rem;
-}
-
-.filters-toggle-btn {
-    background: white;
-    border: 2px solid var(--xera-primary);
-    color: var(--xera-primary);
-    padding: 0.75rem 1.5rem;
-    border-radius: 50px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
-
-.filters-toggle-btn:hover {
-    background: var(--xera-primary);
-    color: white;
-}
-
-.filters-panel {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease;
-}
-
-.filters-panel.show {
-    max-height: 1000px;
-}
-
-.filters-grid {
-    background: white;
-    border-radius: 12px;
-    padding: 2rem;
-    margin-top: 1rem;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-}
-
-.filter-group {
-    margin-bottom: 2rem;
-}
-
-.filter-group:last-child {
-    margin-bottom: 0;
-}
-
-.filter-group-title {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: var(--xera-gray-800);
-    margin-bottom: 1rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 2px solid var(--xera-primary);
-}
-
-.filter-label {
-    display: block;
-    font-weight: 500;
-    color: var(--xera-gray-700);
-    margin-bottom: 0.5rem;
-}
-
-.filter-select {
-    width: 100%;
-    padding: 0.75rem;
-    border: 2px solid #e9ecef;
-    border-radius: 8px;
-    font-size: 0.95rem;
-    transition: border-color 0.3s ease;
-}
-
-.filter-select:focus {
-    outline: none;
-    border-color: var(--xera-primary);
-}
-
-/* Transparency Indicators Grid */
-.indicators-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-    gap: 1rem;
-}
-
-.indicator-filter {
-    position: relative;
-}
-
-.indicator-filter input[type="checkbox"] {
-    position: absolute;
-    opacity: 0;
-    cursor: pointer;
-}
-
-.indicator-label {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 1rem;
-    background: white;
-    border: 2px solid #e9ecef;
-    border-radius: 12px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    text-align: center;
-}
-
-.indicator-filter input:checked + .indicator-label {
-    border-color: var(--xera-primary);
-    background: var(--xera-primary-light);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
-
-.indicator-icon {
-    width: 48px;
-    height: 48px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 0.5rem;
-    font-size: 1.25rem;
-    color: white;
-}
-
-.indicator-icon.open-data { background: #28a745; }
-.indicator-icon.open-code { background: #17a2b8; }
-.indicator-icon.coi { background: #ffc107; }
-.indicator-icon.funding { background: #007bff; }
-.indicator-icon.registration { background: #6f42c1; }
-.indicator-icon.open-access { background: #28a745; }
-
-.indicator-label span {
-    font-weight: 500;
-    color: var(--xera-gray-700);
-}
-
-/* Filter Actions */
-.filter-actions {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid #dee2e6;
-}
-
-.apply-filters-btn, .clear-filters-btn {
-    padding: 0.75rem 2rem;
-    border-radius: 50px;
-    font-weight: 500;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    transition: all 0.3s ease;
-}
-
-.apply-filters-btn {
-    background: var(--xera-primary);
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-.apply-filters-btn:hover {
-    background: var(--xera-primary-dark);
-    transform: translateY(-1px);
-}
-
-.clear-filters-btn {
-    background: white;
-    color: var(--xera-gray-600);
-    border: 2px solid #dee2e6;
-}
-
-.clear-filters-btn:hover {
-    background: #f8f9fa;
-    color: var(--xera-gray-800);
-}
-
-/* Mobile Responsive */
-@media (max-width: 768px) {
-    .search-title {
-        font-size: 2rem;
-    }
-    
-    .search-input-wrapper {
-        padding: 0.25rem;
-    }
-    
-    .quick-search-input {
-        padding: 0.75rem 0.5rem;
-        font-size: 1rem;
-    }
-    
-    .indicators-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-    
-    .filter-actions {
-        flex-direction: column;
-    }
-}
-</style>
-{% endblock %}
+{% block meta_description %}Browse {{ papers|length }} of {{ paginator.count }} research papers with transparency indicators. Search by topic, journal, year, and transparency metrics.{% endblock %}
 
 {% block content %}
-<!-- Enhanced Filter Section -->
-<div class="ost-search-hero">
+<!-- Search Header -->
+<section class="py-4" style="background: linear-gradient(135deg, var(--xera-primary) 0%, var(--xera-primary-dark) 100%); color: white;">
     <div class="xera-container">
-        <div class="search-header">
-            <h1 class="search-title">
-                <i class="fas fa-file-alt me-2"></i>
-                Research Papers
-            </h1>
-            <p class="search-subtitle">Search and filter through {{ papers.paginator.count|floatformat:0 }} research papers with transparency indicators</p>
-        </div>
-        
-        <!-- Quick Search Bar -->
-        <form method="get" class="quick-search-form">
-            <div class="search-input-wrapper">
-                <i class="fas fa-search search-icon"></i>
-                <input type="text" 
-                       name="q" 
-                       value="{{ request.GET.q }}" 
-                       class="quick-search-input" 
-                       placeholder="Search papers by title, author, DOI, PMID, keywords..."
-                       data-search-debounce="300">
-                <button type="submit" class="search-btn">
-                    <i class="fas fa-arrow-right"></i>
-                </button>
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <h1 class="h3 mb-1">Research Papers</h1>
+                <p class="mb-0 opacity-75">
+                    {{ papers|length }} of {{ paginator.count }} papers
+                    {% if request.GET.q %} matching "{{ request.GET.q }}"{% endif %}
+                </p>
             </div>
-        </form>
-    </div>
-</div>
-
-<!-- Advanced Filters -->
-<div class="ost-filters-section">
-    <div class="xera-container">
-        <div class="filters-toggle">
-            <button type="button" class="filters-toggle-btn" onclick="toggleFilters()">
-                <i class="fas fa-sliders-h me-2"></i>
-                Advanced Filters
-                <i class="fas fa-chevron-down ms-2"></i>
-            </button>
-        </div>
-        
-        <div class="filters-panel" id="filtersPanel">
-            <form method="get" class="filters-form">
-                <!-- Preserve search query -->
-                {% if request.GET.q %}
-                <input type="hidden" name="q" value="{{ request.GET.q }}">
-                {% endif %}
-                
-                <div class="filters-grid">
-                    <!-- Basic Filters -->
-                    <div class="filter-group">
-                        <h4 class="filter-group-title">
-                            <i class="fas fa-filter me-2"></i>Basic Filters
-                        </h4>
-                        <div class="row g-3">
-                            <div class="col-md-4">
-                                <label class="filter-label">Publication Year</label>
-                                <select name="year" class="filter-select">
-                                    <option value="">All Years</option>
-                                    {% for year in available_years %}
-                                    <option value="{{ year }}" {% if request.GET.year == year|stringformat:"s" %}selected{% endif %}>
-                                        {{ year }}
-                                    </option>
-                                    {% endfor %}
-                                </select>
-                            </div>
-                            <div class="col-md-4">
-                                <label class="filter-label">Research Field</label>
-                                <select name="broad_subject_term" class="filter-select">
-                                    <option value="">All Fields</option>
-                                    {% for category in available_categories %}
-                                    <option value="{{ category }}" {% if request.GET.broad_subject_term == category %}selected{% endif %}>
-                                        {{ category }}
-                                    </option>
-                                    {% endfor %}
-                                </select>
-                            </div>
-                            <div class="col-md-4">
-                                <label class="filter-label">Publication Type</label>
-                                <select name="pub_type" class="filter-select">
-                                    <option value="">All Types</option>
-                                    {% for pub_type in available_pub_types %}
-                                    <option value="{{ pub_type }}" {% if request.GET.pub_type == pub_type %}selected{% endif %}>
-                                        {{ pub_type|capfirst|truncatechars:25 }}
-                                    </option>
-                                    {% endfor %}
-                                </select>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Transparency Filters -->
-                    <div class="filter-group">
-                        <h4 class="filter-group-title">
-                            <i class="fas fa-chart-line me-2"></i>Transparency Indicators
-                        </h4>
-                        <div class="row g-3 mb-3">
-                            <div class="col-md-6">
-                                <label class="filter-label">Overall Score</label>
-                                <select name="transparency" class="filter-select">
-                                    <option value="">All Scores</option>
-                                    <option value="high" {% if request.GET.transparency == "high" %}selected{% endif %}>High (5-6)</option>
-                                    <option value="medium" {% if request.GET.transparency == "medium" %}selected{% endif %}>Medium (3-4)</option>
-                                    <option value="low" {% if request.GET.transparency == "low" %}selected{% endif %}>Low (0-2)</option>
-                                </select>
-                            </div>
-                        </div>
-                        
-                        <!-- Individual Indicators -->
-                        <div class="indicators-grid">
-                            <div class="indicator-filter">
-                                <input type="checkbox" name="indicators" value="open_data" id="filter_open_data"
-                                       {% if 'open_data' in selected_indicators %}checked{% endif %}>
-                                <label for="filter_open_data" class="indicator-label">
-                                    <div class="indicator-icon open-data">
-                                        <i class="fas fa-database"></i>
-                                    </div>
-                                    <span>Open Data</span>
-                                </label>
-                            </div>
-                            
-                            <div class="indicator-filter">
-                                <input type="checkbox" name="indicators" value="open_code" id="filter_open_code"
-                                       {% if 'open_code' in selected_indicators %}checked{% endif %}>
-                                <label for="filter_open_code" class="indicator-label">
-                                    <div class="indicator-icon open-code">
-                                        <i class="fas fa-code"></i>
-                                    </div>
-                                    <span>Open Code</span>
-                                </label>
-                            </div>
-                            
-                            <div class="indicator-filter">
-                                <input type="checkbox" name="indicators" value="coi_disclosure" id="filter_coi"
-                                       {% if 'coi_disclosure' in selected_indicators %}checked{% endif %}>
-                                <label for="filter_coi" class="indicator-label">
-                                    <div class="indicator-icon coi">
-                                        <i class="fas fa-exclamation-triangle"></i>
-                                    </div>
-                                    <span>COI Disclosed</span>
-                                </label>
-                            </div>
-                            
-                            <div class="indicator-filter">
-                                <input type="checkbox" name="indicators" value="funding" id="filter_funding"
-                                       {% if 'funding' in selected_indicators %}checked{% endif %}>
-                                <label for="filter_funding" class="indicator-label">
-                                    <div class="indicator-icon funding">
-                                        <i class="fas fa-dollar-sign"></i>
-                                    </div>
-                                    <span>Funding Info</span>
-                                </label>
-                            </div>
-                            
-                            <div class="indicator-filter">
-                                <input type="checkbox" name="indicators" value="registration" id="filter_registration"
-                                       {% if 'registration' in selected_indicators %}checked{% endif %}>
-                                <label for="filter_registration" class="indicator-label">
-                                    <div class="indicator-icon registration">
-                                        <i class="fas fa-clipboard-list"></i>
-                                    </div>
-                                    <span>Registered</span>
-                                </label>
-                            </div>
-                            
-                            <div class="indicator-filter">
-                                <input type="checkbox" name="indicators" value="open_access" id="filter_open_access"
-                                       {% if 'open_access' in selected_indicators %}checked{% endif %}>
-                                <label for="filter_open_access" class="indicator-label">
-                                    <div class="indicator-icon open-access">
-                                        <i class="fas fa-unlock-alt"></i>
-                                    </div>
-                                    <span>Open Access</span>
-                                </label>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Filter Actions -->
-                <div class="filter-actions">
-                    <button type="submit" class="apply-filters-btn">
-                        <i class="fas fa-search me-2"></i>Apply Filters
-                    </button>
-                    <a href="{% url 'tracker:paper_list' %}" class="clear-filters-btn">
-                        <i class="fas fa-times me-2"></i>Clear All
+            <div class="col-md-4 text-md-end">
+                <div class="btn-group" role="group">
+                    <a href="{% url 'tracker:paper_list' %}?{{ request.GET.urlencode }}&format=csv" 
+                       class="btn btn-outline-light btn-sm" 
+                       title="Export search results to CSV">
+                        <i class="fas fa-file-csv"></i> CSV
+                    </a>
+                    <a href="{% url 'tracker:paper_list' %}?{{ request.GET.urlencode }}&format=excel" 
+                       class="btn btn-outline-light btn-sm" 
+                       title="Export search results to Excel">
+                        <i class="fas fa-file-excel"></i> Excel
                     </a>
                 </div>
-            </form>
-        </div>
-    </div>
-</div>
-
-<!-- Papers List -->
-<section>
-    <div class="papers-section">
-        <div class="papers-header mb-4">
-            <h2 class="papers-title">
-                <i class="fas fa-file-alt me-2"></i>
-                Research Papers
-                {% if request.GET.q %}
-                    <span class="text-muted ms-2 fw-normal">- Search: "{{ request.GET.q }}"</span>
-                {% endif %}
-            </h2>
-            <div class="text-muted">
-                Showing {{ papers|length }} of {{ papers.paginator.count }} papers
             </div>
-        </div>
-        
-        <div class="papers-list-container">
-                {% for paper in papers %}
-                <div class="ost-paper-card">
-                    <div class="ost-paper-card-header">
-                        <div class="ost-paper-card-content">
-                            <h3 class="ost-paper-title">
-                                <a href="{% url 'tracker:paper_detail' paper.epmc_id %}">
-                                    {{ paper.title|truncatechars:120 }}
-                                </a>
-                            </h3>
-                            
-                            <div class="ost-paper-meta mb-2">
-                                <!-- Journal (clickable) -->
-                                <span class="d-flex align-items-center me-3">
-                                    <i class="fas fa-book me-1"></i>
-                                    {% if paper.journal %}
-                                        <a href="{% url 'tracker:journal_detail' paper.journal.id %}" class="text-decoration-none fw-medium">
-                                            {{ paper.journal.title_abbreviation }}
-                                        </a>
-                                    {% else %}
-                                        <a href="{% url 'tracker:paper_list' %}?q={{ paper.journal_title|urlencode }}" class="text-decoration-none fw-medium">
-                                            {{ paper.journal_title|default:"Unknown Journal" }}
-                                        </a>
-                                    {% endif %}
-                                </span>
-                                
-                                <!-- Year (clickable) -->
-                                <span class="d-flex align-items-center me-3">
-                                    <i class="fas fa-calendar me-1"></i>
-                                    {% if paper.pub_year %}
-                                        <a href="{% url 'tracker:paper_list' %}?year={{ paper.pub_year }}" class="text-decoration-none fw-medium">
-                                            {{ paper.pub_year }}
-                                        </a>
-                                    {% else %}
-                                        <span class="text-muted">Unknown Year</span>
-                                    {% endif %}
-                                </span>
-                                
-                                <!-- Authors (clickable) -->
-                                <span class="d-flex align-items-center me-3">
-                                    <i class="fas fa-user me-1"></i>
-                                    {% if paper.author_string %}
-                                        <a href="{% url 'tracker:paper_list' %}?q={{ paper.author_string|slice:":50"|urlencode }}" class="text-decoration-none fw-medium">
-                                            {{ paper.author_string|safe_display }}
-                                        </a>
-                                    {% else %}
-                                        <span class="text-muted">Unknown Author</span>
-                                    {% endif %}
-                                </span>
-                                
-                                <!-- Research Field -->
-                                {% if paper.broad_subject_term %}
-                                <span class="d-flex align-items-center me-3">
-                                    <i class="fas fa-atom me-1"></i>
-                                    <a href="{% url 'tracker:paper_list' %}?broad_subject_term={{ paper.broad_subject_term|urlencode }}" class="text-decoration-none fw-medium">
-                                        {{ paper.broad_subject_term }}
-                                    </a>
-                                </span>
-                                {% endif %}
-                                
-                                <!-- Publication Type -->
-                                {% if paper.pub_type %}
-                                <span class="d-flex align-items-center me-3">
-                                    <i class="fas fa-file-alt me-1"></i>
-                                    <a href="{% url 'tracker:paper_list' %}?pub_type={{ paper.pub_type|urlencode }}" class="text-decoration-none fw-medium">
-                                        {{ paper.pub_type|capfirst|truncatechars:25 }}
-                                    </a>
-                                </span>
-                                {% endif %}
-                            </div>
-                            
-                            <!-- Identifiers Row -->
-                            <div class="ost-paper-identifiers mb-2">
-                                {% if paper.pmid %}
-                                <span class="d-flex align-items-center me-3">
-                                    <i class="fas fa-hashtag me-1"></i>
-                                    <strong>PMID:</strong>
-                                    <a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/" target="_blank" class="text-decoration-none ms-1">
-                                        {{ paper.pmid }}
-                                        <i class="fas fa-external-link-alt fa-xs ms-1"></i>
-                                    </a>
-                                </span>
-                                {% endif %}
-                                
-                                {% if paper.pmcid %}
-                                <span class="d-flex align-items-center me-3">
-                                    <i class="fas fa-file-medical me-1"></i>
-                                    <strong>PMCID:</strong>
-                                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ paper.pmcid }}/" target="_blank" class="text-decoration-none ms-1">
-                                        {{ paper.pmcid }}
-                                        <i class="fas fa-external-link-alt fa-xs ms-1"></i>
-                                    </a>
-                                </span>
-                                {% endif %}
-                                
-                                {% if paper.doi %}
-                                <span class="d-flex align-items-center me-3">
-                                    <i class="fas fa-link me-1"></i>
-                                    <strong>DOI:</strong>
-                                    <a href="https://doi.org/{{ paper.doi }}" target="_blank" class="text-decoration-none ms-1">
-                                        {{ paper.doi|truncatechars:25 }}
-                                        <i class="fas fa-external-link-alt fa-xs ms-1"></i>
-                                    </a>
-                                </span>
-                                {% endif %}
-                                
-                                <!-- Open Access Status -->
-                                <span class="d-flex align-items-center">
-                                    <i class="fas fa-{% if paper.is_open_access %}unlock{% else %}lock{% endif %} me-1"></i>
-                                    <span class="badge bg-{% if paper.is_open_access %}success{% else %}secondary{% endif %}">
-                                        {% if paper.is_open_access %}Open Access{% else %}Subscription{% endif %}
-                                    </span>
-                                </span>
-                            </div>
-                        </div>
-                        
-                        <!-- Transparency Score Card -->
-                        <div class="ost-paper-card-actions ms-3">
-                            <div class="text-center">
-                                <div class="ost-transparency-score {% if paper.transparency_score >= 5 %}high{% elif paper.transparency_score >= 3 %}medium{% else %}low{% endif %} mb-2">
-                                    {{ paper.transparency_score|default:0 }}/6
-                                </div>
-                                <div class="xera-text-xs text-muted">
-                                    Overall Score
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Individual Transparency Indicators -->
-                    <div class="ost-paper-card-footer">
-                        <div class="d-flex flex-wrap gap-2 mb-3">
-                            <!-- Open Data -->
-                            <span class="transparency-badge indicator-open-data {% if paper.is_open_data %}transparency-yes{% else %}transparency-no{% endif %}">
-                                <i class="fas fa-{% if paper.is_open_data %}check{% else %}times{% endif %}"></i>
-                                Open Data
-                            </span>
-                            
-                            <!-- Open Code -->
-                            <span class="transparency-badge indicator-open-code {% if paper.is_open_code %}transparency-yes{% else %}transparency-no{% endif %}">
-                                <i class="fas fa-{% if paper.is_open_code %}check{% else %}times{% endif %}"></i>
-                                Open Code
-                            </span>
-                            
-                            <!-- COI Disclosure -->
-                            <span class="transparency-badge indicator-coi-disclosure {% if paper.is_coi_pred %}transparency-yes{% else %}transparency-no{% endif %}">
-                                <i class="fas fa-{% if paper.is_coi_pred %}shield-alt{% else %}times{% endif %}"></i>
-                                COI Disclosed
-                            </span>
-                            
-                            <!-- Funding -->
-                            <span class="transparency-badge indicator-funding {% if paper.is_fund_pred %}transparency-yes{% else %}transparency-no{% endif %}">
-                                <i class="fas fa-{% if paper.is_fund_pred %}dollar-sign{% else %}times{% endif %}"></i>
-                                Funding Info
-                            </span>
-                            
-                            <!-- Registration -->
-                            <span class="transparency-badge indicator-registration {% if paper.is_register_pred %}transparency-yes{% else %}transparency-no{% endif %}">
-                                <i class="fas fa-{% if paper.is_register_pred %}clipboard-check{% else %}times{% endif %}"></i>
-                                Registered
-                            </span>
-                            
-                            <!-- Open Access -->
-                            <span class="transparency-badge indicator-open-access {% if paper.is_open_access %}transparency-yes{% else %}transparency-no{% endif %}">
-                                <i class="fas fa-{% if paper.is_open_access %}unlock-alt{% else %}lock{% endif %}"></i>
-                                Open Access
-                            </span>
-                        </div>
-                        
-                        <div class="d-flex gap-2 justify-content-between align-items-center">
-                            <div class="d-flex gap-2">
-                                <a href="{% url 'tracker:paper_detail' paper.epmc_id %}" 
-                                   class="xera-btn xera-btn-primary xera-btn-sm">
-                                    <i class="fas fa-eye me-1"></i>View Details
-                                </a>
-                                
-                                {% if paper.doi %}
-                                <a href="https://doi.org/{{ paper.doi }}" 
-                                   target="_blank" 
-                                   class="xera-btn xera-btn-secondary xera-btn-sm">
-                                    <i class="fas fa-external-link-alt me-1"></i>DOI
-                                </a>
-                                {% endif %}
-                                
-                                {% if paper.pmid %}
-                                <a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/" 
-                                   target="_blank" 
-                                   class="xera-btn xera-btn-secondary xera-btn-sm">
-                                    <i class="fas fa-external-link-alt me-1"></i>PubMed
-                                </a>
-                                {% endif %}
-                            </div>
-                            
-                            <!-- Quick Stats -->
-                            <div class="d-flex gap-1 align-items-center xera-text-xs text-muted">
-                                <span title="Transparency Score">
-                                    <i class="fas fa-chart-line"></i>
-                                    {{ paper.transparency_score|default:0 }}/6
-                                </span>
-                                {% if paper.cited_by_count %}
-                                <span title="Citations" class="ms-2">
-                                    <i class="fas fa-quote-left"></i>
-                                    {{ paper.cited_by_count }}
-                                </span>
-                                {% endif %}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {% empty %}
-                <div class="text-center py-5">
-                    <div class="text-muted mb-3">
-                        <i class="fas fa-search fa-3x"></i>
-                    </div>
-                    <h4 class="text-muted">No papers found</h4>
-                    <p class="text-muted">
-                        Try adjusting your search criteria or 
-                        <a href="{% url 'tracker:paper_list' %}" class="text-decoration-none">view all papers</a>.
-                    </p>
-                </div>
-                {% endfor %}
         </div>
     </div>
 </section>
 
-<!-- Pagination -->
-{% if papers.has_other_pages %}
-<nav class="mt-4">
-    <div class="ost-pagination">
-        {% if papers.has_previous %}
-            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page=1">
-                <i class="fas fa-angle-double-left"></i>
-            </a>
-            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ papers.previous_page_number }}">
-                <i class="fas fa-angle-left"></i>
-            </a>
-        {% endif %}
+<!-- Search and Filters -->
+<section class="py-4 bg-light">
+    <div class="xera-container">
+        <form method="get" class="row g-3">
+            <!-- Main Search -->
+            <div class="col-md-6">
+                <div class="input-group">
+                    <span class="input-group-text">
+                        <i class="fas fa-search"></i>
+                    </span>
+                    <input type="text" 
+                           name="q" 
+                           class="form-control" 
+                           placeholder="Search papers, authors, journals..."
+                           value="{{ request.GET.q|default:'' }}">
+                </div>
+            </div>
+            
+            <!-- Year Filter -->
+            <div class="col-md-2">
+                <select name="year" class="form-select">
+                    <option value="">All Years</option>
+                    {% for year in year_range %}
+                        <option value="{{ year }}" {% if request.GET.year == year|stringformat:"s" %}selected{% endif %}>
+                            {{ year }}
+                        </option>
+                    {% endfor %}
+                </select>
+            </div>
+            
+            <!-- Transparency Filter -->
+            <div class="col-md-2">
+                <select name="transparency" class="form-select">
+                    <option value="">All Papers</option>
+                    <option value="high" {% if request.GET.transparency == 'high' %}selected{% endif %}>High Transparency</option>
+                    <option value="medium" {% if request.GET.transparency == 'medium' %}selected{% endif %}>Medium Transparency</option>
+                    <option value="low" {% if request.GET.transparency == 'low' %}selected{% endif %}>Low Transparency</option>
+                </select>
+            </div>
+            
+            <!-- Submit Button -->
+            <div class="col-md-2">
+                <button type="submit" class="btn btn-primary w-100">
+                    <i class="fas fa-search"></i> Search
+                </button>
+            </div>
+        </form>
         
-        <span class="ost-pagination-info">
-            Page {{ papers.number }} of {{ papers.paginator.num_pages }}
-        </span>
-        
-        {% if papers.has_next %}
-            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ papers.next_page_number }}">
-                <i class="fas fa-angle-right"></i>
-            </a>
-            <a href="?{% for key, value in request.GET.items %}{% if key != 'page' %}{{ key }}={{ value }}&{% endif %}{% endfor %}page={{ papers.paginator.num_pages }}">
-                <i class="fas fa-angle-double-right"></i>
-            </a>
-        {% endif %}
-    </div>
-</nav>
-{% endif %}
-
-<!-- Summary Statistics -->
-<div class="mt-4">
-    <div class="xera-card">
-        <div class="xera-card-body">
-            <h5 class="xera-card-title mb-3">
-                <i class="fas fa-chart-pie me-2"></i>
-                Current Search Results Summary
-            </h5>
-            <div class="row g-3">
-                <div class="col-md-2">
-                    <div class="text-center p-2 border rounded">
-                        <div class="fw-bold text-primary">{{ papers.paginator.count }}</div>
-                        <div class="xera-text-xs text-muted">Total Papers</div>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="text-center p-2 border rounded">
-                        <div class="fw-bold text-success">
-                            {% widthratio papers.paginator.count 1 1 as total %}
-                            {% if total > 0 %}
-                                {% widthratio papers|length 1 total %}%
-                            {% else %}
-                                0%
-                            {% endif %}
-                        </div>
-                        <div class="xera-text-xs text-muted">Open Access</div>
-                    </div>
-                </div>
-                <div class="col-md-2">
-                    <div class="text-center p-2 border rounded">
-                        <div class="fw-bold text-info">-</div>
-                        <div class="xera-text-xs text-muted">Avg Score</div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="d-flex justify-content-center gap-3">
-                        <a href="{% url 'tracker:statistics' %}" class="xera-btn xera-btn-outline xera-btn-sm">
-                            <i class="fas fa-chart-bar me-1"></i>View Statistics
-                        </a>
-                        <a href="#" class="xera-btn xera-btn-ghost xera-btn-sm" onclick="window.print()">
-                            <i class="fas fa-print me-1"></i>Print Results
-                        </a>
-                    </div>
-                </div>
+        <!-- Quick Filters -->
+        <div class="mt-3">
+            <div class="d-flex flex-wrap gap-2">
+                <span class="text-muted small">Quick filters:</span>
+                <a href="{% url 'tracker:paper_list' %}?is_open_data=True" 
+                   class="badge bg-success text-decoration-none">Open Data</a>
+                <a href="{% url 'tracker:paper_list' %}?is_open_code=True" 
+                   class="badge bg-info text-decoration-none">Open Code</a>
+                <a href="{% url 'tracker:paper_list' %}?is_preregistered=True" 
+                   class="badge bg-warning text-decoration-none">Pre-registered</a>
+                <a href="{% url 'tracker:paper_list' %}?has_funding_pred=True" 
+                   class="badge bg-secondary text-decoration-none">Funded</a>
+                {% if request.GET %}
+                    <a href="{% url 'tracker:paper_list' %}" 
+                       class="badge bg-light text-dark text-decoration-none">Clear Filters</a>
+                {% endif %}
             </div>
         </div>
     </div>
-</div>
+</section>
 
-<!-- Add custom CSS for enhanced styling -->
+<!-- Papers List -->
+<section class="py-4">
+    <div class="xera-container">
+        {% if papers %}
+            {% for paper in papers %}
+            <div class="xera-card paper-card mb-3">
+                <div class="xera-card-body">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <!-- Paper Title -->
+                            <h5 class="mb-2">
+                                <a href="{% url 'tracker:paper_detail' paper.id %}" class="text-decoration-none">
+                                    {{ paper.title|safe_display|truncatechars:120 }}
+                                </a>
+                            </h5>
+                            
+                            <!-- Authors -->
+                            {% if paper.author_string %}
+                            <div class="text-muted mb-2">
+                                <small>
+                                    <i class="fas fa-user me-1"></i>
+                                    {{ paper.author_string|safe_display|truncate_authors:80 }}
+                                </small>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Journal and Publisher -->
+                            <div class="text-muted mb-2">
+                                <small>
+                                    <i class="fas fa-journal-whills me-1"></i>
+                                    {% if paper.journal %}
+                                        <a href="{% url 'tracker:journal_detail' paper.journal.id %}" 
+                                           class="text-decoration-none text-muted"
+                                           title="View journal details">
+                                            {{ paper.journal.title_full|truncatechars:60 }}
+                                        </a>
+                                        {% if paper.journal.publisher %}
+                                            <span class="text-muted">
+                                                ({{ paper.journal.publisher|truncatechars:30 }})
+                                            </span>
+                                        {% endif %}
+                                    {% else %}
+                                        Unknown Journal
+                                    {% endif %}
+                                </small>
+                            </div>
+                            
+                            <!-- Subject Terms -->
+                            {% if paper.journal.broad_subject_terms %}
+                            <div class="mb-2">
+                                <small>
+                                    <i class="fas fa-tag text-muted me-1"></i>
+                                    <span class="badge bg-light text-dark">{{ paper.journal.broad_subject_terms|truncatechars:50 }}</span>
+                                </small>
+                            </div>
+                            {% endif %}
+                            
+                            <!-- Publication Details -->
+                            <div class="mb-2">
+                                <small class="text-muted">
+                                    <i class="fas fa-calendar me-1"></i>
+                                    Published: {{ paper.pub_year|default:"Unknown" }}
+                                    {% if paper.pub_type %}
+                                        • Type: {{ paper.pub_type }}
+                                    {% endif %}
+                                </small>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-4">
+                            <div class="text-end">
+                                <!-- Transparency Score -->
+                                {% if paper.transparency_score %}
+                                <div class="mb-2">
+                                    <span class="badge 
+                                        {% if paper.transparency_score >= 75 %}bg-success
+                                        {% elif paper.transparency_score >= 50 %}bg-warning  
+                                        {% else %}bg-danger{% endif %} fs-6">
+                                        {{ paper.transparency_score|floatformat:0 }}% Transparent
+                                    </span>
+                                </div>
+                                {% endif %}
+                                
+                                <!-- Transparency Indicators -->
+                                <div class="mb-2">
+                                    {% if paper.is_open_data %}
+                                        <span class="badge bg-success me-1" title="Open Data Available">Data</span>
+                                    {% endif %}
+                                    {% if paper.is_open_code %}
+                                        <span class="badge bg-info me-1" title="Open Code Available">Code</span>
+                                    {% endif %}
+                                    {% if paper.is_preregistered %}
+                                        <span class="badge bg-warning me-1" title="Pre-registered Protocol">Registered</span>
+                                    {% endif %}
+                                    {% if paper.has_funding_pred %}
+                                        <span class="badge bg-secondary me-1" title="Funding Information Available">Funded</span>
+                                    {% endif %}
+                                </div>
+                                
+                                <!-- External Links -->
+                                <div>
+                                    {% if paper.pmcid %}
+                                    <small>
+                                        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ paper.pmcid|safe_display }}" 
+                                           target="_blank" 
+                                           class="text-decoration-none me-2"
+                                           title="View on PubMed Central">
+                                            <i class="fas fa-external-link-alt"></i> PMC
+                                        </a>
+                                    </small>
+                                    {% endif %}
+                                    {% if paper.doi %}
+                                    <small>
+                                        <a href="https://doi.org/{{ paper.doi|safe_display }}" 
+                                           target="_blank" 
+                                           class="text-decoration-none"
+                                           title="View DOI">
+                                            <i class="fas fa-external-link-alt"></i> DOI
+                                        </a>
+                                    </small>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+            
+            <!-- Pagination -->
+            {% if is_paginated %}
+            <nav aria-label="Papers pagination" class="mt-4">
+                <ul class="pagination justify-content-center">
+                    {% if page_obj.has_previous %}
+                        <li class="page-item">
+                            <a class="page-link" href="?{{ request.GET.urlencode }}&page=1">
+                                <i class="fas fa-angle-double-left"></i>
+                            </a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="?{{ request.GET.urlencode }}&page={{ page_obj.previous_page_number }}">
+                                <i class="fas fa-angle-left"></i> Previous
+                            </a>
+                        </li>
+                    {% endif %}
+                    
+                    <!-- Page numbers -->
+                    {% for num in page_obj.paginator.page_range %}
+                        {% if page_obj.number == num %}
+                            <li class="page-item active">
+                                <span class="page-link">{{ num }}</span>
+                            </li>
+                        {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'3' %}
+                            <li class="page-item">
+                                <a class="page-link" href="?{{ request.GET.urlencode }}&page={{ num }}">{{ num }}</a>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                    
+                    {% if page_obj.has_next %}
+                        <li class="page-item">
+                            <a class="page-link" href="?{{ request.GET.urlencode }}&page={{ page_obj.next_page_number }}">
+                                Next <i class="fas fa-angle-right"></i>
+                            </a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="?{{ request.GET.urlencode }}&page={{ page_obj.paginator.num_pages }}">
+                                <i class="fas fa-angle-double-right"></i>
+                            </a>
+                        </li>
+                    {% endif %}
+                </ul>
+            </nav>
+            {% endif %}
+            
+        {% else %}
+            <!-- No Results -->
+            <div class="text-center py-5">
+                <div class="mb-4">
+                    <i class="fas fa-search fa-3x text-muted"></i>
+                </div>
+                <h3 class="text-muted mb-3">No Papers Found</h3>
+                <p class="text-muted mb-4">
+                    {% if request.GET.q %}
+                        No papers match your search for "{{ request.GET.q }}".
+                    {% else %}
+                        No papers match your current filters.
+                    {% endif %}
+                </p>
+                <a href="{% url 'tracker:paper_list' %}" class="btn btn-primary">
+                    <i class="fas fa-refresh"></i> Clear Filters
+                </a>
+            </div>
+        {% endif %}
+    </div>
+</section>
+
+<!-- Custom Styles -->
 <style>
-.ost-paper-identifiers {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem 1rem;
-    font-size: 0.875rem;
+.paper-card {
+    transition: box-shadow 0.3s ease, transform 0.2s ease;
 }
 
-.ost-paper-identifiers strong {
-    font-weight: 600;
+.paper-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
 }
 
-.ost-indicator.active {
-    background-color: rgba(40, 167, 69, 0.1);
-    color: #28a745;
-    border: 1px solid rgba(40, 167, 69, 0.3);
-}
-
-.ost-indicator.inactive {
-    background-color: rgba(108, 117, 125, 0.1);
-    color: #6c757d;
-    border: 1px solid rgba(108, 117, 125, 0.3);
-}
-
-.ost-indicator {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-    padding: 0.25rem 0.5rem;
-    border-radius: 0.375rem;
+.badge {
     font-size: 0.75rem;
-    font-weight: 500;
-    transition: all 0.2s ease;
 }
 
-.ost-paper-meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem 1rem;
-    font-size: 0.875rem;
+.pagination .page-link {
+    border-radius: 0.375rem;
+    margin: 0 0.125rem;
+    border: 1px solid #dee2e6;
 }
 
-.ost-paper-meta a:hover {
-    color: var(--xera-primary) !important;
+.pagination .page-item.active .page-link {
+    background-color: var(--xera-primary);
+    border-color: var(--xera-primary);
+}
+
+.form-select:focus,
+.form-control:focus {
+    border-color: var(--xera-primary);
+    box-shadow: 0 0 0 0.2rem rgba(var(--xera-primary-rgb), 0.25);
 }
 </style>
-{% endblock %}
-
-{% block extra_js %}
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    // Enhanced search functionality
-    const searchInput = document.querySelector('[data-search-debounce]');
-    if (searchInput) {
-        let debounceTimer;
-        
-        searchInput.addEventListener('input', function() {
-            clearTimeout(debounceTimer);
-            debounceTimer = setTimeout(() => {
-                // Optional: Auto-submit after typing stops
-                // this.closest('form').submit();
-            }, 300);
-        });
-        
-        // Submit on Enter
-        searchInput.addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                clearTimeout(debounceTimer);
-                this.closest('form').submit();
-            }
-        });
-    }
-    
-    // Animate paper cards on scroll
-    const observerOptions = {
-        threshold: 0.1,
-        rootMargin: '0px 0px -50px 0px'
-    };
-    
-    const observer = new IntersectionObserver(function(entries) {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('ost-fade-in');
-            }
-        });
-    }, observerOptions);
-    
-    document.querySelectorAll('.ost-paper-card').forEach(card => {
-        observer.observe(card);
-    });
-    
-    // Enhanced transparency score interactions
-    document.querySelectorAll('.ost-transparency-score').forEach(score => {
-        score.addEventListener('mouseenter', function() {
-            this.style.transform = 'scale(1.05)';
-        });
-        
-        score.addEventListener('mouseleave', function() {
-            this.style.transform = 'scale(1)';
-        });
-    });
-    
-    console.log('Paper List Enhanced with Modern Cards!');
-});
-
-// Filter toggle functionality
-function toggleFilters() {
-    const panel = document.getElementById('filtersPanel');
-    const btn = document.querySelector('.filters-toggle-btn');
-    const chevron = btn.querySelector('.fa-chevron-down, .fa-chevron-up');
-    
-    panel.classList.toggle('show');
-    
-    if (panel.classList.contains('show')) {
-        chevron.className = 'fas fa-chevron-up ms-2';
-    } else {
-        chevron.className = 'fas fa-chevron-down ms-2';
-    }
-}
-
-// Auto-expand filters if any are active
-document.addEventListener('DOMContentLoaded', function() {
-    const hasActiveFilters = document.querySelector('select:not([name="q"])[value!=""]') ||
-                           document.querySelector('input[type="checkbox"]:checked') ||
-                           new URLSearchParams(window.location.search).get('year') ||
-                           new URLSearchParams(window.location.search).get('broad_subject_term') ||
-                           new URLSearchParams(window.location.search).get('pub_type') ||
-                           new URLSearchParams(window.location.search).get('transparency');
-    
-    if (hasActiveFilters) {
-        toggleFilters();
-    }
-});
-</script>
 {% endblock %} 

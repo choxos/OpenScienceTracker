@@ -1,330 +1,368 @@
-{% extends "tracker/base.html" %}
+{% extends 'tracker/xera_base.html' %}
 {% load static %}
+{% load ost_filters %}
 
-{% block title %}Open Science Tracker - Transparency in Scientific Publications{% endblock %}
+{% block title %}Open Science Tracker - Research Transparency Database{% endblock %}
 
-{% block meta_description %}Open Science Tracker provides comprehensive transparency indicators for scientific publications. Track open data, code sharing, conflict of interest disclosure, and funding transparency across 1M+ research papers.{% endblock %}
+{% block meta_description %}Track transparency indicators across {{ total_papers|default:"thousands of" }} research papers. Search by transparency metrics, journals, subjects, and publication years.{% endblock %}
 
 {% block content %}
-<!-- Hero Section -->
-<section class="ost-hero-section">
+<!-- OST Hero Section -->
+<section class="prct-hero-section">
     <div class="xera-container">
-        <div class="ost-hero-content">
-            <h1 class="ost-hero-title">Open Science Tracker</h1>
-            <p class="ost-hero-subtitle">
-                Advancing transparency and reproducibility in scientific research through comprehensive tracking 
-                of open data, code sharing, and research practices across millions of publications.
+        <div class="prct-hero-content">
+            <h1 class="prct-hero-title">
+                Track Open Science & Research Transparency
+            </h1>
+            <p class="prct-hero-subtitle">
+                Discover transparency practices across research literature. Search our comprehensive database to analyze open data sharing, code availability, protocol registration, and funding disclosure.
             </p>
             
-            <div class="d-flex flex-wrap justify-content-center gap-3 mt-4">
-                <a href="{% url 'tracker:paper_list' %}" class="xera-btn xera-btn-primary xera-btn-lg">
-                    <i class="fas fa-search me-2"></i>Explore Papers
-                </a>
-                <a href="{% url 'tracker:statistics' %}" class="xera-btn xera-btn-outline xera-btn-lg" style="border-color: white; color: white;">
-                    <i class="fas fa-chart-bar me-2"></i>View Statistics
-                </a>
-                <a href="/api/" target="_blank" class="xera-btn xera-btn-outline xera-btn-lg" style="border-color: white; color: white;">
-                    <i class="fas fa-code me-2"></i>API Access
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Statistics Overview -->
-<section class="my-5">
-    <div class="xera-container">
-        <div class="xera-stats-grid">
-            <div class="xera-stat-card ost-stat-papers">
-                <h2 class="xera-stat-number">{{ total_papers|floatformat:0 }}</h2>
-                <p class="xera-stat-label">Research Papers</p>
-                <p class="xera-stat-change positive">
-                    <i class="fas fa-arrow-up me-1"></i>Growing daily
-                </p>
-            </div>
-            
-            <div class="xera-stat-card ost-stat-journals">
-                <h2 class="xera-stat-number">{{ total_journals|floatformat:0 }}</h2>
-                <p class="xera-stat-label">Journals Tracked</p>
-                <p class="xera-stat-change">
-                    <i class="fas fa-book me-1"></i>Comprehensive coverage
-                </p>
-            </div>
-            
-
-            
-            <div class="xera-stat-card ost-stat-transparency">
-                <h2 class="xera-stat-number">{{ avg_transparency_score|floatformat:1 }}/7</h2>
-                <p class="xera-stat-label">Avg Transparency Score</p>
-                <p class="xera-stat-change">
-                    <i class="fas fa-microscope me-1"></i>Improving trends
-                </p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Transparency Overview -->
-<section class="ost-transparency-overview">
-    <div class="xera-container">
-        <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-4">
-            <h2 class="xera-card-title mb-3 mb-md-0">
-                <i class="fas fa-chart-pie me-2"></i>
-                Transparency Indicators Overview
-            </h2>
-            
-            <!-- Year Filter -->
-            <div class="year-filter-section">
-                <form method="get" id="transparency-year-filter" class="d-flex align-items-center">
-                    <label class="me-2 text-muted fw-medium">Data Range:</label>
-                    <div class="btn-group btn-group-sm" role="group" data-bs-toggle="buttons">
-                        <input type="radio" class="btn-check" name="year_filter" id="year_all" value="all" {% if year_filter == 'all' %}checked{% endif %}>
-                        <label class="btn btn-outline-primary" for="year_all">All Years</label>
-                        
-                        <input type="radio" class="btn-check" name="year_filter" id="year_2000" value="2000" {% if not year_filter or year_filter == '2000' %}checked{% endif %}>
-                        <label class="btn btn-outline-primary" for="year_2000">2000+</label>
+            <!-- Search Form -->
+            <form method="get" action="{% url 'tracker:paper_list' %}" class="d-flex justify-content-center mb-4">
+                <div class="xera-form-group" style="max-width: 600px; width: 100%;">
+                    <div class="d-flex">
+                        <input type="text" 
+                               name="q" 
+                               class="xera-form-control xera-form-control-lg me-2" 
+                               placeholder="Search by paper title, author, or journal..."
+                               value="{{ request.GET.q|default:'' }}"
+                               style="flex: 1;">
+                        <button type="submit" class="xera-btn xera-btn-secondary xera-btn-lg">
+                            <i class="fas fa-search"></i> Search
+                        </button>
                     </div>
-                </form>
-            </div>
-        </div>
-        
-        <div class="ost-transparency-metrics">
-            <div class="ost-transparency-metric">
-                <div class="ost-metric-icon ost-indicator data-sharing">
-                    <i class="fas fa-database"></i>
                 </div>
-                <div class="ost-metric-data">
-                    <p class="ost-metric-percentage">{{ data_sharing_pct|floatformat:1 }}%</p>
-                    <p class="ost-metric-label">Open Data Sharing</p>
-                </div>
-            </div>
-            
-            <div class="ost-transparency-metric">
-                <div class="ost-metric-icon ost-indicator code-sharing">
-                    <i class="fas fa-code"></i>
-                </div>
-                <div class="ost-metric-data">
-                    <p class="ost-metric-percentage">{{ code_sharing_pct|floatformat:1 }}%</p>
-                    <p class="ost-metric-label">Code Sharing</p>
-                </div>
-            </div>
-            
-            <div class="ost-transparency-metric">
-                <div class="ost-metric-icon ost-indicator coi-disclosure">
-                    <i class="fas fa-exclamation-triangle"></i>
-                </div>
-                <div class="ost-metric-data">
-                    <p class="ost-metric-percentage">{{ coi_disclosure_pct|floatformat:1 }}%</p>
-                    <p class="ost-metric-label">COI Disclosure</p>
-                </div>
-            </div>
-            
-            <div class="ost-transparency-metric">
-                <div class="ost-metric-icon ost-indicator funding">
-                    <i class="fas fa-dollar-sign"></i>
-                </div>
-                <div class="ost-metric-data">
-                    <p class="ost-metric-percentage">{{ funding_disclosure_pct|floatformat:1 }}%</p>
-                    <p class="ost-metric-label">Funding Disclosure</p>
-                </div>
-            </div>
-            
-            <div class="ost-transparency-metric">
-                <div class="ost-metric-icon ost-indicator registration">
-                    <i class="fas fa-clipboard-list"></i>
-                </div>
-                <div class="ost-metric-data">
-                    <p class="ost-metric-percentage">{{ protocol_registration_pct|floatformat:1 }}%</p>
-                    <p class="ost-metric-label">Protocol Registration</p>
-                </div>
-            </div>
-            
-            <div class="ost-transparency-metric">
-                <div class="ost-metric-icon ost-indicator sharing">
-                    <i class="fas fa-share-alt"></i>
-                </div>
-                <div class="ost-metric-data">
-                    <p class="ost-metric-percentage">{{ open_access_pct|floatformat:1 }}%</p>
-                    <p class="ost-metric-label">Open Access</p>
-                </div>
-            </div>
+            </form>
         </div>
     </div>
 </section>
 
-
-
-<!-- Recent Papers -->
-<section class="my-5">
+<!-- OST Statistics Section -->
+<section class="py-5">
     <div class="xera-container">
-        <div class="xera-card">
-            <div class="xera-card-header">
-                <h2 class="xera-card-title">
-                    <i class="fas fa-clock me-2"></i>
-                    Recently Added Papers
-                </h2>
-            </div>
-            <div class="xera-card-body">
-                <div class="xera-table-container">
-                    <table class="xera-table">
-                        <thead>
-                            <tr>
-                                <th>Title</th>
-                                <th>Journal</th>
-                                <th>Year</th>
-                                <th>Transparency Score</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for paper in recent_papers %}
-                            <tr>
-                                <td>
-                                                                            <a href="{% url 'tracker:paper_detail' paper.epmc_id %}" class="text-decoration-none">
-                                            {{ paper.title|truncatechars:80 }}
-                                        </a>
-                                </td>
-                                <td>{{ paper.journal.title_abbreviation }}</td>
-                                <td>{{ paper.pub_year }}</td>
-                                <td>
-                                    <span class="ost-transparency-score {% if paper.transparency_score >= 6 %}high{% elif paper.transparency_score >= 3 %}medium{% else %}low{% endif %}">
-                                        {{ paper.transparency_score }}/7
-                                    </span>
-                                </td>
-                            </tr>
-                            {% empty %}
-                            <tr>
-                                <td colspan="4" class="text-center text-muted">No recent papers available</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-                
-                <div class="text-center mt-4">
-                    <a href="{% url 'tracker:paper_list' %}" class="xera-btn xera-btn-primary">
-                        View All Papers <i class="fas fa-arrow-right ms-1"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Top Journals -->
-<section class="my-5">
-    <div class="xera-container">
-        <div class="xera-card">
-            <div class="xera-card-header">
-                <h2 class="xera-card-title">
-                    <i class="fas fa-star me-2"></i>
-                    Top Journals by Paper Count
-                </h2>
-            </div>
-            <div class="xera-card-body">
-                <div class="row">
-                    {% for journal in top_journals %}
-                    <div class="col-md-6 col-lg-4 mb-3">
-                        <div class="ost-journal-card">
-                            <h4 class="xera-font-semibold mb-2">
-                                <a href="{% url 'tracker:journal_detail' journal.id %}" class="text-decoration-none text-dark">
-                                    {{ journal.title_abbreviation }}
-                                </a>
-                            </h4>
-                            <p class="text-muted mb-1">{{ journal.title_full|truncatechars:60 }}</p>
-                            <p class="xera-text-sm mb-0">
-                                <span class="xera-badge xera-badge-primary">{{ journal.paper_count }} papers</span>
-                            </p>
+        <div class="prct-stats-overview">
+            <h2 class="text-center mb-4">Database Overview</h2>
+            <div class="prct-stats-grid">
+                <a href="{% url 'tracker:paper_list' %}" class="text-decoration-none">
+                    <div class="prct-stat-card">
+                        <div class="text-center">
+                            <i class="fas fa-file-alt fa-3x text-primary mb-3"></i>
+                            <h3 class="prct-stat-number">{{ total_papers|default:0 }}</h3>
+                            <p class="prct-stat-label">Research Papers</p>
                         </div>
                     </div>
-                    {% empty %}
-                    <div class="text-center text-muted">No journal data available</div>
-                    {% endfor %}
-                </div>
+                </a>
                 
-                <div class="text-center mt-4">
-                    <a href="{% url 'tracker:journal_list' %}" class="xera-btn xera-btn-secondary">
-                        View All Journals <i class="fas fa-arrow-right ms-1"></i>
-                    </a>
-                </div>
+                <a href="{% url 'tracker:paper_list' %}?is_open_data=True" class="text-decoration-none">
+                    <div class="prct-stat-card">
+                        <div class="text-center">
+                            <i class="fas fa-database fa-3x text-success mb-3"></i>
+                            <h3 class="prct-stat-number">{{ data_sharing_count|default:0 }}</h3>
+                            <p class="prct-stat-label">Open Data<br><small>({{ data_sharing_pct|floatformat:1|default:"0" }}%)</small></p>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="{% url 'tracker:paper_list' %}?is_open_code=True" class="text-decoration-none">
+                    <div class="prct-stat-card">
+                        <div class="text-center">
+                            <i class="fas fa-code fa-3x text-info mb-3"></i>
+                            <h3 class="prct-stat-number">{{ code_sharing_count|default:0 }}</h3>
+                            <p class="prct-stat-label">Open Code<br><small>({{ code_sharing_pct|floatformat:1|default:"0" }}%)</small></p>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="{% url 'tracker:paper_list' %}?is_preregistered=True" class="text-decoration-none">
+                    <div class="prct-stat-card">
+                        <div class="text-center">
+                            <i class="fas fa-clipboard-list fa-3x text-warning mb-3"></i>
+                            <h3 class="prct-stat-number">{{ registration_count|default:0 }}</h3>
+                            <p class="prct-stat-label">Pre-registered<br><small>({{ registration_pct|floatformat:1|default:"0" }}%)</small></p>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
 </section>
 
-<!-- Call to Action -->
-<section class="my-5" style="background: var(--ost-gradient-accent); color: white; border-radius: 1rem;">
+<!-- Main Content with Tabs -->
+<section class="py-5">
     <div class="xera-container">
-        <div class="xera-card-body text-center">
-            <h2 class="xera-text-2xl xera-font-bold mb-3">
-                Join the Open Science Movement
-            </h2>
-            <p class="xera-text-lg mb-4 opacity-90">
-                Use OST data to advance transparency in your research field. 
-                Access comprehensive datasets, explore trends, and contribute to reproducible science.
-            </p>
-            <div class="d-flex gap-3 justify-content-center flex-wrap">
-                <a href="/api/" class="xera-btn" style="background: white; color: var(--xera-primary);">
-                    <i class="fas fa-code me-1"></i>API Documentation
-                </a>
-                <a href="{% url 'tracker:statistics' %}" class="xera-btn xera-btn-outline" style="border-color: white; color: white;">
-                    <i class="fas fa-chart-bar me-1"></i>View Statistics
-                </a>
-                <a href="mailto:ahmad.pub@gmail.com" class="xera-btn xera-btn-outline" style="border-color: white; color: white;">
-                    <i class="fas fa-envelope me-1"></i>Contact Us
-                </a>
+        <div class="row">
+            <div class="col-lg-8">
+                <!-- Tab Navigation -->
+                <div class="xera-card mb-4">
+                    <div class="xera-card-header">
+                        <ul class="nav nav-tabs xera-nav-tabs" id="homeContentTabs" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="recent-papers-tab" data-bs-toggle="tab" data-bs-target="#recent-papers" type="button" role="tab">
+                                    <i class="fas fa-clock text-primary me-2"></i>Recent Papers
+                                </button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="top-journals-tab" data-bs-toggle="tab" data-bs-target="#top-journals" type="button" role="tab">
+                                    <i class="fas fa-journal-whills text-secondary me-2"></i>Top Journals
+                                </button>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                    <!-- Tab Content -->
+                    <div class="xera-card-body">
+                        <div class="tab-content" id="homeContentTabsContent">
+                            <!-- Recent Papers Tab -->
+                            <div class="tab-pane fade show active" id="recent-papers" role="tabpanel">
+                                {% if recent_papers %}
+                                    {% for paper in recent_papers %}
+                                    <div class="prct-citation-card">
+                                        <div class="d-flex justify-content-between align-items-start mb-2">
+                                            <h5 class="mb-1">
+                                                <a href="{% url 'tracker:paper_detail' paper.id %}" class="text-decoration-none">
+                                                    {{ paper.title|safe_display|truncatechars:120 }}
+                                                </a>
+                                            </h5>
+                                            <!-- Transparency Score Badge -->
+                                            {% if paper.transparency_score %}
+                                                <span class="xera-badge 
+                                                    {% if paper.transparency_score >= 75 %}xera-badge-success
+                                                    {% elif paper.transparency_score >= 50 %}xera-badge-warning  
+                                                    {% else %}xera-badge-danger{% endif %}">
+                                                    {{ paper.transparency_score|floatformat:0 }}% Transparent
+                                                </span>
+                                            {% endif %}
+                                        </div>
+                                        
+                                        <div class="row mb-2">
+                                            <div class="col-md-6">
+                                                <small class="text-muted">
+                                                    <i class="fas fa-user"></i>
+                                                    {{ paper.author_string|safe_display|truncate_authors:60 }}
+                                                </small>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <small class="text-muted">
+                                                    <i class="fas fa-journal-whills"></i>
+                                                    {% if paper.journal %}
+                                                        {{ paper.journal.title_full|truncatechars:40 }}
+                                                    {% else %}
+                                                        Unknown Journal
+                                                    {% endif %}
+                                                </small>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <small class="text-muted">
+                                                    <i class="fas fa-calendar"></i>
+                                                    Published: {{ paper.pub_year|default:"Unknown" }}
+                                                    {% if paper.journal.broad_subject_terms %}
+                                                        <br><i class="fas fa-tag"></i>
+                                                        {{ paper.journal.broad_subject_terms|truncatechars:50 }}
+                                                    {% endif %}
+                                                </small>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <!-- Transparency Indicators -->
+                                                {% if paper.is_open_data %}
+                                                    <span class="xera-badge xera-badge-success me-1">Data</span>
+                                                {% endif %}
+                                                {% if paper.is_open_code %}
+                                                    <span class="xera-badge xera-badge-info me-1">Code</span>
+                                                {% endif %}
+                                                {% if paper.is_preregistered %}
+                                                    <span class="xera-badge xera-badge-warning me-1">Registered</span>
+                                                {% endif %}
+                                                {% if paper.has_funding_pred %}
+                                                    <span class="xera-badge xera-badge-secondary me-1">Funded</span>
+                                                {% endif %}
+                                                {% if paper.pmcid %}
+                                                    <br><small class="text-muted">
+                                                        <i class="fas fa-external-link-alt"></i>
+                                                        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ paper.pmcid|safe_display }}" target="_blank" class="text-decoration-none">PMC</a>
+                                                    </small>
+                                                {% endif %}
+                                            </div>
+                                        </div>
+                                    </div>
+                                    {% endfor %}
+                                    
+                                    <div class="text-center mt-4">
+                                        <a href="{% url 'tracker:paper_list' %}" class="xera-btn xera-btn-primary">
+                                            View All Papers <i class="fas fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                {% else %}
+                                    <div class="prct-alert prct-alert-warning">
+                                        <i class="fas fa-info-circle"></i>
+                                        No papers found. Data may still be loading.
+                                    </div>
+                                {% endif %}
+                            </div>
+                            
+                            <!-- Top Journals Tab -->
+                            <div class="tab-pane fade" id="top-journals" role="tabpanel">
+                                {% if top_journals %}
+                                    {% for journal in top_journals %}
+                                    <div class="prct-citation-card">
+                                        <div class="d-flex justify-content-between align-items-start mb-2">
+                                            <h5 class="mb-1">
+                                                <a href="{% url 'tracker:journal_detail' journal.id %}" class="text-decoration-none">
+                                                    {{ journal.title_full|truncatechars:80 }}
+                                                </a>
+                                            </h5>
+                                            {% if journal.avg_transparency_score %}
+                                                <span class="xera-badge 
+                                                    {% if journal.avg_transparency_score >= 75 %}xera-badge-success
+                                                    {% elif journal.avg_transparency_score >= 50 %}xera-badge-warning  
+                                                    {% else %}xera-badge-danger{% endif %}">
+                                                    {{ journal.avg_transparency_score|floatformat:0 }}% Avg
+                                                </span>
+                                            {% endif %}
+                                        </div>
+                                        
+                                        <div class="row mb-2">
+                                            <div class="col-md-6">
+                                                <small class="text-muted">
+                                                    <i class="fas fa-file-alt"></i>
+                                                    {{ journal.paper_count }} papers in database
+                                                </small>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <small class="text-muted">
+                                                    <i class="fas fa-building"></i>
+                                                    {{ journal.publisher|default:"Unknown Publisher"|truncatechars:40 }}
+                                                </small>
+                                            </div>
+                                        </div>
+                                        
+                                        {% if journal.broad_subject_terms %}
+                                        <div class="mb-2">
+                                            <small>
+                                                <i class="fas fa-tag text-muted"></i>
+                                                <span class="badge bg-light text-dark">{{ journal.broad_subject_terms|truncatechars:60 }}</span>
+                                            </small>
+                                        </div>
+                                        {% endif %}
+                                    </div>
+                                    {% endfor %}
+                                    
+                                    <div class="text-center mt-4">
+                                        <a href="{% url 'tracker:journal_list' %}" class="xera-btn xera-btn-primary">
+                                            View All Journals <i class="fas fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                {% else %}
+                                    <div class="prct-alert prct-alert-warning">
+                                        <i class="fas fa-info-circle"></i>
+                                        No journal data available.
+                                    </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Sidebar -->
+            <div class="col-lg-4">
+                <!-- Quick Stats -->
+                <div class="xera-card mb-4">
+                    <div class="xera-card-header">
+                        <h5 class="mb-0">
+                            <i class="fas fa-chart-bar me-2"></i>Quick Stats
+                        </h5>
+                    </div>
+                    <div class="xera-card-body">
+                        <div class="row text-center">
+                            <div class="col-6 mb-3">
+                                <div class="text-primary">
+                                    <i class="fas fa-database fa-2x"></i>
+                                    <h4 class="mt-2 mb-0">{{ transparency_coverage|floatformat:1|default:"0" }}%</h4>
+                                    <small class="text-muted">Coverage</small>
+                                </div>
+                            </div>
+                            <div class="col-6 mb-3">
+                                <div class="text-success">
+                                    <i class="fas fa-chart-line fa-2x"></i>
+                                    <h4 class="mt-2 mb-0">{{ data_completeness_pct|floatformat:1|default:"0" }}%</h4>
+                                    <small class="text-muted">Complete Data</small>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <hr>
+                        
+                        <div class="text-center">
+                            <small class="text-muted">
+                                <i class="fas fa-calendar"></i>
+                                Last updated: {{ last_update|date:"M d, Y" }}
+                            </small>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Research Fields -->
+                <div class="xera-card">
+                    <div class="xera-card-header">
+                        <h5 class="mb-0">
+                            <i class="fas fa-microscope me-2"></i>Research Fields
+                        </h5>
+                    </div>
+                    <div class="xera-card-body">
+                        {% if research_fields %}
+                            {% for field in research_fields|slice:":5" %}
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <a href="{% url 'tracker:field_detail' field.id %}" class="text-decoration-none">
+                                    {{ field.name|truncatechars:25 }}
+                                </a>
+                                <span class="badge bg-secondary">{{ field.paper_count }} papers</span>
+                            </div>
+                            {% endfor %}
+                            
+                            <div class="text-center mt-3">
+                                <a href="{% url 'tracker:field_list' %}" class="xera-btn xera-btn-outline-primary xera-btn-sm">
+                                    View All Fields
+                                </a>
+                            </div>
+                        {% else %}
+                            <small class="text-muted">No research fields available.</small>
+                        {% endif %}
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </section>
 
-{% endblock %}
+<!-- Add custom styles for PRCT-like design -->
+<style>
+.prct-citation-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+    background: white;
+    transition: box-shadow 0.3s ease;
+}
 
-{% block extra_js %}
-<script>
-// Enhanced search functionality
-document.querySelector('[data-search-debounce]').addEventListener('keypress', function(e) {
-    if (e.key === 'Enter') {
-        this.closest('form').submit();
-    }
-});
+.prct-citation-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
 
-// Year filter functionality for transparency indicators
-document.addEventListener('DOMContentLoaded', function() {
-    const yearFilterForm = document.getElementById('transparency-year-filter');
-    const yearFilterInputs = yearFilterForm.querySelectorAll('input[name="year_filter"]');
-    
-    // Handle year filter change
-    yearFilterInputs.forEach(input => {
-        input.addEventListener('change', function() {
-            if (this.checked) {
-                // Add loading state
-                document.querySelector('.ost-transparency-metrics').style.opacity = '0.6';
-                
-                // Submit form to reload with new filter
-                yearFilterForm.submit();
-            }
-        });
-    });
-    
-    // Add smooth animations for metric cards
-    const metricsObserver = new IntersectionObserver(function(entries) {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.style.opacity = '1';
-                entry.target.style.transform = 'translateY(0)';
-            }
-        });
-    }, {
-        threshold: 0.1,
-        rootMargin: '0px 0px -50px 0px'
-    });
-    
-    document.querySelectorAll('.ost-transparency-metric').forEach((metric, index) => {
-        metric.style.opacity = '0';
-        metric.style.transform = 'translateY(20px)';
-        metric.style.transition = `opacity 0.6s ease ${index * 0.1}s, transform 0.6s ease ${index * 0.1}s`;
-        metricsObserver.observe(metric);
-    });
-});
-</script>
+.prct-alert {
+    padding: 1rem;
+    border-radius: 8px;
+    border: 1px solid;
+}
+
+.prct-alert-warning {
+    background-color: #fff3cd;
+    border-color: #ffeaa7;
+    color: #856404;
+}
+</style>
 {% endblock %} 
